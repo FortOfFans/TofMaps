@@ -1,0 +1,584 @@
+{
+	"Avatar01": {
+		"icon": "avatar_01"
+	},
+	"Avatar02": {
+		"icon": "avatar_02"
+	},
+	"Avatar03": {
+		"icon": "avatar_shali"
+	},
+	"Avatar04": {
+		"icon": "avatar_xiazuo"
+	},
+	"kefu": {
+		"icon": "avatar_10"
+	},
+	"meilier": {
+		"icon": "touxiang_meilier"
+	},
+	"mingjing": {
+		"icon": "touxiang_mingjing"
+	},
+	"Avatar05": {
+		"icon": "avatar_fulijia"
+	},
+	"Avatar06": {
+		"icon": "avatar_naimeixisi"
+	},
+	"Avatar07": {
+		"icon": "avatar_yixisi"
+	},
+	"Avatar08": {
+		"icon": "avatar_xier"
+	},
+	"aige": {
+		"icon": "touxiang_aige"
+	},
+	"bailing": {
+		"icon": "touxiang_bailing"
+	},
+	"gulan": {
+		"icon": "touxiang_gulan"
+	},
+	"hida": {
+		"icon": "touxiang_hilda"
+	},
+	"kekelite": {
+		"icon": "touxiang_kekelite"
+	},
+	"kelaodiya": {
+		"icon": "touxiang_kelaodiya"
+	},
+	"king": {
+		"icon": "touxiang_king"
+	},
+	"lan": {
+		"icon": "touxiang_lan"
+	},
+	"ling": {
+		"icon": "touxiang_ling"
+	},
+	"saimier": {
+		"icon": "touxiang_saimier"
+	},
+	"sifengyuanyu": {
+		"icon": "touxiang_sifengyuanyu"
+	},
+	"peipei": {
+		"icon": "touxiang_susan"
+	},
+	"wuwan": {
+		"icon": "touxiang_wuwan"
+	},
+	"xi": {
+		"icon": "touxiang_xi"
+	},
+	"xiluo": {
+		"icon": "touxiang_xiluo"
+	},
+	"xiuma": {
+		"icon": "touxiang_xiuma"
+	},
+	"yikaluosi": {
+		"icon": "touxiang_yikaluosi"
+	},
+	"yulan": {
+		"icon": "touxiang_yulan"
+	},
+	"Avatar09": {
+		"icon": "Avatar09"
+	},
+	"make": {
+		"icon": "touxiang_make"
+	},
+	"baiyuekui": {
+		"icon": "touxiang_baiyuekui"
+	},
+	"Avatar10": {
+		"icon": "Avatar10"
+	},
+	"Avatar11": {
+		"icon": "Avatar11"
+	},
+	"Avatar12": {
+		"icon": "Avatar12"
+	},
+	"Avatar13": {
+		"icon": "touxiang_zhipu_jixiemao"
+	},
+	"Avatar14": {
+		"icon": "touxiang_zhipu_mao"
+	},
+	"Avatar15": {
+		"icon": "touxiang_zhipu_huli"
+	},
+	"Avatar16": {
+		"icon": "touxiang_zhipu_nangua"
+	},
+	"Avatar17": {
+		"icon": "touxiang_zhipu_gui"
+	},
+	"Avatar18": {
+		"icon": "Avatar18"
+	},
+	"leibei": {
+		"icon": "touxiang_leibei"
+	},
+	"leibiliya": {
+		"icon": "touxiang_leibiliya"
+	},
+	"Avatar19": {
+		"icon": "Avatar19"
+	},
+	"Avatar20": {
+		"icon": "Avatar20"
+	},
+	"Avatar21": {
+		"icon": "Avatar21"
+	},
+	"Avatar22": {
+		"icon": "Avatar22"
+	},
+	"Avatar23": {
+		"icon": "Avatar23"
+	},
+	"Avatar24": {
+		"icon": "Avatar24"
+	},
+	"Avatar25": {
+		"icon": "Avatar25"
+	},
+	"bupoxiao": {
+		"icon": "touxiang_bupoxiao"
+	},
+	"feiouna": {
+		"icon": "touxiang_feiouna"
+	},
+	"breakfate_avatar_monster": {
+		"icon": "boss_head_xiaoguai"
+	},
+	"breakfate_avatar_poison": {
+		"icon": "boss_head_du"
+	},
+	"Boss_hum_007_chiji": {
+		"icon": "boss_head_01"
+	},
+	"Boss_hum_001_chiji": {
+		"icon": "boss_head_02"
+	},
+	"Boss_hum_016_BS_chiji": {
+		"icon": "boss_head_03"
+	},
+	"breakfate_avatar_character": {
+		"icon": "breakfate_avatar_myself"
+	},
+	"breakfate_avatar_other": {
+		"icon": "breakfate_avatar_other"
+	},
+	"Avatar26": {
+		"icon": "Avatar26"
+	},
+	"Avatar27": {
+		"icon": "Avatar27"
+	},
+	"Avatar28": {
+		"icon": "Avatar28"
+	},
+	"Avatar29": {
+		"icon": "Avatar29"
+	},
+	"Avatar30": {
+		"icon": "Avatar30"
+	},
+	"Avatar31": {
+		"icon": "Avatar31"
+	},
+	"Avatar32": {
+		"icon": "Avatar32"
+	},
+	"Avatar33": {
+		"icon": "Avatar33"
+	},
+	"Avatar34": {
+		"icon": "Avatar34"
+	},
+	"Avatar35": {
+		"icon": "Avatar35"
+	},
+	"Avatar36": {
+		"icon": "Avatar_36"
+	},
+	"Avatar37": {
+		"icon": "Avatar_37"
+	},
+	"Avatar37_2": {
+		"icon": "Avatar_37_2"
+	},
+	"Avatar38": {
+		"icon": "Avatar_38"
+	},
+	"Avatar39": {
+		"icon": "Avatar_39"
+	},
+	"Avatar40": {
+		"icon": "Avatar_40"
+	},
+	"Avatar41": {
+		"icon": "Avatar_41"
+	},
+	"Avatar42": {
+		"icon": "Avatar_42"
+	},
+	"Avatar43": {
+		"icon": "Avatar_43"
+	},
+	"Avatar44": {
+		"icon": "Avatar_44"
+	},
+	"Avatar45": {
+		"icon": "Avatar_45"
+	},
+	"Avatar_47": {
+		"icon": "Avatar_47"
+	},
+	"Avatar_48": {
+		"icon": "Avatar_48"
+	},
+	"linye": {
+		"icon": "touxiang_linye"
+	},
+	"liuhuo": {
+		"icon": "touxiang_liuhuo"
+	},
+	"Avatar_Overseas_1": {
+		"icon": "Avatar_TX_Xiazuo_01"
+	},
+	"Avatar_Overseas_2": {
+		"icon": "Avatar_TX_Shali_01"
+	},
+	"Avatar_Overseas_3": {
+		"icon": "Avatar_TX_Naimeixisi_01"
+	},
+	"Avatar_Overseas_4": {
+		"icon": "Avatar_TX_vera_01"
+	},
+	"Avatar_Overseas_5": {
+		"icon": "Avatar_TX_leibei_01"
+	},
+	"Avatar_Overseas_6": {
+		"icon": "Avatar_TX_GFQ_01"
+	},
+	"Avatar_Overseas_7": {
+		"icon": "Avatar_TX_xianrenzhang_01"
+	},
+	"Avatar_Overseas_8": {
+		"icon": "Avatar_TX_luqiya_01"
+	},
+	"Avatar_Overseas_9": {
+		"icon": "Avatar_Overseas_9"
+	},
+	"Avatar_Overseas_10": {
+		"icon": "Avatar_Overseas_10"
+	},
+	"Avatar_Overseas_11": {
+		"icon": "Avatar_Overseas_11"
+	},
+	"Avatar_korea_1": {
+		"icon": "Avatar_KO_Mia_01"
+	},
+	"Avatar_korea_2": {
+		"icon": "Avatar_KO_Naimeixisi_01"
+	},
+	"Avatar_korea_3": {
+		"icon": "Avatar_KO_Shali_01"
+	},
+	"Avatar_korea_4": {
+		"icon": "Avatar_korea_4"
+	},
+	"Avatar_korea_5": {
+		"icon": "Avatar_korea_5"
+	},
+	"Avatar_koreafestival_1": {
+		"icon": "Avatar_koreafestival_1"
+	},
+	"xinghuan": {
+		"icon": "touxiang_xinghuan"
+	},
+	"tianlang": {
+		"icon": "touxiang_tianlang"
+	},
+	"annabeila": {
+		"icon": "touxiang_annabeila"
+	},
+	"Avatar_46": {
+		"icon": "Avatar_46"
+	},
+	"ailisi": {
+		"icon": "touxiang_ailisi"
+	},
+	"wumi": {
+		"icon": "touxiang_wumi"
+	},
+	"fenlier": {
+		"icon": "touxiang_fenlier"
+	},
+	"Avatar_iw_2": {
+		"icon": "Avatar_iw_2"
+	},
+	"Avatar_iw_3": {
+		"icon": "Avatar_iw_3"
+	},
+	"Avatar_iw_4": {
+		"icon": "Avatar_iw_4"
+	},
+	"Avatar_tencent_02": {
+		"icon": "Avatar_tencent_2"
+	},
+	"Avatar_iw_5": {
+		"icon": "Avatar_iw_5"
+	},
+	"fishking_007": {
+		"icon": "touxiang_fishking_007"
+	},
+	"fishking_008": {
+		"icon": "touxiang_fishking_008"
+	},
+	"fishking_009": {
+		"icon": "touxiang_fishking_009"
+	},
+	"fishking_010": {
+		"icon": "touxiang_fishking_010"
+	},
+	"fishking_011": {
+		"icon": "touxiang_fishking_011"
+	},
+	"fishking_012": {
+		"icon": "touxiang_fishking_012"
+	},
+	"fishking_013": {
+		"icon": "touxiang_fishking_013"
+	},
+	"fishking_014": {
+		"icon": "touxiang_fishking_014"
+	},
+	"fishking_015": {
+		"icon": "touxiang_fishking_015"
+	},
+	"fishking_016": {
+		"icon": "touxiang_fishking_016"
+	},
+	"fishking_017": {
+		"icon": "touxiang_fishking_017"
+	},
+	"fishking_018": {
+		"icon": "touxiang_fishking_018"
+	},
+	"fishking_019": {
+		"icon": "touxiang_fishking_019"
+	},
+	"fishking_020": {
+		"icon": "touxiang_fishking_020"
+	},
+	"fishking_021": {
+		"icon": "touxiang_fishking_021"
+	},
+	"fishking_022": {
+		"icon": "touxiang_fishking_022"
+	},
+	"fishking_023": {
+		"icon": "touxiang_fishking_023"
+	},
+	"fishking_024": {
+		"icon": "touxiang_fishking_024"
+	},
+	"fishking_025": {
+		"icon": "touxiang_fishking_025"
+	},
+	"fishking_026": {
+		"icon": "touxiang_fishking_026"
+	},
+	"fishking_027": {
+		"icon": "touxiang_fishking_027"
+	},
+	"fishking_028": {
+		"icon": "touxiang_fishking_028"
+	},
+	"fishking_029": {
+		"icon": "touxiang_fishking_029"
+	},
+	"fishking_030": {
+		"icon": "touxiang_fishking_030"
+	},
+	"fishking_031": {
+		"icon": "touxiang_fishking_031"
+	},
+	"fishking_032": {
+		"icon": "touxiang_fishking_032"
+	},
+	"fishking_033": {
+		"icon": "touxiang_fish_040"
+	},
+	"fishking_034": {
+		"icon": "touxiang_fish_033"
+	},
+	"fishking_035": {
+		"icon": "touxiang_fish_034"
+	},
+	"fishking_036": {
+		"icon": "touxiang_fish_035"
+	},
+	"fishking_037": {
+		"icon": "touxiang_fish_036"
+	},
+	"fishking_038": {
+		"icon": "touxiang_fish_037"
+	},
+	"fishking_039": {
+		"icon": "touxiang_fish_038"
+	},
+	"fishking_040": {
+		"icon": "touxiang_fish_039"
+	},
+	"genuonuo": {
+		"icon": "touxiang_genuonuo"
+	},
+	"Avatar_Overseas_12": {
+		"icon": "Avatar_Overseas_12"
+	},
+	"Avatar_Overseas_13": {
+		"icon": "Avatar_Overseas_13"
+	},
+	"Avatar_Overseas_14": {
+		"icon": "Avatar_Overseas_14"
+	},
+	"Avatar_tencentfestival_1": {
+		"icon": "Avatar_tencentfestival_1"
+	},
+	"Avatar_tencentfestival_2": {
+		"icon": "Avatar_tencentfestival_2"
+	},
+	"Avatar_HalfAnniversary_os_1": {
+		"icon": "Avatar_HalfAnniversary_os_1"
+	},
+	"Avatar_Overseas_15": {
+		"icon": "Avatar_Overseas_15"
+	},
+	"Avatar_Overseas_16": {
+		"icon": "Avatar_Overseas_16"
+	},
+	"Avatar_Overseas_17": {
+		"icon": "Avatar_Overseas_17"
+	},
+	"Avatar_49": {
+		"icon": "Avatar_49"
+	},
+	"Avatar_50": {
+		"icon": "Avatar_50"
+	},
+	"Avatar_51": {
+		"icon": "avatar_f401"
+	},
+	"Avatar_52": {
+		"icon": "Avatar_52"
+	},
+	"Avatar_53": {
+		"icon": "Avatar_53"
+	},
+	"Avatar_54": {
+		"icon": "Avatar_54"
+	},
+	"Avatar_55": {
+		"icon": "Avatar_55"
+	},
+	"Avatar_56": {
+		"icon": "Avatar_56"
+	},
+	"Avatar_57": {
+		"icon": "Avatar_57"
+	},
+	"Avatar_58": {
+		"icon": "Avatar_58"
+	},
+	"Avatar_59": {
+		"icon": "Avatar_59"
+	},
+	"Avatar_60": {
+		"icon": "Avatar_60"
+	},
+	"Avatar_85": {
+		"icon": "Avatar_85"
+	},
+	"Avatar_86": {
+		"icon": "Avatar_86"
+	},
+	"Avatar_87": {
+		"icon": "Avatar_87"
+	},
+	"Avatar_88": {
+		"icon": "Avatar_88"
+	},
+	"Avatar_89": {
+		"icon": "Avatar_89"
+	},
+	"Avatar_90": {
+		"icon": "Avatar_90"
+	},
+	"Avatar_91": {
+		"icon": "Avatar_91"
+	},
+	"Avatar_92": {
+		"icon": "Avatar_92"
+	},
+	"Avatar_93": {
+		"icon": "Avatar_93"
+	},
+	"Avatar_94": {
+		"icon": "Avatar_94"
+	},
+	"Avatar_95": {
+		"icon": "Avatar_95"
+	},
+	"Avatar_korea_shequnos_01": {
+		"icon": "Avatar_korea_shequnos_01"
+	},
+	"Avatar_Overseas_18": {
+		"icon": "Avatar_Overseas_18"
+	},
+	"Avatar_Overseas_19": {
+		"icon": "Avatar_Overseas_19"
+	},
+	"Avatar_Overseas_20": {
+		"icon": "Avatar_Overseas_20"
+	},
+	"Avatar_txtaqing_os01": {
+		"icon": "Avatar_txtaqing_os01"
+	},
+	"Avatar_txxunhai_os01": {
+		"icon": "Avatar_txxunhai_os01"
+	},
+	"Avatar_Overseas_21": {
+		"icon": "Avatar_Overseas_21"
+	},
+	"Avatar_Overseas_22": {
+		"icon": "Avatar_Overseas_22"
+	},
+	"Avatar_suoni": {
+		"icon": "Avatar_suoni"
+	},
+	"Avatar_Overseas_23": {
+		"icon": "Avatar_Overseas_23"
+	},
+	"Avatar_Overseas_24": {
+		"icon": "Avatar_Overseas_24"
+	},
+	"Avatar_iwplayoffline_01": {
+		"icon": "Avatar_iwplayoffline_01"
+	},
+	"Avatar_Overseas_25": {
+		"icon": "Avatar_Overseas_25"
+	},
+	"Avatar_Overseas_Anniversary01": {
+		"icon": "Avatar_Overseas_Anniversary01"
+	}
+}

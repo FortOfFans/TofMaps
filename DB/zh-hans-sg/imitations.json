@@ -1,0 +1,603 @@
+{
+	"imitation_51": {
+		"name": "妃色",
+		"description": "无记录",
+		"advanceId": "imitation_51L1",
+		"weapon": "feise_fire",
+		"icon": "imitation_51",
+		"avatarID": "feise",
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"name": "默利尼娅",
+		"description": "无记录",
+		"advanceId": "imitation_33L1",
+		"weapon": "None",
+		"icon": "imitation_21",
+		"avatarID": "morrina",
+		"id": "imitation_33"
+	},
+	"imitation_41": {
+		"name": "篁",
+		"description": "无记录",
+		"advanceId": "imitation_41L1",
+		"weapon": "mimi_thunder",
+		"icon": "imitation_41",
+		"avatarID": "mimi",
+		"id": "imitation_41"
+	},
+	"imitation_50": {
+		"name": "明景",
+		"description": "无记录",
+		"advanceId": "imitation_50L1",
+		"weapon": "Zeke_physic",
+		"icon": "imitation_50",
+		"avatarID": "mingjing",
+		"id": "imitation_50"
+	},
+	"imitation_38": {
+		"name": "玉兰",
+		"description": "无记录",
+		"advanceId": "imitation_38L1",
+		"weapon": "yulan_ice",
+		"icon": "imitation_38",
+		"avatarID": "yulan",
+		"id": "imitation_38"
+	},
+	"imitation_37": {
+		"name": "榴火",
+		"description": "无记录",
+		"advanceId": "imitation_37L1",
+		"weapon": "brush_fire",
+		"icon": "imitation_37",
+		"avatarID": "liuhuo",
+		"id": "imitation_37"
+	},
+	"imitation_48": {
+		"name": "蕾比莉亚",
+		"description": "无记录",
+		"advanceId": "imitation_48L1",
+		"weapon": "Rubilia_thunder",
+		"icon": "imitation_48",
+		"avatarID": "leibiliya",
+		"id": "imitation_48"
+	},
+	"imitation_27": {
+		"name": "格诺诺",
+		"description": "无记录",
+		"advanceId": "imitation_27L1",
+		"weapon": "Chainsaw_physic",
+		"icon": "imitation_27",
+		"avatarID": "genuonuo",
+		"id": "imitation_27"
+	},
+	"imitation_36": {
+		"name": "菲欧娜",
+		"description": "无记录",
+		"advanceId": "imitation_36L1",
+		"weapon": "queen_superpower",
+		"icon": "imitation_36",
+		"avatarID": "feiouna",
+		"id": "imitation_36"
+	},
+	"imitation_35": {
+		"name": "伊卡洛斯",
+		"description": "无记录",
+		"advanceId": "imitation_35L1",
+		"weapon": "Yoyo_ice",
+		"icon": "imitation_35",
+		"avatarID": "yikaluosi",
+		"id": "imitation_35"
+	},
+	"imitation_34": {
+		"name": "岚",
+		"description": "无记录",
+		"advanceId": "imitation_34L1",
+		"weapon": "umbrella_fire",
+		"icon": "imitation_34",
+		"avatarID": "lan",
+		"id": "imitation_34"
+	},
+	"imitation_32": {
+		"name": "芬璃尔",
+		"description": "无记录",
+		"advanceId": "imitation_32L1",
+		"weapon": "fenrir_thunder",
+		"icon": "imitation_32",
+		"avatarID": "fenlier",
+		"id": "imitation_32"
+	},
+	"imitation_31": {
+		"name": "乌米",
+		"description": "无记录",
+		"advanceId": "imitation_31L1",
+		"weapon": "Whip_physic",
+		"icon": "imitation_31",
+		"avatarID": "wumi",
+		"id": "imitation_31"
+	},
+	"imitation_30": {
+		"name": "艾莉丝",
+		"description": "无记录",
+		"advanceId": "imitation_30L1",
+		"weapon": "iceblade_ice",
+		"icon": "imitation_30",
+		"avatarID": "ailisi",
+		"id": "imitation_30"
+	},
+	"imitation_26": {
+		"name": "安娜贝拉",
+		"description": "无记录",
+		"advanceId": "imitation_26L1",
+		"weapon": "snipe_fire",
+		"icon": "imitation_26",
+		"avatarID": "annabeila",
+		"id": "imitation_26"
+	},
+	"imitation_29": {
+		"name": "天琅",
+		"description": "无记录",
+		"advanceId": "imitation_29L1",
+		"weapon": "tianlang_thunder",
+		"icon": "imitation_29",
+		"avatarID": "tianlang",
+		"id": "imitation_29"
+	},
+	"imitation_24": {
+		"name": "星寰",
+		"description": "无记录",
+		"advanceId": "imitation_24L1",
+		"weapon": "arm_physic",
+		"icon": "imitation_24",
+		"avatarID": "xinghuan",
+		"id": "imitation_24"
+	},
+	"imitation_23": {
+		"name": "凛夜",
+		"description": "无记录",
+		"advanceId": "imitation_23L1",
+		"weapon": "fan_superpower",
+		"icon": "imitation_23",
+		"avatarID": "linye",
+		"id": "imitation_23"
+	},
+	"imitation_22": {
+		"name": "不破咲",
+		"description": "无记录",
+		"advanceId": "imitation_22L1",
+		"weapon": "Dkatana_ice",
+		"icon": "imitation_22",
+		"avatarID": "bupoxiao",
+		"id": "imitation_22"
+	},
+	"imitation_21": {
+		"name": "蕾贝",
+		"description": "无记录",
+		"advanceId": "imitation_21L1",
+		"weapon": "funnel_fire",
+		"icon": "imitation_21",
+		"avatarID": "leibei",
+		"id": "imitation_21"
+	},
+	"imitation_28": {
+		"name": "弗丽嘉",
+		"description": "无记录",
+		"advanceId": "imitation_28L1",
+		"weapon": "Frigg_ice",
+		"icon": "imitation_28",
+		"avatarID": "Avatar12",
+		"id": "imitation_28"
+	},
+	"imitation_17": {
+		"name": "奈美西斯",
+		"description": "无记录",
+		"advanceId": "imitation_17L1",
+		"weapon": "Suspension_thunder",
+		"icon": "imitation_17",
+		"avatarID": "Avatar06",
+		"id": "imitation_17"
+	},
+	"imitation_1": {
+		"name": "零",
+		"description": "无记录",
+		"advanceId": "imitation_1L1",
+		"weapon": "cube_fire",
+		"icon": "imitation_1",
+		"avatarID": "ling",
+		"id": "imitation_1"
+	},
+	"imitation_2": {
+		"name": "烯",
+		"description": "无记录",
+		"weapon": "hammer_ice",
+		"icon": "imitation_2",
+		"avatarID": "xi",
+		"id": "imitation_2"
+	},
+	"imitation_3": {
+		"name": "梅丽尔",
+		"description": "无记录",
+		"advanceId": "imitation_3L1",
+		"weapon": "bigsword_ice",
+		"icon": "imitation_3",
+		"avatarID": "meilier",
+		"id": "imitation_3"
+	},
+	"imitation_4": {
+		"name": "爱歌",
+		"description": "无记录",
+		"weapon": "spear_thunder",
+		"icon": "imitation_4",
+		"avatarID": "aige",
+		"id": "imitation_4"
+	},
+	"imitation_5": {
+		"name": "赛弥尔",
+		"description": "无记录",
+		"advanceId": "imitation_5L1",
+		"weapon": "dgun_thunder",
+		"icon": "imitation_5",
+		"avatarID": "saimier",
+		"id": "imitation_5"
+	},
+	"imitation_6": {
+		"name": "修玛",
+		"description": "无记录",
+		"advanceId": "imitation_6L1",
+		"weapon": "ShieldAxe_Fire",
+		"icon": "imitation_6",
+		"avatarID": "xiuma",
+		"id": "imitation_6"
+	},
+	"imitation_7": {
+		"name": "四枫院羽",
+		"description": "无记录",
+		"advanceId": "imitation_7L1",
+		"weapon": "bow_ice",
+		"icon": "imitation_7",
+		"avatarID": "sifengyuanyu",
+		"id": "imitation_7"
+	},
+	"imitation_8": {
+		"name": "西萝",
+		"description": "无记录",
+		"advanceId": "imitation_8L1",
+		"weapon": "darts_physic",
+		"icon": "imitation_8",
+		"avatarID": "xiluo",
+		"id": "imitation_8"
+	},
+	"imitation_9": {
+		"name": "KING",
+		"description": "无记录",
+		"advanceId": "imitation_9L1",
+		"weapon": "sickle_fire",
+		"icon": "imitation_9",
+		"avatarID": "KING",
+		"id": "imitation_9"
+	},
+	"imitation_10": {
+		"name": "钴蓝",
+		"description": "无记录",
+		"advanceId": "imitation_10L1",
+		"weapon": "gun_fire",
+		"icon": "imitation_10",
+		"avatarID": "gulan",
+		"id": "imitation_10"
+	},
+	"imitation_11": {
+		"name": "可可丽特",
+		"description": "无记录",
+		"advanceId": "imitation_11L1",
+		"weapon": "stave_ice",
+		"icon": "imitation_11",
+		"avatarID": "kekelite",
+		"id": "imitation_11"
+	},
+	"imitation_12": {
+		"name": "克劳迪娅",
+		"description": "无记录",
+		"advanceId": "imitation_12L1",
+		"weapon": "sword_physic",
+		"icon": "imitation_12",
+		"avatarID": "kelaodiya",
+		"id": "imitation_12"
+	},
+	"imitation_13": {
+		"name": "乌丸",
+		"description": "无记录",
+		"advanceId": "imitation_13L1",
+		"weapon": "digger_thunder",
+		"icon": "imitation_13",
+		"avatarID": "wuwan",
+		"id": "imitation_13"
+	},
+	"imitation_14": {
+		"name": "佩·佩",
+		"description": "无记录",
+		"weapon": "stave_thunder",
+		"icon": "imitation_14",
+		"avatarID": "peipei",
+		"id": "imitation_14"
+	},
+	"imitation_15": {
+		"name": "希尔达",
+		"description": "无记录",
+		"weapon": "cannon_ice",
+		"icon": "imitation_15",
+		"avatarID": "hida",
+		"id": "imitation_15"
+	},
+	"imitation_16": {
+		"name": "白伶",
+		"description": "无记录",
+		"weapon": "bow_physic",
+		"icon": "imitation_16",
+		"avatarID": "bailing",
+		"id": "imitation_16"
+	},
+	"imitation_1L1": {
+		"name": "零",
+		"description": "无记录",
+		"weapon": "cube_fire",
+		"icon": "erjie_imitation_1",
+		"avatarID": "ling",
+		"id": "imitation_1L1"
+	},
+	"imitation_3L1": {
+		"name": "梅丽尔",
+		"description": "在沃兰雪原出生，一生都在渴望离开雪原，环游世界。但在14岁那年，自己所在的避难所突发雪崩，父母均死于那场雪崩，唯独被护在身下的自己活了下来。之后被过来传教的神代教所救，在教会生活了4年后，被选为教会的代行者，消除教会内的异端。",
+		"weapon": "bigsword_ice",
+		"icon": "erjie_imitation_3",
+		"avatarID": "None",
+		"id": "imitation_3L1"
+	},
+	"imitation_5L1": {
+		"name": "赛弥尔",
+		"description": "在沃兰雪原出生，一生都在渴望离开雪原，环游世界。但在14岁那年，自己所在的避难所突发雪崩，父母均死于那场雪崩，唯独被护在身下的自己活了下来。之后被过来传教的神代教所救，在教会生活了4年后，被选为教会的代行者，消除教会内的异端。",
+		"weapon": "dgun_thunder",
+		"icon": "erjie_imitation_5",
+		"avatarID": "None",
+		"id": "imitation_5L1"
+	},
+	"imitation_6L1": {
+		"name": "修玛",
+		"description": "在沃兰雪原出生，一生都在渴望离开雪原，环游世界。但在14岁那年，自己所在的避难所突发雪崩，父母均死于那场雪崩，唯独被护在身下的自己活了下来。之后被过来传教的神代教所救，在教会生活了4年后，被选为教会的代行者，消除教会内的异端。",
+		"weapon": "ShieldAxe_Fire",
+		"icon": "erjie_imitation_6",
+		"avatarID": "None",
+		"id": "imitation_6L1"
+	},
+	"imitation_7L1": {
+		"name": "四枫院羽",
+		"description": "在沃兰雪原出生，一生都在渴望离开雪原，环游世界。但在14岁那年，自己所在的避难所突发雪崩，父母均死于那场雪崩，唯独被护在身下的自己活了下来。之后被过来传教的神代教所救，在教会生活了4年后，被选为教会的代行者，消除教会内的异端。",
+		"weapon": "bow_ice",
+		"icon": "erjie_imitation_7",
+		"avatarID": "sifengyuanyu",
+		"id": "imitation_7L1"
+	},
+	"imitation_8L1": {
+		"name": "西萝",
+		"description": "在沃兰雪原出生，一生都在渴望离开雪原，环游世界。但在14岁那年，自己所在的避难所突发雪崩，父母均死于那场雪崩，唯独被护在身下的自己活了下来。之后被过来传教的神代教所救，在教会生活了4年后，被选为教会的代行者，消除教会内的异端。",
+		"weapon": "darts_physic",
+		"icon": "erjie_imitation_8",
+		"avatarID": "None",
+		"id": "imitation_8L1"
+	},
+	"imitation_9L1": {
+		"name": "KING",
+		"description": "无记录",
+		"weapon": "sickle_fire",
+		"icon": "erjie_imitation_9",
+		"avatarID": "KING",
+		"id": "imitation_9L1"
+	},
+	"imitation_10L1": {
+		"name": "钴蓝",
+		"description": "在沃兰雪原出生，一生都在渴望离开雪原，环游世界。但在14岁那年，自己所在的避难所突发雪崩，父母均死于那场雪崩，唯独被护在身下的自己活了下来。之后被过来传教的神代教所救，在教会生活了4年后，被选为教会的代行者，消除教会内的异端。",
+		"weapon": "gun_fire",
+		"icon": "erjie_imitation_10",
+		"avatarID": "None",
+		"id": "imitation_10L1"
+	},
+	"imitation_11L1": {
+		"name": "可可丽特",
+		"description": "在沃兰雪原出生，一生都在渴望离开雪原，环游世界。但在14岁那年，自己所在的避难所突发雪崩，父母均死于那场雪崩，唯独被护在身下的自己活了下来。之后被过来传教的神代教所救，在教会生活了4年后，被选为教会的代行者，消除教会内的异端。",
+		"weapon": "stave_ice",
+		"icon": "erjie_imitation_11",
+		"avatarID": "None",
+		"id": "imitation_11L1"
+	},
+	"imitation_12L1": {
+		"name": "克劳迪娅",
+		"description": "无记录",
+		"weapon": "sword_physic",
+		"icon": "erjie_imitation_12",
+		"avatarID": "kelaodiya",
+		"id": "imitation_12L1"
+	},
+	"imitation_13L1": {
+		"name": "乌丸",
+		"description": "无记录",
+		"weapon": "digger_thunder",
+		"icon": "erjie_imitation_13",
+		"avatarID": "wuwan",
+		"id": "imitation_13L1"
+	},
+	"imitation_17L1": {
+		"name": "奈美西斯",
+		"description": "无记录",
+		"weapon": "Suspension_thunder",
+		"icon": "erjie_imitation_17",
+		"avatarID": "naimeixisi",
+		"id": "imitation_17L1"
+	},
+	"imitation_28L1": {
+		"name": "弗丽嘉",
+		"description": "无记录",
+		"advanceId": "None",
+		"weapon": "Frigg_ice",
+		"icon": "erjie_imitation_28",
+		"avatarID": "fulijia",
+		"id": "imitation_28L1"
+	},
+	"imitation_22L1": {
+		"name": "不破咲",
+		"description": "无记录",
+		"advanceId": "imitation_22L1",
+		"weapon": "Dkatana_ice",
+		"icon": "erjie_imitation_22",
+		"avatarID": "bupoxiao",
+		"id": "imitation_22L1"
+	},
+	"imitation_23L1": {
+		"name": "凛夜",
+		"description": "无记录",
+		"weapon": "fan_superpower",
+		"icon": "erjie_imitation_23",
+		"avatarID": "linye",
+		"id": "imitation_23L1"
+	},
+	"imitation_21L1": {
+		"name": "蕾贝",
+		"description": "无记录",
+		"weapon": "funnel_fire",
+		"icon": "imitation_21L1",
+		"avatarID": "leibei",
+		"id": "imitation_21L1"
+	},
+	"imitation_24L1": {
+		"name": "星寰",
+		"description": "无记录",
+		"weapon": "arm_physicLV3",
+		"icon": "imitation_24L1",
+		"avatarID": "xinghuan",
+		"id": "imitation_24L1"
+	},
+	"imitation_26L1": {
+		"name": "安娜贝拉",
+		"description": "无记录",
+		"weapon": "snipe_fire",
+		"icon": "erjie_imitation_26",
+		"avatarID": "Annabella",
+		"id": "imitation_26L1"
+	},
+	"imitation_29L1": {
+		"name": "天琅",
+		"description": "无记录",
+		"advanceId": "imitation_29L1",
+		"weapon": "tianlang_thunder_Level3",
+		"icon": "erjie_imitation_29",
+		"avatarID": "tianlang",
+		"id": "imitation_29L1"
+	},
+	"imitation_32L1": {
+		"name": "芬璃尔",
+		"description": "无记录",
+		"advanceId": "imitation_32L1",
+		"weapon": "fenrir_thunder_lv3",
+		"icon": "erjie_imitation_32",
+		"avatarID": "fenlier",
+		"id": "imitation_32L1"
+	},
+	"imitation_30L1": {
+		"name": "艾莉丝",
+		"description": "无记录",
+		"advanceId": "imitation_30L1",
+		"weapon": "iceblade_ice_lv3",
+		"icon": "erjie_imitation_30",
+		"avatarID": "ailisi",
+		"id": "imitation_30L1"
+	},
+	"imitation_34L1": {
+		"name": "岚",
+		"description": "无记录",
+		"advanceId": "imitation_34L1",
+		"weapon": "umbrella_fire_lv3",
+		"icon": "erjie_imitation_34",
+		"avatarID": "lan",
+		"id": "imitation_34L1"
+	},
+	"imitation_31L1": {
+		"name": "乌米",
+		"description": "无记录",
+		"advanceId": "imitation_31L1",
+		"weapon": "Whip_physic_lv3",
+		"icon": "erjie_imitation_31",
+		"avatarID": "wumi",
+		"id": "imitation_31L1"
+	},
+	"imitation_35L1": {
+		"name": "伊卡洛斯",
+		"description": "无记录",
+		"weapon": "Yoyo_ice_Level3",
+		"icon": "erjie_imitation_35",
+		"avatarID": "Icarus",
+		"id": "imitation_35L1"
+	},
+	"imitation_36L1": {
+		"name": "菲欧娜",
+		"description": "无记录",
+		"weapon": "queen_superpower_lv3",
+		"icon": "erjie_imitation_36",
+		"avatarID": "feiouna",
+		"id": "imitation_36L1"
+	},
+	"imitation_27L1": {
+		"name": "格诺诺",
+		"description": "无记录",
+		"weapon": "Chainsaw_physic_lv3",
+		"icon": "imitation_27_2",
+		"avatarID": "genuonuo",
+		"id": "imitation_27L1"
+	},
+	"imitation_38L1": {
+		"name": "玉兰",
+		"description": "无记录",
+		"advanceId": "None",
+		"weapon": "yulan_ice_lv3",
+		"icon": "erjie_imitation_38",
+		"avatarID": "yulan",
+		"id": "imitation_38L1"
+	},
+	"imitation_48L1": {
+		"name": "蕾比莉亚",
+		"description": "无记录",
+		"weapon": "Rubilia_thunder_Level3",
+		"icon": "erjie_imitation_48",
+		"avatarID": "leibiliya",
+		"id": "imitation_48L1"
+	},
+	"imitation_37L1": {
+		"name": "榴火",
+		"description": "无记录",
+		"weapon": "brush_fire_lv3",
+		"icon": "erjie_imitation_37",
+		"avatarID": "feiouna",
+		"id": "imitation_37L1"
+	},
+	"imitation_41L1": {
+		"name": "篁",
+		"description": "无记录",
+		"weapon": "mimi_thunder_lv3",
+		"icon": "erjie_imitation_41",
+		"avatarID": "mimi",
+		"id": "imitation_41L1"
+	},
+	"imitation_50L1": {
+		"name": "明景",
+		"description": "无记录",
+		"weapon": "Zeke_physic_Level3",
+		"icon": "erjie_imitation_50",
+		"avatarID": "mingjing",
+		"id": "imitation_50L1"
+	},
+	"imitation_51L1": {
+		"name": "妃色",
+		"description": "无记录",
+		"weapon": "feise_fire_lv3",
+		"icon": "erjie_imitation_51",
+		"avatarID": "feise",
+		"id": "imitation_51L1"
+	}
+}
