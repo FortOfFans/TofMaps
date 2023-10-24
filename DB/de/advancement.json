@@ -1654,6 +1654,107 @@
 			"charge": 8
 		}
 	},
+	"Linghan_ice_ssr_star_0": {
+		"advancement": "<shuzhi>Frostresonanz</>: Erhöht den Frost-ANG um <shuzhi>15%</> und den Frostwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Extreme Kälte: Entladen</>: Nach Verwendung von <shuzhi>Schwertkunst: Schatteneis</> wird <shuzhi>{4}</> Sek. lang jede Sekunde Schaden in Höhe von <shuzhi>{0}%</> des Frost-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens verursacht. Mehrfacher Entladungsschaden wird nicht gestapelt und Schaden von „Extreme Kälte“ zählt als Fähigkeitsschaden. Wenn <shuzhi>1</> Volt-/Flammen-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Extreme Kälte“ um das <shuzhi>{5}</>-fache multipliziert. Außerdem wird der Schaden von „Extreme Kälte“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanJiHanDamageCoeffIceATK",
+			"LinghanJiHanDamageCoeffMaxHP",
+			"LinghanJiHanDamageCoeffDefSum",
+			"LinghanJiHanDamageCoeffCrit",
+			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
+			"LinghanJiHanDamageCoeffAdv"
+		],
+		"cost": 0,
+		"need": "None",
+		"needamt": null,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_1": {
+		"advancement": "Nach dem Abfeuern von <shuzhi>Frostklingen</> wird der Frost-ANG des Wanderers um <shuzhi>{0}%</> erhöht und Zielen in der Nähe wird für <shuzhi>{1}</> Sek. jede Sekunde Schaden in Höhe von <shuzhi>104%</> des ANG zugefügt.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Effect_L1_IceAtkUp",
+			"Buff_Linghan_Effect_L1_Duration"
+		],
+		"cost": 1000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_2": {
+		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
+		"numbers": [],
+		"cost": 2000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_3": {
+		"advancement": "Der Wanderer kann bis zu <shuzhi>4</> <shuzhi>Frostklingen</> erzeugen und der Basismultiplikator des Schadens von <shuzhi>Temperaturabfall</> wird auf <shuzhi>468%</> erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von <shuzhi>{0}</> Sek. von <shuzhi>Temperaturabfall</> betroffen ist, wird dem Ziel zusätzlich ein <shuzhi>Adersiegel</> zugefügt, wodurch es um <shuzhi>{1}%</> verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von <shuzhi>Adersiegel</> erneut Schaden durch <shuzhi>Frostklinge</> erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von <shuzhi>{2}%</> des ANG + <shuzhi>{3}%</> der zu diesem Zeitpunkt verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als <shuzhi>{4}%</> und nicht höher als <shuzhi>{5}%</> des Frost-ANG des Wanderers). Anschließend werden die Effekte von <shuzhi>Adersiegel</> und <shuzhi>Temperaturabfall</> vom Ziel entfernt.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Frostbite_DelayAdd_Period",
+			"Buff_Linghan_TargetSpeedDown",
+			"IceBoomAtkCoeff",
+			"IceBoomHPCoeff",
+			"IceBoomMinAtkCoeff",
+			"IceBoomMaxAtkCoeff"
+		],
+		"cost": 4000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_4": {
+		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
+		"numbers": [],
+		"cost": 6000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_5": {
+		"advancement": "Der von <shuzhi>Kristallriss</> und <shuzhi>Kalte Luft</> verursachte Schaden wird zusätzlich um <shuzhi>50%</> erhöht. Die Einsatzversuche von <shuzhi>Leichte Schritte</> werden auf <shuzhi>{1}</> erhöht und die Wiederherstellungsrate wird alle <shuzhi>{0}</> Sek. auf <shuzhi>1</> Versuch erhöht.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanQinggongPeriodL5",
+			"LinghanQinggongMaxL5"
+		],
+		"cost": 9000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_6": {
+		"advancement": "Nach dem Einsatz von <shuzhi>Frostklingen</> wird der Effekt von <shuzhi>Temperaturabfall</> auf ein Gebiet angewendet. Zudem fügt er Zielen in der Nähe zusätzlichen Schaden in Höhe von <shuzhi>1170%</> des ANG zu.",
+		"numbers": [],
+		"cost": 13500,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
 	"Suspension_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Voltresonanz</>: Erhöht den Volt-ANG um <shuzhi>15%</> und den Voltwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Voltsegnung</>: Erhöht den Volt-ANG des gesamten Teams um <shuzhi>5%</>, wenn Segnungsresonanz aktiv ist.",
 		"numbers": [],
@@ -3755,7 +3856,7 @@
 		}
 	},
 	"feise_fire_ssr_star_0": {
-		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht den Flammen-ANG um <shuzhi>15%</> und den Flammenwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Flammenexplosion: Schneller Hieb</>: Wenn <shuzhi>Endlose Blüte</> ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von <shuzhi>{0}%</> des Flammen-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle <shuzhi>0,5</> Sekunden zusätzlich um das <shuzhi>1</>-fache erhöht, bis zu einem Maximum von <shuzhi>30</>-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn <shuzhi>1</> Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das <shuzhi>{4}</>-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht den Flammen-ANG um <shuzhi>20%</> und den Flammenwiderstand um <shuzhi>40%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n<shuzhi>Flammenexplosion: Schneller Hieb</>: Wenn <shuzhi>Endlose Blüte</> ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von <shuzhi>{0}%</> des Flammen-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle <shuzhi>0,5</> Sekunden zusätzlich um das <shuzhi>1</>-fache erhöht, bis zu einem Maximum von <shuzhi>30</>-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn <shuzhi>1</> Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das <shuzhi>{4}</>-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 		"numbermap": "CurveTable'FeiseEffectFigure'",
 		"numbers": [
 			"FeiSeEXChangeWeaponCoefficientFireAttack",
@@ -3773,7 +3874,7 @@
 		}
 	},
 	"feise_fire_ssr_star_1": {
-		"advancement": "Der Basismultiplikator des Schadens von <shuzhi>Flammendes Herz</> wird auf <shuzhi>60%</> des ANG erhöht. Wenn der Wanderer im Kampfstatus mehrere „Verbrennen“-Effekte auslöst, wird der Basismultiplikator des Schadens von <shuzhi>Flammendes Herz</> zusätzlich auf den höchsten Multiplikatoreffekt erhöht.",
+		"advancement": "Der Basismultiplikator des Schadens von <shuzhi>Flammendes Herz</> wird auf <shuzhi>120%</> des ANG erhöht. Wenn der Wanderer im Kampfstatus mehrere „Verbrennen“-Effekte auslöst, wird der Basismultiplikator des Schadens von <shuzhi>Flammendes Herz</> zusätzlich auf den höchsten Multiplikatoreffekt erhöht.",
 		"numbers": [],
 		"cost": 1000,
 		"need": "feise_fire_plasm",
@@ -3817,7 +3918,7 @@
 		}
 	},
 	"feise_fire_ssr_star_5": {
-		"advancement": "Pro <shuzhi>1</> <shuzhi>Fei Ses Trugbild</> oder <shuzhi>Lotusblütenblatt</> im <shuzhi>Wunderwerk</> wird der Schaden von <shuzhi>Flammendes Herz</> zusätzlich um <shuzhi>12%</> erhöht.\r\nDer Ausdauerverbrauch von <shuzhi>Lotus-Apsara</> wird um <shuzhi>75%</> gesenkt.",
+		"advancement": "Pro <shuzhi>1</> <shuzhi>Fei Ses Trugbild</> oder <shuzhi>Lotusblütenblatt</> im <shuzhi>Wunderwerk</> wird der Schaden von <shuzhi>Flammendes Herz</> zusätzlich um <shuzhi>15%</> erhöht.\r\nDer Ausdauerverbrauch von <shuzhi>Lotus-Apsara</> wird um <shuzhi>75%</> gesenkt.",
 		"numbers": [],
 		"cost": 9000,
 		"need": "feise_fire_plasm",
@@ -3828,7 +3929,7 @@
 		}
 	},
 	"feise_fire_ssr_star_6": {
-		"advancement": "Der Basismultiplikator für den Schaden durch <shuzhi>Seelenschwere</> wird auf <shuzhi>270%</> des ANG erhöht, Zertrümmern wird verdoppelt und es besteht eine Chance von <shuzhi>15%</>, nach einem Treffer für <shuzhi>2</> Sek. eine Verzögerung von <shuzhi>65%</> zuzufügen (gegen Bosse im Teamspiel unwirksam und nicht in der Apex-Liga verfügbar).",
+		"advancement": "Der Basismultiplikator für den Schaden durch <shuzhi>Seelenschwere</> wird auf <shuzhi>900%</> des ANG erhöht, Zertrümmern wird verdoppelt und es besteht eine Chance von <shuzhi>15%</>, nach einem Treffer für <shuzhi>2</> Sek. eine Verzögerung von <shuzhi>65%</> zuzufügen (gegen Bosse im Teamspiel unwirksam und nicht in der Apex-Liga verfügbar).",
 		"numbers": [],
 		"cost": 13500,
 		"need": "feise_fire_plasm",

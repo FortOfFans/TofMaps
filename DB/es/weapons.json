@@ -312,7 +312,7 @@
 			"normals": [
 				{
 					"name": "Ataque normal",
-					"description": "Mientras estás en el suelo, tira del arco repetidamente para atacar 5 veces.\r\nPrimer ataque: Inflige daño igual a **0%** del ATQ más **1**.\r\nSegundo ataque: Inflige daño igual a **2%** del ATQ más **3**.\r\nTercer ataque: Inflige daño igual a **4%** del ATQ más **5**.\r\nCuarto ataque: Inflige daño igual a **6%** del ATQ más **7**.\r\nQuinto ataque: Inflige daño igual a **8%** del ATQ más **9** y hace retroceder un poco al objetivo.",
+					"description": "Mientras estás en el suelo, tira del arco repetidamente para atacar 5 veces.\r\nPrimer ataque: Inflige daño igual a **27.3%** del ATQ más **164**.\r\nSegundo ataque: Inflige daño igual a **24.4%** del ATQ más **146**.\r\nTercer ataque: Inflige daño igual a **43.8%** del ATQ más **263**.\r\nCuarto ataque: Inflige daño igual a **67.8%** del ATQ más **407**.\r\nQuinto ataque: Inflige daño igual a **62.9%** del ATQ más **377** y hace retroceder un poco al objetivo.",
 					"icon": "bow_skill",
 					"id": "GA_FPlayerBowMeleeNew_Melee"
 				},
@@ -360,7 +360,7 @@
 			"discharge": [
 				{
 					"name": "Ráfaga Explosiva",
-					"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y desata Ráfaga Explosiva sobre el objetivo, lo que inflige daño igual a **0%** del ATQ más **1**.",
+					"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y desata Ráfaga Explosiva sobre el objetivo, lo que inflige daño igual a **396%** del ATQ más **2376**.",
 					"icon": "skill_artifact11_1",
 					"id": "GA_FPlayerBowChangeSkill_Success"
 				}
@@ -381,7 +381,6 @@
 		"name": "Vara de Cicatrices",
 		"avatar": {
 			"name": "Pepper",
-			"description": "Desconocido",
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
@@ -533,7 +532,6 @@
 		"name": "Exterminadora",
 		"avatar": {
 			"name": "Hilda",
-			"description": "Desconocido",
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
@@ -655,7 +653,6 @@
 		"name": "Minihuracán",
 		"avatar": {
 			"name": "Gnonno",
-			"description": "Desconocido",
 			"advanceId": "imitation_27L1",
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
@@ -821,7 +818,6 @@
 		"name": "Vapuleador",
 		"avatar": {
 			"name": "Ene",
-			"description": "Desconocido",
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
@@ -979,7 +975,6 @@
 		"name": "Pluma de Ruiseñor",
 		"avatar": {
 			"name": "Bai Ling",
-			"description": "Desconocido",
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
@@ -1125,7 +1120,6 @@
 		"name": "Alabarda de Trueno",
 		"avatar": {
 			"name": "Echo",
-			"description": "Desconocido",
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
@@ -1283,7 +1277,6 @@
 		"name": "Cuchillas Relampagueantes",
 		"avatar": {
 			"name": "Cuervo",
-			"description": "Desconocido",
 			"advanceId": "imitation_13L1",
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
@@ -1436,7 +1429,6 @@
 		"name": "Filo Rosado",
 		"avatar": {
 			"name": "Meryl",
-			"description": "Desconocido",
 			"advanceId": "imitation_3L1",
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
@@ -1601,7 +1593,6 @@
 		"name": "Flecha Helada",
 		"avatar": {
 			"name": "Tsubasa",
-			"description": "Desconocido",
 			"advanceId": "imitation_7L1",
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
@@ -1748,7 +1739,6 @@
 		"name": "Cero Absoluto",
 		"avatar": {
 			"name": "Cocoritter",
-			"description": "Desconocido",
 			"advanceId": "imitation_11L1",
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
@@ -1902,7 +1892,6 @@
 		"name": "Guadaña del Cuervo",
 		"avatar": {
 			"name": "KING",
-			"description": "Desconocido",
 			"advanceId": "imitation_9L1",
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
@@ -2061,7 +2050,6 @@
 		"name": "Revólver Ardiente",
 		"avatar": {
 			"name": "Cobalt-B",
-			"description": "Desconocido",
 			"advanceId": "imitation_10L1",
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
@@ -2215,7 +2203,6 @@
 		"name": "Espada Guren",
 		"avatar": {
 			"name": "Claudia",
-			"description": "Desconocido",
 			"advanceId": "imitation_12L1",
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
@@ -2369,7 +2356,6 @@
 		"name": "Chakram de los Mares",
 		"avatar": {
 			"name": "Shiro",
-			"description": "Desconocido",
 			"advanceId": "imitation_8L1",
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
@@ -2522,7 +2508,6 @@
 		"name": "Cubo Negador",
 		"avatar": {
 			"name": "Cero",
-			"description": "Desconocido",
 			"advanceId": "imitation_1L1",
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
@@ -2676,7 +2661,6 @@
 		"name": "Estrellas Magnéticas Dobles",
 		"avatar": {
 			"name": "Samir",
-			"description": "Desconocido",
 			"advanceId": "imitation_5L1",
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
@@ -2823,7 +2807,6 @@
 		"name": "Escudo Fundido V2",
 		"avatar": {
 			"name": "Huma",
-			"description": "Desconocido",
 			"advanceId": "imitation_6L1",
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
@@ -2970,7 +2953,6 @@
 		"name": "Dragón Azur",
 		"avatar": {
 			"name": "Huang",
-			"description": "Desconocido",
 			"advanceId": "imitation_41L1",
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
@@ -3126,11 +3108,169 @@
 		],
 		"id": "mimi_thunder"
 	},
+	"Linghan_ice": {
+		"name": "Tigre de Alabastro",
+		"avatar": {
+			"name": "Ling Han",
+			"advanceId": "imitation_43L1",
+			"weapon": "linghan_ice",
+			"icon": "imitation_43",
+			"avatarID": "linghan",
+			"id": "imitation_43"
+		},
+		"description": "Con una floritura de prestidigitación y una danza divina de espadas, ¿quién podrá explorar las profundidades de este corazón mío?",
+		"icon": "item_Weapon_SSR_Linghan_Ice01",
+		"gachaIcon": "UI_SSR_lh_linghan",
+		"rarity": "SSR",
+		"element": "Ice",
+		"weaponType": "Linghan",
+		"wc": "DPS",
+		"mats": {
+			"Item_Mine_ice": 39,
+			"Item_Mine_ice_02": 65,
+			"Item_breakthrough_B2": 65,
+			"Item_breakthrough_D2": 65,
+			"Item_Mine_ice_03": 32,
+			"Item_breakthrough_B3": 32,
+			"Item_breakthrough_D3": 32,
+			"Item_breakthrough_B1": 35,
+			"Item_breakthrough_D1": 32
+		},
+		"advanceID": "Linghan_ice_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "Arte de Espada: Corte Lunar",
+					"description": "Mientras estás en el suelo, usa tu ataque normal para lanzar 6 ataques seguidos.\r\nPrimer ataque: Infliges daño igual a **97.8%** del ATQ más **587** y haces retroceder al objetivo.\r\nSegundo ataque: Infliges daño igual a **129.4%** del ATQ más **776** y haces retroceder al objetivo.\r\nTercer ataque: Infliges daño igual a **207.2%** del ATQ más **1243** y haces retroceder al objetivo.\r\nCuarto ataque: Infliges daño igual a **125%** del ATQ más **750** y haces retroceder al objetivo.\r\nQuinto ataque: Infliges daño igual a **226%** del ATQ más **1356** y atraes a los enemigos al frente.\r\nSexto ataque: Infliges daño igual a **253.6%** del ATQ más **1521** y lanzas al objetivo.\r\nTras activar Arte de Espada: Corte Lunar, pulsa y mantén pulsado el ataque normal para activar **Arte de Espada: Nieve Eterna**.\r\n\r\nTras impactar a un objetivo con cualquiera de los ataques normales de **Tigre de Alabastro**, aplicas **1** acumulación de **Grieta Cristalina** al objetivo, lo que inflige daño de ataque normal igual a **48%** del ATQ cada segundo durante **15**seg. Solo puedes aplicar **1** acumulación de Grieta Cristalina al mismo objetivo cada **4**seg, se acumula hasta **3** veces. Las acumulaciones desaparecerán una a una cuando termine el efecto.",
+					"icon": "skill_linghan_melee",
+					"id": "GA_FPlayerLinghanMelee_Melee"
+				},
+				{
+					"name": "Arte de Espada: Sollozo de Pureza",
+					"description": "Mientras estás en el aire, usa el ataque normal para lanzar 6 ataques consecutivos; esto consume resistencia.\r\nPrimer ataque: Inflige daño igual a **95.9%** del ATQ más **575**.\r\nSegundo ataque: Inflige daño igual a **100.7%** del ATQ más **604**.\r\nTercer ataque: Inflige daño igual a **218.6%** del ATQ más **1311**.\r\nCuarto ataque: Inflige daño igual a **130%** del ATQ más **780**.\r\nQuinto ataque: Inflige daño igual a **213.7%** del ATQ más **1282**.\r\nSexto ataque: Inflige daño igual a **256.9%** del ATQ más **1541**.",
+					"icon": "skill_linghan_airattack",
+					"id": "GA_FPlayerLinghanMelee_AirAttack"
+				},
+				{
+					"name": "Arte de Espada: Nieve Eterna",
+					"description": "Mientras usas el ataque normal en el suelo, pulsa y mantén pulsado el ataque normal para activar Arte de Espada: Nieve Eterna.\r\nUsa el control mental para manipular la espada mientras consumes resistencia, durante lo cual el nómada gana hipercuerpo. Cada ataque inflige daño igual a **140.8%** del ATQ más **845** a los objetivos cercanos.\r\nCuando Arte de Espada: Nieve Eterna termina, liberas una poderosa aura de espada que inflige daño igual a **422.4%** de tu ATQ más **2534** a los objetivos cercanos.",
+					"icon": "skill_linghan_powerattack",
+					"id": "GA_FPlayerLinghanMelee_PowerAttack"
+				},
+				{
+					"name": "Arte de Espada: Caída de Escarcha",
+					"description": "Pulsa y mantén pulsado tu ataque normal en el aire (pulsa cuando haya un objetivo disponible), o utiliza tu ataque normal mientras escalas, saltas hacia atrás o utilizas tu propulsor para activar Arte de Espada: Caída de Escarcha.\r\nMientras caes, infliges daño igual a **75%** del ATQ más **450** cada vez que impactas al objetivo. Al aterrizar, infliges daño igual a **366.7%** del ATQ más **2200** a los objetivos cercanos.",
+					"icon": "skill_linghan_jumpattack",
+					"id": "GA_FPlayerLinghanMelee_JumpAttack"
+				},
+				{
+					"name": "Pasos Ligeros",
+					"description": "Mientras estás en el aire tras un salto doble, pulsa salto para activar Pasos Ligeros. Te desplazas brevemente hacia arriba antes de planear. Mientras estás en el aire, puedes usar Pasos Ligeros hasta **2** veces.\r\nMientras estás en tierra, Pasos Ligeros recupera **1** intento de uso cada **10**seg (al cambiar de área, cambiar arma o desequipar **Tigre de Alabastro**, se restablecerán los intentos de uso).",
+					"icon": "skill_linghan_qinggong",
+					"id": "GA_FPlayerLinghanMelee_QingGong"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Evasión",
+					"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.",
+					"icon": "common_evade",
+					"id": "GA_FPlayerLinghanEvade_Evade"
+				},
+				{
+					"name": "Arte de Espada: Nublamiento",
+					"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Arte de Espada: Nublamiento, lo que inflige daño de hasta **305%** del ATQ más **1830** a los objetivos impactados.",
+					"icon": "skill_linghan_fevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "Arte de Espada: Alma Mortal",
+					"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Arte de Espada: Alma Mortal. Libera una ilusión del Tigre Blanco para infligir daño igual a **174.3%** del ATQ más **1046** a los objetivos que tengas delante.",
+					"icon": "skill_linghan_bevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "Arte de Espada: Hielo Oscuro",
+					"description": "Infliges daño igual a **370.2%** del ATQ más **2221** a los objetivos cercanos y los atraes. Luego, formas un Conjunto de Espadas para invocar una fuerte lluvia de espadas y **congelar con fuerza** a los objetivos (no disponible en la Liga Ápex ni contra jefes) durante **4**seg. Enfriamiento: **30**seg.\r\nDespués de usar Arte de Espada: Hielo Oscuro, emites un **Aire frío** que inflige daño igual a **68%** del ATQ a los objetivos cercanos cada segundo y reduce la velocidad de los objetivos un **30%** (no disponible en la Liga Ápex ni contra jefes).\r\nDespués de ejecutar completamente Arte de Espada: Hielo Oscuro creas una gran cantidad de **Cuchillas de Hielo** que disparan **1** cuchilla cada **7.5**seg al objetivo actualmente fijado; esto inflige daño igual a **360%** de tu ATQ y le aplica **Reducción de Temperatura** al objetivo. Puede haber hasta **3** **Cuchillas de Hielo** creadas inicialmente, y todas las cuchillas se eliminarán si no estás en estado de combate.\r\n**Reducción de Temperatura**: Infliges daño igual a **240%** del ATQ cada **3**seg a los objetivos cercanos durante **12**seg.",
+					"icon": "skill_linghan_skill",
+					"id": "GA_FPlayerLinghanSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Arte de Espada: Llamado Gélido",
+					"description": "Cuando tu **carga de arma está completa** o se activa **Phantasia**, al cambiar a esta arma, **te disipa todas las debilitaciones** e invoca un Conjunto de Espadas a tu alrededor que envuelve el área en frío e inflige daño de hasta **844.5%** de tu ATQ más **5067** a los objetivos cercanos. Poco después, invocas a un Tigre Blanco para infligir daño igual a **1971%** del ATQ más **11825**, durante el cual la inmunidad al daño dura **1.5**seg (no disponible en la Liga Ápex).\r\n**Pasiva**: Después de que Arte de Espada: Llamado Gélido logra un impacto, aumenta tu daño final un **8%** durante **30**seg.",
+					"icon": "skill_linghan_changeskill",
+					"id": "GA_FPlayerLinghanChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Frío Extremo: Descarga**: Después de usar **Arte de Espada: Hielo Oscuro**, cada segundo infliges daño igual a la suma de: **70%** de tu ATQ de escarcha, **10%** de tus PS Máx., **36%** de todos tus tipos de resistencias, y **1.35%** de tu crítico. Ocurre durante **30**seg. El daño de múltiples Descargas no se acumula, y el daño de Frío Extremo contará como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/física de cualquier tipo equipada, el daño de Frío Extremo se multiplica por **1.3**. Además, el daño de Frío Extremo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "None"
+			},
+			{
+				"description": "Tras lanzar **Cuchilla de Hielo**, aumenta tu ATQ de escarcha un **10%** y los objetivos cercanos recibirán daño igual a **80%** del ATQ cada segundo durante **30**seg.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Puedes producir hasta **4** **Cuchillas de Hielo**, y el multiplicador base del daño de **Reducción de Temperatura** aumenta a **360%**.\r\nSi tu objetivo es el único afectado por **Reducción de Temperatura**, dentro de **6**seg le aplicas adicionalmente **Sello de Vena**, lo que reduce su velocidad un **30%** (no disponible en la Liga Ápex ni contra jefes). Si el objetivo vuelve a recibir daño de **Cuchilla de Hielo** durante el **Sello de Vena**, desencadena Estallido Gélido, lo que inflige daño de habilidad igual a **17%** del ATQ más **2%** de los PS ya perdidos del objetivo en ese momento (el daño de Estallido Gélido no será inferior a **20%** del ATQ de escarcha del nómada ni superior a **22%** del ATQ de escarcha del nómada). A continuación, elimina los efectos de **Sello de Vena** y **Reducción de Temperatura** en el objetivo.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Aumenta el daño infligido por **Grieta Cristalina** y **Aire Frío** adicionalmente un **50%**. Aumenta los intentos de uso de **Pasos Ligeros** a **10** y aumenta la tasa de recuperación a **1** intento cada **3**seg.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "El efecto de **Reducción de Temperatura** infligido después de disparar **Cuchillas de Hielo** ahora se aplica a un área y también inflige daño adicional igual a **990%** del ATQ a los objetivos cercanos.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			}
+		],
+		"id": "Linghan_ice"
+	},
 	"Suspension_thunder": {
 		"name": "Venus",
 		"avatar": {
 			"name": "Némesis",
-			"description": "Desconocido",
 			"advanceId": "imitation_17L1",
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
@@ -3284,7 +3424,6 @@
 		"name": "Balmung",
 		"avatar": {
 			"name": "Frigg",
-			"description": "Desconocido",
 			"advanceId": "imitation_28L1",
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
@@ -3432,7 +3571,6 @@
 		"name": "Chispa",
 		"avatar": {
 			"name": "Ruby",
-			"description": "Desconocido",
 			"advanceId": "imitation_21L1",
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
@@ -3508,7 +3646,7 @@
 			"skill": [
 				{
 					"name": "Colisionador Chispeante",
-					"description": "Chispa dispara Chispas que duran 15seg y rebotan entre el objetivo y el nómada. Al impactar al objetivo, las Chispas lo ralentizan por **4**seg con un enfriamiento de **15**seg. Las Chispas infligen más daño cuanto más lejos viajan. Al impacto, infligen daño de hasta **350%** del ATQ más **4200** e infligen una marca de Arder de **25**seg al objetivo. Al mismo tiempo, Chispa dispara 4 balas. Cada una inflige daño igual a **50%** del ATQ más **300** contra su objetivo. Los ataques normales de Chispa infligen **30%** de daño adicional a los objetivos marcados con Arder. Cuando Chispas impacta en los objetivos quemados por el nómada, quema o enciende al objetivo una vez e inflige daño adicional igual a **45%** del daño total restante (los efectos de quemadura o incendiarios múltiples se cuentan juntos) y se volverán a contar automáticamente 1 vez. El enfriamiento del cálculo de resultados es de **6**seg y el enfriamiento de las habilidades es de **30**seg.\r\n**Pasiva**: Cuando Chispas está activado, cada vez que Ataque de Chispa o Chispas inflige daño, el nómada obtiene **1** Punto de Calor con un enfriamiento de **0.9**seg, hasta **8** Puntos de Calor. Cuando el Calor alcanza el máximo, el nómada obtiene el efecto Calor Definitivo, que aumenta el ATQ de Fuego en **10%** por **25**seg.",
+					"description": "Chispa dispara Chispas que duran 15seg y rebotan entre el objetivo y el nómada. Al impactar al objetivo, las Chispas lo ralentizan por **4**seg con un enfriamiento de **15**seg. Las Chispas infligen más daño cuanto más lejos viajan. Al impacto, infligen daño de hasta **380%** del ATQ más **4200** e infligen una marca de Arder de **25**seg al objetivo. Al mismo tiempo, Chispa dispara 4 balas. Cada una inflige daño igual a **50%** del ATQ más **300** contra su objetivo. Los ataques normales de Chispa infligen **30%** de daño adicional a los objetivos marcados con Arder. Cuando Chispas impacta en los objetivos quemados por el nómada, quema o enciende al objetivo una vez e inflige daño adicional igual a **45%** del daño total restante (los efectos de quemadura o incendiarios múltiples se cuentan juntos) y se volverán a contar automáticamente 1 vez. El enfriamiento del cálculo de resultados es de **6**seg y el enfriamiento de las habilidades es de **30**seg.\r\n**Pasiva**: Cuando Chispas está activado, cada vez que Ataque de Chispa o Chispas inflige daño, el nómada obtiene **1** Punto de Calor con un enfriamiento de **0.9**seg, hasta **8** Puntos de Calor. Cuando el Calor alcanza el máximo, el nómada obtiene el efecto Calor Definitivo, que aumenta el ATQ de Fuego en **10%** por **25**seg.",
 					"icon": "funnel_skill",
 					"id": "GA_FPlayerFunnelSkillFire"
 				}
@@ -3586,7 +3724,6 @@
 		"name": "Corriente del Corazón",
 		"avatar": {
 			"name": "Saki Fuwa",
-			"description": "Desconocido",
 			"advanceId": "imitation_22L1",
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
@@ -3676,7 +3813,7 @@
 			"discharge": [
 				{
 					"name": "Loto de corazón",
-					"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y te desplazas hacia el objetivo con un combo de ataques, lo que inflige daño igual a **536%** del ATQ más **3216**.",
+					"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y te desplazas hacia el objetivo con un combo de ataques, lo que inflige daño igual a **590%** del ATQ más **3216**.",
 					"icon": "skill_dkatana_changeskill",
 					"id": "GA_FPlayerDkatanaChangeSkill_Success"
 				}
@@ -3746,7 +3883,6 @@
 		"name": "Tejesombras",
 		"avatar": {
 			"name": "Lin",
-			"description": "Desconocido",
 			"advanceId": "imitation_23L1",
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
@@ -3904,7 +4040,6 @@
 		"name": "Rompetruenos",
 		"avatar": {
 			"name": "Tian Lang",
-			"description": "Desconocido",
 			"advanceId": "imitation_29L1",
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
@@ -3940,7 +4075,7 @@
 				},
 				{
 					"name": "Mizar",
-					"description": "Mientras estás en el suelo, inicia 6 ataques seguidos con Rompetruenos.\r\nPrimer ataque: Inflige daño igual a **90.5%** del ATQ más **543** y hace retroceder al objetivo.\r\nSegundo ataque: Inflige daño igual a **67.9%** del ATQ más **407** y hace retroceder al objetivo.\r\nTercer ataque: Inflige daño igual a **123%** del ATQ más **738** y hace retroceder al objetivo.\r\nCuarto ataque: Inflige daño igual a **217.9%** del ATQ más **1307** y hace retroceder al objetivo.\r\nQuinto ataque: Inflige daño igual a **222%** del ATQ más **1332** y hace retroceder al objetivo.\r\nSexto ataque: Inflige daño igual a **291.8%** del ATQ más **1751** y lanza al objetivo.",
+					"description": "Mientras estás en el suelo, inicia 6 ataques seguidos con Rompetruenos.\r\nPrimer ataque: Inflige daño igual a **99.3%** del ATQ más **543** y hace retroceder al objetivo.\r\nSegundo ataque: Inflige daño igual a **73.2%** del ATQ más **407** y hace retroceder al objetivo.\r\nTercer ataque: Inflige daño igual a **135.8%** del ATQ más **738** y hace retroceder al objetivo.\r\nCuarto ataque: Inflige daño igual a **240.5%** del ATQ más **1307** y hace retroceder al objetivo.\r\nQuinto ataque: Inflige daño igual a **240.1%** del ATQ más **1332** y hace retroceder al objetivo.\r\nSexto ataque: Inflige daño igual a **314.1%** del ATQ más **1751** y lanza al objetivo.",
 					"icon": "skill_tianlang_melee",
 					"id": "GA_PlayerTianLangMelee_Melee"
 				},
@@ -4058,7 +4193,6 @@
 		"name": "Vesper",
 		"avatar": {
 			"name": "Lira",
-			"description": "Desconocido",
 			"advanceId": "imitation_24L1",
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
@@ -4146,13 +4280,13 @@
 				},
 				{
 					"name": "Caída de Estrellas",
-					"description": "Salta hacia el objetivo, lo que inflige daño igual a **702.1%** del ATQ más **4212** y lo **suspende fuerte**. Inflige una Marca de Iluminación en el objetivo por **18**seg. Enfriamiento: **20**seg.",
+					"description": "Salta hacia el objetivo, lo que inflige daño igual a **771%** del ATQ más **4212** y lo **suspende fuerte**. Inflige una Marca de Iluminación en el objetivo por **18**seg. Enfriamiento: **20**seg.",
 					"icon": "skill_arm_airattack2",
 					"id": "GA_FPlayerArmPublishSkillPhy"
 				},
 				{
 					"name": "Alba",
-					"description": "Vapulea el suelo y **lanza fuerte** a los objetivos al frente, lo que inflige daño igual a **702.1%** del ATQ más **4212** e invoca hasta **3** **Cuchillas** por **75**seg (hasta 1 Cuchilla cada 2 metros). Puedes usar esta habilidad hasta **3** veces, con un enfriamiento de **20**seg cada vez. Cuando existan 2 **Cuchillas** en el campo, se crea un **Brilloclaro**. Cuando se toca una **Cuchilla**, cura a los objetivos dentro del radio de movimiento, lo que restaura PS igual a **25%** del ATQ del objetivo. Cuando existen 3 **Cuchillas**, se crea una **Nebulosa**. Cuando se toca una **Cuchilla**, daña a los objetivos dentro del radio de movimiento, lo que inflige daño igual a **150%** del ATQ × la distancia de movimiento / **5**m.",
+					"description": "Vapulea el suelo y **lanza fuerte** a los objetivos al frente, lo que inflige daño igual a **771%** del ATQ más **4212** e invoca hasta **3** **Cuchillas** por **75**seg (hasta 1 Cuchilla cada 2 metros). Puedes usar esta habilidad hasta **3** veces, con un enfriamiento de **20**seg cada vez. Cuando existan 2 **Cuchillas** en el campo, se crea un **Brilloclaro**. Cuando se toca una **Cuchilla**, cura a los objetivos dentro del radio de movimiento, lo que restaura PS igual a **25%** del ATQ del objetivo. Cuando existen 3 **Cuchillas**, se crea una **Nebulosa**. Cuando se toca una **Cuchilla**, daña a los objetivos dentro del radio de movimiento, lo que inflige daño igual a **150%** del ATQ × la distancia de movimiento / **5**m.",
 					"icon": "skill_arm_skill2",
 					"id": "GA_FPlayerArmLawSkillPhy"
 				}
@@ -4230,7 +4364,6 @@
 		"name": "Arte Perdido",
 		"avatar": {
 			"name": "Rubilia",
-			"description": "Desconocido",
 			"advanceId": "imitation_48L1",
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
@@ -4271,7 +4404,7 @@
 					"id": "GA_FPlayerRubiliaMelee_AirAttack"
 				},
 				{
-					"name": "Avance",
+					"name": "Avanzar",
 					"description": "Mientras atacas en el suelo, pulsa y mantén pulsado el ataque normal para activar Avance, lo que inflige daño igual a **211.7%** del ATQ más **1270**.",
 					"icon": "skill_rubilia_branch",
 					"id": "GA_FPlayerRubiliaMelee_Branch"
@@ -4396,7 +4529,6 @@
 		"name": "Ala Inflexible",
 		"avatar": {
 			"name": "Alyss",
-			"description": "Desconocido",
 			"advanceId": "imitation_30L1",
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
@@ -4556,7 +4688,6 @@
 		"name": "Cruz de Trébol",
 		"avatar": {
 			"name": "Annabella",
-			"description": "Desconocido",
 			"advanceId": "imitation_26L1",
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
@@ -4704,7 +4835,6 @@
 		"name": "Pincel Meteórico",
 		"avatar": {
 			"name": "Liu Huo",
-			"description": "Desconocido",
 			"advanceId": "imitation_37L1",
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
@@ -4882,7 +5012,6 @@
 		"name": "Mobius",
 		"avatar": {
 			"name": "Umi",
-			"description": "Desconocido",
 			"advanceId": "imitation_31L1",
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
@@ -5054,7 +5183,6 @@
 		"name": "Floración Interminable",
 		"avatar": {
 			"name": "Fei Se",
-			"description": "Desconocido",
 			"advanceId": "imitation_51L1",
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
@@ -5096,7 +5224,7 @@
 				},
 				{
 					"name": "Otoño Dorado",
-					"description": "Mientras lo usas en el suelo, pulsa y mantén pulsado el ataque normal cuando uses los ataques normales del primero al tercero para activar Otoño Dorado.\r\nAtrae a los objetivos cercanos, lo que inflige daño igual a **259%** del ATQ más **1554** y los suspende.",
+					"description": "Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal cuando uses del primero al tercer ataque normal para activar Otoño Dorado.\r\nAtraes a los objetivos cercanos para infligirles daño igual a **259%** de tu ATQ más **1554** y los suspendes.",
 					"icon": "feise_branch1",
 					"id": "GA_FPlayerFeiseMelee_Branch1"
 				},
@@ -5128,13 +5256,13 @@
 				},
 				{
 					"name": "Dispersión",
-					"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Dispersión Floral, lo que inflige daño igual a **209%** del ATQ más **1254** a los objetivos cercanos.\r\n\r\nDurante el **Espejismo Ilusorio** creado por **Remolino**, después de que el primer ataque de evasión con cualquier arma logre un impacto, Injerto de Flores se activa, lo que crea una Phantasia de FeiSe y un Pétalo de Loto.\r\n**Phantasia de FeiSe**: Al crearse, la Phantasia de FeiSe copia **25%** del ATQ máx. del objetivo y lo convierte en **ATQ de fuego base** para ti (no puede ser inferior a **3300** ni superior a **3450**; este ATQ de fuego no se reflejará en tus estadísticas y no está disponible en la Liga Ápex) hasta que la Phantasia de FeiSe desaparezca. Se calcula independientemente para cada Phantasia de FeiSe. Solo puede haber **1** Phantasia de FeiSe a la vez.\r\n**Pétalo de Loto**: Al crearse, el recuento de Pétalos de Loto es igual al número de invocaciones creadas por tus armas que no sean Floración Interminable. Tras la creación, el recuento de Pétalos de Loto no cambia con el número de invocaciones. Los Pétalos de Loto se consideran invocaciones.",
+					"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (usa un botón de dirección antes de evadir) para activar Dispersión Floral, lo que inflige daño igual a **209%** del ATQ más **1254** a los objetivos cercanos.\r\n\r\nDurante el **Espejismo Ilusorio** creado por **Remolino**, después de que el primer ataque de evasión con cualquier arma logre un impacto, Injerto de Flores se activa, lo que crea un Phantasia de FeiSe y un Pétalo de Loto.\r\n**Phantasia de FeiSe**: Al crearse, el Phantasia de FeiSe copia **25%** del ATQ máx. del objetivo y lo convierte en el **ATQ de fuego base** del nómada (no puede ser inferior a **6500** ni superior a **10000**; este ATQ de fuego no se reflejará en las estadísticas del nómada y no está disponible en la Liga Ápex) hasta que el Phantasia de FeiSe desaparezca. Se calcula independientemente para cada Phantasia de FeiSe. Solo puede haber **1** Phantasia de FeiSe a la vez.\r\n**Pétalo de Loto**: Al crearse, el recuento de Pétalos de Loto es igual al número de invocaciones creadas por las armas del nómada que no sean Floración Interminable. Tras la creación, el recuento de Pétalos de Loto no cambia con el número de invocaciones. Los Pétalos de Loto se consideran invocaciones.",
 					"icon": "feise_evadefront",
 					"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 				},
 				{
 					"name": "Aleteo",
-					"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Aleteo, lo que inflige daño igual a **120%** del ATQ más **720** a los objetivos cercanos.",
+					"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Aleteo, lo que inflige igual a **120%** del ATQ más **720** a los objetivos cercanos.",
 					"icon": "feise_evadeback",
 					"id": "GA_FPlayerFeiseEvade_BackAttack"
 				}
@@ -5142,13 +5270,13 @@
 			"skill": [
 				{
 					"name": "Remolino",
-					"description": "Inflige daño igual a **1008%** del ATQ más **6047** a los objetivos cercanos y crea un Espejismo Ilusorio que dura hasta **25**seg.\r\nCuando Remolino está en enfriamiento, obtienes una nueva habilidad: Lissom. Puedes usar Lissom después de que el Espejismo haya estado activo durante **20**seg.\r\nDespués de que el Espejismo desaparezca, restablece inmediatamente el enfriamiento de Remolino. Esto no se ve afectado por otros efectos de eliminación, restablecimiento o cambio de enfriamientos.\r\n\r\nDurante el Espejismo:\r\nCada segundo, inflige daño de Espiritormento igual a **135%** del ATQ. El daño de Espiritormento cuenta como daño de ataque normal.\r\nCada **5**seg, inflige Corazón Resplandeciente a los objetivos en el Espejismo, lo que inflige daño por quemadura igual a **20%** del ATQ durante **5**seg. Por **cada** **Phantasia de FeiSe** o **Pétalo de Loto** creados por ti en el Espejismo, aumenta el daño de Corazón Resplandeciente un **6%** adicional.",
+					"description": "Inflige daño igual a **1008%** del ATQ más **6047** a los objetivos cercanos y crea un Espejismo Ilusorio que dura hasta **25**seg.\r\nCuando Remolino está en enfriamiento, obtienes una nueva habilidad: Lissom. Puedes usar Lissom después de que el Espejismo haya estado activo durante **20**seg.\r\nDespués de que el Espejismo desaparezca, restablece inmediatamente el enfriamiento de Remolino. Esto no se ve afectado por otros efectos de eliminación, restablecimiento o cambio de enfriamientos.\r\n\r\nDurante el Espejismo:\r\nCada segundo, inflige daño de Espiritormento igual a **135%** del ATQ. El daño de Espiritormento cuenta como daño de ataque normal.\r\nCada **5**seg, inflige Corazón Resplandeciente a los objetivos al alcance, lo que inflige daño por quemadura igual a **20%** del ATQ durante **5**seg. Por cada **1** **Phantasia de FeiSe** o **Pétalo de Loto** creado por el nómada en el Espejismo, el daño de Corazón Resplandeciente aumenta un **15%** adicional.",
 					"icon": "feise_skill1",
 					"id": "GA_FPlayerFeiseSkill_Skill1"
 				},
 				{
 					"name": "Lissom",
-					"description": "Cuando Remolino está en enfriamiento, obtienes la nueva habilidad: Lissom. Puedes usar Lissom después de que el Espejismo haya estado activo durante **20**seg.\r\nElimina todas las **Phantasias de FeiSe** y los **Pétalos de Loto** en el Espejismo creados por ti. Por cada **1** **Phantasia de FeiSe** o **Pétalo de Loto** eliminado, infliges daño igual a **180%** del ATQ más **1080** a los objetivos cercanos. Luego, destruye el Espejismo Ilusorio, lo que inflige daño igual a **450%** del ATQ más **2700** a los objetivos cercanos.",
+					"description": "Cuando Remolino está en enfriamiento, obtienes la nueva habilidad: Lissom. Puedes usar Lissom después de que el Espejismo haya estado activo durante **20**seg.\r\nElimina a todos los **Phantasias de FeiSe** y **Pétalos de Loto** en el Espejismo creado por el nómada. Por cada **1** **Phantasia de FeiSe** o **Pétalo de Loto** eliminado, inflige daño igual a **180%** del ATQ más **1080** a los objetivos cercanos. Luego, destruye el Espejismo Ilusorio, lo que inflige daño igual a **450%** del ATQ más **2700** a los objetivos cercanos.",
 					"icon": "feise_skill2",
 					"id": "GA_FPlayerFeiseSkill_Skill2"
 				}
@@ -5156,7 +5284,7 @@
 			"discharge": [
 				{
 					"name": "Fondo de Jade Inigualable",
-					"description": "Cuando la **carga de arma está completa** o se activa **Phantasia**, al cambiar a esta arma, **te disipa todas las debilitaciones** e infliges daño igual a **1090%** del ATQ más **6539**. Durante este periodo, ganas inmunidad al daño por **1.5**seg (no disponible en la Liga Ápex).",
+					"description": "Cuando la **carga de arma está completa** o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada**, lo que inflige daño igual a **1090%** del ATQ más **6539**. Durante este periodo, ganas inmunidad al daño por **2.6**seg (no disponible en la Liga Ápex).",
 					"icon": "feise_changeskill",
 					"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 				}
@@ -5164,7 +5292,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia de Fuego**: Aumenta el ATQ de fuego un **15%** y la resistencia al fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Explosión Ardiente: Corte Veloz**: Cuando **Floración Interminable** está equipada, al impactar con cualquier habilidad de descarga de arma, infliges daño inicial igual a la suma de: **5%** de tu ATQ de fuego, **8%** de tus PS Máx., **3%** de todas tus resistencias y **10%** de tu crítico a los objetivos cercanos. Mientras estés en combate y cada **0.5**seg, el daño del siguiente Corte Veloz aumentará **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. Explosión Ardiente: El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si tienes **1** arma de escarcha/eléctrica/física de cualquier tipo equipada, aumenta el daño de Explosión Ardiente a **2.5**. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia de Fuego**: Aumenta el ATQ de fuego un **20%** y la resistencia al fuego un **40%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego o Reacción al Fuego; Resonancia de Fuego tiene prioridad.\r\n**Explosión Ardiente: Corte Veloz**: Cuando **Floración Interminable** está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a **38%** del ATQ de fuego, más **1%** de los PS Máx. del nómada, más **19%** de la suma de todos los tipos de resistencias del nómada, más **69%** del crítico. Mientras estés en combate y cada **0.5**seg, el daño del siguiente Corte Veloz aumentará **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. Explosión Ardiente: El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si tienes **1** arma de escarcha/éléctrica/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por **1.3**. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5172,7 +5300,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Aumenta el multiplicador base del daño de **Corazón Resplandeciente** a **60%** del ATQ. En estado de combate, si infliges múltiples efectos de quemadura, el multiplicador base del daño por quemadura de **Corazón Resplandeciente** aumenta al del efecto multiplicador más alto.",
+				"description": "Aumenta el multiplicador base del daño de **Corazón Resplandeciente** a **120%** del ATQ. En estado de combate, si el nómada inflige múltiples efectos de quemadura, el multiplicador base del daño de **Corazón Resplandeciente** se incrementa adicionalmente al del efecto multiplicador más alto.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5188,7 +5316,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Aumenta el número máximo de **Phantasia de FeiSe** a **2**. Después de que **Remolino** logra un impacto, también crea **1** **Phantasia de FeiSe**.",
+				"description": "Aumenta el número máximo de **Phantasia de FeiSe** a **2**. Después de que **Remolino** logra un impacto, también crea **1** de **Phantasia de FeiSe**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5204,7 +5332,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Por **cada** **Phantasia de FeiSe** o **Pétalo de Loto** en el **Espejismo**, aumenta el daño de **Corazón Resplandeciente** un **12%** adicional.\r\nReduce el consumo de resistencia de **Loto Apsará** un **75%**.",
+				"description": "Por cada **1** de **Phantasia de FeiSe** o **Pétalo de Loto** en el **Espejismo**, aumenta el daño de **Corazón Resplandeciente** un **15%** adicional.\r\nReduce el consumo de resistencia de **Loto Apsará** un **75%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5212,7 +5340,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "El multiplicador base del daño de **Espiritormento** aumenta a **270%** del ATQ, la destrucción se duplica, y, tras asestar un impacto, hay un **15%** de probabilidad de infligir un retraso del **65%** durante **2**seg (no es eficaz contra jefes en partidas en equipo; no está disponible en la Liga Ápex).",
+				"description": "El multiplicador base del daño de **Espiritormento** aumenta a **900%** del ATQ, la destrucción se duplica, y hay un **15%** de probabilidad de infligir un retraso del **65%** durante **2**seg tras asestar un golpe (no es eficaz contra jefes en partidas en equipo; no está disponible en la Liga Ápex).",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5226,7 +5354,6 @@
 		"name": "Gleipnir",
 		"avatar": {
 			"name": "Fenrir",
-			"description": "Desconocido",
 			"advanceId": "imitation_32L1",
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
@@ -5392,7 +5519,6 @@
 		"name": "Ave Bermellón",
 		"avatar": {
 			"name": "Lan",
-			"description": "Desconocido",
 			"advanceId": "imitation_34L1",
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
@@ -5558,7 +5684,6 @@
 		"name": "Preciosa",
 		"avatar": {
 			"name": "Ícaro",
-			"description": "Desconocido",
 			"advanceId": "imitation_35L1",
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
@@ -5718,7 +5843,6 @@
 		"name": "Unidad",
 		"avatar": {
 			"name": "Yu Lan",
-			"description": "Desconocido",
 			"advanceId": "imitation_38L1",
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
@@ -5908,7 +6032,6 @@
 		"name": "Tortuga de Ónix",
 		"avatar": {
 			"name": "Ming Jing",
-			"description": "Desconocido",
 			"advanceId": "imitation_50L1",
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
@@ -6074,7 +6197,6 @@
 		"name": "Brazalete Lunaestrella",
 		"avatar": {
 			"name": "Fiona",
-			"description": "Desconocido",
 			"advanceId": "imitation_36L1",
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",

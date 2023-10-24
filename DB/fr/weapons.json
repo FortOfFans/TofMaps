@@ -233,7 +233,7 @@
 					"id": "GA_FPlayerSwordMelee_AirAttack_R"
 				},
 				{
-					"name": "Cyclone",
+					"name": "de mer-sable",
 					"description": "Pressez et maintenez appuyé le bouton d'attaque normale après des attaques normales pour déclencher Cyclone.\r\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts équivalant à **22.3%** de l'ATQ + **134** à une seule cible.",
 					"icon": "skill_sword_branch",
 					"id": "GA_FPlayerSwordMelee_Branch_R"
@@ -312,7 +312,7 @@
 			"normals": [
 				{
 					"name": "Attaque normale",
-					"description": "Lorsque vous êtes au sol, utilisez l'arc pour attaquer 5fois de suite.\r\nPremière attaque: inflige des dégâts équivalant à **0%** de l'ATQ + **1**.\r\nDeuxième attaque: inflige des dégâts équivalant à **2%** de l'ATQ + **3**.\r\nTroisième attaque: inflige des dégâts équivalant à **4%** de l'ATQ + **5**.\r\nQuatrième attaque: inflige des dégâts équivalant à **6%** de l'ATQ + **7**.\r\nCinquième attaque: inflige des dégâts équivalant à **8%** de l'ATQ + **9** et repousse la cible sur une courte distance.",
+					"description": "Lorsque vous êtes au sol, utilisez l'arc pour attaquer 5fois de suite.\r\nPremière attaque: inflige des dégâts équivalant à **27.3%** de l'ATQ + **164**.\r\nDeuxième attaque: inflige des dégâts équivalant à **24.4%** de l'ATQ + **146**.\r\nTroisième attaque: inflige des dégâts équivalant à **43.8%** de l'ATQ + **263**.\r\nQuatrième attaque: inflige des dégâts équivalant à **67.8%** de l'ATQ + **407**.\r\nCinquième attaque: inflige des dégâts équivalant à **62.9%** de l'ATQ + **377** et repousse la cible sur une courte distance.",
 					"icon": "bow_skill",
 					"id": "GA_FPlayerBowMeleeNew_Melee"
 				},
@@ -360,7 +360,7 @@
 			"discharge": [
 				{
 					"name": "Barrage explosif",
-					"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur**, et déclenche un Barrage explosif sur la cible au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à **0%** de l'ATQ + **1**.",
+					"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur**, et déclenche un Barrage explosif sur la cible au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à **396%** de l'ATQ + **2376**.",
 					"icon": "skill_artifact11_1",
 					"id": "GA_FPlayerBowChangeSkill_Success"
 				}
@@ -381,7 +381,6 @@
 		"name": "Bâton des balafres",
 		"avatar": {
 			"name": "Pepper",
-			"description": "Inconnu",
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
@@ -533,7 +532,6 @@
 		"name": "L'Exterminateur",
 		"avatar": {
 			"name": "Hilda",
-			"description": "Inconnu",
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
@@ -655,7 +653,6 @@
 		"name": "Mini ouragan",
 		"avatar": {
 			"name": "Gnonno",
-			"description": "Inconnu",
 			"advanceId": "imitation_27L1",
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
@@ -723,7 +720,7 @@
 			"dodge": [
 				{
 					"name": "Esquiver",
-					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 					"icon": "skill_dgun_evade",
 					"id": "GA_FPlayerChainsawEvade_Evade"
 				},
@@ -821,7 +818,6 @@
 		"name": "Pilon",
 		"avatar": {
 			"name": "Ene",
-			"description": "Inconnu",
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
@@ -979,7 +975,6 @@
 		"name": "Plume de rossignol",
 		"avatar": {
 			"name": "Bai Ling",
-			"description": "Inconnu",
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
@@ -1125,7 +1120,6 @@
 		"name": "Hallebarde foudroyante",
 		"avatar": {
 			"name": "Echo",
-			"description": "Inconnu",
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
@@ -1283,7 +1277,6 @@
 		"name": "Lames de tonnerre",
 		"avatar": {
 			"name": "Crow",
-			"description": "Inconnu",
 			"advanceId": "imitation_13L1",
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
@@ -1436,7 +1429,6 @@
 		"name": "Lame de la rose",
 		"avatar": {
 			"name": "Meryl",
-			"description": "Inconnu",
 			"advanceId": "imitation_3L1",
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
@@ -1601,7 +1593,6 @@
 		"name": "Flèche de vent glacé",
 		"avatar": {
 			"name": "Tsubasa",
-			"description": "Inconnu",
 			"advanceId": "imitation_7L1",
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
@@ -1748,7 +1739,6 @@
 		"name": "Zéro absolu",
 		"avatar": {
 			"name": "Cocoritter",
-			"description": "Inconnu",
 			"advanceId": "imitation_11L1",
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
@@ -1902,7 +1892,6 @@
 		"name": "Faux du corbeau",
 		"avatar": {
 			"name": "KING",
-			"description": "Inconnu",
 			"advanceId": "imitation_9L1",
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
@@ -2061,7 +2050,6 @@
 		"name": "Revolver flamboyant",
 		"avatar": {
 			"name": "Cobalt-B",
-			"description": "Inconnu",
 			"advanceId": "imitation_10L1",
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
@@ -2215,7 +2203,6 @@
 		"name": "Lame Guren",
 		"avatar": {
 			"name": "Claudia",
-			"description": "Inconnu",
 			"advanceId": "imitation_12L1",
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
@@ -2256,7 +2243,7 @@
 					"id": "GA_FPlayerSwordMelee_AirAttack_SSR"
 				},
 				{
-					"name": "Cyclone",
+					"name": "de mer-sable",
 					"description": "Pressez et maintenez appuyé le bouton d'attaque normale après des attaques normales pour déclencher Cyclone.\r\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts équivalant à **50.2%** de l'ATQ + **301** à une seule cible.",
 					"icon": "skill_sword_branch",
 					"id": "GA_FPlayerSwordMelee_Branch_SSR"
@@ -2369,7 +2356,6 @@
 		"name": "Chakram des mers",
 		"avatar": {
 			"name": "Shiro",
-			"description": "Inconnu",
 			"advanceId": "imitation_8L1",
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
@@ -2522,7 +2508,6 @@
 		"name": "Cube du néant",
 		"avatar": {
 			"name": "Zero",
-			"description": "Inconnu",
 			"advanceId": "imitation_1L1",
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
@@ -2676,7 +2661,6 @@
 		"name": "Étoiles EM doubles",
 		"avatar": {
 			"name": "Samir",
-			"description": "Inconnu",
 			"advanceId": "imitation_5L1",
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
@@ -2823,7 +2807,6 @@
 		"name": "Bouclier fournaise V2",
 		"avatar": {
 			"name": "Huma",
-			"description": "Inconnu",
 			"advanceId": "imitation_6L1",
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
@@ -2970,7 +2953,6 @@
 		"name": "Dragon azur",
 		"avatar": {
 			"name": "Huang",
-			"description": "Inconnu",
 			"advanceId": "imitation_41L1",
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
@@ -3126,11 +3108,169 @@
 		],
 		"id": "mimi_thunder"
 	},
+	"Linghan_ice": {
+		"name": "Tigre d'albâtre",
+		"avatar": {
+			"name": "Ling Han",
+			"advanceId": "imitation_43L1",
+			"weapon": "linghan_ice",
+			"icon": "imitation_43",
+			"avatarID": "linghan",
+			"id": "imitation_43"
+		},
+		"description": "Derrière la danse divine de mon épée et mes manches virevoltantes, qui peut sonder le fond de mon cœur ?",
+		"icon": "item_Weapon_SSR_Linghan_Ice01",
+		"gachaIcon": "UI_SSR_lh_linghan",
+		"rarity": "SSR",
+		"element": "Ice",
+		"weaponType": "Linghan",
+		"wc": "DPS",
+		"mats": {
+			"Item_Mine_ice": 39,
+			"Item_Mine_ice_02": 65,
+			"Item_breakthrough_B2": 65,
+			"Item_breakthrough_D2": 65,
+			"Item_Mine_ice_03": 32,
+			"Item_breakthrough_B3": 32,
+			"Item_breakthrough_D3": 32,
+			"Item_breakthrough_B1": 35,
+			"Item_breakthrough_D1": 32
+		},
+		"advanceID": "Linghan_ice_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "Technique de l'épée : Taille-lune",
+					"description": "Lorsque vous êtes au sol, utilisez l'attaque normale pour lancer 6attaques d'affilée.\r\nPremière attaque: inflige des dégâts équivalant à **97.8%** de l'ATQ + **587** et repousse la cible.\r\nDeuxième attaque: inflige des dégâts équivalant à **129.4%** de l'ATQ + **776** et repousse la cible.\r\nTroisième attaque: inflige des dégâts équivalant à **207.2%** de l'ATQ +**1243** et repousse la cible.\r\nQuatrième attaque: inflige des dégâts équivalant à **125%** de l'ATQ + **750** et repousse la cible.\r\nCinquième attaque: inflige des dégâts équivalant à **226%** de l'ATQ + **1356** et attire les ennemis en face de l'Explorateur.\r\nSixième attaque: inflige des dégâts équivalant à **253.6%** de l'ATQ + **1521** et projette la cible.\r\nAprès avoir déclenché Technique de l'épée: Taille-lune, appuyez et maintenez Attaque normale pour déclencher **Technique de l'épée: Neige éternelle**.\r\n\r\nLorsqu'une attaque normale de **Tigre d'albâtre** touche une cible, applique **1**cumul de **Fissure cristalline** à la cible, lui infligeant des dégâts d'attaque normale équivalant à **48%** de l'ATQ chaque seconde pendant **15**secondes. Seul **1**cumul de Fissure cristalline peut être appliqué à la même cible toutes les **4**secondes. Cumulable jusqu'à **3**fois. Les cumuls disparaissent un par un lorsque l'effet prend fin.",
+					"icon": "skill_linghan_melee",
+					"id": "GA_FPlayerLinghanMelee_Melee"
+				},
+				{
+					"name": "Technique de l'épée : Cri de l'épée",
+					"description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour lancer 6attaques consécutives en l'air, consommant de l'endurance.\r\nPremière attaque: inflige des dégâts équivalant à **95.9%** de l'ATQ + **575**.\r\nDeuxième attaque: inflige des dégâts équivalant à **100.7%** de l'ATQ + **604**.\r\nTroisième attaque: inflige des dégâts équivalant à **218.6%** de l'ATQ + **1311**.\r\nQuatrième attaque: inflige des dégâts équivalant à **130%** de l'ATQ + **780**.\r\nCinquième attaque: inflige des dégâts équivalant à **213.7%** de l'ATQ + **1282**.\r\nSixième attaque: inflige des dégâts équivalant à **256.9%** de l'ATQ + **1541**.",
+					"icon": "skill_linghan_airattack",
+					"id": "GA_FPlayerLinghanMelee_AirAttack"
+				},
+				{
+					"name": "Technique de l'épée : Neige éternelle",
+					"description": "Lorsque vous utilisez l'attaque normale au sol, appuyez et maintenez Attaque normale pour déclencher Technique de l'épée: Neige éternelle.\r\nManipulez l'épée par la pensée tout en consommant de l'endurance, pendant que l'Explorateur gagne Hypercorps. Chaque attaque réussie inflige des dégâts équivalant à **140.8%** de l'ATQ + **845** aux cibles proches.\r\nLorsque Technique de l'épée: Neige éternelle se termine, libère une puissante aura d'épée, infligeant des dégâts équivalant à **422.4%** de l'ATQ + **2534** aux cibles proches.",
+					"icon": "skill_linghan_powerattack",
+					"id": "GA_FPlayerLinghanMelee_PowerAttack"
+				},
+				{
+					"name": "Technique de l'épée : Chute de givre",
+					"description": "Appuyez et maintenez Attaque normale dans les airs (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Technique de l'épée: Chute de givre.\r\nEn descendant, vous infligez des dégâts équivalant à **75%** de l'ATQ + **450** chaque fois que la cible est touchée. À l'atterrissage, vous infligez des dégâts équivalant à **366.7%** de l'ATQ + **2200** aux cibles proches.",
+					"icon": "skill_linghan_jumpattack",
+					"id": "GA_FPlayerLinghanMelee_JumpAttack"
+				},
+				{
+					"name": "Pas léger",
+					"description": "Pendant que l'Explorateur est dans les airs après un double saut, appuyez sur Sauter pour déclencher Pas léger. Effectuez une brève ruée vers le haut avant de redescendre en glissant en continu. Dans les airs, Pas léger peut être utilisé jusqu'à **2**fois.\r\nAu sol, Pas léger récupère **1**tentative d'utilisation toutes les **10**secondes (changer de zone, changer d'arme ou déséquiper **Tigre d'albâtre** réinitialise les tentatives d'utilisation).",
+					"icon": "skill_linghan_qinggong",
+					"id": "GA_FPlayerLinghanMelee_QingGong"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Esquiver",
+					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
+					"icon": "common_evade",
+					"id": "GA_FPlayerLinghanEvade_Evade"
+				},
+				{
+					"name": "Technique de l'épée : Nuages en cascade",
+					"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez un bouton directionnel avant d'esquiver) pour déclencher Technique de l'épée: Nuages en cascade, infligeant des dégâts équivalant au maximum à **305%** de l'ATQ + **1830** aux cibles touchées.",
+					"icon": "skill_linghan_fevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "Technique de l'épée : Âme mortelle",
+					"description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Technique de l'épée: Âme mortelle. Crée une illusion en forme de Tigre blanc, infligeant des dégâts équivalant à **174.3%** de l'ATQ + **1046** aux cibles en vue.",
+					"icon": "skill_linghan_bevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "Technique de l'épée: Glace ombrée",
+					"description": "Inflige des dégâts équivalant à **370.2%** de l'ATQ + **2221** aux cibles proches et les attire. Forme ensuite un Réseau d'épées qui fait s'abattre une pluie d'épées et **gèle longuement** les cibles (non disponible en Ligue ultime et contre les boss) pendant **4**secondes. Temps de recharge: **30**secondes.\r\nAprès avoir réussi Technique de l'épée: Glace ombrée, l'Explorateur diffuse de l'**Air froid**, infligeant des dégâts équivalant à **68%** de l'ATQ aux cibles proches chaque seconde et réduisant leur vitesse de **30%** (non disponible en Ligue ultime et contre les boss).\r\nAprès avoir exécuté Technique de l'épée: Glace ombrée jusqu'au bout, l'Explorateur crée un grand nombre de **Lames de givre** et lance **1**lame toutes les **7,5**secondes à la cible verrouillée, lui infligeant des dégâts équivalant à **360%** de l'ATQ ainsi que l'effet **Réduction de température**. Jusqu'à **3****Lames de givre** peuvent être créées au début, et toutes les lames disparaissent en état hors combat.\r\n**Réduction de température**: inflige des dégâts aux cibles proches équivalant à **240%** de l'ATQ toutes les **3**secondes pendant **12**secondes.",
+					"icon": "skill_linghan_skill",
+					"id": "GA_FPlayerLinghanSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Technique de l'épée: Appel glacé",
+					"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, au moment où vous changez d'arme pour passer à celle-ci, **élimine toutes les altérations sur l'Explorateur** et invoque un Réseau d'épées autour de lui, plongeant la zone dans le froid et infligeant des dégâts équivalant au maximum à **844.5%** de l'ATQ + **5067** aux cibles proches. Peu après, invoque un Tigre blanc, infligeant des dégâts équivalant à **1971%** de l'ATQ + **11825**. Pendant cette compétence, l'immunité aux dégâts dure **1,5**secondes (non disponible en Ligue ultime).\r\n**Effet passif**: lorsque Technique de l'épée: Appel glacé touche une cible, accroît les dégâts finaux de **8%** pendant **30**secondes.",
+					"icon": "skill_linghan_changeskill",
+					"id": "GA_FPlayerLinghanChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Froid extrême: Décharge**: après avoir utilisé **Technique de l'épée: Glace ombrée**, inflige chaque seconde des dégâts équivalant à **70%** de l'ATQ de givre + **10%** des PV max de l'Explorateur + **36%** de la somme de tous les types de résistance de l'Explorateur + **1.35%** de crit pendant **30**secondes. Les dégâts de Décharge multiple ne se cumulent pas et les dégâts de Froid extrême sont comptabilisés comme des dégâts de la compétence. Si **1**arme de foudre, de feu ou physique est équipée, les dégâts de Froid extrême sont multipliés par **1.3**. Par ailleurs, les dégâts de Froid extrême ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "None"
+			},
+			{
+				"description": "Après avoir lancé **Lames de givre**, accroît l'ATQ de givre de l'Explorateur de **10%** et inflige aux cibles proches des dégâts équivalant à **80%** de l'ATQ chaque seconde pendant **30** secondes.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "L'Explorateur peut faire apparaître jusqu'à **4****Lames de givre** et le multiplicateur de base des dégâts de **Réduction de température** passe à **360%**.\r\nSi une seule cible est affectée par **Réduction de température** dans un délai de **6**secondes, inflige également l'effet **Veine scellée** à la cible, réduisant sa vitesse de **30%** (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de **Lame de givre** pendant la durée de **Veine scellée**, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à **17%** de l'ATQ + **2%** des PV déjà perdus par la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à **20%** ni supérieurs à **22%** de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets **Veine scellée** et **Réduction de température** de la cible.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Accroît de **32%** la croissance d'ATQ de base de l'arme actuelle.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Accroît les dégâts infligés par **Fissure cristalline** et **Air froid** de **50%** supplémentaires. Accroît les tentatives d'utilisation de **Pas léger** de **10**, ainsi que le taux de récupération de **1**tentative toutes les **3**secondes.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "L'effet **Réduction de température** infligé après avoir lancé **Lames de givre** s'applique désormais à une zone et inflige aux cibles proches des dégâts supplémentaires équivalant à **990%** de l'ATQ.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			}
+		],
+		"id": "Linghan_ice"
+	},
 	"Suspension_thunder": {
 		"name": "Venus",
 		"avatar": {
 			"name": "Nemesis",
-			"description": "Inconnu",
 			"advanceId": "imitation_17L1",
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
@@ -3284,7 +3424,6 @@
 		"name": "Balmung",
 		"avatar": {
 			"name": "Frigg",
-			"description": "Inconnu",
 			"advanceId": "imitation_28L1",
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
@@ -3370,7 +3509,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. Activez-la en équipant au moins **2**armes de givre. Cet effet fonctionne également avec les armes dans l'emplacement main libre. Non cumulable avec des effets du même type.",
+				"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. Activez-la en équipant au moins **2**armes de givre. Cet effet fonctionne également avec les armes dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.",
 				"stats": {
 					"shatter": 8,
 					"charge": 8
@@ -3432,7 +3571,6 @@
 		"name": "Étincelle",
 		"avatar": {
 			"name": "Ruby",
-			"description": "Inconnu",
 			"advanceId": "imitation_21L1",
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
@@ -3508,7 +3646,7 @@
 			"skill": [
 				{
 					"name": "Collisionneur d'étincelles",
-					"description": "Étincelle lance l'attaque Étincelles, qui dure 15secondes et rebondit entre les cibles et l'Explorateur. Lorsqu'elles touchent une cible, les étincelles la ralentissent pendant **4**secondes avec un temps de recharge de **15**secondes. Plus les étincelles mettent de temps à atteindre leur cible, plus elles infligent de dégâts. À l'impact, elles infligent des dégâts équivalant à **350%** de l'ATQ + **4200** et appliquent une marque d'Inflammation sur la cible qui persiste pendant **25**secondes. Au même moment, Étincelle tire 4balles en direction de sa cible. Chacune de ces balles inflige des dégâts équivalant à **50%** de l'ATQ + **300**. Les attaques normales d'Étincelle infligent **30%** de dégâts supplémentaires aux cibles marquées par Inflammation. Lorsque les étincelles atteignent des cibles brûlées par l'Explorateur, elles brûlent ou embrasent la cible une fois, ce qui inflige des dégâts supplémentaires équivalant à **45%** du total de dégâts restants (les effets de brûlure ou d'embrasement multiples sont comptés ensemble) et seront automatiquement décomptés une fois. Le résultat du calcul du temps de recharge est de **6**secondes. Le temps de recharge de la compétence est de **30**secondes.\r\n**Effet passif**: pendant toute la durée d'Étincelles, chaque fois que des dégâts sont infligés par Étincelles ou Attaque d'étincelles, l'Explorateur gagne **1**point de Chaleur (à intervalle de **0,9**seconde) jusqu'à un plafond de **8**points. Lorsque ce plafond est atteint, l'Explorateur reçoit l'effet Chaleur ultime qui augmente son ATQ de feu de **10%** pendant **25**secondes.",
+					"description": "Étincelle lance l'attaque Étincelles, qui dure 15secondes et rebondit entre les cibles et l'Explorateur. Lorsqu'elles touchent une cible, les étincelles la ralentissent pendant **4**secondes avec un temps de recharge de **15**secondes. Plus les étincelles mettent de temps à atteindre leur cible, plus elles infligent de dégâts. À l'impact, elles infligent des dégâts équivalant à **380%** de l'ATQ + **4200** et appliquent une marque d'Inflammation sur la cible qui persiste pendant **25**secondes. Au même moment, Étincelle tire 4balles en direction de sa cible. Chacune de ces balles inflige des dégâts équivalant à **50%** de l'ATQ + **300**. Les attaques normales d'Étincelle infligent **30%** de dégâts supplémentaires aux cibles marquées par Inflammation. Lorsque les étincelles atteignent des cibles brûlées par l'Explorateur, elles brûlent ou embrasent la cible une fois, ce qui inflige des dégâts supplémentaires équivalant à **45%** du total de dégâts restants (les effets de brûlure ou d'embrasement multiples sont comptés ensemble) et seront automatiquement décomptés une fois. Le résultat du calcul du temps de recharge est de **6**secondes. Le temps de recharge de la compétence est de **30**secondes.\r\n**Effet passif**: pendant toute la durée d'Étincelles, chaque fois que des dégâts sont infligés par Étincelles ou Attaque d'étincelles, l'Explorateur gagne **1**point de Chaleur (à intervalle de **0,9**seconde) jusqu'à un plafond de **8**points. Lorsque ce plafond est atteint, l'Explorateur reçoit l'effet Chaleur ultime qui augmente son ATQ de feu de **10%** pendant **25**secondes.",
 					"icon": "funnel_skill",
 					"id": "GA_FPlayerFunnelSkillFire"
 				}
@@ -3586,7 +3724,6 @@
 		"name": "Flux de cœur",
 		"avatar": {
 			"name": "Saki Fuwa",
-			"description": "Inconnu",
 			"advanceId": "imitation_22L1",
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
@@ -3676,7 +3813,7 @@
 			"discharge": [
 				{
 					"name": "Lotus du cœur",
-					"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, changer d'arme pour utiliser celle-ci **supprime toutes les altérations sur l'Explorateur**, et vous foncez sur la cible en effectuant une attaque combo, infligeant des dégâts équivalant à **536%** de l'ATQ + **3216**.",
+					"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, changer d'arme pour utiliser celle-ci **supprime toutes les altérations sur l'Explorateur**, et vous foncez sur la cible en effectuant une attaque combo, infligeant des dégâts équivalant à **590%** de l'ATQ + **3216**.",
 					"icon": "skill_dkatana_changeskill",
 					"id": "GA_FPlayerDkatanaChangeSkill_Success"
 				}
@@ -3746,7 +3883,6 @@
 		"name": "Tissombre",
 		"avatar": {
 			"name": "Lin",
-			"description": "Inconnu",
 			"advanceId": "imitation_23L1",
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
@@ -3904,7 +4040,6 @@
 		"name": "Brise-tonnerre",
 		"avatar": {
 			"name": "Tian Lang",
-			"description": "Inconnu",
 			"advanceId": "imitation_29L1",
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
@@ -3940,7 +4075,7 @@
 				},
 				{
 					"name": "Mizar",
-					"description": "Lorsque vous êtes au sol, attaquez 6fois de suite avec Brise-tonnerre.\r\nPremière attaque: inflige des dégâts équivalant à **90.5%** de l'ATQ + **543** et repousse la cible.\r\nDeuxième attaque: inflige des dégâts équivalant à **67.9%** de l'ATQ + **407** et repousse la cible.\r\nTroisième attaque: inflige des dégâts équivalant à **123%** de l'ATQ + **738** et repousse la cible.\r\nQuatrième attaque: inflige des dégâts équivalant à **217.9%** de l'ATQ + **1307** et repousse la cible.\r\nCinquième attaque: inflige des dégâts équivalant à **222%** de l'ATQ + **1332** et repousse la cible.\r\nSixième attaque: inflige des dégâts équivalant à **291.8%** de l'ATQ + **1751** et projette la cible.",
+					"description": "Lorsque vous êtes au sol, attaquez 6fois de suite avec Brise-tonnerre.\r\nPremière attaque: inflige des dégâts équivalant à **99.3%** de l'ATQ + **543** et repousse la cible.\r\nDeuxième attaque: inflige des dégâts équivalant à **73.2%** de l'ATQ + **407** et repousse la cible.\r\nTroisième attaque: inflige des dégâts équivalant à **135.8%** de l'ATQ + **738** et repousse la cible.\r\nQuatrième attaque: inflige des dégâts équivalant à **240.5%** de l'ATQ + **1307** et repousse la cible.\r\nCinquième attaque: inflige des dégâts équivalant à **240.1%** de l'ATQ + **1332** et repousse la cible.\r\nSixième attaque: inflige des dégâts équivalant à **314.1%** de l'ATQ + **1751** et projette la cible.",
 					"icon": "skill_tianlang_melee",
 					"id": "GA_PlayerTianLangMelee_Melee"
 				},
@@ -4058,7 +4193,6 @@
 		"name": "Vesper",
 		"avatar": {
 			"name": "Lyre",
-			"description": "Inconnu",
 			"advanceId": "imitation_24L1",
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
@@ -4146,13 +4280,13 @@
 				},
 				{
 					"name": "Tombétoile",
-					"description": "Bondir sur la cible inflige des dégâts équivalant à **702.1%** de l'ATQ + **4212** et la **suspend longuement**. Inflige une marque de l'Illumination sur la cible pendant **18** secondes. Temps de recharge: **20**secondes.",
+					"description": "Bondir sur la cible inflige des dégâts équivalant à **771%** de l'ATQ + **4212** et la **suspend longuement**. Inflige une marque de l'Illumination sur la cible pendant **18** secondes. Temps de recharge: **20**secondes.",
 					"icon": "skill_arm_airattack2",
 					"id": "GA_FPlayerArmPublishSkillPhy"
 				},
 				{
 					"name": "Lèvebrillance",
-					"description": "Pilonne le sol et **projette fortement** les cibles en face, infligeant des dégâts équivalant à **702.1%** de l'ATQ + **4212** et invoque jusqu'à **3****lames** pendant **75**secondes (jusqu'à 1lame tous les 2mètres). Cette compétence peut être utilisée jusqu'à **3**fois, avec un temps de recharge de **20**secondes à chaque fois. La coexistence de 2**lames** sur le terrain crée une **Clairbrillance**. Lorsqu'une **lame** est touchée, elle soigne les cibles au sein du rayon de mouvement, restaurant des PV équivalant à **25%** de l'ATQ de la cible. La coexistence de 3**lames** crée une **Nébuleuse**. Lorsqu'une **lame** est touchée, elle inflige des dégâts aux cibles se trouvant dans le rayon de mouvement équivalant à **150%** de l'ATQ x la distance de mouvement / **5**m.",
+					"description": "Pilonne le sol et **projette fortement** les cibles en face, infligeant des dégâts équivalant à **771%** de l'ATQ + **4212** et invoque jusqu'à **3****lames** pendant **75**secondes (jusqu'à 1lame tous les 2mètres). Cette compétence peut être utilisée jusqu'à **3**fois, avec un temps de recharge de **20**secondes à chaque fois. La coexistence de 2**lames** sur le terrain crée une **Clairbrillance**. Lorsqu'une **lame** est touchée, elle soigne les cibles au sein du rayon de mouvement, restaurant des PV équivalant à **25%** de l'ATQ de la cible. La coexistence de 3**lames** crée une **Nébuleuse**. Lorsqu'une **lame** est touchée, elle inflige des dégâts aux cibles se trouvant dans le rayon de mouvement équivalant à **150%** de l'ATQ x la distance de mouvement / **5**m.",
 					"icon": "skill_arm_skill2",
 					"id": "GA_FPlayerArmLawSkillPhy"
 				}
@@ -4230,7 +4364,6 @@
 		"name": "Art perdu",
 		"avatar": {
 			"name": "Rubilia",
-			"description": "Inconnu",
 			"advanceId": "imitation_48L1",
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
@@ -4286,7 +4419,7 @@
 			"dodge": [
 				{
 					"name": "Esquiver",
-					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 					"icon": "common_evade",
 					"id": "GA_FPlayerRubiliaEvade_Evade"
 				},
@@ -4325,8 +4458,8 @@
 			],
 			"discharge": [
 				{
-					"name": "Étreinte d'Harrah",
-					"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, changer d'arme pour utiliser celle-ci **supprime toutes les altérations sur l'Explorateur** et invoque Harrah qui lance **12** Balles tempête, chacune infligeant des dégâts équivalant à **68.8%** de l'ATQ + **413** aux cibles proches. Pendant ce temps, l'Explorateur gagne une immunité aux dégâts pendant **1,5** seconde. Non disponible en Ligue ultime.\r\nAccroît les dégâts de foudre de **7%** pendant **30** secondes après avoir utilisé Étreinte d'Harrah. Génère également **3** épines de crystamax (jusqu'à **5** simultanément). Les épines de crystamax commencent avec **100%** de PV max, ne peuvent pas être attaquées, ne peuvent être soignées qu'avec **Rétroaction** et durent **150** secondes.\r\nGagnez **2** **Rétroactions** après une attaque réussie d'Étreinte d'Harrah. Cumulable jusqu'à **4** fois. Art perdu consomme **1** **Rétroaction** pour chaque attaque d'esquive, infligeant à la cible des dégâts équivalant au nombre d'épines de crystamax × **72%** de l'ATQ, régénérant **25%** des PV max de toutes les épines de crystamax, et réinitialisant l'emplacement et la durée des épines de crystamax.\r\nAprès avoir porté un coup avec Étreinte d'Harrah, gagnez **1** opportunité d'esquiver sans consommer de tentative d'esquive.",
+					"name": "Étreinte de Harrah",
+					"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, changer d'arme pour utiliser celle-ci **supprime toutes les altérations sur l'Explorateur** et invoque Harrah qui lance **12** Balles tempête, chacune infligeant des dégâts équivalant à **68.8%** de l'ATQ + **413** aux cibles proches. Pendant ce temps, l'Explorateur gagne une immunité aux dégâts pendant **1,5** seconde. Non disponible en Ligue ultime.\r\nAccroît les dégâts de foudre de **7%** pendant **30** secondes après avoir utilisé Étreinte de Harrah. Génère également **3** épines de crystamax (jusqu'à **5** simultanément). Les épines de crystamax commencent avec **100%** de PV max, ne peuvent pas être attaquées, ne peuvent être soignées qu'avec **Rétroaction** et durent **150** secondes.\r\nGagnez **2** **Rétroactions** après une attaque réussie d'Étreinte de Harrah. Cumulable jusqu'à **4** fois. Art perdu consomme **1** **Rétroaction** pour chaque attaque d'esquive, infligeant à la cible des dégâts équivalant au nombre d'épines de crystamax × **72%** de l'ATQ, régénérant **25%** des PV max de toutes les épines de crystamax, et réinitialisant l'emplacement et la durée des épines de crystamax.\r\nAprès avoir porté un coup avec Étreinte de Harrah, gagnez **1** opportunité d'esquiver sans consommer de tentative d'esquive.",
 					"icon": "skill_rubilia_changeskill",
 					"id": "GA_FPlayerRubiliaChangeSkill_Success"
 				}
@@ -4382,7 +4515,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Accroît de **NaN%** supplémentaires les dégâts de foudre pendant **NaN** secondes après avoir utilisé Étreinte d'Harrah.",
+				"description": "Accroît de **NaN%** supplémentaires les dégâts de foudre pendant **NaN** secondes après avoir utilisé Étreinte de Harrah.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4396,7 +4529,6 @@
 		"name": "Aile inflexible",
 		"avatar": {
 			"name": "Alyss",
-			"description": "Inconnu",
 			"advanceId": "imitation_30L1",
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
@@ -4470,7 +4602,7 @@
 				},
 				{
 					"name": "Esquiver",
-					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 					"icon": "skill_dgun_evade",
 					"id": "GA_FPlayerIceBladeEvadeIce_Evade"
 				}
@@ -4494,7 +4626,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. Activez-la en équipant au moins **2**armes de givre. Cet effet fonctionne également avec les armes dans l'emplacement main libre. Non cumulable avec des effets du même type.",
+				"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. Activez-la en équipant au moins **2**armes de givre. Cet effet fonctionne également avec les armes dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.",
 				"stats": {
 					"shatter": 8,
 					"charge": 12
@@ -4556,7 +4688,6 @@
 		"name": "Croix de trèfle",
 		"avatar": {
 			"name": "Annabella",
-			"description": "Inconnu",
 			"advanceId": "imitation_26L1",
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
@@ -4704,7 +4835,6 @@
 		"name": "Comète de pin",
 		"avatar": {
 			"name": "Liu Huo",
-			"description": "Inconnu",
 			"advanceId": "imitation_37L1",
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
@@ -4882,7 +5012,6 @@
 		"name": "Mobius",
 		"avatar": {
 			"name": "Umi",
-			"description": "Inconnu",
 			"advanceId": "imitation_31L1",
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
@@ -5054,7 +5183,6 @@
 		"name": "Floraison éternelle",
 		"avatar": {
 			"name": "Fei Se",
-			"description": "Inconnu",
 			"advanceId": "imitation_51L1",
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
@@ -5096,7 +5224,7 @@
 				},
 				{
 					"name": "Automne d'or",
-					"description": "Lorsque vous l'utilisez au sol, appuyez et maintenez Attaque normale lors de l'utilisation des attaques normales un à trois pour déclencher Automne d'or.\r\nAttire les cibles proches, infligeant des dégâts équivalant à **259%** de l'ATQ + **1554** et les suspendant.",
+					"description": "Lorsque vous êtes au sol, appuyez et maintenez Attaque normale lors de l'utilisation des attaques normales un à trois pour déclencher Automne d'or.\r\nAttire les cibles proches, infligeant des dégâts équivalant à **259%** de l'ATQ + **1554** et les suspendant.",
 					"icon": "feise_branch1",
 					"id": "GA_FPlayerFeiseMelee_Branch1"
 				},
@@ -5122,13 +5250,13 @@
 			"dodge": [
 				{
 					"name": "Esquiver",
-					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 					"icon": "common_evade",
 					"id": "GA_FPlayerFeiseEvade_Evade"
 				},
 				{
 					"name": "Dispersion",
-					"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez sur un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent infligeant des dégâts équivalant à **209%** de l'ATQ + **1254** aux cibles proches.\r\n\r\nPendant le **Mirage fantastique** de **Tourbillon**, lorsque la première attaque d'esquive infligée avec n'importe quelle arme touche sa cible, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n**Fantaisie de Fei Se**: À sa création, la Fantaisie de Fei Se copie **25%** de l'ATQ max de la cible et les ajoute à l'**ATQ de feu de base** de l'Explorateur (pas moins de **3300** et pas plus de **3450**; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'**une** Fantaisie de Fei Se à la fois.\r\n**Pétale de lotus**: À leur création, les Pétales de lotus sont égaux au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après leur création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
+					"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez sur un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent infligeant des dégâts équivalant à **209%** de l'ATQ + **1254** aux cibles proches.\r\n\r\nPendant le **Mirage fantastique** de **Tourbillon**, lorsque la première attaque d'esquive infligée avec n'importe quelle arme touche sa cible, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n**Fantaisie de Fei Se**: À sa création, la Fantaisie de Fei Se copie **25%** de l'ATQ max de la cible et les ajoute à l'**ATQ de feu de base** de l'Explorateur (pas moins de **6500** et pas plus de **10000**; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'**une** Fantaisie de Fei Se à la fois.\r\n**Pétale de lotus**: À leur création, les Pétales de lotus sont égaux au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après leur création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
 					"icon": "feise_evadefront",
 					"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 				},
@@ -5142,7 +5270,7 @@
 			"skill": [
 				{
 					"name": "Tourbillon",
-					"description": "Inflige des dégâts équivalant à **1008%** de l'ATQ + **6047** aux cibles proches et crée un Mirage fantastique, d'une durée maximale de **25**secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de **20**secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage:\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à **135%** de l'ATQ aux cibles dans le Mirage. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les **5**secondes, inflige Cœur flamboyant aux cibles dans le Mirage, leur infligeant des dégâts de brûlure équivalant à **20%** de l'ATQ pendant **5**secondes. Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de **6%** supplémentaires.",
+					"description": "Inflige des dégâts équivalant à **1008%** de l'ATQ + **6047** aux cibles proches et crée un Mirage fantastique, d'une durée maximale de **25**secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de **20**secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage:\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à **135%** de l'ATQ. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les **5**secondes, inflige Cœur flamboyant aux cibles à portée, leur infligeant des dégâts de brûlure équivalant à **20%** de l'ATQ pendant **5**secondes. Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de **15%** supplémentaires.",
 					"icon": "feise_skill1",
 					"id": "GA_FPlayerFeiseSkill_Skill1"
 				},
@@ -5156,7 +5284,7 @@
 			"discharge": [
 				{
 					"name": "Bassin de jade incomparable",
-					"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, **élimine toutes les altérations sur l'Explorateur** au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à **1090%** de l'ATQ + **6539**. Durant cette période, accorde une immunité aux dégâts pendant **1,5**seconde (non disponible en Ligue ultime).",
+					"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, **élimine toutes les altérations sur l'Explorateur** au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à **1090%** de l'ATQ + **6539**. Durant cette période, accorde une immunité aux dégâts pendant **2,6**secondes (non disponible en Ligue ultime).",
 					"icon": "feise_changeskill",
 					"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 				}
@@ -5164,7 +5292,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Explosion incandescente: Coupe rapide**: quand **Floraison éternelle** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux équivalant à **5%** de l'ATQ de feu + **8%** des PV max de l'Explorateur + **3%** de la somme de tous les types de résistance de l'Explorateur + **10%** de crit aux cibles proches. En combat, toutes les **0,5**seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion incandescente: Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **2.5**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
+				"description": "**Résonance de feu**: accroît l'ATQ de feu de **20%** et la résistance au feu de **40%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu ou de Réaction de feu, et Résonance de feu prévaut.\r\n**Explosion incandescente: Coupe rapide**: Quand **Floraison éternelle** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux aux cibles proches équivalant à **38%** de l'ATQ de feu + **1%** des PV max de l'Explorateur + **19%** de la somme de tous les types de résistance de l'Explorateur + **69%** de crit. En combat, toutes les **0,5**seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion ardente: Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **1.3**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5172,7 +5300,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Le multiplicateur de base des dégâts de **Cœur flamboyant** passe à **60%** de l'ATQ. En état de combat, si l'Explorateur inflige plusieurs effets de brûlure, le multiplicateur de base des dégâts de **Cœur flamboyant** est remplacé par le multiplicateur le plus élevé.",
+				"description": "Le multiplicateur de base des dégâts de **Cœur flamboyant** passe à **120%** de l'ATQ. En état de combat, si l'Explorateur inflige plusieurs effets de brûlure, le multiplicateur de base des dégâts de **Cœur flamboyant** est remplacé par le multiplicateur le plus élevé.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5204,7 +5332,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé dans le **Mirage**, les dégâts de **Cœur flamboyant** sont accrus de **12%** supplémentaires.\r\nLa consommation d'endurance d'**Effet du lotus** est réduite de **75%**.",
+				"description": "Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé dans le **Mirage**, accroît les dégâts de **Cœur flamboyant** de **15%** supplémentaires.\r\nLa consommation d'endurance d'**Effet du lotus** est réduite de **75%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5212,7 +5340,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Le multiplicateur de base des dégâts d'**Usure d'âme** passe à **270%** de l'ATQ, la capacité de fracture est doublée et après avoir touché une cible, vous avez **15%** de chances d'infliger un ralentissement de **65%** pendant **2**secondes (inefficace contre les boss en jeu en équipe et non disponible en Ligue ultime).",
+				"description": "Le multiplicateur de base des dégâts d'**Usure d'âme** passe à **900%** de l'ATQ, la capacité de fracture est doublée et vous avez **15%** de chances d'infliger un ralentissement de **65%** pendant **2**secondes après avoir touché une cible (inefficace contre les boss en jeu en équipe et non disponible en Ligue ultime).",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5226,7 +5354,6 @@
 		"name": "Gleipnir",
 		"avatar": {
 			"name": "Fenrir",
-			"description": "Inconnu",
 			"advanceId": "imitation_32L1",
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
@@ -5392,7 +5519,6 @@
 		"name": "Oiseau vermillon",
 		"avatar": {
 			"name": "Lan",
-			"description": "Inconnu",
 			"advanceId": "imitation_34L1",
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
@@ -5454,7 +5580,7 @@
 			"dodge": [
 				{
 					"name": "Esquiver",
-					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 					"icon": "skill_dgun_evade",
 					"id": "GA_FPlayerUmbrellaEvadeFire_Evade"
 				}
@@ -5558,7 +5684,6 @@
 		"name": "Le Précieux",
 		"avatar": {
 			"name": "Icarus",
-			"description": "Inconnu",
 			"advanceId": "imitation_35L1",
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
@@ -5614,7 +5739,7 @@
 			"dodge": [
 				{
 					"name": "Esquiver",
-					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 					"icon": "common_evade",
 					"id": "GA_FPlayerYoyoEvade_Evade"
 				},
@@ -5718,7 +5843,6 @@
 		"name": "Unité",
 		"avatar": {
 			"name": "Yu Lan",
-			"description": "Inconnu",
 			"advanceId": "imitation_38L1",
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
@@ -5908,7 +6032,6 @@
 		"name": "Tortue d'onyx",
 		"avatar": {
 			"name": "Ming Jing",
-			"description": "Inconnu",
 			"advanceId": "imitation_50L1",
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
@@ -5970,7 +6093,7 @@
 			"dodge": [
 				{
 					"name": "Esquiver",
-					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+					"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 					"icon": "common_evade",
 					"id": "GA_FPlayerZekeEvade_Evade"
 				},
@@ -6074,7 +6197,6 @@
 		"name": "Bracelet lunétoile",
 		"avatar": {
 			"name": "Fiona",
-			"description": "Inconnu",
 			"advanceId": "imitation_36L1",
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",

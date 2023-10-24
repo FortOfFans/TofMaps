@@ -56,7 +56,7 @@
 			"dodge": [
 				{
 					"name": "Flying Kick",
-					"description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar **58.2%** ATK plus **349**, membuat target terpental cukup jauh ke belakang, dan memberikan efek **Stun** kepada target selama **1** detik atau **0,5** detik kepada Wanderer.",
+					"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar **58.2%** ATK + **349**, memukul mundur target cukup jauh, dan memberikan efek **Stun** kepada target selama **1** detik atau **0,5** detik kepada Wanderer.",
 					"icon": "skill_spear_frontattack",
 					"id": "GA_FPlayerSpearEvade_FrontAttack_R"
 				},
@@ -158,7 +158,7 @@
 			"dodge": [
 				{
 					"name": "Flying Blades",
-					"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target **Terpental Ke Atas** dan menimpakan DMG sebesar **21.5%** ATK plus **129**. Terus tekan tombol untuk melemparkan hingga **6** Flying Blade lagi, masing-masing menimpakan DMG sebesar **8.9%** ATK plus **53**.",
+					"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target **terpental keras** dan menimpakan DMG sebesar **21.5%** ATK plus **129**. Terus tekan tombol untuk melemparkan hingga **6** Flying Blade lagi, masing-masing menimpakan DMG sebesar **8.9%** ATK plus **53**.",
 					"icon": "skill_ds_branch",
 					"id": "GA_FPlayerDsEvade_FrontAttack_R"
 				},
@@ -312,7 +312,7 @@
 			"normals": [
 				{
 					"name": "Serangan Biasa",
-					"description": "Saat di darat, tarik busur berulang kali untuk menyerang 5 kali.\r\nSerangan Pertama: Menimpakan DMG sebesar **0%** ATK plus **1**.\r\nSerangan Kedua: Menimpakan DMG sebesar **2%** ATK plus **3**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **4%** ATK plus **5**.\r\nSerangan Keempat: Menimpakan DMG sebesar **6%** ATK plus **7**.\r\nSerangan Kelima: Menimpakan DMG sebesar **8%** ATK plus **9** dan pukul mundur target dalam jarak dekat.",
+					"description": "Saat di darat, tarik busur berulang kali untuk menyerang 5 kali.\r\nSerangan Pertama: Menimpakan DMG sebesar **27.3%** ATK plus **164**.\r\nSerangan Kedua: Menimpakan DMG sebesar **24.4%** ATK plus **146**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **43.8%** ATK plus **263**.\r\nSerangan Keempat: Menimpakan DMG sebesar **67.8%** ATK plus **407**.\r\nSerangan Kelima: Menimpakan DMG sebesar **62.9%** ATK plus **377** dan pukul mundur target dalam jarak dekat.",
 					"icon": "bow_skill",
 					"id": "GA_FPlayerBowMeleeNew_Melee"
 				},
@@ -360,7 +360,7 @@
 			"discharge": [
 				{
 					"name": "Explosive Barrage",
-					"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan melancarkan Explosive Barrage ke arah target, menimpakan DMG sebesar **0%** ATK plus **1**.",
+					"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan melancarkan Explosive Barrage ke arah target, menimpakan DMG sebesar **396%** ATK plus **2376**.",
 					"icon": "skill_artifact11_1",
 					"id": "GA_FPlayerBowChangeSkill_Success"
 				}
@@ -381,7 +381,6 @@
 		"name": "Staff of Scars",
 		"avatar": {
 			"name": "Pepper",
-			"description": "Tak Diketahui",
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
@@ -442,7 +441,7 @@
 				},
 				{
 					"name": "Surge",
-					"description": "Tekan tombol Serangan Biasa selama durasi singkat Perfect Dodge Window (tekan tombol panah sebelum menghindar) untuk mengaktifkan Surge.\r\nSetiap Energy Pulse akan menimpakan DMG sebesar **30.5%** ATK plus **183** kepada target.\r\nMemberikan **75** poin Charge Senjata saat digunakan.",
+					"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Surge.\r\nSetiap Energy Pulse akan menimbulkan DMG sebesar **30.5%** ATK + **183** kepada target.\r\nMemberikan **75** poin Charge Senjata saat digunakan.",
 					"icon": "skill_staves_frontattack",
 					"id": "GA_FPlayerStavesEvade_FrontAttack"
 				},
@@ -533,7 +532,6 @@
 		"name": "The Terminator",
 		"avatar": {
 			"name": "Hilda",
-			"description": "Tak Diketahui",
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
@@ -655,7 +653,6 @@
 		"name": "Mini Hurricane",
 		"avatar": {
 			"name": "Gnonno",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_27L1",
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
@@ -735,7 +732,7 @@
 				},
 				{
 					"name": "Pursuing Tentacle",
-					"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Pursuing Tentacle, menimpakan DMG sebesar **106.3%** ATK plus **638** pada target di sekitar.",
+					"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk memicu Pursuing Tentacle, menimpakan DMG sebesar **106.3%** ATK plus **638** pada target di sekitar.",
 					"icon": "skill_chainsaw_evadeattack",
 					"id": "GA_FPlayerChainsawEvade_EvadeAttackFront"
 				}
@@ -821,7 +818,6 @@
 		"name": "Pummeler",
 		"avatar": {
 			"name": "Ene",
-			"description": "Tak Diketahui",
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
@@ -979,7 +975,6 @@
 		"name": "Nightingale Feather",
 		"avatar": {
 			"name": "Bai Ling",
-			"description": "Tak Diketahui",
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
@@ -1125,7 +1120,6 @@
 		"name": "Thunderous Halberd",
 		"avatar": {
 			"name": "Echo",
-			"description": "Tak Diketahui",
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
@@ -1186,7 +1180,7 @@
 			"dodge": [
 				{
 					"name": "Flying Kick",
-					"description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar **97.2%** ATK plus **583**, membuat target terpental cukup jauh ke belakang, dan memberikan efek **Stun** kepada target selama **1** detik atau **0,5** detik kepada Wanderer.",
+					"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar **97.2%** ATK + **583**, memukul mundur target cukup jauh, dan memberikan efek **Stun** kepada target selama **1** detik atau **0,5** detik kepada Wanderer.",
 					"icon": "skill_spear_frontattack",
 					"id": "GA_FPlayerSpearEvade_FrontAttackThu_SSR"
 				},
@@ -1283,7 +1277,6 @@
 		"name": "Thunderblades",
 		"avatar": {
 			"name": "Crow",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_13L1",
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
@@ -1345,7 +1338,7 @@
 			"dodge": [
 				{
 					"name": "Flying Blades",
-					"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nMenebas target **5** kali, masing-masing menimpakan DMG sebesar **0%** ATK plus **1**. Selama durasi Phase, menjadi kebal terhadap efek kontrol.",
+					"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nTebas target **5** kali, masing-masing menimpakan DMG sebesar **0%** ATK + **1**. Memberikan kekebalan terhadap efek kontrol saat proses phasing.",
 					"icon": "skill_ds_branch",
 					"id": "GA_FPlayerDsEvade_FrontAttackThu_SSR"
 				},
@@ -1436,7 +1429,6 @@
 		"name": "Rosy Edge",
 		"avatar": {
 			"name": "Meryl",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_3L1",
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
@@ -1510,7 +1502,7 @@
 				},
 				{
 					"name": "Devastate",
-					"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar **65.9%** ATK plus **395** setiap kena sasaran dan membuat target **Terpental Ke Atas**.",
+					"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar **65.9%** ATK plus **395** setiap kena sasaran dan membuat target **terpental ke atas**.",
 					"icon": "skill_bigsword_frontattack",
 					"id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR"
 				},
@@ -1601,7 +1593,6 @@
 		"name": "Icewind Arrow",
 		"avatar": {
 			"name": "Tsubasa",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_7L1",
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
@@ -1748,7 +1739,6 @@
 		"name": "Absolute Zero",
 		"avatar": {
 			"name": "Cocoritter",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_11L1",
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
@@ -1810,7 +1800,7 @@
 				},
 				{
 					"name": "Surge",
-					"description": "Tekan tombol Serangan Biasa selama durasi singkat Perfect Dodge Window (tekan tombol panah sebelum menghindar) untuk mengaktifkan Surge.\r\nSetiap Energy Pulse akan menimpakan DMG sebesar **45.9%** ATK plus **275** kepada target.\r\nMemberikan **75** poin Charge Senjata saat digunakan.",
+					"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Surge.\r\nSetiap Energy Pulse akan menimbulkan DMG sebesar **45.9%** ATK + **275** kepada target.\r\nMemberikan **75** poin Charge Senjata saat digunakan.",
 					"icon": "skill_staves_frontattack",
 					"id": "GA_FPlayerStavesEvade_FrontAttack_SSR"
 				},
@@ -1902,7 +1892,6 @@
 		"name": "Scythe of the Crow",
 		"avatar": {
 			"name": "KING",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_9L1",
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
@@ -1964,7 +1953,7 @@
 			"dodge": [
 				{
 					"name": "Returning Chainblade",
-					"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar **126.9%** ATK plus **761** dan menarik musuh di sekitar.",
+					"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar **126.9%** ATK plus **761** dan menarik musuh di sekitar.",
 					"icon": "skill_sickle_branch",
 					"id": "GA_FPlayerSickleEvade_FrontAttackFire_SSR"
 				},
@@ -2061,7 +2050,6 @@
 		"name": "Flaming Revolver",
 		"avatar": {
 			"name": "Cobalt-B",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_10L1",
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
@@ -2215,7 +2203,6 @@
 		"name": "Guren Blade",
 		"avatar": {
 			"name": "Claudia",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_12L1",
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
@@ -2369,7 +2356,6 @@
 		"name": "Chakram of the Seas",
 		"avatar": {
 			"name": "Shiro",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_8L1",
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
@@ -2522,7 +2508,6 @@
 		"name": "Negating Cube",
 		"avatar": {
 			"name": "Zero",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_1L1",
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
@@ -2676,7 +2661,6 @@
 		"name": "Dual EM Stars",
 		"avatar": {
 			"name": "Samir",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_5L1",
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
@@ -2823,7 +2807,6 @@
 		"name": "Molten Shield V2",
 		"avatar": {
 			"name": "Huma",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_6L1",
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
@@ -2970,7 +2953,6 @@
 		"name": "Azure Dragon",
 		"avatar": {
 			"name": "Huang",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_41L1",
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
@@ -3012,13 +2994,13 @@
 				},
 				{
 					"name": "Azure Dragon Pierce the Sun",
-					"description": "Saat di udara, tekan dan tahan Serangan Biasa saat menggunakan Serangan Biasa pertama sampai keempat untuk memicu Azure Dragon Pierce the Sun dan mengonsumsi Stamina.\r\nMenyerang ke depan, menimpakan DMG sebesar **329.7%** ATK plus **1978** dan membuat target terpental ke atas.\r\nSetelah memicu Azure Dragon Pierce the Sun, tekan dan tahan Serangan Biasa untuk memicu Thunder Burst.",
+					"description": "Saat di udara, tekan dan tahan Serangan Biasa saat menggunakan Serangan Biasa pertama sampai keempat untuk memicu Azure Dragon Pierce the Sun dan mengonsumsi Stamina.\r\nMenyerang ke depan, menimpakan DMG sebesar **329.7%** ATK plus **1978** pada target di sekitar dan membuat mereka terpental ke atas.\r\nSetelah memicu Azure Dragon Pierce the Sun, tekan dan tahan Serangan Biasa untuk memicu Thunder Burst.",
 					"icon": "skill_mimi_meleebranch",
 					"id": "GA_FPlayerMiMiMelee_MeleeBranch"
 				},
 				{
 					"name": "Thunder Burst",
-					"description": "Saat di darat, tekan dan tahan Serangan Biasa untuk memicu Thunder Burst.\r\nTerus-menerus menembakkan petir ke target di depan dan mengonsumsi Stamina, dan Wanderer mendapatkan Hyperbody. Setiap serangan yang menghantam lawan menimpakan DMG sebesar **53.5%** ATK plus **321** pada target di sekitar. Pada saat yang sama, memunculkan **1** Azura setiap **1,5** detik, yang menembakkan gelombang yang menimpakan DMG sebesar **99%** ATK plus **594** kepada target di sekitar.\r\nWanderer mendapatkan **10%** Perisai HP setiap **1,5** detik, maks hingga **30%**, aktif selama **15** detik.\r\nSetelah mengaktifkan Resonansi Fortitude:\r\nSetiap kali Thunder Burst atau gelombang menghantam lawan, target di sekitar akan terkena efek Taunt yang memaksa mereka untuk menyerang penggunanya selama **2** detik.\r\nSetiap kali Thunder Burst menghasilkan Perisai, Rekan Tim di sekitar akan menerima Perisai sebesar maks **10%** Max HP Wanderer.",
+					"description": "Saat di darat, tekan dan tahan Serangan Biasa untuk memicu Thunder Burst.\r\nTerus-menerus menembakkan petir pada target sambil mengonsumsi Stamina, dan Wanderer mendapatkan Hyperbody. Setiap serangan yang menghantam lawan menimpakan DMG sebesar **53.5%** ATK plus **321** pada target di sekitar. Pada saat yang sama, memunculkan **1** Azura setiap **1,5** detik, yang menembakkan gelombang yang menimpakan DMG sebesar **99%** ATK plus **594** kepada target di sekitar.\r\nWanderer mendapatkan Perisai sebesar **10%** Max HP setiap **1,5** detik, bertumpuk maks hingga **15%** Max HP, aktif selama **15** detik sejak Perisai yang pertama tercipta.\r\nSetelah mengaktifkan Resonansi Fortitude:\r\nSetiap kali gelombang Thunder Burst menghantam lawan, target di sekitar akan terkena efek Taunt yang memaksa mereka untuk menyerang penggunanya selama **2** detik.\r\nSetiap kali Thunder Burst menghasilkan Perisai, Rekan Tim di sekitar akan menerima Perisai sebesar maks **10%** Max HP Wanderer.",
 					"icon": "skill_mimi_powerattack",
 					"id": "GA_FPlayerMiMiMelee_PowerAttack"
 				},
@@ -3052,7 +3034,7 @@
 			"skill": [
 				{
 					"name": "Azure Moon",
-					"description": "Azure Dragon terbang ke langit. Selama durasi ini, Wanderer mendapatkan Hyperbody dan menimpakan DMG sebesar **1777.5%** ATK plus **10664** terhadap target di sekitar. Azure Dragon akan berputar selama **8** detik. Selama durasi ini, terus-menerus mengonsumsi Qinglong Might dan memunculkan hingga **8** Lightning Strike. Setiap Lightning Strike menimpakan DMG sebesar **649.9%** ATK plus **3899** terhadap target di sekitar, dan saat Azure Dragon menghilang, menimpakan DMG lagi sebesar **1485%** ATK plus **8909** terhadap target di sekitar. CD: **30** detik, dan CD ini tidak dapat dikurangi hingga kurang dari **20** detik. Azure Moon dapat diakumulasikan hingga **2** tumpuk penggunaan skill.\r\n**Pasif:** Saat **3** Senjata Volt terpasang, setelah Azure Moon menghantam lawan, menimpakan DMG Skill sebesar **250%** ATK terhadap target setiap **2** detik selama **30** detik.",
+					"description": "Azure Dragon terbang ke langit. Selama durasi ini, Wanderer mendapatkan Hyperbody dan menimpakan DMG sebesar **1777.5%** ATK plus **10664** terhadap target di sekitar. Azure Dragon akan berputar selama **8** detik. Selama durasi ini, terus-menerus mengonsumsi Qinglong Might dan memunculkan hingga **8** Lightning Strike. Setiap Lightning Strike menimpakan DMG sebesar **649.9%** ATK plus **3899** terhadap target di sekitar, dan saat Azure Dragon menghilang, menimpakan DMG lagi sebesar **1485%** ATK plus **8909** terhadap target di sekitar.\r\nCD: **30** detik, dan CD ini tidak dapat dikurangi hingga kurang dari **20** detik. Azure Moon dapat diakumulasikan hingga **2** tumpuk penggunaan skill.\r\n**Pasif:** Saat **3** Senjata Volt terpasang, setelah Azure Moon menghantam lawan, menimpakan DMG Skill sebesar **250%** ATK terhadap target setiap **2** detik selama **30** detik.",
 					"icon": "skill_mimi_skill",
 					"id": "GA_FPlayerMiMiSkill_Skill"
 				}
@@ -3060,7 +3042,7 @@
 			"discharge": [
 				{
 					"name": "Soaring Dragon",
-					"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke Senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan mengumpulkan Chi. Kemudian, menghantam tanah dan menyebabkan ledakan, yang menimpakan DMG sebesar **1514.7%** ATK plus **9087** kepada target di sekitar dan membuat mereka terpental ke atas. Saat diaktifkan, menjadi kebal terhadap DMG selama **1,5** detik (tak berlaku di Apex League).\r\n**Pasif:** Saat Phantasia terpicu, jika Azure Dragon sedang terpasang atau jika beralih ke Azure Dragon dari senjata lain, menimpakan DMG sebesar **5.000%** ATK terhadap target di sekitar. DMG ini tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan. Efek ini hanya dapat dipicu maks 1 kali setiap kali Phantasia terpicu.",
+					"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke Senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan mengumpulkan Chi. Kemudian, menghantam tanah dan menyebabkan ledakan, yang menimpakan DMG sebesar **1514.7%** ATK plus **9087** kepada target di sekitar dan membuat mereka terpental ke atas. Saat diaktifkan, menjadi kebal terhadap DMG selama **1,5** detik (tak berlaku di Apex League).\r\n**Pasif:** Saat Phantasia terpicu, jika Azure Dragon sedang terpasang atau jika beralih ke Azure Dragon dari senjata lain, menimpakan DMG sebesar **5.000%** ATK terhadap target di sekitar. DMG ini tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan. Efek ini hanya dapat dipicu maks 1 kali setiap kali Phantasia terpicu.",
 					"icon": "skill_mimi_changeskill",
 					"id": "GA_FPlayerMiMiChangeSkill_Success"
 				}
@@ -3068,7 +3050,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonansi Volt**: Volt ATK meningkat **15%** dan Volt Resistance meningkat **25%**. Aktifkan dengan memakai **2** Senjata Volt atau lebih. Efek set ini aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.\r\n**Thunderboom: On-Field**: Saat menghantam lawan dengan **Azure Dragon**, Thunderboom akan menimpakan DMG sebesar **1.313%** Volt ATK plus **2%** Max HP Wanderer plus **69%** dari jumlah total semua tipe Resistance Wanderer plus **2.5%** Crit. Efek ini dapat terpicu maks 1 kali setiap **1,5** detik. DMG Thunderboom dianggap sebagai DMG Serangan Biasa. Jika ada **1** Senjata Flame/Frost/Physical yang terpasang, DMG Thunderboom akan dikalikan **1.3**. DMG Thunderboom tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
+				"description": "**Resonansi Volt**: Volt ATK meningkat **15%** dan Volt Resistance meningkat **25%**. Aktifkan dengan memakai **2** Senjata Volt atau lebih. Efek set ini aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.\r\n\r\n**Thunderboom: On-Field**: Saat menghantam lawan dengan **Azure Dragon**, Thunderboom akan menimpakan DMG sebesar **1.313%** Volt ATK plus **2%** Max HP Wanderer plus **69%** dari jumlah total semua tipe Resistance Wanderer plus **2.5%** Crit. Efek ini dapat terpicu maks 1 kali setiap **1,5** detik. DMG Thunderboom dianggap sebagai DMG Serangan Biasa. Jika ada **1** Senjata Flame/Frost/Physical yang terpasang, DMG Thunderboom akan dikalikan **1.3**. DMG Thunderboom tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3092,7 +3074,7 @@
 				"need": "mimi_thunder_plasm"
 			},
 			{
-				"description": "Saat **Azure Dragon** terpasang, CD skill utama semua Senjata Volt berkurang **20%**. Efek ini tidak terpengaruh oleh efek lain yang menghapus, mereset, atau mengubah CD.\r\nVolt DMG Wanderer juga akan meningkat **15%**. Efek ini juga aktif saat senjata ada di slot sampingan.",
+				"description": "Saat **Azure Dragon** terpasang, CD dasar skill semua Senjata Volt berkurang **20%**. Efek ini tidak terpengaruh oleh efek lain yang menghapus, mereset, atau mengubah CD.\r\nVolt DMG Wanderer juga akan meningkat **15%**. Efek ini berfungsi saat senjata ada di slot sampingan.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3108,7 +3090,7 @@
 				"need": "mimi_thunder_plasm"
 			},
 			{
-				"description": "Saat Wanderer menerima DMG yang akan membuatnya mati, DMG tersebut akan dicegah 1 kali, dan Wanderer menjadi kebal terhadap DMG selama durasi singkat. Efek ini hanya dapat terpicu 1 kali setiap **60** detik dan berfungsi di slot sampingan.\r\nSetelah mengaktifkan Resonansi Fortitude:\r\nMenggunakan **Soaring Dragon** dapat mengabaikan Hyperbody dan menarik target di sekitar (tidak berlaku terhadap Boss).\r\nDalam permainan tim, **Thunder Burst** akan menghasilkan **1** Volt Timestamp setiap **6** detik saat mengumpulkan tenaga, yang akan terhubung sesuai dengan urutan kemunculan mereka untuk membentuk jaringan listrik. Jaringan listrik ini dapat menghalangi pergerakan dan DMG proyektil lawan. Tiap Volt Timestamp bisa aktif hingga **20** detik.",
+				"description": "Saat Wanderer menerima DMG yang akan membuatnya mati, DMG tersebut akan dicegah 1 kali, dan Wanderer menjadi kebal terhadap DMG selama durasi singkat. Efek ini hanya dapat terpicu 1 kali setiap **60** detik dan berfungsi di slot sampingan.\r\nSetelah mengaktifkan Resonansi Fortitude:\r\nMenggunakan **Soaring Dragon**, menarik target di sekitar, dan mengabaikan Hyperbody (tidak berlaku terhadap Boss).\r\nDalam permainan tim, **Thunder Burst** akan menghasilkan **1** Volt Timestamp setiap **6** detik saat mengumpulkan tenaga, yang akan terhubung sesuai dengan urutan kemunculan mereka untuk membentuk jaringan listrik. Jaringan listrik ini dapat menghalangi pergerakan dan DMG proyektil lawan. Tiap Volt Timestamp bisa aktif hingga **20** detik.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3126,11 +3108,169 @@
 		],
 		"id": "mimi_thunder"
 	},
+	"Linghan_ice": {
+		"name": "Alabaster Tiger",
+		"avatar": {
+			"name": "Ling Han",
+			"advanceId": "imitation_43L1",
+			"weapon": "linghan_ice",
+			"icon": "imitation_43",
+			"avatarID": "linghan",
+			"id": "imitation_43"
+		},
+		"description": "Dengan anggunnya gerakan tangan menyertai tarian pedang, siapa yang bisa memahami isi hati terdalamku ini?",
+		"icon": "item_Weapon_SSR_Linghan_Ice01",
+		"gachaIcon": "UI_SSR_lh_linghan",
+		"rarity": "SSR",
+		"element": "Ice",
+		"weaponType": "Linghan",
+		"wc": "DPS",
+		"mats": {
+			"Item_Mine_ice": 39,
+			"Item_Mine_ice_02": 65,
+			"Item_breakthrough_B2": 65,
+			"Item_breakthrough_D2": 65,
+			"Item_Mine_ice_03": 32,
+			"Item_breakthrough_B3": 32,
+			"Item_breakthrough_D3": 32,
+			"Item_breakthrough_B1": 35,
+			"Item_breakthrough_D1": 32
+		},
+		"advanceID": "Linghan_ice_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "Sword Art: Mooncutter",
+					"description": "Saat di darat, gunakan serangan biasa untuk melancarkan 6 serangan berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **97.8%** ATK plus **587** dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **129.4%** ATK plus **776** dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **207.2%** ATK plus **1243** dan memukul mundur target.\r\nSerangan Keempat: Menimpakan DMG sebesar **125%** ATK plus **750** dan memukul mundur target.\r\nSerangan Kelima: Menimpakan DMG sebesar **226%** ATK plus **1356** dan menarik musuh ke hadapan Wanderer.\r\nSerangan Keenam: Menimpakan DMG sebesar **253.6%** ATK plus **1521** dan membuat target terpental.\r\nSetelah mengaktifkan Sword Art: Mooncutter, tekan dan tahan Serangan Biasa untuk memicu **Sword Art: Endless Snow**.\r\n\r\nSetelah Serangan Biasa menggunakan **Alabaster Tiger** berhasil menghantam musuh, menerapkan **1** tumpuk **Crystalline Crack** pada target, menimpakan DMG Serangan Biasa sebesar **48%** ATK setiap detik selama **15** detik. Kamu hanya bisa menerapkan **1** tumpuk Crystalline Crack pada target yang sama setiap **4** detik, maks **3** tumpuk. Tumpukan akan menghilang satu per satu setelah durasi efek berakhir.",
+					"icon": "skill_linghan_melee",
+					"id": "GA_FPlayerLinghanMelee_Melee"
+				},
+				{
+					"name": "Sword Art: Plum Swordcry",
+					"description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 6 kali berturut-turut sambil mengonsumsi Stamina.\r\nSerangan Pertama: Menimpakan DMG sebesar **95.9%** ATK plus **575**.\r\nSerangan Kedua: Menimpakan DMG sebesar **100.7%** ATK plus **604**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **218.6%** ATK plus **1311**.\r\nSerangan Keempat: Menimpakan DMG sebesar **130%** ATK plus **780**.\r\nSerangan Kelima: Menimpakan DMG sebesar **213.7%** ATK plus **1282**.\r\nSerangan Keenam: Menimpakan DMG sebesar **256.9%** ATK plus **1541**.",
+					"icon": "skill_linghan_airattack",
+					"id": "GA_FPlayerLinghanMelee_AirAttack"
+				},
+				{
+					"name": "Sword Art: Endless Snow",
+					"description": "Saat melakukan Serangan Biasa di darat, tahan Serangan Biasa untuk mengaktifkan Sword Art: Endless Snow.\r\nMenggunakan kendali pikiran untuk memanipulasi pedang sambil mengonsumsi Stamina, dan Wanderer akan mendapatkan Hyperbody. Setiap serangan yang berhasil didaratkan akan menimpakan DMG sebesar **140.8%** ATK plus **845** pada target di sekitar.\r\nSaat Sword Art: Endless Snow berakhir, melepaskan Sword Aura yang kuat, menimpakan DMG sebesar **422.4%** ATK plus **2534** pada target di sekitar.",
+					"icon": "skill_linghan_powerattack",
+					"id": "GA_FPlayerLinghanMelee_PowerAttack"
+				},
+				{
+					"name": "Sword Art: Falling Frost",
+					"description": "Saat di udara, tekan dan tahan Serangan Biasa (tekan saat ada musuh yang bisa ditarget), atau tekan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Sword Art: Falling Frost.\r\nSambil menukik ke bawah, menimpakan DMG sebesar **75%** ATK plus **450** setiap kali mendaratkan serangan pada target. Saat mendarat, menimpakan DMG sebesar **366.7%** ATK plus **2200** pada target di sekitar.",
+					"icon": "skill_linghan_jumpattack",
+					"id": "GA_FPlayerLinghanMelee_JumpAttack"
+				},
+				{
+					"name": "Light Step",
+					"description": "Saat Wanderer berada di udara setelah menggunakan Double Jump, tekan lompat untuk memicu Light Step. Lari ke atas dalam waktu singkat sebelum meluncur secara terus-menerus. Saat di udara, Light Step dapat digunakan hingga **2** kali.\r\nSaat di darat, Light Step memulihkan **1** jatah penggunaan setiap **10** detik (berpindah area, berganti senjata, atau melepaskan **Alabaster Tiger** akan mereset jatah penggunaan).",
+					"icon": "skill_linghan_qinggong",
+					"id": "GA_FPlayerLinghanMelee_QingGong"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Menghindar",
+					"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, memperlambat target di dalam area tersebut. Saat menghindar, menjadi kebal terhadap Hitstun.",
+					"icon": "common_evade",
+					"id": "GA_FPlayerLinghanEvade_Evade"
+				},
+				{
+					"name": "Sword Art: Cloud Shower",
+					"description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar Sempurna (tekan tombol arah sebelum menghindar) untuk memicu Sword Art: Cloud Shower, menimpakan DMG sebesar **305%** ATK plus **1830** pada target yang terkena serangan.",
+					"icon": "skill_linghan_fevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "Sword Art: Mortal Soul",
+					"description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk mengaktifkan Sword Art: Mortal Soul. Melepaskan ilusi White Tiger yang menimpakan DMG sebesar **174.3%** ATK plus **1046** pada target di depan.",
+					"icon": "skill_linghan_bevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "Sword Art: Shadowy Ice",
+					"description": "Menimpakan DMG sebesar **370.2%** ATK plus **2221** ke target di sekitar dan menarik mereka. Kemudian, membentuk Sword Array untuk memunculkan hujan pedang yang deras dan **membekukan** target (tidak tersedia di Apex League dan saat melawan Boss) selama **4** detik. CD: **30** detik.\r\nSetelah berhasil menggunakan Sword Art: Shadowy Ice, Wanderer akan memancarkan **Cold Air**, menimpakan DMG sebesar **68%** ATK ke target di sekitar setiap detik dan mengurangi kecepatan target sebesar **30%** (tidak berlaku di Apex League dan saat melawan Boss).\r\nSetelah melancarkan Sword Art: Shadowy Ice secara lengkap, Wanderer menciptakan **Frost Blade** dalam jumlah besar, menembakkan **1** bilah setiap **7,5** detik ke target yang sedang terbidik, menimpakan DMG sebesar **360%** ATK dan menerapkan efek **Temperature Reduction** pada target. Pada awalnya, maks ada **3** **Frost Blade** yang tercipta, dan semua bilah akan hilang saat tidak dalam kondisi tempur.\r\n**Temperature Reduction**: Menimpakan DMG sebesar **240%** ATK setiap **3** detik ke target di sekitar selama **12** detik.",
+					"icon": "skill_linghan_skill",
+					"id": "GA_FPlayerLinghanSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Sword Art: Icy Beckon",
+					"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer**, dan memanggil Sword Array yang menyelimuti area dengan aura dingin di sekitar Wanderer, menimpakan DMG sebesar **844.5%** ATK plus **5067** pada target di sekitar. Setelah itu, memanggil White Tiger yang menimpakan DMG sebesar **1971%** ATK plus **11825**, dan menjadi kebal terhadap DMG selama **1,5** detik (tak berlaku di Apex League).\r\n**Pasif**: Setelah Sword Art: Icy Beckon menghantam musuh, Final DMG meningkat **8%** selama **30** detik.",
+					"icon": "skill_linghan_changeskill",
+					"id": "GA_FPlayerLinghanChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**Resonansi Frost**: Frost ATK meningkat **15%** dan Frost Resistance meningkat **25%**. Aktifkan dengan memakai **2** Senjata Frost atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan, dan tidak bisa ditumpuk dengan efek yang tipenya sama.\r\n**Extreme Cold: Unload**: Setelah menggunakan **Sword Art: Shadowy Ice**, menimpakan DMG tiap detik sebesar **70%** Frost ATK plus **10%** Max HP Wanderer plus **36%** jumlah total semua tipe Resistance Wanderer plus **1.35%** Crit selama **30** detik. DMG Unload yang ditimpakan beberapa kali tidak akan bertumpuk dan DMG Extreme Cold akan dianggap sebagai DMG dari Skill. Jika ada **1** Senjata Volt/Flame/Physical yang sedang terpasang, DMG Extreme Cold akan dikalikan **1.3**. DMG Extreme Cold tidak terpengaruh oleh efek DMG Boost apa pun kecuali dari stat langka Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "None"
+			},
+			{
+				"description": "Setelah mengaktifkan **Frost Blade**, Frost ATK Wanderer akan meningkat **10%** dan target di sekitarnya akan menerima DMG sebesar **80%** ATK setiap detik selama **30** detik.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Wanderer dapat menghasilkan hingga **4** **Frost Blade** dan pengali dasar DMG **Temperature Reduction** meningkat menjadi **360%**.\r\nJika target adalah satu-satunya yang terkena **Temperature Reduction** dalam jangka waktu **6** detik, Wanderer akan menimpakan **Vein Seal** pada target, yang akan mengurangi kecepatan mereka sebesar **30%** (tidak berlaku di Apex League dan saat melawan Boss). Jika target menerima DMG **Frost Blade** lagi selama durasi **Vein Seal**, Icy Burst akan terpicu, menimpakan DMG Skill sebesar **17%** ATK plus **2%** HP target yang sudah hilang pada saat itu (DMG Icy Burst tidak akan lebih rendah dari **20%** Frost ATK Wanderer dan tidak lebih tinggi dari **22%** Frost ATK Wanderer). Kemudian, efek **Vein Seal** dan **Temperature Reduction** pada target akan hilang.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "DMG yang ditimpakan oleh **Crystalline Crack** dan **Cold Air** meningkat **50%** lagi. Maks jatah penggunaan **Light Step** meningkat menjadi **10** dan tingkat pemulihannya meningkat menjadi **1** jatah penggunaan setiap **3** detik.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Efek **Temperature Reduction** yang ditimpakan setelah mengaktifkan **Frost Blade** sekarang diterapkan ke suatu area, dan juga memberikan DMG tambahan sebesar **990%** ATK pada target di sekitar.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			}
+		],
+		"id": "Linghan_ice"
+	},
 	"Suspension_thunder": {
 		"name": "Venus",
 		"avatar": {
 			"name": "Nemesis",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_17L1",
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
@@ -3198,7 +3338,7 @@
 				},
 				{
 					"name": "Parallel Beams",
-					"description": "Tekan Serangan Biasa selama durasi singkat Menghindar Sempurna (tekan tombol arah sebelum menghindar) untuk mengaktifkan Parallel Beam.\r\nVenus menembakkan sepasang sinar energi paralel yang menimpakan DMG menembus sebesar **171.6%** ATK plus **1030**.\r\nMenghindar akan mengaktifkan Healing Chain yang menyembuhkan kawan di sekitar sebesar **67,7%** ATK Wanderer. Selama **10** detik berikutnya, sebuah Healing Chain kecil akan diaktifkan setiap **2** detik, yang akan menyembuhkan kawan di sekitar sebesar **22,5%** ATK Wanderer. Menghindar akan memberikan **1** tumpuk Healing Chain Enhance, yang meningkatkan efek Healing Chain sebesar **25%** (bisa bertumpuk **5** kali) dan aktif selama **30** detik. Jika beralih senjata, efek ini tidak akan dibatalkan.",
+					"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Parallel Beam.\r\nVenus menembakkan sepasang sinar energi paralel yang menimpakan DMG menembus sebesar **171.6%** ATK plus **1030**.\r\nMenghindar akan mengaktifkan Healing Chain yang menyembuhkan kawan di sekitar sebesar **67,7%** ATK Wanderer. Selama **10** detik berikutnya, sebuah Healing Chain kecil akan diaktifkan setiap **2** detik, yang akan menyembuhkan kawan di sekitar sebesar **22,5%** ATK Wanderer. Menghindar akan memberikan **1** tumpuk Healing Chain Enhance, yang meningkatkan efek Healing Chain sebesar **25%** (bisa bertumpuk **5** kali) dan aktif selama **30** detik. Jika beralih senjata, efek ini tidak akan dibatalkan.",
 					"icon": "skill_suspension_rollattack",
 					"id": "GA_FPlayerSuspensionEvade_RollAttack"
 				}
@@ -3284,7 +3424,6 @@
 		"name": "Balmung",
 		"avatar": {
 			"name": "Frigg",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_28L1",
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
@@ -3432,7 +3571,6 @@
 		"name": "Spark",
 		"avatar": {
 			"name": "Ruby",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_21L1",
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
@@ -3508,7 +3646,7 @@
 			"skill": [
 				{
 					"name": "Sparkling Collider",
-					"description": "Spark menembakkan Spark yang berlangsung selama 15 detik dan memantul di antara target dan Wanderer. Saat menghantam target, Spark akan memperlambatnya selama **4** detik dengan CD **15** detik. Makin jauh jarak yang ditempuh Spark, makin besar DMG yang ditimpakannya. Saat mendaratkan serangan, Spark akan menimpakan DMG sebesar maks **350%** ATK plus **4200** dan mengakibatkan Emblazen selama **25** detik pada target. Pada saat bersamaan, Spark juga akan menembakkan 4 peluru yang masing-masing menimpakan DMG sebesar **50%** ATK plus **300** kepada target. Serangan Biasa Spark menimpakan DMG **30%** lebih besar kepada target yang terkena Emblazen. Saat menyerang target yang dibakar oleh Wanderer, Spark akan membakar target satu kali dan menimpakan DMG tambahan sebesar **45%** dari total DMG yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung menjadi satu) dan akan dihitung 1 kali lagi secara otomatis. CD penghitungan hasil adalah **6** detik dan CD Skill ini adalah **30** detik.\r\n**Pasif**: Saat Spark aktif, setiap kali Spark Attack atau Spark menimpakan DMG, Wanderer akan mendapatkan **1** Heat dengan CD **0,9** detik, maks **8** Heat. Setelah Heat mencapai batas tertingginya, Wanderer akan mendapatkan Ultimate Heat yang akan meningkatkan Flame ATK sebesar **10%** selama **25** detik.",
+					"description": "Spark menembakkan Spark yang berlangsung selama 15 detik dan memantul di antara target dan Wanderer. Saat menghantam target, Spark akan memperlambatnya selama **4** detik dengan CD **15** detik. Makin jauh jarak yang ditempuh Spark, makin besar DMG yang ditimpakannya. Saat mendaratkan serangan, Spark akan menimpakan DMG sebesar maks **380%** ATK plus **4200** dan mengakibatkan Emblazen selama **25** detik pada target. Pada saat bersamaan, Spark juga akan menembakkan 4 peluru yang masing-masing menimpakan DMG sebesar **50%** ATK plus **300** kepada target. Serangan Biasa Spark menimpakan DMG **30%** lebih besar kepada target yang terkena Emblazen. Saat menyerang target yang dibakar oleh Wanderer, Spark akan membakar target satu kali dan menimpakan DMG tambahan sebesar **45%** dari total DMG yang tersisa (efek Burn atau Ignite lebih dari satu akan dihitung menjadi satu) dan akan dihitung 1 kali lagi secara otomatis. CD penghitungan hasil adalah **6** detik dan CD Skill ini adalah **30** detik.\r\n**Pasif**: Saat Spark aktif, setiap kali Spark Attack atau Spark menimpakan DMG, Wanderer akan mendapatkan **1** Heat dengan CD **0,9** detik, maks **8** Heat. Setelah Heat mencapai batas tertingginya, Wanderer akan mendapatkan Ultimate Heat yang akan meningkatkan Flame ATK sebesar **10%** selama **25** detik.",
 					"icon": "funnel_skill",
 					"id": "GA_FPlayerFunnelSkillFire"
 				}
@@ -3586,7 +3724,6 @@
 		"name": "Heartstream",
 		"avatar": {
 			"name": "Saki Fuwa",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_22L1",
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
@@ -3676,7 +3813,7 @@
 			"discharge": [
 				{
 					"name": "Heartlotus",
-					"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer**, lalu menerjang target untuk melakukan serangan kombinasi, menimpakan DMG dengan total sebesar **536%** ATK plus **3216**.",
+					"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer**, lalu menerjang target untuk melakukan serangan kombinasi, menimpakan DMG dengan total sebesar **590%** ATK plus **3216**.",
 					"icon": "skill_dkatana_changeskill",
 					"id": "GA_FPlayerDkatanaChangeSkill_Success"
 				}
@@ -3746,7 +3883,6 @@
 		"name": "Shadoweave",
 		"avatar": {
 			"name": "Lin",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_23L1",
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
@@ -3904,14 +4040,13 @@
 		"name": "Thunderbreaker",
 		"avatar": {
 			"name": "Tian Lang",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_29L1",
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
 			"avatarID": "tianlang",
 			"id": "imitation_29"
 		},
-		"description": "Tombak yang dialiri listrik ini bernama SMA1-TS000-Thunderbreaker. Tombak ini mampu melepaskan kekuatan yang tersimpan dengan cara yang tak bisa terbayangkan. Medan listrik yang dipancarkan tombak ini menggerogoti pikiran pemakainya. Jadi, tak sembarang orang bisa menguasai senjata ini.",
+		"description": "Tombak yang dialiri listrik ini bernama SMA1-TS00-Thunderbreaker. Tombak ini mampu melepaskan kekuatan yang tersimpan secara tak terduga. Medan listrik yang dipancarkan tombak ini menggerogoti pikiran pemakainya. Jadi, tak sembarang orang bisa menguasai senjata ini.",
 		"icon": "item_Weapon_SSR_Tianlang_Thunder01",
 		"gachaIcon": "SSR_lh_tianlang",
 		"rarity": "SSR",
@@ -3940,7 +4075,7 @@
 				},
 				{
 					"name": "Mizar",
-					"description": "Saat di darat, mulai 6 serangan berturut-turut dengan Thunderbreaker.\r\nSerangan Pertama: Menimpakan DMG sebesar **90.5%** ATK plus **543** dan membuat musuh terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **67.9%** ATK plus **407** dan membuat musuh terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **123%** ATK plus **738** dan membuat musuh terpental ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **217.9%** ATK plus **1307** dan membuat musuh terpental ke belakang.\r\nSerangan Kelima: Menimpakan DMG sebesar **222%** ATK plus **1332** dan membuat musuh terpental ke belakang.\r\nSerangan Keenam: Menimpakan DMG sebesar **291.8%** ATK plus **1751** dan membuat target terpental ke atas.",
+					"description": "Saat di darat, mulai 6 serangan berturut-turut dengan Thunderbreaker.\r\nSerangan Pertama: Menimpakan DMG sebesar **99.3%** ATK plus **543** dan membuat musuh terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **73.2%** ATK plus **407** dan membuat musuh terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **135.8%** ATK plus **738** dan membuat musuh terpental ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **240.5%** ATK plus **1307** dan membuat musuh terpental ke belakang.\r\nSerangan Kelima: Menimpakan DMG sebesar **240.1%** ATK plus **1332** dan membuat musuh terpental ke belakang.\r\nSerangan Keenam: Menimpakan DMG sebesar **314.1%** ATK plus **1751** dan membuat target terpental ke atas.",
 					"icon": "skill_tianlang_melee",
 					"id": "GA_PlayerTianLangMelee_Melee"
 				},
@@ -4058,7 +4193,6 @@
 		"name": "Vesper",
 		"avatar": {
 			"name": "Lyra",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_24L1",
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
@@ -4146,13 +4280,13 @@
 				},
 				{
 					"name": "Starfall",
-					"description": "Melompat ke arah target, menimpakan DMG sebesar **702.1%** ATK plus **4212** dan menerapkan **Suspend Keras**. Memberikan tanda Enlightenment kepada target selama **18** detik. CD: **20** detik.",
+					"description": "Melompat ke arah target, menimpakan DMG sebesar **771%** ATK plus **4212** dan menerapkan **Suspend Keras**. Memberikan tanda Enlightenment kepada target selama **18** detik. CD: **20** detik.",
 					"icon": "skill_arm_airattack2",
 					"id": "GA_FPlayerArmPublishSkillPhy"
 				},
 				{
 					"name": "Shinerise",
-					"description": "Menghantam tanah dan membuat target di depanmu **Terpental Keras**, menimpakan DMG sebesar **702.1%** ATK plus **4212** dan mengeluarkan maks **3** **Blade** yang aktif selama **75** detik (maks 1 Blade setiap 2 meter). Skill ini bisa digunakan hingga **3** kali dengan CD **20** detik untuk masing-masing penggunaan. Saat ada 2 **Blade** di medan tempur, sebuah **Clearshine** akan tercipta. Saat **Blade** disentuh, ia akan menyembuhkan target dalam radius gerakan, memulihkan HP sebesar **25%** ATK targetnya. Saat ada 3 **Blade** di medan tempur, sebuah **Nebula** akan tercipta. Saat **Blade** disentuh, ia akan menimpakan DMG kepada target dalam radius gerakan sebesar **150%** ATK × jarak gerakan / **5** m.",
+					"description": "Menghantam tanah dan membuat target di depanmu **Terpental Keras**, menimpakan DMG sebesar **771%** ATK plus **4212** dan mengeluarkan maks **3** **Blade** yang aktif selama **75** detik (maks 1 Blade setiap 2 meter). Skill ini bisa digunakan hingga **3** kali dengan CD **20** detik untuk masing-masing penggunaan. Saat ada 2 **Blade** di medan tempur, sebuah **Clearshine** akan tercipta. Saat **Blade** disentuh, ia akan menyembuhkan target dalam radius gerakan, memulihkan HP sebesar **25%** ATK targetnya. Saat ada 3 **Blade** di medan tempur, sebuah **Nebula** akan tercipta. Saat **Blade** disentuh, ia akan menimpakan DMG kepada target dalam radius gerakan sebesar **150%** ATK × jarak gerakan / **5** m.",
 					"icon": "skill_arm_skill2",
 					"id": "GA_FPlayerArmLawSkillPhy"
 				}
@@ -4230,7 +4364,6 @@
 		"name": "Lost Art",
 		"avatar": {
 			"name": "Rubilia",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_48L1",
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
@@ -4396,7 +4529,6 @@
 		"name": "Unyielding Wing",
 		"avatar": {
 			"name": "Alyss",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_30L1",
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
@@ -4556,7 +4688,6 @@
 		"name": "Clover Cross",
 		"avatar": {
 			"name": "Annabella",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_26L1",
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
@@ -4704,7 +4835,6 @@
 		"name": "Pine Comet",
 		"avatar": {
 			"name": "Liu Huo",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_37L1",
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
@@ -4882,7 +5012,6 @@
 		"name": "Mobius",
 		"avatar": {
 			"name": "Umi",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_31L1",
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
@@ -5054,7 +5183,6 @@
 		"name": "Endless Bloom",
 		"avatar": {
 			"name": "Fei Se",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_51L1",
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
@@ -5084,7 +5212,7 @@
 			"normals": [
 				{
 					"name": "Maneuver",
-					"description": "Saat di darat, gunakan serangan biasa untuk memicu 6 serangan berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **82%** ATK plus **492** dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **122%** ATK plus **732** dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **132%** ATK plus **792** dan menjatuhkan target.\r\nSerangan Keempat: Menimpakan DMG sebesar **144%** ATK plus **864** dan membuat target terpental ke atas.\r\nSerangan Kelima: Menimpakan DMG sebesar **146%** ATK plus **876** dan menjatuhkan target.\r\nSerangan Keenam: Menimpakan DMG sebesar **115%** ATK plus **690** dan menarik target.",
+					"description": "Saat di darat, gunakan serangan biasa untuk melancarkan 6 serangan berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **82%** ATK plus **492** dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **122%** ATK plus **732** dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **132%** ATK plus **792** dan menjatuhkan target.\r\nSerangan Keempat: Menimpakan DMG sebesar **144%** ATK plus **864** dan membuat target terpental ke atas.\r\nSerangan Kelima: Menimpakan DMG sebesar **146%** ATK plus **876** dan menjatuhkan target.\r\nSerangan Keenam: Menimpakan DMG sebesar **115%** ATK plus **690** dan menarik target.",
 					"icon": "feise_melee",
 					"id": "GA_FPlayerFeiseMelee_Melee"
 				},
@@ -5128,7 +5256,7 @@
 				},
 				{
 					"name": "Scatter",
-					"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez sur un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent infligeant des dégâts équivalant à **209%** de l'ATQ + **1254** aux cibles proches.\r\n\r\nPendant le **Mirage fantastique** de **Tourbillon**, lorsque la première attaque d'esquive infligée avec n'importe quelle arme touche sa cible, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n**Fantaisie de Fei Se**: À sa création, la Fantaisie de Fei Se copie **25%** de l'ATQ max de la cible et les ajoute à l'**ATQ de feu de base** de l'Explorateur (pas moins de **3300** et pas plus de **3450**; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'**une** Fantaisie de Fei Se à la fois.\r\n**Pétale de lotus**: À leur création, les Pétales de lotus sont égaux au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après leur création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
+					"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flower Scatter, menimpakan DMG sebesar **209%** ATK plus **1254** kepada target di sekitar.\r\n\r\nSaat **Mirage Fantasy** yang diciptakan oleh **Whirling**, setelah Serangan Menghindar yang dilancarkan pertama kali menggunakan senjata apa saja mengenai target, Flower Graft akan terpicu, memunculkan Fei Se Phantasia dan Lotus Petal.\r\n**Fei Se Phantasia**: Saat diciptakan, Fei Se Phantasia menyalin **25%** Max ATK untuk dikonversi menjadi **ATK Flame dasar** Wanderer (minimal **6.500** dan maksimal **10.000**; Flame ATK ini tidak akan ditampilkan di stat Wanderer dan tidak tersedia di Apex League) hingga Fei Se Phantasia hilang. Efek ini dihitung secara terpisah untuk setiap Fei Se Phantasia. Dalam satu waktu, hanya ada **1** Fei Se Phantasia yang bisa dimunculkan.\r\n**Lotus Petal**: Saat diciptakan, jumlah Lotus Petal sama dengan jumlah Summon yang diciptakan oleh senjata Wanderer selain Endless Bloom. Setelah diciptakan, jumlah Lotus Petal tidak akan berubah mengikuti jumlah Summon. Lotus Petal dianggap sebagai Summon.",
 					"icon": "feise_evadefront",
 					"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 				},
@@ -5142,7 +5270,7 @@
 			"skill": [
 				{
 					"name": "Whirling",
-					"description": "Inflige des dégâts équivalant à **1008%** de l'ATQ + **6047** aux cibles proches et crée un Mirage fantastique, d'une durée maximale de **25**secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de **20**secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage:\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à **135%** de l'ATQ aux cibles dans le Mirage. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les **5**secondes, inflige Cœur flamboyant aux cibles dans le Mirage, leur infligeant des dégâts de brûlure équivalant à **20%** de l'ATQ pendant **5**secondes. Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de **6%** supplémentaires.",
+					"description": "Menimpakan DMG sebesar **1008%** ATK plus **6047** kepada target di sekitar dan menciptakan Mirage Fantasy yang aktif selama **25** detik.\r\nSaat Whirling sedang CD, mendapatkan skill baru, Lissom. Lissom bisa digunakan setelah Mirage aktif selama **20** detik.\r\nSetelah Mirage hilang, CD Whirling akan langsung direset. Efek ini tidak terpengaruh oleh efek lain yang menghapus, mereset, atau mengubah CD.\r\n\r\nSaat Mirage:\r\nSetiap detik, menimpakan DMG Soulwear sebesar **135%** ATK. DMG Soulwear dihitung sebagai DMG Serangan Biasa.\r\nSetiap **5** detik, menimpakan Blazing Heart pada target dalam jangkauan, menerapkan DMG Burn sebesar **20%** ATK selama **5** detik. Untuk setiap **1** **Fei Se Phantasia** atau **Lotus Petal** yang dimunculkan oleh Wanderer di dalam Mirage, DMG Blazing Heart meningkat **15%** lagi.",
 					"icon": "feise_skill1",
 					"id": "GA_FPlayerFeiseSkill_Skill1"
 				},
@@ -5156,7 +5284,7 @@
 			"discharge": [
 				{
 					"name": "Unparalleled Jade Pool",
-					"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, **élimine toutes les altérations sur l'Explorateur** au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à **1090%** de l'ATQ + **6539**. Durant cette période, accorde une immunité aux dégâts pendant **1,5**seconde (non disponible en Ligue ultime).",
+					"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke Senjata ini akan **melenyapkan semua Debuff dari Wanderer**, menimpakan DMG sebesar **1090%** ATK plus **6539**. Selama durasi ini, kebal terhadap DMG selama **2,6** detik (tak berlaku di Apex League).",
 					"icon": "feise_changeskill",
 					"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 				}
@@ -5164,7 +5292,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Explosion incandescente: Coupe rapide**: quand **Floraison éternelle** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux équivalant à **5%** de l'ATQ de feu + **8%** des PV max de l'Explorateur + **3%** de la somme de tous les types de résistance de l'Explorateur + **10%** de crit aux cibles proches. En combat, toutes les **0,5**seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion incandescente: Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **2.5**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
+				"description": "**Resonansi Flame**: Flame ATK meningkat **20%** dan Flame Resistance meningkat **40%**. Aktifkan dengan memakai **2** Senjata Flame atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Flame atau efek Flame Reaction lain, di mana Resonansi Flame akan diutamakan.\r\n**Fiery Explosion: Swift Cut**: Saat menggunakan **Endless Bloom**, setelah mendaratkan serangan dengan Skill Discharge Senjata apa pun, menimpakan DMG awal ke target di sekitar sebesar **38%** Flame ATK plus **1%** Max HP Wanderer plus **19%** dari total semua tipe Resistance Wanderer plus **69%** Crit. Selama dalam pertempuran, setiap **0,5** detik, DMG Swift Cut berikutnya akan meningkat **1** kali lipat, maks **30** kali lipat. Saat ada beberapa nilai DMG Swift Cut, nilai awal tertinggilah yang akan dihitung. DMG Fiery Explosion: Swift Cut dianggap sebagai DMG Skill Discharge. Jika ada **1** Senjata Frost/Volt/Physical yang digunakan, DMG Fiery Explosion akan dikalikan **1.3**. DMG Fiery Explosion tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5172,7 +5300,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Le multiplicateur de base des dégâts de **Cœur flamboyant** passe à **60%** de l'ATQ. En état de combat, si l'Explorateur inflige plusieurs effets de brûlure, le multiplicateur de base des dégâts de **Cœur flamboyant** est remplacé par le multiplicateur le plus élevé.",
+				"description": "Pengganda dasar DMG **Blazing Heart** meningkat menjadi **120%** ATK. Saat dalam mode bertempur, jika Wanderer menerapkan beberapa efek Burn sekaligus, pengganda dasar DMG **Blazing Heart** meningkat lagi menjadi efek yang memiliki pengganda paling tinggi.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5204,7 +5332,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé dans le **Mirage**, les dégâts de **Cœur flamboyant** sont accrus de **12%** supplémentaires.\r\nLa consommation d'endurance d'**Effet du lotus** est réduite de **75%**.",
+				"description": "Untuk setiap **1** **Fei Se Phantasia** atau **Lotus Petal** di dalam **Mirage**, DMG **Blazing Heart** meningkat **15%** lagi.\r\nPemakaian Stamina **Lotus Aspara** berkurang **75%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5212,7 +5340,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Le multiplicateur de base des dégâts d'**Usure d'âme** passe à **270%** de l'ATQ, la capacité de fracture est doublée et après avoir touché une cible, vous avez **15%** de chances d'infliger un ralentissement de **65%** pendant **2**secondes (inefficace contre les boss en jeu en équipe et non disponible en Ligue ultime).",
+				"description": "Pengganda dasar DMG **Soulwear** meningkat menjadi **900%** ATK, Shatter menjadi dua kali lipat, dan ada peluang **15%** untuk menerapkan Delay sebesar **65%** selama **2** setelah berhasil mendaratkan serangan (tidak berlaku saat melawan Boss dalam permainan tim dan tidak tersedia di Apex League).",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5226,7 +5354,6 @@
 		"name": "Gleipnir",
 		"avatar": {
 			"name": "Fenrir",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_32L1",
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
@@ -5392,7 +5519,6 @@
 		"name": "Vermilion Bird",
 		"avatar": {
 			"name": "Lan",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_34L1",
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
@@ -5558,7 +5684,6 @@
 		"name": "Precious One",
 		"avatar": {
 			"name": "Icarus",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_35L1",
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
@@ -5620,7 +5745,7 @@
 				},
 				{
 					"name": "Snowy Flurry",
-					"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk memicu Snowy Flurry, menimpakan DMG sebesar **162.8%** ATK plus **977** pada target di sekitar.",
+					"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk memicu Snowy Flurry, menimpakan DMG sebesar **162.8%** ATK plus **977** pada target di sekitar.",
 					"icon": "skill_iceyoyo_frontattack",
 					"id": "GA_FPlayerYoyoEvadeAttack_ForwardAttack"
 				},
@@ -5718,7 +5843,6 @@
 		"name": "Unity",
 		"avatar": {
 			"name": "Yu Lan",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_38L1",
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
@@ -5908,7 +6032,6 @@
 		"name": "Onyx Tortoise",
 		"avatar": {
 			"name": "Ming Jing",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_50L1",
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
@@ -6074,7 +6197,6 @@
 		"name": "Moonstar Bracelet",
 		"avatar": {
 			"name": "Fiona",
-			"description": "Tak Diketahui",
 			"advanceId": "imitation_36L1",
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",

@@ -6068,6 +6068,35 @@
 		"achievementPoints": 15,
 		"darkCrystals": 10
 	},
+	"402221": {
+		"name": "Rebung Menipis",
+		"amount": 25,
+		"description": "Kumpulkan 25 Rebung.",
+		"icon": "icon_shenghuo_001",
+		"section": "Kehidupan",
+		"section2": "Plant",
+		"achievementPoints": 5
+	},
+	"402222": {
+		"name": "Rebung Melimpah",
+		"amount": 50,
+		"description": "Kumpulkan 50 Rebung.",
+		"icon": "icon_shenghuo_001",
+		"section": "Kehidupan",
+		"section2": "Plant",
+		"achievementPoints": 10,
+		"darkCrystals": 5
+	},
+	"402223": {
+		"name": "Rebung Berlebih",
+		"amount": 100,
+		"description": "Kumpulkan 100 Rebung.",
+		"icon": "icon_shenghuo_001",
+		"section": "Kehidupan",
+		"section2": "Plant",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
 	"403001": {
 		"name": "Nom Nom Nom",
 		"amount": 30,
@@ -7682,6 +7711,24 @@
 		"section2": "Mirroria Sommelier",
 		"achievementPoints": 5
 	},
+	"712317": {
+		"name": "Minuman Pertama: Nightingale Heart",
+		"amount": 1,
+		"description": "Minum 1:\r\nNightingale Heart",
+		"icon": "icon_shenghuo_001",
+		"section": "Kehidupan",
+		"section2": "Mirroria Sommelier",
+		"achievementPoints": 5
+	},
+	"712318": {
+		"name": "Minuman Pertama: Foreign Friend",
+		"amount": 1,
+		"description": "Minum 1:\r\nForeign Friend",
+		"icon": "icon_shenghuo_001",
+		"section": "Kehidupan",
+		"section2": "Mirroria Sommelier",
+		"achievementPoints": 5
+	},
 	"720001": {
 		"name": "Alpha Blue Angelfish",
 		"amount": 1,
@@ -8181,6 +8228,374 @@
 		"xR1a": 5,
 		"xR2": "JiuYu_Gashapon_coin_1",
 		"xR2a": 2
+	},
+	"904000": {
+		"name": "Immensity: Ridge",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Immensity: Ridge\r\nLokasi: Di Atas Jalur Joltville",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904001": {
+		"name": "Immensity: Crystal",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Immensity: Crystal\r\nLokasi: Kolam Di Bawah Pos Naga Tersembunyi",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904002": {
+		"name": "Immensity: Tusk",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Immensity: Tusk\r\nLokasi: Bagian Bawah Gua Harimau Menerkam",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904003": {
+		"name": "Immensity: Pillar",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Immensity: Pillar\r\nLokasi: Gerbang Masuk Lembah Puncak Violet",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904004": {
+		"name": "Immensity: Helmet",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Immensity: Helmet\r\nLokasi: Di Tengah Gua Harimau Menerkam",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904005": {
+		"name": "Immensity: Pit",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Immensity: Pit\r\nLokasi: Di Tengah Gua Harimau Menerkam",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904006": {
+		"name": "Mandrill: Yutu",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Mandrill: Yutu\r\nLokasi: Bagian Bawah Air Terjun Gerbang Naga",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904007": {
+		"name": "Mandrill: Zhe Er",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Mandrill: Zhe Er\r\nLokasi: Sisi Selatan Kemah Pengawas",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904008": {
+		"name": "Mandrill: Qiongqi",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Mandrill: Qiongqi\r\nLokasi: Sisi Barat Laut Tingkat Atas Kolam Naga Joltville",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904009": {
+		"name": "Archsprite: Qilin",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Archsprite: Qilin\r\nLokasi: Sisi Barat Kemah Pengawas",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904010": {
+		"name": "Archsprite: Untamed",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Archsprite: Untamed\r\nLokasi: Sisi Tenggara Taman Jade",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904011": {
+		"name": "Cyox: Emberbull",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Cyox: Emberbull\r\nLokasi: Sisi Barat Kemah Penunggang Angin",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904012": {
+		"name": "Cyox: Cinderbull",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Cyox: Cinderbull\r\nLokasi: Di Bawah Alun-Alun Gold Lightning Sundial",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904013": {
+		"name": "Cyox: Blazenbull",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Cyox: Blazenbull\r\nLokasi: Bagian Atas Taman Telantar",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904014": {
+		"name": "Grand Servant: Dai Xing",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Grand Servant: Dai Xing\r\nLokasi: Medan Tempur Di Sisi Utara Kemah Penunggang Angin",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904015": {
+		"name": "Shocker: Stridin",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Shocker: Stridin\r\nLokasi: Sisi Selatan Taman Bambu Sunyi",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904016": {
+		"name": "Flurophantom: Ironclad",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Flurophantom: Ironclad\r\nLokasi: Bagian Bawah Gua Harimau Menerkam",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904017": {
+		"name": "Darkness: Taotie",
+		"amount": 1,
+		"description": "Kalahkan Darkness: Taotie\r\nLokasi: Gua Harimau Menerkam",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Boss",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"904020": {
+		"name": "Redeemer: Decider",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Redeemer: Decider\r\nLokasi: Sisi Selatan Posko Distribusi",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904021": {
+		"name": "Darkness: Cruel Claw",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Darkness: Cruel Claw\r\nLokasi: Sisi Barat Jalan Hutan Rimba",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904022": {
+		"name": "Splendor: Umber Fox",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Splendor: Umber Fox\r\nLokasi: Sisi Timur Laut Kuil Nirmala Kahyangan",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904023": {
+		"name": "Secluded: Greenhill Fox",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Secluded: Greenhill Fox\r\nLokasi: Sisi Barat Kuil Nirmala Kahyangan",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904024": {
+		"name": "Frostfighter Dark Wretch",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Frostfighter Dark Wretch\r\nLokasi: Gerbang Utama Posko Distribusi",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904025": {
+		"name": "Darkness: Xingtian",
+		"amount": 1,
+		"description": "Kalahkan Darkness: Xingtian\r\nLokasi: Posko Distribusi",
+		"icon": "icon_zhandou_001",
+		"section": "Pertarungan",
+		"section2": "Boss",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"920000": {
+		"name": "Berkat Qinglong I",
+		"amount": 6,
+		"description": "Upgrade Patung Azure ke Lv. 6 untuk pertama kalinya.",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920001": {
+		"name": "Berkat Qinglong II",
+		"amount": 2,
+		"description": "Upgrade 2 Patung Azure ke Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920002": {
+		"name": "Berkat Qinglong III",
+		"amount": 3,
+		"description": "Upgrade 3 Patung Azure ke Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920003": {
+		"name": "Berkat Qinglong IV",
+		"amount": 4,
+		"description": "Upgrade 4 Patung Azure ke Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920004": {
+		"name": "Berkat Qinglong V",
+		"amount": 5,
+		"description": "Upgrade 5 Patung Azure ke Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920005": {
+		"name": "Berkat Qinglong VI",
+		"amount": 6,
+		"description": "Upgrade 6 Patung Azure ke Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920006": {
+		"name": "Berkat Qinglong VII",
+		"amount": 7,
+		"description": "Upgrade 7 Patung Azure ke Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920014": {
+		"name": "Panduan Alabaster I",
+		"amount": 6,
+		"description": "Upgrade Patung Alabaster ke Lv. 6 untuk pertama kalinya.",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920015": {
+		"name": "Panduan Alabaster II",
+		"amount": 2,
+		"description": "Upgrade 2 Patung Alabaster ke Lv. 6",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920016": {
+		"name": "Panduan Alabaster III",
+		"amount": 3,
+		"description": "Upgrade 3 Patung Alabaster ke Lv. 6",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
 	},
 	"9030001": {
 		"name": "Judge: Crackle",

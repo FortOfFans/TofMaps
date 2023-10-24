@@ -415,5 +415,59 @@
 	},
 	"AvatarFrame_PlayStation_01": {
 		"icon": "AvatarFrame_PlayStation_01"
+	},
+	"AvatarFrame_96": {
+		"icon": "AvatarFrame_96"
+	},
+	"AvatarFrame_97": {
+		"icon": "AvatarFrame_97"
+	},
+	"AvatarFrame_98": {
+		"icon": "AvatarFrame_98"
+	},
+	"AvatarFrame_99": {
+		"icon": "AvatarFrame_99"
+	},
+	"AvatarFrame_100": {
+		"icon": "AvatarFrame_100"
+	},
+	"AvatarFrame_101": {
+		"icon": "AvatarFrame_101"
+	},
+	"AvatarFrame_102": {
+		"icon": "AvatarFrame_102"
+	},
+	"AvatarFrame_103": {
+		"icon": "AvatarFrame_103"
+	},
+	"AvatarFrame_104": {
+		"icon": "AvatarFrame_104"
+	},
+	"AvatarFrame_105": {
+		"icon": "AvatarFrame_105"
+	},
+	"AvatarFrame_107": {
+		"icon": "AvatarFrame_107"
+	},
+	"AvatarFrame_txcreatos_06": {
+		"icon": "AvatarFrame_txcreatos_06"
+	},
+	"AvatarFrame_txshikuang_01": {
+		"icon": "AvatarFrame_txshikuang_01"
+	},
+	"AvatarFrame_koreaMoonFestival_01": {
+		"icon": "AvatarFrame_koreaMoonFestival_01"
+	},
+	"AvatarFrame_PlayStation33_os01": {
+		"icon": "AvatarFrame_PlayStation33_os01"
+	},
+	"AvatarFrame_PlayStation33_os02": {
+		"icon": "AvatarFrame_PlayStation33_os02"
+	},
+	"AvatarFrame_txcreatos_07": {
+		"icon": "AvatarFrame_txcreatos_07"
+	},
+	"AvatarFrame_Koreatongyong33_01": {
+		"icon": "AvatarFrame_Koreatongyong33_01"
 	}
 }

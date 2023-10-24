@@ -3,7 +3,7 @@
 		"name": "Braço Colossal",
 		"type": "ITEM_TYPE_ARTIFACT",
 		"description": "Descontente com os seus próprios braços? Experimente este! Um braço poderoso com acabamento polido e design chamativo. A melhor escolha em qualquer situação.",
-		"source": "Materializa um braço de colosso para lutar por você durante 20 segundos. Tempo de recarga: <shuzhi>300</> seg. Recebe imunidade a interrupção durante os próximos 20 segundos. Toque na Relíquia novamente para cancelar. Ataques normais causam dano igual a <shuzhi>{0}%</> do ATQ e <shuzhi>lança os inimigos alto no ar</>. Habilidades causam dano de <shuzhi>{1}%</> do ATQ e <shuzhi>suspendem muito</> os inimigos. Tempo de recarga: <shuzhi>10</> seg.",
+		"source": "Materializa um braço de colosso para lutar por você durante 20 segundos. Tempo de recarga: <shuzhi>300</> seg. Recebe imunidade a interrupção durante os próximos 20 segundos. Toque na Relíquia novamente para cancelar. Ataques normais causam dano de <shuzhi>{0}%</> do ATQ e <shuzhi>lança os inimigos alto no ar</>. Habilidades causam dano de <shuzhi>{1}%</> do ATQ e <shuzhi>suspendem muito</> os inimigos. Tempo de recarga: <shuzhi>10</> seg.",
 		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_001",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_030",
@@ -443,7 +443,7 @@
 		"name": "Coração Talássico",
 		"type": "ITEM_TYPE_ARTIFACT",
 		"description": "A lenda diz que o coração mítico de uma sereia, escondido dentro de uma concha espinhosa, é capaz de invocar uma tempestade sobre as ondas. Em homenagem a esse mito, o Grupo de Desenvolvimento Oceânico deu o nome do coração a um de seus instrumentos. Embora não possa invocar tempestades, ele é capaz de controlar o fluxo de água para elevar a maré. O modelo completo pode até mesmo realizar uma transformação em golfinho.",
-		"source": "Gera um Coração Talássico na posição do alvo. Tempo de recarga: <shuzhi>60</> segundos. A cada <shuzhi>2</> segundos, o Coração Talássico causará dano de <shuzhi>2%</> (<shuzhi>0,2%</> na Liga do Apogeu) da sua vida máxima a alvos próximos durante <shuzhi>45</> segundos. O tipo de dano elemental causado será o mesmo da arma em uso. O dano sofrido pelo alvo atingido também é aumentado em <shuzhi>4%</> durante <shuzhi>5</> segundos.",
+		"source": "Gera um Coração Talássico na posição do alvo. Tempo de recarga: <shuzhi>60</> seg. A cada <shuzhi>2</> segundos, o Coração Talássico causará dano de <shuzhi>2%</> (<shuzhi>0,2%</> na Liga do Apogeu) da sua vida máxima a alvos próximos durante <shuzhi>45</> segundos. O tipo de dano elemental causado será o mesmo da arma em uso. O dano sofrido pelo alvo atingido também é aumentado em <shuzhi>4%</> durante <shuzhi>5</> segundos.",
 		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_018",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_042",
@@ -457,7 +457,7 @@
 				"id": "artifact_adv_042"
 			},
 			{
-				"description": "Aumenta o dano causado por Coração Talássico em mais <shuzhi>5,5%</>.",
+				"description": "Aumenta o dano causado a alvos atingidos por Coração Talássico em mais <shuzhi>5,5%</>.",
 				"id": "artifact_adv_042"
 			},
 			{
@@ -497,7 +497,7 @@
 				"id": "artifact_adv_043"
 			},
 			{
-				"description": "Durante zéfiro, cada golpe dos ataques aéreos restauram tentativas de esquiva e esquivas aéreas restauram todo o vigor.",
+				"description": "Durante zéfiro, cada golpe dos ataques aéreos recupera tentativas de esquiva e esquivas aéreas recuperam todo o vigor.",
 				"id": "artifact_adv_043"
 			}
 		],
@@ -507,7 +507,7 @@
 		"name": "Arma de Bolhas",
 		"type": "ITEM_TYPE_ARTIFACT",
 		"description": "Disseram que uma inventora loira e baixinha de Reflexia fez isto porque deu na telha...",
-		"source": "Appuyez sur le bouton Tirer pour consommer <shuzhi>1</> goutte de produit à bulles et tirer des bulles, infligeant chacune des dégâts équivalent à <shuzhi>10%</> de l'ATQ. Maintenez le bouton enfoncé pendant <shuzhi>0,5</> seconde pour consommer <shuzhi>5</> gouttes de produit à bulles et tirer une grosse bulle, infligeant des dégâts équivalent à <shuzhi>300%</> de l'ATQ. La grosse bulle peut envelopper la plupart des petites cibles pour les faire s'envoler. Chaque cible ne peut être enveloppée qu'<shuzhi>une</> fois toutes les <shuzhi>15</> secondes. Les cibles avec Hypercorps ne sont pas affectées par cet effet. Le temps de recharge des grosses bulles est de <shuzhi>5</> secondes. Vous gagnez <shuzhi>1</> goutte de produit à bulles toutes les <shuzhi>3</> secondes et <shuzhi>10</> gouttes en éliminant un ennemi. Le Pistolet à bulles peut contenir jusqu'à <shuzhi>30</> gouttes de produit à bulles.",
+		"source": "Use o botão de disparar para gastar <shuzhi>1</> gota do líquido e disparar algumas bolhas; cada uma causa dano de <shuzhi>10%</> do ATQ. Segure durante <shuzhi>0,5</> segundo para gastar <shuzhi>5</> gotas do líquido e disparar uma superbolha que causa dano de <shuzhi>300%</> do ATQ. A superbolha pode envolver a maioria dos alvos pequenos e fazê-los sair voando. Cada alvo só pode ser envolvido e sair voando <shuzhi>1</> vez a cada <shuzhi>15</> segundos, e alvos com corpo de aço não são afetados. Tempo de recarga da superbolha: <shuzhi>5</> seg. <shuzhi>1</> gota do líquido é reposta a cada <shuzhi>3</> segundos, e derrotar um inimigo repõe <shuzhi>10</> gotas. A Arma de Bolhas comporta até <shuzhi>30</> gotas de líquido.",
 		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_020",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_044",
@@ -517,7 +517,7 @@
 				"id": "artifact_adv_044"
 			},
 			{
-				"description": "Confère <shuzhi>1</>/<shuzhi>3</> cumuls de Partie de plaisir chaque fois que vous tirez des petites et grosses bulles. Chaque cumul accroît les dégâts infligés par l'Explorateur de <shuzhi>1,8%</> pendant <shuzhi>60</> secondes. Cumulable jusqu'à <shuzhi>5</> fois.",
+				"description": "Receba <shuzhi>1</>/<shuzhi>3</> acúmulos de momento feliz após disparar, respectivamente, bolhinhas e superbolhas. Cada acúmulo aumenta o dano causado por você em <shuzhi>1,8%</> durante <shuzhi>60</> segundos. Acumula até <shuzhi>5</> vezes.",
 				"id": "artifact_adv_044"
 			},
 			{
@@ -529,11 +529,43 @@
 				"id": "artifact_adv_044"
 			},
 			{
-				"description": "Accroît le bonus de dégâts de Partie de plaisir de <shuzhi>0,6%</> par cumul.",
+				"description": "Cada acúmulo aumenta o reforço de dano de momento feliz em <shuzhi>0,6%</>.",
 				"id": "artifact_adv_044"
 			}
 		],
 		"id": "artifact_ssr_020"
+	},
+	"artifact_ssr_021": {
+		"name": "Máscara Tripla",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "Foi desenvolvida para auxiliar pacientes com lesões faciais, mas acabou acumulando as mais diversas funções que ultrapassam seu valor ornamental. Embora as máscaras normalmente sejam utilizadas para ocultar quem as usa, a tecnologia desta aqui também pode revelar novos aspectos do mundo.",
+		"source": "Use para pôr a Máscara do Vazio da Máscara Tripla. Enquanto explora o Mundo Geral, somente chefes atacarão você. Quando certos inimigos descobrirem você, a detecção será acionada. Usando a Máscara do Vazio, os inimigos sob a influência dela não vão alertar os demais quando forem atacados. Use a Máscara Tripla novamente para tirar a máscara atual e iniciar o tempo de recarga. Tempo de recarga: <shuzhi>20</> seg.",
+		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_021",
+		"rarity": "LEGENDRY",
+		"AttributeID": "artifact_adv_045",
+		"advancement": [
+			{
+				"description": "Desbloqueia Máscara do Caçador. Selecione ao usar a Máscara Tripla e confirme novamente para pôr. Usando a Máscara do Caçador, você pode ver, no mapa, a localização dos inimigos de conquista de elite do Domínio 9.",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "Usando a Máscara Tripla, a velocidade aumenta em <shuzhi>8%</> e o dano elemental aumenta em <shuzhi>8%</>.",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "Desbloqueia Máscara do Conhecimento. Usando a Máscara do Conhecimento, se houver um baú não aberto por perto, você vai receber um aviso e orientação até ele.",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "Aumenta o dano gélido em <shuzhi>2%</>, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "Usando a Máscara Tripla, o dano elemental aumenta em mais <shuzhi>8%</>.",
+				"id": "artifact_adv_045"
+			}
+		],
+		"id": "artifact_ssr_021"
 	},
 	"artifact_sr_001": {
 		"name": "Canhão Flutuante",
@@ -1478,7 +1510,7 @@
 		"name": "Braço Colossal",
 		"type": "ITEM_TYPE_BREAK_FATE_ARTIFACT",
 		"description": "Descontente com os seus próprios braços? Experimente este! Um braço poderoso com acabamento polido e design chamativo. A melhor escolha em qualquer situação.",
-		"source": "Materializa um braço de colosso para lutar por você durante 20 segundos. Tempo de recarga: <shuzhi>300</> seg. Recebe imunidade a interrupção durante os próximos 20 segundos. Toque na Relíquia novamente para cancelar. Ataques normais causam dano igual a <shuzhi>{0}%</> do ATQ e <shuzhi>lança os inimigos alto no ar</>. Habilidades causam dano de <shuzhi>{1}%</> do ATQ e <shuzhi>suspendem muito</> os inimigos. Tempo de recarga: <shuzhi>10</> seg.",
+		"source": "Materializa um braço de colosso para lutar por você durante 20 segundos. Tempo de recarga: <shuzhi>300</> seg. Recebe imunidade a interrupção durante os próximos 20 segundos. Toque na Relíquia novamente para cancelar. Ataques normais causam dano de <shuzhi>{0}%</> do ATQ e <shuzhi>lança os inimigos alto no ar</>. Habilidades causam dano de <shuzhi>{1}%</> do ATQ e <shuzhi>suspendem muito</> os inimigos. Tempo de recarga: <shuzhi>10</> seg.",
 		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_001",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_030",

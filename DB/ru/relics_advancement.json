@@ -970,7 +970,7 @@
 		"id": "artifact_adv_044"
 	},
 	"1308": {
-		"description": "Confère <shuzhi>1</>/<shuzhi>3</> cumuls de Partie de plaisir chaque fois que vous tirez des petites et grosses bulles. Chaque cumul accroît les dégâts infligés par l'Explorateur de <shuzhi>1,8%</> pendant <shuzhi>60</> secondes. Cumulable jusqu'à <shuzhi>5</> fois.",
+		"description": "Дает <shuzhi>1</> и <shuzhi>3</> экз. Счастливого времени после выстрела маленькими и большими пузырями соответственно. Каждый экз. увеличивает наносимый странником урон на <shuzhi>1,8%</> на <shuzhi>60</> сек. Накапливается до <shuzhi>5</> раз.",
 		"id": "artifact_adv_044"
 	},
 	"1309": {
@@ -982,19 +982,19 @@
 		"id": "artifact_adv_044"
 	},
 	"1311": {
-		"description": "Accroît le bonus de dégâts de Partie de plaisir de <shuzhi>0,6%</> par cumul.",
+		"description": "Увеличивает бонус к урону от Счастливого времени еще на <shuzhi>0,6%</> за экз.",
 		"id": "artifact_adv_044"
 	},
 	"1312": {
-		"description": "111 111",
+		"description": "Открывает маску охотника. Выберите ее при использовании Тройственной маски и подтвердите выбор, чтобы надеть. Пока на вас маска охотника, на карте Территории 9 отмечается местонахождение элитных врагов, с которыми связаны достижения.",
 		"id": "artifact_adv_045"
 	},
 	"1313": {
-		"description": "111 111",
+		"description": "При использовании Тройственной маски скорость повышается на <shuzhi>8%</>, стихийный урон — на <shuzhi>8%</>.",
 		"id": "artifact_adv_045"
 	},
 	"1314": {
-		"description": "111 111",
+		"description": "Открывает маску знаний. Пока на вас маска знаний, чутье ведет вас к ближайшим неоткрытым сундукам.",
 		"id": "artifact_adv_045"
 	},
 	"1315": {
@@ -1002,7 +1002,7 @@
 		"id": "artifact_adv_045"
 	},
 	"1316": {
-		"description": "111 111",
+		"description": "При использовании Тройственной маски стихийный урон повышается еще на <shuzhi>8%</>.",
 		"id": "artifact_adv_045"
 	}
 }

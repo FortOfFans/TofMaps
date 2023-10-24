@@ -1654,6 +1654,107 @@
 			"charge": 8
 		}
 	},
+	"Linghan_ice_ssr_star_0": {
+		"advancement": "<shuzhi>Ressonância gélida</>: Aumenta o ATQ gélido em <shuzhi>15%</> e a resistência gélida em <shuzhi>25%</>. Ativa-se ao equipar <shuzhi>2</> ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos de mesmo tipo.\r\n<shuzhi>Frio extremo: Descarregar</>: Após usar <shuzhi>Arte da Espada: Sinceno Sombrio</>, a cada segundo causa dano equivalente a <shuzhi>{0}%</> do ATQ gélido + <shuzhi>{1}%</> da vida máxima do Errante + <shuzhi>{2}%</> da soma de todos os tipos de resistência do Errante + <shuzhi>{3}%</> do crítico aos alvos próximos durante <shuzhi>{4}</> segundos. Danos múltiplos de descarregar não se acumulam, e o dano de frio extremo conta como dano de habilidade. Se houver <shuzhi>1</> arma elétrica/ígnea/física de qualquer tipo equipada, o dano de frio extremo é multiplicado por <shuzhi>{5}</>. Além disso, o dano de frio extremo não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanJiHanDamageCoeffIceATK",
+			"LinghanJiHanDamageCoeffMaxHP",
+			"LinghanJiHanDamageCoeffDefSum",
+			"LinghanJiHanDamageCoeffCrit",
+			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
+			"LinghanJiHanDamageCoeffAdv"
+		],
+		"cost": 0,
+		"need": "None",
+		"needamt": null,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_1": {
+		"advancement": "Após lançar <shuzhi>lâminas gélidas</>, o seu ATQ gélido aumenta em <shuzhi>{0}%</>, e os alvos próximos sofrem dano de <shuzhi>104%</> do ATQ por segundo durante <shuzhi>{1}</> segundos.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Effect_L1_IceAtkUp",
+			"Buff_Linghan_Effect_L1_Duration"
+		],
+		"cost": 1000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_2": {
+		"advancement": "Aumenta o crescimento do ATQ mínimo da arma atual em <shuzhi>16%</>.",
+		"numbers": [],
+		"cost": 2000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_3": {
+		"advancement": "Você pode produzir até <shuzhi>4</> <shuzhi>lâminas gélidas</>, e o multiplicador básico de <shuzhi>redução de temperatura</> aumenta para <shuzhi>468%</>.\r\nSe o alvo for o único afetado por <shuzhi>redução de temperatura</> em até <shuzhi>{0}</> segundos, aplica também <shuzhi>bloqueio venoso</> nele, diminuindo a velocidade do mesmo em <shuzhi>{1}%</> (indisponível na Liga do Apogeu e contra chefes). Se o alvo sofrer dano de <shuzhi>lâmina gélida</> novamente durante <shuzhi>bloqueio venoso</>, aciona criodetonação, que causa dano de habilidade equivalente a <shuzhi>{2}%</> do ATQ + <shuzhi>{3}%</> da vida faltante do alvo (o dano de criodetonação não será inferior a <shuzhi>{4}%</> do seu ATQ gélido nem superior a <shuzhi>{5}%</> do seu ATQ gélido). Depois disso, os efeitos <shuzhi>bloqueio venoso</> e <shuzhi>redução de temperatura</> são removidos do alvo.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Frostbite_DelayAdd_Period",
+			"Buff_Linghan_TargetSpeedDown",
+			"IceBoomAtkCoeff",
+			"IceBoomHPCoeff",
+			"IceBoomMinAtkCoeff",
+			"IceBoomMaxAtkCoeff"
+		],
+		"cost": 4000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_4": {
+		"advancement": "Aumenta o crescimento do ATQ mínimo da arma atual em <shuzhi>32%</>.",
+		"numbers": [],
+		"cost": 6000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_5": {
+		"advancement": "O dano causado por <shuzhi>fenda cristalina</> e <shuzhi>ar frio</> aumentam em mais <shuzhi>50%</>. As chances de uso de <shuzhi>Passos Leves</> aumentam para <shuzhi>{1}</>, e a taxa de recuperação aumenta para <shuzhi>1</> chance a cada <shuzhi>{0}</> segundos.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanQinggongPeriodL5",
+			"LinghanQinggongMaxL5"
+		],
+		"cost": 9000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_6": {
+		"advancement": "O efeito <shuzhi>redução de temperatura</> infligido após lançar <shuzhi>lâminas gélidas</> passa a ser aplicado em área e também causa dano adicional de <shuzhi>1.170%</> do ATQ aos alvos próximos.",
+		"numbers": [],
+		"cost": 13500,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
 	"Suspension_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Ressonância Elétrica</>: aumenta o ATQ elétrico em <shuzhi>15%</> e a resistência elétrica em <shuzhi>25%</>. Ativa-se ao equipar <shuzhi>2</> ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com efeitos de mesmo tipo.\r\n<shuzhi>Bendição elétrica</>: aumenta o ATQ elétrico de toda a equipe em <shuzhi>5%</> enquanto ressonância de bendição estiver ativa.",
 		"numbers": [],
@@ -3578,7 +3679,7 @@
 		}
 	},
 	"Zeke_physic_ssr_star_0": {
-		"advancement": "<shuzhi>Ressonância física</>: Aumenta o ATQ físico em <shuzhi>15%</> e a resistência física em <shuzhi>25%</>. Ativa-se ao equipar <shuzhi>2</> ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância física, que tem prioridade.\r\n<shuzhi>Ressonância ígnea</>: Aumenta o ATQ ígneo em <shuzhi>15%</> e resistência ígnea em <shuzhi>25%</>. Ativa ao equipar <shuzhi>2</> ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea, que tem prioridade.\r\n\r\n<shuzhi>Despedaçar: Separação</>: Após usar <shuzhi>Ravina Absoluta</>, a cada segundo causa dano equivalente a <shuzhi>{1}%</> do ATQ físico + <shuzhi>{2}%</> da vida máxima do Errante + <shuzhi>{3}%</> da soma de todos os tipos de resistência + <shuzhi>{4}%</> do crítico aos alvos atingidos durante <shuzhi>{0}</> segundos. Danos múltiplos de Separação não se acumulam, e o dano de despedaçar conta como dano de habilidade. Se houver <shuzhi>uma</> arma elétrica/gélida/física equipada, o dano de despedaçar é multiplicado por <shuzhi>{5}</>. Além disso, o dano de despedaçar não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+		"advancement": "<shuzhi>Ressonância física</>: Aumenta o ATQ físico em <shuzhi>15%</> e a resistência física em <shuzhi>25%</>. Ativa-se ao equipar <shuzhi>2</> ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância física, que tem prioridade.\r\n<shuzhi>Ressonância ígnea</>: Aumenta o ATQ ígneo em <shuzhi>15%</> e resistência ígnea em <shuzhi>25%</>. Ativa ao equipar <shuzhi>2</> ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea, que tem prioridade.\r\n\r\n<shuzhi>Despedaçar: Separação</>: Após usar <shuzhi>Ravina Absoluta</>, a cada segundo causa dano equivalente a <shuzhi>{1}%</> do ATQ físico + <shuzhi>{2}%</> da vida máxima do Errante + <shuzhi>{3}%</> da soma de todos os tipos de resistência + <shuzhi>{4}%</> do crítico aos alvos atingidos durante <shuzhi>{0}</> segundos. Danos múltiplos de Separação não se acumulam, e o dano de despedaçar conta como dano de habilidade. Se houver <shuzhi>uma</> arma elétrica/ígnea/gélida equipada, o dano de despedaçar é multiplicado por <shuzhi>{5}</>. Além disso, o dano de despedaçar não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 		"numbermap": "CurveTable'ZekeEffectFigure'",
 		"numbers": [
 			"Buff_ZekeSkillPoJiaDamageDuration",
@@ -3671,7 +3772,7 @@
 		}
 	},
 	"mimi_thunder_ssr_star_0": {
-		"advancement": "<shuzhi>Ressonância elétrica</>: Aumenta o ATQ elétrico em <shuzhi>15%</> e a resistência elétrica em <shuzhi>25%</>. Ativa-se ao equipar <shuzhi>2</> ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.\r\n<shuzhi>Trovejante: Em campo</>: Ao acertar um golpe com <shuzhi>Dragão Azul</>, causa dano de <shuzhi>{0}%</> do ATQ elétrico mais <shuzhi>{1}%</> da vida máxima do Errante mais <shuzhi>{2}%</> da soma de todos os tipos de resistência do Errante mais <shuzhi>{3}%</> do crítico a alvos próximos. Esse efeito pode ser acionado até 1 vez a cada <shuzhi>1,5</> segundo. O dano de Trovejante conta como dano de ataque normal. Se houver <shuzhi>1</> arma ígnea/gélida/física de qualquer tipo equipada, o dano de Trovejante é multiplicado por <shuzhi>{4}</>. Além disso, o dano de Trovejante não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+		"advancement": "<shuzhi>Ressonância elétrica</>: Aumenta o ATQ elétrico em <shuzhi>15%</> e a resistência elétrica em <shuzhi>25%</>. Ativa-se ao equipar <shuzhi>2</> ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.\r\n\r\n<shuzhi>Trovejante: Em campo</>: Ao acertar um golpe com <shuzhi>Dragão Azul</>, causa dano de <shuzhi>{0}%</> do ATQ elétrico + <shuzhi>{1}%</> da vida máxima do Errante + <shuzhi>{2}%</> da soma de todos os tipos de resistência do Errante + <shuzhi>{3}%</> do crítico a alvos próximos. Esse efeito pode ser acionado até 1 vez a cada <shuzhi>1,5</> segundo. O dano de Trovejante conta como dano de ataque normal. Se houver <shuzhi>1</> arma ígnea/gélida/física de qualquer tipo equipada, o dano de Trovejante é multiplicado por <shuzhi>{4}</>. Além disso, o dano de Trovejante não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 		"numbermap": "CurveTable'MiMiEffectFigure'",
 		"numbers": [
 			"Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
@@ -3711,7 +3812,7 @@
 		}
 	},
 	"mimi_thunder_ssr_star_3": {
-		"advancement": "Com <shuzhi>Dragão Azul</> equipada, reduz o tempo de recarga de todas as habilidades principais de arma elétrica em <shuzhi>20%</>. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\nAlém disso, aumenta o dano elétrico do Errante em <shuzhi>15%</>. O efeito funciona no espaço secundário.",
+		"advancement": "Com <shuzhi>Dragão Azul</> equipada, reduz o tempo de recarga de todas as habilidades básicas de arma elétrica em <shuzhi>20%</>. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\nAlém disso, aumenta o dano elétrico do Errante em <shuzhi>15%</>. O efeito funciona no espaço secundário.",
 		"numbers": [],
 		"cost": 4000,
 		"need": "mimi_thunder_plasm",
@@ -3733,7 +3834,7 @@
 		}
 	},
 	"mimi_thunder_ssr_star_5": {
-		"advancement": "Previne dano letal 1 vez e recebe imunidade a dano por um curto período de tempo quando o Errante sofrer dano letal. Esse efeito só pode ser acionado uma vez a cada <shuzhi>60</> segundos e funciona no espaço secundário.\r\nApós ativar a ressonância de coragem:\r\nÉ possível ignorar corpo de aço e puxar os alvos próximos ao usar <shuzhi>Dragão Ascendente</> (ineficaz contra chefes).\r\nNo jogo em equipe, <shuzhi>Explosão do Trovão</> irá produzir <shuzhi>1</> selo temporal elétrico a cada <shuzhi>6</> segundos enquanto estiver carregando, que irão se unir na ordem em que foram produzidos para formar uma rede elétrica. A rede elétrica pode bloquear o movimento dos inimigos e o dano dos projéteis deles. Cada selo temporal elétrico pode durar até <shuzhi>20</> segundos.",
+		"advancement": "Previne dano letal 1 vez e recebe imunidade a dano por um curto período de tempo quando o Errante sofrer dano letal. Esse efeito só pode ser acionado uma vez a cada <shuzhi>60</> segundos e funciona no espaço secundário.\r\nApós ativar a ressonância de coragem:\r\nUsar <shuzhi>Dragão Ascendente</> puxa os alvos próximos, ignorando corpo de aço(ineficaz contra chefes).\r\nNo jogo em equipe, <shuzhi>Explosão do Trovão</> irá produzir <shuzhi>1</> selo temporal elétrico a cada <shuzhi>6</> segundos enquanto estiver carregando, e os selos vão se unir na ordem em que foram produzidos para formar uma rede elétrica. A rede elétrica pode bloquear o movimento dos inimigos e o dano dos projéteis deles. Cada selo temporal elétrico pode durar até <shuzhi>20</> segundos.",
 		"numbers": [],
 		"cost": 9000,
 		"need": "mimi_thunder_plasm",
@@ -3755,7 +3856,7 @@
 		}
 	},
 	"feise_fire_ssr_star_0": {
-		"advancement": "<shuzhi>Résonance de feu</> : accroît l'ATQ de feu de <shuzhi>15%</> et la résistance au feu de <shuzhi>25%</>. S'active en équipant au moins <shuzhi>2</> armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n<shuzhi>Explosion incandescente : Coupe rapide</> : quand <shuzhi>Floraison éternelle</> est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux équivalant à <shuzhi>{0}%</> de l'ATQ de feu + <shuzhi>{1}%</> des PV max de l'Explorateur + <shuzhi>{2}%</> de la somme de tous les types de résistance de l'Explorateur + <shuzhi>{3}%</> de crit aux cibles proches. En combat, toutes les <shuzhi>0,5</> seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'<shuzhi>une</> fois supplémentaire, jusqu'à un maximum de <shuzhi>30</> fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion incandescente : Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si <shuzhi>1</> arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par <shuzhi>{4}</>. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
+		"advancement": "<shuzhi>Ressonância ígnea</>: Aumenta o ATQ ígneo em <shuzhi>20%</> e a resistência ígnea em <shuzhi>40%</>. Ativa-se ao equipar <shuzhi>2</> ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea ou reação ígnea, e a ressonância ígnea tem prioridade..\r\n<shuzhi>Explosão ardente: Corte Ligeiro</>: Com <shuzhi>Floração Infinita</> equipada, acertar um golpe com qualquer habilidade de descarga causa aos alvos próximos dano inicial de <shuzhi>{0}%</> do ATQ ígneo mais <shuzhi>{1}%</> da vida máxima do Errante + <shuzhi>{2}%</> da soma de todos os tipos de resistências do Errante mais <shuzhi>{3}%</> do crítico. A cada <shuzhi>0,5</> segundo em combate, o dano do próximo Corte Ligeiro aumenta mais <shuzhi>1</> vez, até um máximo de <shuzhi>30</> vezes. Quando há o dano de vários Cortes Ligeiros juntos, o cálculo é feito sobre o valor inicial mais alto. O dano da Explosão ardente: Corte Ligeiro conta como dano de habilidade de descarga. Se houver <shuzhi>1</> arma gélida/física/elétrica de qualquer tipo equipada, o dano da Explosão ardente é multiplicado por <shuzhi>{4}</>. Além disso, o dano da Explosão ardente não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 		"numbermap": "CurveTable'FeiseEffectFigure'",
 		"numbers": [
 			"FeiSeEXChangeWeaponCoefficientFireAttack",
@@ -3773,7 +3874,7 @@
 		}
 	},
 	"feise_fire_ssr_star_1": {
-		"advancement": "Le multiplicateur de base des dégâts de <shuzhi>Cœur flamboyant</> passe à <shuzhi>60%</> de l'ATQ. En état de combat, si l'Explorateur inflige plusieurs effets de brûlure, le multiplicateur de base des dégâts de <shuzhi>Cœur flamboyant</> est remplacé par le multiplicateur le plus élevé.",
+		"advancement": "O multiplicador mínimo de dano de <shuzhi>Coração Ardente</> aumenta para <shuzhi>120%</> do ATQ. Se o usuário causa múltiplos efeitos de queimadura durante o estado de combate, o multiplicador mínimo de dano de <shuzhi>Coração Ardente</> adicionalmente aumenta para o maior efeito multiplicador.",
 		"numbers": [],
 		"cost": 1000,
 		"need": "feise_fire_plasm",
@@ -3795,7 +3896,7 @@
 		}
 	},
 	"feise_fire_ssr_star_3": {
-		"advancement": "O número máximo de <shuzhi>Phantasia de Fei Se</> aumenta para <shuzhi>2</>, e ainda cria mais <shuzhi>1</> <shuzhi>Phantasia de Fei Se</> após acertar um golpe de <shuzhi>Espiral</>.",
+		"advancement": "O número máximo de <shuzhi>Phantasia de Fei Se</> aumenta para <shuzhi>2</>, e mais <shuzhi>1</> <shuzhi>Phantasia de Fei Se</> é criada após acertar um golpe de <shuzhi>Espiral</>.",
 		"numbers": [],
 		"cost": 4000,
 		"need": "feise_fire_plasm",
@@ -3817,7 +3918,7 @@
 		}
 	},
 	"feise_fire_ssr_star_5": {
-		"advancement": "Pour <shuzhi>chaque</> <shuzhi>Fantaisie de Fei Se</> ou <shuzhi>Pétale de lotus</> créé dans le <shuzhi>Mirage</>, les dégâts de <shuzhi>Cœur flamboyant</> sont accrus de <shuzhi>12%</> supplémentaires.\r\nLa consommation d'endurance d'<shuzhi>Effet du lotus</> est réduite de <shuzhi>75%</>.",
+		"advancement": "O dano de <shuzhi>Coração Ardente</> aumenta adicionalmente em <shuzhi>15%</> para cada <shuzhi>1</> <shuzhi>Phantasia de Fei Se</> ou <shuzhi>Pétala de Lótus</> na <shuzhi>Miragem</>.\r\nReduz em <shuzhi>75%</> o consumo de vigor da <shuzhi>Apsara Lótus</>.",
 		"numbers": [],
 		"cost": 9000,
 		"need": "feise_fire_plasm",
@@ -3828,7 +3929,7 @@
 		}
 	},
 	"feise_fire_ssr_star_6": {
-		"advancement": "Le multiplicateur de base des dégâts d'<shuzhi>Usure d'âme</> passe à <shuzhi>270%</> de l'ATQ, la capacité de fracture est doublée et après avoir touché une cible, vous avez <shuzhi>15%</> de chances d'infliger un ralentissement de <shuzhi>65%</> pendant <shuzhi>2</> secondes (inefficace contre les boss en jeu en équipe et non disponible en Ligue ultime).",
+		"advancement": "O multiplicador mínimo de dano de <shuzhi>Eclipsalma</> aumenta para <shuzhi>900%</> do ATQ, o despedaçar é dobrado e há <shuzhi>15%</> de chance de causar atraso de <shuzhi>65%</> por <shuzhi>2</> segundos após acertar um golpe (ineficaz contra chefes ao estar em equipe e indisponível na Liga do Apogeu).",
 		"numbers": [],
 		"cost": 13500,
 		"need": "feise_fire_plasm",

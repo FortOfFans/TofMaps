@@ -5656,7 +5656,7 @@
 				"id": "GA_FPlayerRubiliaMelee_AirAttack"
 			},
 			{
-				"name": "Vorpreschen",
+				"name": "Verbessern",
 				"description": "Tippe und halte bei Angriffen auf dem Boden den normalen Angriff, um „Aufrüsten“ auszulösen. Dies verursacht Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</>.",
 				"icon": "skill_rubilia_branch",
 				"id": "GA_FPlayerRubiliaMelee_Branch"
@@ -5745,7 +5745,9 @@
 	"GA_FPlayerLinghanChangeSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_changeskill",
+				"name": "Schwertkunst: Eisige Umarmung",
+				"description": "Wenn die <red>Waffenladung voll ist</> oder <red>Trugbild</> ausgelöst wird, werden beim Wechsel zu dieser Waffe <shuzhi>alle Debuffs vom Wanderer entfernt</> und um den Wanderer herum wird ein Schwertfeld erzeugt, das den Bereich in Kälte hüllt und Zielen in der Nähe Schaden in Höhe von bis zu <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> zufügt. Kurz darauf wird ein weißer Tiger herbeigerufen, um Schaden in Höhe von <shuzhi>{2}%</> des ANG + <shuzhi>{3}</> zu verursachen. Während dieser Zeit hält die Schadensimmunität <shuzhi>1,5</> Sek. lang an (nicht in der Apex-Liga verfügbar).\r\n<shuzhi>Passiv</>: Ein erfolgreicher Treffer mit „Schwertkunst: Eisige Umarmung“ erhöht den Endschaden für <shuzhi>30</> Sek. um <shuzhi>8%</>.",
+				"icon": "skill_linghan_changeskill",
 				"id": "GA_FPlayerLinghanChangeSkill_Success"
 			}
 		]
@@ -5753,15 +5755,21 @@
 	"GA_FPlayerLinghanEvade": {
 		"skills": [
 			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.",
 				"icon": "common_evade",
 				"id": "GA_FPlayerLinghanEvade_Evade"
 			},
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "Schwertkunst: Wolkenschauer",
+				"description": "Verwende zum Auslösen von „Schwertkunst: Wolkenschauer“ während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste). Dies fügt getroffenen Zielen Schaden in Höhe von bis zu <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> zu.",
+				"icon": "skill_linghan_fevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
 			},
 			{
-				"icon": "skill_zeke_bevadeattack",
+				"name": "Schwertkunst: Sterbliche Seele",
+				"description": "Verwende zum Auslösen von „Schwertkunst: Sterbliche Seele“ während des kurzen Zeitraums nach dem Ausweichen den normalen Angriff. Entfessle eine „Weißer Tiger“-Illusion, die Zielen voraus Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> zufügt.",
+				"icon": "skill_linghan_bevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
 			}
 		]
@@ -5769,27 +5777,43 @@
 	"GA_FPlayerLinghanMelee": {
 		"skills": [
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "Schwertkunst: Mondschneider",
+				"description": "Greift auf dem Boden 6-mal hintereinander mit dem normalen Angriff an.\r\nErster Angriff: Verursacht Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von <shuzhi>{2}%</> des ANG + <shuzhi>{3}</> und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von <shuzhi>{4}%</> des ANG + <shuzhi>{5}</> und stößt das Ziel zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von <shuzhi>{6}%</> des ANG + <shuzhi>{7}</> und stößt das Ziel zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von <shuzhi>{8}%</> des ANG + <shuzhi>{9}</> und zieht Gegner vor dem Wanderer heran.\r\nSechster Angriff: Verursacht Schaden in Höhe von <shuzhi>{10}%</> des ANG + <shuzhi>{11}</> und schleudert das Ziel hoch.\r\nTippe und halte nach dem Auslösen von „Schwertkunst: Mondschneider“ den normalen Angriff, um <shuzhi>Schwertkunst: Endloser Schnee</> auszulösen.\r\n\r\nBei einem erfolgreichen Treffer eines normalen Angriffs mit <shuzhi>Alabastertiger</> wird dem Ziel <shuzhi>1</> Stapel <shuzhi>Kristallriss</> zugefügt, wodurch normale Angriffe für <shuzhi>15</> Sek. jede Sekunde Schaden in Höhe von <shuzhi>{12}%</> des ANG verursachen. Dem gleichen Ziel kann nicht mehr als <shuzhi>1</> Stapel „Kristallriss“ pro <shuzhi>4</> Sek. zugefügt werden. Kann bis zu <shuzhi>3</>-mal gestapelt werden. Nach Ablauf der Effektdauer verschwinden die Stapel einer nach dem anderen.",
+				"icon": "skill_linghan_melee",
 				"id": "GA_FPlayerLinghanMelee_Melee"
 			},
 			{
-				"icon": "skill_zeke_airattack",
+				"name": "Schwertkunst: Schwertschrei",
+				"description": "Verwende in der Luft den normalen Angriff, um 6 Angriffe hintereinander in der Luft auszuführen, wobei Ausdauer verbraucht wird.\r\nErster Angriff: Verursacht Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</>.\r\nZweiter Angriff: Verursacht Schaden in Höhe von <shuzhi>{2}%</> des ANG + <shuzhi>{3}</>.\r\nDritter Angriff: Verursacht Schaden in Höhe von <shuzhi>{4}%</> des ANG + <shuzhi>{5}</>.\r\nVierter Angriff: Verursacht Schaden in Höhe von <shuzhi>{6}%</> des ANG + <shuzhi>{7}</>.\r\nFünfter Angriff: Verursacht Schaden in Höhe von <shuzhi>{8}%</> des ANG + <shuzhi>{9}</>.\r\nSechster Angriff: Verursacht Schaden in Höhe von <shuzhi>{10}%</> des ANG + <shuzhi>{11}</>.",
+				"icon": "skill_linghan_airattack",
 				"id": "GA_FPlayerLinghanMelee_AirAttack"
 			},
 			{
-				"icon": "skill_zeke_branch",
+				"name": "Schwertkunst: Endloser Schnee",
+				"description": "Tippe und halte während normaler Angriffe auf dem Boden den normalen Angriff, um „Schwertkunst: Endloser Schnee“ auszulösen.\r\nKontrolliert das Schwert mit dem Geist und verbraucht Ausdauer. Der Wanderer erhält währenddessen „Hyperkörper“. Jeder Angriff fügt Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> zu.\r\nWenn „Schwertkunst: Endloser Schnee“ endet, wird eine mächtige Schwert-Aura entfesselt, die Zielen in der Nähe Schaden in Höhe von <shuzhi>{2}%</> des ANG + <shuzhi>{3}</> zufügt.",
+				"icon": "skill_linghan_powerattack",
 				"id": "GA_FPlayerLinghanMelee_PowerAttack"
 			},
 			{
-				"icon": "skill_zeke_jumpattack",
+				"name": "Schwertkunst: Eisregen",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Gegner anvisiert wurde), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Schwertkunst: Eisregen“ auszulösen.\r\nWährend des Fallens wird pro Treffer Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> verursacht. Fügt Zielen in der Nähe beim Landen Schaden in Höhe von <shuzhi>{2}%</> des ANG + <shuzhi>{3}</> zu.",
+				"icon": "skill_linghan_jumpattack",
 				"id": "GA_FPlayerLinghanMelee_JumpAttack"
+			},
+			{
+				"name": "Leichte Schritte",
+				"description": "Tippe auf „Springen“ während der Wanderer nach einem Doppelsprung in der Luft ist, um „Leichte Schritte“ auszulösen. Rast kurz nach oben und gleitet dann nach unten. In der Luft kann „Leichte Schritte“ bis zu <shuzhi>2</>-mal verwendet werden.\r\nAm Boden stellt „Leichte Schritte“ alle <shuzhi>10</> Sek. <shuzhi>1</> Einsatzversuch wieder her (ein Gebietswechsel oder das Ablegen von <shuzhi>Alabastertiger</> setzt die Einsatzversuche zurück).",
+				"icon": "skill_linghan_qinggong",
+				"id": "GA_FPlayerLinghanMelee_QingGong"
 			}
 		]
 	},
 	"GA_FPlayerLinghanSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_skill",
+				"name": "Schwertkunst: Schatteneis",
+				"description": "Fügt Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> zu und zieht sie heran. Erzeugt dann ein Schwertfeld, um einen starken Regen von Schwertern herbeizurufen und Zielen für <shuzhi>4</> Sek. einen <shuzhi>starken Einfrieren-Effekt</> zuzufügen (nicht in der Apex-Liga oder gegen Bosse verfügbar). Abklingzeit: <shuzhi>30</> Sek.\r\nNach dem erfolgreichen Einsatz von „Schwertkunst: Schatteneis“ stößt der Wanderer <shuzhi>Kalte Luft</> aus, die Zielen in der Nähe jede Sekunde Schaden in Höhe von <shuzhi>{4}%</> des ANG zufügt und sie um <shuzhi>30%</> verlangsamt (nicht in der Apex-Liga oder gegen Bosse verfügbar). Gleichzeitig wird der Frostschaden des Wanderers für <shuzhi>35</> Sek. um <shuzhi>8%</> erhöht.\r\nNach dem vollständigen Ausführen von „Schwertkunst: Schatteneis“ erzeugt der Wanderer eine große Anzahl von <shuzhi>Frostklingen</>, von denen er alle <shuzhi>7,5</> Sek. <shuzhi>1</> Klinge auf das aktuell anvisierte Ziel abfeuert, dabei Schaden in Höhe von <shuzhi>{5}%</> des ANG verursacht und dem Ziel <shuzhi>Temperaturabfall</> zufügt. Anfangs können bis zu <shuzhi>3</> <shuzhi>Frostklingen</> erzeugt werden und alle Klingen werden außerhalb des Kampfes entfernt.\r\n<shuzhi>Temperaturabfall</>: Fügt Zielen in der Nähe für <shuzhi>12</> Sek. alle <shuzhi>3</> Sek. Schaden in Höhe von <shuzhi>{6}%</> des ANG zu.",
+				"icon": "skill_linghan_skill",
 				"id": "GA_FPlayerLinghanSkill_Skill"
 			}
 		]
@@ -6199,7 +6223,7 @@
 		"skills": [
 			{
 				"name": "Ewiger Jadesee",
-				"description": "Wenn die <red>Waffenladung voll ist</> oder <red>Trugbild</> ausgelöst wird, werden beim Wechsel zu dieser Waffe <shuzhi>alle Debuffs vom Wanderer entfernt</>. Dies verursacht Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</>. Währenddessen erhältst du für <shuzhi>1,5</> Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).",
+				"description": "Wenn die <red>Waffenladung voll ist</> oder <red>Trugbild</> ausgelöst wird, werden beim Wechsel zu dieser Waffe <shuzhi>alle Debuffs vom Wanderer entfernt</>. Dies verursacht Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</>. Währenddessen erhältst du für <shuzhi>2,6</> Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).",
 				"icon": "feise_changeskill",
 				"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 			}
@@ -6215,7 +6239,7 @@
 			},
 			{
 				"name": "Verstreuen",
-				"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Pfeiltaste), um „Blütenwind“ auszulösen, was Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> zufügt.\r\n\r\nWährend das durch <shuzhi>Wirbelwind</> erzeugte <shuzhi>Wunderwerk: Fantasie</> aktiv ist, wird nach dem ersten Treffer mit einer beliebigen Waffe durch den ersten Ausweichangriff „Blumenspross“ ausgelöst, was „Fei Ses Trugbild“ und „Lotusblütenblatt“ auslöst.\r\n<shuzhi>Fei Ses Trugbild</>: „Fei Ses Trugbild“ kopiert bei der Erzeugung <shuzhi>25%</> des max. ANG des Ziels und wandelt ihn in <shuzhi>Basis-Flammen-ANG</> des Wanderers um (nicht geringer als <shuzhi>3300</> und nicht höher als <shuzhi>3450</>; dieser Flammen-ANG ist nicht in den Werten des Wanderers sichtbar und nicht in der Apex-Liga verfügbar), bis „Fei Ses Trugbild“ verschwindet. Wird für jede Einheit von „Fei Ses Trugbild“ einzeln berechnet. Es kann nur <shuzhi>1</> „Fei Ses Trugbild“ gleichzeitig erzeugt werden.\r\n<shuzhi>Lotusblütenblatt</>: Bei der Erzeugung entspricht die Anzahl an Lotusblütenblättern der Anzahl an Herbeirufungen durch die Waffen des Wanderers (Endlose Blüte ausgenommen). Nach der Erzeugung verändert sich die Anzahl an Lotusblütenblättern nicht entsprechend der Anzahl an Herbeirufungen. Lotusblütenblätter gelten als Herbeirufungen.",
+				"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste), um „Blütenwind“ auszulösen, was Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> zufügt.\r\n\r\nWährend das durch <shuzhi>Wirbelwind</> erzeugte <shuzhi>Wunderwerk: Fantasie</> aktiv ist, wird nach dem ersten Treffer mit einer beliebigen Waffe durch den ersten Ausweichangriff „Blumenspross“ ausgelöst, was „Fei Ses Trugbild“ und „Lotusblütenblatt“ auslöst.\r\n<shuzhi>Fei Ses Trugbild</>: „Fei Ses Trugbild“ kopiert bei der Erzeugung <shuzhi>25%</> des max. ANG des Ziels und wandelt ihn in <shuzhi>Basis-Flammen-ANG</> des Wanderers um (nicht geringer als <shuzhi>6500</> und nicht höher als <shuzhi>10.000</>; dieser Flammen-ANG ist nicht in den Werten des Wanderers sichtbar und nicht in der Apex-Liga verfügbar), bis „Fei Ses Trugbild“ verschwindet. Wird für jede Einheit von „Fei Ses Trugbild“ einzeln berechnet. Es kann nur <shuzhi>1</> „Fei Ses Trugbild“ gleichzeitig erzeugt werden.\r\n<shuzhi>Lotusblütenblatt</>: Bei der Erzeugung entspricht die Anzahl an Lotusblütenblättern der Anzahl an Herbeirufungen durch die Waffen des Wanderers (Endlose Blüte ausgenommen). Nach der Erzeugung verändert sich die Anzahl an Lotusblütenblättern nicht entsprechend der Anzahl an Herbeirufungen. Lotusblütenblätter gelten als Herbeirufungen.",
 				"icon": "feise_evadefront",
 				"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 			},
@@ -6271,7 +6295,7 @@
 		"skills": [
 			{
 				"name": "Wirbelwind",
-				"description": "Verursacht bei Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> und erzeugt ein „Wunderwerk: Fantasie“, das bis zu <shuzhi>25</> Sek. lang anhält.\r\nGewährt während der Abklingzeit von „Wirbelwind“ die Fähigkeit „Wendigkeit“. „Wendigkeit“ kann verwendet werden, nachdem „Wunderwerk“ <shuzhi>20</> Sek. aktiv ist.\r\nSetzt die Abklingzeit von „Wirbelwind“ sofort nach dem Verschwinden von „Wunderwerk“ zurück. Dies wird von anderen Effekten, die die Abklingzeit zurücksetzen, verringern oder anpassen, nicht beeinflusst.\r\n\r\nWährend „Wunderwerk“:\r\nPro Sekunde wird Seelenschwere-Schaden in Höhe von <shuzhi>{2}%</> des ANG im Wunderwerk verursacht. Seelenschwere-Schaden zählt als Schaden von normalen Angriffen.\r\nVerursacht bei Zielen im Wunderwerk alle <shuzhi>5</> Sek. „Flammendes Herz“ und fügt ihnen <shuzhi>5</> Sek. lang Brandschaden in Höhe von <shuzhi>{3}%</> des ANG zu. Pro <shuzhi>1</> <shuzhi>Fei Ses Trugbild</> oder vom Wanderer erzeugtem <shuzhi>Lotusblütenblatt</> im Wunderwerk wird der Schaden durch „Flammendes Herz“ zusätzlich um <shuzhi>6%</> erhöht.",
+				"description": "Verursacht bei Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}</> des ANG + <shuzhi>{1}</> und erzeugt ein „Wunderwerk: Fantasie“, das bis zu <shuzhi>25</> Sek. anhält.\r\nGewährt während der Abklingzeit von „Wirbelwind“ die Fähigkeit „Wendigkeit“. „Wendigkeit“ kann verwendet werden, nachdem „Wunderwerk“ <shuzhi>20</> Sek. aktiv ist.\r\nSetzt die Abklingzeit von „Wirbelwind“ sofort nach dem Verschwinden von „Wunderwerk“ zurück. Dies wird von anderen Effekten, die die Abklingzeit zurücksetzen, verringern oder anpassen, nicht beeinflusst.\r\n\r\nWährend „Wunderwerk“:\r\nPro Sekunde wird Seelenschwere-Schaden in Höhe von <shuzhi>{2}%</> des ANG verursacht. Seelenschwere-Schaden zählt als Schaden von normalen Angriffen.\r\nVerursacht bei Zielen in Reichweite alle <shuzhi>5</> Sek. „Flammendes Herz“ und fügt ihnen <shuzhi>5</> Sek. lang Brandschaden in Höhe von <shuzhi>{3}%</> des ANG zu. Pro <shuzhi>1</> <shuzhi>Fei Ses Trugbild</> oder vom Wanderer erzeugtem <shuzhi>Lotusblütenblatt</> im Wunderwerk wird der Schaden durch „Flammendes Herz“ zusätzlich um <shuzhi>15%</> erhöht.",
 				"icon": "feise_skill1",
 				"id": "GA_FPlayerFeiseSkill_Skill1"
 			},
@@ -6761,7 +6785,7 @@
 			},
 			{
 				"name": "Sternenfall",
-				"description": "Springe auf das Ziel zu, verursache Schaden in Höhe von <shuzhi>{0}%</> des ANG +<shuzhi>{1}</> und lasse das Ziel <shuzhi>länger schweben</>. Belegt das Ziel für <shuzhi>18 Sek.</> mit einer „Erleuchtung“-Markierung. Abklingzeit: <shuzhi>20</> Sek.",
+				"description": "Springe auf das Ziel zu, verursache Schaden in Höhe von <shuzhi>{0}%</> des ANG + <shuzhi>{1}</> und lasse das Ziel <shuzhi>länger schweben</>. Belegt das Ziel für <shuzhi>18 Sek.</> mit einer Markierung der Erleuchtung. Abklingzeit: <shuzhi>20</> Sek.",
 				"icon": "skill_arm_airattack2",
 				"id": "GA_FPlayerArmPublishSkillPhy"
 			},

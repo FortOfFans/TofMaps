@@ -986,15 +986,15 @@
 		"id": "artifact_adv_044"
 	},
 	"1312": {
-		"description": "111 111",
+		"description": "Débloque le Masque du chasseur. Sélectionnez lorsque vous utilisez Triple masque et confirmez à nouveau pour le porter. Lorsque vous portez le Masque du chasseur, vous pouvez voir les emplacements des ennemis d'élite du domaine 9 sur la carte.",
 		"id": "artifact_adv_045"
 	},
 	"1313": {
-		"description": "111 111",
+		"description": "Lorsque Triple masque est déployé, accroît la vitesse de <shuzhi>8%</> et les dégâts élémentaires de <shuzhi>8%</>.",
 		"id": "artifact_adv_045"
 	},
 	"1314": {
-		"description": "111 111",
+		"description": "Débloque le Masque du savoir. Lorsque vous portez le Masque du savoir, vous serez guidé à l'emplacement des coffres non ouverts à proximité.",
 		"id": "artifact_adv_045"
 	},
 	"1315": {
@@ -1002,7 +1002,7 @@
 		"id": "artifact_adv_045"
 	},
 	"1316": {
-		"description": "111 111",
+		"description": "Lorsque Triple masque est déployé, accroît les dégâts élémentaires de <shuzhi>8%</> supplémentaires.",
 		"id": "artifact_adv_045"
 	}
 }

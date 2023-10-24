@@ -6,6 +6,27 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f27_lanmaozi",
 		"id": "fashion_dress_27"
 	},
+	"fashion_dress_58": {
+		"type": "Dress",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"id": "fashion_dress_58"
+	},
+	"fashion_dress_55": {
+		"name": "Murmelnde Brise",
+		"description": "Der wehende Schleier lässt in der Sommerhitze bei einem Spaziergang am Strand hochsommerliche Stimmung aufkommen.",
+		"type": "Dress",
+		"source": "Erhältlich im „Murmelnde Brise“-Event",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f66",
+		"id": "fashion_dress_55"
+	},
+	"fashion_dress_56": {
+		"name": "Spiel mit der Zeit",
+		"description": "Gib mir nur eine einzige Spielmarke und ich nehme dich einen Tag lang mit auf ein Abenteuer!",
+		"type": "Dress",
+		"source": "Pass erhalten",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56",
+		"id": "fashion_dress_56"
+	},
 	"fashion_dress_54": {
 		"name": "Dimensionssprung",
 		"description": "Auf in eine neue Welt, wo eine neue Reise voller Fantasie beginnt!",
@@ -306,6 +327,7 @@
 		"name": "Mittendrin",
 		"description": "Rückblickend ist mir aufgefallen, dass du aus der Menschenmenge herausgestochen bist.",
 		"type": "Dress",
+		"source": "Erhältlich von Phase 10 des Passes.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f53",
 		"id": "fashion_dress_52"
 	},
@@ -817,6 +839,34 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_131",
 		"id": "fashion_decoration_83"
 	},
+	"fashion_decoration_86": {
+		"name": "Ring der Völlerei",
+		"description": "Zubehör, das aus Taoties Rüstung gefertigt wurde. Du kannst es durch elektromagnetische Adsorption tragen.",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_137",
+		"id": "fashion_decoration_86"
+	},
+	"fashion_decoration_87": {
+		"name": "Silberstrand",
+		"description": "Die Sommersonne ist toll, aber man sollte seine Augen immer vor der UV-Strahlung schützen.",
+		"type": "Headwear",
+		"source": "Aus Events",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_decoration_87_female",
+		"id": "fashion_decoration_87"
+	},
+	"fashion_decoration_88": {
+		"name": "Ring der Erleuchtung",
+		"description": "Mit dieser Auszeichnung würdigt Hykros die Diamantmentoren, die Novizen am meisten geholfen haben!",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88",
+		"id": "fashion_decoration_88"
+	},
+	"fashion_decoration_91": {
+		"type": "Headwear",
+		"source": "Aus Events",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+		"id": "fashion_decoration_91"
+	},
 	"fashion_weapon_1": {
 		"name": "Großschwert",
 		"description": "Großschwert",
@@ -1016,6 +1066,75 @@
 		"source": "Wird beim Einsatzevent abgeholt.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",
 		"id": "fashion_Guidenpc_mia_oversea_1"
+	},
+	"fashion_medal_0": {
+		"name": "Nicht dekoriert",
+		"type": "Medal",
+		"icon": "None",
+		"id": "fashion_medal_0"
+	},
+	"fashion_medal_1": {
+		"name": "„Vergessene Sinnestäuschung“-Stern",
+		"description": "Eine Gedenkmedaille aus Diamanten, auf der mittig das Emblem der „Vergessenen Sinnestäuschung“ prangt. Eine Belohnung, die allein der erstplatzierte Spieler einer einzelnen Saison erhält.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Diamond",
+		"id": "fashion_medal_1"
+	},
+	"fashion_medal_2": {
+		"name": "Goldene Sinnestäuschung-Medaille",
+		"description": "Eine Gedenkmedaille aus purem Gold, auf der mittig das Emblem der „Vergessenen Sinnestäuschung“ prangt. Eine Belohnung, die allein der zweitplatzierte Spieler einer einzelnen Saison erhält.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Gold",
+		"id": "fashion_medal_2"
+	},
+	"fashion_medal_3": {
+		"name": "Silberne Sinnestäuschung-Medaille",
+		"description": "Eine Gedenkmedaille aus feinstem Silber, auf der mittig das Emblem der „Vergessenen Sinnestäuschung“ prangt. Eine Belohnung, die allein der drittplatzierte Spieler einer einzelnen Saison erhält.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Silver",
+		"id": "fashion_medal_3"
+	},
+	"fashion_medal_4": {
+		"name": "Stern des erleuchteten Mentors",
+		"description": "Die funkelnden Sternverzierungen, die den Status des Diamantmentors symbolisieren, dienen als Auszeichnung für die Hilfe, die dieser anderen zuteilwerden lässt.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond",
+		"id": "fashion_medal_4"
+	},
+	"fashion_medal_5": {
+		"name": "Stern des leuchtenden Mentors",
+		"description": "Die golden glänzenden Sternverzierungen, die den Status des Goldmentors symbolisieren, dienen als Auszeichnung für die Hilfe, die dieser anderen zuteilwerden lässt.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold",
+		"id": "fashion_medal_5"
+	},
+	"fashion_medal_6": {
+		"name": "Stern des blendenden Mentors",
+		"description": "Die silbern schimmernden Sternverzierungen, die den Status des Silbermentors symbolisieren, dienen als Auszeichnung für die Hilfe, die dieser anderen zuteilwerden lässt.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver",
+		"id": "fashion_medal_6"
+	},
+	"fashion_medal_7": {
+		"name": "„Ursprung des Krieges“-Stern",
+		"description": "Eine Gedenkmedaille aus Diamanten, auf der mittig das „Ursprung des Krieges“-Emblem prangt. Eine Belohnung, die allein der erstplatzierte Spieler einer einzelnen Saison erhält.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Diamond",
+		"id": "fashion_medal_7"
+	},
+	"fashion_medal_8": {
+		"name": "Goldene Ursprung-Medaille",
+		"description": "Eine Gedenkmedaille aus purem Gold, auf der mittig das „Ursprung des Krieges“-Emblem prangt. Eine Belohnung, die allein der zweitplatzierte Spieler einer einzelnen Saison erhält.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Gold",
+		"id": "fashion_medal_8"
+	},
+	"fashion_medal_9": {
+		"name": "Silberne Ursprung-Medaille",
+		"description": "Eine Gedenkmedaille aus feinstem Silber, auf der mittig das „Ursprung des Krieges“-Emblem prangt. Eine Belohnung, die allein der drittplatzierte Spieler einer einzelnen Saison erhält.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Silver",
+		"id": "fashion_medal_9"
 	},
 	"fashion_Guidenpc_mia_10": {
 		"name": "„Rentier“-Mi-a",

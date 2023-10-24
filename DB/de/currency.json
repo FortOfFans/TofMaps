@@ -131,9 +131,9 @@
 		"id": "WeaponFragment"
 	},
 	"GenePointAttack": {
-		"name": "Originum (Angriff)",
-		"description": "Ein seltsames Nebenprodukt der Omnium-Strahlungsforschung, das die Entwicklung von Lebewesen zielgerichtet beeinflussen kann. Nach jahrelanger Forschung und Optimierung kann es nun sicher am menschlichen Körper eingesetzt werden.",
-		"icon": "/Game/Resources/Icon/item/jysicon",
+		"name": "Dominium",
+		"description": "Eine gewöhnliche und die einzige legale Währung in Gebiet 9, die von Zhen Gong ausgegeben wird. Sie enthält eine kleine Menge des Materials, das zur Herstellung von Zeitstempeln verwendet wird, um Fälschungen vorzubeugen.",
+		"icon": "/Game/Resources/Icon/huobi/jiuyu_coin",
 		"id": "GenePointAttack"
 	},
 	"GuildCaption": {

@@ -131,9 +131,9 @@
 		"id": "WeaponFragment"
 	},
 	"GenePointAttack": {
-		"name": "プライモ(アタック)",
-		"description": "オムニアム放射線の研究中に発見された謎の物質。生き物の遺伝子に影響を与える。長年の研究により改良され、人体に用いる際の安全性は確認されている",
-		"icon": "/Game/Resources/Icon/item/jysicon",
+		"name": "域幣",
+		"description": "陣宮が発行する九域の一般通貨にして唯一の法定貨幣。偽造防止のため、刻の印の材料がわずかに含まれている",
+		"icon": "/Game/Resources/Icon/huobi/jiuyu_coin",
 		"id": "GenePointAttack"
 	},
 	"GuildCaption": {

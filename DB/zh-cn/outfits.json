@@ -6,59 +6,83 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f27_lanmaozi",
 		"id": "fashion_dress_27"
 	},
+	"fashion_dress_58": {
+		"name": "织锦璎璃",
+		"description": "尖叫的南瓜人偶，热闹的假面舞会。穿上它，你可以闪亮登场万众瞩目，也可以没入夜色，徒留绯红与风声。",
+		"type": "Dress",
+		"source": "织锦璎璃扭蛋活动获取",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"id": "fashion_dress_58"
+	},
+	"fashion_dress_55": {
+		"name": "海风絮语",
+		"description": "夏日炎炎，漫步在沙滩上，随风摆动的轻纱带来盛夏的摇漾",
+		"type": "Dress",
+		"source": "海风絮语扭蛋活动获取",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f66",
+		"id": "fashion_dress_55"
+	},
+	"fashion_dress_56": {
+		"name": "玩转时空",
+		"description": "只要给我一个游戏币，我能带你玩上一整天！",
+		"type": "Dress",
+		"source": "通行证获取",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56",
+		"id": "fashion_dress_56"
+	},
 	"fashion_dress_54": {
 		"name": "次元跃迁",
 		"description": "新的世界，新的幻想旅程，出发！",
 		"type": "Dress",
-		"source": "ได้รับจากแพ็กพรีออเดอร์",
+		"source": "预购礼包获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f55",
 		"id": "fashion_dress_54"
 	},
 	"fashion_dress_47": {
-		"name": "มหัศจรรย์พันธุ์ม่วง",
-		"description": "สีม่วงเป็นสัญลักษณ์ของความโชคดีและความมั่งคั่ง งั้นก็หมายความว่าหีบสมบัติกำลังกวักมือเรียกคุณอยู่หรือเปล่านะ?",
+		"name": "幻紫",
+		"description": "紫色象征着幸运和财富，是否也意味着更多的宝箱在向你招手？",
 		"type": "Dress",
 		"source": "第十期通行证限定奖励",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f48",
 		"id": "fashion_dress_47"
 	},
 	"fashion_dress_48": {
-		"name": "หวนคืนสู่ความหลัง",
-		"description": "ฤดูกาลผ่านพ้นไป แต่ความรู้สึกยังคงอยู่ชั่วนิรันดร์ ทำไมเราไม่ไปเที่ยวเล่นในช่วงบ่ายที่สวยงามของฤดูใบไม้ผลิแบบนี้สักหน่อยล่ะ!",
+		"name": "复逆回潮",
+		"description": "季节往复，心绪回潮，在春日的午后，不如来一次远足吧！",
 		"type": "Dress",
-		"source": "ได้รับจากการซื้อบัตรพาส เฟสที่ 8",
+		"source": "第8期通行证获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f49",
 		"id": "fashion_dress_48"
 	},
 	"fashion_dress_49": {
-		"name": "แบล็กแอนไวท์",
-		"description": "ต่อให้เป็นขั้วตรงข้ามอย่างดำกับขาว ก็เข้าร่วมงานเฉลิมฉลองหรือร้องเพลงและเต้นไปด้วยกันได้",
+		"name": "黑白同调",
+		"description": "黑与白在节日里相遇，奏响同样的旋律，起舞。",
 		"type": "Dress",
-		"source": "ได้รับจากกิจกรรมกาชาปองแบล็กแอนไวท์",
+		"source": "黑白同调扭蛋活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f50",
 		"id": "fashion_dress_49"
 	},
 	"fashion_dress_46": {
-		"name": "วสันต์สีทองแสนประณีต",
-		"description": "หยกที่ส่องประกายเป็นแสงสีทอง ชุดฤดูใบไม้ผลิที่ทอจากเส้นไหม",
+		"name": "金春华章",
+		"description": "金相玉质，探春辞岁，霓裾华裳，云锦天章。",
 		"type": "Dress",
-		"source": "รับได้จากกิจกรรมวสันต์สีทองแสนประณีต",
+		"source": "金春华章扭蛋活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f47",
 		"id": "fashion_dress_46"
 	},
 	"fashion_dress_44": {
-		"name": "ค่ำคืนแสนวิเศษ",
-		"description": "รวมตัวกับเพื่อน ๆ ของคุณ และใช้เวลาในคืนฤดูหนาวอันอบอุ่นด้วยกันสิ",
+		"name": "暖冬奇妙夜",
+		"description": "与伙伴们欢聚在一起，度过惬意的暖冬之夜吧",
 		"type": "Dress",
-		"source": "ได้รับจากแพ็กของขวัญ",
+		"source": "礼包获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f45",
 		"id": "fashion_dress_44"
 	},
 	"fashion_dress_43": {
-		"name": "ถ้อยกระซิบส่องสะท้อน",
-		"description": "พบกับอนาคตที่สดใสที่ประดับด้วยเกล็ดทองคำ",
+		"name": "浮光絮语",
+		"description": "遇见由碎金点缀的辉煌明日",
 		"type": "Dress",
-		"source": "ได้รับจากกิจกรรมถ้อยกระซิบส่องสะท้อน",
+		"source": "浮光絮语扭蛋活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f44",
 		"id": "fashion_dress_43"
 	},
@@ -66,7 +90,7 @@
 		"name": "矩阵",
 		"description": "理性思考与超凡想象，缺一不可。",
 		"type": "Dress",
-		"source": "ได้รับจากการซื้อบัตรพาส เฟสที่ 7",
+		"source": "第7期通行证获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f43",
 		"id": "fashion_dress_42"
 	},
@@ -74,21 +98,21 @@
 		"name": "不羁鼓点",
 		"description": "冲破漫天黄沙，摇滚永不消逝。",
 		"type": "Dress",
-		"source": "แพ็กของขวัญจำกัดเวลา",
+		"source": "限时礼包",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f42",
 		"id": "fashion_dress_41"
 	},
 	"fashion_dress_40": {
 		"name": "跃动青春",
-		"description": "การต่อต้านและการแสดงหาความเป็นปัจเจกบุคคล ณ เวลานี้ไม่อาจที่จะสกัดกั้นมันไว้ในใจได้อีกต่อไปแล้ว ต้องแสดงออกไปสักหน่อยถึงจะดีขึ้น",
+		"description": "叛逆，以及对个性的追求，此时光是压抑在心里已经远远不够。总得在哪里表现一些才行。",
 		"type": "Dress",
-		"source": "ซื้อได้ที่ร้านค้า",
+		"source": "商城直购",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f41",
 		"id": "fashion_dress_40"
 	},
 	"fashion_dress_39": {
-		"name": "งานเลี้ยงโรซี่",
-		"description": "ในวันที่เหล่าภูตผีออกมาอยู่ร่วมปะปนกับคนทั่วไปได้อย่างกลมกลืน มาใส่ชุดนี้แล้วเข้าร่วมปาร์ตี้ชุดคอสตูมที่แสนอันตรายกันเถอะ...",
+		"name": "玫瑰晚宴",
+		"description": "在鬼怪出来凑热闹也不奇怪的日子，穿上这身，应邀参与一场带有危险气息的盛装派对吧……",
 		"type": "Dress",
 		"source": "活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f40",
@@ -106,7 +130,7 @@
 		"name": "初晓",
 		"description": "为见证奇迹的诞生，向远处进发",
 		"type": "Dress",
-		"source": "ได้รับจากการซื้อบัตรพาส เฟสที่ 5",
+		"source": "第5期通行证获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f37",
 		"id": "fashion_dress_37"
 	},
@@ -114,7 +138,7 @@
 		"name": "极速飙风",
 		"description": "年轻，就要驰骋。",
 		"type": "Dress",
-		"source": "ได้รับจากกิจกรรมแข่งกับสายลม",
+		"source": "极速飙风扭蛋活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f36",
 		"id": "fashion_dress_36"
 	},
@@ -130,7 +154,7 @@
 		"name": "晴虹",
 		"description": "心情如初夏般晴朗，每一天都要开心度过哟。",
 		"type": "Dress",
-		"source": "รางวัลลิมิเต็ดบัตรพาสเฟสที่สี่",
+		"source": "第四期通行证限定奖励",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f34",
 		"id": "fashion_dress_34"
 	},
@@ -154,7 +178,7 @@
 		"name": "绒绒派对",
 		"description": "这里是绒绒派对！毛茸茸就是入场券哦！",
 		"type": "Dress",
-		"source": "มิเรอเรียกาชาปอง",
+		"source": "镜都扭蛋机",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f31",
 		"id": "fashion_dress_31"
 	},
@@ -178,7 +202,7 @@
 		"name": "星辉",
 		"description": "在穿着这身衣服时，使命感会油然而生……披星戴月，执行公务。",
 		"type": "Dress",
-		"source": "ได้รับจากแพ็กของขวัญ",
+		"source": "礼包获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f26",
 		"id": "fashion_dress_26"
 	},
@@ -201,7 +225,7 @@
 		"name": "勿忘我",
 		"description": "适用于极端高温环境的时装，只为冒险者提供最基础的遮蔽。",
 		"type": "Dress",
-		"source": "ของขวัญคำสั่ง",
+		"source": "订购赠礼",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f07",
 		"id": "fashion_dress_17"
 	},
@@ -287,33 +311,34 @@
 		"id": "fashion_dress_5"
 	},
 	"fashion_dress_50": {
-		"name": "คลื่นวายุแห่งอินนาร์",
-		"description": "ชุดเดรสที่ออกแบบมาอย่างคลาสสิกด้วยสไตล์ของชาวอินนาร์",
+		"name": "茵海风潮",
+		"description": "在茵纳斯制式服装的基础上融合了经典时尚元素设计而成的礼服",
 		"type": "Dress",
-		"source": "ได้จากบ่อกาชาปองคลื่นวายุแห่งอินนาร์",
+		"source": "茵海风潮扭蛋池获得",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f51",
 		"id": "fashion_dress_50"
 	},
 	"fashion_dress_51": {
-		"name": "บ่อเกิดแห่งมรกต",
-		"description": "ม้วนผ้าปักบนเสื้อผ้าเป็นการลำลองเทคนิคสมัยโบราณที่เรียบง่ายและงดงาม",
+		"name": "缘此青绿",
+		"description": "模拟上古时期的技法，将画卷绣在衣着上，古朴而典雅。",
 		"type": "Dress",
-		"source": "ได้รับจากกิจกรรมบ่อเกิดแห่งมรกต",
+		"source": "缘此青绿活动获得",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f52",
 		"id": "fashion_dress_51"
 	},
 	"fashion_dress_52": {
-		"name": "มองหากลางฝูงชน",
-		"description": "เมื่อมองย้อนกลับไปโดยไม่ได้ตั้งใจ ก็ได้สังเกตเห็นคุณที่โดดเด่นเกินกว่าท่ามกลางฝูงชน",
+		"name": "寻觅众里",
+		"description": "不经意的回首，注意到人群中独一无二的你。",
 		"type": "Dress",
+		"source": "第10期通行证获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f53",
 		"id": "fashion_dress_52"
 	},
 	"fashion_dress_53": {
-		"name": "ลอยล่องท่องดาว",
-		"description": "เนื้อผ้าบางเบา ผสมผสานการตกแต่งด้วยหนังและโลหะ เต็มไปด้วยความสวยงามและความสะดวกสบายในการเดินทางไกลด้วยเสื้อผ้าอันบางเบา",
+		"name": "晨星巡弋 ",
+		"description": "轻薄的纺布，混搭皮革和金属装饰，洋溢着轻装踏上漫漫征途的洒脱",
 		"type": "Dress",
-		"source": "ได้รับจากกิจกรรมลอยล่องท่องดาว",
+		"source": "晨星巡弋活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f54",
 		"id": "fashion_dress_53"
 	},
@@ -359,7 +384,7 @@
 		"name": "水果硬糖",
 		"description": "今天会是什么味道的糖果呢？",
 		"type": "Dress",
-		"source": "ได้รับจากกิจกรรมซื้อของ",
+		"source": "付费活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f19",
 		"id": "fashion_dress_20"
 	},
@@ -367,7 +392,7 @@
 		"name": "午夜时分",
 		"description": "危险与机遇隐匿于前方，让我们走进那黑夜，去冒险吧。",
 		"type": "Dress",
-		"source": "ของขวัญคำสั่ง",
+		"source": "菲欧娜订购赠礼",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f20",
 		"id": "fashion_dress_21"
 	},
@@ -383,7 +408,7 @@
 		"name": "早樱",
 		"description": "选用轻柔面料制作的初春时装，宛若樱花花瓣落在肩头。",
 		"type": "Dress",
-		"source": "ของขวัญคำสั่งซื้อของเฟนรีร์",
+		"source": "芬璃尔订购赠礼",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f22",
 		"id": "fashion_dress_23"
 	},
@@ -396,14 +421,14 @@
 		"id": "fashion_dress_24"
 	},
 	"fashion_decoration_0": {
-		"name": "ไม่ได้ตกแต่ง",
-		"description": "ไม่มีเครื่องประดับ",
+		"name": "无装饰",
+		"description": "无饰品",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/makeup/kong",
 		"id": "fashion_decoration_0"
 	},
 	"fashion_decoration_27": {
-		"name": "แว่นตากันลม",
+		"name": "防尘眼镜",
 		"description": "带上它，就是整条街最靓的仔！",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_019",
@@ -417,22 +442,22 @@
 		"id": "fashion_decoration_26"
 	},
 	"fashion_decoration_2": {
-		"name": "แว่นแสนเสน่ห์",
-		"description": "แว่นเรียบง่าย",
+		"name": "魅力眼镜",
+		"description": "单纯的装饰眼镜",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_03",
 		"id": "fashion_decoration_2"
 	},
 	"fashion_decoration_4": {
-		"name": "ผ้าปิดตาหัวใจแดง",
-		"description": "ความรักเคยทำให้คุณตาบอดรึเปล่า?",
+		"name": "红心眼罩",
+		"description": "你可曾被爱情蒙蔽了双眼？",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_04",
 		"id": "fashion_decoration_4"
 	},
 	"fashion_decoration_5": {
-		"name": "ผ้าปิดตาโจรสลัด",
-		"description": "โทษที ฉันวาดรูปกระดูกไม่เป็นจริง ๆ ",
+		"name": "海盗眼罩",
+		"description": "对不起，实在不会画骨头。",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_05",
 		"id": "fashion_decoration_5"
@@ -540,15 +565,15 @@
 		"id": "fashion_decoration_40_tap"
 	},
 	"fashion_decoration_41_douliu": {
-		"name": "หน้ากากปิดตา",
-		"description": "พิเศษเฉพาะชุมชนโต่วลิ่ว",
+		"name": "逗留眼罩",
+		"description": "逗留社区限定",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_041",
 		"id": "fashion_decoration_41_douliu"
 	},
 	"fashion_decoration_42_heihe": {
-		"name": "สุดยอดนักพเนจร",
-		"description": "กล่องสีดำรุ่นโคลาโบ",
+		"name": "高能玩家",
+		"description": "小黑盒合作款",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_20_heihe",
 		"id": "fashion_decoration_42_heihe"
@@ -669,7 +694,7 @@
 		"name": "电波面具",
 		"description": "因不明电波的影响而情不自禁地戴上了这副面具——是时候出发去寻找同类了！",
 		"type": "Headwear",
-		"source": "ได้รับจากแพ็กของขวัญ",
+		"source": "礼包获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_073",
 		"id": "fashion_decoration_64"
 	},
@@ -767,154 +792,184 @@
 		"id": "fashion_decoration_76"
 	},
 	"fashion_decoration_77": {
-		"name": "ฉลามทะเลลึก",
-		"description": "ตั้งใจฟังเสียงเรียกของท้องทะเลลึก และดำดิ่งไปสู่ดินแดนที่ไม่รู้จักเบื้องหน้าต่อไป",
+		"name": "深海之鲛",
+		"description": "悉心聆听深海的呼唤，向着前方的未知继续潜入吧。",
 		"type": "Headwear",
 		"source": "茵纳斯物资兑换商拉尼",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_116",
 		"id": "fashion_decoration_77"
 	},
 	"fashion_decoration_78": {
-		"name": "เสียงลึกลับ",
-		"description": "คุณได้รับสัญญาณวิทยุที่น่าสนใจ! ได้เวลาค้นหาแล้ว ว่าเกิดอะไรขึ้น!",
+		"name": "谜之音",
+		"description": "接收到了奇妙的电波！是时候去一探究竟了！",
 		"type": "Headwear",
 		"source": "茵纳斯物资兑换商拉尼",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_115",
 		"id": "fashion_decoration_78"
 	},
 	"fashion_decoration_79": {
-		"name": "หลักฐานของนัคยา",
-		"description": "ที่คาดผมสีแดงสวยงาม หลักฐานของความกล้าหาญที่ได้รับจากการเอาชนะ ผู้รับใช้ห้วงนรก: นัคยา",
+		"name": "纳克亚之证",
+		"description": "精美的红色护额，是击败阿比斯·纳克亚获得的勇气证明。",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_122",
 		"id": "fashion_decoration_79"
 	},
 	"fashion_decoration_80": {
-		"name": "หน้ากากวูฟฟี่",
-		"description": "ใครจะไม่ชอบวูฟฟี่ที่น่ารักแบบนี้?",
+		"name": "汪酱口罩",
+		"description": "谁不喜欢可爱的汪酱呢？",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_126",
 		"id": "fashion_decoration_80"
 	},
 	"fashion_decoration_81": {
-		"name": "โฮเวอร์ริ่งสแกนเนอร์",
-		"description": "สามารถสแกนภูมิประเทศโดยรอบแบบเรียลไทม์ รวมถึงจะแจ้งเตือนเมื่อพบศัตรู",
+		"name": "浮游扫描仪",
+		"description": "可以实时扫描周边地形，发现敌人时也能提供必要的警示",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_127",
 		"id": "fashion_decoration_81"
 	},
 	"fashion_decoration_82": {
-		"name": "จักรประดับหัวทอง",
-		"description": "ปิ่นที่มีรูปแบบจักรฟินิกส์สีทองที่เลียนแบบตามงานฝีมือปักทองในสมัยโบราณ หลังจากที่ตอบสนองต่อห้วงพลังงานแล้ว มันจะคลี่ออก, ลอยขึ้น และโบกสะบัดไปมาได้ด้วยตัวเอง",
+		"name": "错金盘凤步摇",
+		"description": "按照上古时期的错金工艺仿制的盘凤式样的步摇，响应时章能量后会自动展开并悬浮摇曳。",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_130",
 		"id": "fashion_decoration_82"
 	},
 	"fashion_decoration_83": {
-		"name": "หน้ากากกันฝันร้าย",
-		"description": "หน้ากากจูเหยี่ยนที่ถูกหลอมขึ้นมาใหม่ ว่ากันว่าผู้ที่สวมใส่จะไม่พบเจอกับลางร้าย",
+		"name": "镇魇面甲",
+		"description": "使用朱厌面甲重新加工制成的面具，据说佩戴之后可趋吉避凶",
 		"type": "Headwear",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_131",
 		"id": "fashion_decoration_83"
 	},
+	"fashion_decoration_86": {
+		"name": "暴食之环",
+		"description": "以饕餮的盔甲制作而成饰品，通过电磁吸附的方式佩戴。",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_137",
+		"id": "fashion_decoration_86"
+	},
+	"fashion_decoration_87": {
+		"name": "银色沙滩",
+		"description": "夏日的海边，你需要墨镜阻断紫外线的直射。",
+		"type": "Headwear",
+		"source": "活动获取",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_decoration_87_female",
+		"id": "fashion_decoration_87"
+	},
+	"fashion_decoration_88": {
+		"name": "启明之环",
+		"description": "海嘉德授予钻石导师的荣誉，以表彰那些给予新人最多帮助的导师！",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88",
+		"id": "fashion_decoration_88"
+	},
+	"fashion_decoration_91": {
+		"name": "小小恶魔",
+		"description": "潜藏在黑夜里的小小恶魔来袭，小心你的脖子哟~",
+		"type": "Headwear",
+		"source": "活动获取",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+		"id": "fashion_decoration_91"
+	},
 	"fashion_weapon_1": {
-		"name": "ดาบใหญ่",
-		"description": "ดาบใหญ่",
+		"name": "大剑",
+		"description": "大剑",
 		"type": "Weapon",
 		"source": "商店2",
 		"icon": "None",
 		"id": "fashion_weapon_1"
 	},
 	"fashion_weapon_2": {
-		"name": "หอก",
-		"description": "หอก",
+		"name": "枪",
+		"description": "枪",
 		"type": "Weapon",
 		"source": "商店2",
 		"icon": "None",
 		"id": "fashion_weapon_2"
 	},
 	"fashion_weapon_3": {
-		"name": "ธนู",
-		"description": "ธนู",
+		"name": "弓",
+		"description": "弓",
 		"type": "Weapon",
 		"source": "商店2",
 		"icon": "None",
 		"id": "fashion_weapon_3"
 	},
 	"fashion_weapon_4": {
-		"name": "ค้อน",
-		"description": "ค้อนไอน้ำ",
+		"name": "锤子",
+		"description": "蒸汽锤",
 		"type": "Weapon",
 		"source": "商店2",
 		"icon": "None",
 		"id": "fashion_weapon_4"
 	},
 	"fashion_weapon_5": {
-		"name": "ปืนใหญ่พัลซาร์",
-		"description": "ปืนใหญ่พัลซาร์",
+		"name": "魔法炮",
+		"description": "魔法炮",
 		"type": "Weapon",
 		"source": "商店2",
 		"icon": "None",
 		"id": "fashion_weapon_5"
 	},
 	"fashion_weapon_6": {
-		"name": "หอกยาว",
-		"description": "หอกยาว",
+		"name": "长枪",
+		"description": "长枪",
 		"type": "Weapon",
 		"source": "商店2",
 		"icon": "None",
 		"id": "fashion_weapon_6"
 	},
 	"fashion_weapon_7": {
-		"name": "ดาบสองมือ",
-		"description": "ดาบสองมือ",
+		"name": "双手剑",
+		"description": "双手剑",
 		"type": "Weapon",
 		"source": "商店2",
 		"icon": "None",
 		"id": "fashion_weapon_7"
 	},
 	"fashion_weapon_8": {
-		"name": "ดาบมือเดียว",
-		"description": "ดาบมือเดียว",
+		"name": "单手剑",
+		"description": "单手剑",
 		"type": "Weapon",
 		"source": "商店2",
 		"icon": "None",
 		"id": "fashion_weapon_8"
 	},
 	"fashion_weapon_9": {
-		"name": "เคียว",
-		"description": "เคียว",
+		"name": "镰刀",
+		"description": "镰刀",
 		"type": "Weapon",
 		"source": "商店2",
 		"icon": "None",
 		"id": "fashion_weapon_9"
 	},
 	"fashion_weapon_10": {
-		"name": "คทา",
-		"description": "คทา",
+		"name": "法杖",
+		"description": "法杖",
 		"type": "Weapon",
 		"source": "商店2",
 		"icon": "None",
 		"id": "fashion_weapon_10"
 	},
 	"fashion_glider_1": {
-		"name": "เจ็ตแพ็ก",
-		"description": "เจ็ตแพ็ก",
+		"name": "喷气背包",
+		"description": "喷气背包",
 		"type": "Glider",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/gilder_1",
 		"id": "fashion_glider_1"
 	},
 	"fashion_glider_2": {
-		"name": "โอไรออน",
-		"description": "เบื่อรูปลักษณ์ของเจ็ตแพ็กแล้วใช่มั้ย? ถึงเวลาแล้วที่จะเพิ่มสิ่งใหม่ๆ เพื่อประสบการณ์การบินของคุณ!",
+		"name": "猎户座",
+		"description": "厌倦了喷气背包的外形？是时候为你的飞行之旅添些新鲜感了！",
 		"type": "Glider",
 		"source": "官网1500W预约福利",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/glider_2",
 		"id": "fashion_glider_2"
 	},
 	"fashion_glider_3": {
-		"name": "ผู้เฝ้ามอง",
-		"description": "การเดินทางที่คุณเคยออกเดินทาง และสถานที่ที่คุณพยายามไขว่คว้า ได้กลายเป็นทิวทัศน์ที่คุณมองข้ามได้ด้วยใจที่สงบ และขั้นตอนต่อไปคือ...",
+		"name": "俯瞰者",
+		"description": "一度踏上的旅路、艰难抵达的某些场所，如今已经变为能够从高处以平和的心态、静静俯视的风景。而下一步是……",
 		"type": "Glider",
 		"source": "1周年庆限定",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Overlooker",
@@ -924,21 +979,21 @@
 		"name": "白翼流星",
 		"description": "海嘉德空气动力研究实验室的新产品，只能通过限定途径才能申领的喷气背包。",
 		"type": "Glider",
-		"source": "ได้รับจากแพ็กพรีออเดอร์",
+		"source": "预购礼包获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/s_glider",
 		"id": "fashion_glider_4"
 	},
 	"fashion_skateboard_1": {
-		"name": "เจ็ตบอร์ด 2",
-		"description": "เจ็ตบอร์ด 2",
+		"name": "滑板2",
+		"description": "滑板2",
 		"type": "Skateboard",
 		"source": "商店2",
 		"icon": "/Game/Resources/Icon/item/Item_Skate_004",
 		"id": "fashion_skateboard_1"
 	},
 	"fashion_suspension_skateboard_1": {
-		"name": "เจ็ตบอร์ด 2",
-		"description": "เจ็ตบอร์ด 2",
+		"name": "滑板2",
+		"description": "滑板2",
 		"type": "SuspensionSkateboard",
 		"source": "商店2",
 		"icon": "/Game/Resources/Icon/item/Item_Skate_004",
@@ -991,7 +1046,7 @@
 		"name": "包包Mi-a",
 		"description": "憨态可掬……你说的是Mi-a还是Mi-a的背包呀？",
 		"type": "GuideNPC",
-		"source": "จากกิจกรรม",
+		"source": "活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia09",
 		"id": "fashion_Guidenpc_mia_7"
 	},
@@ -999,7 +1054,7 @@
 		"name": "泳装Mi-a",
 		"description": "去海边玩水的时候，可别忘记Mi-a哦！",
 		"type": "GuideNPC",
-		"source": "ซื้อได้ที่ร้านค้า",
+		"source": "商城直购",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia010",
 		"id": "fashion_Guidenpc_mia_8"
 	},
@@ -1012,16 +1067,85 @@
 		"id": "fashion_Guidenpc_mia_9"
 	},
 	"fashion_Guidenpc_mia_oversea_1": {
-		"name": "ครุฑน้อยมีอา",
-		"description": "แรงบันดาลใจของสิ่งนี้มาจากนกยักษ์ในตำนานที่เชลลี่บังเอิญไปเห็นในหนังสือโบราณลึกลับ ดูเหมือนจะเข้ากันอย่างลงตัวกับมีอาที่บินได้เลยล่ะ",
+		"name": "迦楼罗Mi-a",
+		"description": "灵感来自于希里小姐从不知名古书中发现的神话巨鸟，似乎与会飞行的Mi-a十分契合呢~",
 		"type": "GuideNPC",
-		"source": "รับในกิจกรรมปฏิบัติการ",
+		"source": "运营活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",
 		"id": "fashion_Guidenpc_mia_oversea_1"
 	},
+	"fashion_medal_0": {
+		"name": "无装饰",
+		"type": "Medal",
+		"icon": "None",
+		"id": "fashion_medal_0"
+	},
+	"fashion_medal_1": {
+		"name": "旧日幻象之星",
+		"description": "钻石打造的纪念勋章，中间是旧日幻象的徽记，在旧日幻象中单个赛季取得第一名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Diamond",
+		"id": "fashion_medal_1"
+	},
+	"fashion_medal_2": {
+		"name": "耀金幻象勋章",
+		"description": "纯金打造的纪念勋章，中间是旧日幻象的徽记，在旧日幻象中单个赛季取得第二名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Gold",
+		"id": "fashion_medal_2"
+	},
+	"fashion_medal_3": {
+		"name": "皓银幻象勋章",
+		"description": "纯银打造的纪念勋章，中间是旧日幻象的徽记，在旧日幻象中单个赛季取得第三名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Silver",
+		"id": "fashion_medal_3"
+	},
+	"fashion_medal_4": {
+		"name": "启明导师之星",
+		"description": "夺目耀眼的星辰装饰，象征着钻石导师的身份，谨以此嘉奖作为导师协助他人的贡献。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond",
+		"id": "fashion_medal_4"
+	},
+	"fashion_medal_5": {
+		"name": "璀璨导师之星",
+		"description": "金光灿烂的星辰装饰，象征着金牌导师的身份，谨以此嘉奖作为导师协助他人的贡献。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold",
+		"id": "fashion_medal_5"
+	},
+	"fashion_medal_6": {
+		"name": "辉白导师之星",
+		"description": "辉银色的星辰装饰，象征着银牌导师的身份，谨以此嘉奖作为导师协助他人的贡献。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver",
+		"id": "fashion_medal_6"
+	},
+	"fashion_medal_7": {
+		"name": "起源战境之星",
+		"description": "钻石打造的纪念勋章，中间是起源战境的徽记，在起源战境中单个赛季取得第一名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Diamond",
+		"id": "fashion_medal_7"
+	},
+	"fashion_medal_8": {
+		"name": "耀金起源勋章",
+		"description": "纯金打造的纪念勋章，中间是起源战境的徽记，在起源战境中单个赛季取得第二名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Gold",
+		"id": "fashion_medal_8"
+	},
+	"fashion_medal_9": {
+		"name": "皓银起源勋章",
+		"description": "纯银打造的纪念勋章，中间是起源战境的徽记，在起源战境中单个赛季取得第三名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Silver",
+		"id": "fashion_medal_9"
+	},
 	"fashion_Guidenpc_mia_10": {
-		"name": "เรนเดียร์น้อยมีอา",
-		"description": "ก็เหมือนตามที่เขียนอธิบายไว้ในหนังสือนิทานนับไม่ถ้วน มีอาเองก็เตรียมของขวัญตั้งแต่เนิ่น ๆ เพื่อเฝ้ารอการมาถึงของค่ำคืนนี้เหมือนกันน่ะ",
+		"name": "驯鹿Mi-a",
+		"description": "像无数故事书中描写的那样，Mi-a也早早准备好礼物，期待着夜晚的到来",
 		"type": "GuideNPC",
 		"source": "活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia014",
@@ -1036,8 +1160,8 @@
 		"id": "fashion_Guidenpc_mia_11"
 	},
 	"fashion_Guidenpc_mia_12": {
-		"name": "ครุฑน้อยมีอา",
-		"description": "แรงบันดาลใจของสิ่งนี้มาจากนกยักษ์ในตำนานที่เชลลี่บังเอิญไปเห็นในหนังสือโบราณลึกลับ ดูเหมือนจะเข้ากันอย่างลงตัวกับมีอาที่บินได้เลยล่ะ",
+		"name": "迦楼罗Mi-a",
+		"description": "灵感来自于希里小姐从不知名古书中发现的神话巨鸟，似乎与会飞行的Mi-a十分契合呢~",
 		"type": "GuideNPC",
 		"source": "茵纳斯物资兑换商拉尼",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",

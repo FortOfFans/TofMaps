@@ -507,7 +507,7 @@
 		"name": "Пузырьковая пушка",
 		"type": "ITEM_TYPE_ARTIFACT",
 		"description": "Говорят, это разработка некой низкорослой блондинки из Миррории...",
-		"source": "Appuyez sur le bouton Tirer pour consommer <shuzhi>1</> goutte de produit à bulles et tirer des bulles, infligeant chacune des dégâts équivalent à <shuzhi>10%</> de l'ATQ. Maintenez le bouton enfoncé pendant <shuzhi>0,5</> seconde pour consommer <shuzhi>5</> gouttes de produit à bulles et tirer une grosse bulle, infligeant des dégâts équivalent à <shuzhi>300%</> de l'ATQ. La grosse bulle peut envelopper la plupart des petites cibles pour les faire s'envoler. Chaque cible ne peut être enveloppée qu'<shuzhi>une</> fois toutes les <shuzhi>15</> secondes. Les cibles avec Hypercorps ne sont pas affectées par cet effet. Le temps de recharge des grosses bulles est de <shuzhi>5</> secondes. Vous gagnez <shuzhi>1</> goutte de produit à bulles toutes les <shuzhi>3</> secondes et <shuzhi>10</> gouttes en éliminant un ennemi. Le Pistolet à bulles peut contenir jusqu'à <shuzhi>30</> gouttes de produit à bulles.",
+		"source": "Нажмите кнопку стрельбы, чтобы потратить <shuzhi>1</> каплю мыльного раствора и запустить несколько пузырьков, каждый из которых наносит урон в размере <shuzhi>10%</> от АТК. Удерживайте кнопку <shuzhi>0,5</> секунды, чтобы за <shuzhi>5</> капель мыльного раствора запустить большой пузырь, который наносит урон в размере <shuzhi>300%</> от АТК. Большой пузырь способен поглотить большинство мелких целей и заставить их улететь. Каждую цель можно поглотить <shuzhi>1</> раз в <shuzhi>15</> секунд, но это не касается тех, у кого есть гипертело. Перезарядка большого пузыря: <shuzhi>5</> секунд. Мыльный раствор пополняется со скоростью <shuzhi>1</> капля в <shuzhi>3</> секунды, при этом после уничтожения врага добавляется еще <shuzhi>10</> капель. Пузырьковая пушка вмещает до <shuzhi>30</> капель мыльного раствора.",
 		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_020",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_044",
@@ -517,7 +517,7 @@
 				"id": "artifact_adv_044"
 			},
 			{
-				"description": "Confère <shuzhi>1</>/<shuzhi>3</> cumuls de Partie de plaisir chaque fois que vous tirez des petites et grosses bulles. Chaque cumul accroît les dégâts infligés par l'Explorateur de <shuzhi>1,8%</> pendant <shuzhi>60</> secondes. Cumulable jusqu'à <shuzhi>5</> fois.",
+				"description": "Дает <shuzhi>1</> и <shuzhi>3</> экз. Счастливого времени после выстрела маленькими и большими пузырями соответственно. Каждый экз. увеличивает наносимый странником урон на <shuzhi>1,8%</> на <shuzhi>60</> сек. Накапливается до <shuzhi>5</> раз.",
 				"id": "artifact_adv_044"
 			},
 			{
@@ -529,11 +529,43 @@
 				"id": "artifact_adv_044"
 			},
 			{
-				"description": "Accroît le bonus de dégâts de Partie de plaisir de <shuzhi>0,6%</> par cumul.",
+				"description": "Увеличивает бонус к урону от Счастливого времени еще на <shuzhi>0,6%</> за экз.",
 				"id": "artifact_adv_044"
 			}
 		],
 		"id": "artifact_ssr_020"
+	},
+	"artifact_ssr_021": {
+		"name": "Тройственная маска",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "Изначально создавалась для пациентов с лицевыми травмами, но в процессе разработки приобрела множество полезных функций помимо эстетической. Если обычные маски скрывают лицо, то эта позволяет взглянуть на мир с нового ракурса.",
+		"source": "Наденьте Тройственную маску Пустоты, и никакие враги, кроме боссов, не будут атаковать вас в Верхнем мире. Встреча с некоторыми из них может запустить обнаружение. Пока на вас маска Пустоты, атакованные противники не будут привлекать внимание других врагов. Используйте Тройственную маску снова, чтобы снять текущую маску и запустить перезарядку. Перезарядка: <shuzhi>20</> сек.",
+		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_021",
+		"rarity": "LEGENDRY",
+		"AttributeID": "artifact_adv_045",
+		"advancement": [
+			{
+				"description": "Открывает маску охотника. Выберите ее при использовании Тройственной маски и подтвердите выбор, чтобы надеть. Пока на вас маска охотника, на карте Территории 9 отмечается местонахождение элитных врагов, с которыми связаны достижения.",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "При использовании Тройственной маски скорость повышается на <shuzhi>8%</>, стихийный урон — на <shuzhi>8%</>.",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "Открывает маску знаний. Пока на вас маска знаний, чутье ведет вас к ближайшим неоткрытым сундукам.",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "Увеличивает урон от холода на <shuzhi>2%</>. Выставлять для этого не обязательно. Недоступно в Высшей лиге.",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "При использовании Тройственной маски стихийный урон повышается еще на <shuzhi>8%</>.",
+				"id": "artifact_adv_045"
+			}
+		],
+		"id": "artifact_ssr_021"
 	},
 	"artifact_sr_001": {
 		"name": "Парящая пушка",

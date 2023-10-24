@@ -6,6 +6,30 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f27_lanmaozi",
 		"id": "fashion_dress_27"
 	},
+	"fashion_dress_58": {
+		"name": "Kilau Sutra",
+		"description": "Boneka labu menjerit yang mengenakan topeng yang meriah. Pakai untuk bersinar di bawah sorotan lampu di atas panggung atau lenyap di malam hari, dengan hanya meninggalkan jejak warna merah tua dan angin yang berbisik.",
+		"type": "Dress",
+		"source": "Diperoleh dari event Silken Adornment",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"id": "fashion_dress_58"
+	},
+	"fashion_dress_55": {
+		"name": "Bisikan Angin Laut",
+		"description": "Di musim panas yang terik, berjalan-jalan di pantai, tudung yang berayun-ayun menghadirkan suasana pertengahan musim panas.",
+		"type": "Dress",
+		"source": "Diperoleh dari event Seabreeze Whisper",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f66",
+		"id": "fashion_dress_55"
+	},
+	"fashion_dress_56": {
+		"name": "Play in Time",
+		"description": "Cukup beri aku satu token game, kuajak kalian bertualang seharian penuh!",
+		"type": "Dress",
+		"source": "Dapatkan Pass",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56",
+		"id": "fashion_dress_56"
+	},
 	"fashion_dress_54": {
 		"name": "Lompatan Dimensi",
 		"description": "Melangkah ke dunia baru dan memulai petualangan fantasi yang baru!",
@@ -273,7 +297,7 @@
 	},
 	"fashion_dress_10": {
 		"name": "Last Stand",
-		"description": "Dirancang untuk petualangan yang mengedepankan mobilitas, pakaian ini sepenuhnya mengabaikan pertimbangan seputar desain perlindungan.",
+		"description": "Dirancang untuk petualangan yang mengedepankan mobilitas, desain pakaian ini sepenuhnya mengabaikan aspek perlindungan.",
 		"type": "Dress",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f02",
 		"id": "fashion_dress_10"
@@ -306,6 +330,7 @@
 		"name": "Pencuri Perhatian",
 		"description": "Kalau diingat lagi, penampilanmu itu memang mencuri perhatian.",
 		"type": "Dress",
+		"source": "Didapatkan dari Pass Fase 10.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f53",
 		"id": "fashion_dress_52"
 	},
@@ -817,6 +842,36 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_131",
 		"id": "fashion_decoration_83"
 	},
+	"fashion_decoration_86": {
+		"name": "Cincin Keserakahan",
+		"description": "Aksesori yang terbuat dari armor Taotie. Kenakan dengan adsorpsi elektromagnetik.",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_137",
+		"id": "fashion_decoration_86"
+	},
+	"fashion_decoration_87": {
+		"name": "Silver Beach",
+		"description": "Matahari di musim panas itu lumayan terik, jadi jangan sampai sinar UV merusak matamu.",
+		"type": "Headwear",
+		"source": "Dari event",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_decoration_87_female",
+		"id": "fashion_decoration_87"
+	},
+	"fashion_decoration_88": {
+		"name": "Ring of Enlightenment",
+		"description": "Suatu kehormaan dari Hykros! Jasa Mentor Berlian yang selalu membantu pemula tidak akan pernah dilupakan!",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88",
+		"id": "fashion_decoration_88"
+	},
+	"fashion_decoration_91": {
+		"name": "Iblis Cilik",
+		"description": "Hati-hati, kalau malam suka ada Iblis Cilik yang mengincar lehermu! Hiiii!",
+		"type": "Headwear",
+		"source": "Dari event",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+		"id": "fashion_decoration_91"
+	},
 	"fashion_weapon_1": {
 		"name": "Greatsword",
 		"description": "Greatsword",
@@ -1016,6 +1071,75 @@
 		"source": "Ambil di Operation Event",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",
 		"id": "fashion_Guidenpc_mia_oversea_1"
+	},
+	"fashion_medal_0": {
+		"name": "Undecorated",
+		"type": "Medal",
+		"icon": "None",
+		"id": "fashion_medal_0"
+	},
+	"fashion_medal_1": {
+		"name": "Bintang Bygone Phantasm",
+		"description": "Medali Peringatan yang terbuat dari berlian, dengan lambang Bygone Phantasm di tengahnya. Hadiah khusus untuk pemain peringkat pertama dalam satu musim Bygone Phantasm.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Diamond",
+		"id": "fashion_medal_1"
+	},
+	"fashion_medal_2": {
+		"name": "Medali Gold Phantasm",
+		"description": "Medali Peringatan yang terbuat dari emas murni, dengan lambang Bygone Phantasm di tengahnya. Hadiah khusus untuk pemain peringkat kedua dalam satu musim Bygone Phantasm.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Gold",
+		"id": "fashion_medal_2"
+	},
+	"fashion_medal_3": {
+		"name": "Medali Silver Phantasm",
+		"description": "Medali Peringatan yang terbuat dari perak halus, dengan lambang Bygone Phantasm di tengahnya. Hadiah khusus untuk pemain peringkat ketiga dalam satu musim Bygone Phantasm.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Silver",
+		"id": "fashion_medal_3"
+	},
+	"fashion_medal_4": {
+		"name": "Star of Enlightened Mentor",
+		"description": "Selain simbol status Mentor Berlian, dekorasi bintang yang cemerlang ini juga merupakan bentuk penghargaan atas bantuan mereka pada orang lain.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond",
+		"id": "fashion_medal_4"
+	},
+	"fashion_medal_5": {
+		"name": "Star of Bright Mentor",
+		"description": "Selain simbol status Mentor Emas, dekorasi bintang yang berwarna keemasan ini juga merupakan bentuk penghargaan atas bantuan mereka pada orang lain.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold",
+		"id": "fashion_medal_5"
+	},
+	"fashion_medal_6": {
+		"name": "Star of Splendid Mentor",
+		"description": "Selain simbol status Mentor Perak, dekorasi bintang yang berkilau keperakan ini juga merupakan bentuk penghargaan atas bantuan mereka pada orang lain.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver",
+		"id": "fashion_medal_6"
+	},
+	"fashion_medal_7": {
+		"name": "Bintang Awal Peperangan",
+		"description": "Medali Peringatan yang terbuat dari berlian, dengan lambang Awal Peperangan di tengahnya. Hadiah khusus untuk pemain peringkat pertama dalam satu musim Awal Peperangan.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Diamond",
+		"id": "fashion_medal_7"
+	},
+	"fashion_medal_8": {
+		"name": "Medali Gold Origin",
+		"description": "Medali Peringatan yang terbuat dari emas murni, dengan lambang Awal Peperangan di tengahnya. Hadiah khusus untuk pemain peringkat kedua dalam satu musim Awal Peperangan.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Gold",
+		"id": "fashion_medal_8"
+	},
+	"fashion_medal_9": {
+		"name": "Medali Silver Origin",
+		"description": "Medali Peringatan yang terbuat dari perak halus, dengan lambang Awal Peperangan di tengahnya. Hadiah khusus untuk pemain peringkat ketiga dalam satu musim Awal Peperangan.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Silver",
+		"id": "fashion_medal_9"
 	},
 	"fashion_Guidenpc_mia_10": {
 		"name": "Mi-a Rusa",

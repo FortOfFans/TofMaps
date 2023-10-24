@@ -344,7 +344,7 @@
 	"matrix_SSR7_1": {
 		"name": "Shiro",
 		"type": "ITEM_TYPE_MATRIX",
-		"description": "Like a wild cat, she is skittish towards others. Yet sometimes she'll sit by a pond and play with the water, wondering why she is so lonely.",
+		"description": "Like a wild cat, she is skittish toward others. Yet sometimes she'll sit by a pond and play with the water, wondering why she is so lonely.",
 		"icon": "icon_matrix_SSR7_512",
 		"gachaIcon": "icon_matrix_SSR7_512",
 		"rarity": "SSR",
@@ -665,8 +665,8 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Equipping Precious One, **2** or more weapons of different elements, or **2** or more types of weapons increases all elemental damage by **8%**/9%/10%/11%. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.",
-				"4": "When dealing frost damage, increase all elemental damage by **13%**/16%/19%/22% for **2500** seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+				"2": "Equipping Precious One, **2** or more weapons of different elements, or **2** or more types of weapons increases all elemental damage by **8%**/9%/10%/11%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.",
+				"4": "When dealing frost damage, increase all elemental damage by **13%**/16%/19%/22% for **2500** seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
 			}
 		],
 		"id": "matrix_SSR28_1"
@@ -695,8 +695,8 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Increase all elemental damage by **8%**/9%/10%/11% when at least 1 physical weapon is equipped. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.",
-				"4": "After using any physical weapon skill or discharge skill, increase all elemental damage by **13%**/16%/19%/22% for **25** seconds. Endurance consumed when using **Mini Hurricane** is reduced by **40%**. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+				"2": "Increase all elemental damage by **8%**/9%/10%/11% when at least 1 physical weapon is equipped. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.",
+				"4": "After using any physical weapon skill or discharge skill, increase all elemental damage by **13%**/16%/19%/22% for **25** seconds. Endurance consumed when using **Mini Hurricane** is reduced by **40%**. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
 			}
 		],
 		"id": "matrix_SSR30_1"
@@ -711,7 +711,7 @@
 		"set": [
 			{
 				"2": "Increase volt ATK by **14%**/17%/19%/21%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.",
-				"4": "Increase Crystamax thorn limit to **6**. After landing a hit with a volt weapon, all elemental damage is increased by **13%**/16%/19%/22% for **3000** seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+				"4": "Increase Crystamax thorn limit to **6**. After landing a hit with a volt weapon, all elemental damage is increased by **13%**/16%/19%/22% for **3000** seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
 			}
 		],
 		"id": "matrix_SSR31_1"
@@ -725,8 +725,8 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Increase final damage by **9%**/10%/11%/12%. The number of **Sparrow Feathers** obtained from dodging while using **Pine Comet** increases to **20**. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.",
-				"4": "When equipped with at least **1** flame weapon, increase all elemental damage by **11%**/14%/17%/20%. After using **In All Directions**, increase all elemental damage boost by an additional **7%** and gradually reduce to **4%** over **2500** seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+				"2": "Increase final damage by **9%**/10%/11%/12%. The number of **Sparrow Feathers** obtained from dodging while using **Pine Comet** increases to **20**. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.",
+				"4": "When equipped with at least **1** flame weapon, increase all elemental damage by **11%**/14%/17%/20%. After using **In All Directions**, increase all elemental damage boost by an additional **7%** and gradually reduce to **4%** over **2500** seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
 			}
 		],
 		"id": "matrix_SSR32_1"
@@ -741,7 +741,7 @@
 		"set": [
 			{
 				"2": "When equipped with at least **1** frost weapon, while in the combat state, deal damage equal to **85%** of ATK to nearby targets every second. After using any frost weapon skill or discharge skill, increase final damage by **7%**/8%/9%/10% for **3000** seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.",
-				"4": "After **Unity** consumes **Internal Strength** or **Fighting Spirit**, increase final damage by **6%** for **1500** seconds. After dealing frost damage, increase all elemental damage by **12%**/15%/19%/23% for **3000** seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+				"4": "After **Unity** consumes **Internal Strength** or **Fighting Spirit**, increase final damage by **6%** for **1500** seconds. After dealing frost damage, increase all elemental damage by **12%**/15%/19%/23% for **3000** seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
 			}
 		],
 		"id": "matrix_SSR33_1"
@@ -770,8 +770,8 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Increase final damage by **7%**/8%/9%/10%. After Azura's shockwave lands a hit, increase skill damage by **15%** for **3000** seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.",
-				"4": "When equipped with at least **1** volt weapon, increase all elemental damage by **14%**/17%/20%/23%. After using **Azure Moon** / **Soaring Dragon**, increase crit damage by **6%** for **3000** seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect."
+				"2": "Increase final damage by **7%**/8%/9%/10%. After Azura's shockwave lands a hit, increase skill damage by **15%** for **3000** seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.",
+				"4": "When equipped with at least **1** volt weapon, increase all elemental damage by **14%**/17%/20%/23%. After using **Azure Moon** / **Soaring Dragon**, increase crit damage by **6%** for **3000** seconds. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
 			}
 		],
 		"id": "matrix_SSR35_1"
@@ -785,10 +785,25 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "After using any flame weapon skill or discharge, increase all attack by **18%**/22%/26%/30% for **3000** seconds. This set effect works in the off-hand slot. Only the set with the highest star rating will take effect.",
-				"4": "When equipped with at least **1** flame weapon, increase all elemental damage by **28%**/32%/36%/40%. After creating Fei Se's Phantasia, additionally increase final damage by **20%** for **2500** seconds. This set effect works in the off-hand slot. Only the set with the highest star rating will take effect."
+				"2": "After using any flame weapon skill or discharge, increase all attack by **14%**/16%/18%/20% for **3000** seconds. This set effect works in the off-hand slot. Only the set with the highest star rating will take effect.",
+				"4": "When equipped with at least **1** flame weapon, increase all elemental damage by **14%**/17%/20%/23%. After creating Fei Se's Phantasia, additionally increase final damage by **9%** for **2500** seconds. This set effect works in the off-hand slot. Only the set with the highest star rating will take effect."
 			}
 		],
 		"id": "matrix_SSR36_1"
+	},
+	"matrix_SSR37_1": {
+		"name": "Ling Han",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "The sword is like a mist, traveling swiftly and indiscriminately.",
+		"icon": "icon_matrix_SSR37_512",
+		"gachaIcon": "icon_matrix_SSR37_512",
+		"rarity": "SSR",
+		"set": [
+			{
+				"2": "Increase all elemental damage by **7%**/8%/9%/10%. When firing Frost Blades, deal additional damage equal to **416%** of ATK to nearby targets. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.",
+				"4": "After using any frost weapon's discharge skill, increase final damage by **12%**/15%/19%/23% for **3000** seconds. When **Alabaster Tiger** is equipped, increase all attack by **12%**. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect."
+			}
+		],
+		"id": "matrix_SSR37_1"
 	}
 }

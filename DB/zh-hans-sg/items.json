@@ -389,6 +389,66 @@
 		"rarity": "LEGENDRY",
 		"id": "feise_fire_plasm"
 	},
+	"Linghan_ice_plasm": {
+		"name": "监兵数据核心",
+		"type": "ITEM_TYPE_WEAPON_FRAGMENT",
+		"description": "重复获得的武器所转化的数据核心。",
+		"source": "武器升星",
+		"icon": "/Game/Resources/Icon/item/item_weapon_upstar_.png",
+		"shortIcon": "item_weapon_upstar_",
+		"rarity": "LEGENDRY",
+		"id": "Linghan_ice_plasm"
+	},
+	"Likeability_unlock1": {
+		"name": "升格驱动-亚夏",
+		"type": "ITEM_TYPE_MATERIAL",
+		"description": "海嘉德研发的用于迭代升级拟态系统的驱动模块，可用于提升亚夏拟态的战斗能力。",
+		"source": "可用于亚夏拟态解锁唤醒等级。",
+		"icon": "/Game/Resources/Icon/ImitationGift/Likeability_unlock1.png",
+		"shortIcon": "Likeability_unlock1",
+		"rarity": "LEGENDRY",
+		"id": "Likeability_unlock1"
+	},
+	"Likeability_unlock2": {
+		"name": "升格驱动-维拉",
+		"type": "ITEM_TYPE_MATERIAL",
+		"description": "海嘉德研发的用于迭代升级拟态系统的驱动模块，可用于提升维拉拟态的战斗能力。",
+		"source": "可用于维拉拟态解锁唤醒等级。",
+		"icon": "/Game/Resources/Icon/ImitationGift/Likeability_unlock2.png",
+		"shortIcon": "Likeability_unlock2",
+		"rarity": "LEGENDRY",
+		"id": "Likeability_unlock2"
+	},
+	"Likeability_unlock3": {
+		"name": "升格驱动-九域",
+		"type": "ITEM_TYPE_MATERIAL",
+		"description": "海嘉德研发的用于迭代升级拟态系统的驱动模块，可用于提升九域拟态的战斗能力。",
+		"source": "可用于九域拟态解锁唤醒等级。",
+		"icon": "/Game/Resources/Icon/ImitationGift/Likeability_unlock3.png",
+		"shortIcon": "Likeability_unlock3",
+		"rarity": "LEGENDRY",
+		"id": "Likeability_unlock3"
+	},
+	"choose_Likeability_unlock": {
+		"name": "自选升格驱动Ⅰ",
+		"type": "ITEM_TYPE_AWARD_CHOOSE",
+		"description": "海嘉德研发的用于迭代升级拟态系统的驱动模块，可用于提升拟态的战斗能力。",
+		"source": "可以在下列道具中选择一个：升格驱动-亚夏、升格驱动-九域。",
+		"icon": "/Game/Resources/Icon/ImitationGift/Likeability_show.png",
+		"shortIcon": "Likeability_show",
+		"rarity": "LEGENDRY",
+		"id": "choose_Likeability_unlock"
+	},
+	"Likeability_unlock_show": {
+		"name": "随机升格驱动",
+		"type": "ITEM_TYPE_MATERIAL",
+		"description": "海嘉德研发的用于迭代升级拟态系统的驱动模块，可用于提升拟态的战斗能力。",
+		"source": "可随机获得以下种类的升格驱动：升格驱动-亚夏、升格驱动-九域。",
+		"icon": "/Game/Resources/Icon/ImitationGift/Likeability_show.png",
+		"shortIcon": "Likeability_show",
+		"rarity": "LEGENDRY",
+		"id": "Likeability_unlock_show"
+	},
 	"Item_gift_1001": {
 		"name": "一束鲜花",
 		"type": "ITEM_TYPE_IMITATION_GIFT",
@@ -994,6 +1054,16 @@
 		"shortIcon": "icon_matrix_SR12_256",
 		"rarity": "EPIC",
 		"id": "matrix_show_sr"
+	},
+	"matrix_show_ssr_BossInvasion": {
+		"name": "随机SSR意志芯片",
+		"type": "ITEM_TYPE_MATERIAL",
+		"description": "可能获得：哈伯拉**•** 意志、丝奇拉**•** 意志、梅丽尔**•** 意志、四枫院羽**•** 意志、可可丽特**•** 意志、KING**•** 意志、西萝**•** 意志、零**•** 意志、赛弥尔**•** 意志、修玛**•** 意志、乌丸**•** 意志。",
+		"source": "接入武器系统的通用芯片",
+		"icon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR25_512.png",
+		"shortIcon": "icon_matrix_SSR25_512",
+		"rarity": "LEGENDRY",
+		"id": "matrix_show_ssr_BossInvasion"
 	},
 	"matrix_show_ssr": {
 		"name": "随机SSR意志芯片",
@@ -1752,6 +1822,36 @@
 		"shortIcon": "UI_bianshen_icon_xiaochu_256",
 		"rarity": "RARE",
 		"id": "Item_Vera_ImitationClear"
+	},
+	"Item_Jiuyu_Bless_Attack": {
+		"name": "模拟磁场 · 激昂",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "存储着石像上获取的神秘感应磁场的芯片。",
+		"source": "使用存储芯片可获得模拟磁场，增加200攻击，持续300秒，仅在大世界生效，死亡或传送会清除效果。",
+		"icon": "/Game/Resources/Icon/item/Jiuyu_Bless_Attack.png",
+		"shortIcon": "Jiuyu_Bless_Attack",
+		"rarity": "RARE",
+		"id": "Item_Jiuyu_Bless_Attack"
+	},
+	"Item_Jiuyu_Bless_Defense": {
+		"name": "模拟磁场 · 守御",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "存储着石像上获取的神秘感应磁场的芯片。",
+		"source": "使用存储芯片可获得模拟磁场，增加500全抗，持续300秒，仅在大世界生效，死亡或传送会清除效果。",
+		"icon": "/Game/Resources/Icon/item/Jiuyu_Bless_Defense.png",
+		"shortIcon": "Jiuyu_Bless_Defense",
+		"rarity": "RARE",
+		"id": "Item_Jiuyu_Bless_Defense"
+	},
+	"Item_Jiuyu_Bless_Protect": {
+		"name": "模拟磁场 · 遗馈",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "存储着石像上获取的神秘感应磁场的芯片。",
+		"source": "使用存储芯片可获得模拟磁场，在30分钟内，当拓荒者受击后生命值低于35%时，自动恢复50%生命值一次，仅在大世界生效，死亡或传送会清除效果。",
+		"icon": "/Game/Resources/Icon/item/Jiuyu_Bless_Protect.png",
+		"shortIcon": "Jiuyu_Bless_Protect",
+		"rarity": "RARE",
+		"id": "Item_Jiuyu_Bless_Protect"
 	},
 	"Item_Vera_Cooking1": {
 		"name": "坤记招牌面",
@@ -5944,6 +6044,15 @@
 		"rarity": "RARE",
 		"id": "Item_MentorShipCoin"
 	},
+	"Item_MentorShipCoin_pack": {
+		"name": "协力币",
+		"type": "ITEM_TYPE_GIFT",
+		"source": "通过协力作战获得的奖励货币，可用于兑换奖励。",
+		"icon": "/Game/Resources/Icon/item/MentorShipCoin.png",
+		"shortIcon": "MentorShipCoin",
+		"rarity": "RARE",
+		"id": "Item_MentorShipCoin_pack"
+	},
 	"Item_Vera_RaceToken": {
 		"name": "赛事积分",
 		"type": "ITEM_TYPE_CURRENCY",
@@ -6970,6 +7079,606 @@
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP40"
 	},
+	"EquipFragment_UP41": {
+		"name": "超频晶片·心剑",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP41"
+	},
+	"EquipFragment_UP42": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP42"
+	},
+	"EquipFragment_UP43": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP43"
+	},
+	"EquipFragment_UP44": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP44"
+	},
+	"EquipFragment_UP45": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP45"
+	},
+	"EquipFragment_UP46": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP46"
+	},
+	"EquipFragment_UP47": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP47"
+	},
+	"EquipFragment_UP48": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP48"
+	},
+	"EquipFragment_UP49": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP49"
+	},
+	"EquipFragment_UP50": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP50"
+	},
+	"EquipFragment_UP51": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP51"
+	},
+	"EquipFragment_UP52": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP52"
+	},
+	"EquipFragment_UP53": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP53"
+	},
+	"EquipFragment_UP54": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP54"
+	},
+	"EquipFragment_UP55": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP55"
+	},
+	"EquipFragment_UP56": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP56"
+	},
+	"EquipFragment_UP57": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP57"
+	},
+	"EquipFragment_UP58": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP58"
+	},
+	"EquipFragment_UP59": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP59"
+	},
+	"EquipFragment_UP60": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP60"
+	},
+	"EquipFragment_UP61": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP61"
+	},
+	"EquipFragment_UP62": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP62"
+	},
+	"EquipFragment_UP63": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP63"
+	},
+	"EquipFragment_UP64": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP64"
+	},
+	"EquipFragment_UP65": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP65"
+	},
+	"EquipFragment_UP66": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP66"
+	},
+	"EquipFragment_UP67": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP67"
+	},
+	"EquipFragment_UP68": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP68"
+	},
+	"EquipFragment_UP69": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP69"
+	},
+	"EquipFragment_UP70": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP70"
+	},
+	"EquipFragment_UP71": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP71"
+	},
+	"EquipFragment_UP72": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP72"
+	},
+	"EquipFragment_UP73": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP73"
+	},
+	"EquipFragment_UP74": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP74"
+	},
+	"EquipFragment_UP75": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP75"
+	},
+	"EquipFragment_UP76": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP76"
+	},
+	"EquipFragment_UP77": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP77"
+	},
+	"EquipFragment_UP78": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP78"
+	},
+	"EquipFragment_UP79": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP79"
+	},
+	"EquipFragment_UP80": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP80"
+	},
+	"EquipFragment_UP81": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP81"
+	},
+	"EquipFragment_UP82": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP82"
+	},
+	"EquipFragment_UP83": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP83"
+	},
+	"EquipFragment_UP84": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP84"
+	},
+	"EquipFragment_UP85": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP85"
+	},
+	"EquipFragment_UP86": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP86"
+	},
+	"EquipFragment_UP87": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP87"
+	},
+	"EquipFragment_UP88": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP88"
+	},
+	"EquipFragment_UP89": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP89"
+	},
+	"EquipFragment_UP90": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP90"
+	},
+	"EquipFragment_UP91": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP91"
+	},
+	"EquipFragment_UP92": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP92"
+	},
+	"EquipFragment_UP93": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP93"
+	},
+	"EquipFragment_UP94": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP94"
+	},
+	"EquipFragment_UP95": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP95"
+	},
+	"EquipFragment_UP96": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP96"
+	},
+	"EquipFragment_UP97": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP97"
+	},
+	"EquipFragment_UP98": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP98"
+	},
+	"EquipFragment_UP99": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP99"
+	},
+	"EquipFragment_UP100": {
+		"name": "超频晶片",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_UP100"
+	},
 	"WeaponFragment_UP1": {
 		"name": "回火铸金·红莲",
 		"type": "ITEM_TYPE_CURRENCY",
@@ -7369,6 +8078,606 @@
 		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP40"
+	},
+	"WeaponFragment_UP41": {
+		"name": "回火铸金·心剑",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP41"
+	},
+	"WeaponFragment_UP42": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP42"
+	},
+	"WeaponFragment_UP43": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP43"
+	},
+	"WeaponFragment_UP44": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP44"
+	},
+	"WeaponFragment_UP45": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP45"
+	},
+	"WeaponFragment_UP46": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP46"
+	},
+	"WeaponFragment_UP47": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP47"
+	},
+	"WeaponFragment_UP48": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP48"
+	},
+	"WeaponFragment_UP49": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP49"
+	},
+	"WeaponFragment_UP50": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP50"
+	},
+	"WeaponFragment_UP51": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP51"
+	},
+	"WeaponFragment_UP52": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP52"
+	},
+	"WeaponFragment_UP53": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP53"
+	},
+	"WeaponFragment_UP54": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP54"
+	},
+	"WeaponFragment_UP55": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP55"
+	},
+	"WeaponFragment_UP56": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP56"
+	},
+	"WeaponFragment_UP57": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP57"
+	},
+	"WeaponFragment_UP58": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP58"
+	},
+	"WeaponFragment_UP59": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP59"
+	},
+	"WeaponFragment_UP60": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP60"
+	},
+	"WeaponFragment_UP61": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP61"
+	},
+	"WeaponFragment_UP62": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP62"
+	},
+	"WeaponFragment_UP63": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP63"
+	},
+	"WeaponFragment_UP64": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP64"
+	},
+	"WeaponFragment_UP65": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP65"
+	},
+	"WeaponFragment_UP66": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP66"
+	},
+	"WeaponFragment_UP67": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP67"
+	},
+	"WeaponFragment_UP68": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP68"
+	},
+	"WeaponFragment_UP69": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP69"
+	},
+	"WeaponFragment_UP70": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP70"
+	},
+	"WeaponFragment_UP71": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP71"
+	},
+	"WeaponFragment_UP72": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP72"
+	},
+	"WeaponFragment_UP73": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP73"
+	},
+	"WeaponFragment_UP74": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP74"
+	},
+	"WeaponFragment_UP75": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP75"
+	},
+	"WeaponFragment_UP76": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP76"
+	},
+	"WeaponFragment_UP77": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP77"
+	},
+	"WeaponFragment_UP78": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP78"
+	},
+	"WeaponFragment_UP79": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP79"
+	},
+	"WeaponFragment_UP80": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP80"
+	},
+	"WeaponFragment_UP81": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP81"
+	},
+	"WeaponFragment_UP82": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP82"
+	},
+	"WeaponFragment_UP83": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP83"
+	},
+	"WeaponFragment_UP84": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP84"
+	},
+	"WeaponFragment_UP85": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP85"
+	},
+	"WeaponFragment_UP86": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP86"
+	},
+	"WeaponFragment_UP87": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP87"
+	},
+	"WeaponFragment_UP88": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP88"
+	},
+	"WeaponFragment_UP89": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP89"
+	},
+	"WeaponFragment_UP90": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP90"
+	},
+	"WeaponFragment_UP91": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP91"
+	},
+	"WeaponFragment_UP92": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP92"
+	},
+	"WeaponFragment_UP93": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP93"
+	},
+	"WeaponFragment_UP94": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP94"
+	},
+	"WeaponFragment_UP95": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP95"
+	},
+	"WeaponFragment_UP96": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP96"
+	},
+	"WeaponFragment_UP97": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP97"
+	},
+	"WeaponFragment_UP98": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP98"
+	},
+	"WeaponFragment_UP99": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP99"
+	},
+	"WeaponFragment_UP100": {
+		"name": "回火铸金",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_UP100"
 	},
 	"Item_Mine001": {
 		"name": "铁矿",
@@ -8066,6 +9375,16 @@
 		"rarity": "LEGENDRY",
 		"id": "choose_Mount_006_skin_medium"
 	},
+	"choose_newbpfinal_linye": {
+		"name": "影织自选箱",
+		"type": "ITEM_TYPE_AWARD_CHOOSE",
+		"description": "自选宝箱",
+		"source": "打开后可任意选择以下奖励之一：影织，黑市铸金*120",
+		"icon": "/Game/Resources/Icon/item/gift_newbplinye.png",
+		"shortIcon": "gift_newbplinye",
+		"rarity": "LEGENDRY",
+		"id": "choose_newbpfinal_linye"
+	},
 	"choose_StrengthenStone_01": {
 		"name": "强化模组自选箱",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
@@ -8125,6 +9444,26 @@
 		"shortIcon": "gift_weapon_ssr",
 		"rarity": "LEGENDRY",
 		"id": "choose_weapon_ssr_init3"
+	},
+	"choose_weapon_ssr_init4": {
+		"name": "SSR武器箱Ⅳ",
+		"type": "ITEM_TYPE_AWARD_CHOOSE",
+		"description": "自选武器箱",
+		"source": "打开后可任意选择一个箱内的<orange>SSR</>武器：流泉彻心、斯帕克、巴尔蒙克、启明星、红莲刃、炽焰左轮、疾雷双刃、蔷薇之锋、冰风之矢、零度指针、黑鸦冥镰、环海轮刃、否决立方、超电磁双星、V2熔驱盾。",
+		"icon": "/Game/Resources/Icon/item/gift_weapon_ssr.png",
+		"shortIcon": "gift_weapon_ssr",
+		"rarity": "LEGENDRY",
+		"id": "choose_weapon_ssr_init4"
+	},
+	"choose_weapon_ssr_init5": {
+		"name": "SSR武器箱Ⅴ",
+		"type": "ITEM_TYPE_AWARD_CHOOSE",
+		"description": "自选武器箱",
+		"source": "打开后可任意选择一个箱内的<orange>SSR</>武器：晚祷、流泉彻心、斯帕克、巴尔蒙克、启明星、红莲刃、炽焰左轮、疾雷双刃、蔷薇之锋、冰风之矢、零度指针、黑鸦冥镰、环海轮刃、否决立方、超电磁双星、V2熔驱盾。",
+		"icon": "/Game/Resources/Icon/item/gift_weapon_ssr.png",
+		"shortIcon": "gift_weapon_ssr",
+		"rarity": "LEGENDRY",
+		"id": "choose_weapon_ssr_init5"
 	},
 	"choose_weapon_ssr_init_fakediamond": {
 		"name": "SSR武器箱",
@@ -8235,6 +9574,16 @@
 		"shortIcon": "gift_artifact_frag_ssr",
 		"rarity": "LEGENDRY",
 		"id": "choose_frag_BP13"
+	},
+	"choose_frag_BP15": {
+		"name": "通行证源器碎片箱Ⅵ",
+		"type": "ITEM_TYPE_AWARD_CHOOSE",
+		"description": "自选宝箱",
+		"source": "打开后可任意选择一个下列的<Orange>SSR</>源器碎片：<Orange>考恩特Ⅱ型碎片</>、<Orange>悬浮滑板碎片</>、<Orange>天选骰子碎片</>、<Orange>升限针剂碎片</>、<Orange>海洋之心碎片</>、<Orange>泡泡枪碎片</>、<Orange>三重假面碎片</>。",
+		"icon": "/Game/Resources/Icon/item/gift_artifact_frag_ssr.png",
+		"shortIcon": "gift_artifact_frag_ssr",
+		"rarity": "LEGENDRY",
+		"id": "choose_frag_BP15"
 	},
 	"choose_frag_sr": {
 		"name": "SR源器碎片箱",
@@ -8365,6 +9714,16 @@
 		"shortIcon": "equiptupo_choose_ab",
 		"rarity": "LEGENDRY",
 		"id": "choose_equiptupo_abcde"
+	},
+	"choose_equiptupo_abcdef": {
+		"name": "突破模组自选箱Ⅴ",
+		"type": "ITEM_TYPE_AWARD_CHOOSE",
+		"description": "自选宝箱，内含用于突破特定装备的高级模组",
+		"source": "打开后可任意选择一个箱内的突破模组：运动协调模组、感知增强模组、核心控制模组、信息处理模组、装甲管理模组、高速传动模组。",
+		"icon": "/Game/Resources/Icon/zujian/equiptupo_choose_ab.png",
+		"shortIcon": "equiptupo_choose_ab",
+		"rarity": "LEGENDRY",
+		"id": "choose_equiptupo_abcdef"
 	},
 	"choose_breakthrough_abcd1": {
 		"name": "武器突破材料自选箱Ⅰ",
@@ -8935,6 +10294,16 @@
 		"shortIcon": "treasure_matrix_SSR36",
 		"rarity": "LEGENDRY",
 		"id": "choose_matrix_SSR36"
+	},
+	"choose_matrix_SSR37": {
+		"name": "凌寒意志自选箱",
+		"type": "ITEM_TYPE_AWARD_CHOOSE",
+		"description": "自选宝箱，内含凌寒意志所有类型。",
+		"source": "打开后可任意选择一个凌寒意志",
+		"icon": "/Game/Resources/Icon/item/treasure_matrix_SSR37.png",
+		"shortIcon": "treasure_matrix_SSR37",
+		"rarity": "LEGENDRY",
+		"id": "choose_matrix_SSR37"
 	},
 	"choose_matrix_SR1": {
 		"name": "罗贝拉格意志自选箱",
@@ -11887,6 +13256,16 @@
 		"rarity": "LEGENDRY",
 		"id": "item_ticket_feise_fire"
 	},
+	"item_ticket_Linghan_ice": {
+		"name": "特种凭证·万剑合一",
+		"type": "ITEM_TYPE_MATERIAL",
+		"description": "幻塔重工诚信出品，提供意志芯片送货上门服务。",
+		"source": "仅可用于<Orange>万剑合一</>意志限定订购",
+		"icon": "/Game/Resources/Icon/huobi/item_ticket_Linghan_ice.png",
+		"shortIcon": "item_ticket_Linghan_ice",
+		"rarity": "LEGENDRY",
+		"id": "item_ticket_Linghan_ice"
+	},
 	"fragment_artifact_ssr_001": {
 		"name": "巨擎手臂碎片",
 		"type": "ITEM_TYPE_ARTIFACT_FRAGMENT",
@@ -12336,6 +13715,26 @@
 		"shortIcon": "frag_FightPet_8",
 		"rarity": "LEGENDRY",
 		"id": "fragment_FightPet_8"
+	},
+	"fragment_FightPet_9": {
+		"name": "金狼智仆碎片",
+		"type": "ITEM_TYPE_FIGHTPET_FRAGMENT",
+		"description": "聆巧结合九域当地神话传说元素制造的新一代机械智仆。为应对新的作战需求，进行了协战模块的测试。",
+		"source": "收集20个可合成智仆金狼，多余的碎片可用于智仆进阶。",
+		"icon": "/Game/Resources/Icon/pet/FightPet/frag_FightPet_10.png",
+		"shortIcon": "frag_FightPet_10",
+		"rarity": "LEGENDRY",
+		"id": "fragment_FightPet_9"
+	},
+	"fragment_FightPet_10": {
+		"name": "雪绒智仆碎片",
+		"type": "ITEM_TYPE_FIGHTPET_FRAGMENT",
+		"description": "以老虎元素设计的新一代机械智仆。奔跑过的地方会留下细密的冰晶。为应对新的作战需求，进行了协战模块的测试。",
+		"source": "收集20个可合成智仆雪绒，多余的碎片可用于智仆进阶。",
+		"icon": "/Game/Resources/Icon/pet/FightPet/frag_FightPet_10.png",
+		"shortIcon": "frag_FightPet_10",
+		"rarity": "LEGENDRY",
+		"id": "fragment_FightPet_10"
 	},
 	"fragment_artifact_adv_ssr": {
 		"name": "SSR进阶卡碎片",
@@ -16002,6 +17401,26 @@
 		"rarity": "LEGENDRY",
 		"id": "fashion_dress_55_4"
 	},
+	"fashion_dress_56_4": {
+		"name": "玩转时空",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "只要给我一个游戏币，我能带你玩上一整天！",
+		"source": "获得后解锁时装",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56.png",
+		"shortIcon": "fashion_f56",
+		"rarity": "LEGENDRY",
+		"id": "fashion_dress_56_4"
+	},
+	"fashion_dress_57_4": {
+		"name": "轩仪堂堂",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "下一次远征即将开始，盛装在身，精神抖擞，准备出发吧！",
+		"source": "获得后解锁时装",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f57.png",
+		"shortIcon": "fashion_f57",
+		"rarity": "LEGENDRY",
+		"id": "fashion_dress_57_4"
+	},
 	"fragment_bag_chat_qipao91": {
 		"name": "「似是故人来」碎片",
 		"type": "ITEM_TYPE_FRAGMENT",
@@ -16132,6 +17551,36 @@
 		"rarity": "LEGENDRY",
 		"id": "fragment_Hat_43_4_4"
 	},
+	"fragment_Hat_44_4_4": {
+		"name": "不灭之焰碎片",
+		"type": "ITEM_TYPE_FRAGMENT",
+		"description": "九域的匠人们使用特殊的纳米纤丝制作的头饰，构思精巧，远远看去就像列缺头上的火焰那样舞动，数量稀少，仅小规模投放市场",
+		"source": "收集100个不灭之焰碎片可合成为不灭之焰",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_133.png",
+		"shortIcon": "fashion_icon_shipin_133",
+		"rarity": "LEGENDRY",
+		"id": "fragment_Hat_44_4_4"
+	},
+	"fragment_Hat_70_4_4": {
+		"name": "雪绒的花碎片",
+		"type": "ITEM_TYPE_FRAGMENT",
+		"description": "「你也喜欢这个头饰？那就送给你啦！要好好保存哦……」",
+		"source": "收集7个雪绒的花碎片可合成为雪绒的花",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_146.png",
+		"shortIcon": "fashion_icon_shipin_146",
+		"rarity": "LEGENDRY",
+		"id": "fragment_Hat_70_4_4"
+	},
+	"fragment_Hat_29_4_4": {
+		"name": "糖果南瓜碎片",
+		"type": "ITEM_TYPE_FRAGMENT",
+		"description": "担心口袋里塞不下更多的糖果？是时候随身携带一个便携糖果罐了！",
+		"source": "收集70个糖果南瓜碎片可合成为糖果南瓜",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101.png",
+		"shortIcon": "fashion_icon_shipin_101",
+		"rarity": "LEGENDRY",
+		"id": "fragment_Hat_29_4_4"
+	},
 	"fragment_fashion_decoration_74_4": {
 		"name": "困惑目镜碎片",
 		"type": "ITEM_TYPE_FRAGMENT",
@@ -16191,6 +17640,16 @@
 		"shortIcon": "fashion_icon_shipin_137",
 		"rarity": "LEGENDRY",
 		"id": "fragment_fashion_decoration_86_4"
+	},
+	"fragment_fashion_decoration_91_4": {
+		"name": "小小恶魔碎片",
+		"type": "ITEM_TYPE_FRAGMENT",
+		"description": "潜藏在黑夜里的小小恶魔来袭，小心你的脖子哟~",
+		"source": "收集4个小小恶魔碎片可合成为小小恶魔",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
+		"shortIcon": "fashion_icon_shipin_152",
+		"rarity": "LEGENDRY",
+		"id": "fragment_fashion_decoration_91_4"
 	},
 	"fragment_makeup_face_053": {
 		"name": "族群象征碎片",
@@ -16746,12 +18205,12 @@
 		"id": "Hat_63_4_4"
 	},
 	"Hat_64_4_4": {
-		"name": "Hat_64_4_4_name",
+		"name": "粉蝴蝶结发箍",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Hat_64_4_4_des",
+		"description": "一起带上这个头饰后，你就会和我建立羁绊吗？",
 		"source": "获得后解锁饰品",
-		"icon": "None.png",
-		"shortIcon": "None",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_140.png",
+		"shortIcon": "fashion_icon_shipin_140",
 		"rarity": "LEGENDRY",
 		"id": "Hat_64_4_4"
 	},
@@ -16776,12 +18235,12 @@
 		"id": "Hat_66_4_4"
 	},
 	"Hat_67_4_4": {
-		"name": "Hat_67_4_4_name",
+		"name": "蓝蝴蝶结发箍",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Hat_67_4_4_des",
+		"description": "一起带上这个头饰后，你就会和我建立羁绊吗？",
 		"source": "获得后解锁饰品",
-		"icon": "None.png",
-		"shortIcon": "None",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_139.png",
+		"shortIcon": "fashion_icon_shipin_139",
 		"rarity": "LEGENDRY",
 		"id": "Hat_67_4_4"
 	},
@@ -16804,6 +18263,16 @@
 		"shortIcon": "fashion_icon_shipin_138",
 		"rarity": "LEGENDRY",
 		"id": "Hat_69_4_4"
+	},
+	"Hat_70_4_4": {
+		"name": "雪绒的花",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "「你也喜欢这个头饰？那就送给你啦！要好好保存哦……」",
+		"source": "获得后解锁饰品",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_146.png",
+		"shortIcon": "fashion_icon_shipin_146",
+		"rarity": "LEGENDRY",
+		"id": "Hat_70_4_4"
 	},
 	"fashion_decoration_1_1": {
 		"name": "飞行员(1天)",
@@ -17865,6 +19334,16 @@
 		"rarity": "LEGENDRY",
 		"id": "fashion_decoration_87_4"
 	},
+	"fashion_decoration_88_4": {
+		"name": "启明之环",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "海嘉德授予钻石导师的荣誉，以表彰那些给予新人最多帮助的导师！",
+		"source": "获得后解锁饰品",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88.png",
+		"shortIcon": "Icon_Decoration_88",
+		"rarity": "LEGENDRY",
+		"id": "fashion_decoration_88_4"
+	},
 	"fashion_medal_Test": {
 		"name": "浮游扫描仪",
 		"type": "ITEM_TYPE_CONSUMABLE",
@@ -17906,32 +19385,32 @@
 		"id": "fashion_medal_3"
 	},
 	"fashion_medal_4": {
-		"name": "边境战区之星",
+		"name": "启明导师之星",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "钻石打造的纪念勋章，中间是边境战区的徽记，在边境战区中单个赛季取得第一名才可获得。",
+		"description": "夺目耀眼的星辰装饰，象征着钻石导师的身份，谨以此嘉奖作为导师协助他人的贡献。",
 		"source": "获得后解锁饰品",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_bianjing_Diamond.png",
-		"shortIcon": "fashion_icon_medal_bianjing_Diamond",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond.png",
+		"shortIcon": "Icon_Medal_Mentor_Diamond",
 		"rarity": "LEGENDRY",
 		"id": "fashion_medal_4"
 	},
 	"fashion_medal_5": {
-		"name": "耀金边境勋章",
+		"name": "璀璨导师之星",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "纯金打造的纪念勋章，中间是边境战区的徽记，在边境战区中单个赛季取得第二名才可获得。",
+		"description": "金光灿烂的星辰装饰，象征着金牌导师的身份，谨以此嘉奖作为导师协助他人的贡献。",
 		"source": "获得后解锁饰品",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_bianjing_Gold.png",
-		"shortIcon": "fashion_icon_medal_bianjing_Gold",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold.png",
+		"shortIcon": "Icon_Medal_Mentor_Gold",
 		"rarity": "LEGENDRY",
 		"id": "fashion_medal_5"
 	},
 	"fashion_medal_6": {
-		"name": "皓银边境勋章",
+		"name": "辉白导师之星",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "纯银打造的纪念勋章，中间是边境战区的徽记，在边境战区中单个赛季取得第三名才可获得。",
+		"description": "辉银色的星辰装饰，象征着银牌导师的身份，谨以此嘉奖作为导师协助他人的贡献。",
 		"source": "获得后解锁饰品",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_bianjing_Silver.png",
-		"shortIcon": "fashion_icon_medal_bianjing_Silver",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver.png",
+		"shortIcon": "Icon_Medal_Mentor_Silver",
 		"rarity": "LEGENDRY",
 		"id": "fashion_medal_6"
 	},
@@ -18094,6 +19573,16 @@
 		"shortIcon": "Gem_feise_fire",
 		"rarity": "LEGENDRY",
 		"id": "Item_Gem_feise_fire"
+	},
+	"Item_Gem_Linghan_ice": {
+		"name": "赤核·万剑合一",
+		"type": "ITEM_TYPE_MATERIAL",
+		"description": "因原能的不明影响而在自然界生成的漆黑球体，闪耀着危险的猩红光芒，可以想象其中蕴含的力量令人敬畏。",
+		"source": "仅可用于<Orange>万剑合一</>武器限定订购",
+		"icon": "/Game/Resources/Icon/huobi/Gem_Linghan_ice.png",
+		"shortIcon": "Gem_Linghan_ice",
+		"rarity": "LEGENDRY",
+		"id": "Item_Gem_Linghan_ice"
 	},
 	"Item_Area2Medicine": {
 		"name": "麻醉剂",
@@ -22216,6 +23705,15 @@
 		"rarity": "LEGENDRY",
 		"id": "Item_chip_jiuyu_3"
 	},
+	"Item_BossInvasion_chip": {
+		"name": "钥章·征伐",
+		"type": "ITEM_TYPE_MATERIAL",
+		"source": "由阵宫制造的特殊钥章，可在天河集市获取，强敌征伐完成后可通过此钥章获得更高奖励的物资。",
+		"icon": "/Game/Resources/Icon/SceneBoxChip/scenebox_chip_BossInvasion.png",
+		"shortIcon": "scenebox_chip_BossInvasion",
+		"rarity": "LEGENDRY",
+		"id": "Item_BossInvasion_chip"
+	},
 	"Item_q104011": {
 		"name": "G-II药剂",
 		"type": "ITEM_TYPE_QUEST",
@@ -25089,6 +26587,46 @@
 		"rarity": "LEGENDRY",
 		"id": "bag_chat_qipao98"
 	},
+	"bag_chat_qipao99": {
+		"name": "「旅途」礼盒",
+		"type": "ITEM_TYPE_GIFT",
+		"description": "我是莎莉，这段旅程也请拓荒者多多关照啦！",
+		"source": "使用后获得头像“莎莉·旅途”、头像框“旅途·出发”、聊天气泡“旅途·欢颜”",
+		"icon": "/Game/Resources/Icon/item/bag_chat_qipao99.png",
+		"shortIcon": "bag_chat_qipao99",
+		"rarity": "LEGENDRY",
+		"id": "bag_chat_qipao99"
+	},
+	"bag_chat_qipao100": {
+		"name": "「新生」礼盒",
+		"type": "ITEM_TYPE_GIFT",
+		"description": "又见面了拓荒者，我是说好久不见……最近还好吗？",
+		"source": "使用后获得头像“奈美西斯·新生”、头像框“新生·拥抱”、聊天气泡“新生·萌动”",
+		"icon": "/Game/Resources/Icon/item/bag_chat_qipao100.png",
+		"shortIcon": "bag_chat_qipao100",
+		"rarity": "LEGENDRY",
+		"id": "bag_chat_qipao100"
+	},
+	"bag_chat_qipao101": {
+		"name": "「海边丽影」礼盒",
+		"type": "ITEM_TYPE_GIFT",
+		"description": "与海共舞，亦有柔情。",
+		"source": "使用后获得头像“海边丽影”、头像框“嶙峋”、聊天气泡“冰踱”",
+		"icon": "/Game/Resources/Icon/item/bag_chat_qipao101.png",
+		"shortIcon": "bag_chat_qipao101",
+		"rarity": "LEGENDRY",
+		"id": "bag_chat_qipao101"
+	},
+	"bag_chat_qipao104": {
+		"name": "「 」礼盒",
+		"type": "ITEM_TYPE_GIFT",
+		"description": "与海共舞，亦有柔情。",
+		"source": "使用后获得头像“ ”、头像框“ ”、聊天气泡“ ”",
+		"icon": "/Game/Resources/Icon/item/bag_chat_qipao104.png",
+		"shortIcon": "bag_chat_qipao104",
+		"rarity": "LEGENDRY",
+		"id": "bag_chat_qipao104"
+	},
 	"bag_emoji_1": {
 		"name": "幻塔拟态研究Ⅰ",
 		"type": "ITEM_TYPE_GIFT",
@@ -25352,7 +26890,7 @@
 	"Item_WorldPuzzle_JiuyuMine1": {
 		"name": "龙爪玉",
 		"type": "ITEM_TYPE_QUEST",
-		"description": "玉石材质，形状酷似龙爪，工艺十分复杂，看起来有某种精妙的运用方法。",
+		"description": "玉石材质，形状酷似龙爪，由墨师傅亲手打造，上面流转着异样的光彩，可用于修复龙像塔。",
 		"source": "特殊任务物品",
 		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_longyu_5.png",
 		"shortIcon": "ltem_JiuYu_quest_longyu_5",
@@ -27524,6 +29062,16 @@
 		"rarity": "LEGENDRY",
 		"id": "Title_1_4_2_5"
 	},
+	"Title_1_4_2_6": {
+		"name": "破域者",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "旧日幻象结算时第十一至一百名。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
+		"id": "Title_1_4_2_6"
+	},
 	"Title_1_4_1_1": {
 		"name": "星辉王冠",
 		"type": "ITEM_TYPE_CONSUMABLE",
@@ -27875,14 +29423,24 @@
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
-		"name": "守护者勋章",
+		"name": "大师币",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "设计精妙的勋章，是守护者无上的荣耀。",
-		"source": "参与梦境守护活动可获得，用于活动商店兑换奖励",
+		"description": "设计精妙的勋章，是战斗者无上的荣耀。",
+		"source": "参与MEGA大师擂台活动可获得，用于活动商店兑换奖励",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
 		"id": "Item_TowerDefenceCoin_01"
+	},
+	"Item_MegaGuruCoin": {
+		"name": "大师币",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "设计精妙的勋章，是战斗者无上的荣耀。",
+		"source": "参与MEGA大师擂台活动可获得，用于活动商店兑换奖励",
+		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
+		"shortIcon": "TowerDefenceCoin_01",
+		"rarity": "EPIC",
+		"id": "Item_MegaGuruCoin"
 	},
 	"Item_SummerCoin_01": {
 		"name": "热浪铸币",
@@ -27905,7 +29463,7 @@
 		"id": "Item_SummerCoin_02"
 	},
 	"Item_SummerCoin_03": {
-		"name": "竹醉币",
+		"name": "筠风币",
 		"type": "ITEM_TYPE_BARTER",
 		"description": "竹制的纪念币，握在手中能感到阵阵清凉，暑气全消。",
 		"source": "可在活动商店兑换奖励。",
@@ -27924,6 +29482,16 @@
 		"rarity": "RARE",
 		"id": "Item_SummerCoin_04"
 	},
+	"Item_IceCrystalCoin": {
+		"name": "冰晶币",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "在极寒地区开采的蕴含冰元素能源的水晶矿石制作的纪念币，握在手中就能感受到凉意,也有人将其作为饮料中的冰块使用。",
+		"source": "可在活动商店兑换奖励。",
+		"icon": "/Game/Resources/Icon/item/IceCrystalCoin.png",
+		"shortIcon": "IceCrystalCoin",
+		"rarity": "RARE",
+		"id": "Item_IceCrystalCoin"
+	},
 	"Item_MowingCoin": {
 		"name": "激战券",
 		"type": "ITEM_TYPE_BARTER",
@@ -27935,14 +29503,24 @@
 		"id": "Item_MowingCoin"
 	},
 	"Item_MidAutumnCoin_01": {
-		"name": "星沙",
+		"name": "果汁",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "水晶瓶里装满了童年的梦想。",
-		"source": "参与回声协议、镜空特急线、星沙回收站活动可获得，可在活动商店兑换奖励。",
+		"description": "水晶瓶里装满了甜美的果汁。",
+		"source": "参与水果躲避战活动可获得，可在活动商店兑换奖励。",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
 		"id": "Item_MidAutumnCoin_01"
+	},
+	"Item_JuiceCoin": {
+		"name": "果汁",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "水晶瓶里装满了甜美的果汁。",
+		"source": "参与水果躲避战活动可获得，可在活动商店兑换奖励。",
+		"icon": "/Game/Resources/Icon/item/Item_Drink_003.png",
+		"shortIcon": "Item_Drink_003",
+		"rarity": "EPIC",
+		"id": "Item_JuiceCoin"
 	},
 	"Item_AutumnCoin_01": {
 		"name": "金枫铸币",
@@ -28103,6 +29681,16 @@
 		"shortIcon": "HalloweenCoin_04",
 		"rarity": "EPIC",
 		"id": "Item_HalloweenCoin_04"
+	},
+	"Item_FollowGhostCoin": {
+		"name": "糖苹果",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "刚刚丰收的苹果，裹满糖浆，再沾满果仁，最适合送给来讨糖的小孩子",
+		"source": "可用于活动商店兑换奖励。",
+		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin.png",
+		"shortIcon": "FollowGhostCoin",
+		"rarity": "RARE",
+		"id": "Item_FollowGhostCoin"
 	},
 	"Item_Aida_token": {
 		"name": "均衡铸币",
@@ -28737,7 +30325,7 @@
 	"BreakFate_InnerCoin": {
 		"name": "命运突围铸币",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "设计精妙的勋章，是守护者无上的荣耀。",
+		"description": "设计精妙的勋章，是战斗者无上的荣耀。",
 		"source": "可用来购买战斗物资",
 		"icon": "/Game/Resources/Icon/item/BreakFate_InnerCoin.png",
 		"shortIcon": "BreakFate_InnerCoin",
@@ -29131,6 +30719,16 @@
 		"shortIcon": "action_mi-a_insects",
 		"rarity": "LEGENDRY",
 		"id": "chat_miaAction_ganchong"
+	},
+	"chat_miaAction_qiuqian": {
+		"name": "秋千",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "情景交互",
+		"source": "情景交互",
+		"icon": "/Game/Resources/UI/liaotian/dongzuo/action_swing.png",
+		"shortIcon": "action_swing",
+		"rarity": "LEGENDRY",
+		"id": "chat_miaAction_qiuqian"
 	},
 	"chat_dubbing_1": {
 		"name": "梅丽尔语音",
@@ -30076,6 +31674,26 @@
 		"shortIcon": "icon_huang",
 		"rarity": "LEGENDRY",
 		"id": "imitation_fashion_41_w"
+	},
+	"imitation_fashion_43": {
+		"name": "霜花盛夏",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "艳阳高照，霜花盛开。",
+		"source": "解锁拟态高定“霜花盛夏”",
+		"icon": "/Game/Resources/Icon/item/icon_linghan02.png",
+		"shortIcon": "icon_linghan02",
+		"rarity": "LEGENDRY",
+		"id": "imitation_fashion_43"
+	},
+	"imitation_fashion_43_w": {
+		"name": "花涧",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "浪尖之上，雪花成锋。",
+		"source": "解锁武器外观“花涧”",
+		"icon": "/Game/Resources/Icon/item/icon_linghan01.png",
+		"shortIcon": "icon_linghan01",
+		"rarity": "LEGENDRY",
+		"id": "imitation_fashion_43_w"
 	},
 	"imitation_fashion_48": {
 		"name": "灿星蚀日",
@@ -34105,672 +35723,6 @@
 		"rarity": "LEGENDRY",
 		"id": "Title_1_6_3_1"
 	},
-	"GVE_cost": {
-		"name": "雾核",
-		"type": "ITEM_TYPE_BARTER",
-		"source": "完成迷宫内的行为的奖励，用于在迷宫兑换商店兑换道具",
-		"icon": "/Game/Resources/Icon/item/miwu_icon_wuhe.png",
-		"shortIcon": "miwu_icon_wuhe",
-		"rarity": "RARE",
-		"id": "GVE_cost"
-	},
-	"GVE_BuffCoin": {
-		"name": "启世物碎片",
-		"type": "ITEM_TYPE_BARTER",
-		"source": "积累一定数量可以兑换指定的启世物。",
-		"icon": "/Game/Resources/Icon/item/GVE_BuffCoin.png",
-		"shortIcon": "GVE_BuffCoin",
-		"rarity": "RARE",
-		"id": "GVE_BuffCoin"
-	},
-	"GVE_liveness": {
-		"name": "重构指数",
-		"type": "ITEM_TYPE_GUILDMAZE_LIVENESS",
-		"source": "完成重构记叙目标会获得，用于记录完成重构记叙的总目录",
-		"icon": "/Game/Resources/Icon/item/miwu_icon_zhonggouzhishu.png",
-		"shortIcon": "miwu_icon_zhonggouzhishu",
-		"rarity": "EPIC",
-		"id": "GVE_liveness"
-	},
-	"GVE_action": {
-		"name": "雾晶",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"source": "探索迷宫时进行战斗、开启战利品宝箱时消耗。随时间缓慢恢复，也可通过mi-a援助事件额外获得。",
-		"icon": "/Game/Resources/Icon/item/miwu_icon_jingli.png",
-		"shortIcon": "miwu_icon_jingli",
-		"rarity": "RARE",
-		"id": "GVE_action"
-	},
-	"GVE_experience": {
-		"name": "重构经验",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"source": "探索迷宫时获得的经验，可以提高等级。",
-		"icon": "/Game/Resources/Icon/item/miwu_icon_exp.png",
-		"shortIcon": "miwu_icon_exp",
-		"rarity": "RARE",
-		"id": "GVE_experience"
-	},
-	"GVE_rand_box": {
-		"name": "随机启世物",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "可获得随机启世物，装备后可提升迷宫内的战斗能力。",
-		"icon": "/Game/Resources/Icon/item/GVE_yiwu_suiji1.png",
-		"shortIcon": "GVE_yiwu_suiji1",
-		"rarity": "RARE",
-		"id": "GVE_rand_box"
-	},
-	"GVE_rand_box2": {
-		"name": "随机机械升维",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "获得一个随机机械升维，迷宫内可使某个元素的武器星级提高。",
-		"icon": "/Game/Resources/Icon/item/GVE2_suiji.png",
-		"shortIcon": "GVE2_suiji",
-		"rarity": "RARE",
-		"id": "GVE_rand_box2"
-	},
-	"GVE_rand_box3": {
-		"name": "随机启世物",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "可获得随机启世物，装备后可提升迷宫内的战斗能力。",
-		"icon": "/Game/Resources/Icon/item/GVE_yiwu_suiji1.png",
-		"shortIcon": "GVE_yiwu_suiji1",
-		"rarity": "EPIC",
-		"id": "GVE_rand_box3"
-	},
-	"GVE_rand_box_fire": {
-		"name": "随机启世物",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "有更高概率获得火焰属性的启示物，装备后可提升迷宫内的战斗能力。",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_FireAtk.png",
-		"shortIcon": "GVE_Buff_FireAtk",
-		"rarity": "RARE",
-		"id": "GVE_rand_box_fire"
-	},
-	"GVE_rand_box_ice": {
-		"name": "随机启世物",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "有更高概率获得寒冰属性的启示物，装备后可提升迷宫内的战斗能力。",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_IceAtk.png",
-		"shortIcon": "GVE_Buff_IceAtk",
-		"rarity": "RARE",
-		"id": "GVE_rand_box_ice"
-	},
-	"GVE_rand_box_thunder": {
-		"name": "随机启世物",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "有更高概率获得雷电属性的启示物，装备后可提升迷宫内的战斗能力。",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_ThunderAtk.png",
-		"shortIcon": "GVE_Buff_ThunderAtk",
-		"rarity": "RARE",
-		"id": "GVE_rand_box_thunder"
-	},
-	"GVE_rand_box_physic": {
-		"name": "随机启世物",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "有更高概率获得物理属性的启示物，装备后可提升迷宫内的战斗能力。",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_PhysicAtk.png",
-		"shortIcon": "GVE_Buff_PhysicAtk",
-		"rarity": "RARE",
-		"id": "GVE_rand_box_physic"
-	},
-	"GVE_001": {
-		"name": "火焰增幅器Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成火焰伤害时触发攻击力2000%不受增减效果的火焰伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_FireAtk.png",
-		"shortIcon": "GVE_Buff_FireAtk",
-		"rarity": "RARE",
-		"id": "GVE_001"
-	},
-	"GVE_002": {
-		"name": "寒冰增幅器Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成寒冰伤害时触发攻击力2000%不受增减效果的寒冰伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_IceAtk.png",
-		"shortIcon": "GVE_Buff_IceAtk",
-		"rarity": "RARE",
-		"id": "GVE_002"
-	},
-	"GVE_003": {
-		"name": "雷电增幅器Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成雷电伤害时触发攻击力2000%不受增减效果的雷电伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_ThunderAtk.png",
-		"shortIcon": "GVE_Buff_ThunderAtk",
-		"rarity": "RARE",
-		"id": "GVE_003"
-	},
-	"GVE_004": {
-		"name": "物理增幅器Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成物理伤害时触发攻击力2000%不受增减效果的物理伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_PhysicAtk.png",
-		"shortIcon": "GVE_Buff_PhysicAtk",
-		"rarity": "RARE",
-		"id": "GVE_004"
-	},
-	"GVE_005": {
-		"name": "异能增幅器Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成异能伤害时触发攻击力2000%不受增减效果的异能伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_SuperpowerAtk.png",
-		"shortIcon": "GVE_Buff_SuperpowerAtk",
-		"rarity": "RARE",
-		"id": "GVE_005"
-	},
-	"GVE_006": {
-		"name": "火焰增幅器Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成火焰伤害时触发攻击力4000%不受增减效果的火焰伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_FireAtk.png",
-		"shortIcon": "GVE_Buff_FireAtk",
-		"rarity": "EPIC",
-		"id": "GVE_006"
-	},
-	"GVE_007": {
-		"name": "寒冰增幅器Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成寒冰伤害时触发攻击力4000%不受增减效果的寒冰伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_IceAtk.png",
-		"shortIcon": "GVE_Buff_IceAtk",
-		"rarity": "EPIC",
-		"id": "GVE_007"
-	},
-	"GVE_008": {
-		"name": "雷电增幅器Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成雷电伤害时触发攻击力4000%不受增减效果的雷电伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_ThunderAtk.png",
-		"shortIcon": "GVE_Buff_ThunderAtk",
-		"rarity": "EPIC",
-		"id": "GVE_008"
-	},
-	"GVE_009": {
-		"name": "物理增幅器Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成物理伤害时触发攻击力4000%不受增减效果的物理伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_PhysicAtk.png",
-		"shortIcon": "GVE_Buff_PhysicAtk",
-		"rarity": "EPIC",
-		"id": "GVE_009"
-	},
-	"GVE_010": {
-		"name": "异能增幅器Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成异能伤害时触发攻击力4000%不受增减效果的异能伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_SuperpowerAtk.png",
-		"shortIcon": "GVE_Buff_SuperpowerAtk",
-		"rarity": "EPIC",
-		"id": "GVE_010"
-	},
-	"GVE_011": {
-		"name": "火焰增幅器Ⅲ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成火焰伤害时触发攻击力8000%不受增减效果的火焰伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_FireAtk.png",
-		"shortIcon": "GVE_Buff_FireAtk",
-		"rarity": "LEGENDRY",
-		"id": "GVE_011"
-	},
-	"GVE_012": {
-		"name": "寒冰增幅器Ⅲ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成寒冰伤害时触发攻击力8000%不受增减效果的寒冰伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_IceAtk.png",
-		"shortIcon": "GVE_Buff_IceAtk",
-		"rarity": "LEGENDRY",
-		"id": "GVE_012"
-	},
-	"GVE_013": {
-		"name": "雷电增幅器Ⅲ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成雷电伤害时触发攻击力8000%不受增减效果的雷电伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_ThunderAtk.png",
-		"shortIcon": "GVE_Buff_ThunderAtk",
-		"rarity": "LEGENDRY",
-		"id": "GVE_013"
-	},
-	"GVE_014": {
-		"name": "物理增幅器Ⅲ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成物理伤害时触发攻击力8000%不受增减效果的物理伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_PhysicAtk.png",
-		"shortIcon": "GVE_Buff_PhysicAtk",
-		"rarity": "LEGENDRY",
-		"id": "GVE_014"
-	},
-	"GVE_015": {
-		"name": "异能增幅器Ⅲ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]造成异能伤害时触发攻击力8000%不受增减效果的异能伤害，冷却1秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_SuperpowerAtk.png",
-		"shortIcon": "GVE_Buff_SuperpowerAtk",
-		"rarity": "LEGENDRY",
-		"id": "GVE_015"
-	},
-	"GVE_016": {
-		"name": "火焰防护Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]火焰抗性提升20%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_FireDef.png",
-		"shortIcon": "GVE_Buff_FireDef",
-		"rarity": "RARE",
-		"id": "GVE_016"
-	},
-	"GVE_017": {
-		"name": "寒冰防护Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]寒冰抗性提升20%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_IceDef.png",
-		"shortIcon": "GVE_Buff_IceDef",
-		"rarity": "RARE",
-		"id": "GVE_017"
-	},
-	"GVE_018": {
-		"name": "雷电防护Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]雷电抗性提升20%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_ThunderDef.png",
-		"shortIcon": "GVE_Buff_ThunderDef",
-		"rarity": "RARE",
-		"id": "GVE_018"
-	},
-	"GVE_019": {
-		"name": "物理防护Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]物理抗性提升20%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_PhysicDef.png",
-		"shortIcon": "GVE_Buff_PhysicDef",
-		"rarity": "RARE",
-		"id": "GVE_019"
-	},
-	"GVE_020": {
-		"name": "异能防护Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]异能抗性提升20%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_SuperpowerDef.png",
-		"shortIcon": "GVE_Buff_SuperpowerDef",
-		"rarity": "RARE",
-		"id": "GVE_020"
-	},
-	"GVE_021": {
-		"name": "火焰防护Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]火焰抗性提升50%，每隔2秒免疫一次伤害",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_FireDef.png",
-		"shortIcon": "GVE_Buff_FireDef",
-		"rarity": "LEGENDRY",
-		"id": "GVE_021"
-	},
-	"GVE_022": {
-		"name": "寒冰防护Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]寒冰抗性提升50%，每隔2秒免疫一次伤害",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_IceDef.png",
-		"shortIcon": "GVE_Buff_IceDef",
-		"rarity": "LEGENDRY",
-		"id": "GVE_022"
-	},
-	"GVE_023": {
-		"name": "雷电防护Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]雷电抗性提升50%，每隔2秒免疫一次伤害",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_ThunderDef.png",
-		"shortIcon": "GVE_Buff_ThunderDef",
-		"rarity": "LEGENDRY",
-		"id": "GVE_023"
-	},
-	"GVE_024": {
-		"name": "物理防护Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]物理抗性提升50%，每隔2秒免疫一次伤害",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_PhysicDef.png",
-		"shortIcon": "GVE_Buff_PhysicDef",
-		"rarity": "LEGENDRY",
-		"id": "GVE_024"
-	},
-	"GVE_025": {
-		"name": "异能防护Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]异能抗性提升50%，每隔2秒免疫一次伤害",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_SuperpowerDef.png",
-		"shortIcon": "GVE_Buff_SuperpowerDef",
-		"rarity": "LEGENDRY",
-		"id": "GVE_025"
-	},
-	"GVE_026": {
-		"name": "普攻增强模组Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]普攻伤害提升20%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_EvadeAtk.png",
-		"shortIcon": "GVE_Buff_EvadeAtk",
-		"rarity": "EPIC",
-		"id": "GVE_026"
-	},
-	"GVE_027": {
-		"name": "技能增强模组Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]技能伤害提升20%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_SkillAtk.png",
-		"shortIcon": "GVE_Buff_SkillAtk",
-		"rarity": "EPIC",
-		"id": "GVE_027"
-	},
-	"GVE_028": {
-		"name": "连携增强模组Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]连携伤害提升20%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_ChangeSkillAtk.png",
-		"shortIcon": "GVE_Buff_ChangeSkillAtk",
-		"rarity": "EPIC",
-		"id": "GVE_028"
-	},
-	"GVE_029": {
-		"name": "闪攻增强模组Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]闪攻伤害提升20%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_EvadeAtk.png",
-		"shortIcon": "GVE_Buff_EvadeAtk",
-		"rarity": "EPIC",
-		"id": "GVE_029"
-	},
-	"GVE_030": {
-		"name": "普攻增强模组Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]普攻伤害提升20%，每次普攻提升自身1%最终伤害，最多30层，持续30秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_EvadeAtk.png",
-		"shortIcon": "GVE_Buff_EvadeAtk",
-		"rarity": "LEGENDRY",
-		"id": "GVE_030"
-	},
-	"GVE_031": {
-		"name": "技能增强模组Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]技能伤害提升20%，每次释放技能提升自身3%最终伤害，最多10层，持续30秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_SkillAtk.png",
-		"shortIcon": "GVE_Buff_SkillAtk",
-		"rarity": "LEGENDRY",
-		"id": "GVE_031"
-	},
-	"GVE_032": {
-		"name": "连携增强模组Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]连携伤害提升20%，每次释放连携提升自身6%最终伤害，最多5层，持续30秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_ChangeSkillAtk.png",
-		"shortIcon": "GVE_Buff_ChangeSkillAtk",
-		"rarity": "LEGENDRY",
-		"id": "GVE_032"
-	},
-	"GVE_033": {
-		"name": "闪攻增强模组Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]闪攻伤害提升20%，每次释放技能提升自身3%最终伤害，最多10层，持续30秒",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_EvadeAtk.png",
-		"shortIcon": "GVE_Buff_EvadeAtk",
-		"rarity": "LEGENDRY",
-		"id": "GVE_033"
-	},
-	"GVE_034": {
-		"name": "机械升维Ⅰ(火)",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]当前所有火属性武器星级提升1级，可叠加",
-		"icon": "/Game/Resources/Icon/item/GVE1_fire.png",
-		"shortIcon": "GVE1_fire",
-		"rarity": "RARE",
-		"id": "GVE_034"
-	},
-	"GVE_035": {
-		"name": "机械升维Ⅰ(冰)",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]当前所有冰属性武器星级提升1级，可叠加",
-		"icon": "/Game/Resources/Icon/item/GVE1_ice.png",
-		"shortIcon": "GVE1_ice",
-		"rarity": "RARE",
-		"id": "GVE_035"
-	},
-	"GVE_036": {
-		"name": "机械升维Ⅰ(雷)",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]当前所有雷属性武器星级提升1级，可叠加",
-		"icon": "/Game/Resources/Icon/item/GVE1_thunder.png",
-		"shortIcon": "GVE1_thunder",
-		"rarity": "RARE",
-		"id": "GVE_036"
-	},
-	"GVE_037": {
-		"name": "机械升维Ⅰ(物理)",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]当前所有物理属性武器星级提升1级，可叠加",
-		"icon": "/Game/Resources/Icon/item/GVE1_phy.png",
-		"shortIcon": "GVE1_phy",
-		"rarity": "RARE",
-		"id": "GVE_037"
-	},
-	"GVE_038": {
-		"name": "机械升维Ⅰ(异能)",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]当前所有异能属性武器星级提升1级，可叠加",
-		"icon": "/Game/Resources/Icon/item/GVE1_power.png",
-		"shortIcon": "GVE1_power",
-		"rarity": "RARE",
-		"id": "GVE_038"
-	},
-	"GVE_039": {
-		"name": "机械升维Ⅱ(火)",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]当前所有火属性武器星级提升2级，可叠加",
-		"icon": "/Game/Resources/Icon/item/GVE2_fire.png",
-		"shortIcon": "GVE2_fire",
-		"rarity": "EPIC",
-		"id": "GVE_039"
-	},
-	"GVE_040": {
-		"name": "机械升维Ⅱ(冰)",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]当前所有冰属性武器星级提升2级，可叠加",
-		"icon": "/Game/Resources/Icon/item/GVE2_ice.png",
-		"shortIcon": "GVE2_ice",
-		"rarity": "EPIC",
-		"id": "GVE_040"
-	},
-	"GVE_041": {
-		"name": "机械升维Ⅱ(雷)",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]当前所有雷属性武器星级提升2级，可叠加",
-		"icon": "/Game/Resources/Icon/item/GVE2_thunder.png",
-		"shortIcon": "GVE2_thunder",
-		"rarity": "EPIC",
-		"id": "GVE_041"
-	},
-	"GVE_042": {
-		"name": "机械升维Ⅱ(物理)",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]当前所有物理属性武器星级提升2级，可叠加",
-		"icon": "/Game/Resources/Icon/item/GVE2_phy.png",
-		"shortIcon": "GVE2_phy",
-		"rarity": "EPIC",
-		"id": "GVE_042"
-	},
-	"GVE_043": {
-		"name": "机械升维Ⅱ(异能)",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]当前所有异能属性武器星级提升2级，可叠加",
-		"icon": "/Game/Resources/Icon/item/GVE2_power.png",
-		"shortIcon": "GVE2_power",
-		"rarity": "EPIC",
-		"id": "GVE_043"
-	},
-	"GVE_044": {
-		"name": "力量芯片I",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]攻击提升3000",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_Atk1.png",
-		"shortIcon": "GVE_Buff_Atk1",
-		"rarity": "RARE",
-		"id": "GVE_044"
-	},
-	"GVE_045": {
-		"name": "力量芯片II",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]攻击提升5000",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_Atk2.png",
-		"shortIcon": "GVE_Buff_Atk2",
-		"rarity": "RARE",
-		"id": "GVE_045"
-	},
-	"GVE_046": {
-		"name": "力量芯片III",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]攻击提升8000，最终伤害提升10%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_Atk3.png",
-		"shortIcon": "GVE_Buff_Atk3",
-		"rarity": "EPIC",
-		"id": "GVE_046"
-	},
-	"GVE_047": {
-		"name": "力量芯片IV",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]攻击提升20000，最终伤害提升20%",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_Atk4.png",
-		"shortIcon": "GVE_Buff_Atk4",
-		"rarity": "LEGENDRY",
-		"id": "GVE_047"
-	},
-	"GVE_048": {
-		"name": "高能钻头Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]提升20%破盾效率",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_Break1.png",
-		"shortIcon": "GVE_Buff_Break1",
-		"rarity": "RARE",
-		"id": "GVE_048"
-	},
-	"GVE_049": {
-		"name": "高能钻头Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]提升30%破盾效率，破盾后对目标造成一次6000%不受增减效果的当前武器属性伤害",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_Break2.png",
-		"shortIcon": "GVE_Buff_Break2",
-		"rarity": "EPIC",
-		"id": "GVE_049"
-	},
-	"GVE_050": {
-		"name": "高能钻头Ⅲ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[常驻]提升50%破盾效率，破盾后对目标造成一次20000%不受增减效果的当前武器属性伤害",
-		"icon": "/Game/Resources/Icon/item/GVE_Buff_Break3.png",
-		"shortIcon": "GVE_Buff_Break3",
-		"rarity": "LEGENDRY",
-		"id": "GVE_050"
-	},
-	"GVE_051": {
-		"name": "火焰药剂Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]增加20%火焰元素伤害，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_Fire.png",
-		"shortIcon": "GVE_Consumable_Fire",
-		"rarity": "RARE",
-		"id": "GVE_051"
-	},
-	"GVE_052": {
-		"name": "寒冰药剂Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]增加20%寒冰元素伤害，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_Ice.png",
-		"shortIcon": "GVE_Consumable_Ice",
-		"rarity": "RARE",
-		"id": "GVE_052"
-	},
-	"GVE_053": {
-		"name": "雷电药剂Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]增加20%雷电元素伤害，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_Thunder.png",
-		"shortIcon": "GVE_Consumable_Thunder",
-		"rarity": "RARE",
-		"id": "GVE_053"
-	},
-	"GVE_054": {
-		"name": "物理药剂Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]增加20%物理元素伤害，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_Physic.png",
-		"shortIcon": "GVE_Consumable_Physic",
-		"rarity": "RARE",
-		"id": "GVE_054"
-	},
-	"GVE_055": {
-		"name": "异能药剂Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]增加20%异能元素伤害，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_Superpower.png",
-		"shortIcon": "GVE_Consumable_Superpower",
-		"rarity": "RARE",
-		"id": "GVE_055"
-	},
-	"GVE_056": {
-		"name": "火焰药剂Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]增加40%火焰元素伤害，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_Fire.png",
-		"shortIcon": "GVE_Consumable_Fire",
-		"rarity": "EPIC",
-		"id": "GVE_056"
-	},
-	"GVE_057": {
-		"name": "寒冰药剂Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]增加40%寒冰元素伤害，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_Ice.png",
-		"shortIcon": "GVE_Consumable_Ice",
-		"rarity": "EPIC",
-		"id": "GVE_057"
-	},
-	"GVE_058": {
-		"name": "雷电药剂Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]增加40%雷电元素伤害，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_Thunder.png",
-		"shortIcon": "GVE_Consumable_Thunder",
-		"rarity": "EPIC",
-		"id": "GVE_058"
-	},
-	"GVE_059": {
-		"name": "物理药剂Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]增加40%物理元素伤害，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_Physic.png",
-		"shortIcon": "GVE_Consumable_Physic",
-		"rarity": "EPIC",
-		"id": "GVE_059"
-	},
-	"GVE_060": {
-		"name": "异能药剂Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]增加40%异能元素伤害，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_Superpower.png",
-		"shortIcon": "GVE_Consumable_Superpower",
-		"rarity": "EPIC",
-		"id": "GVE_060"
-	},
-	"GVE_061": {
-		"name": "抵抗药剂Ⅰ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]受到致命攻击时获得3秒免死，只生效1次，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_DefDeath.png",
-		"shortIcon": "GVE_Consumable_DefDeath",
-		"rarity": "EPIC",
-		"id": "GVE_061"
-	},
-	"GVE_062": {
-		"name": "抵抗药剂Ⅱ",
-		"type": "ITEM_TYPE_GUILDMAZE",
-		"source": "[消耗]受到致命攻击时获得3秒免死，并回复100%自身生命值，只生效1次，每次战斗胜利消耗一个(仅在与守护或BOSS挑战中生效并消耗)",
-		"icon": "/Game/Resources/Icon/item/GVE_Consumable_DefDeath.png",
-		"shortIcon": "GVE_Consumable_DefDeath",
-		"rarity": "LEGENDRY",
-		"id": "GVE_062"
-	},
 	"Title_1_6_1_9": {
 		"name": "司晨九域",
 		"type": "ITEM_TYPE_CONSUMABLE",
@@ -34816,8 +35768,8 @@
 		"type": "ITEM_TYPE_QUEST",
 		"description": "散布在九域的特殊能量晶体，可为神像等时章科技产物充能",
 		"source": "域能·白虎可用于升级白虎神像，以获取更多增益效果",
-		"icon": "/Game/Resources/Icon/JIUYU/Item_JiuYu_YN_001.png",
-		"shortIcon": "Item_JiuYu_YN_001",
+		"icon": "/Game/Resources/Icon/JIUYU/Item_JiuYu_YN_003.png",
+		"shortIcon": "Item_JiuYu_YN_003",
 		"rarity": "LEGENDRY",
 		"id": "Item_JiuYu_YN_003"
 	},
@@ -34944,8 +35896,8 @@
 	"Item_JiuYu_quest_e60020_1": {
 		"name": "沾血的信笺",
 		"type": "ITEM_TYPE_QUEST",
-		"description": "精致的信笺，但是沾上了血渍，部分字迹已经模糊不清。",
-		"source": "用于任务“银杏之约”",
+		"description": "精致的信笺，但是沾上了血渍，摸起来冰冰冷冷。",
+		"source": "用于任务“林中暝伥”",
 		"icon": "/Game/Resources/Icon/JIUYU/Item_JiuYu_quest_1.png",
 		"shortIcon": "Item_JiuYu_quest_1",
 		"rarity": "POOR",
@@ -34955,11 +35907,21 @@
 		"name": "小巧的骰子",
 		"type": "ITEM_TYPE_QUEST",
 		"description": "镂空的骰子，里面装了一颗红豆，放在贴身的口袋里，似乎是重要的东西。",
-		"source": "用于任务“银杏之约”",
+		"source": "用于任务“林中暝伥”",
 		"icon": "/Game/Resources/Icon/JIUYU/Item_JiuYu_quest_2.png",
 		"shortIcon": "Item_JiuYu_quest_2",
 		"rarity": "POOR",
 		"id": "Item_JiuYu_quest_e60020_2"
+	},
+	"Item_JiuYu_quest_e60020_3": {
+		"name": "「冰雪林海四霸侦察队」手镯",
+		"type": "ITEM_TYPE_QUEST",
+		"description": "看起来很像市集里卖的水晶手镯，不过是玻璃制品，而且尺寸较小，根本戴不进去。",
+		"source": "“从此你就是「冰雪林海四霸侦察队」的队员了！”",
+		"icon": "/Game/Resources/Icon/market/Jiuyu_Market_033.png",
+		"shortIcon": "Jiuyu_Market_033",
+		"rarity": "RARE",
+		"id": "Item_JiuYu_quest_e60020_3"
 	},
 	"Item_JiuYu_quest_e60010_4": {
 		"name": "幕宜的纸鸢",
@@ -35641,6 +36603,56 @@
 		"rarity": "LEGENDRY",
 		"id": "Title_1_4_3_25"
 	},
+	"Title_1_4_3_26": {
+		"name": "序列先锋",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "序列幻象结算时第十一至一百名。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
+		"id": "Title_1_4_3_26"
+	},
+	"Title_1_4_3_27": {
+		"name": "凝寒先锋",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "序列幻象结算时寒冰失温第十一至一百名。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
+		"id": "Title_1_4_3_27"
+	},
+	"Title_1_4_3_28": {
+		"name": "超熔先锋",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "序列幻象结算时日冕燃尽第十一至一百名。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
+		"id": "Title_1_4_3_28"
+	},
+	"Title_1_4_3_29": {
+		"name": "擎电先锋",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "序列幻象结算时雷霆轰鸣第十一至一百名。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
+		"id": "Title_1_4_3_29"
+	},
+	"Title_1_4_3_30": {
+		"name": "振律先锋",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "序列幻象结算时物理震荡第十一至一百名。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
+		"id": "Title_1_4_3_30"
+	},
 	"Title_1_8_2_1": {
 		"name": "朱厌招讨使",
 		"type": "ITEM_TYPE_CONSUMABLE",
@@ -35751,7 +36763,17 @@
 		"rarity": "LEGENDRY",
 		"id": "Title_1_4_9_5"
 	},
-	"Title_1_9_0_2": {
+	"Title_1_4_9_6": {
+		"name": "超域先锋",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "序列幻象结算时异能回响第十一至一百名。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
+		"id": "Title_1_4_9_6"
+	},
+	"Title_1_9_0_1": {
 		"name": "初级导师",
 		"type": "ITEM_TYPE_CONSUMABLE",
 		"description": "导师等级到达初级导师获取。",
@@ -35759,12 +36781,22 @@
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
 		"shortIcon": "pet_chip_0101",
 		"rarity": "LEGENDRY",
+		"id": "Title_1_9_0_1"
+	},
+	"Title_1_9_0_2": {
+		"name": "资深导师",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "导师等级到达资深导师获取。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
 		"id": "Title_1_9_0_2"
 	},
 	"Title_1_9_0_3": {
-		"name": "中级导师",
+		"name": "银牌导师",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "导师等级到达中级导师获取。",
+		"description": "导师等级到达银牌导师获取。",
 		"source": "荣誉称号",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
 		"shortIcon": "pet_chip_0101",
@@ -35772,9 +36804,9 @@
 		"id": "Title_1_9_0_3"
 	},
 	"Title_1_9_0_4": {
-		"name": "高级导师",
+		"name": "金牌导师",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "导师等级到达高级导师获取。",
+		"description": "导师等级到达金牌导师获取。",
 		"source": "荣誉称号",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
 		"shortIcon": "pet_chip_0101",
@@ -35782,44 +36814,14 @@
 		"id": "Title_1_9_0_4"
 	},
 	"Title_1_9_0_5": {
-		"name": "铜星导师",
+		"name": "钻石导师",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "导师等级到达铜星导师获取。",
+		"description": "导师等级到达钻石导师获取。",
 		"source": "荣誉称号",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
 		"shortIcon": "pet_chip_0101",
 		"rarity": "LEGENDRY",
 		"id": "Title_1_9_0_5"
-	},
-	"Title_1_9_0_6": {
-		"name": "银星导师",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "导师等级到达银星导师获取。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
-		"rarity": "LEGENDRY",
-		"id": "Title_1_9_0_6"
-	},
-	"Title_1_9_0_7": {
-		"name": "金星导师",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "导师等级到达金星导师获取。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
-		"rarity": "LEGENDRY",
-		"id": "Title_1_9_0_7"
-	},
-	"Title_1_9_0_8": {
-		"name": "王牌导师",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "导师等级到达王牌导师获取。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
-		"rarity": "LEGENDRY",
-		"id": "Title_1_9_0_8"
 	},
 	"yulan": {
 		"name": "玉兰",
@@ -35977,6 +36979,36 @@
 		"rarity": "COMMON",
 		"id": "Item_e600050_4"
 	},
+	"Title_1_4_8_6": {
+		"name": "迷雾重塑者",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "迷雾重构结算公会积分排位第一名。下期公会活动开启前有效。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
+		"id": "Title_1_4_8_6"
+	},
+	"Title_1_4_8_7": {
+		"name": "迷雾肃清者",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "迷雾重构结算公会积分排位第二名。下期公会活动开启前有效。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
+		"id": "Title_1_4_8_7"
+	},
+	"Title_1_4_8_8": {
+		"name": "迷雾彰明者",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "迷雾重构结算公会积分排位第三名。下期公会活动开启前有效。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "LEGENDRY",
+		"id": "Title_1_4_8_8"
+	},
 	"Title_1_4_8_4": {
 		"name": "无序迷域清剿",
 		"type": "ITEM_TYPE_CONSUMABLE",
@@ -35987,35 +37019,15 @@
 		"rarity": "EPIC",
 		"id": "Title_1_4_8_4"
 	},
-	"Title_1_4_8_1": {
-		"name": "迷雾重塑者",
+	"Title_1_4_8_5": {
+		"name": "蚀刻迷域清剿",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "迷雾重构结算公会积分排位第一名。下期公会活动开启前有效。",
+		"description": "击败第二期迷雾重构第五层的最终BOSS。",
 		"source": "荣誉称号",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
 		"shortIcon": "pet_chip_0101",
-		"rarity": "LEGENDRY",
-		"id": "Title_1_4_8_1"
-	},
-	"Title_1_4_8_2": {
-		"name": "迷雾肃清者",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "迷雾重构结算公会积分排位第二名。下期公会活动开启前有效。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
-		"rarity": "LEGENDRY",
-		"id": "Title_1_4_8_2"
-	},
-	"Title_1_4_8_3": {
-		"name": "迷雾彰明者",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "迷雾重构结算公会积分排位第三名。下期公会活动开启前有效。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
-		"rarity": "LEGENDRY",
-		"id": "Title_1_4_8_3"
+		"rarity": "EPIC",
+		"id": "Title_1_4_8_5"
 	},
 	"Title_1_8_0_1": {
 		"name": "饕餮天敌",
@@ -36066,6 +37078,16 @@
 		"shortIcon": "avatar_mimi",
 		"rarity": "LEGENDRY",
 		"id": "mimi"
+	},
+	"linghan": {
+		"name": "凌寒",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "兑州卫首凌寒在此。",
+		"source": "获得后解锁头像",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_linghan.png",
+		"shortIcon": "avatar_linghan",
+		"rarity": "LEGENDRY",
+		"id": "linghan"
 	},
 	"Mount_022": {
 		"name": "迷你浮斓泡影",
@@ -36148,9 +37170,9 @@
 		"id": "Avatar_98"
 	},
 	"Avatar_99": {
-		"name": "99name",
+		"name": "莎莉·旅途",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "99des",
+		"description": "我是莎莉，这段旅程也请拓荒者多多关照啦！",
 		"source": "获得后解锁头像",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_99.png",
 		"shortIcon": "Item_Avatar_99",
@@ -36158,9 +37180,9 @@
 		"id": "Avatar_99"
 	},
 	"Avatar_100": {
-		"name": "100name",
+		"name": "奈美西斯·新生",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "100des",
+		"description": "又见面了拓荒者，我是说好久不见……最近还好吗？",
 		"source": "获得后解锁头像",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_100.png",
 		"shortIcon": "Item_Avatar_100",
@@ -36168,9 +37190,9 @@
 		"id": "Avatar_100"
 	},
 	"Avatar_101": {
-		"name": "101name",
+		"name": "海边丽影",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "101des",
+		"description": "与海共舞，亦有柔情。",
 		"source": "获得后解锁头像",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_101.png",
 		"shortIcon": "Item_Avatar_101",
@@ -36178,9 +37200,9 @@
 		"id": "Avatar_101"
 	},
 	"Avatar_102": {
-		"name": "102name",
+		"name": "雀尾",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "102des",
+		"description": "隶属于朱雀卫首的离州精英域卫，制式装备下的她们都有着各自不同的命运。",
 		"source": "获得后解锁头像",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_102.png",
 		"shortIcon": "Item_Avatar_102",
@@ -36188,9 +37210,9 @@
 		"id": "Avatar_102"
 	},
 	"Avatar_103": {
-		"name": "103name",
+		"name": "雪绒",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "103des",
+		"description": "新一代机械智仆雪绒，向您报到！",
 		"source": "获得后解锁头像",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_103.png",
 		"shortIcon": "Item_Avatar_103",
@@ -36248,9 +37270,9 @@
 		"id": "AvatarFrame_98"
 	},
 	"AvatarFrame_99": {
-		"name": "99name",
+		"name": "旅途·出发",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "99des",
+		"description": "向着艾达星，出发！",
 		"source": "获得后解锁头像框",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_99.png",
 		"shortIcon": "icon_AvatarFrame_99",
@@ -36258,9 +37280,9 @@
 		"id": "AvatarFrame_99"
 	},
 	"AvatarFrame_100": {
-		"name": "100name",
+		"name": "新生·拥抱",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "100des",
+		"description": "这双手臂我还是不太习惯，最近在练习拥抱……",
 		"source": "获得后解锁头像框",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_100.png",
 		"shortIcon": "icon_AvatarFrame_100",
@@ -36268,9 +37290,9 @@
 		"id": "AvatarFrame_100"
 	},
 	"AvatarFrame_101": {
-		"name": "101name",
+		"name": "嶙峋",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "101des",
+		"description": "波光粼粼，皎洁如月。",
 		"source": "获得后解锁头像框",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_101.png",
 		"shortIcon": "icon_AvatarFrame_101",
@@ -36278,9 +37300,9 @@
 		"id": "AvatarFrame_101"
 	},
 	"AvatarFrame_102": {
-		"name": "102name",
+		"name": "以朱雀之名",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "102des",
+		"description": "加入「雀尾」的每一位精英队员，都曾在朱雀大人的见证下立下誓言。",
 		"source": "获得后解锁头像框",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_102.png",
 		"shortIcon": "icon_AvatarFrame_102",
@@ -36288,9 +37310,9 @@
 		"id": "AvatarFrame_102"
 	},
 	"AvatarFrame_103": {
-		"name": "103name",
+		"name": "摸摸耳朵",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "103des",
+		"description": "是老虎耳朵不是猫耳！",
 		"source": "获得后解锁头像框",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_103.png",
 		"shortIcon": "icon_AvatarFrame_103",
@@ -36348,9 +37370,9 @@
 		"id": "chat_qipao_98"
 	},
 	"chat_qipao_99": {
-		"name": "99name",
+		"name": "旅途·欢颜",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "99des",
+		"description": "来找莎莉聊聊天嘛~",
 		"source": "聊天气泡",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_99.png",
 		"shortIcon": "icon_qipao_99",
@@ -36358,9 +37380,9 @@
 		"id": "chat_qipao_99"
 	},
 	"chat_qipao_100": {
-		"name": "100name",
+		"name": "新生·萌动",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "100des",
+		"description": "我在努力解析你传来的电波……",
 		"source": "聊天气泡",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_100.png",
 		"shortIcon": "icon_qipao_100",
@@ -36368,9 +37390,9 @@
 		"id": "chat_qipao_100"
 	},
 	"chat_qipao_101": {
-		"name": "101name",
+		"name": "冰踱",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "101des",
+		"description": "沙滩轻踱，步步生冰。",
 		"source": "聊天气泡",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_101.png",
 		"shortIcon": "icon_qipao_101",
@@ -36378,9 +37400,9 @@
 		"id": "chat_qipao_101"
 	},
 	"chat_qipao_102": {
-		"name": "102name",
+		"name": "离州通讯频道",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "102des",
+		"description": "该频段为「雀尾」内部联络频段，请勿泄露，违者必究。",
 		"source": "聊天气泡",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_102.png",
 		"shortIcon": "icon_qipao_102",
@@ -36388,9 +37410,9 @@
 		"id": "chat_qipao_102"
 	},
 	"chat_qipao_103": {
-		"name": "103name",
+		"name": "听听咆哮",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "103des",
+		"description": "「嘎呜——」「嘎呜——」记住我了吗？",
 		"source": "聊天气泡",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_103.png",
 		"shortIcon": "icon_qipao_103",
@@ -36417,75 +37439,289 @@
 		"rarity": "LEGENDRY",
 		"id": "chat_qipao_105"
 	},
-	"Title_1_4_2_6": {
-		"name": "破域者",
+	"animated_qipao_1": {
+		"name": "诗怀逸兴",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "旧日幻象结算时第十一至一百名。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
+		"description": "悲欢离合，阴晴圆缺，诗中寄语，谁可与共。",
+		"source": "聊天气泡",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_animated_qipao_1.png",
+		"shortIcon": "icon_animated_qipao_1",
 		"rarity": "LEGENDRY",
-		"id": "Title_1_4_2_6"
+		"id": "animated_qipao_1"
 	},
-	"Title_1_4_3_26": {
-		"name": "序列先锋",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "序列幻象结算时第十一至一百名。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
-		"rarity": "LEGENDRY",
-		"id": "Title_1_4_3_26"
+	"Item_BigWorldSnow": {
+		"name": "未融化的雪",
+		"type": "ITEM_TYPE_MATERIAL",
+		"description": "一团刚采集到的积雪，看起来很干净",
+		"source": "至少可以用来堆雪人。",
+		"icon": "/Game/Resources/Icon/item/BigWorldSnow.png",
+		"shortIcon": "BigWorldSnow",
+		"rarity": "POOR",
+		"id": "Item_BigWorldSnow"
 	},
-	"Title_1_4_3_27": {
-		"name": "凝寒先锋",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "序列幻象结算时寒冰失温第十一至一百名。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
+	"Mount025_skin_02": {
+		"name": "蛊雕",
+		"type": "ITEM_TYPE_MOUNT_SKIN",
+		"description": "经过驯化的蛊雕，性情温和，不再具有攻击性，可作为载具。",
+		"source": "解锁载具蛊雕",
+		"icon": "/Game/Resources/Icon/Mount/Mount_025/Mount_025_1.png",
+		"shortIcon": "Mount_025_1",
 		"rarity": "LEGENDRY",
-		"id": "Title_1_4_3_27"
+		"id": "Mount025_skin_02"
 	},
-	"Title_1_4_3_28": {
-		"name": "超熔先锋",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "序列幻象结算时日冕燃尽第十一至一百名。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
+	"Mount025_skin_03": {
+		"name": "蛊雕 · 荧",
+		"type": "ITEM_TYPE_MOUNT_SKIN",
+		"description": "经过驯化的蛊雕 **•**  荧，性情温和，不再具有攻击性，可作为载具。",
+		"source": "解锁载具蛊雕 · 荧",
+		"icon": "/Game/Resources/Icon/Mount/Mount_025/Mount_025_2.png",
+		"shortIcon": "Mount_025_2",
 		"rarity": "LEGENDRY",
-		"id": "Title_1_4_3_28"
+		"id": "Mount025_skin_03"
 	},
-	"Title_1_4_3_29": {
-		"name": "擎电先锋",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "序列幻象结算时雷霆轰鸣第十一至一百名。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
+	"Mount025_skin_04": {
+		"name": "穰翼",
+		"type": "ITEM_TYPE_MOUNT_SKIN",
+		"description": "经过驯化的穰翼，性情温和，不再具有攻击性，可作为载具。",
+		"source": "解锁载具穰翼",
+		"icon": "/Game/Resources/Icon/Mount/Mount_025/Mount_025_3.png",
+		"shortIcon": "Mount_025_3",
 		"rarity": "LEGENDRY",
-		"id": "Title_1_4_3_29"
+		"id": "Mount025_skin_04"
 	},
-	"Title_1_4_3_30": {
-		"name": "振律先锋",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "序列幻象结算时物理震荡第十一至一百名。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
+	"Mount025_skin_05": {
+		"name": "穰翼 · 绯",
+		"type": "ITEM_TYPE_MOUNT_SKIN",
+		"description": "经过驯化的穰翼 **•**  绯，性情温和，不再具有攻击性，可作为载具。",
+		"source": "解锁载具穰翼 · 绯",
+		"icon": "/Game/Resources/Icon/Mount/Mount_025/Mount_025_4.png",
+		"shortIcon": "Mount_025_4",
 		"rarity": "LEGENDRY",
-		"id": "Title_1_4_3_30"
+		"id": "Mount025_skin_05"
 	},
-	"Title_1_4_9_6": {
-		"name": "超域先锋",
-		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "序列幻象结算时异能回响第十一至一百名。",
-		"source": "荣誉称号",
-		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
-		"shortIcon": "pet_chip_0101",
+	"Mount025_skin_06": {
+		"name": "魇蛊",
+		"type": "ITEM_TYPE_MOUNT_SKIN",
+		"description": "经过驯化的魇蛊，性情温和，不再具有攻击性，可作为载具。",
+		"source": "解锁载具魇蛊",
+		"icon": "/Game/Resources/Icon/Mount/Mount_025/Mount_025_5.png",
+		"shortIcon": "Mount_025_5",
 		"rarity": "LEGENDRY",
-		"id": "Title_1_4_9_6"
+		"id": "Mount025_skin_06"
+	},
+	"Mount025_skin_07": {
+		"name": "魇蛊 · 枳",
+		"type": "ITEM_TYPE_MOUNT_SKIN",
+		"description": "经过驯化的魇蛊 **•**  枳，性情温和，不再具有攻击性，可作为载具。",
+		"source": "解锁载具魇蛊 · 枳",
+		"icon": "/Game/Resources/Icon/Mount/Mount_025/Mount_025_6.png",
+		"shortIcon": "Mount_025_6",
+		"rarity": "LEGENDRY",
+		"id": "Mount025_skin_07"
+	},
+	"Mount025_skin_08": {
+		"name": "麒麟",
+		"type": "ITEM_TYPE_MOUNT_SKIN",
+		"description": "经过驯化的麒麟，性情温和，不再具有攻击性，可作为载具。",
+		"source": "解锁载具麒麟",
+		"icon": "/Game/Resources/Icon/Mount/Mount_025/Mount_025_7.png",
+		"shortIcon": "Mount_025_7",
+		"rarity": "LEGENDRY",
+		"id": "Mount025_skin_08"
+	},
+	"linghan_lv2": {
+		"name": "凌寒·觉醒",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "困兽要出笼了，一决高下吧。",
+		"source": "获得后解锁头像",
+		"icon": "/Game/Resources/Icon/item/icon_linghan_lv2.png",
+		"shortIcon": "icon_linghan_lv2",
+		"rarity": "LEGENDRY",
+		"id": "linghan_lv2"
+	},
+	"feise_lv2": {
+		"name": "妃色·觉醒",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "凤眼瞥瞥，尘世何其浅。",
+		"source": "获得后解锁头像",
+		"icon": "/Game/Resources/Icon/item/icon_feise_lv2.png",
+		"shortIcon": "icon_feise_lv2",
+		"rarity": "LEGENDRY",
+		"id": "feise_lv2"
+	},
+	"mimi_lv2": {
+		"name": "米米·觉醒",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "竹生絮花，下一轮尚不知要守多久。",
+		"source": "获得后解锁头像",
+		"icon": "/Game/Resources/Icon/item/icon_mimi_lv2.png",
+		"shortIcon": "icon_mimi_lv2",
+		"rarity": "LEGENDRY",
+		"id": "mimi_lv2"
+	},
+	"mingjing_lv2": {
+		"name": "明景·觉醒",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "责任千钧之重，所负甘之如饴。",
+		"source": "获得后解锁头像",
+		"icon": "/Game/Resources/Icon/item/icon_mingjing_lv2.png",
+		"shortIcon": "icon_mingjing_lv2",
+		"rarity": "LEGENDRY",
+		"id": "mingjing_lv2"
+	},
+	"peipei_lv2": {
+		"name": "优秀护士奖",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "午睡后，发现有一块点缀着如爱心般樱桃的小蛋糕正放在桌子上——对于这份辛劳，应颁布表彰。",
+		"source": "获得后解锁头像",
+		"icon": "/Game/Resources/Icon/item/icon_peipei_lv2.png",
+		"shortIcon": "icon_peipei_lv2",
+		"rarity": "LEGENDRY",
+		"id": "peipei_lv2"
+	},
+	"moliniya": {
+		"name": "差旅申请",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "不管有多听话的孩子，忍耐到了那个份上也会被迫吐出半真半假的谎言吗？",
+		"source": "获得后解锁头像",
+		"icon": "/Game/Resources/Icon/item/icon_moliniya.png",
+		"shortIcon": "icon_moliniya",
+		"rarity": "LEGENDRY",
+		"id": "moliniya"
+	},
+	"TicketCard01": {
+		"name": "猎户星运点·一期",
+		"type": "ITEM_TYPE_SCRATCH_OFF_TICKET_COUNT",
+		"description": "获得后可以增加一次猎户星运卡**•** 一期刮奖机会。",
+		"icon": "/Game/Resources/UI/Activity/SailingPlane/dianshu.png",
+		"shortIcon": "dianshu",
+		"rarity": "POOR",
+		"id": "TicketCard01"
+	},
+	"TicketCard02": {
+		"name": "启明星运点·一期",
+		"type": "ITEM_TYPE_SCRATCH_OFF_TICKET_COUNT",
+		"description": "获得后可以增加一次启明星运卡**•** 一期刮奖机会。",
+		"icon": "/Game/Resources/UI/Activity/SailingPlane/dianshu_huang.png",
+		"shortIcon": "dianshu_huang",
+		"rarity": "POOR",
+		"id": "TicketCard02"
+	},
+	"TicketCard03": {
+		"name": "猎户星运点·二期",
+		"type": "ITEM_TYPE_SCRATCH_OFF_TICKET_COUNT",
+		"description": "获得后可以增加一次猎户星运卡**•** 二期刮奖机会。",
+		"icon": "/Game/Resources/UI/Activity/SailingPlane/dianshu.png",
+		"shortIcon": "dianshu",
+		"rarity": "POOR",
+		"id": "TicketCard03"
+	},
+	"TicketCard04": {
+		"name": "启明星运点·二期",
+		"type": "ITEM_TYPE_SCRATCH_OFF_TICKET_COUNT",
+		"description": "获得后可以增加一次启明星运卡**•** 二期刮奖机会。",
+		"icon": "/Game/Resources/UI/Activity/SailingPlane/dianshu_huang.png",
+		"shortIcon": "dianshu_huang",
+		"rarity": "POOR",
+		"id": "TicketCard04"
+	},
+	"TicketCard05": {
+		"name": "猎户星运点·三期",
+		"type": "ITEM_TYPE_SCRATCH_OFF_TICKET_COUNT",
+		"description": "获得后可以增加一次猎户星运卡**•** 三期刮奖机会。",
+		"icon": "/Game/Resources/UI/Activity/SailingPlane/dianshu.png",
+		"shortIcon": "dianshu",
+		"rarity": "POOR",
+		"id": "TicketCard05"
+	},
+	"TicketCard06": {
+		"name": "启明星运点·三期",
+		"type": "ITEM_TYPE_SCRATCH_OFF_TICKET_COUNT",
+		"description": "获得后可以增加一次启明星运卡**•** 三期刮奖机会。",
+		"icon": "/Game/Resources/UI/Activity/SailingPlane/dianshu_huang.png",
+		"shortIcon": "dianshu_huang",
+		"rarity": "POOR",
+		"id": "TicketCard06"
+	},
+	"HXXK_clue": {
+		"name": "调查线索",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "彗星月刊编辑部提供的特别线索，方便读者们更快地完成委托和兑换印章。",
+		"source": "可用于使用调查技能。",
+		"icon": "/Game/Resources/UI/Activity/item_xiansuo.png",
+		"shortIcon": "item_xiansuo",
+		"rarity": "RARE",
+		"id": "HXXK_clue"
+	},
+	"Avatar_107": {
+		"name": "禁夜假面",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "拆……拆……猜……猜猜我是谁？",
+		"source": "获得后解锁头像",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_107.png",
+		"shortIcon": "Item_Avatar_107",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_107"
+	},
+	"AvatarFrame_107": {
+		"name": "织锦羽珞",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "听！是蝙蝠在振翅，是夜鸦在啼叫。漆黑的羽毛飘落，刚刚掠过的，可能不是风。",
+		"source": "获得后解锁头像框",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107.png",
+		"shortIcon": "icon_AvatarFrame_107",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_107"
+	},
+	"chat_qipao_107": {
+		"name": "璎璃丝卷",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "丝卷展开，神秘的文字浮现于其上。小心，那些看不懂的文字里可能藏着黑夜的秘密。",
+		"source": "聊天气泡",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107.png",
+		"shortIcon": "icon_qipao_107",
+		"rarity": "LEGENDRY",
+		"id": "chat_qipao_107"
+	},
+	"bag_chat_qipao107": {
+		"name": "「禁夜假面」礼盒",
+		"type": "ITEM_TYPE_GIFT",
+		"description": "听！是蝙蝠在振翅，是夜鸦在啼叫。漆黑的羽毛飘落，刚刚掠过的，可能不是风。",
+		"source": "使用后获得头像“禁夜假面”、头像框“织锦羽珞”、聊天气泡“璎璃丝卷”",
+		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107.png",
+		"shortIcon": "bag_chat_qipao107",
+		"rarity": "LEGENDRY",
+		"id": "bag_chat_qipao107"
+	},
+	"fashion_dress_58_4": {
+		"name": "织锦璎璃",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "尖叫的南瓜人偶，热闹的假面舞会。穿上它，你可以闪亮登场万众瞩目，也可以没入夜色，徒留绯红与风声。",
+		"source": "获得后解锁时装",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58.png",
+		"shortIcon": "fashion_f58",
+		"rarity": "LEGENDRY",
+		"id": "fashion_dress_58_4"
+	},
+	"Hat_73_4_4": {
+		"name": "赤璃蝠",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "细细夜色，赤色璃蝠，随你跃动。路过的行人，不要被吓到哦！",
+		"source": "获得后解锁饰品",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157.png",
+		"shortIcon": "fashion_icon_shipin_157",
+		"rarity": "LEGENDRY",
+		"id": "Hat_73_4_4"
+	},
+	"fashion_decoration_91_4": {
+		"name": "小小恶魔",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "潜藏在黑夜里的小小恶魔来袭，小心你的脖子哟~",
+		"source": "获得后解锁饰品",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
+		"shortIcon": "fashion_icon_shipin_152",
+		"rarity": "LEGENDRY",
+		"id": "fashion_decoration_91_4"
 	},
 	"Avatar_Overseas_9": {
 		"name": "不破咲·T pose",
@@ -38781,6 +40017,26 @@
 		"rarity": "EPIC",
 		"id": "WeaponFragment_DoubleUP9_OS"
 	},
+	"WeaponFragment_DoubleUP10_OS": {
+		"name": "回火铸金·冰霜",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/ResourcesOverSea/Icon/item/weaponfragment_up_ice_OS.png",
+		"shortIcon": "weaponfragment_up_ice_OS",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_DoubleUP10_OS"
+	},
+	"WeaponFragment_ALLUP_OS": {
+		"name": "回火铸金·启程",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "武器工匠回收特定原能武具铸造的硬币，比起作为特殊渠道的通货，本身更像是一种工艺品，可用于兑换限定武器。",
+		"source": "限时兑换武器<Red>（在限定订购结束时会回收为等额的黑市铸金）</>",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up.png",
+		"shortIcon": "weaponfragment_up",
+		"rarity": "EPIC",
+		"id": "WeaponFragment_ALLUP_OS"
+	},
 	"Avatar_koreafestival_1": {
 		"name": "黑兔？",
 		"type": "ITEM_TYPE_AVATAR",
@@ -38970,6 +40226,26 @@
 		"shortIcon": "matrixfragment_up_fire_OS",
 		"rarity": "EPIC",
 		"id": "EquipFragment_DoubleUP9_OS"
+	},
+	"EquipFragment_DoubleUP10_OS": {
+		"name": "超频晶片·冰霜",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/ResourcesOverSea/Icon/item/matrixfragment_up_ice_OS.png",
+		"shortIcon": "matrixfragment_up_ice_OS",
+		"rarity": "EPIC",
+		"id": "EquipFragment_DoubleUP10_OS"
+	},
+	"EquipFragment_ALLUP_OS": {
+		"name": "超频晶片·启程",
+		"type": "ITEM_TYPE_BARTER",
+		"description": "生产特定芯片所用的原料，经过复杂工序处理，性能区别于通用晶片，可用于兑换限定意志芯片。",
+		"source": "限时兑换意志<Red>（在限定订购结束时会回收为等额的原型晶片）</>",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up.png",
+		"shortIcon": "matrixfragment_up",
+		"rarity": "EPIC",
+		"id": "EquipFragment_ALLUP_OS"
 	},
 	"Item_AnniversaryCoin_os": {
 		"name": "庆典银币",
@@ -39480,10 +40756,10 @@
 		"id": "Title_epic_os01"
 	},
 	"Item_MidAutumnCoin_OS": {
-		"name": "星沙",
+		"name": "果汁",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "水晶瓶里装满了童年的梦想。",
-		"source": "参与星沙回收站活动可获得，可在活动商店兑换奖励。",
+		"description": "水晶瓶里装满了甜美的果汁。",
+		"source": "参与水果躲避战活动可获得，可在活动商店兑换奖励。",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
@@ -39709,6 +40985,16 @@
 		"rarity": "LEGENDRY",
 		"id": "choose_weapon_ssr_init_OS2"
 	},
+	"choose_weapon_ssr_init_OS3": {
+		"name": "自选SSR武器箱Ⅳ",
+		"type": "ITEM_TYPE_AWARD_CHOOSE",
+		"description": "自选武器箱",
+		"source": "打开后可任意选择一个箱内的<orange>SSR</>武器：晚祷、破钧、流泉彻心、斯帕克、启明星、巴尔蒙克、红莲刃、炽焰左轮、疾雷双刃、蔷薇之锋、冰风之矢、零度指针、黑鸦冥镰、环海轮刃、否决立方、超电磁双星、V2熔驱盾。",
+		"icon": "/Game/ResourcesOverSea/Icon/item/choose_weapon_ssr_init_OS2.png",
+		"shortIcon": "choose_weapon_ssr_init_OS2",
+		"rarity": "LEGENDRY",
+		"id": "choose_weapon_ssr_init_OS3"
+	},
 	"Title_1_6_1_8_pack": {
 		"name": "终末梦魇",
 		"type": "ITEM_TYPE_GIFT",
@@ -39919,6 +41205,16 @@
 		"rarity": "LEGENDRY",
 		"id": "mimi_thunder_trial_OS"
 	},
+	"linghan_ice_trial_OS": {
+		"name": "监兵「24H」",
+		"type": "ITEM_TYPE_TRIAL_WEAPON",
+		"description": "挥袖舞长剑，谁能识此心。",
+		"source": "获得后可解锁武器监兵使用权限24小时，重复获得可延长使用时间",
+		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01.png",
+		"shortIcon": "item_Weapon_SSR_Linghan_Ice01",
+		"rarity": "LEGENDRY",
+		"id": "linghan_ice_trial_OS"
+	},
 	"bag_LizhouOpenSign_1_OS": {
 		"name": "云海礼盒Ⅰ",
 		"type": "ITEM_TYPE_GIFT",
@@ -40039,6 +41335,16 @@
 		"rarity": "LEGENDRY",
 		"id": "choose_frag_ssr_2_OS"
 	},
+	"choose_frag_ssr_3_OS": {
+		"name": "ssr源器碎片箱Ⅲ",
+		"type": "ITEM_TYPE_AWARD_CHOOSE",
+		"description": "自选宝箱",
+		"source": "打开后可任意选择一个箱内的<Orange>SSR</>源器碎片：巨擎手臂碎片、原能护盾碎片、V型机甲碎片、时空裂隙碎片、禁锢空间碎片、无人机碎片、全息投影碎片、死亡抑制碎片、小鹈鹕号碎片。",
+		"icon": "/Game/Resources/Icon/item/gift_artifact_frag_ssr.png",
+		"shortIcon": "gift_artifact_frag_ssr",
+		"rarity": "LEGENDRY",
+		"id": "choose_frag_ssr_3_OS"
+	},
 	"Item_SummerCoin_Overseas2023": {
 		"name": "热浪铸币",
 		"type": "ITEM_TYPE_BARTER",
@@ -40158,6 +41464,16 @@
 		"shortIcon": "equiptupo_choose_ab",
 		"rarity": "LEGENDRY",
 		"id": "choose_equiptupo_OS1"
+	},
+	"choose_equiptupo_OS2": {
+		"name": "突破模组自选箱Ⅱ",
+		"type": "ITEM_TYPE_AWARD_CHOOSE",
+		"description": "自选宝箱，内含用于突破特定装备的高级模组",
+		"source": "打开后可任意选择一个箱内的突破模组：核心控制模组、运动协调模组、高速传动模组。",
+		"icon": "/Game/Resources/Icon/zujian/equiptupo_choose_ab.png",
+		"shortIcon": "equiptupo_choose_ab",
+		"rarity": "LEGENDRY",
+		"id": "choose_equiptupo_OS2"
 	},
 	"fragment_imitation_fashion_17_OS": {
 		"name": "「莎莉」碎片",
@@ -40462,7 +41778,7 @@
 	"Title_txshikuang_01": {
 		"name": "幻塔公认实况者第一期",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "公认实况者限定获取 ",
+		"description": "公认实况者限定获取",
 		"source": "荣誉称号",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
 		"shortIcon": "pet_chip_0101",
@@ -40519,6 +41835,396 @@
 		"rarity": "LEGENDRY",
 		"id": "chat_qipao_koreaMoonFestival_01"
 	},
+	"Title_iwplay33_os01": {
+		"name": "火鸡狩猎者",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "追逐感恩节火鸡 庆祝胃的胜利！",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os01"
+	},
+	"Title_iwplay33_os02": {
+		"name": "万圣夜巡者",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "在黑暗中搜寻糖果和惊喜",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os02"
+	},
+	"Title_iwplay33_os03": {
+		"name": "不给糖就捣蛋",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "万圣节的搞怪糖果大作战",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os03"
+	},
+	"Title_iwplay33_os04": {
+		"name": "圣诞老人的助手",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "我们是圣诞老人的小帮手 送礼物的高速快递",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os04"
+	},
+	"Title_iwplay33_os05": {
+		"name": "红包收割者",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "迎接农曆新年的红包风暴",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os05"
+	},
+	"Title_iwplay33_os06": {
+		"name": "双龙献瑞",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "新春带来好运和幸福",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os06"
+	},
+	"Title_iwplay33_os07": {
+		"name": "汤圆品味家",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "共度元宵节的美味时光\r\n我们的工作是品味各种口味的汤圆，然后大声欢呼！",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os07"
+	},
+	"Title_iwplay33_os08": {
+		"name": "甜蜜时刻",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "爱情甜蜜时刻\r\n正如巧克力在口中溶化，充满了迷人的滋味！",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os08"
+	},
+	"Title_iwplay33_os09": {
+		"name": "白雪飘飘",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "冬季的雪景如诗如画",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os09"
+	},
+	"Title_iwplay33_os10": {
+		"name": "彩蛋猎人",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "追寻彩蛋中的惊喜",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os10"
+	},
+	"Title_iwplay33_os11": {
+		"name": "花香氛围",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "春季花香\r\n大地花园，香氛四溢！",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os11"
+	},
+	"Title_iwplay33_os12": {
+		"name": "熟睡大师",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "提供舒适的夜晚睡眠，安心入梦乡",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os12"
+	},
+	"Title_iwplay33_os13": {
+		"name": "月光之下",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "夜晚的神秘魅力在皎洁的月光下追逐星星的光芒",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os13"
+	},
+	"Title_iwplay33_os14": {
+		"name": "欢乐时光",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "和其他拓荒者欢聚共度欢乐时光",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os14"
+	},
+	"Title_iwplay33_os15": {
+		"name": "莫忘初衷",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "坚持梦想的道路，继续前行",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os15"
+	},
+	"Title_Korea33_os01": {
+		"name": "巧克力杀手",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "渠道，活动获取",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os01"
+	},
+	"Title_Korea33_os02": {
+		"name": "我们的500日",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "渠道，活动获取",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os02"
+	},
+	"Title_Korea33_os03": {
+		"name": "实习圣诞老人",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "渠道，活动获取",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os03"
+	},
+	"Title_Korea33_os04": {
+		"name": "甲辰之龙",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "渠道，活动获取",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os04"
+	},
+	"Title_Korea33_os05": {
+		"name": "金牌拥有者",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "渠道，活动获取",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os05"
+	},
+	"Title_Korea33_os06": {
+		"name": "新年快乐",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "渠道，活动获取",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os06"
+	},
+	"Title_Korea33_os07": {
+		"name": "芬璃尔的巧克力",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "渠道，活动获取",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os07"
+	},
+	"Title_Korea33_os08": {
+		"name": "十五月下",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "渠道，活动获取",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os08"
+	},
+	"Title_Korea33_os09": {
+		"name": "太极旗飘扬",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "渠道，活动获取",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os09"
+	},
+	"Title_Korea33_os10": {
+		"name": "LOUNGE卷富豪",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "渠道，活动获取",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os10"
+	},
+	"Title_PlayStation33_os01": {
+		"name": "怪奇冒险者",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "用创意点亮艾达!",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_PlayStation33_os01"
+	},
+	"Title_PlayStation33_os02": {
+		"name": "艾达学者",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "伟大的成就来自伟大的启示。",
+		"source": "荣誉称号",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_PlayStation33_os02"
+	},
+	"Avatar_PlayStation33_os01": {
+		"name": "捣蛋专家",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "只是开个玩笑~",
+		"source": "获得后解锁头像",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_PlayStation33_os01i.png",
+		"shortIcon": "Avatar_PlayStation33_os01i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_PlayStation33_os01"
+	},
+	"AvatarFrame_PlayStation33_os01": {
+		"name": "魔幻果实",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "来参加派对!",
+		"source": "获得后解锁头像框",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_PlayStation33_os01i.png",
+		"shortIcon": "AvatarFrame_PlayStation33_os01i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_PlayStation33_os01"
+	},
+	"AvatarFrame_PlayStation33_os02": {
+		"name": "艾达守护者",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "为了艾达的繁荣与和平",
+		"source": "获得后解锁头像框",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_PlayStation33_os02i.png",
+		"shortIcon": "AvatarFrame_PlayStation33_os02i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_PlayStation33_os02"
+	},
+	"Avatar_Overseas_28": {
+		"name": "凌寒·T Pose",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "我是凌寒，砻剑阁阁主，九域背负了「白虎」之名的人。",
+		"source": "获得后解锁头像",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_28i.png",
+		"shortIcon": "Avatar_Overseas_28i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_Overseas_28"
+	},
+	"Avatar_tongyong33_os01": {
+		"name": "德古拉伯爵",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "哈哈哈哈，真有你的！我的假牙都要笑掉了，这在生态育培所可不是那么好找的道具。",
+		"source": "获得后解锁头像",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os01i.png",
+		"shortIcon": "Avatar_tongyong33_os01i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_tongyong33_os01"
+	},
+	"Avatar_tongyong33_os02": {
+		"name": "木木公主",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "这是我刚学的手势，看来很适合现在的情景。",
+		"source": "获得后解锁头像",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os02i.png",
+		"shortIcon": "Avatar_tongyong33_os02i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_tongyong33_os02"
+	},
+	"Avatar_tongyong33_os03": {
+		"name": "幽幽酱",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "你会为见到了我这部分的面貌而后悔的！！！",
+		"source": "获得后解锁头像",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os03i.png",
+		"shortIcon": "Avatar_tongyong33_os03i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_tongyong33_os03"
+	},
+	"Avatar_tongyong33_os04": {
+		"name": "跳跳小姐",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "你们是不是也想这么吓蕾贝……",
+		"source": "获得后解锁头像",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os04i.png",
+		"shortIcon": "Avatar_tongyong33_os04i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_tongyong33_os04"
+	},
+	"AvatarFrame_txcreatos_07": {
+		"name": "青龙之森",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "绿林中的疑云",
+		"source": "获得后解锁头像框",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_07i.png",
+		"shortIcon": "AvatarFrame_txcreatos_07i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_txcreatos_07"
+	},
+	"Avatar_Koreatongyong33_01": {
+		"name": "火鼠",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "九域的环境很不错呦",
+		"source": "获得后解锁头像",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Koreatongyong33_01i.png",
+		"shortIcon": "Avatar_Koreatongyong33_01i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_Koreatongyong33_01"
+	},
+	"AvatarFrame_Koreatongyong33_01": {
+		"name": "火环",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "感受我的热情把",
+		"source": "获得后解锁头像框",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Koreatongyong33_01i.png",
+		"shortIcon": "AvatarFrame_Koreatongyong33_01i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_Koreatongyong33_01"
+	},
+	"chat_qipao_Koreatongyong33_01": {
+		"name": "炙热",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "让我们聊起来吧~",
+		"source": "聊天气泡",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01.png",
+		"shortIcon": "icon_qipao_Koreatongyong33_01",
+		"rarity": "LEGENDRY",
+		"id": "chat_qipao_Koreatongyong33_01"
+	},
 	"artifact_ssr_001": {
 		"name": "巨擎手臂",
 		"type": "ITEM_TYPE_ARTIFACT",
@@ -40528,28 +42234,6 @@
 		"shortIcon": "artifact_ssr_001",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_030",
-		"advancement": [
-			{
-				"description": "每次攻击可射出<shuzhi>2</>枚飞弹对目标造成伤害，每枚飞弹造成<shuzhi>34.8%</>攻击伤害。",
-				"id": "artifact_adv_030"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>200</>秒     ",
-				"id": "artifact_adv_030"
-			},
-			{
-				"description": "每次攻击可射出<shuzhi>4</>枚飞弹对目标造成伤害，每枚飞弹造成<shuzhi>34.8%</>攻击伤害。",
-				"id": "artifact_adv_030"
-			},
-			{
-				"description": "降低<shuzhi>2%</>受到的物理伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_030"
-			},
-			{
-				"description": "巨擎手臂持续<shuzhi>30</>秒，持续期间受到所有伤害减少<shuzhi>20%</>",
-				"id": "artifact_adv_030"
-			}
-		],
 		"id": "artifact_ssr_001"
 	},
 	"artifact_ssr_002": {
@@ -40561,28 +42245,6 @@
 		"shortIcon": "artifact_ssr_002",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_029",
-		"advancement": [
-			{
-				"description": "若敌方目标穿过原能护盾，减速<shuzhi>50%</>持续<shuzhi>2</>秒",
-				"id": "artifact_adv_029"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>60</>秒     ",
-				"id": "artifact_adv_029"
-			},
-			{
-				"description": "持续时间延长至<shuzhi>20</>秒     ",
-				"id": "artifact_adv_029"
-			},
-			{
-				"description": "降低<shuzhi>2%</>受到的寒冰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_029"
-			},
-			{
-				"description": "拓荒者及友方穿过原能护盾会获得伤害提升<shuzhi>25%</>持续<shuzhi>7</>秒",
-				"id": "artifact_adv_029"
-			}
-		],
 		"id": "artifact_ssr_002"
 	},
 	"artifact_ssr_004": {
@@ -40594,28 +42256,6 @@
 		"shortIcon": "artifact_ssr_004",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_027",
-		"advancement": [
-			{
-				"description": "驾驶机甲时，免疫火焰伤害和控制效果    ",
-				"id": "artifact_adv_027"
-			},
-			{
-				"description": "获得新技能：<yellow_lbl_14_1>炮击</>\r\n<yellow_lbl_14_1>炮击</>：向锁定目标释放<shuzhi>6</>次炮击，每次命中造成<shuzhi>155.2%</>*攻击力伤害",
-				"id": "artifact_adv_027"
-			},
-			{
-				"description": "驾驶机甲时，伤害附带灼烧效果     ",
-				"id": "artifact_adv_027"
-			},
-			{
-				"description": "增加<shuzhi>2%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_027"
-			},
-			{
-				"description": "获得新技能：<yellow_lbl_14_1>火焰力场</>\r\n<yellow_lbl_14_1>火焰力场</>：原地释放大范围火焰力场，最多可造成<shuzhi>1146.8%</>*攻击力伤害",
-				"id": "artifact_adv_027"
-			}
-		],
 		"id": "artifact_ssr_004"
 	},
 	"artifact_ssr_005": {
@@ -40627,28 +42267,6 @@
 		"shortIcon": "artifact_ssr_005",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_026",
-		"advancement": [
-			{
-				"description": "处于坍缩空间离地面近的敌人无法使用闪避，吸附时间延长至<shuzhi>15</>秒 ",
-				"id": "artifact_adv_026"
-			},
-			{
-				"description": "伤害范围提升<shuzhi>1</>倍     ",
-				"id": "artifact_adv_026"
-			},
-			{
-				"description": "区域内的目标受到伤害增加<shuzhi>20%</>  ",
-				"id": "artifact_adv_026"
-			},
-			{
-				"description": "降低<shuzhi>2%</>受到的火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_026"
-			},
-			{
-				"description": "处于坍缩空间内的敌方单位无法被治疗  ",
-				"id": "artifact_adv_026"
-			}
-		],
 		"id": "artifact_ssr_005"
 	},
 	"artifact_ssr_006": {
@@ -40659,28 +42277,6 @@
 		"shortIcon": "artifact_ssr_006",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_025",
-		"advancement": [
-			{
-				"description": "眩晕延长至<shuzhi>3</>秒，冷却缩短至<shuzhi>180</>秒 ",
-				"id": "artifact_adv_025"
-			},
-			{
-				"description": "能量波动造成伤害额外提高<shuzhi>30%</> ",
-				"id": "artifact_adv_025"
-			},
-			{
-				"description": "冷却缩短至<shuzhi>120</>秒     ",
-				"id": "artifact_adv_025"
-			},
-			{
-				"description": "增加<shuzhi>2%</>物理伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_025"
-			},
-			{
-				"description": "每<shuzhi>3</>秒会额外触发一次地震波，命中<shuzhi>浮空</>目标（跳跃可躲避）",
-				"id": "artifact_adv_025"
-			}
-		],
 		"id": "artifact_ssr_006"
 	},
 	"artifact_ssr_008": {
@@ -40692,28 +42288,6 @@
 		"shortIcon": "artifact_ssr_008",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_023",
-		"advancement": [
-			{
-				"description": "解除控制，并在接下来<shuzhi>5</>秒内免疫控制 ",
-				"id": "artifact_adv_023"
-			},
-			{
-				"description": "持续时长延长至<shuzhi>25</>秒   ",
-				"id": "artifact_adv_023"
-			},
-			{
-				"description": "每<shuzhi>5</>秒额外为拓荒者叠加一层伤害提升<shuzhi>5%</>的激励效果",
-				"id": "artifact_adv_023"
-			},
-			{
-				"description": "降低<shuzhi>2%</>受到的雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_023"
-			},
-			{
-				"description": "无人机持续期间，拓荒者获得攻击回复效果，<shuzhi>20%</>的伤害值转换为自身生命",
-				"id": "artifact_adv_023"
-			}
-		],
 		"id": "artifact_ssr_008"
 	},
 	"artifact_ssr_010": {
@@ -40725,28 +42299,6 @@
 		"shortIcon": "artifact_ssr_010",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_021_OS",
-		"advancement": [
-			{
-				"description": "持续时间延长至<shuzhi>20</>秒     ",
-				"id": "artifact_adv_021_OS"
-			},
-			{
-				"description": "技能冷却缩短至<shuzhi>120</>秒",
-				"id": "artifact_adv_021_OS"
-			},
-			{
-				"description": "再次点击，自身移形换位，出现在投影的位置",
-				"id": "artifact_adv_021_OS"
-			},
-			{
-				"description": "增加<shuzhi>2%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_021_OS"
-			},
-			{
-				"description": "投影造成的伤害提升至角色的<shuzhi>50%</>，移形换位时解除自身控制",
-				"id": "artifact_adv_021_OS"
-			}
-		],
 		"id": "artifact_ssr_010"
 	},
 	"artifact_ssr_011": {
@@ -40758,28 +42310,6 @@
 		"shortIcon": "artifact_ssr_011_icon",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_032",
-		"advancement": [
-			{
-				"description": "<shuzhi>8</>秒后，友方玩家在空间内恢复<shuzhi>15%</>的生命值。",
-				"id": "artifact_adv_032"
-			},
-			{
-				"description": "友方单位在空间内时获得<shuzhi>25%</>的吸血效果。",
-				"id": "artifact_adv_032"
-			},
-			{
-				"description": "友方玩家在空间内免疫一切控制",
-				"id": "artifact_adv_032"
-			},
-			{
-				"description": "增加<shuzhi>2%</>寒冰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_032"
-			},
-			{
-				"description": "在空间内的友方玩家的生命值低于或等于<shuzhi>40%</>时，吸血效果翻倍，直到源器消失。",
-				"id": "artifact_adv_032"
-			}
-		],
 		"id": "artifact_ssr_011"
 	},
 	"artifact_ssr_012": {
@@ -40791,28 +42321,6 @@
 		"shortIcon": "artifact_ssr_012_icon",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_036_OS",
-		"advancement": [
-			{
-				"description": "使用时，若血量大于<shuzhi>90%</>，立刻获得<shuzhi>100</>点能量；若当前血量低于<shuzhi>90%</>，立刻获得<shuzhi>50</>点能量，增伤结束时，再获得<shuzhi>50</>点能量",
-				"id": "artifact_adv_036_OS"
-			},
-			{
-				"description": "增伤时间提升至<shuzhi>12</>秒",
-				"id": "artifact_adv_036_OS"
-			},
-			{
-				"description": "每层“祝福”额外提供<shuzhi>1%</>最终伤害提升，持续<shuzhi>12</>秒",
-				"id": "artifact_adv_036_OS"
-			},
-			{
-				"description": "增加<shuzhi>2%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_036_OS"
-			},
-			{
-				"description": "“祝福”叠满5层后，额外获得<shuzhi>2.5%</>最终伤害提升和<shuzhi>5%</>伤害减免，持续<shuzhi>12</>秒",
-				"id": "artifact_adv_036_OS"
-			}
-		],
 		"id": "artifact_ssr_012"
 	},
 	"artifact_ssr_013": {
@@ -40823,28 +42331,6 @@
 		"shortIcon": "artifact_sr_016",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_037",
-		"advancement": [
-			{
-				"description": "冷却缩减至60秒",
-				"id": "artifact_adv_037"
-			},
-			{
-				"description": "地面使用耐力消耗降低一半，水中使用不消耗耐力",
-				"id": "artifact_adv_037"
-			},
-			{
-				"description": "在游泳状态使用无视冷却",
-				"id": "artifact_adv_037"
-			},
-			{
-				"description": "增加<shuzhi>2%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_037"
-			},
-			{
-				"description": "冷却缩减至30秒",
-				"id": "artifact_adv_037"
-			}
-		],
 		"id": "artifact_ssr_013"
 	},
 	"artifact_ssr_014": {
@@ -40855,28 +42341,6 @@
 		"shortIcon": "artifact_ssr_014",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_038",
-		"advancement": [
-			{
-				"description": "每个骰子的获得时间缩短为<shuzhi>20</>秒",
-				"id": "artifact_adv_038"
-			},
-			{
-				"description": "<shuzhi>热核</>增伤效果提升：获得<shuzhi>25%</>的伤害提升，持续<shuzhi>45</>秒",
-				"id": "artifact_adv_038"
-			},
-			{
-				"description": "每次投出骰子后有<shuzhi>50%</>概率获得1个骰子，<shuzhi>15</>秒冷却",
-				"id": "artifact_adv_038"
-			},
-			{
-				"description": "增加<shuzhi>2%</>寒冰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_038"
-			},
-			{
-				"description": "投出<shuzhi>3</>个骰子时必定获得全部元素增伤效果，如果点数之和大于等于<shuzhi>14</>，也可获得<shuzhi>超频</>效果",
-				"id": "artifact_adv_038"
-			}
-		],
 		"id": "artifact_ssr_014"
 	},
 	"artifact_ssr_015": {
@@ -40886,28 +42350,6 @@
 		"shortIcon": "artifact_ssr_015",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_039",
-		"advancement": [
-			{
-				"description": "冷却时间缩短至<shuzhi>60</>秒   ",
-				"id": "artifact_adv_039"
-			},
-			{
-				"description": "使用小鹈鹕号时可回满耐力，疲惫状态下不生效",
-				"id": "artifact_adv_039"
-			},
-			{
-				"description": "小鹈鹕号可积攒<shuzhi>3</>次充能使用",
-				"id": "artifact_adv_039"
-			},
-			{
-				"description": "增加<shuzhi>2%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_039"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>30</>秒，同时解锁小鹈鹕号新涂装<shuzhi>【流彩】</>",
-				"id": "artifact_adv_039"
-			}
-		],
 		"id": "artifact_ssr_015"
 	},
 	"artifact_ssr_016": {
@@ -40918,28 +42360,6 @@
 		"shortIcon": "artifact_ssr_016",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_040_OS",
-		"advancement": [
-			{
-				"description": "每次获得的针剂数量提升至<shuzhi>5</>支",
-				"id": "artifact_adv_040_OS"
-			},
-			{
-				"description": "使用升限针剂标记武器时回复满生命值（巅峰联赛中回复<shuzhi>20%</>最大生命值）",
-				"id": "artifact_adv_040_OS"
-			},
-			{
-				"description": "冷却时间降低到<shuzhi>150</>秒",
-				"id": "artifact_adv_040_OS"
-			},
-			{
-				"description": "增加<shuzhi>2%</>物理伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_040_OS"
-			},
-			{
-				"description": "<shuzhi>微创</>效果持续期间，命中带有“重伤”的目标时伤害提升<shuzhi>4%</>",
-				"id": "artifact_adv_040_OS"
-			}
-		],
 		"id": "artifact_ssr_016"
 	},
 	"artifact_ssr_017": {
@@ -40949,28 +42369,6 @@
 		"shortIcon": "artifact_ssr_017",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_041",
-		"advancement": [
-			{
-				"description": "每次获得的针剂数量提升至<shuzhi>5</>支",
-				"id": "artifact_adv_041"
-			},
-			{
-				"description": "<shuzhi>微创</>效果持续期间，命中带有“重伤”的目标时伤害提升<shuzhi>20%</>",
-				"id": "artifact_adv_041"
-			},
-			{
-				"description": "冷却时间降低到<shuzhi>150</>秒",
-				"id": "artifact_adv_041"
-			},
-			{
-				"description": "冷却时间降低到<shuzhi>150</>秒",
-				"id": "artifact_adv_041"
-			},
-			{
-				"description": "使用升限针剂标记武器时回复满生命值（巅峰联赛中回复<shuzhi>20%</>最大生命值）",
-				"id": "artifact_adv_041"
-			}
-		],
 		"id": "artifact_ssr_017"
 	},
 	"artifact_ssr_018": {
@@ -40982,28 +42380,6 @@
 		"shortIcon": "artifact_ssr_018",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_042",
-		"advancement": [
-			{
-				"description": "海洋之心每<shuzhi>15</>秒发动<shuzhi>1</>次潮汐，对附近目标造成<shuzhi>15%</>（巅峰联赛为<shuzhi>1.5%</>）*自身最大生命值点伤害",
-				"id": "artifact_adv_042"
-			},
-			{
-				"description": "海洋之心持续时间提升至<shuzhi>90</>秒",
-				"id": "artifact_adv_042"
-			},
-			{
-				"description": "被海洋之心命中目标受到的伤害额外提升<shuzhi>5.5%</>",
-				"id": "artifact_adv_042"
-			},
-			{
-				"description": "增加<shuzhi>2%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_042"
-			},
-			{
-				"description": "当拓荒者潜海时，释放海洋之心可变身为一条海豚，<shuzhi>15</>秒内不会被怪物攻击，且移动速度提升，变身至多持续<shuzhi>45</>秒\r\n变身状态下，下次攻击将拍打海水，对附近目标造成<shuzhi>25%</>（巅峰联赛为<shuzhi>2.5%</>）*自身最大生命值点伤害，并解除变身",
-				"id": "artifact_adv_042"
-			}
-		],
 		"id": "artifact_ssr_018"
 	},
 	"artifact_ssr_019": {
@@ -41015,28 +42391,6 @@
 		"shortIcon": "artifact_ssr_019",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_043",
-		"advancement": [
-			{
-				"description": "疾风神行持续时间提升至<shuzhi>30</>秒",
-				"id": "artifact_adv_043"
-			},
-			{
-				"description": "疾风神行状态下地面与墙面移动速度提升<shuzhi>15%</>，跳跃高度增加",
-				"id": "artifact_adv_043"
-			},
-			{
-				"description": "疾行履可积攒<shuzhi>2</>次充能使用",
-				"id": "artifact_adv_043"
-			},
-			{
-				"description": "降低<shuzhi>2%</>受到的物理伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_043"
-			},
-			{
-				"description": "疾风神行持续期间，空中攻击命中恢复闪避次数，使用闪避恢复所有耐力",
-				"id": "artifact_adv_043"
-			}
-		],
 		"id": "artifact_ssr_019"
 	},
 	"artifact_ssr_020": {
@@ -41048,29 +42402,18 @@
 		"shortIcon": "artifact_ssr_020",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_044",
-		"advancement": [
-			{
-				"description": "增加吹出的小泡泡数量，吹出小泡泡同时向后位移，在使用源器后，获得<shuzhi>10%</>的移动速度提升，持续<shuzhi>30</>秒",
-				"id": "artifact_adv_044"
-			},
-			{
-				"description": "每次释放小泡泡/大泡泡玩家获得<shuzhi>1</>层/<shuzhi>3</>层欢乐时光，每层欢乐时光为玩家提供<shuzhi>1.8%</>伤害提升，最多<shuzhi>5</>层，持续<shuzhi>60</>秒",
-				"id": "artifact_adv_044"
-			},
-			{
-				"description": "使用泡泡枪后，召唤一个泡泡精灵，泡泡精灵会持续发出泡泡，并刷新玩家欢乐时光持续时间，持续<shuzhi>150</>秒",
-				"id": "artifact_adv_044"
-			},
-			{
-				"description": "增加<shuzhi>2%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_044"
-			},
-			{
-				"description": "欢乐时光的伤害提升效果每层额外提升<shuzhi>0.6%</>",
-				"id": "artifact_adv_044"
-			}
-		],
 		"id": "artifact_ssr_020"
+	},
+	"artifact_ssr_021": {
+		"name": "三重假面",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "曾是为面部有创伤的人士定做的装饰性辅助源器套组，但即使撇开装饰价值，也有着泛用的功能性。面具的意义，或许一般是为了隐藏自我，但它们之中所包含的技术也能让你发现崭新的事物。",
+		"source": "使用将戴上三重假面中的隐空面具，在大世界探索行动时，不会受到BOSS以外的怪物攻击，被部分怪物发现时将会触发探查，在佩戴隐空面具的状态下，对受面具影响下的怪物发动攻击不会引起其他怪物的围攻。再次使用三重假面可卸下当前面具，进入冷却，冷却时间<shuzhi>20</>秒。",
+		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_021.png",
+		"shortIcon": "artifact_ssr_021",
+		"rarity": "LEGENDRY",
+		"AttributeID": "artifact_adv_045",
+		"id": "artifact_ssr_021"
 	},
 	"artifact_sr_001": {
 		"name": "浮游冰炮",
@@ -41081,28 +42424,6 @@
 		"shortIcon": "artifact_sr_001",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_018",
-		"advancement": [
-			{
-				"description": "浮游冰炮持续<shuzhi>24</>秒   ",
-				"id": "artifact_adv_018"
-			},
-			{
-				"description": "获得新技能：<yellow_lbl_14_1>激光阵</>，连续伤害目标<shuzhi>4</>次可冰冻目标，对目标造成最多<shuzhi>93.2%</>*攻击力伤害",
-				"id": "artifact_adv_018"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>150</>秒     ",
-				"id": "artifact_adv_018"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>寒冰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_018"
-			},
-			{
-				"description": "获得新技能：<yellow_lbl_14_1>冲击</>，对目标造成<shuzhi>55.9%</>*攻击力伤害，并强控眩晕目标<shuzhi>0.5</>秒",
-				"id": "artifact_adv_018"
-			}
-		],
 		"id": "artifact_sr_001"
 	},
 	"artifact_sr_004": {
@@ -41113,28 +42434,6 @@
 		"shortIcon": "artifact_sr_004",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_015",
-		"advancement": [
-			{
-				"description": "每<shuzhi>100</>秒恢复1次充能，滑翔不消耗耐力",
-				"id": "artifact_adv_015"
-			},
-			{
-				"description": "滑翔时间超过3秒获得一次重击强化，下次使用滑翔伞重击时强控眩晕目标2秒",
-				"id": "artifact_adv_015"
-			},
-			{
-				"description": "每<shuzhi>60</>秒恢复1次充能",
-				"id": "artifact_adv_015"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的物理伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_015"
-			},
-			{
-				"description": "最多可积攒<shuzhi>3</>次使用   ",
-				"id": "artifact_adv_015"
-			}
-		],
 		"id": "artifact_sr_004"
 	},
 	"artifact_sr_005": {
@@ -41146,28 +42445,6 @@
 		"shortIcon": "artifact_sr_005",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_014_OS",
-		"advancement": [
-			{
-				"description": "命中附带<shuzhi>2</>秒<shuzhi>强控眩晕</>和灼烧效果  ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "爆炸范围扩大<shuzhi>50%</>     ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>30</>秒     ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "命中附带<shuzhi>3</>秒<shuzhi>强控眩晕</>，给目标添加<shuzhi>10</>秒耐力灼烧，每次使用技能扣除<shuzhi>100</>点耐力。",
-				"id": "artifact_adv_014_OS"
-			}
-		],
 		"id": "artifact_sr_005"
 	},
 	"artifact_sr_005_B_WXM": {
@@ -41179,48 +42456,6 @@
 		"shortIcon": "artifact_sr_005",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_014",
-		"advancement": [
-			{
-				"description": "命中附带<shuzhi>2</>秒<shuzhi>强控眩晕</>和灼烧效果  ",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "爆炸范围扩大<shuzhi>50%</>     ",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>30</>秒     ",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "命中附带<shuzhi>3</>秒<shuzhi>强控眩晕</>，给目标添加<shuzhi>10</>秒耐力灼烧，每次使用技能扣除<shuzhi>100</>点耐力。",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "命中附带<shuzhi>2</>秒<shuzhi>强控眩晕</>和灼烧效果  ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "爆炸范围扩大<shuzhi>50%</>     ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>30</>秒     ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "命中附带<shuzhi>3</>秒<shuzhi>强控眩晕</>，给目标添加<shuzhi>10</>秒耐力灼烧，每次使用技能扣除<shuzhi>100</>点耐力。",
-				"id": "artifact_adv_014_OS"
-			}
-		],
 		"id": "artifact_sr_005_B_WXM"
 	},
 	"artifact_sr_006": {
@@ -41231,28 +42466,6 @@
 		"shortIcon": "artifact_sr_006",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_013",
-		"advancement": [
-			{
-				"description": "滑行期间每秒获得<shuzhi>10</>点武器充能值",
-				"id": "artifact_adv_013"
-			},
-			{
-				"description": "充能时间缩短至<shuzhi>60</>秒     ",
-				"id": "artifact_adv_013"
-			},
-			{
-				"description": "滑板碰撞伤害提高<shuzhi>100%</>，充能时间缩短至<shuzhi>45</>秒     ",
-				"id": "artifact_adv_013"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的寒冰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_013"
-			},
-			{
-				"description": "滑板状态下免疫控制，使用滑板攻击命中目标附带<shuzhi>5</>秒<shuzhi>强控眩晕</>效果，充能时间缩短至<shuzhi>30</>秒",
-				"id": "artifact_adv_013"
-			}
-		],
 		"id": "artifact_sr_006"
 	},
 	"artifact_sr_007": {
@@ -41263,28 +42476,6 @@
 		"shortIcon": "artifact_sr_007",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_012_OS",
-		"advancement": [
-			{
-				"description": "释放<shuzhi>2</>个带电核的旋风   ",
-				"id": "artifact_adv_012_OS"
-			},
-			{
-				"description": "旋风伤害提升<shuzhi>20%</>     ",
-				"id": "artifact_adv_012_OS"
-			},
-			{
-				"description": "释放<shuzhi>3</>个带电核的旋风  ",
-				"id": "artifact_adv_012_OS"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_012_OS"
-			},
-			{
-				"description": "处于旋风中的单位每次受到伤害有<shuzhi>50%</>几率进入<shuzhi>3</>秒混乱状态（移动方向与摇杆相反）",
-				"id": "artifact_adv_012_OS"
-			}
-		],
 		"id": "artifact_sr_007"
 	},
 	"artifact_sr_009": {
@@ -41296,28 +42487,6 @@
 		"shortIcon": "artifact_sr_009",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_010",
-		"advancement": [
-			{
-				"description": "量子态持续<shuzhi>20</>秒         ",
-				"id": "artifact_adv_010"
-			},
-			{
-				"description": "冷却缩短至<shuzhi>80</>秒          ",
-				"id": "artifact_adv_010"
-			},
-			{
-				"description": "量子态下发动的攻击伤害增加<shuzhi>100%</>，<shuzhi>1</>次伤害后解除此效果",
-				"id": "artifact_adv_010"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_010"
-			},
-			{
-				"description": "量子态下<shuzhi>3</>次伤害后解除伤害增加<shuzhi>100%</>效果   ",
-				"id": "artifact_adv_010"
-			}
-		],
 		"id": "artifact_sr_009"
 	},
 	"artifact_sr_010": {
@@ -41329,28 +42498,6 @@
 		"shortIcon": "artifact_ssr_003",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_009",
-		"advancement": [
-			{
-				"description": "每秒释放的飞弹数量增加    ",
-				"id": "artifact_adv_009"
-			},
-			{
-				"description": "多重飞弹伤害提高<shuzhi>20%</>     ",
-				"id": "artifact_adv_009"
-			},
-			{
-				"description": "多重飞弹持续<shuzhi>12</>秒     ",
-				"id": "artifact_adv_009"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>物理伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_009"
-			},
-			{
-				"description": "每秒释放的飞弹数量再次增加      ",
-				"id": "artifact_adv_009"
-			}
-		],
 		"id": "artifact_sr_010"
 	},
 	"artifact_sr_011": {
@@ -41362,28 +42509,6 @@
 		"shortIcon": "artifact_sr_011",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_008",
-		"advancement": [
-			{
-				"description": "使用后获得电磁护盾，使自身受到伤害减少<shuzhi>20%</>，持续<shuzhi>7</>秒",
-				"id": "artifact_adv_008"
-			},
-			{
-				"description": "每<shuzhi>15</>秒恢复<shuzhi>1</>次充能  ",
-				"id": "artifact_adv_008"
-			},
-			{
-				"description": "最多可积攒<shuzhi>3</>次",
-				"id": "artifact_adv_008"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>寒冰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_008"
-			},
-			{
-				"description": "命中使目标在<shuzhi>7</>秒内最终伤害降低<shuzhi>30%</>",
-				"id": "artifact_adv_008"
-			}
-		],
 		"id": "artifact_sr_011"
 	},
 	"artifact_sr_012": {
@@ -41395,28 +42520,6 @@
 		"shortIcon": "artifact_sr_012_card",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_031_OS",
-		"advancement": [
-			{
-				"description": "护盾被打碎时，使攻击者以及附近的敌人移动速度降低<shuzhi>35%</>，持续<shuzhi>6</>秒。",
-				"id": "artifact_adv_031_OS"
-			},
-			{
-				"description": "护盾结束（破碎）后，增加<shuzhi>20%</>最终伤害，持续<shuzhi>10</>秒。",
-				"id": "artifact_adv_031_OS"
-			},
-			{
-				"description": "护盾结束（破碎）后，增加<shuzhi>30%</>的移速，持续<shuzhi>6</>秒。",
-				"id": "artifact_adv_031_OS"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_031_OS"
-			},
-			{
-				"description": "护盾破碎时，获得<shuzhi>5</>秒的反伤效果，将受到的伤害以<shuzhi>0.6</>倍返还给攻击者。",
-				"id": "artifact_adv_031_OS"
-			}
-		],
 		"id": "artifact_sr_012"
 	},
 	"artifact_sr_013": {
@@ -41428,28 +42531,6 @@
 		"shortIcon": "artifact_sr_012",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_033",
-		"advancement": [
-			{
-				"description": "开启魔方时，使自身伤害提高<shuzhi>10%</>，持续<shuzhi>10</>秒。",
-				"id": "artifact_adv_033"
-			},
-			{
-				"description": "开启魔方后，扣除周围敌人<shuzhi>200</>点武器充能值。",
-				"id": "artifact_adv_033"
-			},
-			{
-				"description": "魔方的使用次数增加至<shuzhi>2</>次。",
-				"id": "artifact_adv_033"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_033"
-			},
-			{
-				"description": "开启魔方后，根据已损失的血量获得武器充能值。每失去<shuzhi>1%</>的血量获得<shuzhi>10</>点武器充能值。",
-				"id": "artifact_adv_033"
-			}
-		],
 		"id": "artifact_sr_013"
 	},
 	"artifact_sr_014": {
@@ -41461,28 +42542,6 @@
 		"shortIcon": "artifact_sr_008",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_035",
-		"advancement": [
-			{
-				"description": "机械原能柱存在时间提升至<shuzhi>30</>秒",
-				"id": "artifact_adv_035"
-			},
-			{
-				"description": "切换至原能手炮时，耐力恢复速度提升30%持续<shuzhi>20</>秒",
-				"id": "artifact_adv_035"
-			},
-			{
-				"description": "最多可存储<shuzhi>3</>次充能",
-				"id": "artifact_adv_035"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_035"
-			},
-			{
-				"description": "充能时间缩短至<shuzhi>40</>秒",
-				"id": "artifact_adv_035"
-			}
-		],
 		"id": "artifact_sr_014"
 	},
 	"artifact_sr_015": {
@@ -41494,28 +42553,6 @@
 		"shortIcon": "artifact_r_002",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_007",
-		"advancement": [
-			{
-				"description": "可在控制状态下使用",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "使用后自身在<shuzhi>5</>秒内免疫控制",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "命中目标后给目标添加一个携带<shuzhi>7</>秒的磁性炸弹，目标使用普攻/闪避/技能后立即引爆炸弹，造成<shuzhi>5</>秒<shuzhi>40%</>减速，触发后消失",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "目标引爆磁性炸弹后，清除目标当前所有增益buff",
-				"id": "artifact_adv_007"
-			}
-		],
 		"id": "artifact_sr_015"
 	},
 	"artifact_sr_017": {
@@ -41527,28 +42564,6 @@
 		"shortIcon": "artifact_n_001",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_007",
-		"advancement": [
-			{
-				"description": "可在控制状态下使用",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "使用后自身在<shuzhi>5</>秒内免疫控制",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "命中目标后给目标添加一个携带<shuzhi>7</>秒的磁性炸弹，目标使用普攻/闪避/技能后立即引爆炸弹，造成<shuzhi>5</>秒<shuzhi>40%</>减速，触发后消失",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "目标引爆磁性炸弹后，清除目标当前所有增益buff",
-				"id": "artifact_adv_007"
-			}
-		],
 		"id": "artifact_sr_017"
 	},
 	"artifact_sr_018": {
@@ -41560,28 +42575,6 @@
 		"shortIcon": "artifact_n_003",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_007",
-		"advancement": [
-			{
-				"description": "可在控制状态下使用",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "使用后自身在<shuzhi>5</>秒内免疫控制",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "命中目标后给目标添加一个携带<shuzhi>7</>秒的磁性炸弹，目标使用普攻/闪避/技能后立即引爆炸弹，造成<shuzhi>5</>秒<shuzhi>40%</>减速，触发后消失",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "目标引爆磁性炸弹后，清除目标当前所有增益buff",
-				"id": "artifact_adv_007"
-			}
-		],
 		"id": "artifact_sr_018"
 	},
 	"artifact_sr_019": {
@@ -41593,28 +42586,6 @@
 		"shortIcon": "artifact_n_001",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_007",
-		"advancement": [
-			{
-				"description": "可在控制状态下使用",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "使用后自身在<shuzhi>5</>秒内免疫控制",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "命中目标后给目标添加一个携带<shuzhi>7</>秒的磁性炸弹，目标使用普攻/闪避/技能后立即引爆炸弹，造成<shuzhi>5</>秒<shuzhi>40%</>减速，触发后消失",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "目标引爆磁性炸弹后，清除目标当前所有增益buff",
-				"id": "artifact_adv_007"
-			}
-		],
 		"id": "artifact_sr_019"
 	},
 	"wormhole_artifact_sr_001": {
@@ -41626,28 +42597,6 @@
 		"shortIcon": "artifact_sr_001",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_018",
-		"advancement": [
-			{
-				"description": "浮游冰炮持续<shuzhi>24</>秒   ",
-				"id": "artifact_adv_018"
-			},
-			{
-				"description": "获得新技能：<yellow_lbl_14_1>激光阵</>，连续伤害目标<shuzhi>4</>次可冰冻目标，对目标造成最多<shuzhi>93.2%</>*攻击力伤害",
-				"id": "artifact_adv_018"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>150</>秒     ",
-				"id": "artifact_adv_018"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>寒冰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_018"
-			},
-			{
-				"description": "获得新技能：<yellow_lbl_14_1>冲击</>，对目标造成<shuzhi>55.9%</>*攻击力伤害，并强控眩晕目标<shuzhi>0.5</>秒",
-				"id": "artifact_adv_018"
-			}
-		],
 		"id": "wormhole_artifact_sr_001"
 	},
 	"wormhole_artifact_sr_004": {
@@ -41658,28 +42607,6 @@
 		"shortIcon": "artifact_sr_004",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_015",
-		"advancement": [
-			{
-				"description": "每<shuzhi>100</>秒恢复1次充能，滑翔不消耗耐力",
-				"id": "artifact_adv_015"
-			},
-			{
-				"description": "滑翔时间超过3秒获得一次重击强化，下次使用滑翔伞重击时强控眩晕目标2秒",
-				"id": "artifact_adv_015"
-			},
-			{
-				"description": "每<shuzhi>60</>秒恢复1次充能",
-				"id": "artifact_adv_015"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的物理伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_015"
-			},
-			{
-				"description": "最多可积攒<shuzhi>3</>次使用   ",
-				"id": "artifact_adv_015"
-			}
-		],
 		"id": "wormhole_artifact_sr_004"
 	},
 	"wormhole_artifact_sr_005": {
@@ -41691,48 +42618,6 @@
 		"shortIcon": "artifact_sr_005",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_014",
-		"advancement": [
-			{
-				"description": "命中附带<shuzhi>2</>秒<shuzhi>强控眩晕</>和灼烧效果  ",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "爆炸范围扩大<shuzhi>50%</>     ",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>30</>秒     ",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "命中附带<shuzhi>3</>秒<shuzhi>强控眩晕</>，给目标添加<shuzhi>10</>秒耐力灼烧，每次使用技能扣除<shuzhi>100</>点耐力。",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "命中附带<shuzhi>2</>秒<shuzhi>强控眩晕</>和灼烧效果  ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "爆炸范围扩大<shuzhi>50%</>     ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>30</>秒     ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "命中附带<shuzhi>3</>秒<shuzhi>强控眩晕</>，给目标添加<shuzhi>10</>秒耐力灼烧，每次使用技能扣除<shuzhi>100</>点耐力。",
-				"id": "artifact_adv_014_OS"
-			}
-		],
 		"id": "wormhole_artifact_sr_005"
 	},
 	"wormhole_artifact_sr_007": {
@@ -41743,48 +42628,6 @@
 		"shortIcon": "artifact_sr_007",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_012",
-		"advancement": [
-			{
-				"description": "释放<shuzhi>2</>个带电核的旋风   ",
-				"id": "artifact_adv_012"
-			},
-			{
-				"description": "旋风伤害提升<shuzhi>20%</>     ",
-				"id": "artifact_adv_012"
-			},
-			{
-				"description": "释放<shuzhi>3</>个带电核的旋风  ",
-				"id": "artifact_adv_012"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_012"
-			},
-			{
-				"description": "处于旋风中的单位每次受到伤害有<shuzhi>50%</>几率进入<shuzhi>3</>秒混乱状态（移动方向与摇杆相反）",
-				"id": "artifact_adv_012"
-			},
-			{
-				"description": "释放<shuzhi>2</>个带电核的旋风   ",
-				"id": "artifact_adv_012_OS"
-			},
-			{
-				"description": "旋风伤害提升<shuzhi>20%</>     ",
-				"id": "artifact_adv_012_OS"
-			},
-			{
-				"description": "释放<shuzhi>3</>个带电核的旋风  ",
-				"id": "artifact_adv_012_OS"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_012_OS"
-			},
-			{
-				"description": "处于旋风中的单位每次受到伤害有<shuzhi>50%</>几率进入<shuzhi>3</>秒混乱状态（移动方向与摇杆相反）",
-				"id": "artifact_adv_012_OS"
-			}
-		],
 		"id": "wormhole_artifact_sr_007"
 	},
 	"wormhole_artifact_sr_009": {
@@ -41796,28 +42639,6 @@
 		"shortIcon": "artifact_sr_009",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_010",
-		"advancement": [
-			{
-				"description": "量子态持续<shuzhi>20</>秒         ",
-				"id": "artifact_adv_010"
-			},
-			{
-				"description": "冷却缩短至<shuzhi>80</>秒          ",
-				"id": "artifact_adv_010"
-			},
-			{
-				"description": "量子态下发动的攻击伤害增加<shuzhi>100%</>，<shuzhi>1</>次伤害后解除此效果",
-				"id": "artifact_adv_010"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_010"
-			},
-			{
-				"description": "量子态下<shuzhi>3</>次伤害后解除伤害增加<shuzhi>100%</>效果   ",
-				"id": "artifact_adv_010"
-			}
-		],
 		"id": "wormhole_artifact_sr_009"
 	},
 	"wormhole_artifact_sr_010": {
@@ -41829,28 +42650,6 @@
 		"shortIcon": "artifact_ssr_003",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_009",
-		"advancement": [
-			{
-				"description": "每秒释放的飞弹数量增加    ",
-				"id": "artifact_adv_009"
-			},
-			{
-				"description": "多重飞弹伤害提高<shuzhi>20%</>     ",
-				"id": "artifact_adv_009"
-			},
-			{
-				"description": "多重飞弹持续<shuzhi>12</>秒     ",
-				"id": "artifact_adv_009"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>物理伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_009"
-			},
-			{
-				"description": "每秒释放的飞弹数量再次增加      ",
-				"id": "artifact_adv_009"
-			}
-		],
 		"id": "wormhole_artifact_sr_010"
 	},
 	"wormhole_artifact_sr_011": {
@@ -41862,28 +42661,6 @@
 		"shortIcon": "artifact_sr_011",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_008",
-		"advancement": [
-			{
-				"description": "使用后获得电磁护盾，使自身受到伤害减少<shuzhi>20%</>，持续<shuzhi>7</>秒",
-				"id": "artifact_adv_008"
-			},
-			{
-				"description": "每<shuzhi>15</>秒恢复<shuzhi>1</>次充能  ",
-				"id": "artifact_adv_008"
-			},
-			{
-				"description": "最多可积攒<shuzhi>3</>次",
-				"id": "artifact_adv_008"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>寒冰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_008"
-			},
-			{
-				"description": "命中使目标在<shuzhi>7</>秒内最终伤害降低<shuzhi>30%</>",
-				"id": "artifact_adv_008"
-			}
-		],
 		"id": "wormhole_artifact_sr_011"
 	},
 	"wormhole_artifact_sr_012": {
@@ -41895,48 +42672,6 @@
 		"shortIcon": "artifact_sr_012_card",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_031",
-		"advancement": [
-			{
-				"description": "护盾被打碎时，使攻击者以及附近的敌人移动速度降低<shuzhi>35%</>，持续<shuzhi>6</>秒。",
-				"id": "artifact_adv_031"
-			},
-			{
-				"description": "护盾结束（破碎）后，根据已损失的血量的百分比，增加等额的最终伤害，持续<shuzhi>10</>秒，最低<shuzhi>30%</>。",
-				"id": "artifact_adv_031"
-			},
-			{
-				"description": "护盾结束（破碎）后，增加<shuzhi>30%</>的移速，持续<shuzhi>6</>秒。",
-				"id": "artifact_adv_031"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_031"
-			},
-			{
-				"description": "护盾破碎时，获得<shuzhi>5</>秒的反伤效果，将受到的伤害以<shuzhi>0.6</>倍返还给攻击者。",
-				"id": "artifact_adv_031"
-			},
-			{
-				"description": "护盾被打碎时，使攻击者以及附近的敌人移动速度降低<shuzhi>35%</>，持续<shuzhi>6</>秒。",
-				"id": "artifact_adv_031_OS"
-			},
-			{
-				"description": "护盾结束（破碎）后，增加<shuzhi>20%</>最终伤害，持续<shuzhi>10</>秒。",
-				"id": "artifact_adv_031_OS"
-			},
-			{
-				"description": "护盾结束（破碎）后，增加<shuzhi>30%</>的移速，持续<shuzhi>6</>秒。",
-				"id": "artifact_adv_031_OS"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_031_OS"
-			},
-			{
-				"description": "护盾破碎时，获得<shuzhi>5</>秒的反伤效果，将受到的伤害以<shuzhi>0.6</>倍返还给攻击者。",
-				"id": "artifact_adv_031_OS"
-			}
-		],
 		"id": "wormhole_artifact_sr_012"
 	},
 	"wormhole_artifact_sr_013": {
@@ -41948,28 +42683,6 @@
 		"shortIcon": "artifact_sr_012",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_033",
-		"advancement": [
-			{
-				"description": "开启魔方时，使自身伤害提高<shuzhi>10%</>，持续<shuzhi>10</>秒。",
-				"id": "artifact_adv_033"
-			},
-			{
-				"description": "开启魔方后，扣除周围敌人<shuzhi>200</>点武器充能值。",
-				"id": "artifact_adv_033"
-			},
-			{
-				"description": "魔方的使用次数增加至<shuzhi>2</>次。",
-				"id": "artifact_adv_033"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_033"
-			},
-			{
-				"description": "开启魔方后，根据已损失的血量获得武器充能值。每失去<shuzhi>1%</>的血量获得<shuzhi>10</>点武器充能值。",
-				"id": "artifact_adv_033"
-			}
-		],
 		"id": "wormhole_artifact_sr_013"
 	},
 	"wormhole_artifact_sr_014": {
@@ -41981,28 +42694,6 @@
 		"shortIcon": "artifact_sr_008",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_035",
-		"advancement": [
-			{
-				"description": "机械原能柱存在时间提升至<shuzhi>30</>秒",
-				"id": "artifact_adv_035"
-			},
-			{
-				"description": "切换至原能手炮时，耐力恢复速度提升30%持续<shuzhi>20</>秒",
-				"id": "artifact_adv_035"
-			},
-			{
-				"description": "最多可存储<shuzhi>3</>次充能",
-				"id": "artifact_adv_035"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_035"
-			},
-			{
-				"description": "充能时间缩短至<shuzhi>40</>秒",
-				"id": "artifact_adv_035"
-			}
-		],
 		"id": "wormhole_artifact_sr_014"
 	},
 	"wormhole_artifact_sr_015": {
@@ -42014,28 +42705,6 @@
 		"shortIcon": "artifact_r_002",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_007",
-		"advancement": [
-			{
-				"description": "可在控制状态下使用",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "使用后自身在<shuzhi>5</>秒内免疫控制",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "命中目标后给目标添加一个携带<shuzhi>7</>秒的磁性炸弹，目标使用普攻/闪避/技能后立即引爆炸弹，造成<shuzhi>5</>秒<shuzhi>40%</>减速，触发后消失",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "降低<shuzhi>1.5%</>受到的雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_007"
-			},
-			{
-				"description": "目标引爆磁性炸弹后，清除目标当前所有增益buff",
-				"id": "artifact_adv_007"
-			}
-		],
 		"id": "wormhole_artifact_sr_015"
 	},
 	"wormhole_artifact_ssr_001": {
@@ -42047,28 +42716,6 @@
 		"shortIcon": "artifact_ssr_001",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_030",
-		"advancement": [
-			{
-				"description": "每次攻击可射出<shuzhi>2</>枚飞弹对目标造成伤害，每枚飞弹造成<shuzhi>34.8%</>攻击伤害。",
-				"id": "artifact_adv_030"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>200</>秒     ",
-				"id": "artifact_adv_030"
-			},
-			{
-				"description": "每次攻击可射出<shuzhi>4</>枚飞弹对目标造成伤害，每枚飞弹造成<shuzhi>34.8%</>攻击伤害。",
-				"id": "artifact_adv_030"
-			},
-			{
-				"description": "降低<shuzhi>2%</>受到的物理伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_030"
-			},
-			{
-				"description": "巨擎手臂持续<shuzhi>30</>秒，持续期间受到所有伤害减少<shuzhi>20%</>",
-				"id": "artifact_adv_030"
-			}
-		],
 		"id": "wormhole_artifact_ssr_001"
 	},
 	"wormhole_artifact_ssr_002": {
@@ -42080,28 +42727,6 @@
 		"shortIcon": "artifact_ssr_002",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_029",
-		"advancement": [
-			{
-				"description": "若敌方目标穿过原能护盾，减速<shuzhi>50%</>持续<shuzhi>2</>秒",
-				"id": "artifact_adv_029"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>60</>秒     ",
-				"id": "artifact_adv_029"
-			},
-			{
-				"description": "持续时间延长至<shuzhi>20</>秒     ",
-				"id": "artifact_adv_029"
-			},
-			{
-				"description": "降低<shuzhi>2%</>受到的寒冰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_029"
-			},
-			{
-				"description": "拓荒者及友方穿过原能护盾会获得伤害提升<shuzhi>25%</>持续<shuzhi>7</>秒",
-				"id": "artifact_adv_029"
-			}
-		],
 		"id": "wormhole_artifact_ssr_002"
 	},
 	"wormhole_artifact_ssr_004": {
@@ -42113,28 +42738,6 @@
 		"shortIcon": "artifact_ssr_004",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_027",
-		"advancement": [
-			{
-				"description": "驾驶机甲时，免疫火焰伤害和控制效果    ",
-				"id": "artifact_adv_027"
-			},
-			{
-				"description": "获得新技能：<yellow_lbl_14_1>炮击</>\r\n<yellow_lbl_14_1>炮击</>：向锁定目标释放<shuzhi>6</>次炮击，每次命中造成<shuzhi>155.2%</>*攻击力伤害",
-				"id": "artifact_adv_027"
-			},
-			{
-				"description": "驾驶机甲时，伤害附带灼烧效果     ",
-				"id": "artifact_adv_027"
-			},
-			{
-				"description": "增加<shuzhi>2%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_027"
-			},
-			{
-				"description": "获得新技能：<yellow_lbl_14_1>火焰力场</>\r\n<yellow_lbl_14_1>火焰力场</>：原地释放大范围火焰力场，最多可造成<shuzhi>1146.8%</>*攻击力伤害",
-				"id": "artifact_adv_027"
-			}
-		],
 		"id": "wormhole_artifact_ssr_004"
 	},
 	"wormhole_artifact_ssr_005": {
@@ -42146,28 +42749,6 @@
 		"shortIcon": "artifact_ssr_005",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_026",
-		"advancement": [
-			{
-				"description": "处于坍缩空间离地面近的敌人无法使用闪避，吸附时间延长至<shuzhi>15</>秒 ",
-				"id": "artifact_adv_026"
-			},
-			{
-				"description": "伤害范围提升<shuzhi>1</>倍     ",
-				"id": "artifact_adv_026"
-			},
-			{
-				"description": "区域内的目标受到伤害增加<shuzhi>20%</>  ",
-				"id": "artifact_adv_026"
-			},
-			{
-				"description": "降低<shuzhi>2%</>受到的火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_026"
-			},
-			{
-				"description": "处于坍缩空间内的敌方单位无法被治疗  ",
-				"id": "artifact_adv_026"
-			}
-		],
 		"id": "wormhole_artifact_ssr_005"
 	},
 	"wormhole_artifact_ssr_006": {
@@ -42178,28 +42759,6 @@
 		"shortIcon": "artifact_ssr_006",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_025",
-		"advancement": [
-			{
-				"description": "眩晕延长至<shuzhi>3</>秒，冷却缩短至<shuzhi>180</>秒 ",
-				"id": "artifact_adv_025"
-			},
-			{
-				"description": "能量波动造成伤害额外提高<shuzhi>30%</> ",
-				"id": "artifact_adv_025"
-			},
-			{
-				"description": "冷却缩短至<shuzhi>120</>秒     ",
-				"id": "artifact_adv_025"
-			},
-			{
-				"description": "增加<shuzhi>2%</>物理伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_025"
-			},
-			{
-				"description": "每<shuzhi>3</>秒会额外触发一次地震波，命中<shuzhi>浮空</>目标（跳跃可躲避）",
-				"id": "artifact_adv_025"
-			}
-		],
 		"id": "wormhole_artifact_ssr_006"
 	},
 	"wormhole_artifact_ssr_008": {
@@ -42211,28 +42770,6 @@
 		"shortIcon": "artifact_ssr_008",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_023",
-		"advancement": [
-			{
-				"description": "解除控制，并在接下来<shuzhi>5</>秒内免疫控制 ",
-				"id": "artifact_adv_023"
-			},
-			{
-				"description": "持续时长延长至<shuzhi>25</>秒   ",
-				"id": "artifact_adv_023"
-			},
-			{
-				"description": "每<shuzhi>5</>秒额外为拓荒者叠加一层伤害提升<shuzhi>5%</>的激励效果",
-				"id": "artifact_adv_023"
-			},
-			{
-				"description": "降低<shuzhi>2%</>受到的雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_023"
-			},
-			{
-				"description": "无人机持续期间，拓荒者获得攻击回复效果，<shuzhi>20%</>的伤害值转换为自身生命",
-				"id": "artifact_adv_023"
-			}
-		],
 		"id": "wormhole_artifact_ssr_008"
 	},
 	"wormhole_artifact_ssr_010": {
@@ -42244,48 +42781,6 @@
 		"shortIcon": "artifact_ssr_010",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_021",
-		"advancement": [
-			{
-				"description": "持续时间延长至<shuzhi>20</>秒     ",
-				"id": "artifact_adv_021"
-			},
-			{
-				"description": "投影造成的伤害提升至角色的<shuzhi>75%</>",
-				"id": "artifact_adv_021"
-			},
-			{
-				"description": "再次点击，自身移形换位，出现在投影的位置",
-				"id": "artifact_adv_021"
-			},
-			{
-				"description": "增加<shuzhi>2%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_021"
-			},
-			{
-				"description": "投影造成的伤害提升至角色的<shuzhi>100%</>，移形换位时解除自身控制",
-				"id": "artifact_adv_021"
-			},
-			{
-				"description": "持续时间延长至<shuzhi>20</>秒     ",
-				"id": "artifact_adv_021_OS"
-			},
-			{
-				"description": "技能冷却缩短至<shuzhi>120</>秒",
-				"id": "artifact_adv_021_OS"
-			},
-			{
-				"description": "再次点击，自身移形换位，出现在投影的位置",
-				"id": "artifact_adv_021_OS"
-			},
-			{
-				"description": "增加<shuzhi>2%</>雷电伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_021_OS"
-			},
-			{
-				"description": "投影造成的伤害提升至角色的<shuzhi>50%</>，移形换位时解除自身控制",
-				"id": "artifact_adv_021_OS"
-			}
-		],
 		"id": "wormhole_artifact_ssr_010"
 	},
 	"wormhole_artifact_ssr_011": {
@@ -42297,28 +42792,6 @@
 		"shortIcon": "artifact_ssr_011_icon",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_032",
-		"advancement": [
-			{
-				"description": "<shuzhi>8</>秒后，友方玩家在空间内恢复<shuzhi>15%</>的生命值。",
-				"id": "artifact_adv_032"
-			},
-			{
-				"description": "友方单位在空间内时获得<shuzhi>25%</>的吸血效果。",
-				"id": "artifact_adv_032"
-			},
-			{
-				"description": "友方玩家在空间内免疫一切控制",
-				"id": "artifact_adv_032"
-			},
-			{
-				"description": "增加<shuzhi>2%</>寒冰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_032"
-			},
-			{
-				"description": "在空间内的友方玩家的生命值低于或等于<shuzhi>40%</>时，吸血效果翻倍，直到源器消失。",
-				"id": "artifact_adv_032"
-			}
-		],
 		"id": "wormhole_artifact_ssr_011"
 	},
 	"artifact_sr_005_WXM": {
@@ -42330,48 +42803,6 @@
 		"shortIcon": "artifact_sr_005",
 		"rarity": "EPIC",
 		"AttributeID": "artifact_adv_014",
-		"advancement": [
-			{
-				"description": "命中附带<shuzhi>2</>秒<shuzhi>强控眩晕</>和灼烧效果  ",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "爆炸范围扩大<shuzhi>50%</>     ",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>30</>秒     ",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "命中附带<shuzhi>3</>秒<shuzhi>强控眩晕</>，给目标添加<shuzhi>10</>秒耐力灼烧，每次使用技能扣除<shuzhi>100</>点耐力。",
-				"id": "artifact_adv_014"
-			},
-			{
-				"description": "命中附带<shuzhi>2</>秒<shuzhi>强控眩晕</>和灼烧效果  ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "爆炸范围扩大<shuzhi>50%</>     ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "冷却时间缩短至<shuzhi>30</>秒     ",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "增加<shuzhi>1.5%</>火焰伤害，不上阵也生效，巅峰联赛中不生效",
-				"id": "artifact_adv_014_OS"
-			},
-			{
-				"description": "命中附带<shuzhi>3</>秒<shuzhi>强控眩晕</>，给目标添加<shuzhi>10</>秒耐力灼烧，每次使用技能扣除<shuzhi>100</>点耐力。",
-				"id": "artifact_adv_014_OS"
-			}
-		],
 		"id": "artifact_sr_005_WXM"
 	},
 	"matrix_exp_n": {
@@ -45621,5 +46052,149 @@
 		"rarity": "SSR",
 		"suitId": "suit_SSR34",
 		"id": "matrix_SSR34_4"
+	},
+	"matrix_SSR35_1": {
+		"name": "篁·君临",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "天下命途，皆系于我。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR35_256.png",
+		"shortIcon": "icon_matrix_SSR35_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR35_512.png",
+		"gachaShortIcon": "icon_matrix_SSR35_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR35",
+		"id": "matrix_SSR35_1"
+	},
+	"matrix_SSR35_2": {
+		"name": "篁·朗日",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "朗日晴空，一去不返。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR35_256.png",
+		"shortIcon": "icon_matrix_SSR35_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR35_512.png",
+		"gachaShortIcon": "icon_matrix_SSR35_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR35",
+		"id": "matrix_SSR35_2"
+	},
+	"matrix_SSR35_3": {
+		"name": "篁·庇佑",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "天章枢纽，护守命脉。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR35_256.png",
+		"shortIcon": "icon_matrix_SSR35_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR35_512.png",
+		"gachaShortIcon": "icon_matrix_SSR35_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR35",
+		"id": "matrix_SSR35_3"
+	},
+	"matrix_SSR35_4": {
+		"name": "篁·抱负",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "抱志向远，负重何如。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR35_256.png",
+		"shortIcon": "icon_matrix_SSR35_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR35_512.png",
+		"gachaShortIcon": "icon_matrix_SSR35_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR35",
+		"id": "matrix_SSR35_4"
+	},
+	"matrix_SSR36_1": {
+		"name": "妃色·匿迹",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "行踪飘忽，但想见她时总能翩然而至。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR36_256.png",
+		"shortIcon": "icon_matrix_SSR36_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR36_512.png",
+		"gachaShortIcon": "icon_matrix_SSR36_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR36",
+		"id": "matrix_SSR36_1"
+	},
+	"matrix_SSR36_2": {
+		"name": "妃色·舞袂飘飖",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "裙摆轻拂，千姿婀娜。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR36_256.png",
+		"shortIcon": "icon_matrix_SSR36_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR36_512.png",
+		"gachaShortIcon": "icon_matrix_SSR36_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR36",
+		"id": "matrix_SSR36_2"
+	},
+	"matrix_SSR36_3": {
+		"name": "妃色·孤晖",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "身拥孤晖，逆流潜行。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR36_256.png",
+		"shortIcon": "icon_matrix_SSR36_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR36_512.png",
+		"gachaShortIcon": "icon_matrix_SSR36_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR36",
+		"id": "matrix_SSR36_3"
+	},
+	"matrix_SSR36_4": {
+		"name": "妃色·守望",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "她……令我想起了你。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR36_256.png",
+		"shortIcon": "icon_matrix_SSR36_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR36_512.png",
+		"gachaShortIcon": "icon_matrix_SSR36_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR36",
+		"id": "matrix_SSR36_4"
+	},
+	"matrix_SSR37_1": {
+		"name": "凌寒·飘渺",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "剑如缥缈，举手投足。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR37_256.png",
+		"shortIcon": "icon_matrix_SSR37_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR37_512.png",
+		"gachaShortIcon": "icon_matrix_SSR37_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR37",
+		"id": "matrix_SSR37_1"
+	},
+	"matrix_SSR37_2": {
+		"name": "凌寒·寒意",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "傲如雪，不染尘间。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR37_256.png",
+		"shortIcon": "icon_matrix_SSR37_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR37_512.png",
+		"gachaShortIcon": "icon_matrix_SSR37_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR37",
+		"id": "matrix_SSR37_2"
+	},
+	"matrix_SSR37_3": {
+		"name": "凌寒·流云",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "宛如流水似白云。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR37_256.png",
+		"shortIcon": "icon_matrix_SSR37_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR37_512.png",
+		"gachaShortIcon": "icon_matrix_SSR37_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR37",
+		"id": "matrix_SSR37_3"
+	},
+	"matrix_SSR37_4": {
+		"name": "凌寒·雪梅",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "梅花香自苦寒来。",
+		"icon": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR37_256.png",
+		"shortIcon": "icon_matrix_SSR37_256",
+		"gachaIcon": "/Game/Resources/Icon/yizhi/512/icon_matrix_SSR37_512.png",
+		"gachaShortIcon": "icon_matrix_SSR37_512",
+		"rarity": "SSR",
+		"suitId": "suit_SSR37",
+		"id": "matrix_SSR37_4"
 	}
 }

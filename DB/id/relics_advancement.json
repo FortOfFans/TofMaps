@@ -970,7 +970,7 @@
 		"id": "artifact_adv_044"
 	},
 	"1308": {
-		"description": "Confère <shuzhi>1</>/<shuzhi>3</> cumuls de Partie de plaisir chaque fois que vous tirez des petites et grosses bulles. Chaque cumul accroît les dégâts infligés par l'Explorateur de <shuzhi>1,8%</> pendant <shuzhi>60</> secondes. Cumulable jusqu'à <shuzhi>5</> fois.",
+		"description": "Dapatkan <shuzhi>1</> tumpuk Happy Time setelah menembakkan gelembung kecil dan <shuzhi>3</> tumpuk setelah menembakkan gelembung besar. Setiap tumpuk meningkatkan DMG yang ditimpakan Wanderer sebesar <shuzhi>1,8%</> selama <shuzhi>60</> detik. Bisa ditumpuk maks <shuzhi>5</> kali.",
 		"id": "artifact_adv_044"
 	},
 	"1309": {
@@ -982,19 +982,19 @@
 		"id": "artifact_adv_044"
 	},
 	"1311": {
-		"description": "Accroît le bonus de dégâts de Partie de plaisir de <shuzhi>0,6%</> par cumul.",
+		"description": "Setiap tumpuk memberikan Peningkatan DMG Happy Time tambahan sebesar <shuzhi>0,6%</>.",
 		"id": "artifact_adv_044"
 	},
 	"1312": {
-		"description": "111 111",
+		"description": "Membuka Mask of Hunter. Pilih topeng ini saat memakai Triple Mask dan konfirmasikan lagi untuk memakainya. Saat memakai Mask of Hunter, kamu bisa melihat lokasi musuh pencapaian elite di Domain 9 dari peta.",
 		"id": "artifact_adv_045"
 	},
 	"1313": {
-		"description": "111 111",
+		"description": "Saat menggunakan Triple Mask, SPD meningkat <shuzhi>8%</> dan DMG Elemen meningkat <shuzhi>8%</>.",
 		"id": "artifact_adv_045"
 	},
 	"1314": {
-		"description": "111 111",
+		"description": "Membuka Mask of Knowledge. Saat memakai Mask of Knowledge, jika ada Chest yang belum dibuka di sekitarmu, kamu akan mendapatkan pemberitahuan dan dipandu ke lokasi Chest tersebut.",
 		"id": "artifact_adv_045"
 	},
 	"1315": {
@@ -1002,7 +1002,7 @@
 		"id": "artifact_adv_045"
 	},
 	"1316": {
-		"description": "111 111",
+		"description": "Saat menggunakan Triple Mask, DMG Elemen meningkat <shuzhi>8%</> lagi.",
 		"id": "artifact_adv_045"
 	}
 }

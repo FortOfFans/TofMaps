@@ -986,12 +986,15 @@
 		"id": "artifact_adv_044"
 	},
 	"1312": {
+		"description": "Schaltet die Maske des Jägers frei. Wähle und bestätige deine Wahl, um sie zu tragen, während die dreifache Maske in Verwendung ist. Während der Wanderer die Maske des Jägers trägt, sind die Standorte der Elite-Errungenschaft-Gegner in Gebiet 9 auf der Karte sichtbar.",
 		"id": "artifact_adv_045"
 	},
 	"1313": {
+		"description": "Während die dreifache Maske im Einsatz ist, werden die Geschwindigkeit um <shuzhi>8%</> und der Elementarschaden um <shuzhi>8%</> erhöht.",
 		"id": "artifact_adv_045"
 	},
 	"1314": {
+		"description": "Schaltet die Maske des Wissens frei. Befindest du dich in der Nähe einer ungeöffneten Truhe, während du die Maske des Wissens trägst, erhältst du Hinweise und wirst dorthin geführt.",
 		"id": "artifact_adv_045"
 	},
 	"1315": {
@@ -999,6 +1002,7 @@
 		"id": "artifact_adv_045"
 	},
 	"1316": {
+		"description": "Während die dreifache Maske im Einsatz ist, wird der Elementarschaden zusätzlich um <shuzhi>8%</> erhöht.",
 		"id": "artifact_adv_045"
 	}
 }

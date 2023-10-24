@@ -131,9 +131,9 @@
 		"id": "WeaponFragment"
 	},
 	"GenePointAttack": {
-		"name": "Originio (ataque)",
-		"description": "Un misterioso resultado de la investigación sobre la radiación de Omnio que afecta la evolución de las criaturas con un propósito determinado. Tras años de investigación y optimización, ahora se puede usar con seguridad en el cuerpo humano.",
-		"icon": "/Game/Resources/Icon/item/jysicon",
+		"name": "Dominium",
+		"description": "Moneda común y única moneda legal del Dominio 9 emitida por Zhen Gong. Contiene una pequeña cantidad del material utilizado para fabricar marcas de tiempo como medida contra la falsificación.",
+		"icon": "/Game/Resources/Icon/huobi/jiuyu_coin",
 		"id": "GenePointAttack"
 	},
 	"GuildCaption": {

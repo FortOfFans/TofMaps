@@ -3947,7 +3947,7 @@
 	"305603": {
 		"name": "Das Endspiel III",
 		"amount": 1,
-		"description": "Das Endspiel III abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
+		"description": "Das EndspielIII abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -3958,7 +3958,7 @@
 	"305604": {
 		"name": "Das Endspiel IV",
 		"amount": 1,
-		"description": "Das Endspiel IV abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
+		"description": "Das EndspielIV abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4035,7 +4035,7 @@
 	"305703": {
 		"name": "Tal der Traurigkeit III",
 		"amount": 1,
-		"description": "Tal der Traurigkeit III abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
+		"description": "Tal der TraurigkeitIII abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4046,7 +4046,7 @@
 	"305704": {
 		"name": "Tal der Traurigkeit IV",
 		"amount": 1,
-		"description": "Tal der Traurigkeit IV abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
+		"description": "Tal der TraurigkeitIV abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4101,7 +4101,7 @@
 	"305801": {
 		"name": "Karnevalsfeier I",
 		"amount": 1,
-		"description": "Karnevalsfeier I abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt 50%.",
+		"description": "KarnevalsfeierI abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4112,7 +4112,7 @@
 	"305802": {
 		"name": "Karnevalsfeier II",
 		"amount": 1,
-		"description": "Karnevalsfeier II abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt 50%.",
+		"description": "KarnevalsfeierII abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4123,7 +4123,7 @@
 	"305803": {
 		"name": "Karnevalsfeier III",
 		"amount": 1,
-		"description": "Karnevalsfeier III abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt 50%.",
+		"description": "KarnevalsfeierIII abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4134,7 +4134,7 @@
 	"305804": {
 		"name": "Karnevalsfeier IV",
 		"amount": 1,
-		"description": "Karnevalsfeier IV abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt 50%.",
+		"description": "KarnevalsfeierIV abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4189,7 +4189,7 @@
 	"305901": {
 		"name": "Dem Schicksal auf der Spur I",
 		"amount": 1,
-		"description": "Dem Schicksal auf der Spur I abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
+		"description": "Dem Schicksal auf der SpurI abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4200,7 +4200,7 @@
 	"305902": {
 		"name": "Dem Schicksal auf der Spur II",
 		"amount": 1,
-		"description": "Dem Schicksal auf der Spur II abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
+		"description": "Dem Schicksal auf der SpurII abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4211,7 +4211,7 @@
 	"305903": {
 		"name": "Dem Schicksal auf der Spur III",
 		"amount": 1,
-		"description": "Dem Schicksal auf der Spur III abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
+		"description": "Dem Schicksal auf der SpurIII abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4222,7 +4222,7 @@
 	"305904": {
 		"name": "Dem Schicksal auf der Spur IV",
 		"amount": 1,
-		"description": "Dem Schicksal auf der Spur IV abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
+		"description": "Dem Schicksal auf der SpurIV abschließen\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler fallen zu keinem Zeitpunkt unter 50%.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Bündnisse",
@@ -4277,7 +4277,7 @@
 	"306001": {
 		"name": "Kontrollraum der mittleren Ebene – Heldenhaft I",
 		"amount": 1,
-		"description": "Kontrollraum der mittleren Ebene abschließen – Heldenhaft\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler können zu keiner Zeit unter 25% fallen.",
+		"description": "Kontrollraum der mittleren Ebene abschließen– Heldenhaft\r\nZeitlimit: 5Minuten\r\nBedingung: Die LP der Spieler können zu keiner Zeit unter 25% fallen.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Kreuzzug",
@@ -4314,7 +4314,7 @@
 	"306101": {
 		"name": "Zenit der Sinnestäuschung – Heldenhaft I",
 		"amount": 1,
-		"description": "Zenit der Sinnestäuschung abschließen – Heldenhaft\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler können zu keiner Zeit unter 25% fallen.",
+		"description": "Zenit der Sinnestäuschung abschließen– Heldenhaft\r\nZeitlimit: 5Minuten\r\nBedingung: Die LP der Spieler können zu keiner Zeit unter 25% fallen.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Kreuzzug",
@@ -4351,7 +4351,7 @@
 	"306201": {
 		"name": "Zerschlagenes Reich – Heldenhaft I",
 		"amount": 1,
-		"description": "Zerschlagenes Reich abschließen – Heldenhaft\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler können zu keiner Zeit unter 25% fallen.",
+		"description": "Zerschlagenes Reich abschließen– Heldenhaft\r\nZeitlimit: 5Minuten\r\nBedingung: Die LP der Spieler können zu keiner Zeit unter 25% fallen.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Kreuzzug",
@@ -4388,7 +4388,7 @@
 	"306301": {
 		"name": "Kampftestarena – Heldenhaft I",
 		"amount": 1,
-		"description": "Kampftestarena abschließen – Heldenhaft\r\nZeitlimit: 5 Minuten\r\nBedingung: Die LP der Spieler können zu keiner Zeit unter 25% fallen.",
+		"description": "Kampftestarena abschließen– Heldenhaft\r\nZeitlimit: 5Minuten\r\nBedingung: Die LP der Spieler können zu keiner Zeit unter 25% fallen.",
 		"icon": "icon_zhandou_001",
 		"section": "Kampf",
 		"section2": "Kreuzzug",
@@ -4603,7 +4603,7 @@
 	"401016": {
 		"name": "Süßkartoffelmangel",
 		"amount": 25,
-		"description": "Sammle 25 Süßkartoffeln.",
+		"description": "Sammle 25Süßkartoffeln.",
 		"icon": "icon_shenghuo_001",
 		"section": "Leben",
 		"section2": "Pflanze",
@@ -4612,7 +4612,7 @@
 	"401017": {
 		"name": "Reichlich Süßkartoffeln",
 		"amount": 50,
-		"description": "Sammle 50 Süßkartoffeln.",
+		"description": "Sammle 50Süßkartoffeln.",
 		"icon": "icon_shenghuo_001",
 		"section": "Leben",
 		"section2": "Pflanze",
@@ -4622,7 +4622,7 @@
 	"401018": {
 		"name": "Süßkartoffeln im Überfluss",
 		"amount": 100,
-		"description": "Sammle 100 Süßkartoffeln.",
+		"description": "Sammle 100Süßkartoffeln.",
 		"icon": "icon_shenghuo_001",
 		"section": "Leben",
 		"section2": "Pflanze",
@@ -5578,7 +5578,7 @@
 	"402170": {
 		"name": "Drachenhals-Schildkröteneimangel",
 		"amount": 25,
-		"description": "Sammle 25 Drachenhals-Schildkröteneier.",
+		"description": "Sammle 25Drachenhals-Schildkröteneier.",
 		"icon": "icon_shenghuo_001",
 		"section": "Leben",
 		"section2": "Meeresfrüchte",
@@ -5587,7 +5587,7 @@
 	"402171": {
 		"name": "Reichlich Drachenhals-Schildkröteneier",
 		"amount": 50,
-		"description": "Sammle 50 Drachenhals-Schildkröteneier.",
+		"description": "Sammle 50Drachenhals-Schildkröteneier.",
 		"icon": "icon_shenghuo_001",
 		"section": "Leben",
 		"section2": "Meeresfrüchte",
@@ -5597,7 +5597,7 @@
 	"402172": {
 		"name": "Drachenhals-Schildkröteneier im Überfluss",
 		"amount": 100,
-		"description": "Sammle 100 Drachenhals-Schildkröteneier.",
+		"description": "Sammle 100Drachenhals-Schildkröteneier.",
 		"icon": "icon_shenghuo_001",
 		"section": "Leben",
 		"section2": "Meeresfrüchte",
@@ -6062,6 +6062,35 @@
 		"name": "Jadegrün im Überfluss",
 		"amount": 100,
 		"description": "Sammle 100 Jadegrün.",
+		"icon": "icon_shenghuo_001",
+		"section": "Leben",
+		"section2": "Pflanze",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"402221": {
+		"name": "Bambussprossenknappheit",
+		"amount": 25,
+		"description": "Sammle 25 Bambussprossen.",
+		"icon": "icon_shenghuo_001",
+		"section": "Leben",
+		"section2": "Pflanze",
+		"achievementPoints": 5
+	},
+	"402222": {
+		"name": "Bambussprossen in Massen",
+		"amount": 50,
+		"description": "Sammle 50 Bambussprossen.",
+		"icon": "icon_shenghuo_001",
+		"section": "Leben",
+		"section2": "Pflanze",
+		"achievementPoints": 10,
+		"darkCrystals": 5
+	},
+	"402223": {
+		"name": "Bambussprossen im Überfluss",
+		"amount": 100,
+		"description": "Sammle 100 Bambussprossen.",
 		"icon": "icon_shenghuo_001",
 		"section": "Leben",
 		"section2": "Pflanze",
@@ -7682,6 +7711,24 @@
 		"section2": "Mirroria-Sommelier",
 		"achievementPoints": 5
 	},
+	"712317": {
+		"name": "Erstes Getränk: Herz der Nachtigall",
+		"amount": 1,
+		"description": "Getränk 1:\r\nHerz der Nachtigall",
+		"icon": "icon_shenghuo_001",
+		"section": "Leben",
+		"section2": "Mirroria-Sommelier",
+		"achievementPoints": 5
+	},
+	"712318": {
+		"name": "Erstes Getränk: Fremder Freund",
+		"amount": 1,
+		"description": "Getränk 1:\r\nFremder Freund",
+		"icon": "icon_shenghuo_001",
+		"section": "Leben",
+		"section2": "Mirroria-Sommelier",
+		"achievementPoints": 5
+	},
 	"720001": {
 		"name": "Blauer Alpha-Engelfisch",
 		"amount": 1,
@@ -8181,6 +8228,374 @@
 		"xR1a": 5,
 		"xR2": "JiuYu_Gashapon_coin_1",
 		"xR2a": 2
+	},
+	"904000": {
+		"name": "Unermesslichkeit: Bergkamm",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Unermesslichkeit: Bergkamm.\r\nStandort: Oberhalb des Donnerstadt-Passes",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904001": {
+		"name": "Unermesslichkeit: Kristall",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Unermesslichkeit: Kristall.\r\nStandort: Pool unten beim Versteckter-Drachen-Außenposten",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904002": {
+		"name": "Unermesslichkeit: Stoßzahn",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Unermesslichkeit: Stoßzahn.\r\nStandort: Unterste Ebene der Duckender-Tiger-Höhle",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904003": {
+		"name": "Unermesslichkeit: Säule",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Unermesslichkeit: Säule.\r\nStandort: Eingang zum Purpurspitzental",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904004": {
+		"name": "Unermesslichkeit: Helm",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Unermesslichkeit: Helm.\r\nStandort: Im Zentrum der Duckender-Tiger-Höhle",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904005": {
+		"name": "Unermesslichkeit: Grube",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Unermesslichkeit: Grube.\r\nStandort: Im Zentrum der Duckender-Tiger-Höhle",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904006": {
+		"name": "Mandrill: Yutu",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Mandrill: Yutu.\r\nStandort: Unterste Ebene der Drachentorfälle",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904007": {
+		"name": "Mandrill: Zhe Er",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Mandrill: Zhe Er.\r\nStandort: Südlich des Ausguckslagers",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904008": {
+		"name": "Mandrill: Qiongqi",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Mandrill: Qiongqi.\r\nStandort: Obere, nordwestliche Ebene des Donnerstadt-Drachenpools",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904009": {
+		"name": "Erzgeist: Qilin",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Erzgeist: Qilin.\r\nStandort: Westlich des Ausguckslagers",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904010": {
+		"name": "Erzgeist: Ungezähmt",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Erzgeist: Ungezähmt.\r\nStandort: Südöstlich des Jadegartens",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904011": {
+		"name": "Zyklox: Glutbulle",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Zyklox: Glutbulle.\r\nStandort: Westlich des Windreiterlagers",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904012": {
+		"name": "Zyklox: Aschbulle",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Zyklox: Aschbulle.\r\nStandort: Unterhalb der Goldblitz-Sonnenuhr",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904013": {
+		"name": "Zyklox: Funkenbulle",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Zyklox: Funkenbulle.\r\nStandort: Obere Ebene des vergessenen Gartens",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904014": {
+		"name": "Großdiener: Dai Xing",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Großdiener: Dai Xing.\r\nStandort: Schlachtfeld nördlich des Windreiterlagers",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904015": {
+		"name": "Schocker: Schreitend",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Schocker: Schreitend.\r\nStandort: Südlich des Klaren Bambushofs",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904016": {
+		"name": "Flurophantom: Eisenpanzer",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Flurophantom: Eisenpanzer.\r\nStandort: Unterste Ebene der Duckender-Tiger-Höhle",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904017": {
+		"name": "Dunkelheit: Taotie",
+		"amount": 1,
+		"description": "Besiege Dunkelheit: Taotie.\r\nStandort: Duckender-Tiger-Höhle",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Boss",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"904020": {
+		"name": "Erlöser: Richter",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Erlöser: Richter.\r\nStandort: Südlich des Verteilungsaußenpostens.",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904021": {
+		"name": "Dunkelheit: Harte Klaue",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Dunkelheit: Harte Klaue.\r\nStandort: Westlich des Schichtwaldpasses",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904022": {
+		"name": "Pracht: Schattenfuchs",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Pracht: Schattenfuchs.\r\nStandort: Nordöstlich des Tempels des göttlichen Segens.",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904023": {
+		"name": "Einsiedler: Grünhügelfuchs",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Einsiedler: Grünhügelfuchs.\r\nStandort: Westlich des Tempels des göttlichen Segens.",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904024": {
+		"name": "Dunkles Scheusal: Frostkämpfer",
+		"amount": 1,
+		"description": "Erreiche mindestens Dimensionslevel100\r\nBesiege Dunkles Scheusal: Frostkämpfer.\r\nStandort: Haupteingang des Verteilungsaußenpostens.",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Das Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904025": {
+		"name": "Dunkelheit: Xingtian",
+		"amount": 1,
+		"description": "Besiege Dunkelheit: Xingtian\r\nStandort: Verteilungsaußenposten",
+		"icon": "icon_zhandou_001",
+		"section": "Kampf",
+		"section2": "Boss",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"920000": {
+		"name": "Qinglong-Segen I",
+		"amount": 6,
+		"description": "Verbessere zum ersten Mal eine Azurstatue auf St.6.",
+		"icon": "icon_tansuo_001",
+		"section": "Erkundung",
+		"section2": "Göttliche Gestalt",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920001": {
+		"name": "Qinglong-Segen II",
+		"amount": 2,
+		"description": "Verbessere 2 Azurstatuen auf St.6.",
+		"icon": "icon_tansuo_001",
+		"section": "Erkundung",
+		"section2": "Göttliche Gestalt",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920002": {
+		"name": "Qinglong-Segen III",
+		"amount": 3,
+		"description": "Verbessere 3 Azurstatuen auf St.6.",
+		"icon": "icon_tansuo_001",
+		"section": "Erkundung",
+		"section2": "Göttliche Gestalt",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920003": {
+		"name": "Qinglong-Segen IV",
+		"amount": 4,
+		"description": "Verbessere 4 Azurstatuen auf St.6.",
+		"icon": "icon_tansuo_001",
+		"section": "Erkundung",
+		"section2": "Göttliche Gestalt",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920004": {
+		"name": "Qinglong-Segen V",
+		"amount": 5,
+		"description": "Verbessere 5 Azurstatuen auf St.6.",
+		"icon": "icon_tansuo_001",
+		"section": "Erkundung",
+		"section2": "Göttliche Gestalt",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920005": {
+		"name": "Qinglong-Segen VI",
+		"amount": 6,
+		"description": "Verbessere 6 Azurstatuen auf St.6.",
+		"icon": "icon_tansuo_001",
+		"section": "Erkundung",
+		"section2": "Göttliche Gestalt",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920006": {
+		"name": "Qinglong-Segen VII",
+		"amount": 7,
+		"description": "Verbessere 7 Azurstatuen auf St.6.",
+		"icon": "icon_tansuo_001",
+		"section": "Erkundung",
+		"section2": "Göttliche Gestalt",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920014": {
+		"name": "Alabasterführung I",
+		"amount": 6,
+		"description": "Verbessere zum ersten Mal eine Alabasterstatue auf St.6.",
+		"icon": "icon_tansuo_001",
+		"section": "Erkundung",
+		"section2": "Göttliche Gestalt",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920015": {
+		"name": "Alabasterführung II",
+		"amount": 2,
+		"description": "Verbessere 2 Alabasterstatuen auf St.6",
+		"icon": "icon_tansuo_001",
+		"section": "Erkundung",
+		"section2": "Göttliche Gestalt",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920016": {
+		"name": "Alabasterführung III",
+		"amount": 3,
+		"description": "Verbessere 3 Alabasterstatuen auf St.6",
+		"icon": "icon_tansuo_001",
+		"section": "Erkundung",
+		"section2": "Göttliche Gestalt",
+		"achievementPoints": 15,
+		"darkCrystals": 10
 	},
 	"9030001": {
 		"name": "Richter: Crackle",

@@ -175,6 +175,14 @@
 		"sim": "imitation_41",
 		"simLv3": "erjie_imitation_41"
 	},
+	"Linghan_ice": {
+		"name": "Alabaster Tiger",
+		"element": "Ice",
+		"icon": "yizhi_SSR_Linghan_Ice01",
+		"gachaIcon": "UI_SSR_lh_linghan",
+		"sim": "imitation_43",
+		"simLv3": "erjie_imitation_43"
+	},
 	"Suspension_thunder": {
 		"name": "Venus",
 		"element": "Thunder",

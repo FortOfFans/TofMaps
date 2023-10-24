@@ -986,12 +986,15 @@
 		"id": "artifact_adv_044"
 	},
 	"1312": {
+		"description": "Desbloquea la Máscara de Acechante. Se selecciona al usar la Máscara Triple y confirma de nuevo para usarla. Cuando lleves puesta la Máscara de Acechante, podrás ver en el mapa la ubicación de los enemigos de élite con logros en el Dominio 9.",
 		"id": "artifact_adv_045"
 	},
 	"1313": {
+		"description": "Mientras usas la Máscara Triple, aumenta tu velocidad un <shuzhi>8%</> y tu daño elemental un <shuzhi>8%</>.",
 		"id": "artifact_adv_045"
 	},
 	"1314": {
+		"description": "Desbloquea la Máscara del Conocimiento. Mientras lleves puesta la Máscara del Conocimiento, cuando haya un cofre sin abrir cerca, se te indicará y guiará hasta la ubicación del cofre.",
 		"id": "artifact_adv_045"
 	},
 	"1315": {
@@ -999,6 +1002,7 @@
 		"id": "artifact_adv_045"
 	},
 	"1316": {
+		"description": "Mientras usas la Máscara Triple, aumenta tu daño elemental un <shuzhi>8%</> adicional.",
 		"id": "artifact_adv_045"
 	}
 }

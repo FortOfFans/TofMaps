@@ -37,7 +37,7 @@
 		"skills": [
 			{
 				"name": "Flying Kick",
-				"description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>, membuat target terpental cukup jauh ke belakang, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
+				"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK + <shuzhi>{1}</>, memukul mundur target cukup jauh, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
 				"icon": "skill_spear_frontattack",
 				"id": "GA_FPlayerSpearEvade_FrontAttack"
 			},
@@ -113,7 +113,7 @@
 		"skills": [
 			{
 				"name": "Flying Kick",
-				"description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>, membuat target terpental cukup jauh ke belakang, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
+				"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK + <shuzhi>{1}</>, memukul mundur target cukup jauh, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
 				"icon": "skill_spear_frontattack",
 				"id": "GA_FPlayerSpearEvade_FrontAttack"
 			},
@@ -633,7 +633,7 @@
 			},
 			{
 				"name": "Devastate",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>Terpental Ke Atas</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>terpental ke atas</>.",
 				"icon": "skill_bigsword_frontattack",
 				"id": "GA_FPlayerBigSwordEvade_BackAttack"
 			},
@@ -715,7 +715,7 @@
 			},
 			{
 				"name": "Devastate",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>Terpental Ke Atas</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>terpental ke atas</>.",
 				"icon": "skill_bigsword_frontattack",
 				"id": "GA_FPlayerBigSwordEvade_FrontAttack"
 			},
@@ -797,7 +797,7 @@
 			},
 			{
 				"name": "Devastate",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>Terpental Ke Atas</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>terpental ke atas</>.",
 				"icon": "skill_bigsword_frontattack",
 				"id": "GA_FPlayerBigSwordEvade_FrontAttack"
 			},
@@ -993,7 +993,7 @@
 		"skills": [
 			{
 				"name": "Flying Blades",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target <shuzhi>Terpental Ke Atas</> dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Terus tekan tombol untuk melemparkan hingga <shuzhi>6</> Flying Blade lagi, masing-masing menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target <shuzhi>terpental keras</> dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Terus tekan tombol untuk melemparkan hingga <shuzhi>6</> Flying Blade lagi, masing-masing menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.",
 				"icon": "skill_ds_branch",
 				"id": "GA_FPlayerDsEvade_FrontAttack"
 			},
@@ -1063,7 +1063,7 @@
 			},
 			{
 				"name": "Surge",
-				"description": "Tekan tombol Serangan Biasa selama durasi singkat Perfect Dodge Window (tekan tombol panah sebelum menghindar) untuk mengaktifkan Surge.\r\nSetiap Energy Pulse akan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> kepada target.\r\nMemberikan <shuzhi>75</> poin Charge Senjata saat digunakan.",
+				"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Surge.\r\nSetiap Energy Pulse akan menimbulkan DMG sebesar <shuzhi>{0}%</> ATK + <shuzhi>{1}</> kepada target.\r\nMemberikan <shuzhi>75</> poin Charge Senjata saat digunakan.",
 				"icon": "skill_staves_frontattack",
 				"id": "GA_FPlayerStavesEvade_FrontAttack"
 			},
@@ -1133,7 +1133,7 @@
 		"skills": [
 			{
 				"name": "Returning Chainblade",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan menarik musuh di sekitar.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan menarik musuh di sekitar.",
 				"icon": "skill_sickle_branch",
 				"id": "GA_FPlayerSickleEvade_FrontAttack"
 			},
@@ -1299,7 +1299,7 @@
 		"skills": [
 			{
 				"name": "Flying Blades",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target <shuzhi>Terpental Ke Atas</> dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Terus tekan tombol untuk melemparkan hingga <shuzhi>6</> Flying Blade lagi, masing-masing menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target <shuzhi>terpental keras</> dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Terus tekan tombol untuk melemparkan hingga <shuzhi>6</> Flying Blade lagi, masing-masing menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.",
 				"icon": "skill_ds_branch",
 				"id": "GA_FPlayerDsEvade_FrontAttack"
 			},
@@ -1600,7 +1600,7 @@
 		"skills": [
 			{
 				"name": "Flying Blades",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target <shuzhi>Terpental Ke Atas</> dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Terus tekan tombol untuk melemparkan hingga <shuzhi>6</> Flying Blade lagi, masing-masing menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target <shuzhi>terpental keras</> dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Terus tekan tombol untuk melemparkan hingga <shuzhi>6</> Flying Blade lagi, masing-masing menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.",
 				"icon": "skill_ds_branch",
 				"id": "GA_FPlayerDsEvade_FrontAttack"
 			},
@@ -2065,7 +2065,7 @@
 			},
 			{
 				"name": "Snowy Flurry",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk memicu Snowy Flurry, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk memicu Snowy Flurry, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar.",
 				"icon": "skill_iceyoyo_frontattack",
 				"id": "GA_FPlayerYoyoEvadeAttack_ForwardAttack"
 			},
@@ -2379,7 +2379,7 @@
 			},
 			{
 				"name": "Devastate",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>Terpental Ke Atas</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>terpental ke atas</>.",
 				"icon": "skill_bigsword_frontattack",
 				"id": "GA_FPlayerBigSwordEvade_FrontAttack"
 			},
@@ -2483,7 +2483,7 @@
 		"skills": [
 			{
 				"name": "Flying Kick",
-				"description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>, membuat target terpental cukup jauh ke belakang, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
+				"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK + <shuzhi>{1}</>, memukul mundur target cukup jauh, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
 				"icon": "skill_spear_frontattack",
 				"id": "GA_FPlayerSpearEvade_FrontAttack"
 			},
@@ -2505,7 +2505,7 @@
 		"skills": [
 			{
 				"name": "Flying Kick",
-				"description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>, membuat target terpental cukup jauh ke belakang, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
+				"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK + <shuzhi>{1}</>, memukul mundur target cukup jauh, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
 				"icon": "skill_spear_frontattack",
 				"id": "GA_FPlayerSpearEvade_FrontAttack"
 			},
@@ -2697,7 +2697,7 @@
 		"skills": [
 			{
 				"name": "Flying Blades",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target <shuzhi>Terpental Ke Atas</> dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Terus tekan tombol untuk melemparkan hingga <shuzhi>6</> Flying Blade lagi, masing-masing menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target <shuzhi>terpental keras</> dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Terus tekan tombol untuk melemparkan hingga <shuzhi>6</> Flying Blade lagi, masing-masing menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.",
 				"icon": "skill_ds_branch",
 				"id": "GA_FPlayerDsEvade_FrontAttack"
 			},
@@ -2886,7 +2886,7 @@
 		"skills": [
 			{
 				"name": "Fase",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Phase.\r\nTebas target <shuzhi>5</> kali, masing-masing menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Kebal terhadap DMG selama durasi Phase.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Phase.\r\nTebas target <shuzhi>5</> kali, masing-masing menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Kebal terhadap DMG selama durasi Phase.",
 				"icon": "skill_darts_frontattack",
 				"id": "GA_FPlayerDartsEvade_FrontAttack"
 			},
@@ -2962,7 +2962,7 @@
 		"skills": [
 			{
 				"name": "Fase",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Phase.\r\nTebas target <shuzhi>5</> kali, masing-masing menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Kebal terhadap DMG selama durasi Phase.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Phase.\r\nTebas target <shuzhi>5</> kali, masing-masing menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Kebal terhadap DMG selama durasi Phase.",
 				"icon": "skill_darts_frontattack",
 				"id": "GA_FPlayerDartsEvade_FrontAttack"
 			},
@@ -3038,7 +3038,7 @@
 		"skills": [
 			{
 				"name": "Fase",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Phase.\r\nTebas target <shuzhi>5</> kali, masing-masing menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Kebal terhadap DMG selama durasi Phase.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Phase.\r\nTebas target <shuzhi>5</> kali, masing-masing menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Kebal terhadap DMG selama durasi Phase.",
 				"icon": "skill_darts_frontattack",
 				"id": "GA_FPlayerDartsEvade_FrontAttack"
 			},
@@ -3228,7 +3228,7 @@
 		"skills": [
 			{
 				"name": "Returning Chainblade",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan menarik musuh di sekitar.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan menarik musuh di sekitar.",
 				"icon": "skill_sickle_branch",
 				"id": "GA_FPlayerSickleEvade_FrontAttack"
 			},
@@ -3304,7 +3304,7 @@
 		"skills": [
 			{
 				"name": "Returning Chainblade",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan menarik musuh di sekitar.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan menarik musuh di sekitar.",
 				"icon": "skill_sickle_branch",
 				"id": "GA_FPlayerSickleEvade_FrontAttack"
 			},
@@ -3380,7 +3380,7 @@
 		"skills": [
 			{
 				"name": "Returning Chainblade",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan menarik musuh di sekitar.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan menarik musuh di sekitar.",
 				"icon": "skill_sickle_branch",
 				"id": "GA_FPlayerSickleEvade_FrontAttack"
 			},
@@ -3708,7 +3708,7 @@
 			},
 			{
 				"name": "Pursuing Tentacle",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Pursuing Tentacle, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk memicu Pursuing Tentacle, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar.",
 				"icon": "skill_chainsaw_evadeattack",
 				"id": "GA_FPlayerChainsawEvade_EvadeAttackFront"
 			}
@@ -3730,7 +3730,7 @@
 			},
 			{
 				"name": "Pursuing Tentacle",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Pursuing Tentacle, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk memicu Pursuing Tentacle, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar.",
 				"icon": "skill_chainsaw_evadeattack",
 				"id": "GA_FPlayerChainsawEvade_EvadeAttackFront"
 			}
@@ -4034,7 +4034,7 @@
 		"skills": [
 			{
 				"name": "Flying Kick",
-				"description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>, membuat target terpental cukup jauh ke belakang, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
+				"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK + <shuzhi>{1}</>, memukul mundur target cukup jauh, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
 				"icon": "skill_spear_frontattack",
 				"id": "GA_FPlayerSpearEvade_FrontAttackThu_SSR"
 			},
@@ -4190,7 +4190,7 @@
 		"skills": [
 			{
 				"name": "Flying Blades",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nMenebas target <shuzhi>5</> kali, masing-masing menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Selama durasi Phase, menjadi kebal terhadap efek kontrol.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nTebas target <shuzhi>5</> kali, masing-masing menimpakan DMG sebesar <shuzhi>{0}%</> ATK + <shuzhi>{1}</>. Memberikan kekebalan terhadap efek kontrol saat proses phasing.",
 				"icon": "skill_ds_branch",
 				"id": "GA_FPlayerDsEvade_FrontAttackThu_SSR"
 			},
@@ -4242,7 +4242,7 @@
 			},
 			{
 				"name": "Devastate",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>Terpental Ke Atas</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>terpental ke atas</>.",
 				"icon": "skill_bigsword_frontattack",
 				"id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR"
 			},
@@ -4342,7 +4342,7 @@
 		"skills": [
 			{
 				"name": "Returning Chainblade",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan menarik musuh di sekitar.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk melakukan Rapid Lunge.\r\nMenimpakan DMG dengan nominal maksimal sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan menarik musuh di sekitar.",
 				"icon": "skill_sickle_branch",
 				"id": "GA_FPlayerSickleEvade_FrontAttackFire_SSR"
 			},
@@ -4428,7 +4428,7 @@
 			},
 			{
 				"name": "Surge",
-				"description": "Tekan tombol Serangan Biasa selama durasi singkat Perfect Dodge Window (tekan tombol panah sebelum menghindar) untuk mengaktifkan Surge.\r\nSetiap Energy Pulse akan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> kepada target.\r\nMemberikan <shuzhi>75</> poin Charge Senjata saat digunakan.",
+				"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Surge.\r\nSetiap Energy Pulse akan menimbulkan DMG sebesar <shuzhi>{0}%</> ATK + <shuzhi>{1}</> kepada target.\r\nMemberikan <shuzhi>75</> poin Charge Senjata saat digunakan.",
 				"icon": "skill_staves_frontattack",
 				"id": "GA_FPlayerStavesEvade_FrontAttack_SSR"
 			},
@@ -4614,7 +4614,7 @@
 			},
 			{
 				"name": "Devastate",
-				"description": "Tekan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>Terpental Ke Atas</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Devastate.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kena sasaran dan membuat target <shuzhi>terpental ke atas</>.",
 				"icon": "skill_bigsword_frontattack",
 				"id": "GA_FPlayerBigSwordEvade_BackAttack_R"
 			},
@@ -4748,7 +4748,7 @@
 		"skills": [
 			{
 				"name": "Flying Kick",
-				"description": "Tekan tombol Serangan Biasa dalam jangka waktu Perfect Dodge yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>, membuat target terpental cukup jauh ke belakang, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
+				"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar <shuzhi>{0}%</> ATK + <shuzhi>{1}</>, memukul mundur target cukup jauh, dan memberikan efek <shuzhi>Stun</> kepada target selama <shuzhi>1</> detik atau <shuzhi>0,5</> detik kepada Wanderer.",
 				"icon": "skill_spear_frontattack",
 				"id": "GA_FPlayerSpearEvade_FrontAttack_R"
 			},
@@ -4824,7 +4824,7 @@
 		"skills": [
 			{
 				"name": "Flying Blades",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target <shuzhi>Terpental Ke Atas</> dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Terus tekan tombol untuk melemparkan hingga <shuzhi>6</> Flying Blade lagi, masing-masing menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Blades.\r\nSaat serangan kena, membuat target <shuzhi>terpental keras</> dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Terus tekan tombol untuk melemparkan hingga <shuzhi>6</> Flying Blade lagi, masing-masing menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.",
 				"icon": "skill_ds_branch",
 				"id": "GA_FPlayerDsEvade_FrontAttack_R"
 			},
@@ -4876,7 +4876,7 @@
 			},
 			{
 				"name": "Surge",
-				"description": "Tekan tombol Serangan Biasa selama durasi singkat Perfect Dodge Window (tekan tombol panah sebelum menghindar) untuk mengaktifkan Surge.\r\nSetiap Energy Pulse akan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> kepada target.\r\nMemberikan <shuzhi>75</> poin Charge Senjata saat digunakan.",
+				"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Surge.\r\nSetiap Energy Pulse akan menimbulkan DMG sebesar <shuzhi>{0}%</> ATK + <shuzhi>{1}</> kepada target.\r\nMemberikan <shuzhi>75</> poin Charge Senjata saat digunakan.",
 				"icon": "skill_staves_frontattack",
 				"id": "GA_FPlayerStavesEvade_FrontAttack"
 			},
@@ -5404,7 +5404,7 @@
 		"skills": [
 			{
 				"name": "Soaring Dragon",
-				"description": "Saat <red>Charge Senjata</> penuh atau <red>Phantasia</> terpicu, beralih ke Senjata ini akan <shuzhi>melenyapkan semua Debuff dari Wanderer</> dan mengumpulkan Chi. Kemudian, menghantam tanah dan menyebabkan ledakan, yang menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> kepada target di sekitar dan membuat mereka terpental ke atas. Saat diaktifkan, menjadi kebal terhadap DMG selama <shuzhi>1,5</> detik (tak berlaku di Apex League).\r\n<shuzhi>Pasif:</> Saat Phantasia terpicu, jika Azure Dragon sedang terpasang atau jika beralih ke Azure Dragon dari senjata lain, menimpakan DMG sebesar <shuzhi>5.000%</> ATK terhadap target di sekitar. DMG ini tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan. Efek ini hanya dapat dipicu maks 1 kali setiap kali Phantasia terpicu.",
+				"description": "Saat <red>Charge Senjata</> penuh atau <red>Phantasia</> terpicu, beralih ke Senjata ini akan <shuzhi>melenyapkan semua Debuff dari Wanderer</> dan mengumpulkan Chi. Kemudian, menghantam tanah dan menyebabkan ledakan, yang menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> kepada target di sekitar dan membuat mereka terpental ke atas. Saat diaktifkan, menjadi kebal terhadap DMG selama <shuzhi>1,5</> detik (tak berlaku di Apex League).\r\n<shuzhi>Pasif:</> Saat Phantasia terpicu, jika Azure Dragon sedang terpasang atau jika beralih ke Azure Dragon dari senjata lain, menimpakan DMG sebesar <shuzhi>5.000%</> ATK terhadap target di sekitar. DMG ini tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan. Efek ini hanya dapat dipicu maks 1 kali setiap kali Phantasia terpicu.",
 				"icon": "skill_mimi_changeskill",
 				"id": "GA_FPlayerMiMiChangeSkill_Success"
 			}
@@ -5442,13 +5442,13 @@
 			},
 			{
 				"name": "Azure Dragon Pierce the Sun",
-				"description": "Saat di udara, tekan dan tahan Serangan Biasa saat menggunakan Serangan Biasa pertama sampai keempat untuk memicu Azure Dragon Pierce the Sun dan mengonsumsi Stamina.\r\nMenyerang ke depan, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan membuat target terpental ke atas.\r\nSetelah memicu Azure Dragon Pierce the Sun, tekan dan tahan Serangan Biasa untuk memicu Thunder Burst.",
+				"description": "Saat di udara, tekan dan tahan Serangan Biasa saat menggunakan Serangan Biasa pertama sampai keempat untuk memicu Azure Dragon Pierce the Sun dan mengonsumsi Stamina.\r\nMenyerang ke depan, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar dan membuat mereka terpental ke atas.\r\nSetelah memicu Azure Dragon Pierce the Sun, tekan dan tahan Serangan Biasa untuk memicu Thunder Burst.",
 				"icon": "skill_mimi_meleebranch",
 				"id": "GA_FPlayerMiMiMelee_MeleeBranch"
 			},
 			{
 				"name": "Thunder Burst",
-				"description": "Saat di darat, tekan dan tahan Serangan Biasa untuk memicu Thunder Burst.\r\nTerus-menerus menembakkan petir ke target di depan dan mengonsumsi Stamina, dan Wanderer mendapatkan Hyperbody. Setiap serangan yang menghantam lawan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar. Pada saat yang sama, memunculkan <shuzhi>1</> Azura setiap <shuzhi>1,5</> detik, yang menembakkan gelombang yang menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</> kepada target di sekitar.\r\nWanderer mendapatkan <shuzhi>10%</> Perisai HP setiap <shuzhi>1,5</> detik, maks hingga <shuzhi>30%</>, aktif selama <shuzhi>15</> detik.\r\nSetelah mengaktifkan Resonansi Fortitude:\r\nSetiap kali Thunder Burst atau gelombang menghantam lawan, target di sekitar akan terkena efek Taunt yang memaksa mereka untuk menyerang penggunanya selama <shuzhi>2</> detik.\r\nSetiap kali Thunder Burst menghasilkan Perisai, Rekan Tim di sekitar akan menerima Perisai sebesar maks <shuzhi>10%</> Max HP Wanderer.",
+				"description": "Saat di darat, tekan dan tahan Serangan Biasa untuk memicu Thunder Burst.\r\nTerus-menerus menembakkan petir pada target sambil mengonsumsi Stamina, dan Wanderer mendapatkan Hyperbody. Setiap serangan yang menghantam lawan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar. Pada saat yang sama, memunculkan <shuzhi>1</> Azura setiap <shuzhi>1,5</> detik, yang menembakkan gelombang yang menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</> kepada target di sekitar.\r\nWanderer mendapatkan Perisai sebesar <shuzhi>10%</> Max HP setiap <shuzhi>1,5</> detik, bertumpuk maks hingga <shuzhi>15%</> Max HP, aktif selama <shuzhi>15</> detik sejak Perisai yang pertama tercipta.\r\nSetelah mengaktifkan Resonansi Fortitude:\r\nSetiap kali gelombang Thunder Burst menghantam lawan, target di sekitar akan terkena efek Taunt yang memaksa mereka untuk menyerang penggunanya selama <shuzhi>2</> detik.\r\nSetiap kali Thunder Burst menghasilkan Perisai, Rekan Tim di sekitar akan menerima Perisai sebesar maks <shuzhi>10%</> Max HP Wanderer.",
 				"icon": "skill_mimi_powerattack",
 				"id": "GA_FPlayerMiMiMelee_PowerAttack"
 			},
@@ -5470,7 +5470,7 @@
 		"skills": [
 			{
 				"name": "Azure Moon",
-				"description": "Azure Dragon terbang ke langit. Selama durasi ini, Wanderer mendapatkan Hyperbody dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> terhadap target di sekitar. Azure Dragon akan berputar selama <shuzhi>8</> detik. Selama durasi ini, terus-menerus mengonsumsi Qinglong Might dan memunculkan hingga <shuzhi>8</> Lightning Strike. Setiap Lightning Strike menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</> terhadap target di sekitar, dan saat Azure Dragon menghilang, menimpakan DMG lagi sebesar <shuzhi>{4}%</> ATK plus <shuzhi>{5}</> terhadap target di sekitar. CD: <shuzhi>30</> detik, dan CD ini tidak dapat dikurangi hingga kurang dari <shuzhi>20</> detik. Azure Moon dapat diakumulasikan hingga <shuzhi>2</> tumpuk penggunaan skill.\r\n<shuzhi>Pasif:</> Saat <shuzhi>3</> Senjata Volt terpasang, setelah Azure Moon menghantam lawan, menimpakan DMG Skill sebesar <shuzhi>250%</> ATK terhadap target setiap <shuzhi>2</> detik selama <shuzhi>30</> detik.",
+				"description": "Azure Dragon terbang ke langit. Selama durasi ini, Wanderer mendapatkan Hyperbody dan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> terhadap target di sekitar. Azure Dragon akan berputar selama <shuzhi>8</> detik. Selama durasi ini, terus-menerus mengonsumsi Qinglong Might dan memunculkan hingga <shuzhi>8</> Lightning Strike. Setiap Lightning Strike menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</> terhadap target di sekitar, dan saat Azure Dragon menghilang, menimpakan DMG lagi sebesar <shuzhi>{4}%</> ATK plus <shuzhi>{5}</> terhadap target di sekitar.\r\nCD: <shuzhi>30</> detik, dan CD ini tidak dapat dikurangi hingga kurang dari <shuzhi>20</> detik. Azure Moon dapat diakumulasikan hingga <shuzhi>2</> tumpuk penggunaan skill.\r\n<shuzhi>Pasif:</> Saat <shuzhi>3</> Senjata Volt terpasang, setelah Azure Moon menghantam lawan, menimpakan DMG Skill sebesar <shuzhi>250%</> ATK terhadap target setiap <shuzhi>2</> detik selama <shuzhi>30</> detik.",
 				"icon": "skill_mimi_skill",
 				"id": "GA_FPlayerMiMiSkill_Skill"
 			}
@@ -5745,7 +5745,9 @@
 	"GA_FPlayerLinghanChangeSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_changeskill",
+				"name": "Sword Art: Icy Beckon",
+				"description": "Saat <red>Charge Senjata</> penuh atau <red>Phantasia</> terpicu, beralih ke senjata ini akan <shuzhi>melenyapkan semua Debuff dari Wanderer</>, dan memanggil Sword Array yang menyelimuti area dengan aura dingin di sekitar Wanderer, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar. Setelah itu, memanggil White Tiger yang menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>, dan menjadi kebal terhadap DMG selama <shuzhi>1,5</> detik (tak berlaku di Apex League).\r\n<shuzhi>Pasif</>: Setelah Sword Art: Icy Beckon menghantam musuh, Final DMG meningkat <shuzhi>8%</> selama <shuzhi>30</> detik.",
+				"icon": "skill_linghan_changeskill",
 				"id": "GA_FPlayerLinghanChangeSkill_Success"
 			}
 		]
@@ -5753,15 +5755,21 @@
 	"GA_FPlayerLinghanEvade": {
 		"skills": [
 			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, memperlambat target di dalam area tersebut. Saat menghindar, menjadi kebal terhadap Hitstun.",
 				"icon": "common_evade",
 				"id": "GA_FPlayerLinghanEvade_Evade"
 			},
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "Sword Art: Cloud Shower",
+				"description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar Sempurna (tekan tombol arah sebelum menghindar) untuk memicu Sword Art: Cloud Shower, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target yang terkena serangan.",
+				"icon": "skill_linghan_fevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
 			},
 			{
-				"icon": "skill_zeke_bevadeattack",
+				"name": "Sword Art: Mortal Soul",
+				"description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk mengaktifkan Sword Art: Mortal Soul. Melepaskan ilusi White Tiger yang menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di depan.",
+				"icon": "skill_linghan_bevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
 			}
 		]
@@ -5769,27 +5777,43 @@
 	"GA_FPlayerLinghanMelee": {
 		"skills": [
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "Sword Art: Mooncutter",
+				"description": "Saat di darat, gunakan serangan biasa untuk melancarkan 6 serangan berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</> dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar <shuzhi>{4}%</> ATK plus <shuzhi>{5}</> dan memukul mundur target.\r\nSerangan Keempat: Menimpakan DMG sebesar <shuzhi>{6}%</> ATK plus <shuzhi>{7}</> dan memukul mundur target.\r\nSerangan Kelima: Menimpakan DMG sebesar <shuzhi>{8}%</> ATK plus <shuzhi>{9}</> dan menarik musuh ke hadapan Wanderer.\r\nSerangan Keenam: Menimpakan DMG sebesar <shuzhi>{10}%</> ATK plus <shuzhi>{11}</> dan membuat target terpental.\r\nSetelah mengaktifkan Sword Art: Mooncutter, tekan dan tahan Serangan Biasa untuk memicu <shuzhi>Sword Art: Endless Snow</>.\r\n\r\nSetelah Serangan Biasa menggunakan <shuzhi>Alabaster Tiger</> berhasil menghantam musuh, menerapkan <shuzhi>1</> tumpuk <shuzhi>Crystalline Crack</> pada target, menimpakan DMG Serangan Biasa sebesar <shuzhi>{12}%</> ATK setiap detik selama <shuzhi>15</> detik. Kamu hanya bisa menerapkan <shuzhi>1</> tumpuk Crystalline Crack pada target yang sama setiap <shuzhi>4</> detik, maks <shuzhi>3</> tumpuk. Tumpukan akan menghilang satu per satu setelah durasi efek berakhir.",
+				"icon": "skill_linghan_melee",
 				"id": "GA_FPlayerLinghanMelee_Melee"
 			},
 			{
-				"icon": "skill_zeke_airattack",
+				"name": "Sword Art: Plum Swordcry",
+				"description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 6 kali berturut-turut sambil mengonsumsi Stamina.\r\nSerangan Pertama: Menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>.\r\nSerangan Kedua: Menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</>.\r\nSerangan Ketiga: Menimpakan DMG sebesar <shuzhi>{4}%</> ATK plus <shuzhi>{5}</>.\r\nSerangan Keempat: Menimpakan DMG sebesar <shuzhi>{6}%</> ATK plus <shuzhi>{7}</>.\r\nSerangan Kelima: Menimpakan DMG sebesar <shuzhi>{8}%</> ATK plus <shuzhi>{9}</>.\r\nSerangan Keenam: Menimpakan DMG sebesar <shuzhi>{10}%</> ATK plus <shuzhi>{11}</>.",
+				"icon": "skill_linghan_airattack",
 				"id": "GA_FPlayerLinghanMelee_AirAttack"
 			},
 			{
-				"icon": "skill_zeke_branch",
+				"name": "Sword Art: Endless Snow",
+				"description": "Saat melakukan Serangan Biasa di darat, tahan Serangan Biasa untuk mengaktifkan Sword Art: Endless Snow.\r\nMenggunakan kendali pikiran untuk memanipulasi pedang sambil mengonsumsi Stamina, dan Wanderer akan mendapatkan Hyperbody. Setiap serangan yang berhasil didaratkan akan menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> pada target di sekitar.\r\nSaat Sword Art: Endless Snow berakhir, melepaskan Sword Aura yang kuat, menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</> pada target di sekitar.",
+				"icon": "skill_linghan_powerattack",
 				"id": "GA_FPlayerLinghanMelee_PowerAttack"
 			},
 			{
-				"icon": "skill_zeke_jumpattack",
+				"name": "Sword Art: Falling Frost",
+				"description": "Saat di udara, tekan dan tahan Serangan Biasa (tekan saat ada musuh yang bisa ditarget), atau tekan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Sword Art: Falling Frost.\r\nSambil menukik ke bawah, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> setiap kali mendaratkan serangan pada target. Saat mendarat, menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</> pada target di sekitar.",
+				"icon": "skill_linghan_jumpattack",
 				"id": "GA_FPlayerLinghanMelee_JumpAttack"
+			},
+			{
+				"name": "Light Step",
+				"description": "Saat Wanderer berada di udara setelah menggunakan Double Jump, tekan lompat untuk memicu Light Step. Lari ke atas dalam waktu singkat sebelum meluncur secara terus-menerus. Saat di udara, Light Step dapat digunakan hingga <shuzhi>2</> kali.\r\nSaat di darat, Light Step memulihkan <shuzhi>1</> jatah penggunaan setiap <shuzhi>10</> detik (berpindah area, berganti senjata, atau melepaskan <shuzhi>Alabaster Tiger</> akan mereset jatah penggunaan).",
+				"icon": "skill_linghan_qinggong",
+				"id": "GA_FPlayerLinghanMelee_QingGong"
 			}
 		]
 	},
 	"GA_FPlayerLinghanSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_skill",
+				"name": "Sword Art: Shadowy Ice",
+				"description": "Menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> ke target di sekitar dan menarik mereka. Kemudian, membentuk Sword Array untuk memunculkan hujan pedang yang deras dan <shuzhi>membekukan</> target (tidak tersedia di Apex League dan saat melawan Boss) selama <shuzhi>4</> detik. CD: <shuzhi>30</> detik.\r\nSetelah berhasil menggunakan Sword Art: Shadowy Ice, Wanderer akan memancarkan <shuzhi>Cold Air</>, menimpakan DMG sebesar <shuzhi>{4}%</> ATK ke target di sekitar setiap detik dan mengurangi kecepatan target sebesar <shuzhi>30%</> (tidak berlaku di Apex League dan saat melawan Boss).\r\nSetelah melancarkan Sword Art: Shadowy Ice secara lengkap, Wanderer menciptakan <shuzhi>Frost Blade</> dalam jumlah besar, menembakkan <shuzhi>1</> bilah setiap <shuzhi>7,5</> detik ke target yang sedang terbidik, menimpakan DMG sebesar <shuzhi>{5}%</> ATK dan menerapkan efek <shuzhi>Temperature Reduction</> pada target. Pada awalnya, maks ada <shuzhi>3</> <shuzhi>Frost Blade</> yang tercipta, dan semua bilah akan hilang saat tidak dalam kondisi tempur.\r\n<shuzhi>Temperature Reduction</>: Menimpakan DMG sebesar <shuzhi>{6}%</> ATK setiap <shuzhi>3</> detik ke target di sekitar selama <shuzhi>12</> detik.",
+				"icon": "skill_linghan_skill",
 				"id": "GA_FPlayerLinghanSkill_Skill"
 			}
 		]
@@ -5851,7 +5875,7 @@
 			},
 			{
 				"name": "Parallel Beams",
-				"description": "Tekan Serangan Biasa selama durasi singkat Menghindar Sempurna (tekan tombol arah sebelum menghindar) untuk mengaktifkan Parallel Beam.\r\nVenus menembakkan sepasang sinar energi paralel yang menimpakan DMG menembus sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>.\r\nMenghindar akan mengaktifkan Healing Chain yang menyembuhkan kawan di sekitar sebesar <shuzhi>67,7%</> ATK Wanderer. Selama <shuzhi>10</> detik berikutnya, sebuah Healing Chain kecil akan diaktifkan setiap <shuzhi>2</> detik, yang akan menyembuhkan kawan di sekitar sebesar <shuzhi>22,5%</> ATK Wanderer. Menghindar akan memberikan <shuzhi>1</> tumpuk Healing Chain Enhance, yang meningkatkan efek Healing Chain sebesar <shuzhi>25%</> (bisa bertumpuk <shuzhi>5</> kali) dan aktif selama <shuzhi>30</> detik. Jika beralih senjata, efek ini tidak akan dibatalkan.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Parallel Beam.\r\nVenus menembakkan sepasang sinar energi paralel yang menimpakan DMG menembus sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>.\r\nMenghindar akan mengaktifkan Healing Chain yang menyembuhkan kawan di sekitar sebesar <shuzhi>67,7%</> ATK Wanderer. Selama <shuzhi>10</> detik berikutnya, sebuah Healing Chain kecil akan diaktifkan setiap <shuzhi>2</> detik, yang akan menyembuhkan kawan di sekitar sebesar <shuzhi>22,5%</> ATK Wanderer. Menghindar akan memberikan <shuzhi>1</> tumpuk Healing Chain Enhance, yang meningkatkan efek Healing Chain sebesar <shuzhi>25%</> (bisa bertumpuk <shuzhi>5</> kali) dan aktif selama <shuzhi>30</> detik. Jika beralih senjata, efek ini tidak akan dibatalkan.",
 				"icon": "skill_suspension_rollattack",
 				"id": "GA_FPlayerSuspensionEvade_RollAttack"
 			}
@@ -6199,7 +6223,7 @@
 		"skills": [
 			{
 				"name": "Unparalleled Jade Pool",
-				"description": "Lorsque la <red>recharge d'arme est pleine</> ou que <red>Fantaisie</> est déclenchée, <shuzhi>élimine toutes les altérations sur l'Explorateur</> au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</>. Durant cette période, accorde une immunité aux dégâts pendant <shuzhi>1,5</> seconde (non disponible en Ligue ultime).",
+				"description": "Saat <red>Charge Senjata</> penuh atau <red>Phantasia</> terpicu, beralih ke Senjata ini akan <shuzhi>melenyapkan semua Debuff dari Wanderer</>, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>. Selama durasi ini, kebal terhadap DMG selama <shuzhi>2,6</> detik (tak berlaku di Apex League).",
 				"icon": "feise_changeskill",
 				"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 			}
@@ -6215,7 +6239,7 @@
 			},
 			{
 				"name": "Scatter",
-				"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez sur un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.\r\n\r\nPendant le <shuzhi>Mirage fantastique</> de <shuzhi>Tourbillon</>, lorsque la première attaque d'esquive infligée avec n'importe quelle arme touche sa cible, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n<shuzhi>Fantaisie de Fei Se</> : À sa création, la Fantaisie de Fei Se copie <shuzhi>25%</> de l'ATQ max de la cible et les ajoute à l'<shuzhi>ATQ de feu de base</> de l'Explorateur (pas moins de <shuzhi>3 300</> et pas plus de <shuzhi>3 450</> ; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'<shuzhi>une</> Fantaisie de Fei Se à la fois.\r\n<shuzhi>Pétale de lotus</> : À leur création, les Pétales de lotus sont égaux au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après leur création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flower Scatter, menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> kepada target di sekitar.\r\n\r\nSaat <shuzhi>Mirage Fantasy</> yang diciptakan oleh <shuzhi>Whirling</>, setelah Serangan Menghindar yang dilancarkan pertama kali menggunakan senjata apa saja mengenai target, Flower Graft akan terpicu, memunculkan Fei Se Phantasia dan Lotus Petal.\r\n<shuzhi>Fei Se Phantasia</>: Saat diciptakan, Fei Se Phantasia menyalin <shuzhi>25%</> Max ATK untuk dikonversi menjadi <shuzhi>ATK Flame dasar</> Wanderer (minimal <shuzhi>6.500</> dan maksimal <shuzhi>10.000</>; Flame ATK ini tidak akan ditampilkan di stat Wanderer dan tidak tersedia di Apex League) hingga Fei Se Phantasia hilang. Efek ini dihitung secara terpisah untuk setiap Fei Se Phantasia. Dalam satu waktu, hanya ada <shuzhi>1</> Fei Se Phantasia yang bisa dimunculkan.\r\n<shuzhi>Lotus Petal</>: Saat diciptakan, jumlah Lotus Petal sama dengan jumlah Summon yang diciptakan oleh senjata Wanderer selain Endless Bloom. Setelah diciptakan, jumlah Lotus Petal tidak akan berubah mengikuti jumlah Summon. Lotus Petal dianggap sebagai Summon.",
 				"icon": "feise_evadefront",
 				"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 			},
@@ -6231,7 +6255,7 @@
 		"skills": [
 			{
 				"name": "Maneuver",
-				"description": "Saat di darat, gunakan serangan biasa untuk memicu 6 serangan berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</> dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar <shuzhi>{4}%</> ATK plus <shuzhi>{5}</> dan menjatuhkan target.\r\nSerangan Keempat: Menimpakan DMG sebesar <shuzhi>{6}%</> ATK plus <shuzhi>{7}</> dan membuat target terpental ke atas.\r\nSerangan Kelima: Menimpakan DMG sebesar <shuzhi>{8}%</> ATK plus <shuzhi>{9}</> dan menjatuhkan target.\r\nSerangan Keenam: Menimpakan DMG sebesar <shuzhi>{10}%</> ATK plus <shuzhi>{11}</> dan menarik target.",
+				"description": "Saat di darat, gunakan serangan biasa untuk melancarkan 6 serangan berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}</> dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar <shuzhi>{4}%</> ATK plus <shuzhi>{5}</> dan menjatuhkan target.\r\nSerangan Keempat: Menimpakan DMG sebesar <shuzhi>{6}%</> ATK plus <shuzhi>{7}</> dan membuat target terpental ke atas.\r\nSerangan Kelima: Menimpakan DMG sebesar <shuzhi>{8}%</> ATK plus <shuzhi>{9}</> dan menjatuhkan target.\r\nSerangan Keenam: Menimpakan DMG sebesar <shuzhi>{10}%</> ATK plus <shuzhi>{11}</> dan menarik target.",
 				"icon": "feise_melee",
 				"id": "GA_FPlayerFeiseMelee_Melee"
 			},
@@ -6271,7 +6295,7 @@
 		"skills": [
 			{
 				"name": "Whirling",
-				"description": "Inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches et crée un Mirage fantastique, d'une durée maximale de <shuzhi>25</> secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de <shuzhi>20</> secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage :\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à <shuzhi>{2}%</> de l'ATQ aux cibles dans le Mirage. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les <shuzhi>5</> secondes, inflige Cœur flamboyant aux cibles dans le Mirage, leur infligeant des dégâts de brûlure équivalant à <shuzhi>{3}%</> de l'ATQ pendant <shuzhi>5</> secondes. Pour <shuzhi>chaque</> <shuzhi>Fantaisie de Fei Se</> ou <shuzhi>Pétale de lotus</> créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de <shuzhi>6%</> supplémentaires.",
+				"description": "Menimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> kepada target di sekitar dan menciptakan Mirage Fantasy yang aktif selama <shuzhi>25</> detik.\r\nSaat Whirling sedang CD, mendapatkan skill baru, Lissom. Lissom bisa digunakan setelah Mirage aktif selama <shuzhi>20</> detik.\r\nSetelah Mirage hilang, CD Whirling akan langsung direset. Efek ini tidak terpengaruh oleh efek lain yang menghapus, mereset, atau mengubah CD.\r\n\r\nSaat Mirage:\r\nSetiap detik, menimpakan DMG Soulwear sebesar <shuzhi>{2}%</> ATK. DMG Soulwear dihitung sebagai DMG Serangan Biasa.\r\nSetiap <shuzhi>5</> detik, menimpakan Blazing Heart pada target dalam jangkauan, menerapkan DMG Burn sebesar <shuzhi>{3}%</> ATK selama <shuzhi>5</> detik. Untuk setiap <shuzhi>1</> <shuzhi>Fei Se Phantasia</> atau <shuzhi>Lotus Petal</> yang dimunculkan oleh Wanderer di dalam Mirage, DMG Blazing Heart meningkat <shuzhi>15%</> lagi.",
 				"icon": "feise_skill1",
 				"id": "GA_FPlayerFeiseSkill_Skill1"
 			},
@@ -6391,7 +6415,7 @@
 			},
 			{
 				"name": "Rising Cut",
-				"description": "Tekan Serangan Biasa dalam rentang waktu Dodge Sempurna yang singkat (tekan tombol arah sebelum menghindar) untuk mengaktifkan Rising Cut.\r\nMenimpakan DMG sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</> kepada target yang sedang terpental ke atas.",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sambil menghindar) untuk mengaktifkan Rising Cut.\r\nTimpakan DMG kepada target yang terpental ke atas sebesar <shuzhi>{0}%</> ATK plus <shuzhi>{1}</>.",
 				"icon": "skill_frigg_rollattack",
 				"id": "GA_FPlayerFriggEvade_RollAttack"
 			}

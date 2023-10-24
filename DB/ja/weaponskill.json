@@ -5404,7 +5404,7 @@
 		"skills": [
 			{
 				"name": "飛龍在天",
-				"description": "<red>武器エナジー値がMAX</>の時または<red>幻想タイム</>発動時、他の武器からこの武器に変更すると、<shuzhi>自身のステータス異常を解消</>する。集めた雷の気を地面へと叩きつけて爆発を起こし、付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与えて浮遊させる。また、このスキルの発動時にダメージを無効化する。無効化は<shuzhi>1.5</>秒間持続。\r\n<shuzhi>パッシブ：</>幻想タイム発動時に孟章を使用、または他の武器から孟章に変更すると、付近のターゲットに攻撃力×<shuzhi>5000%</>のダメージを与える。このダメージはダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、幻想タイムの発動ごとに1回のみ発動。",
+				"description": "<red>武器エナジー値がMAX</>の時または<red>幻想タイム</>発動時、他の武器からこの武器に変更すると、<shuzhi>自身のステータス異常を解消</>する。集めた雷の気を地面へと叩きつけて爆発を起こし、付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与えて浮遊させる。また、このスキルの発動時にダメージを無効化する。無効化は<shuzhi>1.5</>秒間持続(トップリーグでは無効)。\r\n<shuzhi>パッシブ：</>幻想タイム発動時に孟章を使用、または他の武器から孟章に変更すると、付近のターゲットに攻撃力×<shuzhi>5000%</>のダメージを与える。このダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、幻想タイムの発動ごとに1回のみ発動。",
 				"icon": "skill_mimi_changeskill",
 				"id": "GA_FPlayerMiMiChangeSkill_Success"
 			}
@@ -5430,7 +5430,7 @@
 		"skills": [
 			{
 				"name": "跳玉震撼",
-				"description": "地上にいる時、通常攻撃を行うと5回連続攻撃できる。ターゲットに与える合計ダメージは次の通り。\r\n1回目：攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>\r\n2回目：攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>\r\n3回目：攻撃力×<shuzhi>{4}%</>+<shuzhi>{5}</>\r\n4回目：攻撃力×<shuzhi>{6}%</>+<shuzhi>{7}</>\r\n5回目：攻撃力×<shuzhi>{8}%</>+<shuzhi>{9}</>",
+				"description": "地上にいる時、通常攻撃を行うと5回連続攻撃できる。ターゲットに与えるダメージは次の通り。\r\n1回目：攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>\r\n2回目：攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>\r\n3回目：攻撃力×<shuzhi>{4}%</>+<shuzhi>{5}</>\r\n4回目：攻撃力×<shuzhi>{6}%</>+<shuzhi>{7}</>\r\n5回目：攻撃力×<shuzhi>{8}%</>+<shuzhi>{9}</>",
 				"icon": "skill_mimi_melee",
 				"id": "GA_FPlayerMiMiMelee_Melee"
 			},
@@ -5448,7 +5448,7 @@
 			},
 			{
 				"name": "雷爆",
-				"description": "地上にいる時、通常攻撃を長押しすると雷爆を発動できる。\r\nスタミナを消費しながらターゲットに向かって雷電を発射しつづけ、この間、自身は不屈効果を獲得する。付近のターゲットに雷電が1発命中するごとに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。また、<shuzhi>1.5</>秒ごとに小青龍を<shuzhi>1</>体召喚する。小青龍は付近のターゲットに向かって衝撃波を放ち、ターゲットに攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージを与える。\r\n自身は<shuzhi>1.5</>秒ごとに最大HP×<shuzhi>10%</>のシールドを獲得する。獲得可能なシールドは最大で最大HP×<shuzhi>30%</>まで。<shuzhi>15</>秒間持続。\r\n剛毅共鳴中の効果：\r\n雷爆による衝撃波が命中するごとに付近のターゲットを挑発する。<shuzhi>2</>秒間持続。\r\n雷爆によるシールドを獲得するたびに、付近にいる味方ユニットは最大で雷爆を発動したプレイヤーの最大HP×<shuzhi>10%</>のシールドを獲得する。",
+				"description": "地上にいる時、通常攻撃を長押しすると雷爆を発動できる。\r\nスタミナを消費しながらターゲットに向かって雷電を発射しつづけ、この間、自身は不屈効果を獲得する。付近のターゲットに雷電が1発命中するごとに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。また、<shuzhi>1.5</>秒ごとに小青龍を<shuzhi>1</>体召喚する。小青龍は付近のターゲットに向かって衝撃波を放ち、ターゲットに攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージを与える。\r\n自身は<shuzhi>1.5</>秒ごとに最大HP×<shuzhi>10%</>のシールドを獲得する。獲得可能なシールドは最大で最大HP×<shuzhi>15%</>まで。<shuzhi>15</>秒間持続。\r\n剛毅共鳴中の効果：\r\n小青龍による衝撃波が命中するごとに付近のターゲットを挑発する。<shuzhi>2</>秒間持続。\r\n雷爆によるシールドを獲得するたびに、付近にいる味方ユニットは最大で雷爆を発動したプレイヤーの最大HP×<shuzhi>10%</>のシールドを獲得する。",
 				"icon": "skill_mimi_powerattack",
 				"id": "GA_FPlayerMiMiMelee_PowerAttack"
 			},
@@ -5745,7 +5745,9 @@
 	"GA_FPlayerLinghanChangeSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_changeskill",
+				"name": "剣訣・氷帰嘯",
+				"description": "<red>武器エナジー値がMAX</>の時または<red>幻想タイム</>発動時、他の武器からこの武器に変更すると<shuzhi>自身のステータス異常を解消</>し、剣の陣を召喚して周囲を冷気で覆いつくす。付近のターゲットに最大で攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与えたあと、白虎を召喚し攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージを与える。この間、被ダメージ無効が<shuzhi>1.5</>秒間持続する(トップリーグでは無効)。\r\n<shuzhi>パッシブ</>：剣訣・氷帰嘯が命中すると、最終ダメージ+<shuzhi>8%</>、<shuzhi>30</>秒間持続。",
+				"icon": "skill_linghan_changeskill",
 				"id": "GA_FPlayerLinghanChangeSkill_Success"
 			}
 		]
@@ -5753,15 +5755,21 @@
 	"GA_FPlayerLinghanEvade": {
 		"skills": [
 			{
+				"name": "回避",
+				"description": "ジャスト回避を成功させると幻想タイムが発動し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直効果を無効化する。",
 				"icon": "common_evade",
 				"id": "GA_FPlayerLinghanEvade_Evade"
 			},
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "剣訣・瀑流雲",
+				"description": "前方回避(方向キー+回避ボタン)を発動してすぐに通常攻撃を行うと、剣訣・瀑流雲が発動する。攻撃が命中したターゲットに対し最大で攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。",
+				"icon": "skill_linghan_fevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
 			},
 			{
-				"icon": "skill_zeke_bevadeattack",
+				"name": "剣訣・魄千尋",
+				"description": "回避後すぐに通常攻撃を行うと、剣訣・魄千尋を発動する。白虎の幻影を放ち、前方のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。",
+				"icon": "skill_linghan_bevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
 			}
 		]
@@ -5769,27 +5777,43 @@
 	"GA_FPlayerLinghanMelee": {
 		"skills": [
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "剣訣・剣斬月",
+				"description": "地上にいる時、通常攻撃を行うと6回連続攻撃できる。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージとノックバック\r\n2回目：攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージとノックバック\r\n3回目：攻撃力×<shuzhi>{4}%</>+<shuzhi>{5}</>のダメージとノックバック\r\n4回目：攻撃力×<shuzhi>{6}%</>+<shuzhi>{7}</>のダメージとノックバック\r\n5回目：攻撃力×<shuzhi>{8}%</>+<shuzhi>{9}</>のダメージと前方にモンスターの引き寄せ\r\n6回目：攻撃力×<shuzhi>{10}%</>+<shuzhi>{11}</>のダメージとノックアップ\r\n剣訣・剣斬月の発動後、通常攻撃を長押しすると<shuzhi>剣訣・雪連天</>を発動できる。\r\n\r\n<shuzhi>監兵</>を使った任意の通常攻撃がターゲットに命中すると<shuzhi>晶裂</>状態を<shuzhi>1</>スタック付与し、攻撃力×<shuzhi>{12}%</>の通常攻撃ダメージを毎秒与える。<shuzhi>15</>秒間持続。晶裂は同一のターゲットに対し<shuzhi>4</>秒ごとに<shuzhi>1</>スタック付与でき、最大<shuzhi>3</>スタックまで累積可能。持続時間が切れたスタックから順番に消失する。",
+				"icon": "skill_linghan_melee",
 				"id": "GA_FPlayerLinghanMelee_Melee"
 			},
 			{
-				"icon": "skill_zeke_airattack",
+				"name": "剣訣・梅剣鳴",
+				"description": "滞空時に通常攻撃を行うと、スタミナを消費して空中で6回連続攻撃ができる。ダメージは次の通り。\r\n1回目：攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>\r\n2回目：攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>\r\n3回目：攻撃力×<shuzhi>{4}%</>+<shuzhi>{5}</>\r\n4回目：攻撃力×<shuzhi>{6}%</>+<shuzhi>{7}</>\r\n5回目：攻撃力×<shuzhi>{8}%</>+<shuzhi>{9}</>\r\n6回目：攻撃力×<shuzhi>{10}%</>+<shuzhi>{11}</>",
+				"icon": "skill_linghan_airattack",
 				"id": "GA_FPlayerLinghanMelee_AirAttack"
 			},
 			{
-				"icon": "skill_zeke_branch",
+				"name": "剣訣・雪連天",
+				"description": "地上での通常攻撃時、通常攻撃を長押しすると剣訣・雪連天を発動する。\r\n剣を操り、スタミナを消費することで自身は不屈効果を獲得し、さらに付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。\r\n剣訣・雪連天の発動終了時に強力な剣気を放ち、命中した付近のターゲットに攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージを与える。",
+				"icon": "skill_linghan_powerattack",
 				"id": "GA_FPlayerLinghanMelee_PowerAttack"
 			},
 			{
-				"icon": "skill_zeke_jumpattack",
+				"name": "剣訣・雪華落",
+				"description": "滞空時に通常攻撃を長押し(敵の存在時)、またはクライミング時/反転ジャンプ攻撃時/ジェットパック使用時に通常攻撃を行うと、剣訣・雪華落を発動する。\r\n 落下中、ターゲットに命中するごとに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。着地時に付近のターゲットに攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージを与える。",
+				"icon": "skill_linghan_jumpattack",
 				"id": "GA_FPlayerLinghanMelee_JumpAttack"
+			},
+			{
+				"name": "飛舞落",
+				"description": "プレイヤーが2段ジャンプ後の滞空時にジャンプを行うと飛舞落を発動でき、上空に短くダッシュしたあと滑空しつづける。飛舞落は滞空時に最大<shuzhi>2</>回まで使用できる。\r\n地上にいる時、飛舞落の使用回数が<shuzhi>10</>秒ごとに<shuzhi>1</>回復する(エリア変更、または<shuzhi>監兵</>を装備から外すと使用回数はリセットされる)。",
+				"icon": "skill_linghan_qinggong",
+				"id": "GA_FPlayerLinghanMelee_QingGong"
 			}
 		]
 	},
 	"GA_FPlayerLinghanSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_skill",
+				"name": "剣訣・凌玄影",
+				"description": "付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与えて引き寄せ、その後、召喚した剣の陣で大量の剣の雨を降らせてターゲットに<shuzhi>強制凍結</>効果を与える(トップリーグ及びボスには無効)。<shuzhi>4</>秒間持続、クールダウン<shuzhi>30</>秒。\r\n剣訣・凌玄影の発動に成功すると自身は<shuzhi>氷気</>を放つ。付近のターゲットに毎秒攻撃力×<shuzhi>{4}%</>のダメージと移動速度-<shuzhi>30%</>の効果を与える(トップリーグ及びボスには無効)。\r\n剣訣・凌玄影の発動後に自身は<shuzhi>氷刃</>を最大数まで生成する。<shuzhi>7.5</>秒ごとに氷刃をロックオンしたターゲットに<shuzhi>1</>本発射し、命中すると攻撃力×<shuzhi>{5}%</>のダメージと<shuzhi>温度低下</>効果を与える。<shuzhi>氷刃</>は最初に最大<shuzhi>3</>本まで生成され、非戦闘状態になるとすべてクリアされる。\r\n<shuzhi>温度低下</>：付近のターゲットに<shuzhi>3</>秒ごとに攻撃力×<shuzhi>{6}%</>のダメージを与える、<shuzhi>12</>秒間持続。",
+				"icon": "skill_linghan_skill",
 				"id": "GA_FPlayerLinghanSkill_Skill"
 			}
 		]
@@ -6199,7 +6223,7 @@
 		"skills": [
 			{
 				"name": "瑶池無双",
-				"description": "Lorsque la <red>recharge d'arme est pleine</> ou que <red>Fantaisie</> est déclenchée, <shuzhi>élimine toutes les altérations sur l'Explorateur</> au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</>. Durant cette période, accorde une immunité aux dégâts pendant <shuzhi>1,5</> seconde (non disponible en Ligue ultime).",
+				"description": "<red>武器エナジー値がMAX</>の時または<red>幻想タイム</>発動時、他の武器からこの武器に変更すると、<shuzhi>自身のステータス異常を解消</>する。ターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与え、スキル発動中、被ダメージ無効が<shuzhi>2.6</>秒間持続する(トップリーグでは無効)。",
 				"icon": "feise_changeskill",
 				"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 			}
@@ -6215,7 +6239,7 @@
 			},
 			{
 				"name": "散華",
-				"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez sur un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.\r\n\r\nPendant le <shuzhi>Mirage fantastique</> de <shuzhi>Tourbillon</>, lorsque la première attaque d'esquive infligée avec n'importe quelle arme touche sa cible, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n<shuzhi>Fantaisie de Fei Se</> : À sa création, la Fantaisie de Fei Se copie <shuzhi>25%</> de l'ATQ max de la cible et les ajoute à l'<shuzhi>ATQ de feu de base</> de l'Explorateur (pas moins de <shuzhi>3 300</> et pas plus de <shuzhi>3 450</> ; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'<shuzhi>une</> Fantaisie de Fei Se à la fois.\r\n<shuzhi>Pétale de lotus</> : À leur création, les Pétales de lotus sont égaux au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après leur création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
+				"description": "前方回避(方向キー+回避ボタン)を発動してすぐに通常攻撃を行うと、散花を発動できる。付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。\r\n\r\n<shuzhi>扶揺</>で生成した<shuzhi>蜃気楼</>の持続中、任意武器による回避攻撃の初回命中時に移花効果が発動し、妃色化身と蓮弁を生成する。\r\n<shuzhi>妃色化身</>：妃色化身の生成時、妃色化身はターゲットの最大攻撃力×<shuzhi>25%</>をコピーし、プレイヤー自身の<shuzhi>基礎炎攻撃力</>に加算する(コピーする攻撃力は<shuzhi>6500</>～<shuzhi>10000</>に収まる。また、これによって変動した炎攻撃力はプレイヤーのステータス画面に表示されない。トップリーグでは無効)。この効果は妃色化身が消えるまで持続する。また、コピーする攻撃力の数値は妃色化身1つごとに独立して計算される。フィールド上に存在できる妃色化身は最大で<shuzhi>1</>つまで。\r\n<shuzhi>蓮弁</>：蓮弁の生成時の数は、フィールド上に存在する重蕊以外の自身の武器による召喚物と同数になる。ただし蓮弁の生成後、蓮弁の数はフィールド上に存在する他の召喚物の数の変化に左右されない。また、蓮弁は召喚物と見なされる。",
 				"icon": "feise_evadefront",
 				"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 			},
@@ -6249,7 +6273,7 @@
 			},
 			{
 				"name": "佩玉朗々",
-				"description": "地上にいる時、通常攻撃の4～6回目に通常攻撃を長押しすると佩玉朗々を発動できる。\r\nターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与え、ノックバックする。",
+				"description": "地上にいる時、通常攻撃の4～6回目に通常攻撃を長押しすると佩玉朗々(はいぎょくろうろう)を発動できる。\r\nターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与え、ノックバックする。",
 				"icon": "feise_branch3",
 				"id": "GA_FPlayerFeiseMelee_Bracnh3"
 			},
@@ -6261,7 +6285,7 @@
 			},
 			{
 				"name": "Falling Flower",
-				"description": "<shuzhi>細雲弄巧</>の発動中、通常攻撃を長押しすると落花を発動できる。\r\n空中から降下し、着地したあと付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与えてノックアップする。",
+				"description": "<shuzhi>細雲弄巧(さいうんろうこう)</>の発動中、通常攻撃を長押しすると落花を発動できる。\r\n空中から降下し、着地したあと付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与えてノックアップする。",
 				"icon": "feise_jumpattack",
 				"id": "GA_FPlayerFeiseMelee_JumpAttack"
 			}
@@ -6271,13 +6295,13 @@
 		"skills": [
 			{
 				"name": "扶揺",
-				"description": "Inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches et crée un Mirage fantastique, d'une durée maximale de <shuzhi>25</> secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de <shuzhi>20</> secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage :\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à <shuzhi>{2}%</> de l'ATQ aux cibles dans le Mirage. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les <shuzhi>5</> secondes, inflige Cœur flamboyant aux cibles dans le Mirage, leur infligeant des dégâts de brûlure équivalant à <shuzhi>{3}%</> de l'ATQ pendant <shuzhi>5</> secondes. Pour <shuzhi>chaque</> <shuzhi>Fantaisie de Fei Se</> ou <shuzhi>Pétale de lotus</> créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de <shuzhi>6%</> supplémentaires.",
+				"description": "付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与え、蜃気楼を生成する。蜃気楼は最大で<shuzhi>25</>秒間持続。\r\n扶揺のクールダウン中は新スキル・驚鴻(きょうこう)を獲得し、蜃気楼が<shuzhi>20</>秒間持続したあと、驚鴻を発動できる。\r\n蜃気楼が消えると、扶揺のクールダウンは即座にリセットされる。なお、扶揺はこれ以外のクールダウンのクリア、リセット、変化の影響は受けない。\r\n\r\n蜃気楼持続中の効果：\r\n毎秒、蜃気楼の範囲内にいるターゲットに攻撃力×<shuzhi>{2}%</>の心蝕ダメージを与える。この心蝕ダメージは通常攻撃と見なされる。\r\n<shuzhi>5</>秒ごとに蜃気楼の範囲内にいるターゲットに心炎状態を付与し、攻撃力×<shuzhi>{3}%</>の燃焼ダメージを毎秒与える。<shuzhi>5</>秒間持続。蜃気楼内に自身が生成した<shuzhi>妃色化身</>または<shuzhi>蓮弁</>が<shuzhi>1</>つ存在するごとに、心炎によるダメージが追加で+<shuzhi>15%</>。",
 				"icon": "feise_skill1",
 				"id": "GA_FPlayerFeiseSkill_Skill1"
 			},
 			{
 				"name": "驚鴻",
-				"description": "扶揺のクールダウン中、新スキル・驚鴻を獲得する。蜃気楼が<shuzhi>20</>秒間持続したあと、驚鴻を発動できる。\r\n蜃気楼内の自身が生成した<shuzhi>妃色化身</>と<shuzhi>蓮弁</>をすべて解除する。<shuzhi>妃色化身</>または<shuzhi>蓮弁</>を<shuzhi>1</>つ解除するごとに付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。その後、蜃気楼を消し、付近のターゲットに攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージを与える。",
+				"description": "扶揺のクールダウン中、新スキル「驚鴻(きょうこう)」を獲得する。蜃気楼が<shuzhi>20</>秒間持続したあと、驚鴻を発動できる。\r\n蜃気楼内の自身が生成した<shuzhi>妃色化身</>と<shuzhi>蓮弁</>をすべて解除する。<shuzhi>妃色化身</>または<shuzhi>蓮弁</>を<shuzhi>1</>つ解除するごとに付近のターゲットに攻撃力×<shuzhi>{0}%</>+<shuzhi>{1}</>のダメージを与える。その後、蜃気楼を打ち消し、付近のターゲットに攻撃力×<shuzhi>{2}%</>+<shuzhi>{3}</>のダメージを与える。",
 				"icon": "feise_skill2",
 				"id": "GA_FPlayerFeiseSkill_Skill2"
 			}

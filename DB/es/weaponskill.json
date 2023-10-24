@@ -5656,7 +5656,7 @@
 				"id": "GA_FPlayerRubiliaMelee_AirAttack"
 			},
 			{
-				"name": "Avance",
+				"name": "Avanzar",
 				"description": "Mientras atacas en el suelo, pulsa y mantén pulsado el ataque normal para activar Avance, lo que inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</>.",
 				"icon": "skill_rubilia_branch",
 				"id": "GA_FPlayerRubiliaMelee_Branch"
@@ -5745,7 +5745,9 @@
 	"GA_FPlayerLinghanChangeSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_changeskill",
+				"name": "Arte de Espada: Llamado Gélido",
+				"description": "Cuando tu <red>carga de arma está completa</> o se activa <red>Phantasia</>, al cambiar a esta arma, <shuzhi>te disipa todas las debilitaciones</> e invoca un Conjunto de Espadas a tu alrededor que envuelve el área en frío e inflige daño de hasta <shuzhi>{0}%</> de tu ATQ más <shuzhi>{1}</> a los objetivos cercanos. Poco después, invocas a un Tigre Blanco para infligir daño igual a <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</>, durante el cual la inmunidad al daño dura <shuzhi>1.5</> seg (no disponible en la Liga Ápex).\r\n<shuzhi>Pasiva</>: Después de que Arte de Espada: Llamado Gélido logra un impacto, aumenta tu daño final un <shuzhi>8%</> durante <shuzhi>30</> seg.",
+				"icon": "skill_linghan_changeskill",
 				"id": "GA_FPlayerLinghanChangeSkill_Success"
 			}
 		]
@@ -5753,15 +5755,21 @@
 	"GA_FPlayerLinghanEvade": {
 		"skills": [
 			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.",
 				"icon": "common_evade",
 				"id": "GA_FPlayerLinghanEvade_Evade"
 			},
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "Arte de Espada: Nublamiento",
+				"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Arte de Espada: Nublamiento, lo que inflige daño de hasta <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos impactados.",
+				"icon": "skill_linghan_fevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
 			},
 			{
-				"icon": "skill_zeke_bevadeattack",
+				"name": "Arte de Espada: Alma Mortal",
+				"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Arte de Espada: Alma Mortal. Libera una ilusión del Tigre Blanco para infligir daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos que tengas delante.",
+				"icon": "skill_linghan_bevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
 			}
 		]
@@ -5769,27 +5777,43 @@
 	"GA_FPlayerLinghanMelee": {
 		"skills": [
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "Arte de Espada: Corte Lunar",
+				"description": "Mientras estás en el suelo, usa tu ataque normal para lanzar 6 ataques seguidos.\r\nPrimer ataque: Infliges daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> y haces retroceder al objetivo.\r\nSegundo ataque: Infliges daño igual a <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</> y haces retroceder al objetivo.\r\nTercer ataque: Infliges daño igual a <shuzhi>{4}%</> del ATQ más <shuzhi>{5}</> y haces retroceder al objetivo.\r\nCuarto ataque: Infliges daño igual a <shuzhi>{6}%</> del ATQ más <shuzhi>{7}</> y haces retroceder al objetivo.\r\nQuinto ataque: Infliges daño igual a <shuzhi>{8}%</> del ATQ más <shuzhi>{9}</> y atraes a los enemigos al frente.\r\nSexto ataque: Infliges daño igual a <shuzhi>{10}%</> del ATQ más <shuzhi>{11}</> y lanzas al objetivo.\r\nTras activar Arte de Espada: Corte Lunar, pulsa y mantén pulsado el ataque normal para activar <shuzhi>Arte de Espada: Nieve Eterna</>.\r\n\r\nTras impactar a un objetivo con cualquiera de los ataques normales de <shuzhi>Tigre de Alabastro</>, aplicas <shuzhi>1</> acumulación de <shuzhi>Grieta Cristalina</> al objetivo, lo que inflige daño de ataque normal igual a <shuzhi>{12}%</> del ATQ cada segundo durante <shuzhi>15</> seg. Solo puedes aplicar <shuzhi>1</> acumulación de Grieta Cristalina al mismo objetivo cada <shuzhi>4</> seg, se acumula hasta <shuzhi>3</> veces. Las acumulaciones desaparecerán una a una cuando termine el efecto.",
+				"icon": "skill_linghan_melee",
 				"id": "GA_FPlayerLinghanMelee_Melee"
 			},
 			{
-				"icon": "skill_zeke_airattack",
+				"name": "Arte de Espada: Sollozo de Pureza",
+				"description": "Mientras estás en el aire, usa el ataque normal para lanzar 6 ataques consecutivos; esto consume resistencia.\r\nPrimer ataque: Inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</>.\r\nSegundo ataque: Inflige daño igual a <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</>.\r\nTercer ataque: Inflige daño igual a <shuzhi>{4}%</> del ATQ más <shuzhi>{5}</>.\r\nCuarto ataque: Inflige daño igual a <shuzhi>{6}%</> del ATQ más <shuzhi>{7}</>.\r\nQuinto ataque: Inflige daño igual a <shuzhi>{8}%</> del ATQ más <shuzhi>{9}</>.\r\nSexto ataque: Inflige daño igual a <shuzhi>{10}%</> del ATQ más <shuzhi>{11}</>.",
+				"icon": "skill_linghan_airattack",
 				"id": "GA_FPlayerLinghanMelee_AirAttack"
 			},
 			{
-				"icon": "skill_zeke_branch",
+				"name": "Arte de Espada: Nieve Eterna",
+				"description": "Mientras usas el ataque normal en el suelo, pulsa y mantén pulsado el ataque normal para activar Arte de Espada: Nieve Eterna.\r\nUsa el control mental para manipular la espada mientras consumes resistencia, durante lo cual el nómada gana hipercuerpo. Cada ataque inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos.\r\nCuando Arte de Espada: Nieve Eterna termina, liberas una poderosa aura de espada que inflige daño igual a <shuzhi>{2}%</> de tu ATQ más <shuzhi>{3}</> a los objetivos cercanos.",
+				"icon": "skill_linghan_powerattack",
 				"id": "GA_FPlayerLinghanMelee_PowerAttack"
 			},
 			{
-				"icon": "skill_zeke_jumpattack",
+				"name": "Arte de Espada: Caída de Escarcha",
+				"description": "Pulsa y mantén pulsado tu ataque normal en el aire (pulsa cuando haya un objetivo disponible), o utiliza tu ataque normal mientras escalas, saltas hacia atrás o utilizas tu propulsor para activar Arte de Espada: Caída de Escarcha.\r\nMientras caes, infliges daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> cada vez que impactas al objetivo. Al aterrizar, infliges daño igual a <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</> a los objetivos cercanos.",
+				"icon": "skill_linghan_jumpattack",
 				"id": "GA_FPlayerLinghanMelee_JumpAttack"
+			},
+			{
+				"name": "Pasos Ligeros",
+				"description": "Mientras estás en el aire tras un salto doble, pulsa salto para activar Pasos Ligeros. Te desplazas brevemente hacia arriba antes de planear. Mientras estás en el aire, puedes usar Pasos Ligeros hasta <shuzhi>2</> veces.\r\nMientras estás en tierra, Pasos Ligeros recupera <shuzhi>1</> intento de uso cada <shuzhi>10</> seg (al cambiar de área, cambiar arma o desequipar <shuzhi>Tigre de Alabastro</>, se restablecerán los intentos de uso).",
+				"icon": "skill_linghan_qinggong",
+				"id": "GA_FPlayerLinghanMelee_QingGong"
 			}
 		]
 	},
 	"GA_FPlayerLinghanSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_skill",
+				"name": "Arte de Espada: Hielo Oscuro",
+				"description": "Infliges daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos y los atraes. Luego, formas un Conjunto de Espadas para invocar una fuerte lluvia de espadas y <shuzhi>congelar con fuerza</> a los objetivos (no disponible en la Liga Ápex ni contra jefes) durante <shuzhi>4</> seg. Enfriamiento: <shuzhi>30</> seg.\r\nDespués de usar Arte de Espada: Hielo Oscuro, emites un <shuzhi>Aire frío</> que inflige daño igual a <shuzhi>{4}%</> del ATQ a los objetivos cercanos cada segundo y reduce la velocidad de los objetivos un <shuzhi>30%</> (no disponible en la Liga Ápex ni contra jefes).\r\nDespués de ejecutar completamente Arte de Espada: Hielo Oscuro creas una gran cantidad de <shuzhi>Cuchillas de Hielo</> que disparan <shuzhi>1</> cuchilla cada <shuzhi>7.5</> seg al objetivo actualmente fijado; esto inflige daño igual a <shuzhi>{5}%</> de tu ATQ y le aplica <shuzhi>Reducción de Temperatura</> al objetivo. Puede haber hasta <shuzhi>3</> <shuzhi>Cuchillas de Hielo</> creadas inicialmente, y todas las cuchillas se eliminarán si no estás en estado de combate.\r\n<shuzhi>Reducción de Temperatura</>: Infliges daño igual a <shuzhi>{6}%</> del ATQ cada <shuzhi>3</> seg a los objetivos cercanos durante <shuzhi>12</> seg.",
+				"icon": "skill_linghan_skill",
 				"id": "GA_FPlayerLinghanSkill_Skill"
 			}
 		]
@@ -6199,7 +6223,7 @@
 		"skills": [
 			{
 				"name": "Fondo de Jade Inigualable",
-				"description": "Cuando la <red>carga de arma está completa</> o se activa <red>Phantasia</>, al cambiar a esta arma, <shuzhi>te disipa todas las debilitaciones</> e infliges daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</>. Durante este periodo, ganas inmunidad al daño por <shuzhi>1.5</> seg (no disponible en la Liga Ápex).",
+				"description": "Cuando la <red>carga de arma está completa</> o se activa <red>Phantasia</>, al cambiar a esta arma, <shuzhi>elimina todas las desventajas del nómada</>, lo que inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</>. Durante este periodo, ganas inmunidad al daño por <shuzhi>2.6</> seg (no disponible en la Liga Ápex).",
 				"icon": "feise_changeskill",
 				"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 			}
@@ -6215,13 +6239,13 @@
 			},
 			{
 				"name": "Dispersión",
-				"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Dispersión Floral, lo que inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos.\r\n\r\nDurante el <shuzhi>Espejismo Ilusorio</> creado por <shuzhi>Remolino</>, después de que el primer ataque de evasión con cualquier arma logre un impacto, Injerto de Flores se activa, lo que crea una Phantasia de Fei Se y un Pétalo de Loto.\r\n<shuzhi>Phantasia de Fei Se</>: Al crearse, la Phantasia de Fei Se copia <shuzhi>25%</> del ATQ máx. del objetivo y lo convierte en <shuzhi>ATQ de fuego base</> para ti (no puede ser inferior a <shuzhi>3300</> ni superior a <shuzhi>3450</>; este ATQ de fuego no se reflejará en tus estadísticas y no está disponible en la Liga Ápex) hasta que la Phantasia de Fei Se desaparezca. Se calcula independientemente para cada Phantasia de Fei Se. Solo puede haber <shuzhi>1</> Phantasia de Fei Se a la vez.\r\n<shuzhi>Pétalo de Loto</>: Al crearse, el recuento de Pétalos de Loto es igual al número de invocaciones creadas por tus armas que no sean Floración Interminable. Tras la creación, el recuento de Pétalos de Loto no cambia con el número de invocaciones. Los Pétalos de Loto se consideran invocaciones.",
+				"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (usa un botón de dirección antes de evadir) para activar Dispersión Floral, lo que inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos.\r\n\r\nDurante el <shuzhi>Espejismo Ilusorio</> creado por <shuzhi>Remolino</>, después de que el primer ataque de evasión con cualquier arma logre un impacto, Injerto de Flores se activa, lo que crea un Phantasia de Fei Se y un Pétalo de Loto.\r\n<shuzhi>Phantasia de Fei Se</>: Al crearse, el Phantasia de Fei Se copia <shuzhi>25%</> del ATQ máx. del objetivo y lo convierte en el <shuzhi>ATQ de fuego base</> del nómada (no puede ser inferior a <shuzhi>6500</> ni superior a <shuzhi>10 000</>; este ATQ de fuego no se reflejará en las estadísticas del nómada y no está disponible en la Liga Ápex) hasta que el Phantasia de Fei Se desaparezca. Se calcula independientemente para cada Phantasia de Fei Se. Solo puede haber <shuzhi>1</> Phantasia de Fei Se a la vez.\r\n<shuzhi>Pétalo de Loto</>: Al crearse, el recuento de Pétalos de Loto es igual al número de invocaciones creadas por las armas del nómada que no sean Floración Interminable. Tras la creación, el recuento de Pétalos de Loto no cambia con el número de invocaciones. Los Pétalos de Loto se consideran invocaciones.",
 				"icon": "feise_evadefront",
 				"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 			},
 			{
 				"name": "Aleteo",
-				"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Aleteo, lo que inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos.",
+				"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Aleteo, lo que inflige igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos.",
 				"icon": "feise_evadeback",
 				"id": "GA_FPlayerFeiseEvade_BackAttack"
 			}
@@ -6243,7 +6267,7 @@
 			},
 			{
 				"name": "Otoño Dorado",
-				"description": "Mientras lo usas en el suelo, pulsa y mantén pulsado el ataque normal cuando uses los ataques normales del primero al tercero para activar Otoño Dorado.\r\nAtrae a los objetivos cercanos, lo que inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> y los suspende.",
+				"description": "Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal cuando uses del primero al tercer ataque normal para activar Otoño Dorado.\r\nAtraes a los objetivos cercanos para infligirles daño igual a <shuzhi>{0}%</> de tu ATQ más <shuzhi>{1}</> y los suspendes.",
 				"icon": "feise_branch1",
 				"id": "GA_FPlayerFeiseMelee_Branch1"
 			},
@@ -6271,13 +6295,13 @@
 		"skills": [
 			{
 				"name": "Remolino",
-				"description": "Inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos y crea un Espejismo Ilusorio que dura hasta <shuzhi>25</> seg.\r\nCuando Remolino está en enfriamiento, obtienes una nueva habilidad: Lissom. Puedes usar Lissom después de que el Espejismo haya estado activo durante <shuzhi>20</> seg.\r\nDespués de que el Espejismo desaparezca, restablece inmediatamente el enfriamiento de Remolino. Esto no se ve afectado por otros efectos de eliminación, restablecimiento o cambio de enfriamientos.\r\n\r\nDurante el Espejismo:\r\nCada segundo, inflige daño de Espiritormento igual a <shuzhi>{2}%</> del ATQ. El daño de Espiritormento cuenta como daño de ataque normal.\r\nCada <shuzhi>5</> seg, inflige Corazón Resplandeciente a los objetivos en el Espejismo, lo que inflige daño por quemadura igual a <shuzhi>{3}%</> del ATQ durante <shuzhi>5</> seg. Por <shuzhi>cada</> <shuzhi>Phantasia de Fei Se</> o <shuzhi>Pétalo de Loto</> creados por ti en el Espejismo, aumenta el daño de Corazón Resplandeciente un <shuzhi>6%</> adicional.",
+				"description": "Inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos y crea un Espejismo Ilusorio que dura hasta <shuzhi>25</> seg.\r\nCuando Remolino está en enfriamiento, obtienes una nueva habilidad: Lissom. Puedes usar Lissom después de que el Espejismo haya estado activo durante <shuzhi>20</> seg.\r\nDespués de que el Espejismo desaparezca, restablece inmediatamente el enfriamiento de Remolino. Esto no se ve afectado por otros efectos de eliminación, restablecimiento o cambio de enfriamientos.\r\n\r\nDurante el Espejismo:\r\nCada segundo, inflige daño de Espiritormento igual a <shuzhi>{2}%</> del ATQ. El daño de Espiritormento cuenta como daño de ataque normal.\r\nCada <shuzhi>5</> seg, inflige Corazón Resplandeciente a los objetivos al alcance, lo que inflige daño por quemadura igual a <shuzhi>{3}%</> del ATQ durante <shuzhi>5</> seg. Por cada <shuzhi>1</> <shuzhi>Phantasia de Fei Se</> o <shuzhi>Pétalo de Loto</> creado por el nómada en el Espejismo, el daño de Corazón Resplandeciente aumenta un <shuzhi>15%</> adicional.",
 				"icon": "feise_skill1",
 				"id": "GA_FPlayerFeiseSkill_Skill1"
 			},
 			{
 				"name": "Lissom",
-				"description": "Cuando Remolino está en enfriamiento, obtienes la nueva habilidad: Lissom. Puedes usar Lissom después de que el Espejismo haya estado activo durante <shuzhi>20</> seg.\r\nElimina todas las <shuzhi>Phantasias de Fei Se</> y los <shuzhi>Pétalos de Loto</> en el Espejismo creados por ti. Por cada <shuzhi>1</> <shuzhi>Phantasia de Fei Se</> o <shuzhi>Pétalo de Loto</> eliminado, infliges daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos. Luego, destruye el Espejismo Ilusorio, lo que inflige daño igual a <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</> a los objetivos cercanos.",
+				"description": "Cuando Remolino está en enfriamiento, obtienes la nueva habilidad: Lissom. Puedes usar Lissom después de que el Espejismo haya estado activo durante <shuzhi>20</> seg.\r\nElimina a todos los <shuzhi>Phantasias de Fei Se</> y <shuzhi>Pétalos de Loto</> en el Espejismo creado por el nómada. Por cada <shuzhi>1</> <shuzhi>Phantasia de Fei Se</> o <shuzhi>Pétalo de Loto</> eliminado, inflige daño igual a <shuzhi>{0}%</> del ATQ más <shuzhi>{1}</> a los objetivos cercanos. Luego, destruye el Espejismo Ilusorio, lo que inflige daño igual a <shuzhi>{2}%</> del ATQ más <shuzhi>{3}</> a los objetivos cercanos.",
 				"icon": "feise_skill2",
 				"id": "GA_FPlayerFeiseSkill_Skill2"
 			}

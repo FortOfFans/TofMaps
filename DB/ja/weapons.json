@@ -312,7 +312,7 @@
 			"normals": [
 				{
 					"name": "通常攻撃",
-					"description": "地上にいる時、連続で弓を引き、5回連続で攻撃する。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×**0%**+**1**\r\n2回目：攻撃力×**2%**+**3**\r\n3回目：攻撃力×**4%**+**5**\r\n4回目：攻撃力×**6%**+**7**\r\n5回目：攻撃力×**8%**+**9**のダメージと少しのノックバック",
+					"description": "地上にいる時、連続で弓を引き、5回連続で攻撃する。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×**27.3%**+**164**\r\n2回目：攻撃力×**24.4%**+**146**\r\n3回目：攻撃力×**43.8%**+**263**\r\n4回目：攻撃力×**67.8%**+**407**\r\n5回目：攻撃力×**62.9%**+**377**のダメージと少しのノックバック",
 					"icon": "bow_skill",
 					"id": "GA_FPlayerBowMeleeNew_Melee"
 				},
@@ -360,7 +360,7 @@
 			"discharge": [
 				{
 					"name": "爆裂矢の雨",
-					"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。同時に爆裂矢の雨を召喚し、ターゲット単体に攻撃力×**0%**+**1**のダメージを与え、ターゲットを浮遊させる",
+					"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。同時に爆裂矢の雨を召喚し、ターゲット単体に攻撃力×**396%**+**2376**のダメージを与え、ターゲットを浮遊させる",
 					"icon": "skill_artifact11_1",
 					"id": "GA_FPlayerBowChangeSkill_Success"
 				}
@@ -381,7 +381,6 @@
 		"name": "聖痕の杖",
 		"avatar": {
 			"name": "ペペ",
-			"description": "記録なし",
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
@@ -533,7 +532,6 @@
 		"name": "エンダー",
 		"avatar": {
 			"name": "ヒルダ",
-			"description": "記録なし",
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
@@ -655,7 +653,6 @@
 		"name": "プチハリケーン",
 		"avatar": {
 			"name": "グノノ",
-			"description": "記録なし",
 			"advanceId": "imitation_27L1",
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
@@ -821,7 +818,6 @@
 		"name": "初動重撃",
 		"avatar": {
 			"name": "イーネ",
-			"description": "記録なし",
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
@@ -979,7 +975,6 @@
 		"name": "夜雀の羽根",
 		"avatar": {
 			"name": "バイリン",
-			"description": "記録なし",
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
@@ -1125,7 +1120,6 @@
 		"name": "雷霆の戟",
 		"avatar": {
 			"name": "エコー",
-			"description": "記録なし",
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
@@ -1283,7 +1277,6 @@
 		"name": "迅雷の双刃",
 		"avatar": {
 			"name": "クロウ",
-			"description": "記録なし",
 			"advanceId": "imitation_13L1",
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
@@ -1436,7 +1429,6 @@
 		"name": "薔薇の頂",
 		"avatar": {
 			"name": "メリル",
-			"description": "記録なし",
 			"advanceId": "imitation_3L1",
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
@@ -1601,7 +1593,6 @@
 		"name": "氷風の矢",
 		"avatar": {
 			"name": "ツバサ",
-			"description": "記録なし",
 			"advanceId": "imitation_7L1",
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
@@ -1748,7 +1739,6 @@
 		"name": "零度の指針",
 		"avatar": {
 			"name": "ココリッタ",
-			"description": "記録なし",
 			"advanceId": "imitation_11L1",
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
@@ -1902,7 +1892,6 @@
 		"name": "レイヴンの大鎌",
 		"avatar": {
 			"name": "キング",
-			"description": "記録なし",
 			"advanceId": "imitation_9L1",
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
@@ -2061,7 +2050,6 @@
 		"name": "フレイムリボルバー",
 		"avatar": {
 			"name": "コバルト",
-			"description": "記録なし",
 			"advanceId": "imitation_10L1",
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
@@ -2215,7 +2203,6 @@
 		"name": "紅蓮刀",
 		"avatar": {
 			"name": "クローディア",
-			"description": "記録なし",
 			"advanceId": "imitation_12L1",
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
@@ -2369,7 +2356,6 @@
 		"name": "海の戦輪",
 		"avatar": {
 			"name": "シロ",
-			"description": "記録なし",
 			"advanceId": "imitation_8L1",
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
@@ -2522,7 +2508,6 @@
 		"name": "ネガティブキューブ",
 		"avatar": {
 			"name": "ゼロ",
-			"description": "記録なし",
 			"advanceId": "imitation_1L1",
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
@@ -2676,7 +2661,6 @@
 		"name": "超電磁二重星",
 		"avatar": {
 			"name": "セミール",
-			"description": "記録なし",
 			"advanceId": "imitation_5L1",
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
@@ -2823,7 +2807,6 @@
 		"name": "V2メルトシールド",
 		"avatar": {
 			"name": "シューマー",
-			"description": "記録なし",
 			"advanceId": "imitation_6L1",
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
@@ -2970,14 +2953,13 @@
 		"name": "Azure Dragon",
 		"avatar": {
 			"name": "Huang",
-			"description": "記録なし",
 			"advanceId": "imitation_41L1",
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
 			"avatarID": "mimi",
 			"id": "imitation_41"
 		},
-		"description": "巨大なエネルギーを秘めた双扇。岩山を砕き、天地を裂く。\r\n孟章が天に昇るとき、辺りは風に満ちるだろう。",
+		"description": "巨大なエネルギーを秘めた双扇。岩山を砕き、天地を裂く。\r\n孟章が天に昇るとき、風が一斉に吹き荒れる",
 		"icon": "item_Weapon_SSR_mimi",
 		"gachaIcon": "SSR_lh_MiMi",
 		"rarity": "SSR",
@@ -3000,7 +2982,7 @@
 			"normals": [
 				{
 					"name": "跳玉震撼",
-					"description": "地上にいる時、通常攻撃を行うと5回連続攻撃できる。ターゲットに与える合計ダメージは次の通り。\r\n1回目：攻撃力×**91.1%**+**547**\r\n2回目：攻撃力×**137.6%**+**826**\r\n3回目：攻撃力×**400%**+**2400**\r\n4回目：攻撃力×**331.7%**+**1990**\r\n5回目：攻撃力×**165.3%**+**992**",
+					"description": "地上にいる時、通常攻撃を行うと5回連続攻撃できる。ターゲットに与えるダメージは次の通り。\r\n1回目：攻撃力×**91.1%**+**547**\r\n2回目：攻撃力×**137.6%**+**826**\r\n3回目：攻撃力×**400%**+**2400**\r\n4回目：攻撃力×**331.7%**+**1990**\r\n5回目：攻撃力×**165.3%**+**992**",
 					"icon": "skill_mimi_melee",
 					"id": "GA_FPlayerMiMiMelee_Melee"
 				},
@@ -3018,7 +3000,7 @@
 				},
 				{
 					"name": "雷爆",
-					"description": "地上にいる時、通常攻撃を長押しすると雷爆を発動できる。\r\nスタミナを消費しながらターゲットに向かって雷電を発射しつづけ、この間、自身は不屈効果を獲得する。付近のターゲットに雷電が1発命中するごとに攻撃力×**53.5%**+**321**のダメージを与える。また、**1.5**秒ごとに小青龍を**1**体召喚する。小青龍は付近のターゲットに向かって衝撃波を放ち、ターゲットに攻撃力×**99%**+**594**のダメージを与える。\r\n自身は**1.5**秒ごとに最大HP×**10%**のシールドを獲得する。獲得可能なシールドは最大で最大HP×**30%**まで。**15**秒間持続。\r\n剛毅共鳴中の効果：\r\n雷爆による衝撃波が命中するごとに付近のターゲットを挑発する。**2**秒間持続。\r\n雷爆によるシールドを獲得するたびに、付近にいる味方ユニットは最大で雷爆を発動したプレイヤーの最大HP×**10%**のシールドを獲得する。",
+					"description": "地上にいる時、通常攻撃を長押しすると雷爆を発動できる。\r\nスタミナを消費しながらターゲットに向かって雷電を発射しつづけ、この間、自身は不屈効果を獲得する。付近のターゲットに雷電が1発命中するごとに攻撃力×**53.5%**+**321**のダメージを与える。また、**1.5**秒ごとに小青龍を**1**体召喚する。小青龍は付近のターゲットに向かって衝撃波を放ち、ターゲットに攻撃力×**99%**+**594**のダメージを与える。\r\n自身は**1.5**秒ごとに最大HP×**10%**のシールドを獲得する。獲得可能なシールドは最大で最大HP×**15%**まで。**15**秒間持続。\r\n剛毅共鳴中の効果：\r\n小青龍による衝撃波が命中するごとに付近のターゲットを挑発する。**2**秒間持続。\r\n雷爆によるシールドを獲得するたびに、付近にいる味方ユニットは最大で雷爆を発動したプレイヤーの最大HP×**10%**のシールドを獲得する。",
 					"icon": "skill_mimi_powerattack",
 					"id": "GA_FPlayerMiMiMelee_PowerAttack"
 				},
@@ -3060,7 +3042,7 @@
 			"discharge": [
 				{
 					"name": "飛龍在天",
-					"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。集めた雷の気を地面へと叩きつけて爆発を起こし、付近のターゲットに攻撃力×**1514.7%**+**9087**のダメージを与えて浮遊させる。また、このスキルの発動時にダメージを無効化する。無効化は**1.5**秒間持続。\r\n**パッシブ：**幻想タイム発動時に孟章を使用、または他の武器から孟章に変更すると、付近のターゲットに攻撃力×**5000%**のダメージを与える。このダメージはダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、幻想タイムの発動ごとに1回のみ発動。",
+					"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。集めた雷の気を地面へと叩きつけて爆発を起こし、付近のターゲットに攻撃力×**1514.7%**+**9087**のダメージを与えて浮遊させる。また、このスキルの発動時にダメージを無効化する。無効化は**1.5**秒間持続(トップリーグでは無効)。\r\n**パッシブ：**幻想タイム発動時に孟章を使用、または他の武器から孟章に変更すると、付近のターゲットに攻撃力×**5000%**のダメージを与える。このダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、幻想タイムの発動ごとに1回のみ発動。",
 					"icon": "skill_mimi_changeskill",
 					"id": "GA_FPlayerMiMiChangeSkill_Success"
 				}
@@ -3068,7 +3050,7 @@
 		},
 		"stars": [
 			{
-				"description": "**雷共鳴**：雷属性武器を**2**つ以上装備すると発動。雷攻撃力+**15%**、雷耐性+**25%**。装備すると常時有効、同系統の効果はスタック不可。\r\n**雷霆・顕在**：**孟章**による攻撃が命中した時、付近のターゲットに雷攻撃力×**1.313%**+自身の最大HP×**2%**+各属性耐性の合計値×**69%**+会心の値×**2.5%**のダメージを与える。**1.5**秒間に1回のみ発動。この雷霆ダメージは通常攻撃によるダメージと見なされる。任意の炎/氷/物理属性武器を**1**つ装備した場合、雷霆ダメージが**1.3**倍まで UPする。また、雷霆ダメージはダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+				"description": "**雷共鳴**：雷属性武器を**2**つ以上装備すると発動。雷攻撃力+**15%**、雷耐性+**25%**。装備すると常時有効、同系統の効果はスタック不可。\r\n**雷霆・顕在**：**孟章**による攻撃が命中した時、付近のターゲットに雷攻撃力×**1.313%**+自身の最大HP×**2%**+各属性耐性の合計値×**69%**+会心の値×**2.5%**のダメージを与える。**1.5**秒間に1回のみ発動。この雷霆ダメージは通常攻撃によるダメージと見なされる。任意の炎/氷/物理属性武器を**1**つ装備した場合、雷霆ダメージが**1.3**倍まで UPする。また、雷霆ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3076,7 +3058,7 @@
 				"need": "None"
 			},
 			{
-				"description": "**雷爆**による長押し攻撃中、一度に**2**体の小青龍を召喚する。また、各小青龍は召喚物の最大HPの**20%**を回復する。\r\n**雷爆**による長押し攻撃と衝撃波の与ダメージ+**30%**。\r\n**青雲威月**を発動すると青龍の力を即時**3**スタック獲得。その他の雷属性武器スキルを発動すると、青龍の力を即時**1**スタック獲得。",
+				"description": "**雷爆**による長押し攻撃中、一度に**2**体の小青龍を召喚する。また、各小青龍は召喚物の最大HPの**20%**を回復する。\r\n**雷爆**によるチャージ攻撃と衝撃波の与ダメージ+**30%**。\r\n**青雲威月**を発動すると青龍の力を即時**3**スタック獲得。その他の雷属性武器スキルを発動すると、青龍の力を即時**1**スタック獲得。",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3092,7 +3074,7 @@
 				"need": "mimi_thunder_plasm"
 			},
 			{
-				"description": "**孟章**の装備時、雷属性の武器固有スキルのクールダウン-**20%**。スキルのクールダウンのクリア、リセット、変化の影響を受けない。\r\nさらに、自身の雷ダメージ+**15%**。装備すると常時有効。",
+				"description": "**孟章**を装備時、雷属性の武器固有スキルのクールダウン-**20%**。スキルのクールダウンのクリア、リセット、変化の影響を受けない。\r\nさらに、自身の雷ダメージ+**15%**。装備すると常時有効。",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3116,7 +3098,7 @@
 				"need": "mimi_thunder_plasm"
 			},
 			{
-				"description": "**青雲威月**の発動後、自身が与える雷ダメージ+**10%**、最終ダメージ+**10%**。**30**秒間持続",
+				"description": "**青雲威月**の発動後、自身が与える雷ダメージ+**10%**、最終ダメージ+**10%**。**30**秒間持続。",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3126,11 +3108,169 @@
 		],
 		"id": "mimi_thunder"
 	},
+	"Linghan_ice": {
+		"name": "監兵",
+		"avatar": {
+			"name": "Ling Han",
+			"advanceId": "imitation_43L1",
+			"weapon": "linghan_ice",
+			"icon": "imitation_43",
+			"avatarID": "linghan",
+			"id": "imitation_43"
+		},
+		"description": "剣にひらりと舞う袖、その心を知る者はなく",
+		"icon": "item_Weapon_SSR_Linghan_Ice01",
+		"gachaIcon": "UI_SSR_lh_linghan",
+		"rarity": "SSR",
+		"element": "Ice",
+		"weaponType": "Linghan",
+		"wc": "DPS",
+		"mats": {
+			"Item_Mine_ice": 39,
+			"Item_Mine_ice_02": 65,
+			"Item_breakthrough_B2": 65,
+			"Item_breakthrough_D2": 65,
+			"Item_Mine_ice_03": 32,
+			"Item_breakthrough_B3": 32,
+			"Item_breakthrough_D3": 32,
+			"Item_breakthrough_B1": 35,
+			"Item_breakthrough_D1": 32
+		},
+		"advanceID": "Linghan_ice_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "剣訣・剣斬月",
+					"description": "地上にいる時、通常攻撃を行うと6回連続攻撃できる。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×**97.8%**+**587**のダメージとノックバック\r\n2回目：攻撃力×**129.4%**+**776**のダメージとノックバック\r\n3回目：攻撃力×**207.2%**+**1243**のダメージとノックバック\r\n4回目：攻撃力×**125%**+**750**のダメージとノックバック\r\n5回目：攻撃力×**226%**+**1356**のダメージと前方にモンスターの引き寄せ\r\n6回目：攻撃力×**253.6%**+**1521**のダメージとノックアップ\r\n剣訣・剣斬月の発動後、通常攻撃を長押しすると**剣訣・雪連天**を発動できる。\r\n\r\n**監兵**を使った任意の通常攻撃がターゲットに命中すると**晶裂**状態を**1**スタック付与し、攻撃力×**48%**の通常攻撃ダメージを毎秒与える。**15**秒間持続。晶裂は同一のターゲットに対し**4**秒ごとに**1**スタック付与でき、最大**3**スタックまで累積可能。持続時間が切れたスタックから順番に消失する。",
+					"icon": "skill_linghan_melee",
+					"id": "GA_FPlayerLinghanMelee_Melee"
+				},
+				{
+					"name": "剣訣・梅剣鳴",
+					"description": "滞空時に通常攻撃を行うと、スタミナを消費して空中で6回連続攻撃ができる。ダメージは次の通り。\r\n1回目：攻撃力×**95.9%**+**575**\r\n2回目：攻撃力×**100.7%**+**604**\r\n3回目：攻撃力×**218.6%**+**1311**\r\n4回目：攻撃力×**130%**+**780**\r\n5回目：攻撃力×**213.7%**+**1282**\r\n6回目：攻撃力×**256.9%**+**1541**",
+					"icon": "skill_linghan_airattack",
+					"id": "GA_FPlayerLinghanMelee_AirAttack"
+				},
+				{
+					"name": "剣訣・雪連天",
+					"description": "地上での通常攻撃時、通常攻撃を長押しすると剣訣・雪連天を発動する。\r\n剣を操り、スタミナを消費することで自身は不屈効果を獲得し、さらに付近のターゲットに攻撃力×**140.8%**+**845**のダメージを与える。\r\n剣訣・雪連天の発動終了時に強力な剣気を放ち、命中した付近のターゲットに攻撃力×**422.4%**+**2534**のダメージを与える。",
+					"icon": "skill_linghan_powerattack",
+					"id": "GA_FPlayerLinghanMelee_PowerAttack"
+				},
+				{
+					"name": "剣訣・雪華落",
+					"description": "滞空時に通常攻撃を長押し(敵の存在時)、またはクライミング時/反転ジャンプ攻撃時/ジェットパック使用時に通常攻撃を行うと、剣訣・雪華落を発動する。\r\n 落下中、ターゲットに命中するごとに攻撃力×**75%**+**450**のダメージを与える。着地時に付近のターゲットに攻撃力×**366.7%**+**2200**のダメージを与える。",
+					"icon": "skill_linghan_jumpattack",
+					"id": "GA_FPlayerLinghanMelee_JumpAttack"
+				},
+				{
+					"name": "飛舞落",
+					"description": "プレイヤーが2段ジャンプ後の滞空時にジャンプを行うと飛舞落を発動でき、上空に短くダッシュしたあと滑空しつづける。飛舞落は滞空時に最大**2**回まで使用できる。\r\n地上にいる時、飛舞落の使用回数が**10**秒ごとに**1**回復する(エリア変更、または**監兵**を装備から外すと使用回数はリセットされる)。",
+					"icon": "skill_linghan_qinggong",
+					"id": "GA_FPlayerLinghanMelee_QingGong"
+				}
+			],
+			"dodge": [
+				{
+					"name": "回避",
+					"description": "ジャスト回避を成功させると幻想タイムが発動し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直効果を無効化する。",
+					"icon": "common_evade",
+					"id": "GA_FPlayerLinghanEvade_Evade"
+				},
+				{
+					"name": "剣訣・瀑流雲",
+					"description": "前方回避(方向キー+回避ボタン)を発動してすぐに通常攻撃を行うと、剣訣・瀑流雲が発動する。攻撃が命中したターゲットに対し最大で攻撃力×**305%**+**1830**のダメージを与える。",
+					"icon": "skill_linghan_fevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "剣訣・魄千尋",
+					"description": "回避後すぐに通常攻撃を行うと、剣訣・魄千尋を発動する。白虎の幻影を放ち、前方のターゲットに攻撃力×**174.3%**+**1046**のダメージを与える。",
+					"icon": "skill_linghan_bevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "剣訣・凌玄影",
+					"description": "付近のターゲットに攻撃力×**370.2%**+**2221**のダメージを与えて引き寄せ、その後、召喚した剣の陣で大量の剣の雨を降らせてターゲットに**強制凍結**効果を与える(トップリーグ及びボスには無効)。**4**秒間持続、クールダウン**30**秒。\r\n剣訣・凌玄影の発動に成功すると自身は**氷気**を放つ。付近のターゲットに毎秒攻撃力×**68%**のダメージと移動速度-**30%**の効果を与える(トップリーグ及びボスには無効)。\r\n剣訣・凌玄影の発動後に自身は**氷刃**を最大数まで生成する。**7.5**秒ごとに氷刃をロックオンしたターゲットに**1**本発射し、命中すると攻撃力×**360%**のダメージと**温度低下**効果を与える。**氷刃**は最初に最大**3**本まで生成され、非戦闘状態になるとすべてクリアされる。\r\n**温度低下**：付近のターゲットに**3**秒ごとに攻撃力×**240%**のダメージを与える、**12**秒間持続。",
+					"icon": "skill_linghan_skill",
+					"id": "GA_FPlayerLinghanSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "剣訣・氷帰嘯",
+					"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると**自身のステータス異常を解消**し、剣の陣を召喚して周囲を冷気で覆いつくす。付近のターゲットに最大で攻撃力×**844.5%**+**5067**のダメージを与えたあと、白虎を召喚し攻撃力×**1971%**+**11825**のダメージを与える。この間、被ダメージ無効が**1.5**秒間持続する(トップリーグでは無効)。\r\n**パッシブ**：剣訣・氷帰嘯が命中すると、最終ダメージ+**8%**、**30**秒間持続。",
+					"icon": "skill_linghan_changeskill",
+					"id": "GA_FPlayerLinghanChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**氷共鳴**：氷属性武器を**2**つ以上装備すると発動。氷攻撃力+**15%**、氷耐性+**25%**。装備すると常時有効(複数の物理共鳴/物理反応はスタック不可、物理共鳴が優先して発動)。\r\n**極寒・脱手**：**剣訣・凌玄影**の発動後、攻撃が命中したターゲットに対し氷攻撃力×**70%**+自身の最大HP×**10%**+各属性耐性の合計値×**36%**+会心の値×**1.35%**のダメージを毎秒与える。**30**秒間持続。脱手ダメージはスタック不可。極寒ダメージはスキルダメージと見なされる。雷/炎/物理属性武器のいずれかを**1**つ装備している場合、極寒ダメージが**1.3**倍まで UPする。なお、極寒ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "None"
+			},
+			{
+				"description": "**氷刃**の発射後、自身の氷攻撃力+**10%**。さらに付近のターゲットに攻撃力×**104%**のダメージを毎秒与える。両効果は**30**秒間持続。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "現在の武器の攻撃力基本成長率+**16%**。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "**氷刃**の生成数上限が**4**まで UPし、**温度低下**によるダメージの基本倍率が**468%**まで UPする。\r\n**6**秒の間、**温度低下**効果を受けているのがターゲットのみの場合、ターゲットに追加で**封脈**効果を付与し移動速度-**30%**(トップリーグ及びボスには無効)。**封脈**の持続中に再び**氷刃**で当該ターゲットにダメージを与えると氷爆が発動し、攻撃力×**17%**+ターゲットが失っているHPの**2%**のスキルダメージを与える(氷爆ダメージはプレイヤーの氷攻撃力×**20%**～プレイヤーの氷攻撃力×**22%**以内に収まる)。さらに、ターゲットの**封脈**と**温度低下**効果を解除する。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "現在の武器の攻撃力基本成長率+**32%**。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "**晶裂**と**氷気**によるダメージが追加で+**50%**。また、**飛舞落**の使用上限が**10**回までに UPし、使用回数の回復効率が**3**秒ごとに**1**まで UPする。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "**氷刃**の発射後に付与する**温度低下**効果が範囲効果に変化する。また、付近のターゲットに追加で攻撃力×**1170%**のダメージを与える。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			}
+		],
+		"id": "Linghan_ice"
+	},
 	"Suspension_thunder": {
 		"name": "明けの明星",
 		"avatar": {
 			"name": "ネメシス",
-			"description": "記録なし",
 			"advanceId": "imitation_17L1",
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
@@ -3284,7 +3424,6 @@
 		"name": "バルムンク",
 		"avatar": {
 			"name": "フレイヤ",
-			"description": "記録なし",
 			"advanceId": "imitation_28L1",
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
@@ -3432,7 +3571,6 @@
 		"name": "スパーク",
 		"avatar": {
 			"name": "ラビィ",
-			"description": "記録なし",
 			"advanceId": "imitation_21L1",
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
@@ -3508,7 +3646,7 @@
 			"skill": [
 				{
 					"name": "舞い散る火花",
-					"description": "スパークが前方に15秒間存在し続ける【火花】を放つ。【火花】はターゲットとプレイヤー間をバウンドし、初回命中時はターゲットの行動速度を低下させる(非強制)。**4**秒間持続、クールダウン**15**秒。距離が遠いほどダメージも大きくなり、敵に命中すると最大で攻撃力×**350%**+**4200**のダメージと**25**秒間持続する【ブレイズ】マークを与える。さらに銃弾を4発放ち、銃弾1発につきターゲットに攻撃力×**50%**+**300**のダメージを与える。スパークの【ブレイズ】マーク持ちターゲットへの通常攻撃ダメージが+**30%**。ターゲットに自身が与えた燃焼がある場合は、【火花】命中時に燃焼または点火の合計残りダメージ×**45%**の追加ダメージを1回与え(燃焼や点火バフが複数ある場合は合算)、かつその後に1回自動精算する。精算クールダウン**6**秒、スキルのクールダウン**30**秒\r\n**パッシブ**：【火花】存在中はスパークの通常攻撃または火花でダメージを与えるたびに、プレイヤーは【熱エナジー】**1**Ptを累積する(最大+**8**Ptまで)。クールダウン**0.9**秒。【熱エナジー】が上限に達すると、プレイヤーは【究極・熱エナジー】効果を獲得し、炎攻撃力+**10%**。**25**秒間持続",
+					"description": "スパークが前方に15秒間存在し続ける【火花】を放つ。【火花】はターゲットとプレイヤー間をバウンドし、初回命中時はターゲットの行動速度を低下させる(非強制)。**4**秒間持続、クールダウン**15**秒。距離が遠いほどダメージも大きくなり、敵に命中すると最大で攻撃力×**380%**+**4200**のダメージと**25**秒間持続する【ブレイズ】マークを与える。さらに銃弾を4発放ち、銃弾1発につきターゲットに攻撃力×**50%**+**300**のダメージを与える。スパークの【ブレイズ】マーク持ちターゲットへの通常攻撃ダメージが+**30%**。ターゲットに自身が与えた燃焼がある場合は、【火花】命中時に燃焼または点火の合計残りダメージ×**45%**の追加ダメージを1回与え(燃焼や点火バフが複数ある場合は合算)、かつその後に1回自動精算する。精算クールダウン**6**秒、スキルのクールダウン**30**秒\r\n**パッシブ**：【火花】存在中はスパークの通常攻撃または火花でダメージを与えるたびに、プレイヤーは【熱エナジー】**1**Ptを累積する(最大+**8**Ptまで)。クールダウン**0.9**秒。【熱エナジー】が上限に達すると、プレイヤーは【究極・熱エナジー】効果を獲得し、炎攻撃力+**10%**。**25**秒間持続",
 					"icon": "funnel_skill",
 					"id": "GA_FPlayerFunnelSkillFire"
 				}
@@ -3586,7 +3724,6 @@
 		"name": "水流の徹心",
 		"avatar": {
 			"name": "Saki Fuwa",
-			"description": "記録なし",
 			"advanceId": "imitation_22L1",
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
@@ -3676,7 +3813,7 @@
 			"discharge": [
 				{
 					"name": "徹心蓮華",
-					"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。目標にダッシュして連撃を発動し、合計で攻撃力×**536%**+**3216**のダメージを与える",
+					"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。目標にダッシュして連撃を発動し、合計で攻撃力×**590%**+**3216**のダメージを与える",
 					"icon": "skill_dkatana_changeskill",
 					"id": "GA_FPlayerDkatanaChangeSkill_Success"
 				}
@@ -3746,7 +3883,6 @@
 		"name": "シャドーウィーブ",
 		"avatar": {
 			"name": "Lin",
-			"description": "記録なし",
 			"advanceId": "imitation_23L1",
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
@@ -3904,7 +4040,6 @@
 		"name": "破重雷槍",
 		"avatar": {
 			"name": "Tian Lang",
-			"description": "記録なし",
 			"advanceId": "imitation_29L1",
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
@@ -3940,7 +4075,7 @@
 				},
 				{
 					"name": "武曲星",
-					"description": "地上にいる時、破重雷槍を使用して6回攻撃する\r\n1回目：攻撃力×**90.5%**+**543**のダメージとノックバック\r\n2回目：攻撃力×**67.9%**+**407**のダメージとノックバック\r\n3回目：攻撃力×**123%**+**738**のダメージとノックバック\r\n4回目：攻撃力×**217.9%**+**1307**のダメージとノックバック\r\n5回目：攻撃力×**222%**+**1332**のダメージとノックバック\r\n6回目：攻撃力×**291.8%**+**1751**のダメージとノックアップ",
+					"description": "地上にいる時、破重雷槍を使用して6回攻撃する\r\n1回目：攻撃力×**99.3%**+**543**のダメージとノックバック\r\n2回目：攻撃力×**73.2%**+**407**のダメージとノックバック\r\n3回目：攻撃力×**135.8%**+**738**のダメージとノックバック\r\n4回目：攻撃力×**240.5%**+**1307**のダメージとノックバック\r\n5回目：攻撃力×**240.1%**+**1332**のダメージとノックバック\r\n6回目：攻撃力×**314.1%**+**1751**のダメージとノックアップ",
 					"icon": "skill_tianlang_melee",
 					"id": "GA_PlayerTianLangMelee_Melee"
 				},
@@ -4058,7 +4193,6 @@
 		"name": "夕べの祈り",
 		"avatar": {
 			"name": "エスター",
-			"description": "記録なし",
 			"advanceId": "imitation_24L1",
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
@@ -4146,13 +4280,13 @@
 				},
 				{
 					"name": "スターフォール",
-					"description": "ターゲットに飛びかかり、攻撃力×**702.1%**+**4212**のダメージを与えて**強制浮遊**させ、**18**秒「悔悟」マークを付与する。クールダウン**20**秒",
+					"description": "ターゲットに飛びかかり、攻撃力×**771%**+**4212**のダメージを与えて**強制浮遊**させ、**18**秒「悔悟」マークを付与する。クールダウン**20**秒",
 					"icon": "skill_arm_airattack2",
 					"id": "GA_FPlayerArmPublishSkillPhy"
 				},
 				{
 					"name": "光明",
-					"description": "地面を重撃し、目の前のターゲットを**強制ノックアップ**して攻撃力×**702.1%**+**4212**のダメージを与え、**切っ先**を召喚する。切っ先は最大で**3**つまで同時に存在でき、**75**秒間持続する(周囲2mの範囲に1つまで)。このスキルは使用回数を最大**3**回までスタックでき、1回のクールダウンは**20**秒。フィールド上に2つの**切っ先**が存在する場合は**汚れなき光**を生成し、**切っ先**に1回触れるごとに移動距離の半径内にいるターゲットを1回治療してターゲットの攻撃力×**25%**のHPを回復する。フィールド上に3つの**切っ先**が存在する場合は**星雲**を生成し、**切っ先**に1回触れるごとに移動距離の半径内にいるターゲットに(攻撃力×**150%**×移動距離/**5**m)のダメージを与える。",
+					"description": "地面を重撃し、目の前のターゲットを**強制ノックアップ**して攻撃力×**771%**+**4212**のダメージを与え、**切っ先**を召喚する。切っ先は最大で**3**つまで同時に存在でき、**75**秒間持続する(周囲2mの範囲に1つまで)。このスキルは使用回数を最大**3**回までスタックでき、1回のクールダウンは**20**秒。フィールド上に2つの**切っ先**が存在する場合は**汚れなき光**を生成し、**切っ先**に1回触れるごとに移動距離の半径内にいるターゲットを1回治療してターゲットの攻撃力×**25%**のHPを回復する。フィールド上に3つの**切っ先**が存在する場合は**星雲**を生成し、**切っ先**に1回触れるごとに移動距離の半径内にいるターゲットに(攻撃力×**150%**×移動距離/**5**m)のダメージを与える。",
 					"icon": "skill_arm_skill2",
 					"id": "GA_FPlayerArmLawSkillPhy"
 				}
@@ -4230,7 +4364,6 @@
 		"name": "絶響",
 		"avatar": {
 			"name": "レビリア",
-			"description": "記録なし",
 			"advanceId": "imitation_48L1",
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
@@ -4396,7 +4529,6 @@
 		"name": "不滅の翼",
 		"avatar": {
 			"name": "アリス",
-			"description": "記録なし",
 			"advanceId": "imitation_30L1",
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
@@ -4556,7 +4688,6 @@
 		"name": "クローバークロス",
 		"avatar": {
 			"name": "アナベラ",
-			"description": "記録なし",
 			"advanceId": "imitation_26L1",
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
@@ -4704,7 +4835,6 @@
 		"name": "松慧",
 		"avatar": {
 			"name": "Liu Huo",
-			"description": "記録なし",
 			"advanceId": "imitation_37L1",
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
@@ -4820,7 +4950,7 @@
 		},
 		"stars": [
 			{
-				"description": "**炎共鳴**：炎属性武器を**2**つ以上装備すると発動。炎攻撃力+**15%**、炎耐性+**25%**。装備すると常時有効、同系統の効果はスタック不可。\r\n**爆炎**：**松慧**による攻撃が命中した時、付近のターゲットに炎攻撃力×**1.05%**+自身の最大HP×**2%**+各属性耐性の合計値×**55%**+会心の値×**2%**のダメージを与える。**1.5**秒間に1回のみ発動。このダメージは通常攻撃によるダメージと見なされる。任意の雷/氷/物理属性武器を**1**つ装備している場合、爆炎ダメージが**1.3**倍まで UPする。なお、爆炎ダメージはダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+				"description": "**炎共鳴**：炎属性武器を**2**つ以上装備すると発動。炎攻撃力+**15%**、炎耐性+**25%**。装備すると常時有効、同系統の効果はスタック不可。\r\n**爆炎・顕在**：**松慧**による攻撃が命中した時、付近のターゲットに炎攻撃力×**1.05%**+自身の最大HP×**2%**+各属性耐性の合計値×**55%**+会心の値×**2%**のダメージを与える。**1.5**秒間に1回のみ発動。このダメージは通常攻撃によるダメージと見なされる。任意の雷/氷/物理属性武器を**1**つ装備している場合、爆炎ダメージが**1.3**倍まで UPする。なお、爆炎ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4844,7 +4974,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "自身のHPが最大HPの**50%**未満になると、**0.5**秒ごとに**雀羽**を**1**枚消費して最大HPを**2%**回復する。ソロモードの場合、回復効果が**3%**まで UP。この効果はHPが全回復するまで、または**雀羽**をすべて消費しきるまで持続する。装備すると常時有効",
+				"description": "自身のHPが最大HPの**50%**未満になると、**0.5**秒ごとに**雀羽**を**1**枚消費して最大HPを**2%**回復する。ソロモードの場合、HP回復効果が**3%**まで UP。この効果はHPが全回復するまで、または**雀羽**をすべて消費しきるまで持続する。装備すると常時有効",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4882,7 +5012,6 @@
 		"name": "メビウス",
 		"avatar": {
 			"name": "ウーミィ",
-			"description": "記録なし",
 			"advanceId": "imitation_31L1",
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
@@ -5054,7 +5183,6 @@
 		"name": "Endless Bloom",
 		"avatar": {
 			"name": "Fei Se",
-			"description": "記録なし",
 			"advanceId": "imitation_51L1",
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
@@ -5102,7 +5230,7 @@
 				},
 				{
 					"name": "佩玉朗々",
-					"description": "地上にいる時、通常攻撃の4～6回目に通常攻撃を長押しすると佩玉朗々を発動できる。\r\nターゲットに攻撃力×**158%**+**948**のダメージを与え、ノックバックする。",
+					"description": "地上にいる時、通常攻撃の4～6回目に通常攻撃を長押しすると佩玉朗々(はいぎょくろうろう)を発動できる。\r\nターゲットに攻撃力×**158%**+**948**のダメージを与え、ノックバックする。",
 					"icon": "feise_branch3",
 					"id": "GA_FPlayerFeiseMelee_Bracnh3"
 				},
@@ -5114,7 +5242,7 @@
 				},
 				{
 					"name": "Falling Flower",
-					"description": "**細雲弄巧**の発動中、通常攻撃を長押しすると落花を発動できる。\r\n空中から降下し、着地したあと付近のターゲットに攻撃力×**74%**+**444**のダメージを与えてノックアップする。",
+					"description": "**細雲弄巧(さいうんろうこう)**の発動中、通常攻撃を長押しすると落花を発動できる。\r\n空中から降下し、着地したあと付近のターゲットに攻撃力×**74%**+**444**のダメージを与えてノックアップする。",
 					"icon": "feise_jumpattack",
 					"id": "GA_FPlayerFeiseMelee_JumpAttack"
 				}
@@ -5128,7 +5256,7 @@
 				},
 				{
 					"name": "散華",
-					"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez sur un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent infligeant des dégâts équivalant à **209%** de l'ATQ + **1254** aux cibles proches.\r\n\r\nPendant le **Mirage fantastique** de **Tourbillon**, lorsque la première attaque d'esquive infligée avec n'importe quelle arme touche sa cible, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n**Fantaisie de Fei Se**: À sa création, la Fantaisie de Fei Se copie **25%** de l'ATQ max de la cible et les ajoute à l'**ATQ de feu de base** de l'Explorateur (pas moins de **3300** et pas plus de **3450**; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'**une** Fantaisie de Fei Se à la fois.\r\n**Pétale de lotus**: À leur création, les Pétales de lotus sont égaux au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après leur création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
+					"description": "前方回避(方向キー+回避ボタン)を発動してすぐに通常攻撃を行うと、散花を発動できる。付近のターゲットに攻撃力×**209%**+**1254**のダメージを与える。\r\n\r\n**扶揺**で生成した**蜃気楼**の持続中、任意武器による回避攻撃の初回命中時に移花効果が発動し、妃色化身と蓮弁を生成する。\r\n**妃色化身**：妃色化身の生成時、妃色化身はターゲットの最大攻撃力×**25%**をコピーし、プレイヤー自身の**基礎炎攻撃力**に加算する(コピーする攻撃力は**6500**～**10000**に収まる。また、これによって変動した炎攻撃力はプレイヤーのステータス画面に表示されない。トップリーグでは無効)。この効果は妃色化身が消えるまで持続する。また、コピーする攻撃力の数値は妃色化身1つごとに独立して計算される。フィールド上に存在できる妃色化身は最大で**1**つまで。\r\n**蓮弁**：蓮弁の生成時の数は、フィールド上に存在する重蕊以外の自身の武器による召喚物と同数になる。ただし蓮弁の生成後、蓮弁の数はフィールド上に存在する他の召喚物の数の変化に左右されない。また、蓮弁は召喚物と見なされる。",
 					"icon": "feise_evadefront",
 					"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 				},
@@ -5142,13 +5270,13 @@
 			"skill": [
 				{
 					"name": "扶揺",
-					"description": "Inflige des dégâts équivalant à **1008%** de l'ATQ + **6047** aux cibles proches et crée un Mirage fantastique, d'une durée maximale de **25**secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de **20**secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage:\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à **135%** de l'ATQ aux cibles dans le Mirage. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les **5**secondes, inflige Cœur flamboyant aux cibles dans le Mirage, leur infligeant des dégâts de brûlure équivalant à **20%** de l'ATQ pendant **5**secondes. Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de **6%** supplémentaires.",
+					"description": "付近のターゲットに攻撃力×**1008%**+**6047**のダメージを与え、蜃気楼を生成する。蜃気楼は最大で**25**秒間持続。\r\n扶揺のクールダウン中は新スキル・驚鴻(きょうこう)を獲得し、蜃気楼が**20**秒間持続したあと、驚鴻を発動できる。\r\n蜃気楼が消えると、扶揺のクールダウンは即座にリセットされる。なお、扶揺はこれ以外のクールダウンのクリア、リセット、変化の影響は受けない。\r\n\r\n蜃気楼持続中の効果：\r\n毎秒、蜃気楼の範囲内にいるターゲットに攻撃力×**135%**の心蝕ダメージを与える。この心蝕ダメージは通常攻撃と見なされる。\r\n**5**秒ごとに蜃気楼の範囲内にいるターゲットに心炎状態を付与し、攻撃力×**20%**の燃焼ダメージを毎秒与える。**5**秒間持続。蜃気楼内に自身が生成した**妃色化身**または**蓮弁**が**1**つ存在するごとに、心炎によるダメージが追加で+**15%**。",
 					"icon": "feise_skill1",
 					"id": "GA_FPlayerFeiseSkill_Skill1"
 				},
 				{
 					"name": "驚鴻",
-					"description": "扶揺のクールダウン中、新スキル・驚鴻を獲得する。蜃気楼が**20**秒間持続したあと、驚鴻を発動できる。\r\n蜃気楼内の自身が生成した**妃色化身**と**蓮弁**をすべて解除する。**妃色化身**または**蓮弁**を**1**つ解除するごとに付近のターゲットに攻撃力×**180%**+**1080**のダメージを与える。その後、蜃気楼を消し、付近のターゲットに攻撃力×**450%**+**2700**のダメージを与える。",
+					"description": "扶揺のクールダウン中、新スキル「驚鴻(きょうこう)」を獲得する。蜃気楼が**20**秒間持続したあと、驚鴻を発動できる。\r\n蜃気楼内の自身が生成した**妃色化身**と**蓮弁**をすべて解除する。**妃色化身**または**蓮弁**を**1**つ解除するごとに付近のターゲットに攻撃力×**180%**+**1080**のダメージを与える。その後、蜃気楼を打ち消し、付近のターゲットに攻撃力×**450%**+**2700**のダメージを与える。",
 					"icon": "feise_skill2",
 					"id": "GA_FPlayerFeiseSkill_Skill2"
 				}
@@ -5156,7 +5284,7 @@
 			"discharge": [
 				{
 					"name": "瑶池無双",
-					"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, **élimine toutes les altérations sur l'Explorateur** au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à **1090%** de l'ATQ + **6539**. Durant cette période, accorde une immunité aux dégâts pendant **1,5**seconde (non disponible en Ligue ultime).",
+					"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。ターゲットに攻撃力×**1090%**+**6539**のダメージを与え、スキル発動中、被ダメージ無効が**2.6**秒間持続する(トップリーグでは無効)。",
 					"icon": "feise_changeskill",
 					"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 				}
@@ -5164,7 +5292,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Explosion incandescente: Coupe rapide**: quand **Floraison éternelle** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux équivalant à **5%** de l'ATQ de feu + **8%** des PV max de l'Explorateur + **3%** de la somme de tous les types de résistance de l'Explorateur + **10%** de crit aux cibles proches. En combat, toutes les **0,5**seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion incandescente: Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **2.5**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
+				"description": "**炎共鳴**：炎属性武器を**2**つ以上装備すると発動。炎攻撃力+**20%**、炎耐性+**40%**。装備すると常時有効(複数の炎共鳴/炎反応はスタック不可、炎共鳴が優先して発動)。\r\n**爆炎・速斬り**：**重蕊**装備中に、任意の武器による連携スキルが命中した時、最初に付近のターゲットに炎攻撃力×**38%**+自身の最大HP×**1%**+各属性耐性の合計値×**19%**+会心の値×**69%**のダメージを与える。その後、戦闘状態が継続する間、次回以降の速斬りは、**0.5**秒間隔でダメージが上昇し、1回目の速斬りダメージ×**100％**ずつ加算されていく(この加算は最大**30回**まで)。1回目の速斬りダメージが複数発生した場合は、各攻撃が最初に与えたダメージのうちの最大値を基準にする。この速斬りダメージは連携ダメージと見なされる。任意の雷/氷/物理属性武器を**1**つ装備した場合、爆炎ダメージが**1.3**倍まで UPする。爆炎ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5172,7 +5300,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Le multiplicateur de base des dégâts de **Cœur flamboyant** passe à **60%** de l'ATQ. En état de combat, si l'Explorateur inflige plusieurs effets de brûlure, le multiplicateur de base des dégâts de **Cœur flamboyant** est remplacé par le multiplicateur le plus élevé.",
+				"description": "**心炎**ダメージの基本倍率が攻撃力×**120%**まで UP。戦闘状態の時、自身が燃焼状態を複数付与している場合、**心炎**ダメージの基本倍率は最高倍率にまで UPする。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5188,7 +5316,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "フィールド上に存在できる**妃色化身**の数の上限が**2**までアップする。**扶揺**がターゲットに命中すると、追加で**妃色化身**を**1**つ生成する。",
+				"description": "フィールド上に存在できる**妃色化身**の数の上限が**2**まで UPする。**扶揺**がターゲットに命中すると、追加で**妃色化身**を**1**つ生成する。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5204,7 +5332,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé dans le **Mirage**, les dégâts de **Cœur flamboyant** sont accrus de **12%** supplémentaires.\r\nLa consommation d'endurance d'**Effet du lotus** est réduite de **75%**.",
+				"description": "**蜃気楼**内に**妃色化身**または**蓮弁**が**1**つ存在するごとに、**心炎**によるダメージが追加で+**15%**。\r\n**蓮歩飛天**発動中のスタミナ消費-**75%**。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5212,7 +5340,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Le multiplicateur de base des dégâts d'**Usure d'âme** passe à **270%** de l'ATQ, la capacité de fracture est doublée et après avoir touché une cible, vous avez **15%** de chances d'infliger un ralentissement de **65%** pendant **2**secondes (inefficace contre les boss en jeu en équipe et non disponible en Ligue ultime).",
+				"description": "**心蝕**ダメージの基本倍率が攻撃力×**900%**まで UPする。心蝕ダメージによるシールドブレイク率が2倍になり、ターゲットに心蝕ダメージを与えた際に**15%**の確率で**2**秒間かつ**65%**のスロウ効果を付与する(チームプレイ時のボスならびにトップリーグでは無効)。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5226,7 +5354,6 @@
 		"name": "グレイプニル",
 		"avatar": {
 			"name": "フェンリル",
-			"description": "記録なし",
 			"advanceId": "imitation_32L1",
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
@@ -5392,7 +5519,6 @@
 		"name": "Vermilion Bird",
 		"avatar": {
 			"name": "嵐",
-			"description": "記録なし",
 			"advanceId": "imitation_34L1",
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
@@ -5558,7 +5684,6 @@
 		"name": "グロリアスライト",
 		"avatar": {
 			"name": "イカロス",
-			"description": "記録なし",
 			"advanceId": "imitation_35L1",
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
@@ -5718,7 +5843,6 @@
 		"name": "併輪",
 		"avatar": {
 			"name": "玉蘭",
-			"description": "記録なし",
 			"advanceId": "imitation_38L1",
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
@@ -5908,7 +6032,6 @@
 		"name": "執明",
 		"avatar": {
 			"name": "Ming Jing",
-			"description": "記録なし",
 			"advanceId": "imitation_50L1",
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
@@ -6012,7 +6135,7 @@
 		},
 		"stars": [
 			{
-				"description": "**物理共鳴**：物理属性武器を**2**つ以上装備すると発動。物理攻撃力+**15%**、物理耐性+**25%**。装備すると常時有効(複数の物理共鳴はスタック不可、物理共鳴が優先して発動)。\r\n**炎共鳴**：炎属性武器を**2**つ以上装備すると発動。炎攻撃力+**15%**、炎耐性+**25%**。装備すると常時有効(複数の炎共鳴はスタック不可、炎共鳴が優先して発動)。\r\n**破甲・脱手**：**絶谷**の発動後、攻撃が命中したターゲットに対し物理攻撃力×**70%**+自身の最大HP×**1%**+各属性耐性の合計値×**36%**+会心の値×**1.35%**のダメージを毎秒与える。**30**秒間持続。脱手ダメージはスタック不可。破甲のダメージはスキルダメージと見なされる。雷/炎/氷属性武器のいずれかを**1**つ装備している場合、破甲ダメージが**1.3**倍まで UPする。なお、破甲ダメージはダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+				"description": "**物理共鳴**：物理属性武器を**2**つ以上装備すると発動。物理攻撃力+**15%**、物理耐性+**25%**。装備すると常時有効(複数の物理共鳴はスタック不可、物理共鳴が優先して発動)。\r\n**炎共鳴**：炎属性武器を**2**つ以上装備すると発動。炎攻撃力+**15%**、炎耐性+**25%**。装備すると常時有効(複数の炎共鳴はスタック不可、炎共鳴が優先して発動)。\r\n**破甲・脱手**：**絶谷**の発動後、攻撃が命中したターゲットに対し物理攻撃力×**70%**+自身の最大HP×**1%**+各属性耐性の合計値×**36%**+会心の値×**1.35%**のダメージを毎秒与える。**30**秒間持続。脱手ダメージはスタック不可。破甲のダメージはスキルダメージと見なされる。雷/炎/氷属性武器のいずれかを**1**つ装備している場合、破甲ダメージが**1.3**倍まで UPする。なお、破甲ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6074,7 +6197,6 @@
 		"name": "月星の環",
 		"avatar": {
 			"name": "フィオナ",
-			"description": "記録なし",
 			"advanceId": "imitation_36L1",
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",

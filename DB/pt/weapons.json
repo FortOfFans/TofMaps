@@ -24,13 +24,13 @@
 			"normals": [
 				{
 					"name": "Lançada",
-					"description": "No chão, branda a lança longa para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **20.1%** do ATQ + **121** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **18.5%** do ATQ + **111** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **38.5%** do ATQ + **231** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **59.2%** do ATQ + **355** e repele o alvo uma curta distância.\r\nQuinto ataque: causa dano de **93.8%** do ATQ + **563** e repele o alvo uma distância significativa.",
+					"description": "No chão, branda a lança longa para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **20.1%** do ATQ + **121** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **18.5%** do ATQ + **111** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **38.5%** do ATQ + **231** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **59.2%** do ATQ + **355** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **93.8%** do ATQ + **563** e repele o alvo uma distância significativa.",
 					"icon": "skill_spear_melee",
 					"id": "GA_FPlayerSpearMelee_Melee_R"
 				},
 				{
 					"name": "Ataque Suspenso",
-					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **22.3%** do ATQ + **134**.\r\nSegundo ataque: causa dano de **18.8%** do ATQ + **113**.\r\nTerceiro ataque: causa dano de **37.1%** do ATQ + **223**.\r\nQuarto ataque: causa dano de **89%** do ATQ + **534**.",
+					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **22.3%** do ATQ + **134**.\r\nSegundo ataque: Causa dano de **18.8%** do ATQ + **113**.\r\nTerceiro ataque: Causa dano de **37.1%** do ATQ + **223**.\r\nQuarto ataque: Causa dano de **89%** do ATQ + **534**.",
 					"icon": "skill_spear_air",
 					"id": "GA_FPlayerSpearMelee_AirAttack_R"
 				},
@@ -56,7 +56,7 @@
 			"dodge": [
 				{
 					"name": "Chute Desorientador",
-					"description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Chute Desorientador.\r\nCausa dano de **58.2%** do ATQ + **349** ao alvo atingido, o repele uma boa distância e o **atordoa** durante **1** segundo (alvos não Errantes) ou **0,5** segundo (Errantes).",
+					"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar Chute Desorientador.\r\nCausa dano de **58.2%** do ATQ + **349** ao alvo atingido, o repele uma boa distância e o **atordoa** durante **1** segundo (alvos não Errantes) ou **0,5** segundo (Errantes).",
 					"icon": "skill_spear_frontattack",
 					"id": "GA_FPlayerSpearEvade_FrontAttack_R"
 				},
@@ -126,13 +126,13 @@
 			"normals": [
 				{
 					"name": "Cutilada",
-					"description": "No chão, branda um par de adagas para executar até 5 ataques consecutivos.\r\nPrimeiro ataque: causa dano de **24.5%** do ATQ + **147** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **29.8%** do ATQ + **179** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **37.1%** do ATQ + **223** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **39.5%** do ATQ + **237** e repele o alvo uma curta distância.\r\nQuinto ataque: causa dano de **82.3%** do ATQ + **494** e repele o alvo uma curta distância.",
+					"description": "No chão, branda um par de adagas para executar até 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **24.5%** do ATQ + **147** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **29.8%** do ATQ + **179** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **37.1%** do ATQ + **223** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **39.5%** do ATQ + **237** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **82.3%** do ATQ + **494** e repele o alvo uma curta distância.",
 					"icon": "skill_ds_melee",
 					"id": "GA_FPlayerDsMelee_Melee_R"
 				},
 				{
 					"name": "Floreio Aéreo",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **26.7%** do ATQ + **160**.\r\nSegundo ataque: causa dano de **15.7%** do ATQ + **94**.\r\nTerceiro ataque: causa dano de **37.4%** do ATQ + **224**.\r\nQuarto ataque: causa dano de **56.4%** do ATQ + **338**.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **26.7%** do ATQ + **160**.\r\nSegundo ataque: Causa dano de **15.7%** do ATQ + **94**.\r\nTerceiro ataque: Causa dano de **37.4%** do ATQ + **224**.\r\nQuarto ataque: Causa dano de **56.4%** do ATQ + **338**.",
 					"icon": "skill_ds_air",
 					"id": "GA_FPlayerDsMelee_AirAttack_R"
 				},
@@ -158,7 +158,7 @@
 			"dodge": [
 				{
 					"name": "Adagas Voadoras",
-					"description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Adagas Voadoras.\r\nAo atingir, **suspende muito** o alvo e causa dano de **21.5%** do ATQ + **129**. Continue tocando para lançar mais **6** Adagas Voadoras. Cada uma causa dano de **8.9%** do ATQ + **53**.",
+					"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar Adagas Voadoras.\r\nAo atingir, **suspende muito** o alvo e causa dano de **21.5%** do ATQ + **129**. Continue tocando para lançar mais **6** Adagas Voadoras. Cada uma causa dano de **8.9%** do ATQ + **53**.",
 					"icon": "skill_ds_branch",
 					"id": "GA_FPlayerDsEvade_FrontAttack_R"
 				},
@@ -222,13 +222,13 @@
 			"normals": [
 				{
 					"name": "Corte Rápido",
-					"description": "No chão, branda a espada para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **34.6%** do ATQ + **208** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **30.1%** do ATQ + **181** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **27.4%** do ATQ + **164** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **47.9%** do ATQ + **287** e repele o alvo uma curta distância.\r\nQuinto ataque: causa dano de **72.2%** do ATQ + **433** e **lança** o alvo no ar.",
+					"description": "No chão, branda a espada para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **34.6%** do ATQ + **208** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **30.1%** do ATQ + **181** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **27.4%** do ATQ + **164** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **47.9%** do ATQ + **287** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **72.2%** do ATQ + **433** e **lança** o alvo no ar.",
 					"icon": "skill_sword_melee",
 					"id": "GA_FPlayerSwordMelee_Melee_R"
 				},
 				{
 					"name": "Ataque Suspenso",
-					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **15.7%** do ATQ + **94**.\r\nSegundo ataque: causa dano de **25.3%** do ATQ + **152**.\r\nTerceiro ataque: causa dano de **45.1%** do ATQ + **271**.\r\nQuarto ataque: causa dano de **67.4%** do ATQ + **404** e **derruba** o alvo.",
+					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **15.7%** do ATQ + **94**.\r\nSegundo ataque: Causa dano de **25.3%** do ATQ + **152**.\r\nTerceiro ataque: Causa dano de **45.1%** do ATQ + **271**.\r\nQuarto ataque: Causa dano de **67.4%** do ATQ + **404** e **derruba** o alvo.",
 					"icon": "skill_sword_air",
 					"id": "GA_FPlayerSwordMelee_AirAttack_R"
 				},
@@ -240,7 +240,7 @@
 				},
 				{
 					"name": "Mergulho Lacerante",
-					"description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\r\nEnquanto cai, cada golpe causa dano de **6.4%** do ATQ + **38**. Ao aterrissar, causa dano de **35.6%** do ATQ + **214** e repele os alvos ao redor.\r\nQuanto maior a altura, maior o dano causado. Chega a até **600%** do dano.",
+					"description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\r\nEnquanto cai, cada golpe causa dano de **6.4%** do ATQ + **38**. Ao aterrissar, causa dano de **35.6%** do ATQ + **214** e repele os alvos circundantes.\r\nQuanto maior a altura, maior o dano causado. Chega a até **600%** do dano.",
 					"icon": "skill_sword_jump",
 					"id": "GA_FPlayerSwordMelee_JumpAttack_R"
 				},
@@ -270,7 +270,7 @@
 			"discharge": [
 				{
 					"name": "Ímpeto Desenfreado",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, **remove todos os efeitos negativos de você**, corre para o alvo e o **suspende muito** ao trocar para esta arma. Causa dano de **266.6%** do ATQ + **1599**.",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você**, corre para o alvo e o **suspende muito** ao trocar para esta arma. Causa dano de **266.6%** do ATQ + **1599**.",
 					"icon": "skill_sword_changeskill",
 					"id": "GA_FPlayerSwordChangeSkill_Success_R"
 				}
@@ -312,7 +312,7 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, saque o arco para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **0%** do ATQ + **1**.\r\nSegundo ataque: causa dano de **2%** do ATQ + **3**.\r\nTerceiro ataque: causa dano de **4%** do ATQ + **5**.\r\nQuarto ataque: causa dano de **6%** do ATQ + **7**.\r\nQuinto ataque: causa dano de **8%** do ATQ + **9** e repele o alvo uma curta distância.",
+					"description": "No chão, saque o arco para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **27.3%** do ATQ + **164**.\r\nSegundo ataque: Causa dano de **24.4%** do ATQ + **146**.\r\nTerceiro ataque: Causa dano de **43.8%** do ATQ + **263**.\r\nQuarto ataque: Causa dano de **67.8%** do ATQ + **407**.\r\nQuinto ataque: Causa dano de **62.9%** do ATQ + **377** e repele o alvo uma curta distância.",
 					"icon": "bow_skill",
 					"id": "GA_FPlayerBowMeleeNew_Melee"
 				},
@@ -330,7 +330,7 @@
 				},
 				{
 					"name": "Saraivada Aérea",
-					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **31.5%** do ATQ + **189**.\r\nSegundo ataque: causa dano de **41.4%** do ATQ + **248**.\r\nTerceiro ataque: causa dano de **63%** do ATQ + **378**.\r\nQuarto ataque: causa dano de **94.8%** do ATQ + **569**.",
+					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **31.5%** do ATQ + **189**.\r\nSegundo ataque: Causa dano de **41.4%** do ATQ + **248**.\r\nTerceiro ataque: Causa dano de **63%** do ATQ + **378**.\r\nQuarto ataque: Causa dano de **94.8%** do ATQ + **569**.",
 					"icon": "skill_bow_power",
 					"id": "GA_FPlayerBowMeleeNew_AirAttack"
 				}
@@ -360,7 +360,7 @@
 			"discharge": [
 				{
 					"name": "Salva Explosiva",
-					"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e lança uma Salva Explosiva sobre o alvo. Causa dano de **0%** do ATQ + **1**.",
+					"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e lança uma Salva Explosiva sobre o alvo. Causa dano de **396%** do ATQ + **2376**.",
 					"icon": "skill_artifact11_1",
 					"id": "GA_FPlayerBowChangeSkill_Success"
 				}
@@ -381,7 +381,6 @@
 		"name": "Cajado das Cicatrizes",
 		"avatar": {
 			"name": "Pepper",
-			"description": "Desconhecido",
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
@@ -410,13 +409,13 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, branda o cajado para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **33.9%** do ATQ + **203**.\r\nSegundo ataque: causa dano de **25.4%** do ATQ + **152**.\r\nTerceiro ataque: causa dano de **41%** do ATQ + **246**.\r\nQuarto ataque: causa dano de **56.1%** do ATQ + **337**.\r\nQuinto ataque: causa dano de **98.8%** do ATQ + **593**.",
+					"description": "No chão, branda o cajado para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **33.9%** do ATQ + **203**.\r\nSegundo ataque: Causa dano de **25.4%** do ATQ + **152**.\r\nTerceiro ataque: Causa dano de **41%** do ATQ + **246**.\r\nQuarto ataque: Causa dano de **56.1%** do ATQ + **337**.\r\nQuinto ataque: Causa dano de **98.8%** do ATQ + **593**.",
 					"icon": "pugong_staves",
 					"id": "GA_FPlayerStavesMelee_Melee"
 				},
 				{
 					"name": "Cajadada Elevada",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **43.9%** do ATQ + **263**.\r\nSegundo ataque: causa dano de **31.7%** do ATQ + **190**.\r\nTerceiro ataque: causa dano de **34.4%** do ATQ + **206**.\r\nQuarto ataque: causa dano de **61.6%** do ATQ + **370**.\r\nQuinto ataque: causa dano de **64.3%** do ATQ + **386**.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **43.9%** do ATQ + **263**.\r\nSegundo ataque: Causa dano de **31.7%** do ATQ + **190**.\r\nTerceiro ataque: Causa dano de **34.4%** do ATQ + **206**.\r\nQuarto ataque: Causa dano de **61.6%** do ATQ + **370**.\r\nQuinto ataque: Causa dano de **64.3%** do ATQ + **386**.",
 					"icon": "skill_staves_air",
 					"id": "GA_FPlayerStavesMelee_AirAttack"
 				},
@@ -442,7 +441,7 @@
 				},
 				{
 					"name": "Ondulação",
-					"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para usar Ondulação.\r\nCada pulso energético causa dano de **30.5%** do ATQ + **183** a alvos.\r\nRecupera **75** pontos de carga de arma ao usar.",
+					"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para acionar Ondulação.\r\nCada pulso energético causa dano de **30.5%** do ATQ + **183** a alvos.\r\nRecupera **75** pontos de carga de arma ao usar.",
 					"icon": "skill_staves_frontattack",
 					"id": "GA_FPlayerStavesEvade_FrontAttack"
 				},
@@ -533,7 +532,6 @@
 		"name": "Exterminadora",
 		"avatar": {
 			"name": "Hilda",
-			"description": "Desconhecido",
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
@@ -655,7 +653,6 @@
 		"name": "Minifuracão",
 		"avatar": {
 			"name": "Gnonno",
-			"description": "Desconhecido",
 			"advanceId": "imitation_27L1",
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
@@ -691,7 +688,7 @@
 				},
 				{
 					"name": "Golpe Rodopiante",
-					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas e consumir vigor.\r\nPrimeiro ataque: Causa dano de **72.1%** do ATQ mais **433**.\r\nSegundo ataque: Causa dano de **60.3%** do ATQ mais **362**.\r\nTerceiro ataque: Causa dano de **55.4%** do ATQ mais **332**.\r\nQuarto ataque: Causa dano de **100.7%** do ATQ mais **604**.\r\nQuinto ataque: Causa dano de **134.7%** do ATQ mais **808**.",
+					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas, consumindo vigor.\r\nPrimeiro ataque: Causa dano de **72.1%** do ATQ + **433**.\r\nSegundo ataque: Causa dano de **60.3%** do ATQ + **362**.\r\nTerceiro ataque: Causa dano de **55.4%** do ATQ + **332**.\r\nQuarto ataque: Causa dano de **100.7%** do ATQ + **604**.\r\nQuinto ataque: Causa dano de **134.7%** do ATQ + **808**.",
 					"icon": "skill_chainsaw_airattack",
 					"id": "GA_FPlayerChainsawMelee_AirAttack"
 				},
@@ -735,7 +732,7 @@
 				},
 				{
 					"name": "Tentáculo Perseguidor",
-					"description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Tentáculo Perseguidor. Causa dano de **106.3%** do ATQ + **638** aos alvos próximos.",
+					"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar o Tentáculo Perseguidor. Causa dano de **106.3%** do ATQ + **638** aos alvos próximos.",
 					"icon": "skill_chainsaw_evadeattack",
 					"id": "GA_FPlayerChainsawEvade_EvadeAttackFront"
 				}
@@ -821,7 +818,6 @@
 		"name": "Esmurrador",
 		"avatar": {
 			"name": "Ene",
-			"description": "Desconhecido",
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
@@ -850,7 +846,7 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, branda o martelo para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **103%** do ATQ + **618** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **83.9%** do ATQ + **503** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **212.4%** do ATQ + **1274** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **356.2%** do ATQ + **2137** e lança o alvo no ar.\r\nNo modo Irrupção, branda o martelo para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **102%** do ATQ + **612** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **87.8%** do ATQ + **527** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **231.3%** do ATQ + **1388** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **425.7%** do ATQ + **2554** e **suspende muito** o alvo.",
+					"description": "No chão, branda o martelo para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **103%** do ATQ + **618** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **83.9%** do ATQ + **503** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **212.4%** do ATQ + **1274** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **356.2%** do ATQ + **2137** e lança o alvo no ar.\r\nNo modo Irrupção, branda o martelo para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **102%** do ATQ + **612** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **87.8%** do ATQ + **527** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **231.3%** do ATQ + **1388** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **425.7%** do ATQ + **2554** e **suspende muito** o alvo.",
 					"icon": "pugong_hammer",
 					"id": "GA_FPlayerHammerMelee_Melee"
 				},
@@ -874,7 +870,7 @@
 				},
 				{
 					"name": "Pancada Repulsora",
-					"description": "Segure o botão de ataque normal para usar Pancada Repulsora. (O ataque pode ser concentrado até 3 acúmulos.) Recebe corpo de aço e imunidade a todos os efeitos de controle enquanto carrega.\r\nPrimeiro acúmulo: causa dano de **207.6%** do ATQ + **1245** e suspende o alvo.\r\nSegundo acúmulo: causa dano de **519.1%** do ATQ + **3114** e **suspende muito** o alvo.\r\nTerceiro ataque: causa dano de **973.2%** do ATQ + **5839** e **suspende muito** o alvo.\r\nDurante Irrupção, segure o botão de ataque normal para usar Golpes Furiosos, que causa dano de **676.7%** do ATQ + **4060** e **suspende muito** o alvo.",
+					"description": "Segure o botão de ataque normal para usar Pancada Repulsora. (O ataque pode ser concentrado até 3 acúmulos.) Recebe corpo de aço e imunidade a todos os efeitos de controle enquanto carrega.\r\nPrimeiro acúmulo: causa dano de **207.6%** do ATQ + **1245** e suspende o alvo.\r\nSegundo acúmulo: causa dano de **519.1%** do ATQ + **3114** e **suspende muito** o alvo.\r\nTerceiro ataque: Causa dano de **973.2%** do ATQ + **5839** e **suspende muito** o alvo.\r\nDurante Irrupção, segure o botão de ataque normal para usar Golpes Furiosos, que causa dano de **676.7%** do ATQ + **4060** e **suspende muito** o alvo.",
 					"icon": "skill_hammer_jump-05",
 					"id": "GA_FPlayerHammerMelee_PowerAttack_OS"
 				}
@@ -979,7 +975,6 @@
 		"name": "Pena do Rouxinol",
 		"avatar": {
 			"name": "Bai Ling",
-			"description": "Desconhecido",
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
@@ -1008,7 +1003,7 @@
 			"normals": [
 				{
 					"name": "Saque Ligeiro",
-					"description": "No chão, saque o arco para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **45.5%** do ATQ + **273**.\r\nSegundo ataque: causa dano de **40.7%** do ATQ + **244**.\r\nTerceiro ataque: causa dano de **73%** do ATQ + **438**.\r\nQuarto ataque: causa dano de **113%** do ATQ + **678**.\r\nQuinto ataque: causa dano de **104.8%** do ATQ + **629** e repele o alvo uma curta distância.",
+					"description": "No chão, saque o arco para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **45.5%** do ATQ + **273**.\r\nSegundo ataque: Causa dano de **40.7%** do ATQ + **244**.\r\nTerceiro ataque: Causa dano de **73%** do ATQ + **438**.\r\nQuarto ataque: Causa dano de **113%** do ATQ + **678**.\r\nQuinto ataque: Causa dano de **104.8%** do ATQ + **629** e repele o alvo uma curta distância.",
 					"icon": "bow_skill",
 					"id": "GA_FPlayerBowMeleeNew_Melee_R"
 				},
@@ -1026,7 +1021,7 @@
 				},
 				{
 					"name": "Saraivada Aérea",
-					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **52.5%** do ATQ + **315**.\r\nSegundo ataque: causa dano de **69%** do ATQ + **414**.\r\nTerceiro ataque: causa dano de **105%** do ATQ + **630**.\r\nQuarto ataque: causa dano de **158%** do ATQ + **948**.",
+					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **52.5%** do ATQ + **315**.\r\nSegundo ataque: Causa dano de **69%** do ATQ + **414**.\r\nTerceiro ataque: Causa dano de **105%** do ATQ + **630**.\r\nQuarto ataque: Causa dano de **158%** do ATQ + **948**.",
 					"icon": "skill_bow_power",
 					"id": "GA_FPlayerBowMeleeNew_AirAttack_R"
 				}
@@ -1125,7 +1120,6 @@
 		"name": "Alabarda Trovejante",
 		"avatar": {
 			"name": "Echo",
-			"description": "Desconhecido",
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
@@ -1154,13 +1148,13 @@
 			"normals": [
 				{
 					"name": "Lançada",
-					"description": "No chão, branda a lança longa para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **33.3%** do ATQ + **200** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **30.5%** do ATQ + **183** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **63.8%** do ATQ + **383** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **88%** do ATQ + **528** e repele o alvo uma curta distância.\r\nQuinto ataque: causa dano de **155.1%** do ATQ + **931** e repele o alvo uma distância significativa.",
+					"description": "No chão, branda a lança longa para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **33.3%** do ATQ + **200** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **30.5%** do ATQ + **183** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **63.8%** do ATQ + **383** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **88%** do ATQ + **528** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **155.1%** do ATQ + **931** e repele o alvo uma distância significativa.",
 					"icon": "skill_spear_melee",
 					"id": "GA_FPlayerSpearMelee_MeleeThu_SSR"
 				},
 				{
 					"name": "Ataque Suspenso",
-					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **37%** do ATQ + **222**.\r\nSegundo ataque: causa dano de **31.4%** do ATQ + **188**.\r\nTerceiro ataque: causa dano de **61.8%** do ATQ + **371**.\r\nQuarto ataque: causa dano de **148.4%** do ATQ + **890**.",
+					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **37%** do ATQ + **222**.\r\nSegundo ataque: Causa dano de **31.4%** do ATQ + **188**.\r\nTerceiro ataque: Causa dano de **61.8%** do ATQ + **371**.\r\nQuarto ataque: Causa dano de **148.4%** do ATQ + **890**.",
 					"icon": "skill_spear_air",
 					"id": "GA_FPlayerSpearMelee_AirAttackThu_SSR"
 				},
@@ -1186,7 +1180,7 @@
 			"dodge": [
 				{
 					"name": "Chute Desorientador",
-					"description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Chute Desorientador.\r\nCausa dano de **97.2%** do ATQ + **583** ao alvo atingido, o repele uma boa distância e o **atordoa** durante **1** segundo (alvos não Errantes) ou **0,5** segundo (Errantes).",
+					"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar Chute Desorientador.\r\nCausa dano de **97.2%** do ATQ + **583** ao alvo atingido, o repele uma boa distância e o **atordoa** durante **1** segundo (alvos não Errantes) ou **0,5** segundo (Errantes).",
 					"icon": "skill_spear_frontattack",
 					"id": "GA_FPlayerSpearEvade_FrontAttackThu_SSR"
 				},
@@ -1214,7 +1208,7 @@
 			"discharge": [
 				{
 					"name": "Lança Relampejante",
-					"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você**, em seguida pula no ar e arremessa uma lança relampejante que explode ao atingir o chão. Causa dano em área de **400.5%** do ATQ + **2403** e **paralisia forte** nos alvos durante **1** segundo.",
+					"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você**, em seguida pula no ar e arremessa uma lança relampejante que explode ao atingir o chão. Causa dano em área de **400.5%** do ATQ + **2403** e **paralisia forte** aos alvos durante **1** segundo.",
 					"icon": "skill_spear_changeskill",
 					"id": "GA_FPlayerSpearChangeSkill_SuccessThu_SSR"
 				}
@@ -1283,7 +1277,6 @@
 		"name": "Adagas Trovejantes",
 		"avatar": {
 			"name": "Crow",
-			"description": "Desconhecido",
 			"advanceId": "imitation_13L1",
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
@@ -1313,13 +1306,13 @@
 			"normals": [
 				{
 					"name": "Cutilada",
-					"description": "No chão, branda um par de adagas para executar até 5 ataques consecutivos.\r\nPrimeiro ataque: causa dano de **0%** do ATQ + **1** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **2%** do ATQ + **3** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **4%** do ATQ + **5** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **6%** do ATQ + **7** e repele o alvo uma curta distância.\r\nQuinto ataque: causa dano de **8%** do ATQ + **9** e repele o alvo uma curta distância.",
+					"description": "No chão, branda um par de adagas para executar até 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **0%** do ATQ + **1** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **2%** do ATQ + **3** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **4%** do ATQ + **5** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **6%** do ATQ + **7** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **8%** do ATQ + **9** e repele o alvo uma curta distância.",
 					"icon": "skill_ds_melee",
 					"id": "GA_FPlayerDsMelee_MeleeThu_SSR"
 				},
 				{
 					"name": "Floreio Aéreo",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **0%** do ATQ + **1**.\r\nSegundo ataque: causa dano de **2%** do ATQ + **3**.\r\nTerceiro ataque: causa dano de **4%** do ATQ + **5**.\r\nQuarto ataque: causa dano de **6%** do ATQ + **7**.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **0%** do ATQ + **1**.\r\nSegundo ataque: Causa dano de **2%** do ATQ + **3**.\r\nTerceiro ataque: Causa dano de **4%** do ATQ + **5**.\r\nQuarto ataque: Causa dano de **6%** do ATQ + **7**.",
 					"icon": "skill_ds_air",
 					"id": "GA_FPlayerDsMelee_AirAttackThu_SSR"
 				},
@@ -1345,7 +1338,7 @@
 			"dodge": [
 				{
 					"name": "Adagas Voadoras",
-					"description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Adagas Voadoras.\r\nGolpeia um alvo **5** vezes. Cada golpe causa dano de **0%** do ATQ + **1**. Enquanto estiver ativo, fica imune a efeitos de controle.",
+					"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar Adagas Voadoras.\r\nGolpeia um alvo **5** vezes. Cada golpe causa dano de **0%** do ATQ + **1**. Enquanto estiver ativo, fica imune a efeitos de controle.",
 					"icon": "skill_ds_branch",
 					"id": "GA_FPlayerDsEvade_FrontAttackThu_SSR"
 				},
@@ -1436,7 +1429,6 @@
 		"name": "Gume Róseo",
 		"avatar": {
 			"name": "Meryl",
-			"description": "Desconhecido",
 			"advanceId": "imitation_3L1",
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
@@ -1466,13 +1458,13 @@
 			"normals": [
 				{
 					"name": "Talho Pesado",
-					"description": "No chão, branda o montante para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **72.9%** do ATQ + **437** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **60.1%** do ATQ + **361** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **105.4%** do ATQ + **632** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **156.3%** do ATQ + **938**, **lança o alvo alto no ar**, depois lança-o no ar ao aterrissar.",
+					"description": "No chão, branda o montante para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **72.9%** do ATQ + **437** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **60.1%** do ATQ + **361** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **105.4%** do ATQ + **632** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **156.3%** do ATQ + **938**, **lança o alvo alto no ar**, depois lança-o no ar ao aterrissar.",
 					"icon": "skill_bigsword_melee",
 					"id": "GA_FPlayerBigSwordMelee_MeleeIce_SSR"
 				},
 				{
 					"name": "Golpe Aéreo",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **106.5%** do ATQ + **639**.\r\nSegundo ataque: causa dano de **87.5%** do ATQ + **525**.\r\nTerceiro ataque: causa dano de **156%** do ATQ + **936**.\r\nQuarto ataque: causa dano de **140.5%** do ATQ + **843** e **derruba** o alvo, depois lança-o no ar ao aterrissar.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **106.5%** do ATQ + **639**.\r\nSegundo ataque: Causa dano de **87.5%** do ATQ + **525**.\r\nTerceiro ataque: Causa dano de **156%** do ATQ + **936**.\r\nQuarto ataque: Causa dano de **140.5%** do ATQ + **843** e **derruba** o alvo, depois lança-o no ar ao aterrissar.",
 					"icon": "skill_bigsword_air",
 					"id": "GA_FPlayerBigSwordMelee_AirAttackIce_SSR"
 				},
@@ -1510,7 +1502,7 @@
 				},
 				{
 					"name": "Devastação",
-					"description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Devastação.\r\nCada golpe causa dano de **65.9%** do ATQ + **395** e **lança** inimigos no ar.",
+					"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar Devastação.\r\nCada golpe causa dano de **65.9%** do ATQ + **395** e **lança** inimigos no ar.",
 					"icon": "skill_bigsword_frontattack",
 					"id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR"
 				},
@@ -1532,7 +1524,7 @@
 			"discharge": [
 				{
 					"name": "Barreira Gélida",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, **remove todos os efeitos negativos de você** e golpeia o chão para formar uma barreira ao trocar para esta arma. Causa dano de **553.5%** do ATQ + **3321** e suspende alvos. Isso reduz a velocidade deles em **50%**, impedindo também pulos e esquivas. A barreira dura **5** segundos e bloqueia projéteis.",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você** e golpeia o chão para formar uma barreira ao trocar para esta arma. Causa dano de **553.5%** do ATQ + **3321** e suspende alvos. Isso reduz a velocidade deles em **50%**, impedindo também pulos e esquivas. A barreira dura **5** segundos e bloqueia projéteis.",
 					"icon": "skill_master_004",
 					"id": "GA_FPlayerBigSwordChangeSkill_SuccessIce_SSR"
 				}
@@ -1601,7 +1593,6 @@
 		"name": "Arco Zero Grau",
 		"avatar": {
 			"name": "Tsubasa",
-			"description": "Desconhecido",
 			"advanceId": "imitation_7L1",
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
@@ -1631,7 +1622,7 @@
 			"normals": [
 				{
 					"name": "Saque Ligeiro",
-					"description": "No chão, saque o arco para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **53.7%** do ATQ + **322**.\r\nSegundo ataque: causa dano de **48.1%** do ATQ + **288**.\r\nTerceiro ataque: causa dano de **86.5%** do ATQ + **519**.\r\nQuarto ataque: causa dano de **133.3%** do ATQ + **800**.\r\nQuinto ataque: causa dano de **123.8%** do ATQ + **743** e repele o alvo uma curta distância.",
+					"description": "No chão, saque o arco para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **53.7%** do ATQ + **322**.\r\nSegundo ataque: Causa dano de **48.1%** do ATQ + **288**.\r\nTerceiro ataque: Causa dano de **86.5%** do ATQ + **519**.\r\nQuarto ataque: Causa dano de **133.3%** do ATQ + **800**.\r\nQuinto ataque: Causa dano de **123.8%** do ATQ + **743** e repele o alvo uma curta distância.",
 					"icon": "bow_skill",
 					"id": "GA_FPlayerBowMeleeNew_MeleeIce_SSR"
 				},
@@ -1649,7 +1640,7 @@
 				},
 				{
 					"name": "Saraivada Aérea",
-					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **61.9%** do ATQ + **372**.\r\nSegundo ataque: causa dano de **81.4%** do ATQ + **488**.\r\nTerceiro ataque: causa dano de **124%** do ATQ + **744**.\r\nQuarto ataque: causa dano de **186.8%** do ATQ + **1121**.",
+					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **61.9%** do ATQ + **372**.\r\nSegundo ataque: Causa dano de **81.4%** do ATQ + **488**.\r\nTerceiro ataque: Causa dano de **124%** do ATQ + **744**.\r\nQuarto ataque: Causa dano de **186.8%** do ATQ + **1121**.",
 					"icon": "skill_bow_power",
 					"id": "GA_FPlayerBowMeleeNew_AirAttackIce_SSR"
 				}
@@ -1748,7 +1739,6 @@
 		"name": "Zero Absoluto",
 		"avatar": {
 			"name": "Cocoritter",
-			"description": "Desconhecido",
 			"advanceId": "imitation_11L1",
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
@@ -1778,13 +1768,13 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, branda o cajado para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **59.8%** do ATQ + **359**.\r\nSegundo ataque: causa dano de **44.9%** do ATQ + **270**.\r\nTerceiro ataque: causa dano de **72.2%** do ATQ + **433**.\r\nQuarto ataque: causa dano de **98.7%** do ATQ + **592**.\r\nQuinto ataque: causa dano de **174.2%** do ATQ + **1045**.",
+					"description": "No chão, branda o cajado para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **59.8%** do ATQ + **359**.\r\nSegundo ataque: Causa dano de **44.9%** do ATQ + **270**.\r\nTerceiro ataque: Causa dano de **72.2%** do ATQ + **433**.\r\nQuarto ataque: Causa dano de **98.7%** do ATQ + **592**.\r\nQuinto ataque: Causa dano de **174.2%** do ATQ + **1045**.",
 					"icon": "pugong_staves",
 					"id": "GA_FPlayerStavesMelee_Melee_SSR"
 				},
 				{
 					"name": "Cajadada Elevada",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **77.6%** do ATQ + **465**.\r\nSegundo ataque: causa dano de **55.9%** do ATQ + **336**.\r\nTerceiro ataque: causa dano de **60.6%** do ATQ + **364**.\r\nQuarto ataque: causa dano de **109%** do ATQ + **655**.\r\nQuinto ataque: causa dano de **113.5%** do ATQ + **681**.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **77.6%** do ATQ + **465**.\r\nSegundo ataque: Causa dano de **55.9%** do ATQ + **336**.\r\nTerceiro ataque: Causa dano de **60.6%** do ATQ + **364**.\r\nQuarto ataque: Causa dano de **109%** do ATQ + **655**.\r\nQuinto ataque: Causa dano de **113.5%** do ATQ + **681**.",
 					"icon": "skill_staves_air",
 					"id": "GA_FPlayerStavesMelee_AirAttack_SSR"
 				},
@@ -1810,7 +1800,7 @@
 				},
 				{
 					"name": "Ondulação",
-					"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para usar Ondulação.\r\nCada pulso energético causa dano de **45.9%** do ATQ + **275** a alvos.\r\nRecupera **75** pontos de carga de arma ao usar.",
+					"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para acionar Ondulação.\r\nCada pulso energético causa dano de **45.9%** do ATQ + **275** a alvos.\r\nRecupera **75** pontos de carga de arma ao usar.",
 					"icon": "skill_staves_frontattack",
 					"id": "GA_FPlayerStavesEvade_FrontAttack_SSR"
 				},
@@ -1902,7 +1892,6 @@
 		"name": "Gadanha do Corvo",
 		"avatar": {
 			"name": "キング",
-			"description": "Desconhecido",
 			"advanceId": "imitation_9L1",
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
@@ -1932,13 +1921,13 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, branda a gadanha para executar 5 ataques consecutivos.\r\nPrimeiro ataque: causa dano de **57.1%** do ATQ + **343** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **49.1%** do ATQ + **295** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **106.8%** do ATQ + **641** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **109.5%** do ATQ + **657** e repele o alvo uma curta distância.\r\nQuinto ataque: causa dano de **104.2%** do ATQ + **625**, **suspende muito** o alvo e suspende a si mesmo.",
+					"description": "No chão, branda a gadanha para executar 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **57.1%** do ATQ + **343** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **49.1%** do ATQ + **295** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **106.8%** do ATQ + **641** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **109.5%** do ATQ + **657** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **104.2%** do ATQ + **625**, **suspende muito** o alvo e suspende a si mesmo.",
 					"icon": "pugong_sickle",
 					"id": "GA_FPlayerSickleMelee_MeleeFire_SSR"
 				},
 				{
 					"name": "Gadanha Ascendente",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **63.4%** do ATQ + **380**.\r\nSegundo ataque: causa dano de **68.8%** do ATQ + **413**.\r\nTerceiro ataque: causa dano de **190.5%** do ATQ + **1143**.\r\nQuarto ataque: causa dano de **213.6%** do ATQ + **1281**.\r\nQuinto ataque: causa dano de **173.9%** do ATQ + **1043** e derruba o alvo. Quanto maior a altura de ativação, maior o dano causado. Chega a até **600%** do dano.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **63.4%** do ATQ + **380**.\r\nSegundo ataque: Causa dano de **68.8%** do ATQ + **413**.\r\nTerceiro ataque: Causa dano de **190.5%** do ATQ + **1143**.\r\nQuarto ataque: Causa dano de **213.6%** do ATQ + **1281**.\r\nQuinto ataque: Causa dano de **173.9%** do ATQ + **1043** e derruba o alvo. Quanto maior a altura de ativação, maior o dano causado. Chega a até **600%** do dano.",
 					"icon": "skill_sickle_air",
 					"id": "GA_FPlayerSickleMelee_AirAttackFire_SSR"
 				},
@@ -1964,7 +1953,7 @@
 			"dodge": [
 				{
 					"name": "Duas em Uma",
-					"description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Lançamento Veloz.\r\nCausa dano de **126.9%** do ATQ + **761** e puxa inimigos próximos.",
+					"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar Lançamento Veloz.\r\nCausa dano de **126.9%** do ATQ + **761** e puxa inimigos próximos.",
 					"icon": "skill_sickle_branch",
 					"id": "GA_FPlayerSickleEvade_FrontAttackFire_SSR"
 				},
@@ -2061,7 +2050,6 @@
 		"name": "Revólver Explosivo",
 		"avatar": {
 			"name": "Cobalt-B",
-			"description": "Desconhecido",
 			"advanceId": "imitation_10L1",
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
@@ -2091,7 +2079,7 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, use o ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano total de **52.3%** do ATQ + **314**.\r\nSegundo ataque: causa dano total de **75.6%** do ATQ + **454**.\r\nTerceiro ataque: causa dano total de **94.5%** do ATQ + **567**.\r\nQuarto ataque: causa dano total de **142.8%** do ATQ + **857**.\r\nQuinto ataque: causa dano total de **137.8%** do ATQ + **827**.",
+					"description": "No chão, use o ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano total de **52.3%** do ATQ + **314**.\r\nSegundo ataque: Causa dano total de **75.6%** do ATQ + **454**.\r\nTerceiro ataque: Causa dano total de **94.5%** do ATQ + **567**.\r\nQuarto ataque: Causa dano total de **142.8%** do ATQ + **857**.\r\nQuinto ataque: Causa dano total de **137.8%** do ATQ + **827**.",
 					"icon": "pugong_gun",
 					"id": "GA_FPlayerGunMelee_New_Melee"
 				},
@@ -2215,7 +2203,6 @@
 		"name": "Espada Incandescente",
 		"avatar": {
 			"name": "Cláudia",
-			"description": "Desconhecido",
 			"advanceId": "imitation_12L1",
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
@@ -2245,13 +2232,13 @@
 			"normals": [
 				{
 					"name": "Corte Rápido",
-					"description": "No chão, branda a espada para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **62.2%** do ATQ + **373** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **87%** do ATQ + **523** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **78.8%** do ATQ + **473** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **138.3%** do ATQ + **831** e repele o alvo uma curta distância.\r\nQuinto ataque: causa dano de **236.3%** do ATQ + **1418** e **lança** o alvo no ar.",
+					"description": "No chão, branda a espada para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **62.2%** do ATQ + **373** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **87%** do ATQ + **523** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **78.8%** do ATQ + **473** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **138.3%** do ATQ + **831** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **236.3%** do ATQ + **1418** e **lança** o alvo no ar.",
 					"icon": "skill_sword_melee",
 					"id": "GA_FPlayerSwordMelee_Melee_SSR"
 				},
 				{
 					"name": "Ataque Suspenso",
-					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: causa dano de **37.1%** do ATQ + **222**.\r\nSegundo ataque: causa dano de **64.4%** do ATQ + **385**.\r\nTerceiro ataque: causa dano de **152.3%** do ATQ + **914**.\r\nQuarto ataque: causa dano de **184.7%** do ATQ + **1108** e **derruba** o alvo.",
+					"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **37.1%** do ATQ + **222**.\r\nSegundo ataque: Causa dano de **64.4%** do ATQ + **385**.\r\nTerceiro ataque: Causa dano de **152.3%** do ATQ + **914**.\r\nQuarto ataque: Causa dano de **184.7%** do ATQ + **1108** e **derruba** o alvo.",
 					"icon": "skill_sword_air",
 					"id": "GA_FPlayerSwordMelee_AirAttack_SSR"
 				},
@@ -2263,7 +2250,7 @@
 				},
 				{
 					"name": "Mergulho Lacerante",
-					"description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\r\nEnquanto cai, cada golpe causa dano de **10.5%** do ATQ + **63**. Ao aterrissar, causa dano de **80.2%** do ATQ + **481** e repele os alvos ao redor.\r\nQuanto maior a altura, maior o dano causado. Chega a até **600%** do dano.",
+					"description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\r\nEnquanto cai, cada golpe causa dano de **10.5%** do ATQ + **63**. Ao aterrissar, causa dano de **80.2%** do ATQ + **481** e repele os alvos circundantes.\r\nQuanto maior a altura, maior o dano causado. Chega a até **600%** do dano.",
 					"icon": "skill_sword_jump",
 					"id": "GA_FPlayerSwordMelee_JumpAttack_SSR"
 				},
@@ -2291,7 +2278,7 @@
 			"skill": [
 				{
 					"name": "Passeio Doloroso",
-					"description": "Passa entre alvos enquanto brande a espada. Causa dano total de **418%** do ATQ + **2508** a até **5** alvos (reduzindo cumulativamente em **20%** o dano causado por cada acerto consecutivo a um mesmo alvo). Ao terminar a habilidade, faz um corte no espaço adiante. Causa dano de **264%** do ATQ + **1584** aos alvos ao redor e os suspende. Dá imunidade a efeitos de controle, e todo dano sofrido é reduzido em **50%** ao usar esta habilidade. Tempo de recarga: **15** seg.",
+					"description": "Passa entre alvos enquanto brande a espada. Causa dano total de **418%** do ATQ + **2508** a até **5** alvos (reduzindo cumulativamente em **20%** o dano causado por cada acerto consecutivo a um mesmo alvo). Ao terminar a habilidade, faz um corte no espaço adiante. Causa dano de **264%** do ATQ + **1584** aos alvos circundantes e os suspende. Dá imunidade a efeitos de controle, e todo dano sofrido é reduzido em **50%** ao usar esta habilidade. Tempo de recarga: **15** seg.",
 					"icon": "sword_skill1",
 					"id": "GA_FPlayerSwordSkill_SSR"
 				}
@@ -2369,7 +2356,6 @@
 		"name": "Chakram dos Mares",
 		"avatar": {
 			"name": "Shiro",
-			"description": "Desconhecido",
 			"advanceId": "imitation_8L1",
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
@@ -2399,13 +2385,13 @@
 			"normals": [
 				{
 					"name": "Arremesso Veloz",
-					"description": "No chão, branda o chakram para executar 5 ataques giratórios.\r\nPrimeiro ataque: causa dano de **35.3%** do ATQ + **212**.\r\nSegundo ataque: causa dano de **27.4%** do ATQ + **164**.\r\nTerceiro ataque: causa dano de **39.1%** do ATQ + **235**.\r\nQuarto ataque: causa dano de **35.3%** do ATQ + **212**.\r\nQuinto ataque: causa dano de **61.9%** do ATQ + **371** e repele o alvo uma curta distância.",
+					"description": "No chão, branda o chakram para executar 5 ataques giratórios.\r\nPrimeiro ataque: Causa dano de **35.3%** do ATQ + **212**.\r\nSegundo ataque: Causa dano de **27.4%** do ATQ + **164**.\r\nTerceiro ataque: Causa dano de **39.1%** do ATQ + **235**.\r\nQuarto ataque: Causa dano de **35.3%** do ATQ + **212**.\r\nQuinto ataque: Causa dano de **61.9%** do ATQ + **371** e repele o alvo uma curta distância.",
 					"icon": "skill_darts_melee",
 					"id": "GA_FPlayerDartsMelee_Melee"
 				},
 				{
 					"name": "Detonação Aérea",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para executar 3 ataques giratórios seguidos.\r\nPrimeiro ataque: causa dano de **30.1%** do ATQ + **181**.\r\nSegundo ataque: causa dano de **33.6%** do ATQ + **201**.\r\nTerceiro ataque: causa dano de **42.8%** do ATQ + **256**.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para executar 3 ataques giratórios seguidos.\r\nPrimeiro ataque: Causa dano de **30.1%** do ATQ + **181**.\r\nSegundo ataque: Causa dano de **33.6%** do ATQ + **201**.\r\nTerceiro ataque: Causa dano de **42.8%** do ATQ + **256**.",
 					"icon": "skill_darts_air",
 					"id": "GA_FPlayerDartsMelee_AirAttack"
 				},
@@ -2522,7 +2508,6 @@
 		"name": "Cubo da Anulação",
 		"avatar": {
 			"name": "Zero",
-			"description": "Desconhecido",
 			"advanceId": "imitation_1L1",
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
@@ -2552,7 +2537,7 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, manipule o cubo para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **56%** do ATQ + **336**.\r\nSegundo ataque: causa dano de **45.8%** do ATQ + **275**.\r\nTerceiro ataque: causa dano de **142.2%** do ATQ + **854**.\r\nQuarto ataque: causa dano de **95.5%** do ATQ + **574**.\r\nQuinto ataque: causa dano de **97.1%** do ATQ + **582** até 3 vezes e **lança** o alvo no ar.\r\n**Passiva: Se o ataque normal atingir alvos 6 vezes, ganha 1 cubo. É possível juntar até 5 cubos.**",
+					"description": "No chão, manipule o cubo para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **56%** do ATQ + **336**.\r\nSegundo ataque: Causa dano de **45.8%** do ATQ + **275**.\r\nTerceiro ataque: Causa dano de **142.2%** do ATQ + **854**.\r\nQuarto ataque: Causa dano de **95.5%** do ATQ + **574**.\r\nQuinto ataque: Causa dano de **97.1%** do ATQ + **582** até 3 vezes e **lança** o alvo no ar.\r\n**Passiva: Se o ataque normal atingir alvos 6 vezes, ganha 1 cubo. É possível juntar até 5 cubos.**",
 					"icon": "pugong_cube",
 					"id": "GA_FPlayerCubeMelee_Melee"
 				},
@@ -2676,7 +2661,6 @@
 		"name": "Estrelas Eletromagnéticas",
 		"avatar": {
 			"name": "Samir",
-			"description": "Desconhecido",
 			"advanceId": "imitation_5L1",
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
@@ -2706,7 +2690,7 @@
 			"normals": [
 				{
 					"name": "Tiro Duplo",
-					"description": "No chão, use o botão de ataque normal para atacar 5 vezes seguidas com as pistolas.\r\nPrimeiro ataque: causa dano total de **56.5%** do ATQ + **340**.\r\nSegundo ataque: causa dano total de **43%** do ATQ + **258**.\r\nTerceiro ataque: causa dano total de **143.6%** do ATQ + **862**.\r\nQuarto ataque: causa dano total de **135.7%** do ATQ + **815**.\r\nQuinto ataque: causa dano total de **184.8%** do ATQ + **1109** e **lança o alvo no ar**.",
+					"description": "No chão, use o botão de ataque normal para atacar 5 vezes seguidas com as pistolas.\r\nPrimeiro ataque: Causa dano total de **56.5%** do ATQ + **340**.\r\nSegundo ataque: Causa dano total de **43%** do ATQ + **258**.\r\nTerceiro ataque: Causa dano total de **143.6%** do ATQ + **862**.\r\nQuarto ataque: Causa dano total de **135.7%** do ATQ + **815**.\r\nQuinto ataque: Causa dano total de **184.8%** do ATQ + **1109** e **lança o alvo no ar**.",
 					"icon": "skill_dgun_melee",
 					"id": "GA_FPlayerDgunMeleeThu_Melee"
 				},
@@ -2823,7 +2807,6 @@
 		"name": "Escudo Fundido V2",
 		"avatar": {
 			"name": "Huma",
-			"description": "Desconhecido",
 			"advanceId": "imitation_6L1",
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
@@ -2853,13 +2836,13 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, branda o machado-escudo para atacar 4 vezes seguidas.\r\nPrimeiro ataque em forma de escudo: causa dano de **77.7%** do ATQ + **466** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **56.9%** do ATQ + **341** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **62.8%** do ATQ + **377** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **184%** do ATQ + **1104** e **lança o alvo no ar**.\r\nPrimeiro ataque em forma de machado: causa dano de **135.2%** do ATQ + **811** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **79.4%** do ATQ + **476** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **119.9%** do ATQ + **719** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **221.3%** do ATQ + **1328** e repele o alvo.",
+					"description": "No chão, branda o machado-escudo para atacar 4 vezes seguidas.\r\nPrimeiro ataque em forma de escudo: causa dano de **77.7%** do ATQ + **466** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **56.9%** do ATQ + **341** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **62.8%** do ATQ + **377** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **184%** do ATQ + **1104** e **lança o alvo no ar**.\r\nPrimeiro ataque em forma de machado: causa dano de **135.2%** do ATQ + **811** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **79.4%** do ATQ + **476** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **119.9%** do ATQ + **719** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **221.3%** do ATQ + **1328** e repele o alvo.",
 					"icon": "pugong_Shield",
 					"id": "GA_FPlayerShieldMelee_Melee"
 				},
 				{
 					"name": "Golpe Aéreo",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 3 vezes seguidas.\r\nPrimeiro ataque em forma de escudo: causa dano de **75.9%** do ATQ + **455**.\r\nSegundo ataque: causa dano de **80.2%** do ATQ + **481**.\r\nTerceiro ataque: causa dano de **103%** do ATQ + **618**.\r\nPrimeiro ataque em forma de machado: causa dano de **118.6%** do ATQ + **712**.\r\nSegundo ataque: causa dano de **91.1%** do ATQ + **547**.\r\nTerceiro ataque: causa dano de **277.9%** do ATQ + **1667**.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 3 vezes seguidas.\r\nPrimeiro ataque em forma de escudo: causa dano de **75.9%** do ATQ + **455**.\r\nSegundo ataque: Causa dano de **80.2%** do ATQ + **481**.\r\nTerceiro ataque: Causa dano de **103%** do ATQ + **618**.\r\nPrimeiro ataque em forma de machado: causa dano de **118.6%** do ATQ + **712**.\r\nSegundo ataque: Causa dano de **91.1%** do ATQ + **547**.\r\nTerceiro ataque: Causa dano de **277.9%** do ATQ + **1667**.",
 					"icon": "skill_shield_airattack",
 					"id": "GA_FPlayerShieldMelee_AirAttack"
 				},
@@ -2901,7 +2884,7 @@
 			"discharge": [
 				{
 					"name": "Fúria Ardente",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e gera um abalo sísmico de fogo. Causa dano de **352%** do ATQ + **2112**, além de dano adicional de **5%** da sua vida máxima. Provoca inimigos durante **5** segundos, durante os quais você ganha **15%** de redução de dano. Espalha objetos em formato de escudo com base no número de alvos provocados, que duram **20** segundos. Ao coletá-los, eles fornecem **10** segundos de **5%** de redução de dano (acumulável) e restaura imediatamente 1 tentativa de esquiva.",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e gera um abalo sísmico de fogo. Causa dano de **352%** do ATQ + **2112**, além de dano adicional de **5%** da sua vida máxima. Provoca inimigos durante **5** segundos, durante os quais você ganha **15%** de redução de dano. Espalha objetos em formato de escudo com base no número de alvos provocados, que duram **20** segundos. Ao coletá-los, eles fornecem **10** segundos de **5%** de redução de dano (acumulável) e restaura imediatamente 1 tentativa de esquiva.",
 					"icon": "skill_shield_changeskill",
 					"id": "GA_FPlayerShieldChangeSkill_Success"
 				}
@@ -2970,7 +2953,6 @@
 		"name": "Dragão Azul",
 		"avatar": {
 			"name": "Huang",
-			"description": "Desconhecido",
 			"advanceId": "imitation_41L1",
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
@@ -3000,31 +2982,31 @@
 			"normals": [
 				{
 					"name": "Pérolas e Jades",
-					"description": "No chão, use o ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **91.1%** do ATQ mais **547**.\r\nSegundo ataque: causa dano de **137.6%** do ATQ mais **826**.\r\nTerceiro ataque: causa dano de **400%** do ATQ mais **2400**.\r\nQuarto ataque: causa dano de **331.7%** do ATQ mais **1990**.\r\nQuinto ataque: causa dano de **165.3%** do ATQ mais **992**.",
+					"description": "No chão, use o ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **91.1%** do ATQ + **547**.\r\nSegundo ataque: Causa dano de **137.6%** do ATQ + **826**.\r\nTerceiro ataque: Causa dano de **400%** do ATQ + **2400**.\r\nQuarto ataque: Causa dano de **331.7%** do ATQ + **1990**.\r\nQuinto ataque: Causa dano de **165.3%** do ATQ + **992**.",
 					"icon": "skill_mimi_melee",
 					"id": "GA_FPlayerMiMiMelee_Melee"
 				},
 				{
 					"name": "Observação Aérea",
-					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas e consumir vigor.\r\nPrimeiro ataque: Causa dano de **92.6%** do ATQ mais **556**.\r\nSegundo ataque: Causa dano de **150.5%** do ATQ mais **903**.\r\nTerceiro ataque: Causa dano de **413.3%** do ATQ mais **2480**.\r\nQuarto ataque: Causa dano de **284.6%** do ATQ mais **1707**.\r\nQuinto ataque: Causa dano de **184.6%** do ATQ mais **1108**.",
+					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas, consumindo vigor.\r\nPrimeiro ataque: Causa dano de **92.6%** do ATQ + **556**.\r\nSegundo ataque: Causa dano de **150.5%** do ATQ + **903**.\r\nTerceiro ataque: Causa dano de **413.3%** do ATQ + **2480**.\r\nQuarto ataque: Causa dano de **284.6%** do ATQ + **1707**.\r\nQuinto ataque: Causa dano de **184.6%** do ATQ + **1108**.",
 					"icon": "skill_mimi_airattack",
 					"id": "GA_FPlayerMiMiMelee_AirAttack"
 				},
 				{
 					"name": "Dragão Azul Perfura o Sol",
-					"description": "No chão, segure o botão de ataque normal do primeiro ao quarto ataque normal para acionar Dragão Azul Perfura o Sol e consumir vigor.\r\nDesfere um ataque à frente, causando dano de **329.7%** do ATQ mais **1978** e suspendendo os alvos.\r\nApós acionar Dragão Azul Perfura o Sol, segure o botão de ataque normal para acionar Explosão do Trovão.",
+					"description": "No chão, segure o botão de ataque normal do primeiro ao quarto ataque normal para acionar Dragão Azul Perfura o Sol e consumir vigor.\r\nDesfere um ataque à frente, causando dano de **329.7%** do ATQ + **1978** aos alvos próximos e os suspendendo.\r\nApós acionar Dragão Azul Perfura o Sol, segure o botão de ataque normal para acionar Explosão do Trovão.",
 					"icon": "skill_mimi_meleebranch",
 					"id": "GA_FPlayerMiMiMelee_MeleeBranch"
 				},
 				{
 					"name": "Explosão do Trovão",
-					"description": "No chão, segure o botão de ataque normal para acionar Explosão do Trovão.\r\nAtira relâmpagos continuamente nos alvos à frente, consumindo vigor, e recebe corpo de aço. Cada ataque causa dano de **53.5%** do ATQ mais **321** aos alvos próximos. Ao mesmo tempo, invoca **1** Azura a cada **1,5** segundo, que lança ondas de choque que causam dano de **99%** do ATQ mais **594** aos alvos próximos.\r\nO Errante recebe um escudo de **10%** da vida a cada **1,5** segundo, limitado a **30%**, durante **15** segundos.\r\nApós ativar ressonância de coragem:\r\nQuando Explosão do Trovão ou uma onda de choque atinge um inimigo, os alvos próximos são provocados durante **2** segundos.\r\nSempre que Explosão do Trovão produzir um escudo, os colegas próximos também receberão um escudo de até **10%** da vida máxima do Errante.",
+					"description": "No chão, segure o botão de ataque normal para acionar Explosão do Trovão.\r\nAtira relâmpagos continuamente nos alvos, consumindo vigor, e recebe corpo de aço. Cada ataque causa dano de **53.5%** do ATQ + **321** aos alvos próximos. Ao mesmo tempo, invoca **1** Azura a cada **1,5** segundo, que lança ondas de choque que causam dano de **99%** do ATQ + **594** aos alvos próximos.\r\nO Errante recebe um escudo de **10%** da vida máxima a cada **1,5** segundo, acumula até **15%**, durante **15** segundos a partir da criação do primeiro escudo.\r\nApós ativar ressonância de coragem:\r\nQuando Explosão do Trovão ou uma onda de choque atinge um inimigo, os alvos próximos são provocados durante **2** segundos.\r\nSempre que Explosão do Trovão produzir um escudo, os colegas próximos também receberão um escudo de até **10%** da vida máxima do Errante.",
 					"icon": "skill_mimi_powerattack",
 					"id": "GA_FPlayerMiMiMelee_PowerAttack"
 				},
 				{
 					"name": "Dragão Vagante",
-					"description": "No ar, segure o botão de ataque normal do primeiro ao quarto ataque normal para acionar Dragão Vagante e consumir vigor.\r\nDesfere um ataque à frente, causando dano de **329.7%** do ATQ mais **1978** aos alvos próximos e os suspendendo.",
+					"description": "No ar, segure o botão de ataque normal do primeiro ao quarto ataque normal para acionar Dragão Vagante e consumir vigor.\r\nDesfere um ataque à frente, causando dano de **329.7%** do ATQ +**1978** aos alvos próximos e os suspendendo.",
 					"icon": "skill_mimi_airbranch",
 					"id": "GA_FPlayerMiMiMelee_AirAttackBranch"
 				},
@@ -3044,7 +3026,7 @@
 				},
 				{
 					"name": "Centelha Relâmpago",
-					"description": "Use o botão de ataque normal logo após se esquivar para acionar a Centelha Relâmpago.\r\nAparece instantaneamente no lugar da esfera de relâmpago, causando dano de **106.4%** do ATQ mais **638** a alvos próximos e produzindo uma concentração de relâmpagos, depois retorna para a posição original do Errante. A concentração de relâmpagos causará dano prolongado total de **149.5%** do ATQ mais **897** e puxará os alvos próximos continuamente.\r\n**Passiva:** O Errante recebe corpo de aço durante a Centelha Relâmpago. Recebe **1** acúmulo do Poder de Qinglong após a Centelha Relâmpago atingir um inimigo.\r\nApós acionar a Centelha Relâmpago, segure o botão de ataque normal para acionar a Explosão do Trovão.",
+					"description": "Use o botão de ataque normal logo após se esquivar para acionar a Centelha Relâmpago.\r\nAparece instantaneamente no lugar da esfera de relâmpago, causando dano de **106.4%** do ATQ + **638** a alvos próximos e produzindo uma concentração de relâmpagos, depois retorna para a posição original do Errante. A concentração de relâmpagos causará dano prolongado total de **149.5%** do ATQ + **897** e puxará os alvos próximos continuamente.\r\n**Passiva:** O Errante recebe corpo de aço durante a Centelha Relâmpago. Recebe **1** acúmulo do Poder de Qinglong após a Centelha Relâmpago atingir um inimigo.\r\nApós acionar a Centelha Relâmpago, segure o botão de ataque normal para acionar a Explosão do Trovão.",
 					"icon": "skill_mimi_evadeattack",
 					"id": "GA_FPlayerMiMiEvade_EvadeAttack"
 				}
@@ -3052,7 +3034,7 @@
 			"skill": [
 				{
 					"name": "Lua Azul",
-					"description": "Um dragão azul se eleva aos céus. Nesse período, confere corpo de aço ao Errante e causa dano de **1777.5%** do ATQ mais **10664** aos alvos próximos. O dragão azul voará em círculos durante **8** segundos. Nesse período, consome continuamente poder de Qinglong e invoca até **8** ataques de relâmpagos. Cada relâmpago causa dano de **649.9%** do ATQ mais **3899** aos alvos próximos, além disso, causa dano de **1485%** do ATQ mais **8909** aos alvos próximos quando o dragão azul desaparece. Tempo de recarga: **30** seg., e esse tempo de recarga não pode ser reduzido para menos do que **20** segundos. Lua Azul pode ter até **2** acúmulos de uso.\r\n**Passiva:** Com **3** armas elétricas equipadas e após atingir um inimigo com Lua Azul, causa dano de habilidade de **250%** do ATQ ao alvo a cada **2** segundos durante **30** segundos.",
+					"description": "Um dragão azul se eleva aos céus. Nesse período, confere corpo de aço ao Errante e causa dano de **1777.5%** do ATQ + **10664** aos alvos próximos. O dragão azul voará em círculos durante **8** segundos. Nesse período, consome continuamente poder de Qinglong e invoca até **8** ataques de relâmpagos. Cada relâmpago causa dano de **649.9%** do ATQ + **3899** aos alvos próximos, além disso, causa dano de **1485%** do ATQ + **8909** aos alvos próximos quando o dragão azul desaparece.\r\nTempo de recarga: **30** seg., e esse tempo de recarga não pode ser reduzido para menos do que **20** segundos. Lua Azul pode ter até **2** acúmulos de uso.\r\n**Passiva:** Com **3** armas elétricas equipadas e após atingir um inimigo com Lua Azul, causa dano de habilidade de **250%** do ATQ ao alvo a cada **2** segundos durante **30** segundos.",
 					"icon": "skill_mimi_skill",
 					"id": "GA_FPlayerMiMiSkill_Skill"
 				}
@@ -3060,7 +3042,7 @@
 			"discharge": [
 				{
 					"name": "Dragão Ascendente",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e acumula chi. Esmaga o chão, gerando uma explosão que causa dano de **1514.7%** do ATQ mais **9087** aos alvos próximos e os suspende. Neste período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).\r\n**Passiva:** Quando Phantasia é desencadeada, se Dragão Azul estiver equipada ou ao trocar para esta arma, causa dano de **5.000%** do ATQ aos alvos próximos. Esse dano não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional. Isso só pode ser acionado até 1 vez por desencadeamento de Phantasia.",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você** e acumula chi. Esmaga o chão, gerando uma explosão que causa dano de **1514.7%** do ATQ + **9087** aos alvos próximos e os suspende. Neste período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).\r\n**Passiva:** Quando Phantasia é desencadeada, se Dragão Azul estiver equipada ou ao trocar para esta arma, causa dano de **5.000%** do ATQ aos alvos próximos. Esse dano não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos. Isso só pode ser acionado até 1 vez por desencadeamento de Phantasia.",
 					"icon": "skill_mimi_changeskill",
 					"id": "GA_FPlayerMiMiChangeSkill_Success"
 				}
@@ -3068,7 +3050,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Ressonância elétrica**: Aumenta o ATQ elétrico em **15%** e a resistência elétrica em **25%**. Ativa-se ao equipar **2** ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.\r\n**Trovejante: Em campo**: Ao acertar um golpe com **Dragão Azul**, causa dano de **1.313%** do ATQ elétrico mais **2%** da vida máxima do Errante mais **69%** da soma de todos os tipos de resistência do Errante mais **2.5%** do crítico a alvos próximos. Esse efeito pode ser acionado até 1 vez a cada **1,5** segundo. O dano de Trovejante conta como dano de ataque normal. Se houver **1** arma ígnea/gélida/física de qualquer tipo equipada, o dano de Trovejante é multiplicado por **1.3**. Além disso, o dano de Trovejante não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+				"description": "**Ressonância elétrica**: Aumenta o ATQ elétrico em **15%** e a resistência elétrica em **25%**. Ativa-se ao equipar **2** ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.\r\n\r\n**Trovejante: Em campo**: Ao acertar um golpe com **Dragão Azul**, causa dano de **1.313%** do ATQ elétrico + **2%** da vida máxima do Errante + **69%** da soma de todos os tipos de resistência do Errante + **2.5%** do crítico a alvos próximos. Esse efeito pode ser acionado até 1 vez a cada **1,5** segundo. O dano de Trovejante conta como dano de ataque normal. Se houver **1** arma ígnea/gélida/física de qualquer tipo equipada, o dano de Trovejante é multiplicado por **1.3**. Além disso, o dano de Trovejante não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3092,7 +3074,7 @@
 				"need": "mimi_thunder_plasm"
 			},
 			{
-				"description": "Com **Dragão Azul** equipada, reduz o tempo de recarga de todas as habilidades principais de arma elétrica em **20%**. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\nAlém disso, aumenta o dano elétrico do Errante em **15%**. O efeito funciona no espaço secundário.",
+				"description": "Com **Dragão Azul** equipada, reduz o tempo de recarga de todas as habilidades básicas de arma elétrica em **20%**. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\nAlém disso, aumenta o dano elétrico do Errante em **15%**. O efeito funciona no espaço secundário.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3108,7 +3090,7 @@
 				"need": "mimi_thunder_plasm"
 			},
 			{
-				"description": "Previne dano letal 1 vez e recebe imunidade a dano por um curto período de tempo quando o Errante sofrer dano letal. Esse efeito só pode ser acionado uma vez a cada **60** segundos e funciona no espaço secundário.\r\nApós ativar a ressonância de coragem:\r\nÉ possível ignorar corpo de aço e puxar os alvos próximos ao usar **Dragão Ascendente** (ineficaz contra chefes).\r\nNo jogo em equipe, **Explosão do Trovão** irá produzir **1** selo temporal elétrico a cada **6** segundos enquanto estiver carregando, que irão se unir na ordem em que foram produzidos para formar uma rede elétrica. A rede elétrica pode bloquear o movimento dos inimigos e o dano dos projéteis deles. Cada selo temporal elétrico pode durar até **20** segundos.",
+				"description": "Previne dano letal 1 vez e recebe imunidade a dano por um curto período de tempo quando o Errante sofrer dano letal. Esse efeito só pode ser acionado uma vez a cada **60** segundos e funciona no espaço secundário.\r\nApós ativar a ressonância de coragem:\r\nUsar **Dragão Ascendente** puxa os alvos próximos, ignorando corpo de aço(ineficaz contra chefes).\r\nNo jogo em equipe, **Explosão do Trovão** irá produzir **1** selo temporal elétrico a cada **6** segundos enquanto estiver carregando, e os selos vão se unir na ordem em que foram produzidos para formar uma rede elétrica. A rede elétrica pode bloquear o movimento dos inimigos e o dano dos projéteis deles. Cada selo temporal elétrico pode durar até **20** segundos.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3126,11 +3108,169 @@
 		],
 		"id": "mimi_thunder"
 	},
+	"Linghan_ice": {
+		"name": "Tigre Alabastro",
+		"avatar": {
+			"name": "Ling Han",
+			"advanceId": "imitation_43L1",
+			"weapon": "linghan_ice",
+			"icon": "imitation_43",
+			"avatarID": "linghan",
+			"id": "imitation_43"
+		},
+		"description": "Com espadas divinas e agitação, quem pode sondar as profundezas deste meu coração?",
+		"icon": "item_Weapon_SSR_Linghan_Ice01",
+		"gachaIcon": "UI_SSR_lh_linghan",
+		"rarity": "SSR",
+		"element": "Ice",
+		"weaponType": "Linghan",
+		"wc": "DPS",
+		"mats": {
+			"Item_Mine_ice": 39,
+			"Item_Mine_ice_02": 65,
+			"Item_breakthrough_B2": 65,
+			"Item_breakthrough_D2": 65,
+			"Item_Mine_ice_03": 32,
+			"Item_breakthrough_B3": 32,
+			"Item_breakthrough_D3": 32,
+			"Item_breakthrough_B1": 35,
+			"Item_breakthrough_D1": 32
+		},
+		"advanceID": "Linghan_ice_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "Arte da Espada: Navalha Lunar",
+					"description": "No chão, use o botão de ataque normal para executar 6 ataques seguidos.\r\nPrimeiro ataque: Causa dano de **97.8%** do ATQ + **587** e repele o alvo.\r\nSegundo ataque: Causa dano de **129.4%** do ATQ + **776** e repele o alvo.\r\nTerceiro ataque: Causa dano de **207.2%** do ATQ + **1243** e repele o alvo.\r\nQuarto ataque: Causa dano de **125%** do ATQ + **750** e repele o alvo.\r\nQuinto ataque: Causa dano de **226%** do ATQ + **1356** e puxa os inimigos para a sua frente.\r\nSexto ataque: Causa dano de **253.6%** do ATQ + **1521** e lança o alvo no ar.\r\nApós acionar Arte da Espada: Navalha Lunar, segure o botão de ataque normal para acionar **Arte da Espada: Nevasca Infinita**.\r\n\r\nAcertar qualquer golpe do ataque normal do **Tigre Alabastro** aplica **1** acúmulo de **fenda cristalina** no alvo, que causa dano de ataque normal de **48%** do ATQ por segundo durante **15** segundos. Somente **1** acúmulo de fenda cristalina pode ser aplicado a um mesmo alvo a cada **4** segundos. Acumula até **3** vezes. Os acúmulos são removidos um a um depois que o efeito termina.",
+					"icon": "skill_linghan_melee",
+					"id": "GA_FPlayerLinghanMelee_Melee"
+				},
+				{
+					"name": "Arte da Espada: Clamor de Ameixa",
+					"description": "No ar, use o botão de ataque normal para atacar 6 vezes seguidas enquanto consome vigor.\r\nPrimeiro ataque: Causa dano de **95.9%** do ATQ + **575**.\r\nSegundo ataque: Causa dano de **100.7%** do ATQ + **604**.\r\nTerceiro ataque: Causa dano de **218.6%** do ATQ + **1311**.\r\nQuarto ataque: Causa dano de **130%** do ATQ + **780**.\r\nQuinto ataque: Causa dano de **213.7%** do ATQ + **1282**.\r\nSexto ataque: Causa dano de **256.9%** do ATQ + **1541**.",
+					"icon": "skill_linghan_airattack",
+					"id": "GA_FPlayerLinghanMelee_AirAttack"
+				},
+				{
+					"name": "Arte da Espada: Nevasca Infinita",
+					"description": "No chão, segure o botão de ataque normal para acionar Arte da Espada: Nevasca Infinita.\r\nUsa o controle mental para manipular a espada enquanto consome vigor, período no qual você recebe corpo de aço. Cada ataque acertado causa dano de **140.8%** do ATQ + **845** aos alvos próximos.\r\nQuando Arte da Espada: Nevasca Infinita termina, lança uma aura de espada poderosa que causa dano de **422.4%** do ATQ + **2534** aos alvos próximos.",
+					"icon": "skill_linghan_powerattack",
+					"id": "GA_FPlayerLinghanMelee_PowerAttack"
+				},
+				{
+					"name": "Arte da Espada: Graupel",
+					"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Arte da Espada: Graupel.\r\nEnquanto cai, cada golpe causa dano de **75%** do ATQ + **450**. Ao aterrissar, causa dano de **366.7%** do ATQ + **2200** aos alvos próximos.",
+					"icon": "skill_linghan_jumpattack",
+					"id": "GA_FPlayerLinghanMelee_JumpAttack"
+				},
+				{
+					"name": "Passos Leves",
+					"description": "No ar após um salto duplo, use o botão de saltar para acionar Passos Leves. Toma um impulso breve para cima, depois plana para baixo. No ar, Passos Leves pode ser usada até **2** vezes.\r\nNo chão, **1** chance de uso de Passos Leves é restaurada a cada **10** segundos. (Mudar de área ou desequipar o **Tigre Alabastro** zera as chances de uso.)",
+					"icon": "skill_linghan_qinggong",
+					"id": "GA_FPlayerLinghanMelee_QingGong"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Esquiva",
+					"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.",
+					"icon": "common_evade",
+					"id": "GA_FPlayerLinghanEvade_Evade"
+				},
+				{
+					"name": "Arte da Espada: Cerração",
+					"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar Arte da Espada: Cerração. Causa dano de até **305%** do ATQ + **1830** aos alvos atingidos.",
+					"icon": "skill_linghan_fevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "Arte da Espada: Alma Mortal",
+					"description": "Use o botão de ataque normal logo após se esquivar para acionar Arte da Espada: Alma Mortal. Gera uma ilusão de tigre branco que causa dano de **174.3%** do ATQ + **1046** aos alvos à frente.",
+					"icon": "skill_linghan_bevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "Arte da Espada: Sinceno Sombrio",
+					"description": "Causa dano de **370.2%** do ATQ + **2221** aos alvos próximos e os puxa. Então, forma uma matriz de espadas para provocar uma chuvarada de espadas e **congelar forte** os alvos (indisponível na Liga do Apogeu e contra chefes) durante **4** segundos. Tempo de recarga: **30** seg.\r\nUsar Arte da Espada: Sinceno Sombrio com êxito faz você emitir **ar frio**, que causa dano de **68%** do ATQ aos alvos próximos por segundo e diminui a velocidade deles em **30%** (indisponível na Liga do Apogeu e contra chefes). Ao mesmo tempo, aumenta o seu dano gélido em **8%** durante **35** segundos.\r\nExecutar completamente Arte da Espada: Sinceno Sombrio faz você criar várias **lâminas gélidas**. Lança **1** lâmina a cada **7,5** segundos no alvo travado no momento, que causa dano de **360%** do ATQ e inflige **redução de temperatura** a ele. Até **3** **lâminas gélidas** podem ser criadas inicialmente, e todas as lâminas são removidas fora de combate.\r\n**Redução de temperatura**: Causa dano de **240%** do ATQ a cada **3** segundos durante **12** segundos aos alvos próximos.",
+					"icon": "skill_linghan_skill",
+					"id": "GA_FPlayerLinghanSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Arte da Espada: Gesto Gélido",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, trocar para esta arma **remove todos os efeitos negativos de você** e invoca uma matriz de espadas ao seu redor, que envolve a área em frio e causa dano de até **844.5%** do ATQ + **5067** aos alvos próximos. Logo depois, invoca um tigre branco que causa dano de **1971%** do ATQ + **11825**, período no qual a imunidade a dano dura **1,5** segundos (indisponível na Liga do Apogeu).\r\n**Passiva**: Acertar um golpe com Arte da Espada: Gesto Gélido aumenta o dano final em **8%** durante **30** segundos.",
+					"icon": "skill_linghan_changeskill",
+					"id": "GA_FPlayerLinghanChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**Ressonância gélida**: Aumenta o ATQ gélido em **15%** e a resistência gélida em **25%**. Ativa-se ao equipar **2** ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos de mesmo tipo.\r\n**Frio extremo: Descarregar**: Após usar **Arte da Espada: Sinceno Sombrio**, a cada segundo causa dano equivalente a **70%** do ATQ gélido + **10%** da vida máxima do Errante + **36%** da soma de todos os tipos de resistência do Errante + **1.35%** do crítico aos alvos próximos durante **30** segundos. Danos múltiplos de descarregar não se acumulam, e o dano de frio extremo conta como dano de habilidade. Se houver **1** arma elétrica/ígnea/física de qualquer tipo equipada, o dano de frio extremo é multiplicado por **1.3**. Além disso, o dano de frio extremo não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "None"
+			},
+			{
+				"description": "Após lançar **lâminas gélidas**, o seu ATQ gélido aumenta em **10%**, e os alvos próximos sofrem dano de **104%** do ATQ por segundo durante **30** segundos.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Você pode produzir até **4** **lâminas gélidas**, e o multiplicador básico de **redução de temperatura** aumenta para **468%**.\r\nSe o alvo for o único afetado por **redução de temperatura** em até **6** segundos, aplica também **bloqueio venoso** nele, diminuindo a velocidade do mesmo em **30%** (indisponível na Liga do Apogeu e contra chefes). Se o alvo sofrer dano de **lâmina gélida** novamente durante **bloqueio venoso**, aciona criodetonação, que causa dano de habilidade equivalente a **17%** do ATQ + **2%** da vida faltante do alvo (o dano de criodetonação não será inferior a **20%** do seu ATQ gélido nem superior a **22%** do seu ATQ gélido). Depois disso, os efeitos **bloqueio venoso** e **redução de temperatura** são removidos do alvo.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "O dano causado por **fenda cristalina** e **ar frio** aumentam em mais **50%**. As chances de uso de **Passos Leves** aumentam para **10**, e a taxa de recuperação aumenta para **1** chance a cada **3** segundos.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "O efeito **redução de temperatura** infligido após lançar **lâminas gélidas** passa a ser aplicado em área e também causa dano adicional de **1.170%** do ATQ aos alvos próximos.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			}
+		],
+		"id": "Linghan_ice"
+	},
 	"Suspension_thunder": {
 		"name": "Vênus",
 		"avatar": {
 			"name": "Nêmesis",
-			"description": "Desconhecido",
 			"advanceId": "imitation_17L1",
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
@@ -3160,13 +3300,13 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No ar, use a Vênus para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **50.8%** do ATQ + **305**.\r\nSegundo ataque: causa dano de **36.3%** do ATQ + **218**.\r\nTerceiro ataque: causa dano de **98.3%** do ATQ + **590**.\r\nQuarto ataque: causa dano de **67.3%** do ATQ + **404**.\r\nQuinto ataque: causa dano de **148.3%** do ATQ + **890**.",
+					"description": "No ar, use a Vênus para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **50.8%** do ATQ + **305**.\r\nSegundo ataque: Causa dano de **36.3%** do ATQ + **218**.\r\nTerceiro ataque: Causa dano de **98.3%** do ATQ + **590**.\r\nQuarto ataque: Causa dano de **67.3%** do ATQ + **404**.\r\nQuinto ataque: Causa dano de **148.3%** do ATQ + **890**.",
 					"icon": "skill_suspension_melee",
 					"id": "GA_PlayerSuspensionMelee_Melee"
 				},
 				{
 					"name": "Detonação Aérea",
-					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **62.5%** do ATQ + **375**.\r\nSegundo ataque: causa dano de **62.5%** do ATQ + **375**.\r\nTerceiro ataque: causa dano de **120%** do ATQ + **720**.\r\nQuarto ataque: causa dano de **71.2%** do ATQ + **427**.\r\nQuinto ataque: causa dano de **126%** do ATQ + **756**.",
+					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **62.5%** do ATQ + **375**.\r\nSegundo ataque: Causa dano de **62.5%** do ATQ + **375**.\r\nTerceiro ataque: Causa dano de **120%** do ATQ + **720**.\r\nQuarto ataque: Causa dano de **71.2%** do ATQ + **427**.\r\nQuinto ataque: Causa dano de **126%** do ATQ + **756**.",
 					"icon": "skill_suspension_air",
 					"id": "GA_PlayerSuspensionMelee_AirAttack"
 				},
@@ -3198,7 +3338,7 @@
 				},
 				{
 					"name": "Raios Paralelos",
-					"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para usar Raios Paralelos.\r\nVênus dispara um par de raios paralelos que causa dano perfurante de **171.6%** do ATQ + **1030**.\r\nEsquivar-se desencadeará uma corrente de cura que irá curar os aliados próximos em **67,7%** do ATQ do Errante. Além disso, durante os próximos **10** segundos, uma pequena corrente de cura será ativada a cada **2** segundos, curando os aliados próximos em **22,5%** do ATQ do Errante. Esquivar concede **1** acúmulo de corrente de cura aprimorada, aumentando o efeito das correntes de cura em **25%** (acumula até **5** vezes). Dura **30** segundos. Trocar de arma não cancela o efeito.",
+					"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para acionar Raios Paralelos.\r\nVênus dispara um par de raios paralelos que causa dano perfurante de **171.6%** do ATQ + **1030**.\r\nEsquivar-se desencadeará uma corrente de cura que irá curar os aliados próximos em **67,7%** do ATQ do Errante. Além disso, durante os próximos **10** segundos, uma pequena corrente de cura será ativada a cada **2** segundos, curando os aliados próximos em **22,5%** do ATQ do Errante. Esquivar concede **1** acúmulo de corrente de cura aprimorada, aumentando o efeito das correntes de cura em **25%** (acumula até **5** vezes). Dura **30** segundos. Trocar de arma não cancela o efeito.",
 					"icon": "skill_suspension_rollattack",
 					"id": "GA_FPlayerSuspensionEvade_RollAttack"
 				}
@@ -3284,7 +3424,6 @@
 		"name": "Balmung",
 		"avatar": {
 			"name": "Frigg",
-			"description": "Desconhecido",
 			"advanceId": "imitation_28L1",
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
@@ -3314,13 +3453,13 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, ataque 5 vezes seguidas com a Balmung.\r\nPrimeiro ataque: causa dano de **62.1%** do ATQ + **373** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **46.2%** do ATQ + **277** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **91.1%** do ATQ + **547** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **55.8%** do ATQ + **335** e repele o alvo uma curta distância.\r\nQuinto ataque: causa dano de **218.4%** do ATQ + **1310** e derruba o alvo.",
+					"description": "No chão, ataque 5 vezes seguidas com a Balmung.\r\nPrimeiro ataque: Causa dano de **62.1%** do ATQ + **373** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **46.2%** do ATQ + **277** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **91.1%** do ATQ + **547** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **55.8%** do ATQ + **335** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **218.4%** do ATQ + **1310** e derruba o alvo.",
 					"icon": "skill_frigg_melee",
 					"id": "GA_PlayerFriggMelee_Melee"
 				},
 				{
 					"name": "Detonação Aérea",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **64.4%** do ATQ + **386**.\r\nSegundo ataque: causa dano de **72.6%** do ATQ + **436**.\r\nTerceiro ataque: causa dano de **76.7%** do ATQ + **460**.\r\nQuarto ataque: causa dano de **107.9%** do ATQ + **647**.\r\nQuinto ataque: causa dano de **168.3%** do ATQ + **1010**.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **64.4%** do ATQ + **386**.\r\nSegundo ataque: Causa dano de **72.6%** do ATQ + **436**.\r\nTerceiro ataque: Causa dano de **76.7%** do ATQ + **460**.\r\nQuarto ataque: Causa dano de **107.9%** do ATQ + **647**.\r\nQuinto ataque: Causa dano de **168.3%** do ATQ + **1010**.",
 					"icon": "skill_frigg_air",
 					"id": "GA_PlayerFriggMelee_AirAttack"
 				},
@@ -3432,7 +3571,6 @@
 		"name": "Faísca",
 		"avatar": {
 			"name": "Ruby",
-			"description": "Desconhecido",
 			"advanceId": "imitation_21L1",
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
@@ -3462,7 +3600,7 @@
 			"normals": [
 				{
 					"name": "Ataque do Faísca",
-					"description": "No chão, use o botão de ataque normal para ordenar que Faísca ataque 5 vezes seguidas.\r\nPrimeiro ataque: causa dano total de **84.6%** do ATQ + **508** a cada alvo.\r\nSegundo ataque: causa dano total de **93%** do ATQ + **558** a cada alvo.\r\nTerceiro ataque: causa dano total de **101.5%** do ATQ + **609** a cada alvo.\r\nQuarto ataque: causa dano total de **109.9%** do ATQ + **659** a cada alvo.\r\nQuinto ataque: causa dano total de **253.7%** do ATQ + **1522** a cada alvo e os **lança no ar**.",
+					"description": "No chão, use o botão de ataque normal para ordenar que Faísca ataque 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano total de **84.6%** do ATQ + **508** a cada alvo.\r\nSegundo ataque: Causa dano total de **93%** do ATQ + **558** a cada alvo.\r\nTerceiro ataque: Causa dano total de **101.5%** do ATQ + **609** a cada alvo.\r\nQuarto ataque: Causa dano total de **109.9%** do ATQ + **659** a cada alvo.\r\nQuinto ataque: Causa dano total de **253.7%** do ATQ + **1522** a cada alvo e os **lança no ar**.",
 					"icon": "skill_funnel_melee",
 					"id": "GA_FPlayerFunnelMeleeFire_Melee"
 				},
@@ -3508,7 +3646,7 @@
 			"skill": [
 				{
 					"name": "Colisor Faiscante",
-					"description": "Faísca dispara centelhas, que dura 15 segundos e ricocheteia entre o alvo e você. Ao atingir o alvo, centelhas o desacelera durante **4** segundos. Tempo de recarga: **15** seg. Centelhas causa mais dano quanto maior for a distância percorrida. Ao atingir, causa dano de até **350%** do ATQ + **4200** e inflige uma marca de esbrasear de **25** segundos ao alvo. Ao mesmo tempo, Faísca dispara 4 balas, cada uma causa dano de **50%** do ATQ + **300** ao alvo. O ataque normal de Faísca causa **30%** mais dano a alvos marcados com esbrasear. Quando centelhas atinge alvos queimados por você, ela queima ou incendeia o alvo uma vez e causa dano adicional de **45%** do dano restante total (vários efeitos de queimadura ou incêndio são contados juntos e são calculados automaticamente mais 1 vez). O tempo de recarga do cálculo de resultado são **6** segundos. Tempo de recarga da habilidade: **30** seg.\r\n**Passiva**: Quando centelhas está ativo, você ganha **1** ponto de calor com tempo de recarga de **0,9** segundo cada vez que Ataque do Faísca ou Centelhas causar dano. Pode acumular até **8** pontos de calor. Quando atinge o limite de calor, você ganha o efeito calor de rachar, que aumenta o ATQ ígneo em **10%** durante **25** segundos.",
+					"description": "Faísca dispara centelhas, que dura 15 segundos e ricocheteia entre o alvo e você. Ao atingir o alvo, centelhas o desacelera durante **4** segundos. Tempo de recarga: **15** seg. Centelhas causa mais dano quanto maior for a distância percorrida. Ao atingir, causa dano de até **380%** do ATQ + **4200** e inflige uma marca de esbrasear de **25** segundos ao alvo. Ao mesmo tempo, Faísca dispara 4 balas, cada uma causa dano de **50%** do ATQ + **300** ao alvo. O ataque normal de Faísca causa **30%** mais dano a alvos marcados com esbrasear. Quando centelhas atinge alvos queimados por você, ela queima ou incendeia o alvo uma vez e causa dano adicional de **45%** do dano restante total (vários efeitos de queimadura ou incêndio são contados juntos e são calculados automaticamente mais 1 vez). O tempo de recarga do cálculo de resultado são **6** segundos. Tempo de recarga da habilidade: **30** seg.\r\n**Passiva**: Quando centelhas está ativo, você ganha **1** ponto de calor com tempo de recarga de **0,9** segundo cada vez que Ataque do Faísca ou Centelhas causar dano. Pode acumular até **8** pontos de calor. Quando atinge o limite de calor, você ganha o efeito calor de rachar, que aumenta o ATQ ígneo em **10%** durante **25** segundos.",
 					"icon": "funnel_skill",
 					"id": "GA_FPlayerFunnelSkillFire"
 				}
@@ -3586,7 +3724,6 @@
 		"name": "Cardiomanancial",
 		"avatar": {
 			"name": "Saki Fuwa",
-			"description": "Desconhecido",
 			"advanceId": "imitation_22L1",
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
@@ -3616,13 +3753,13 @@
 			"normals": [
 				{
 					"name": "Iramanancial",
-					"description": "No chão, execute 5 ataques de Cardiomanancial.\r\nPrimeiro ataque: causa dano de **42.5%** do ATQ + **255** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **29.5%** do ATQ + **177** e repele o alvo uma curta distância.\r\nTerceiro ataque: causa dano de **45%** do ATQ + **270** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **70.6%** do ATQ + **424** e repele o alvo uma curta distância.\r\nQuinto ataque: causa dano de **102.6%** do ATQ + **616** e lança o alvo no ar.",
+					"description": "No chão, execute 5 ataques de Cardiomanancial.\r\nPrimeiro ataque: Causa dano de **42.5%** do ATQ + **255** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **29.5%** do ATQ + **177** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **45%** do ATQ + **270** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **70.6%** do ATQ + **424** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **102.6%** do ATQ + **616** e lança o alvo no ar.",
 					"icon": "skill_dkatana_melee",
 					"id": "GA_PlayerDkatanaMelee_Melee"
 				},
 				{
 					"name": "Parte-Ar",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **47.2%** do ATQ + **283**.\r\nSegundo ataque: causa dano de **43.7%** do ATQ + **262**.\r\nTerceiro ataque: causa dano de **54.2%** do ATQ + **325**.\r\nQuarto ataque: causa dano de **76.9%** do ATQ + **461**.\r\nQuinto ataque: causa dano de **170.2%** do ATQ + **1021**.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **47.2%** do ATQ + **283**.\r\nSegundo ataque: Causa dano de **43.7%** do ATQ + **262**.\r\nTerceiro ataque: Causa dano de **54.2%** do ATQ + **325**.\r\nQuarto ataque: Causa dano de **76.9%** do ATQ + **461**.\r\nQuinto ataque: Causa dano de **170.2%** do ATQ + **1021**.",
 					"icon": "skill_dkatana_airattack",
 					"id": "GA_PlayerDkatanaMelee_AirAttack"
 				},
@@ -3676,7 +3813,7 @@
 			"discharge": [
 				{
 					"name": "Cardiolótus",
-					"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e arremete para a frente com um combo. Causa dano total de **536%** do ATQ + **3216**.",
+					"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e arremete para a frente com um combo. Causa dano total de **590%** do ATQ + **3216**.",
 					"icon": "skill_dkatana_changeskill",
 					"id": "GA_FPlayerDkatanaChangeSkill_Success"
 				}
@@ -3746,7 +3883,6 @@
 		"name": "Malhasombria",
 		"avatar": {
 			"name": "Lin",
-			"description": "Desconhecido",
 			"advanceId": "imitation_23L1",
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
@@ -3780,13 +3916,13 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, use a Malhasombria para executar 5 ataques consecutivos.\r\nPrimeiro ataque: causa dano de **59.9%** do ATQ + **359**.\r\nSegundo ataque: causa dano de **57.1%** do ATQ + **343**.\r\nTerceiro ataque: causa dano de **49.5%** do ATQ + **297**.\r\nQuarto ataque: causa dano de **114.2%** do ATQ + **685** e suspende o alvo.\r\nQuinto ataque: causa dano de **152.2%** do ATQ + **913**.",
+					"description": "No chão, use a Malhasombria para executar 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **59.9%** do ATQ + **359**.\r\nSegundo ataque: Causa dano de **57.1%** do ATQ + **343**.\r\nTerceiro ataque: Causa dano de **49.5%** do ATQ + **297**.\r\nQuarto ataque: Causa dano de **114.2%** do ATQ + **685** e suspende o alvo.\r\nQuinto ataque: Causa dano de **152.2%** do ATQ + **913**.",
 					"icon": "skill_Fan_melee",
 					"id": "GA_FPlayerFanMelee_Melee"
 				},
 				{
 					"name": "Detonação Aérea",
-					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **30.6%** do ATQ + **184**.\r\nSegundo ataque: causa dano de **55.6%** do ATQ + **334**.\r\nTerceiro ataque: causa dano de **48.2%** do ATQ + **289**.\r\nQuarto ataque: causa dano de **111.2%** do ATQ + **667**.\r\nQuinto ataque: causa dano de **148.3%** do ATQ + **890**.",
+					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **30.6%** do ATQ + **184**.\r\nSegundo ataque: Causa dano de **55.6%** do ATQ + **334**.\r\nTerceiro ataque: Causa dano de **48.2%** do ATQ + **289**.\r\nQuarto ataque: Causa dano de **111.2%** do ATQ + **667**.\r\nQuinto ataque: Causa dano de **148.3%** do ATQ + **890**.",
 					"icon": "skill_Fan_air",
 					"id": "GA_FPlayerFanMelee_AirAttack"
 				},
@@ -3834,7 +3970,7 @@
 			"discharge": [
 				{
 					"name": "Tecelão Gravitacional",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e libera Tecelão Gravitacional com uma força de absorção mais potente. Causa dano de **368.5%** do ATQ + **2211**. Em seguida, explode e cria uma onda de difusão em área após **5** segundos, que causa dano de **184.3%** do ATQ + **1106**. A imunidade a dano dura **1,5** segundo enquanto a habilidade estiver ativa (indisponível na Liga do Apogeu).",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e libera Tecelão Gravitacional com uma força de absorção mais potente. Causa dano de **368.5%** do ATQ + **2211**. Em seguida, explode e cria uma onda de difusão em área após **5** segundos, que causa dano de **184.3%** do ATQ + **1106**. A imunidade a dano dura **1,5** segundo enquanto a habilidade estiver ativa (indisponível na Liga do Apogeu).",
 					"icon": "skill_Fan_changeskill",
 					"id": "GA_FPlayerFanChangeSkill_Success"
 				}
@@ -3904,14 +4040,13 @@
 		"name": "Quebratrovão",
 		"avatar": {
 			"name": "Tian Lang",
-			"description": "Desconhecido",
 			"advanceId": "imitation_29L1",
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
 			"avatarID": "tianlang",
 			"id": "imitation_29"
 		},
-		"description": "Esta longa lança coberta em relâmpagos é a SMA1-TS000-Quebratrovão. Ela é capaz de liberar a energia acumulada por meios inimagináveis. O campo elétrico produzido desestabiliza a mente do portador, por isso não pode ser dominada por pessoas comuns.",
+		"description": "Esta longa lança coberta em relâmpagos é a SMA1-TS00-Quebratrovão. Ela é capaz de liberar a energia acumulada por meios inimagináveis. O campo elétrico produzido desestabiliza a mente do portador, por isso não pode ser dominada por pessoas comuns.",
 		"icon": "item_Weapon_SSR_Tianlang_Thunder01",
 		"gachaIcon": "SSR_lh_tianlang",
 		"rarity": "SSR",
@@ -3940,13 +4075,13 @@
 				},
 				{
 					"name": "Mizar",
-					"description": "No chão, execute 6 ataques seguidos com a Quebratrovão.\r\nPrimeiro ataque: causa dano de **90.5%** do ATQ + **543** e repele o alvo.\r\nSegundo ataque: causa dano de **67.9%** do ATQ + **407** e repele o alvo.\r\nTerceiro ataque: causa dano de **123%** do ATQ + **738** e repele o alvo.\r\nQuarto ataque: causa dano de **217.9%** do ATQ + **1307** e repele o alvo.\r\nQuinto ataque: causa dano de **222%** do ATQ + **1332** e repele o alvo.\r\nSexto ataque: causa dano de **291.8%** do ATQ + **1751** e lança o alvo no ar.",
+					"description": "No chão, execute 6 ataques seguidos com a Quebratrovão.\r\nPrimeiro ataque: Causa dano de **99.3%** do ATQ + **543** e repele o alvo.\r\nSegundo ataque: Causa dano de **73.2%** do ATQ + **407** e repele o alvo.\r\nTerceiro ataque: Causa dano de **135.8%** do ATQ + **738** e repele o alvo.\r\nQuarto ataque: Causa dano de **240.5%** do ATQ + **1307** e repele o alvo.\r\nQuinto ataque: Causa dano de **240.1%** do ATQ + **1332** e repele o alvo.\r\nSexto ataque: Causa dano de **314.1%** do ATQ + **1751** e lança o alvo no ar.",
 					"icon": "skill_tianlang_melee",
 					"id": "GA_PlayerTianLangMelee_Melee"
 				},
 				{
 					"name": "Megrez",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: causa dano de **87.4%** do ATQ + **524**.\r\nSegundo ataque: causa dano de **83%** do ATQ + **498**.\r\nTerceiro ataque: causa dano de **126.7%** do ATQ + **760**.\r\nQuarto ataque: causa dano de **229.4%** do ATQ + **1376**.\r\nQuinto ataque: causa dano de **256.5%** do ATQ + **1539**.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **87.4%** do ATQ + **524**.\r\nSegundo ataque: Causa dano de **83%** do ATQ + **498**.\r\nTerceiro ataque: Causa dano de **126.7%** do ATQ + **760**.\r\nQuarto ataque: Causa dano de **229.4%** do ATQ + **1376**.\r\nQuinto ataque: Causa dano de **256.5%** do ATQ + **1539**.",
 					"icon": "skill_tianlang_airattack",
 					"id": "GA_PlayerTianLangMelee_AirAttack"
 				},
@@ -4058,7 +4193,6 @@
 		"name": "Véspera",
 		"avatar": {
 			"name": "Lyra",
-			"description": "Desconhecido",
 			"advanceId": "imitation_24L1",
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
@@ -4094,7 +4228,7 @@
 				},
 				{
 					"name": "Ataque Normal da Véspera",
-					"description": "No chão, use Véspera para executar 5 ataques consecutivos.\r\nPrimeiro ataque: causa dano de **81.6%** do ATQ + **490** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **59.1%** do ATQ + **355** e repele o alvo uma boa distância. \r\nTerceiro ataque: causa dano de **123.9%** do ATQ + **743** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **173%** do ATQ + **1038** e suspende o alvo.\r\nQuinto ataque: causa dano de **196.4%** do ATQ + **1178** e lança o alvo no ar.",
+					"description": "No chão, use Véspera para executar 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **81.6%** do ATQ + **490** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **59.1%** do ATQ + **355** e repele o alvo uma boa distância. \r\nTerceiro ataque: Causa dano de **123.9%** do ATQ + **743** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **173%** do ATQ + **1038** e suspende o alvo.\r\nQuinto ataque: Causa dano de **196.4%** do ATQ + **1178** e lança o alvo no ar.",
 					"icon": "skill_arm_melee",
 					"id": "GA_FPlayerArmMeleePhy_Melee"
 				},
@@ -4146,13 +4280,13 @@
 				},
 				{
 					"name": "Estrela Cadente",
-					"description": "Salta na direção do alvo. Causa dano de **702.1%** do ATQ + **4212** e o **suspende muito**. Inflige uma marca de alumbramento ao alvo durante **18** segundos. Tempo de recarga: **20** seg.",
+					"description": "Salta na direção do alvo. Causa dano de **771%** do ATQ mais **4212** e o **suspende muito**. Inflige uma marca de alumbramento ao alvo durante **18** segundos. Tempo de recarga: **20** seg.",
 					"icon": "skill_arm_airattack2",
 					"id": "GA_FPlayerArmPublishSkillPhy"
 				},
 				{
 					"name": "Luminascer",
-					"description": "Esmurra o chão e **lança alto no ar** os alvos à frente, causando dano de **702.1%** do ATQ + **4212** e evocando até **3** **lâminas** durante **75** segundos (até 1 lâmina a cada 2 metros). Esta habilidade pode ser utilizada até **3** vezes, e cada vez tem um tempo de recarga de **20** segundos. Quando há 2 **lâminas** no campo, um **elucidar** é criado. Ao tocar em uma **lâmina**, ela cura os alvos dentro do raio de movimento, restaurando vida equivalente a **25%** do ATQ do alvo. Quando há 3 **lâminas** no campo, uma **nebulosa** é criada. Ao tocar em uma **lâmina**, ela causa dano aos alvos dentro do raio de movimento igual a **150%** do ATQ × distância de movimento / **5**m.",
+					"description": "Esmurra o chão e **lança alto no ar** os alvos à frente, causando dano de **771%** do ATQ + **4212** e evocando até **3** **lâminas** durante **75** segundos (até 1 lâmina a cada 2 metros). Esta habilidade pode ser utilizada até **3** vezes, e cada vez tem um tempo de recarga de **20** segundos. Quando há 2 **lâminas** no campo, um **elucidar** é criado. Ao tocar em uma **lâmina**, ela cura os alvos dentro do raio de movimento, restaurando vida equivalente a **25%** do ATQ do alvo. Quando há 3 **lâminas** no campo, uma **nebulosa** é criada. Ao tocar em uma **lâmina**, ela causa dano aos alvos dentro do raio de movimento igual a **150%** do ATQ × distância de movimento / **5**m.",
 					"icon": "skill_arm_skill2",
 					"id": "GA_FPlayerArmLawSkillPhy"
 				}
@@ -4230,7 +4364,6 @@
 		"name": "Arte Perdida",
 		"avatar": {
 			"name": "Rubilia",
-			"description": "Desconhecido",
 			"advanceId": "imitation_48L1",
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
@@ -4266,7 +4399,7 @@
 				},
 				{
 					"name": "Suprimir",
-					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas e consumir vigor.\r\nPrimeiro ataque: Causa dano de **113.7%** do ATQ mais **682**.\r\nSegundo ataque: Causa dano de **89.6%** do ATQ mais **538**.\r\nTerceiro ataque: Causa dano de **175.1%** do ATQ mais **1051**.\r\nQuarto ataque: Causa dano de **343.3%** do ATQ mais **2060**.\r\nQuinto ataque: Causa dano de **170.6%** do ATQ mais **1024**.",
+					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas, consumindo vigor.\r\nPrimeiro ataque: Causa dano de **113.7%** do ATQ + **682**.\r\nSegundo ataque: Causa dano de **89.6%** do ATQ + **538**.\r\nTerceiro ataque: Causa dano de **175.1%** do ATQ + **1051**.\r\nQuarto ataque: Causa dano de **343.3%** do ATQ + **2060**.\r\nQuinto ataque: Causa dano de **170.6%** do ATQ + **1024**.",
 					"icon": "skill_rubilia_airattack",
 					"id": "GA_FPlayerRubiliaMelee_AirAttack"
 				},
@@ -4326,7 +4459,7 @@
 			"discharge": [
 				{
 					"name": "Abraço de Harrah",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e invoca Harrah para conjurar **12** Projéteis-Tempestade. Cada uma causa dano de **68.8%** do ATQ + **413** aos alvos próximos. Nesse período você recebe imunidade a dano durante **1,5** segundos (indisponível na Liga do Apogeu).\r\nAumenta o dano elétrico em **7%** durante **30** segundos após usar Abraço de Harrah com êxito. Além disso, gera **3** espinhos de cristamax (até **5** podem existir ao mesmo tempo). Os espinhos de cristamax começam com **100%** da vida máxima, não podem ser atacados, podem ser curados apenas por **Retorno** e duram **150** segundos.\r\nRecebe **2** **Retornos** após Abraço de Harrah acertar um ataque (pode acumular até **4** vezes). A Arte Perdida consome **1** **Retorno** a cada ataque de esquiva, o que causa dano de **72%** do ATQ vezes o número de espinhos de cristamax ao alvo, restaura **25%** da vida máxima de todos os espinhos de cristamax e redefine a posição e a duração dos espinhos de cristamax.\r\nApós atingir um golpe com Abraço de Harrah, ganha **1** chance de esquiva sem consumir uma tentativa de esquiva.",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e invoca Harrah para conjurar **12** Projéteis-Tempestade. Cada uma causa dano de **68.8%** do ATQ + **413** aos alvos próximos. Nesse período você recebe imunidade a dano durante **1,5** segundos (indisponível na Liga do Apogeu).\r\nAumenta o dano elétrico em **7%** durante **30** segundos após usar Abraço de Harrah com êxito. Além disso, gera **3** espinhos de cristamax (até **5** podem existir ao mesmo tempo). Os espinhos de cristamax começam com **100%** da vida máxima, não podem ser atacados, podem ser curados apenas por **Retorno** e duram **150** segundos.\r\nRecebe **2** **Retornos** após Abraço de Harrah acertar um ataque (pode acumular até **4** vezes). A Arte Perdida consome **1** **Retorno** a cada ataque de esquiva, o que causa dano de **72%** do ATQ vezes o número de espinhos de cristamax ao alvo, restaura **25%** da vida máxima de todos os espinhos de cristamax e redefine a posição e a duração dos espinhos de cristamax.\r\nApós atingir um golpe com Abraço de Harrah, ganha **1** chance de esquiva sem consumir uma tentativa de esquiva.",
 					"icon": "skill_rubilia_changeskill",
 					"id": "GA_FPlayerRubiliaChangeSkill_Success"
 				}
@@ -4396,7 +4529,6 @@
 		"name": "Asa Obstinada",
 		"avatar": {
 			"name": "Alyss",
-			"description": "Desconhecido",
 			"advanceId": "imitation_30L1",
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
@@ -4426,13 +4558,13 @@
 			"normals": [
 				{
 					"name": "Arco do Cisne",
-					"description": "No chão, use a Asa Obstinada para executar 5 ataques consecutivos.\r\nPrimeiro ataque: causa dano de **101.3%** do ATQ + **608** e repele o alvo uma curta distância.\r\nSegundo ataque: causa dano de **107.3%** do ATQ + **644** e repele o alvo uma boa distância.\r\nTerceiro ataque: causa dano de **116.4%** do ATQ + **698** e repele o alvo uma curta distância.\r\nQuarto ataque: causa dano de **141.8%** do ATQ + **851** e suspende o alvo.\r\nQuinto ataque: causa dano de **241.5%** do ATQ + **1449** e lança o alvo no ar.",
+					"description": "No chão, use a Asa Obstinada para executar 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **101.3%** do ATQ + **608** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **107.3%** do ATQ + **644** e repele o alvo uma boa distância.\r\nTerceiro ataque: Causa dano de **116.4%** do ATQ + **698** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **141.8%** do ATQ + **851** e suspende o alvo.\r\nQuinto ataque: Causa dano de **241.5%** do ATQ + **1449** e lança o alvo no ar.",
 					"icon": "skill_iceblade_melee",
 					"id": "GA_FPlayerIceBladeMeleeIce_Melee"
 				},
 				{
 					"name": "Combo Arrasador",
-					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas enquanto consome vigor.\r\nPrimeiro ataque: causa dano de **72.1%** do ATQ + **433**.\r\nSegundo ataque: causa dano de **65.6%** do ATQ + **394**.\r\nTerceiro ataque: causa dano de **115.8%** do ATQ + **695**.\r\nQuarto ataque: causa dano de **131.1%** do ATQ + **787**.\r\nQuinto ataque: causa dano de **343.9%** do ATQ + **2063** e **derruba** o alvo.",
+					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas enquanto consome vigor.\r\nPrimeiro ataque: Causa dano de **72.1%** do ATQ + **433**.\r\nSegundo ataque: Causa dano de **65.6%** do ATQ + **394**.\r\nTerceiro ataque: Causa dano de **115.8%** do ATQ + **695**.\r\nQuarto ataque: Causa dano de **131.1%** do ATQ + **787**.\r\nQuinto ataque: Causa dano de **343.9%** do ATQ + **2063** e **derruba** o alvo.",
 					"icon": "skill_iceblade_airattack",
 					"id": "GA_FPlayerIceBladeMeleeIce_AirAttack"
 				},
@@ -4486,7 +4618,7 @@
 			"discharge": [
 				{
 					"name": "Noite Estrelada",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e libera uma habilidade de descarga ao trocar para esta arma. Causa dano de **553.2%** do ATQ + **3319** e **lança o alvo alto no ar**. Nesse período, recebe imunidade a dano durante **2,6** segundos (indisponível na Liga do Apogeu).",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e libera uma habilidade de descarga ao trocar para esta arma. Causa dano de **553.2%** do ATQ + **3319** e **lança o alvo alto no ar**. Nesse período, recebe imunidade a dano durante **2,6** segundos (indisponível na Liga do Apogeu).",
 					"icon": "skill_iceblade_changeskill",
 					"id": "GA_FPlayerIceBladeChangeSkillIce"
 				}
@@ -4556,7 +4688,6 @@
 		"name": "Cruz de Trevos",
 		"avatar": {
 			"name": "Annabella",
-			"description": "Desconhecido",
 			"advanceId": "imitation_26L1",
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
@@ -4586,7 +4717,7 @@
 			"normals": [
 				{
 					"name": "Ataque Normal",
-					"description": "No chão, ataque 3 vezes seguidas com o fuzil de precisão.\r\nPrimeiro ataque: causa dano de **44.2%** do ATQ + **265** e repele o alvo.\r\nSegundo ataque: causa dano de **84.4%** do ATQ + **506** e repele o alvo.\r\nTerceiro ataque: causa dano de **176.9%** do ATQ + **1061** e lança o alvo no ar.",
+					"description": "No chão, ataque 3 vezes seguidas com o fuzil de precisão.\r\nPrimeiro ataque: Causa dano de **44.2%** do ATQ + **265** e repele o alvo.\r\nSegundo ataque: Causa dano de **84.4%** do ATQ + **506** e repele o alvo.\r\nTerceiro ataque: Causa dano de **176.9%** do ATQ + **1061** e lança o alvo no ar.",
 					"icon": "pugong_snipe",
 					"id": "GA_FPlayerSnipeMelee_Melee"
 				},
@@ -4604,7 +4735,7 @@
 				},
 				{
 					"name": "Detonação Aérea",
-					"description": "No ar, use o botão de ataque normal para atacar 3 vezes seguidas.\r\nPrimeiro ataque: causa dano de **47.6%** do ATQ + **286** e repele o alvo.\r\nSegundo ataque: causa dano de **90.9%** do ATQ + **545** e repele o alvo.\r\nTerceiro ataque: causa dano de **190.5%** do ATQ + **1143** e lança o alvo no ar.",
+					"description": "No ar, use o botão de ataque normal para atacar 3 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **47.6%** do ATQ + **286** e repele o alvo.\r\nSegundo ataque: Causa dano de **90.9%** do ATQ + **545** e repele o alvo.\r\nTerceiro ataque: Causa dano de **190.5%** do ATQ + **1143** e lança o alvo no ar.",
 					"icon": "pugong_snipe",
 					"id": "GA_FPlayerSnipeMelee_AirAttack"
 				}
@@ -4634,7 +4765,7 @@
 			"discharge": [
 				{
 					"name": "Comando de Bombardeio",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e arremessa uma bomba incendiária. Atire na bomba incendiária para detoná-la, causando dano de até **765.4%** do ATQ + **4592** e **suspendendo muito** os alvos ao alcance. A imunidade a dano dura **1,5** segundo quando a habilidade estiver ativa (indisponível na Liga do Apogeu).",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e arremessa uma bomba incendiária. Atire na bomba incendiária para detoná-la, causando dano de até **765.4%** do ATQ + **4592** e **suspendendo muito** os alvos ao alcance. A imunidade a dano dura **1,5** segundo quando a habilidade estiver ativa (indisponível na Liga do Apogeu).",
 					"icon": "skill_snipe_changeskill",
 					"id": "GA_FPlayerSnipeChangeSkill_Success"
 				}
@@ -4704,7 +4835,6 @@
 		"name": "Cometa Pinheiro",
 		"avatar": {
 			"name": "Liu Huo",
-			"description": "Desconhecido",
 			"advanceId": "imitation_37L1",
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
@@ -4775,7 +4905,7 @@
 					"id": "GA_FPlayerBrushMelee_Beidong"
 				},
 				{
-					"name": "Pena de Pardal",
+					"name": "Pena de pardal",
 					"description": "Quando o usuário tiver uma **pena de pardal**:\r\nQualquer ataque usando **Cometa Pinheiro** lançará uma **pena de pardal** na direção do alvo travado e causará dano de **40.8%** do ATQ a alvos próximos. Pode ser acionado 1 vez a cada **1** segundo.\r\nQuando **Cometa Pinheiro** estiver no espaço secundário, atacar com outras armas também pode lançar 1 **pena de pardal** na direção do alvo travado, o que poderá ser acionado 1 vez a cada **2** segundos.\r\nO número inicial de **penas de pardal** é **30**, e podem ser armazenadas até **60** por vez.",
 					"icon": "skill_brush_queyu",
 					"id": "GA_FPlayerBrushMelee_QueYu"
@@ -4812,7 +4942,7 @@
 			"discharge": [
 				{
 					"name": "Centelha de Genialidade",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, **remove todos os efeitos negativos de você** e golpeia à frente ao trocar para esta arma. Causa dano de até **1021.4%** do ATQ + **6128** a alvos próximos e os suspende. Neste período, a imunidade a dano dura **1,5** segundo (indisponível na Liga do Apogeu).\r\n\r\n**Passiva: Ardal**\r\nAo usar a habilidade de descarga de qualquer arma ígnea, aplica **1** acúmulo de **ardal** ao alvo travado. Causa dano de **30%** do ATQ por segundo durante **15** segundos e acumula até **2** vezes.",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você** e golpeia à frente ao trocar para esta arma. Causa dano de até **1021.4%** do ATQ + **6128** a alvos próximos e os suspende. Neste período, a imunidade a dano dura **1,5** segundo (indisponível na Liga do Apogeu).\r\n\r\n**Passiva: Ardal**\r\nAo usar a habilidade de descarga de qualquer arma ígnea, aplica **1** acúmulo de **ardal** ao alvo travado. Causa dano de **30%** do ATQ por segundo durante **15** segundos e acumula até **2** vezes.",
 					"icon": "skill_brush_changeskill",
 					"id": "GA_FPlayerBrushChangeSkill_Success"
 				}
@@ -4882,7 +5012,6 @@
 		"name": "Möbius",
 		"avatar": {
 			"name": "Umi",
-			"description": "Desconhecido",
 			"advanceId": "imitation_31L1",
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
@@ -4912,13 +5041,13 @@
 			"normals": [
 				{
 					"name": "Técnica Básica",
-					"description": "No chão, use a Möbius para executar 5 ataques consecutivos.\r\nPrimeiro ataque: causa dano de **76.9%** do ATQ + **461** e repele o alvo.\r\nSegundo ataque: causa dano de **84.4%** do ATQ + **506** e repele o alvo.\r\nTerceiro ataque: causa dano de **112.1%** do ATQ + **673** e derruba o alvo.\r\nQuarto ataque: causa dano de **105.5%** do ATQ + **633** e arrasta e solta o alvo.\r\nQuinto ataque: causa dano de **265.1%** do ATQ + **1590** e lança o alvo no ar.\r\nAumenta o despedaçar em mais **50%**.",
+					"description": "No chão, use a Möbius para executar 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **76.9%** do ATQ + **461** e repele o alvo.\r\nSegundo ataque: Causa dano de **84.4%** do ATQ + **506** e repele o alvo.\r\nTerceiro ataque: Causa dano de **112.1%** do ATQ + **673** e derruba o alvo.\r\nQuarto ataque: Causa dano de **105.5%** do ATQ + **633** e arrasta e solta o alvo.\r\nQuinto ataque: Causa dano de **265.1%** do ATQ + **1590** e lança o alvo no ar.\r\nAumenta o despedaçar em mais **50%**.",
 					"icon": "skill_whip_melee",
 					"id": "GA_FPlayerWhipMelee_Melee"
 				},
 				{
 					"name": "Combo aéreo",
-					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas, consumindo vigor.\r\nPrimeiro ataque: causa dano de **46%** do ATQ + **276**.\r\nSegundo ataque: causa dano de **66.5%** do ATQ + **399**.\r\nTerceiro ataque: causa dano de **88.4%** do ATQ + **530**.\r\nQuarto ataque: causa dano de **88.8%** do ATQ + **533**.\r\nQuinto ataque: causa dano de **260.5%** do ATQ + **1563**.",
+					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas, consumindo vigor.\r\nPrimeiro ataque: Causa dano de **46%** do ATQ + **276**.\r\nSegundo ataque: Causa dano de **66.5%** do ATQ + **399**.\r\nTerceiro ataque: Causa dano de **88.4%** do ATQ + **530**.\r\nQuarto ataque: Causa dano de **88.8%** do ATQ + **533**.\r\nQuinto ataque: Causa dano de **260.5%** do ATQ + **1563**.",
 					"icon": "skill_whip_airattack",
 					"id": "GA_FPlayerWhipMelee_AirAttack"
 				},
@@ -5054,7 +5183,6 @@
 		"name": "Floração Infinita",
 		"avatar": {
 			"name": "Fei Se",
-			"description": "Desconhecido",
 			"advanceId": "imitation_51L1",
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
@@ -5084,7 +5212,7 @@
 			"normals": [
 				{
 					"name": "Manobra",
-					"description": "No chão, use o botão de ataque normal para executar 6 ataques seguidos.\r\nPrimeiro ataque: causa dano de **82%** do ATQ + **492** e repele o alvo.\r\nSegundo ataque: causa dano de **122%** do ATQ + **732** e repele o alvo.\r\nTerceiro ataque: causa dano de **132%** do ATQ + **792** e derruba o alvo.\r\nQuarto ataque: causa dano de **144%** do ATQ + **864** e suspende o alvo.\r\nQuinto ataque: causa dano de **146%** do ATQ + **876** e derruba o alvo.\r\nSexto ataque: causa dano de **115%** do ATQ + **690** e puxa o alvo.",
+					"description": "No chão, use o botão de ataque normal para executar 6 ataques seguidos.\r\nPrimeiro ataque: Causa dano de **82%** do ATQ + **492** e repele o alvo.\r\nSegundo ataque: Causa dano de **122%** do ATQ + **732** e repele o alvo.\r\nTerceiro ataque: Causa dano de **132%** do ATQ + **792** e derruba o alvo.\r\nQuarto ataque: Causa dano de **144%** do ATQ + **864** e suspende o alvo.\r\nQuinto ataque: Causa dano de **146%** do ATQ + **876** e derruba o alvo.\r\nSexto ataque: Causa dano de **115%** do ATQ + **690** e puxa o alvo.",
 					"icon": "feise_melee",
 					"id": "GA_FPlayerFeiseMelee_Melee"
 				},
@@ -5096,7 +5224,7 @@
 				},
 				{
 					"name": "Outono Dourado",
-					"description": "No chão, segure o botão de ataque normal do primeiro ao terceiro ataque normal para acionar Outono Dourado.\r\nPuxa alvos próximos, causando dano de **259%** do ATQ + **1554** e os suspende.",
+					"description": "No chão, segure o botão de ataque normal do primeiro ao terceiro ataque normal para acionar Outono Dourado.\r\nPuxa alvos próximos, causando dano de **259%** do ATQ + **1554** e os suspendendo.",
 					"icon": "feise_branch1",
 					"id": "GA_FPlayerFeiseMelee_Branch1"
 				},
@@ -5128,13 +5256,13 @@
 				},
 				{
 					"name": "Chakrans Repulsores",
-					"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez sur un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent infligeant des dégâts équivalant à **209%** de l'ATQ + **1254** aux cibles proches.\r\n\r\nPendant le **Mirage fantastique** de **Tourbillon**, lorsque la première attaque d'esquive infligée avec n'importe quelle arme touche sa cible, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n**Fantaisie de Fei Se**: À sa création, la Fantaisie de Fei Se copie **25%** de l'ATQ max de la cible et les ajoute à l'**ATQ de feu de base** de l'Explorateur (pas moins de **3300** et pas plus de **3450**; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'**une** Fantaisie de Fei Se à la fois.\r\n**Pétale de lotus**: À leur création, les Pétales de lotus sont égaux au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après leur création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
+					"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use o direcional antes da esquiva) para usar Flor Dispersa. Causa dano de **209%** do ATQ + **1254** a alvos próximos.\r\n\r\nDurante a **Fantasia da Miragem** criada pela **Espiral**, aciona Transplante de Flor, criando uma Phantasia e uma Pétala de Lótus de Fei Se após o primeiro ataque de esquiva golpear um alvo com qualquer arma.\r\n**Phantasia de Fei Se**: ao ser criada, a Phantasia de Fei Se copia e converte **25%** do ATQ máximo do alvo para o **ATQ ígneo básico** do usuário (maior que **6.500** e menor que **10.000**, esse ATQ ígneo não aparece nos atributos do usuário e está indisponível na Liga do Apogeu) até desaparecer. Pode haver apenas **1** Phantasia de Fei Se por vez, e o cálculo é independente para cada uma delas.\r\n**Pétala de Lótus**: ao ser criada, a contagem da Pétala de Lótus é igual ao número de invocações criadas pela arma do usuário, exceto a Floração Infinita. A Pétala de Lótus é considerada uma invocação, e o número de invocações não altera sua contagem após sua criação.",
 					"icon": "feise_evadefront",
 					"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 				},
 				{
 					"name": "Flutuar",
-					"description": "Use o botão de ataque normal logo após se esquivar para acionar Flutuar. Causa dano igual a **120%** do ATQ + **720** a alvos próximos.",
+					"description": "Use o botão de ataque normal logo após se esquivar para acionar Flutuar. Causa dano de **120%** do ATQ + **720** a alvos próximos.",
 					"icon": "feise_evadeback",
 					"id": "GA_FPlayerFeiseEvade_BackAttack"
 				}
@@ -5142,21 +5270,21 @@
 			"skill": [
 				{
 					"name": "Espiral",
-					"description": "Inflige des dégâts équivalant à **1008%** de l'ATQ + **6047** aux cibles proches et crée un Mirage fantastique, d'une durée maximale de **25**secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de **20**secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage:\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à **135%** de l'ATQ aux cibles dans le Mirage. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les **5**secondes, inflige Cœur flamboyant aux cibles dans le Mirage, leur infligeant des dégâts de brûlure équivalant à **20%** de l'ATQ pendant **5**secondes. Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de **6%** supplémentaires.",
+					"description": "Causa dano de **1008%** do ATQ + **6047** aos alvos próximos e cria Fantasia de Miragem, que dura até **25** segundos.\r\nDurante a recarga de Espiral, ganha a habilidade Graciosidade, que pode ser usada após a Miragem estar ativa por **20** segundos.\r\nAtualiza o tempo de recarga da Espiral imediatamente após o desaparecimento da Miragem. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\n\r\nDurante a Miragem:\r\nA cada segundo, causa dano de Eclipsalma igual a **135%** do ATQ, e o dano conta como ataque normal.\r\nInflige Coração Ardente aos alvos ao alcance a cada **5** segundos, causando dano de queima de **20%** do ATQ durante **5** segundos. Para cada **1** **Phantasia de Fei Se** ou **Pétala de Lótus** criada pelo usuário na Miragem, o dano de Coração Ardente aumenta em mais **15%**.",
 					"icon": "feise_skill1",
 					"id": "GA_FPlayerFeiseSkill_Skill1"
 				},
 				{
 					"name": "Graciosidade",
-					"description": "Durante a recarga de Espiral, ganha a habilidade Graciosidade, que pode ser usada após a Miragem estar ativa por **20** segundos.\r\nRemove todas as **Phantasias de Fei Se** e as **Pétalas de Lótus** na Miragem criada pelo usuário. Causa dano de **180%** de ATQ + **1080** aos alvos próximos para cada **1** **Phantasia de Fei Se** ou **Pétala de Lótus** removida; e então, despedaça a Fantasia da Miragem, causando dano de **450%** do ATQ + **2700** aos alvos próximos.",
+					"description": "Durante a recarga de Espiral, ganha a habilidade Graciosidade, que pode ser usada após a Miragem estar ativa por **20** segundos.\r\nRemove todas as **Phantasias de Fei Se** e as **Pétalas de Lótus** na Miragem criada pelo usuário. Causa dano de **180%** do ATQ + **1080** aos alvos próximos para cada **1** **Phantasia de Fei Se** ou **Pétala de Lótus** removida; e então, despedaça a Fantasia da Miragem, causando dano de **450%** do ATQ + **2700** aos alvos próximos.",
 					"icon": "feise_skill2",
 					"id": "GA_FPlayerFeiseSkill_Skill2"
 				}
 			],
 			"discharge": [
 				{
-					"name": "Acervo Jade Inigualável",
-					"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, **élimine toutes les altérations sur l'Explorateur** au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à **1090%** de l'ATQ + **6539**. Durant cette période, accorde une immunité aux dégâts pendant **1,5**seconde (non disponible en Ligue ultime).",
+					"name": "Jade Inigualável",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e causa dano de **1090%** do ATQ + **6539**. Nesse período, recebe imunidade a dano durante **2,6** segundos (indisponível na Liga do Apogeu).",
 					"icon": "feise_changeskill",
 					"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 				}
@@ -5164,7 +5292,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Explosion incandescente: Coupe rapide**: quand **Floraison éternelle** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux équivalant à **5%** de l'ATQ de feu + **8%** des PV max de l'Explorateur + **3%** de la somme de tous les types de résistance de l'Explorateur + **10%** de crit aux cibles proches. En combat, toutes les **0,5**seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion incandescente: Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **2.5**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
+				"description": "**Ressonância ígnea**: Aumenta o ATQ ígneo em **20%** e a resistência ígnea em **40%**. Ativa-se ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea ou reação ígnea, e a ressonância ígnea tem prioridade..\r\n**Explosão ardente: Corte Ligeiro**: Com **Floração Infinita** equipada, acertar um golpe com qualquer habilidade de descarga causa aos alvos próximos dano inicial de **38%** do ATQ ígneo mais **1%** da vida máxima do Errante + **19%** da soma de todos os tipos de resistências do Errante mais **69%** do crítico. A cada **0,5** segundo em combate, o dano do próximo Corte Ligeiro aumenta mais **1** vez, até um máximo de **30** vezes. Quando há o dano de vários Cortes Ligeiros juntos, o cálculo é feito sobre o valor inicial mais alto. O dano da Explosão ardente: Corte Ligeiro conta como dano de habilidade de descarga. Se houver **1** arma gélida/física/elétrica de qualquer tipo equipada, o dano da Explosão ardente é multiplicado por **1.3**. Além disso, o dano da Explosão ardente não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5172,7 +5300,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Le multiplicateur de base des dégâts de **Cœur flamboyant** passe à **60%** de l'ATQ. En état de combat, si l'Explorateur inflige plusieurs effets de brûlure, le multiplicateur de base des dégâts de **Cœur flamboyant** est remplacé par le multiplicateur le plus élevé.",
+				"description": "O multiplicador mínimo de dano de **Coração Ardente** aumenta para **120%** do ATQ. Se o usuário causa múltiplos efeitos de queimadura durante o estado de combate, o multiplicador mínimo de dano de **Coração Ardente** adicionalmente aumenta para o maior efeito multiplicador.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5188,7 +5316,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "O número máximo de **Phantasia de Fei Se** aumenta para **2**, e ainda cria mais **1** **Phantasia de Fei Se** após acertar um golpe de **Espiral**.",
+				"description": "O número máximo de **Phantasia de Fei Se** aumenta para **2**, e mais **1** **Phantasia de Fei Se** é criada após acertar um golpe de **Espiral**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5204,7 +5332,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé dans le **Mirage**, les dégâts de **Cœur flamboyant** sont accrus de **12%** supplémentaires.\r\nLa consommation d'endurance d'**Effet du lotus** est réduite de **75%**.",
+				"description": "O dano de **Coração Ardente** aumenta adicionalmente em **15%** para cada **1** **Phantasia de Fei Se** ou **Pétala de Lótus** na **Miragem**.\r\nReduz em **75%** o consumo de vigor da **Apsara Lótus**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5212,7 +5340,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Le multiplicateur de base des dégâts d'**Usure d'âme** passe à **270%** de l'ATQ, la capacité de fracture est doublée et après avoir touché une cible, vous avez **15%** de chances d'infliger un ralentissement de **65%** pendant **2**secondes (inefficace contre les boss en jeu en équipe et non disponible en Ligue ultime).",
+				"description": "O multiplicador mínimo de dano de **Eclipsalma** aumenta para **900%** do ATQ, o despedaçar é dobrado e há **15%** de chance de causar atraso de **65%** por **2** segundos após acertar um golpe (ineficaz contra chefes ao estar em equipe e indisponível na Liga do Apogeu).",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5226,7 +5354,6 @@
 		"name": "Gleipnir",
 		"avatar": {
 			"name": "Fenrir",
-			"description": "Desconhecido",
 			"advanceId": "imitation_32L1",
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
@@ -5256,19 +5383,19 @@
 			"normals": [
 				{
 					"name": "Latido",
-					"description": "No chão, ataque 7 vezes.\r\nPrimeiro ataque: causa dano de **48.6%** do ATQ + **482**.\r\nSegundo ataque: causa dano de **54.1%** do ATQ + **537**.\r\nTerceiro ataque: causa dano de **54.1%** do ATQ + **537**.\r\nQuarto ataque: causa dano de **85.4%** do ATQ + **847**.\r\nQuinto ataque: causa dano de **54.1%** do ATQ + **537**.\r\nSexto ataque: causa dano de **152.9%** do ATQ + **1516**.\r\nSétimo ataque: causa dano de **169%** do ATQ + **1676**.",
+					"description": "No chão, ataque 7 vezes.\r\nPrimeiro ataque: Causa dano de **48.6%** do ATQ + **482**.\r\nSegundo ataque: Causa dano de **54.1%** do ATQ + **537**.\r\nTerceiro ataque: Causa dano de **54.1%** do ATQ + **537**.\r\nQuarto ataque: Causa dano de **85.4%** do ATQ + **847**.\r\nQuinto ataque: Causa dano de **54.1%** do ATQ + **537**.\r\nSexto ataque: Causa dano de **152.9%** do ATQ + **1516**.\r\nSétimo ataque: Causa dano de **169%** do ATQ + **1676**.",
 					"icon": "skill_fenrir_melee",
 					"id": "GA_FPlayerFenrirMelee_Melee"
 				},
 				{
 					"name": "Libertação",
-					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 7 vezes seguidas.\r\nPrimeiro ataque: causa dano de **52.9%** do ATQ + **524**.\r\nSegundo ataque: causa dano de **60.8%** do ATQ + **603**.\r\nTerceiro ataque: causa dano de **60.8%** do ATQ + **603**.\r\nQuarto ataque: causa dano de **105.8%** do ATQ + **1049**.\r\nQuinto ataque: causa dano de **79.3%** do ATQ + **787**.\r\nSexto ataque: causa dano de **183.4%** do ATQ + **1819**.\r\nSétimo ataque: causa dano de **202.8%** do ATQ + **2011**.",
+					"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 7 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **52.9%** do ATQ + **524**.\r\nSegundo ataque: Causa dano de **60.8%** do ATQ + **603**.\r\nTerceiro ataque: Causa dano de **60.8%** do ATQ + **603**.\r\nQuarto ataque: Causa dano de **105.8%** do ATQ + **1049**.\r\nQuinto ataque: Causa dano de **79.3%** do ATQ + **787**.\r\nSexto ataque: Causa dano de **183.4%** do ATQ + **1819**.\r\nSétimo ataque: Causa dano de **202.8%** do ATQ + **2011**.",
 					"icon": "skill_fenrir_airattack",
 					"id": "GA_FPlayerFenrirMelee_AirAttack"
 				},
 				{
 					"name": "Mordida Lupina",
-					"description": "No chão, segure o botão de ataque normal durante o segundo ao quarto ataque normal para usar Mordida Lupina.\r\nInveste adiante rapidamente, causando dano de **69%** do ATQ + **684** e repelindo o alvo.\r\nApós usar Mordida Lupina, segure o botão de ataque normal para usar Golpe Alto.\r\nDá um golpe para cima, causando dano igual a **93.1%** do ATQ + **923** e suspendendo o alvo.",
+					"description": "No chão, segure o botão de ataque normal durante o segundo ao quarto ataque normal para usar Mordida Lupina.\r\nInveste adiante rapidamente, causando dano de **69%** do ATQ + **684** e repelindo o alvo.\r\nApós usar Mordida Lupina, segure o botão de ataque normal para usar Golpe Alto.\r\nDá um golpe para cima, causando dano de **93.1%** do ATQ + **923** e suspendendo o alvo.",
 					"icon": "skill_fenrir_branch1",
 					"id": "GA_FPlayerFenrirMelee_MeleeBranch"
 				},
@@ -5280,13 +5407,13 @@
 				},
 				{
 					"name": "Rugido dos Céus",
-					"description": "Segure o botão de ataque normal enquanto estiver no ar (toque quando houver um alvo), ou use o ataque normal ao escalar, pular para trás ou usar a mochila a jato para usar Rugido dos Céus.\r\nDespenca das alturas, causa dano de **200%** do ATQ + **1983** ao aterrissar e suspende os alvos ao redor.\r\nApós usar Rugido dos Céus, segure o botão de ataque normal novamente para usar Rugido.\r\nSolta um rugido aterrorizante e recebe invencibilidade temporária. Causa dano de **200%** do ATQ + **1983** a alvos próximos e os repele.",
+					"description": "Segure o botão de ataque normal enquanto estiver no ar (toque quando houver um alvo), ou use o ataque normal ao escalar, pular para trás ou usar a mochila a jato para usar Rugido dos Céus.\r\nDespenca das alturas, causa dano de **200%** do ATQ + **1983** ao aterrissar e suspende os alvos circundantes.\r\nApós usar Rugido dos Céus, segure o botão de ataque normal novamente para usar Rugido.\r\nSolta um rugido aterrorizante e recebe invencibilidade temporária. Causa dano de **200%** do ATQ + **1983** a alvos próximos e os repele.",
 					"icon": "skill_fenrir_jumpattack",
 					"id": "GA_FPlayerFenrirMelee_JumpAttack"
 				},
 				{
 					"name": "Última Nota",
-					"description": "No ar, segure o botão de ataque normal ao usar a segunda à sétima Libertação para usar Última Nota.\r\nPercorre o ar múltiplas vezes e causa dano de **277.3%** do ATQ + **2750** a alvos ao redor.",
+					"description": "No ar, segure o botão de ataque normal ao usar a segunda à sétima Libertação para usar Última Nota.\r\nPercorre o ar múltiplas vezes e causa dano de **277.3%** do ATQ + **2750** a alvos circundantes.",
 					"icon": "skill_fenrir_airattackbranch",
 					"id": "GA_FPlayerFenrirMelee_AirAttackBranch"
 				},
@@ -5300,7 +5427,7 @@
 			"dodge": [
 				{
 					"name": "Melodia",
-					"description": "Ataca com as garras. Causa dano de **210.8%** do ATQ + **1265** a alvos ao redor e os derruba.",
+					"description": "Ataca com as garras. Causa dano de **210.8%** do ATQ + **1265** a alvos circundantes e os derruba.",
 					"icon": "skill_fenrir_evadeattack",
 					"id": "GA_FPlayerFenrirEvade_EvadeAttack"
 				},
@@ -5322,7 +5449,7 @@
 			"discharge": [
 				{
 					"name": "Auuuu!",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você**, em seguida corre para o alvo e ataca, causando dano de até **661.8%** do ATQ + **3971** aos alvos na área e aplicando **3** notas musicais neles. Fica brevemente invencível enquanto a habilidade estiver ativa (indisponível na Liga do Apogeu e nos Perigos Abissais).",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você**, em seguida corre para o alvo e ataca, causando dano de até **661.8%** do ATQ + **3971** aos alvos na área e aplicando **3** notas musicais neles. Fica brevemente invencível enquanto a habilidade estiver ativa (indisponível na Liga do Apogeu e nos Perigos Abissais).",
 					"icon": "skill_fenrir_changeskill",
 					"id": "GA_FPlayerFenrirChangeSkill"
 				}
@@ -5392,7 +5519,6 @@
 		"name": "Pássaro Vermelho",
 		"avatar": {
 			"name": "Lan",
-			"description": "Desconhecido",
 			"advanceId": "imitation_34L1",
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
@@ -5428,7 +5554,7 @@
 				},
 				{
 					"name": "Golpe Ascendente",
-					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas e consumir vigor.\r\nPrimeiro ataque: Causa dano de **106.3%** do ATQ mais **638**.\r\nSegundo ataque: Causa dano de **129.8%** do ATQ mais **779**.\r\nTerceiro ataque: Causa dano de **158.1%** do ATQ mais **949**.\r\nQuarto ataque: Causa dano de **165.3%** do ATQ mais **992**.\r\nQuinto ataque: Causa dano de **296.3%** do ATQ mais **1778**.",
+					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas, consumindo vigor.\r\nPrimeiro ataque: Causa dano de **106.3%** do ATQ + **638**.\r\nSegundo ataque: Causa dano de **129.8%** do ATQ + **779**.\r\nTerceiro ataque: Causa dano de **158.1%** do ATQ + **949**.\r\nQuarto ataque: Causa dano de **165.3%** do ATQ + **992**.\r\nQuinto ataque: Causa dano de **296.3%** do ATQ + **1778**.",
 					"icon": "skill_umbrella_airattack",
 					"id": "GA_FPlayerUmbrellaMeleeFire_AirAttack"
 				},
@@ -5488,7 +5614,7 @@
 			"discharge": [
 				{
 					"name": "Furacão da Fênix",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e causa dano de **849.6%** do ATQ + **5097** ao alvo, período no qual a imunidade a dano dura **1,5** segundo (indisponível na Liga do Apogeu).\r\n**Passiva**: Um golpe bem-sucedido aumenta o dano ígneo em **1,2% das sombrinhas de penas** durante **20** segundos.",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e causa dano de **849.6%** do ATQ + **5097** ao alvo, período no qual a imunidade a dano dura **1,5** segundo (indisponível na Liga do Apogeu).\r\n**Passiva**: Um golpe bem-sucedido aumenta o dano ígneo em **1,2% das sombrinhas de penas** durante **20** segundos.",
 					"icon": "skill_umbrella_changeskill",
 					"id": "GA_FPlayerUmbrellaChangeSkillFire"
 				}
@@ -5558,7 +5684,6 @@
 		"name": "Preciosa",
 		"avatar": {
 			"name": "Icarus",
-			"description": "Desconhecido",
 			"advanceId": "imitation_35L1",
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
@@ -5620,13 +5745,13 @@
 				},
 				{
 					"name": "Floreio Nevado",
-					"description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Floreio Nevado. Causa dano de **162.8%** do ATQ + **977** aos alvos próximos.",
+					"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar o Floreio Nevado. Causa dano de **162.8%** do ATQ + **977** aos alvos próximos.",
 					"icon": "skill_iceyoyo_frontattack",
 					"id": "GA_FPlayerYoyoEvadeAttack_ForwardAttack"
 				},
 				{
 					"name": "Solstício de Inverno",
-					"description": "Use o botão de ataque normal logo após se esquivar para acionar Solstício de Inverno. Causa dano igual a **162.9%** do ATQ + **977** a alvos próximos.",
+					"description": "Use o botão de ataque normal logo após se esquivar para acionar Solstício de Inverno. Causa dano de **162.9%** do ATQ + **977** a alvos próximos.",
 					"icon": "skill_iceyoyo_backattack",
 					"id": "GA_FPlayerYoyoEvadeAttack_BackAttack"
 				}
@@ -5648,7 +5773,7 @@
 			"discharge": [
 				{
 					"name": "Teto de Conhecimento",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e causa dano de **1113.9%** do ATQ + **6683** aos alvos próximos e os lança no ar. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e causa dano de **1113.9%** do ATQ + **6683** aos alvos próximos e os lança no ar. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).",
 					"icon": "skill_iceyoyo_changeskill",
 					"id": "GA_FPlayerYoyoChangeSkill_Success"
 				}
@@ -5718,7 +5843,6 @@
 		"name": "União",
 		"avatar": {
 			"name": "Yu Lan",
-			"description": "Desconhecido",
 			"advanceId": "imitation_38L1",
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
@@ -5772,7 +5896,7 @@
 				},
 				{
 					"name": "Criofúria Ascendente",
-					"description": "No ar, segure o botão de ataque normal ao usar do primeiro ao sexto ataque normal para ativar Criofúria Ascendente.\r\nJogue sua arma no ar, causando dano igual a **329%** do ATK + **1974** aos alvos próximos.\r\n\r\nCriofúria Ascendente pode ser usada na forma **Artista Marcial** ou **Força Implacável**.",
+					"description": "No ar, segure o botão de ataque normal ao usar do primeiro ao sexto ataque normal para ativar Criofúria Ascendente.\r\nJogue sua arma no ar, causando dano de **329%** do ATQ + **1974** aos alvos próximos.\r\n\r\nCriofúria Ascendente pode ser usada na forma **Artista Marcial** ou **Força Implacável**.",
 					"icon": "yulan_branch4",
 					"id": "GA_FPlayerYulanMelee_AirAttackBranch"
 				},
@@ -5804,7 +5928,7 @@
 				},
 				{
 					"name": "Vendaval Implacável",
-					"description": "Use o ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Vendaval Implacável. Causa dano de **167.6%** do ATQ + **1006** aos alvos próximos.\r\n\r\nVendaval Implacável pode ser usado na forma **Artista Marcial** ou **Força Implacável**.",
+					"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Vendaval Implacável. Causa dano de **167.6%** do ATQ + **1006** aos alvos próximos.\r\n\r\nVendaval Implacável pode ser usado na forma **Artista Marcial** ou **Força Implacável**.",
 					"icon": "yulan_evadeattackfront",
 					"id": "GA_FPlayerYulanEvade_EvadeAttackFront"
 				}
@@ -5832,13 +5956,13 @@
 			"discharge": [
 				{
 					"name": "Tigre das Neves",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, **remove todos os efeitos negativos de você** ao trocar para esta arma, causa dano de até **1173.1%** do ATQ + **7038** aos alvos próximos e os **lança alto no ar**. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).\r\n\r\nTigre das Neves só pode ser usado na forma de **Artista Marcial**.",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você** ao trocar para esta arma, causa dano de até **1173.1%** do ATQ + **7038** aos alvos próximos e os **lança alto no ar**. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).\r\n\r\nTigre das Neves só pode ser usado na forma de **Artista Marcial**.",
 					"icon": "yulan_changeskill",
 					"id": "GA_FPlayerYulanChangeSkill_ChangeSkill"
 				},
 				{
 					"name": "Observar e Reagir",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, **remove todos os efeitos negativos de você** ao trocar para esta arma, causa dano de até **1173.1%** do ATQ + **7038** a alvos próximos e os **lança alto no ar**. Neste período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).\r\nApós Observar e Reagir atingir um alvo, aumenta o dano gélido em **12%** durante **30** segundos.\r\nApós Observar e Reagir atingir um alvo, entra no estado de **Antecipação** durante **60** segundos.\r\nApós usar uma habilidade de descarga da **União**, recebe **1.000** cargas de arma. Este efeito só pode ser acionado 1 vez a cada **10** segundos.\r\n\r\nObservar e Reagir só pode ser usado na forma **Força Implacável**.",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você** ao trocar para esta arma, causa dano de até **1173.1%** do ATQ + **7038** a alvos próximos e os **lança alto no ar**. Neste período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).\r\nApós Observar e Reagir atingir um alvo, aumenta o dano gélido em **12%** durante **30** segundos.\r\nApós Observar e Reagir atingir um alvo, entra no estado de **Antecipação** durante **60** segundos.\r\nApós usar uma habilidade de descarga da **União**, recebe **1.000** cargas de arma. Este efeito só pode ser acionado 1 vez a cada **10** segundos.\r\n\r\nObservar e Reagir só pode ser usado na forma **Força Implacável**.",
 					"icon": "yulan_changeskill",
 					"id": "GA_FPlayerYulanChangeSkill_ChangeSkill1"
 				}
@@ -5908,7 +6032,6 @@
 		"name": "Tartaruga de Ônix",
 		"avatar": {
 			"name": "Ming Jing",
-			"description": "Desconhecido",
 			"advanceId": "imitation_50L1",
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
@@ -5938,13 +6061,13 @@
 			"normals": [
 				{
 					"name": "Resistor",
-					"description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\r\nCom **Totem Xuanwu** ativo, acertar o último golpe do quinto ataque de Resistor adiciona 1 picada de cobra ao alvo travado.\r\nPrimeiro ataque: Causa dano de **131.6%** do ATQ mais **790** e repele o alvo.\r\nSegundo ataque: Causa dano de **186.8%** do ATQ mais **1121** e repele o alvo.\r\nTerceiro ataque: Causa dano de **201.6%** do ATQ mais **1209** e puxa os alvos para você.\r\nQuarto ataque: Causa dano de **238%** do ATQ mais **1428** e suspende o alvo.\r\nQuinto ataque: Causa dano de **378%** do ATQ mais **2268** e lança o alvo no ar.",
+					"description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\r\nCom **Totem Xuanwu** ativo, acertar o último golpe do quinto ataque de Resistor adiciona 1 picada de cobra ao alvo travado.\r\nPrimeiro ataque: Causa dano de **131.6%** do ATQ + **790** e repele o alvo.\r\nSegundo ataque: Causa dano de **186.8%** do ATQ + **1121** e repele o alvo.\r\nTerceiro ataque: Causa dano de **201.6%** do ATQ + **1209** e puxa os alvos para você.\r\nQuarto ataque: Causa dano de **238%** do ATQ + **1428** e suspende o alvo.\r\nQuinto ataque: Causa dano de **378%** do ATQ + **2268** e lança o alvo no ar.",
 					"icon": "skill_zeke_fevadeattack",
 					"id": "GA_FPlayerZekeMelee_Melee"
 				},
 				{
 					"name": "Pedra Voadora",
-					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas e consumir vigor.\r\nPrimeiro ataque: Causa dano de **112.8%** do ATQ mais **677**.\r\nSegundo ataque: Causa dano de **168%** do ATQ mais **1008**.\r\nTerceiro ataque: Causa dano de **164.2%** do ATQ mais **985**.\r\nQuarto ataque: Causa dano de **140.2%** do ATQ mais **841**.\r\nQuinto ataque: Causa dano de **228%** do ATQ mais **1368**.",
+					"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas, consumindo vigor.\r\nPrimeiro ataque: Causa dano de **112.8%** do ATQ + **677**.\r\nSegundo ataque: Causa dano de **168%** do ATQ + **1008**.\r\nTerceiro ataque: Causa dano de **164.2%** do ATQ + **985**.\r\nQuarto ataque: Causa dano de **140.2%** do ATQ + **841**.\r\nQuinto ataque: Causa dano de **228%** do ATQ + **1368**.",
 					"icon": "skill_zeke_airattack",
 					"id": "GA_FPlayerZekeMelee_AirAttack"
 				},
@@ -6004,7 +6127,7 @@
 			"discharge": [
 				{
 					"name": "Caminho de Casa",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e invoca Xuanwu, causando dano em área de **681.2%** do ATQ + **4087** a todos os alvos próximos. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e invoca Xuanwu, causando dano em área de **681.2%** do ATQ + **4087** a todos os alvos próximos. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).",
 					"icon": "skill_zeke_changeskill",
 					"id": "GA_FPlayerZekeChangeSkill_Success"
 				}
@@ -6012,7 +6135,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Ressonância física**: Aumenta o ATQ físico em **15%** e a resistência física em **25%**. Ativa-se ao equipar **2** ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância física, que tem prioridade.\r\n**Ressonância ígnea**: Aumenta o ATQ ígneo em **15%** e resistência ígnea em **25%**. Ativa ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea, que tem prioridade.\r\n\r\n**Despedaçar: Separação**: Após usar **Ravina Absoluta**, a cada segundo causa dano equivalente a **70%** do ATQ físico + **1%** da vida máxima do Errante + **36%** da soma de todos os tipos de resistência + **1.35%** do crítico aos alvos atingidos durante **30** segundos. Danos múltiplos de Separação não se acumulam, e o dano de despedaçar conta como dano de habilidade. Se houver **uma** arma elétrica/gélida/física equipada, o dano de despedaçar é multiplicado por **1.3**. Além disso, o dano de despedaçar não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+				"description": "**Ressonância física**: Aumenta o ATQ físico em **15%** e a resistência física em **25%**. Ativa-se ao equipar **2** ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância física, que tem prioridade.\r\n**Ressonância ígnea**: Aumenta o ATQ ígneo em **15%** e resistência ígnea em **25%**. Ativa ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea, que tem prioridade.\r\n\r\n**Despedaçar: Separação**: Após usar **Ravina Absoluta**, a cada segundo causa dano equivalente a **70%** do ATQ físico + **1%** da vida máxima do Errante + **36%** da soma de todos os tipos de resistência + **1.35%** do crítico aos alvos atingidos durante **30** segundos. Danos múltiplos de Separação não se acumulam, e o dano de despedaçar conta como dano de habilidade. Se houver **uma** arma elétrica/ígnea/gélida equipada, o dano de despedaçar é multiplicado por **1.3**. Além disso, o dano de despedaçar não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6074,7 +6197,6 @@
 		"name": "Bracelete Lunastro",
 		"avatar": {
 			"name": "Fiona",
-			"description": "Desconhecido",
 			"advanceId": "imitation_36L1",
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",
@@ -6210,7 +6332,7 @@
 			"discharge": [
 				{
 					"name": "Fulgor Cintilante",
-					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos do usuário** e libera o Sopro do Lunastro, causando dano de até **736%** do ATQ + **4416** a todos os alvos próximos. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu). Recupera vida equivalente a **300%** do ATQ do usuário e remove **16** pontos de mordida cinzenta. Remove atraso e ganha imunidade de atraso por **5** segundos.\r\n\r\n**Passiva: Lunastro**\r\nDurante ressonância de **ataque**/**equilíbrio**, golpear um inimigo com **Fulgor Cintilante** aumenta o ataque em **15%** durante **30** segundos.\r\nDurante **ressonância de coragem**, usar **Fulgor Cintilante** aumenta todas as resistências em **4%** durante **30** segundos. Acumula até **5** vezes. Quando a vida está abaixo de **30%**, a redução de dano aumenta em mais **40%** durante **5** segundos. Esse efeito pode ser acionado uma vez a cada **60** segundos.\r\nDurante **ressonância de bendição**, **Fulgor Cintilante** cura todos os colegas e cria **um** lunaescudo que anula dano **1** vez durante **10** segundos. Esse efeito não se acumula, e cada uso de **Fulgor Cintilante** aumenta o efeito de cura do próximo uso em **20%**, limitado a **40%**. O efeito dura **30** segundos.",
+					"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e libera o Sopro do Lunastro, causando dano de até **736%** do ATQ + **4416** a todos os alvos próximos. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu). Recupera vida equivalente a **300%** do ATQ do usuário e remove **16** pontos de mordida cinzenta. Remove atraso e ganha imunidade de atraso por **5** segundos.\r\n\r\n**Passiva: Lunastro**\r\nDurante ressonância de **ataque**/**equilíbrio**, golpear um inimigo com **Fulgor Cintilante** aumenta o ataque em **15%** durante **30** segundos.\r\nDurante **ressonância de coragem**, usar **Fulgor Cintilante** aumenta todas as resistências em **4%** durante **30** segundos. Acumula até **5** vezes. Quando a vida está abaixo de **30%**, a redução de dano aumenta em mais **40%** durante **5** segundos. Esse efeito pode ser acionado uma vez a cada **60** segundos.\r\nDurante **ressonância de bendição**, **Fulgor Cintilante** cura todos os colegas e cria **um** lunaescudo que anula dano **1** vez durante **10** segundos. Esse efeito não se acumula, e cada uso de **Fulgor Cintilante** aumenta o efeito de cura do próximo uso em **20%**, limitado a **40%**. O efeito dura **30** segundos.",
 					"icon": "skill_feiouna_lianxie",
 					"id": "GA_FPlayerQueenChangeSkill"
 				}

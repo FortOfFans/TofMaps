@@ -131,9 +131,9 @@
 		"id": "WeaponFragment"
 	},
 	"GenePointAttack": {
-		"name": "Originum (Attaque)",
-		"description": "Un mystérieux produit dérivé de la recherche sur les radiations d'omnium, qui affecte l'évolution des créatures dans un but précis. Après des années de recherches et d'optimisation, il peut désormais être utilisé en toute sécurité sur le corps humain.",
-		"icon": "/Game/Resources/Icon/item/jysicon",
+		"name": "Dominium",
+		"description": "Une monnaie courante et la seule devise légale du domaine9 émise par Zhen Gong. Elle contient une petite quantité du matériau qui sert à fabriquer les sceaux temporels, afin de lutter contre la contrefaçon.",
+		"icon": "/Game/Resources/Icon/huobi/jiuyu_coin",
 		"id": "GenePointAttack"
 	},
 	"GuildCaption": {

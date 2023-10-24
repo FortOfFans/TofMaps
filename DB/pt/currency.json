@@ -131,9 +131,9 @@
 		"id": "WeaponFragment"
 	},
 	"GenePointAttack": {
-		"name": "Originum (Ataque)",
-		"description": "Um subproduto da pesquisa de radiação de Omnium que afeta a evolução de criaturas com um propósito. Após anos de pesquisa e otimização, agora pode ser utilizado com segurança no corpo humano.",
-		"icon": "/Game/Resources/Icon/item/jysicon",
+		"name": "Dominium",
+		"description": "A moeda corrente do Domínio 9, emitida pela Zhen Gong. Contém uma pequena quantidade do material utilizado para fazer selos temporais, que serve como medida contra falsificações.",
+		"icon": "/Game/Resources/Icon/huobi/jiuyu_coin",
 		"id": "GenePointAttack"
 	},
 	"GuildCaption": {
@@ -551,7 +551,7 @@
 	},
 	"GameActivityCoin4": {
 		"name": "Estilhaços de cristal do espaço-tempo",
-		"description": "Esses fragmentos que flutuam na trajetória de operações do espaço-tempo são produtos do espaço-tempo que foi despedaçado.",
+		"description": "Esses fragmentos que flutuam na trajetória de operações do espaço-tempo são produtos do colapso do espaço-tempo que foi despedaçado.",
 		"icon": "/Game/Resources/Icon/huobi/Energy_5",
 		"id": "GameActivityCoin4"
 	},

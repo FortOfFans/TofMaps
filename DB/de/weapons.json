@@ -312,7 +312,7 @@
 			"normals": [
 				{
 					"name": "Normaler Angriff",
-					"description": "Der Anwender spannt den Bogen am Boden mehrfach, um 5-mal anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **0%** des ANG +**1**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **2%** des ANG +**3**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **4%** des ANG +**5**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **6%** des ANG +**7**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **8%** des ANG +**9** und stößt das Ziel eine kurze Strecke zurück.",
+					"description": "Der Anwender spannt den Bogen am Boden mehrfach, um 5-mal anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **27.3%** des ANG +**164**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **24.4%** des ANG +**146**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **43.8%** des ANG +**263**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **67.8%** des ANG +**407**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **62.9%** des ANG +**377** und stößt das Ziel eine kurze Strecke zurück.",
 					"icon": "bow_skill",
 					"id": "GA_FPlayerBowMeleeNew_Melee"
 				},
@@ -360,7 +360,7 @@
 			"discharge": [
 				{
 					"name": "Explosives Sperrfeuer",
-					"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und „Explosives Sperrfeuer“ auf das Ziel entfesselt. Dies verursacht Schaden in Höhe von **0%** des ANG +**1**.",
+					"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und „Explosives Sperrfeuer“ auf das Ziel entfesselt. Dies verursacht Schaden in Höhe von **396%** des ANG +**2376**.",
 					"icon": "skill_artifact11_1",
 					"id": "GA_FPlayerBowChangeSkill_Success"
 				}
@@ -381,7 +381,6 @@
 		"name": "Stab der Narben",
 		"avatar": {
 			"name": "Pepper ",
-			"description": "Unbekannt",
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
@@ -533,7 +532,6 @@
 		"name": "Der Terminator",
 		"avatar": {
 			"name": "Hilda",
-			"description": "Unbekannt",
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
@@ -655,7 +653,6 @@
 		"name": "Wirbelstürmchen",
 		"avatar": {
 			"name": "Gnonno",
-			"description": "Unbekannt",
 			"advanceId": "imitation_27L1",
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
@@ -821,7 +818,6 @@
 		"name": "Die Breitseite",
 		"avatar": {
 			"name": "Ene",
-			"description": "Unbekannt",
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
@@ -979,7 +975,6 @@
 		"name": "Nachtigallfeder",
 		"avatar": {
 			"name": "Bai Ling",
-			"description": "Unbekannt",
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
@@ -1125,7 +1120,6 @@
 		"name": "Donner-Hellebarde",
 		"avatar": {
 			"name": "Echo",
-			"description": "Unbekannt",
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
@@ -1283,7 +1277,6 @@
 		"name": "Donnerklingen",
 		"avatar": {
 			"name": "Crow",
-			"description": "Unbekannt",
 			"advanceId": "imitation_13L1",
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
@@ -1436,7 +1429,6 @@
 		"name": "Rosenklinge",
 		"avatar": {
 			"name": "Meryl",
-			"description": "Unbekannt",
 			"advanceId": "imitation_3L1",
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
@@ -1601,7 +1593,6 @@
 		"name": "Eiswind-Pfeil",
 		"avatar": {
 			"name": "Tsubasa",
-			"description": "Unbekannt",
 			"advanceId": "imitation_7L1",
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
@@ -1748,7 +1739,6 @@
 		"name": "Gefrierpunkt",
 		"avatar": {
 			"name": "Cocolita",
-			"description": "Unbekannt",
 			"advanceId": "imitation_11L1",
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
@@ -1902,7 +1892,6 @@
 		"name": "Sense der Krähe",
 		"avatar": {
 			"name": "KING",
-			"description": "Unbekannt",
 			"advanceId": "imitation_9L1",
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
@@ -2061,7 +2050,6 @@
 		"name": "Flammenchaos",
 		"avatar": {
 			"name": "Cobalt-B ",
-			"description": "Unbekannt",
 			"advanceId": "imitation_10L1",
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
@@ -2215,7 +2203,6 @@
 		"name": "Guren-Klinge",
 		"avatar": {
 			"name": "Claudia",
-			"description": "Unbekannt",
 			"advanceId": "imitation_12L1",
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
@@ -2369,7 +2356,6 @@
 		"name": "Chakram der Meere",
 		"avatar": {
 			"name": "Shiro",
-			"description": "Unbekannt",
 			"advanceId": "imitation_8L1",
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
@@ -2522,7 +2508,6 @@
 		"name": "Negierungswürfel",
 		"avatar": {
 			"name": "Zero",
-			"description": "Unbekannt",
 			"advanceId": "imitation_1L1",
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
@@ -2676,7 +2661,6 @@
 		"name": "Doppel-EM-Sterne",
 		"avatar": {
 			"name": "Samira",
-			"description": "Unbekannt",
 			"advanceId": "imitation_5L1",
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
@@ -2823,7 +2807,6 @@
 		"name": "Magmaschild V2",
 		"avatar": {
 			"name": "Huma",
-			"description": "Unbekannt",
 			"advanceId": "imitation_6L1",
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
@@ -2970,7 +2953,6 @@
 		"name": "Azurdrache",
 		"avatar": {
 			"name": "Huang",
-			"description": "Unbekannt",
 			"advanceId": "imitation_41L1",
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
@@ -3126,11 +3108,169 @@
 		],
 		"id": "mimi_thunder"
 	},
+	"Linghan_ice": {
+		"name": "Alabastertiger",
+		"avatar": {
+			"name": "Ling Han",
+			"advanceId": "imitation_43L1",
+			"weapon": "linghan_ice",
+			"icon": "imitation_43",
+			"avatarID": "linghan",
+			"id": "imitation_43"
+		},
+		"description": "Mit einem Ärmelschwung und des Schwertes göttlichem Tanz, wer ergründet dieses Herzens Glanz?",
+		"icon": "item_Weapon_SSR_Linghan_Ice01",
+		"gachaIcon": "UI_SSR_lh_linghan",
+		"rarity": "SSR",
+		"element": "Ice",
+		"weaponType": "Linghan",
+		"wc": "DPS",
+		"mats": {
+			"Item_Mine_ice": 39,
+			"Item_Mine_ice_02": 65,
+			"Item_breakthrough_B2": 65,
+			"Item_breakthrough_D2": 65,
+			"Item_Mine_ice_03": 32,
+			"Item_breakthrough_B3": 32,
+			"Item_breakthrough_D3": 32,
+			"Item_breakthrough_B1": 35,
+			"Item_breakthrough_D1": 32
+		},
+		"advanceID": "Linghan_ice_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "Schwertkunst: Mondschneider",
+					"description": "Greift auf dem Boden 6-mal hintereinander mit dem normalen Angriff an.\r\nErster Angriff: Verursacht Schaden in Höhe von **97.8%** des ANG + **587** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **129.4%** des ANG + **776** und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **207.2%** des ANG + **1243** und stößt das Ziel zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **125%** des ANG + **750** und stößt das Ziel zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **226%** des ANG + **1356** und zieht Gegner vor dem Wanderer heran.\r\nSechster Angriff: Verursacht Schaden in Höhe von **253.6%** des ANG + **1521** und schleudert das Ziel hoch.\r\nTippe und halte nach dem Auslösen von „Schwertkunst: Mondschneider“ den normalen Angriff, um **Schwertkunst: Endloser Schnee** auszulösen.\r\n\r\nBei einem erfolgreichen Treffer eines normalen Angriffs mit **Alabastertiger** wird dem Ziel **1** Stapel **Kristallriss** zugefügt, wodurch normale Angriffe für **15**Sek. jede Sekunde Schaden in Höhe von **48%** des ANG verursachen. Dem gleichen Ziel kann nicht mehr als **1** Stapel „Kristallriss“ pro **4**Sek. zugefügt werden. Kann bis zu **3**-mal gestapelt werden. Nach Ablauf der Effektdauer verschwinden die Stapel einer nach dem anderen.",
+					"icon": "skill_linghan_melee",
+					"id": "GA_FPlayerLinghanMelee_Melee"
+				},
+				{
+					"name": "Schwertkunst: Schwertschrei",
+					"description": "Verwende in der Luft den normalen Angriff, um 6 Angriffe hintereinander in der Luft auszuführen, wobei Ausdauer verbraucht wird.\r\nErster Angriff: Verursacht Schaden in Höhe von **95.9%** des ANG + **575**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **100.7%** des ANG + **604**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **218.6%** des ANG + **1311**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **130%** des ANG + **780**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **213.7%** des ANG + **1282**.\r\nSechster Angriff: Verursacht Schaden in Höhe von **256.9%** des ANG + **1541**.",
+					"icon": "skill_linghan_airattack",
+					"id": "GA_FPlayerLinghanMelee_AirAttack"
+				},
+				{
+					"name": "Schwertkunst: Endloser Schnee",
+					"description": "Tippe und halte während normaler Angriffe auf dem Boden den normalen Angriff, um „Schwertkunst: Endloser Schnee“ auszulösen.\r\nKontrolliert das Schwert mit dem Geist und verbraucht Ausdauer. Der Wanderer erhält währenddessen „Hyperkörper“. Jeder Angriff fügt Zielen in der Nähe Schaden in Höhe von **140.8%** des ANG + **845** zu.\r\nWenn „Schwertkunst: Endloser Schnee“ endet, wird eine mächtige Schwert-Aura entfesselt, die Zielen in der Nähe Schaden in Höhe von **422.4%** des ANG + **2534** zufügt.",
+					"icon": "skill_linghan_powerattack",
+					"id": "GA_FPlayerLinghanMelee_PowerAttack"
+				},
+				{
+					"name": "Schwertkunst: Eisregen",
+					"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Gegner anvisiert wurde), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Schwertkunst: Eisregen“ auszulösen.\r\nWährend des Fallens wird pro Treffer Schaden in Höhe von **75%** des ANG + **450** verursacht. Fügt Zielen in der Nähe beim Landen Schaden in Höhe von **366.7%** des ANG + **2200** zu.",
+					"icon": "skill_linghan_jumpattack",
+					"id": "GA_FPlayerLinghanMelee_JumpAttack"
+				},
+				{
+					"name": "Leichte Schritte",
+					"description": "Tippe auf „Springen“ während der Wanderer nach einem Doppelsprung in der Luft ist, um „Leichte Schritte“ auszulösen. Rast kurz nach oben und gleitet dann nach unten. In der Luft kann „Leichte Schritte“ bis zu **2**-mal verwendet werden.\r\nAm Boden stellt „Leichte Schritte“ alle **10**Sek. **1** Einsatzversuch wieder her (ein Gebietswechsel oder das Ablegen von **Alabastertiger** setzt die Einsatzversuche zurück).",
+					"icon": "skill_linghan_qinggong",
+					"id": "GA_FPlayerLinghanMelee_QingGong"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Ausweichen",
+					"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.",
+					"icon": "common_evade",
+					"id": "GA_FPlayerLinghanEvade_Evade"
+				},
+				{
+					"name": "Schwertkunst: Wolkenschauer",
+					"description": "Verwende zum Auslösen von „Schwertkunst: Wolkenschauer“ während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste). Dies fügt getroffenen Zielen Schaden in Höhe von bis zu **305%** des ANG + **1830** zu.",
+					"icon": "skill_linghan_fevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "Schwertkunst: Sterbliche Seele",
+					"description": "Verwende zum Auslösen von „Schwertkunst: Sterbliche Seele“ während des kurzen Zeitraums nach dem Ausweichen den normalen Angriff. Entfessle eine „Weißer Tiger“-Illusion, die Zielen voraus Schaden in Höhe von **174.3%** des ANG + **1046** zufügt.",
+					"icon": "skill_linghan_bevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "Schwertkunst: Schatteneis",
+					"description": "Fügt Zielen in der Nähe Schaden in Höhe von **370.2%** des ANG + **2221** zu und zieht sie heran. Erzeugt dann ein Schwertfeld, um einen starken Regen von Schwertern herbeizurufen und Zielen für **4**Sek. einen **starken Einfrieren-Effekt** zuzufügen (nicht in der Apex-Liga oder gegen Bosse verfügbar). Abklingzeit: **30**Sek.\r\nNach dem erfolgreichen Einsatz von „Schwertkunst: Schatteneis“ stößt der Wanderer **Kalte Luft** aus, die Zielen in der Nähe jede Sekunde Schaden in Höhe von **68%** des ANG zufügt und sie um **30%** verlangsamt (nicht in der Apex-Liga oder gegen Bosse verfügbar). Gleichzeitig wird der Frostschaden des Wanderers für **35**Sek. um **8%** erhöht.\r\nNach dem vollständigen Ausführen von „Schwertkunst: Schatteneis“ erzeugt der Wanderer eine große Anzahl von **Frostklingen**, von denen er alle **7,5**Sek. **1** Klinge auf das aktuell anvisierte Ziel abfeuert, dabei Schaden in Höhe von **360%** des ANG verursacht und dem Ziel **Temperaturabfall** zufügt. Anfangs können bis zu **3** **Frostklingen** erzeugt werden und alle Klingen werden außerhalb des Kampfes entfernt.\r\n**Temperaturabfall**: Fügt Zielen in der Nähe für **12**Sek. alle **3**Sek. Schaden in Höhe von **240%** des ANG zu.",
+					"icon": "skill_linghan_skill",
+					"id": "GA_FPlayerLinghanSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Schwertkunst: Eisige Umarmung",
+					"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und um den Wanderer herum wird ein Schwertfeld erzeugt, das den Bereich in Kälte hüllt und Zielen in der Nähe Schaden in Höhe von bis zu **844.5%** des ANG + **5067** zufügt. Kurz darauf wird ein weißer Tiger herbeigerufen, um Schaden in Höhe von **1971%** des ANG + **11825** zu verursachen. Während dieser Zeit hält die Schadensimmunität **1,5**Sek. lang an (nicht in der Apex-Liga verfügbar).\r\n**Passiv**: Ein erfolgreicher Treffer mit „Schwertkunst: Eisige Umarmung“ erhöht den Endschaden für **30**Sek. um **8%**.",
+					"icon": "skill_linghan_changeskill",
+					"id": "GA_FPlayerLinghanChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Extreme Kälte: Entladen**: Nach Verwendung von **Schwertkunst: Schatteneis** wird **30**Sek. lang jede Sekunde Schaden in Höhe von **70%** des Frost-ANG + **10%** der max. LP des Wanderers + **36%** der Summe aller Widerstandsarten des Wanderers + **1.35%** des krit. Schadens verursacht. Mehrfacher Entladungsschaden wird nicht gestapelt und Schaden von „Extreme Kälte“ zählt als Fähigkeitsschaden. Wenn **1** Volt-/Flammen-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Extreme Kälte“ um das **1.3**-fache multipliziert. Außerdem wird der Schaden von „Extreme Kälte“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "None"
+			},
+			{
+				"description": "Nach dem Abfeuern von **Frostklingen** wird der Frost-ANG des Wanderers um **10%** erhöht und Zielen in der Nähe wird für **30**Sek. jede Sekunde Schaden in Höhe von **104%** des ANG zugefügt.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Der Wanderer kann bis zu **4** **Frostklingen** erzeugen und der Basismultiplikator des Schadens von **Temperaturabfall** wird auf **468%** erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von **6**Sek. von **Temperaturabfall** betroffen ist, wird dem Ziel zusätzlich ein **Adersiegel** zugefügt, wodurch es um **30%** verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von **Adersiegel** erneut Schaden durch **Frostklinge** erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von **17%** des ANG + **2%** der zu diesem Zeitpunkt verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als **20%** und nicht höher als **22%** des Frost-ANG des Wanderers). Anschließend werden die Effekte von **Adersiegel** und **Temperaturabfall** vom Ziel entfernt.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Der von **Kristallriss** und **Kalte Luft** verursachte Schaden wird zusätzlich um **50%** erhöht. Die Einsatzversuche von **Leichte Schritte** werden auf **10** erhöht und die Wiederherstellungsrate wird alle **3**Sek. auf **1** Versuch erhöht.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Nach dem Einsatz von **Frostklingen** wird der Effekt von **Temperaturabfall** auf ein Gebiet angewendet. Zudem fügt er Zielen in der Nähe zusätzlichen Schaden in Höhe von **1170%** des ANG zu.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			}
+		],
+		"id": "Linghan_ice"
+	},
 	"Suspension_thunder": {
 		"name": "Venus",
 		"avatar": {
 			"name": "Nemesis",
-			"description": "Unbekannt",
 			"advanceId": "imitation_17L1",
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
@@ -3284,7 +3424,6 @@
 		"name": "Balmung",
 		"avatar": {
 			"name": "Frigg",
-			"description": "Unbekannt",
 			"advanceId": "imitation_28L1",
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
@@ -3432,7 +3571,6 @@
 		"name": "Spark",
 		"avatar": {
 			"name": "Ruby",
-			"description": "Unbekannt",
 			"advanceId": "imitation_21L1",
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
@@ -3508,7 +3646,7 @@
 			"skill": [
 				{
 					"name": "Funkelnde Karambolage",
-					"description": "Spark versprüht Funken, die 15Sek. anhalten und zwischen dem Ziel und dem Wanderer hin und her springen. Wenn das Ziel getroffen wird, verlangsamen die Funken es für **4**Sek. (Abklingzeit: **15** Sek.). Je weiter die Funken fliegen, desto mehr Schaden verursachen sie. Sie fügen dem Ziel bei Treffern Schaden in Höhe von bis zu **350%** des ANG +**4200** zu und belegen es für **25** Sek. mit einer „Lodern“-Markierung. Gleichzeitig feuert Spark 4 Geschosse ab, die dem Ziel jeweils Schaden in Höhe von **50%** des ANG +**300** zufügen. Sparks normale Angriffe fügen Zielen mit „Lodern“-Markierungen **30%** mehr Schaden zu. Wenn Funken Ziele treffen, die unter einem „Verbrennen“-Effekt vom Wanderer leiden, werden einmal verbrannt oder entzündet und erleiden dabei zusätzlichen Schaden in Höhe von **45%** des verbleibenden Gesamtschadens (mehrfache „Verbrennen“- oder „Entzünden“-Effekte werden zusammengerechnet). Anschließend zählen sie erneut 1-mal. Die Abklingzeit für diesen Effekt beträgt **6** Sek. Die Abklingzeit der Fähigkeit beträgt **30** Sek.\r\n**Passiv**: Während Funken aktiv sind, erhält der Wanderer **1** Hitzepunkt, wenn Spark-Angriff Schaden verursacht (Abklingzeit: **0,9** Sek.; bis zu **8** Hitzepunkte). Wenn die Hitzepunkte voll sind, erhält der Wanderer den Effekt „Ultimative Hitze“, der den Flammen-ANG für **25** Sek. um **10%** erhöht.",
+					"description": "Spark versprüht Funken, die 15Sek. anhalten und zwischen dem Ziel und dem Wanderer hin und her springen. Wenn das Ziel getroffen wird, verlangsamen die Funken es für **4**Sek. (Abklingzeit: **15** Sek.). Je weiter die Funken fliegen, desto mehr Schaden verursachen sie. Sie fügen dem Ziel bei Treffern Schaden in Höhe von bis zu **380%** des ANG +**4200** zu und belegen es für **25** Sek. mit einer „Lodern“-Markierung. Gleichzeitig feuert Spark 4 Geschosse ab, die dem Ziel jeweils Schaden in Höhe von **50%** des ANG +**300** zufügen. Sparks normale Angriffe fügen Zielen mit „Lodern“-Markierungen **30%** mehr Schaden zu. Wenn Funken Ziele treffen, die unter einem „Verbrennen“-Effekt vom Wanderer leiden, werden einmal verbrannt oder entzündet und erleiden dabei zusätzlichen Schaden in Höhe von **45%** des verbleibenden Gesamtschadens (mehrfache „Verbrennen“- oder „Entzünden“-Effekte werden zusammengerechnet). Anschließend zählen sie erneut 1-mal. Die Abklingzeit für diesen Effekt beträgt **6** Sek. Die Abklingzeit der Fähigkeit beträgt **30** Sek.\r\n**Passiv**: Während Funken aktiv sind, erhält der Wanderer **1** Hitzepunkt, wenn Spark-Angriff Schaden verursacht (Abklingzeit: **0,9** Sek.; bis zu **8** Hitzepunkte). Wenn die Hitzepunkte voll sind, erhält der Wanderer den Effekt „Ultimative Hitze“, der den Flammen-ANG für **25** Sek. um **10%** erhöht.",
 					"icon": "funnel_skill",
 					"id": "GA_FPlayerFunnelSkillFire"
 				}
@@ -3586,7 +3724,6 @@
 		"name": "Herzstrom",
 		"avatar": {
 			"name": "Saki Fuwa",
-			"description": "Unbekannt",
 			"advanceId": "imitation_22L1",
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
@@ -3676,7 +3813,7 @@
 			"discharge": [
 				{
 					"name": "Herzlotus",
-					"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Du sprintest außerdem mit einem Komboangriff auf das Ziel zu. Dies verursacht Schaden in Höhe von **536%** des ANG +**3216**.",
+					"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Du sprintest außerdem mit einem Komboangriff auf das Ziel zu. Dies verursacht Schaden in Höhe von **590%** des ANG +**3216**.",
 					"icon": "skill_dkatana_changeskill",
 					"id": "GA_FPlayerDkatanaChangeSkill_Success"
 				}
@@ -3746,7 +3883,6 @@
 		"name": "Schattenweben",
 		"avatar": {
 			"name": "Lin",
-			"description": "Unbekannt",
 			"advanceId": "imitation_23L1",
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
@@ -3904,7 +4040,6 @@
 		"name": "Donnerbrecher",
 		"avatar": {
 			"name": "Tian Lang",
-			"description": "Unbekannt",
 			"advanceId": "imitation_29L1",
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
@@ -3940,7 +4075,7 @@
 				},
 				{
 					"name": "Mizar",
-					"description": "Greift auf dem Boden 6-mal hintereinander mit Donnerbrecher an.\r\nErster Angriff: Verursacht Schaden in Höhe von **90.5%** des ANG +**543** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **67.9%** des ANG +**407** und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **123%** des ANG +**738** und stößt das Ziel zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **217.9%** des ANG +**1307** und stößt das Ziel zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **222%** des ANG +**1332** und stößt das Ziel zurück.\r\nSechster Angriff: Verursacht Schaden in Höhe von **291.8%** des ANG +**1751** und schleudert das Ziel hoch.",
+					"description": "Greift auf dem Boden 6-mal hintereinander mit Donnerbrecher an.\r\nErster Angriff: Verursacht Schaden in Höhe von **99.3%** des ANG +**543** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **73.2%** des ANG +**407** und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **135.8%** des ANG +**738** und stößt das Ziel zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **240.5%** des ANG +**1307** und stößt das Ziel zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **240.1%** des ANG +**1332** und stößt das Ziel zurück.\r\nSechster Angriff: Verursacht Schaden in Höhe von **314.1%** des ANG +**1751** und schleudert das Ziel hoch.",
 					"icon": "skill_tianlang_melee",
 					"id": "GA_PlayerTianLangMelee_Melee"
 				},
@@ -4058,7 +4193,6 @@
 		"name": "Vesper",
 		"avatar": {
 			"name": "Lyra",
-			"description": "Unbekannt",
 			"advanceId": "imitation_24L1",
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
@@ -4146,13 +4280,13 @@
 				},
 				{
 					"name": "Sternenfall",
-					"description": "Springe auf das Ziel zu, verursache Schaden in Höhe von **702.1%** des ANG +**4212** und lasse das Ziel **länger schweben**. Belegt das Ziel für **18 Sek.** mit einer „Erleuchtung“-Markierung. Abklingzeit: **20**Sek.",
+					"description": "Springe auf das Ziel zu, verursache Schaden in Höhe von **771%** des ANG + **4212** und lasse das Ziel **länger schweben**. Belegt das Ziel für **18Sek.** mit einer Markierung der Erleuchtung. Abklingzeit: **20**Sek.",
 					"icon": "skill_arm_airattack2",
 					"id": "GA_FPlayerArmPublishSkillPhy"
 				},
 				{
 					"name": "Kometenschweif",
-					"description": "Stampfe auf den Boden und Ziele vor dir werden **stark hochgeschleudert**. Dabei wird Schaden in Höhe von **702.1%** des ANG +**4212** verursacht und es werden bis zu **3** **Klingen** für **75** Sek. herbeigerufen (bis zu 1 Klinge alle 2 Meter). Diese Fähigkeit kann bis zu **3**-mal eingesetzt werden und hat jedes Mal eine Abklingzeit von **20** Sek. Wenn im Kampfbereich 2 **Klingen** existieren, wird ein **„Heller Glanz“** erschaffen. Wenn eine **Klinge** berührt wird, heilt sie Ziele im Bewegungsradius und stellt LP in Höhe von **25%** des ANG des Ziels wieder her. Wenn 3 **Klingen** existieren, wird eine **Galaxie** erschaffen. Wenn eine **Klinge** berührt wird, fügt sie Zielen im Bewegungsradius Schaden in Höhe von **150%** des ANG × Bewegungsdistanz / **5** m zu.",
+					"description": "Stampfe auf den Boden und Ziele vor dir werden **stark hochgeschleudert**. Dabei wird Schaden in Höhe von **771%** des ANG +**4212** verursacht und es werden bis zu **3** **Klingen** für **75** Sek. herbeigerufen (bis zu 1 Klinge alle 2 Meter). Diese Fähigkeit kann bis zu **3**-mal eingesetzt werden und hat jedes Mal eine Abklingzeit von **20** Sek. Wenn im Kampfbereich 2 **Klingen** existieren, wird ein **„Heller Glanz“** erschaffen. Wenn eine **Klinge** berührt wird, heilt sie Ziele im Bewegungsradius und stellt LP in Höhe von **25%** des ANG des Ziels wieder her. Wenn 3 **Klingen** existieren, wird eine **Galaxie** erschaffen. Wenn eine **Klinge** berührt wird, fügt sie Zielen im Bewegungsradius Schaden in Höhe von **150%** des ANG × Bewegungsdistanz / **5** m zu.",
 					"icon": "skill_arm_skill2",
 					"id": "GA_FPlayerArmLawSkillPhy"
 				}
@@ -4230,7 +4364,6 @@
 		"name": "Verlorene Künste",
 		"avatar": {
 			"name": "Rubilia",
-			"description": "Unbekannt",
 			"advanceId": "imitation_48L1",
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
@@ -4271,7 +4404,7 @@
 					"id": "GA_FPlayerRubiliaMelee_AirAttack"
 				},
 				{
-					"name": "Vorpreschen",
+					"name": "Verbessern",
 					"description": "Tippe und halte bei Angriffen auf dem Boden den normalen Angriff, um „Aufrüsten“ auszulösen. Dies verursacht Schaden in Höhe von **211.7%** des ANG + **1270**.",
 					"icon": "skill_rubilia_branch",
 					"id": "GA_FPlayerRubiliaMelee_Branch"
@@ -4396,7 +4529,6 @@
 		"name": "Unnachgiebiger Flügel",
 		"avatar": {
 			"name": "Alyss",
-			"description": "Unbekannt",
 			"advanceId": "imitation_30L1",
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
@@ -4556,7 +4688,6 @@
 		"name": "Klee-Kreuz",
 		"avatar": {
 			"name": "Annabella",
-			"description": "Unbekannt",
 			"advanceId": "imitation_26L1",
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
@@ -4704,7 +4835,6 @@
 		"name": "Kienkomet",
 		"avatar": {
 			"name": "Liu Huo",
-			"description": "Unbekannt",
 			"advanceId": "imitation_37L1",
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
@@ -4882,7 +5012,6 @@
 		"name": "Möbius",
 		"avatar": {
 			"name": "Umi",
-			"description": "Unbekannt",
 			"advanceId": "imitation_31L1",
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
@@ -5054,7 +5183,6 @@
 		"name": "Endlose Blüte",
 		"avatar": {
 			"name": "Fei Se",
-			"description": "Unbekannt",
 			"advanceId": "imitation_51L1",
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
@@ -5128,7 +5256,7 @@
 				},
 				{
 					"name": "Verstreuen",
-					"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Pfeiltaste), um „Blütenwind“ auszulösen, was Zielen in der Nähe Schaden in Höhe von **209%** des ANG + **1254** zufügt.\r\n\r\nWährend das durch **Wirbelwind** erzeugte **Wunderwerk: Fantasie** aktiv ist, wird nach dem ersten Treffer mit einer beliebigen Waffe durch den ersten Ausweichangriff „Blumenspross“ ausgelöst, was „Fei Ses Trugbild“ und „Lotusblütenblatt“ auslöst.\r\n**Fei Ses Trugbild**: „Fei Ses Trugbild“ kopiert bei der Erzeugung **25%** des max. ANG des Ziels und wandelt ihn in **Basis-Flammen-ANG** des Wanderers um (nicht geringer als **3300** und nicht höher als **3450**; dieser Flammen-ANG ist nicht in den Werten des Wanderers sichtbar und nicht in der Apex-Liga verfügbar), bis „Fei Ses Trugbild“ verschwindet. Wird für jede Einheit von „Fei Ses Trugbild“ einzeln berechnet. Es kann nur **1**„Fei Ses Trugbild“ gleichzeitig erzeugt werden.\r\n**Lotusblütenblatt**: Bei der Erzeugung entspricht die Anzahl an Lotusblütenblättern der Anzahl an Herbeirufungen durch die Waffen des Wanderers (Endlose Blüte ausgenommen). Nach der Erzeugung verändert sich die Anzahl an Lotusblütenblättern nicht entsprechend der Anzahl an Herbeirufungen. Lotusblütenblätter gelten als Herbeirufungen.",
+					"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste), um „Blütenwind“ auszulösen, was Zielen in der Nähe Schaden in Höhe von **209%** des ANG + **1254** zufügt.\r\n\r\nWährend das durch **Wirbelwind** erzeugte **Wunderwerk: Fantasie** aktiv ist, wird nach dem ersten Treffer mit einer beliebigen Waffe durch den ersten Ausweichangriff „Blumenspross“ ausgelöst, was „Fei Ses Trugbild“ und „Lotusblütenblatt“ auslöst.\r\n**Fei Ses Trugbild**: „Fei Ses Trugbild“ kopiert bei der Erzeugung **25%** des max. ANG des Ziels und wandelt ihn in **Basis-Flammen-ANG** des Wanderers um (nicht geringer als **6500** und nicht höher als **10.000**; dieser Flammen-ANG ist nicht in den Werten des Wanderers sichtbar und nicht in der Apex-Liga verfügbar), bis „Fei Ses Trugbild“ verschwindet. Wird für jede Einheit von „Fei Ses Trugbild“ einzeln berechnet. Es kann nur **1**„Fei Ses Trugbild“ gleichzeitig erzeugt werden.\r\n**Lotusblütenblatt**: Bei der Erzeugung entspricht die Anzahl an Lotusblütenblättern der Anzahl an Herbeirufungen durch die Waffen des Wanderers (Endlose Blüte ausgenommen). Nach der Erzeugung verändert sich die Anzahl an Lotusblütenblättern nicht entsprechend der Anzahl an Herbeirufungen. Lotusblütenblätter gelten als Herbeirufungen.",
 					"icon": "feise_evadefront",
 					"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 				},
@@ -5142,7 +5270,7 @@
 			"skill": [
 				{
 					"name": "Wirbelwind",
-					"description": "Verursacht bei Zielen in der Nähe Schaden in Höhe von **1008%** des ANG + **6047** und erzeugt ein „Wunderwerk: Fantasie“, das bis zu **25**Sek. lang anhält.\r\nGewährt während der Abklingzeit von „Wirbelwind“ die Fähigkeit „Wendigkeit“. „Wendigkeit“ kann verwendet werden, nachdem „Wunderwerk“ **20**Sek. aktiv ist.\r\nSetzt die Abklingzeit von „Wirbelwind“ sofort nach dem Verschwinden von „Wunderwerk“ zurück. Dies wird von anderen Effekten, die die Abklingzeit zurücksetzen, verringern oder anpassen, nicht beeinflusst.\r\n\r\nWährend „Wunderwerk“:\r\nPro Sekunde wird Seelenschwere-Schaden in Höhe von **135%** des ANG im Wunderwerk verursacht. Seelenschwere-Schaden zählt als Schaden von normalen Angriffen.\r\nVerursacht bei Zielen im Wunderwerk alle **5**Sek. „Flammendes Herz“ und fügt ihnen **5**Sek. lang Brandschaden in Höhe von **20%** des ANG zu. Pro **1****Fei Ses Trugbild** oder vom Wanderer erzeugtem **Lotusblütenblatt** im Wunderwerk wird der Schaden durch „Flammendes Herz“ zusätzlich um **6%** erhöht.",
+					"description": "Verursacht bei Zielen in der Nähe Schaden in Höhe von **1008** des ANG + **6047** und erzeugt ein „Wunderwerk: Fantasie“, das bis zu **25**Sek. anhält.\r\nGewährt während der Abklingzeit von „Wirbelwind“ die Fähigkeit „Wendigkeit“. „Wendigkeit“ kann verwendet werden, nachdem „Wunderwerk“ **20**Sek. aktiv ist.\r\nSetzt die Abklingzeit von „Wirbelwind“ sofort nach dem Verschwinden von „Wunderwerk“ zurück. Dies wird von anderen Effekten, die die Abklingzeit zurücksetzen, verringern oder anpassen, nicht beeinflusst.\r\n\r\nWährend „Wunderwerk“:\r\nPro Sekunde wird Seelenschwere-Schaden in Höhe von **135%** des ANG verursacht. Seelenschwere-Schaden zählt als Schaden von normalen Angriffen.\r\nVerursacht bei Zielen in Reichweite alle **5**Sek. „Flammendes Herz“ und fügt ihnen **5**Sek. lang Brandschaden in Höhe von **20%** des ANG zu. Pro **1****Fei Ses Trugbild** oder vom Wanderer erzeugtem **Lotusblütenblatt** im Wunderwerk wird der Schaden durch „Flammendes Herz“ zusätzlich um **15%** erhöht.",
 					"icon": "feise_skill1",
 					"id": "GA_FPlayerFeiseSkill_Skill1"
 				},
@@ -5156,7 +5284,7 @@
 			"discharge": [
 				{
 					"name": "Ewiger Jadesee",
-					"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Dies verursacht Schaden in Höhe von **1090%** des ANG + **6539**. Währenddessen erhältst du für **1,5**Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).",
+					"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Dies verursacht Schaden in Höhe von **1090%** des ANG + **6539**. Währenddessen erhältst du für **2,6**Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).",
 					"icon": "feise_changeskill",
 					"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 				}
@@ -5164,7 +5292,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **15%** und den Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Flammenexplosion: Schneller Hieb**: Wenn **Endlose Blüte** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **5%** des Flammen-ANG + **8%** der max. LP des Wanderers + **3%** der Summe aller Widerstandsarten des Wanderers + **10%** des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle **0,5** Sekunden zusätzlich um das **1**-fache erhöht, bis zu einem Maximum von **30**-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das **2.5**-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **20%** und den Flammenwiderstand um **40%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n**Flammenexplosion: Schneller Hieb**: Wenn **Endlose Blüte** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **38%** des Flammen-ANG + **1%** der max. LP des Wanderers + **19%** der Summe aller Widerstandsarten des Wanderers + **69%** des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle **0,5** Sekunden zusätzlich um das **1**-fache erhöht, bis zu einem Maximum von **30**-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das **1.3**-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5172,7 +5300,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Der Basismultiplikator des Schadens von **Flammendes Herz** wird auf **60%** des ANG erhöht. Wenn der Wanderer im Kampfstatus mehrere „Verbrennen“-Effekte auslöst, wird der Basismultiplikator des Schadens von **Flammendes Herz** zusätzlich auf den höchsten Multiplikatoreffekt erhöht.",
+				"description": "Der Basismultiplikator des Schadens von **Flammendes Herz** wird auf **120%** des ANG erhöht. Wenn der Wanderer im Kampfstatus mehrere „Verbrennen“-Effekte auslöst, wird der Basismultiplikator des Schadens von **Flammendes Herz** zusätzlich auf den höchsten Multiplikatoreffekt erhöht.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5204,7 +5332,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Pro **1** **Fei Ses Trugbild** oder **Lotusblütenblatt** im **Wunderwerk** wird der Schaden von **Flammendes Herz** zusätzlich um **12%** erhöht.\r\nDer Ausdauerverbrauch von **Lotus-Apsara** wird um **75%** gesenkt.",
+				"description": "Pro **1** **Fei Ses Trugbild** oder **Lotusblütenblatt** im **Wunderwerk** wird der Schaden von **Flammendes Herz** zusätzlich um **15%** erhöht.\r\nDer Ausdauerverbrauch von **Lotus-Apsara** wird um **75%** gesenkt.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5212,7 +5340,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Der Basismultiplikator für den Schaden durch **Seelenschwere** wird auf **270%** des ANG erhöht, Zertrümmern wird verdoppelt und es besteht eine Chance von **15%**, nach einem Treffer für **2** Sek. eine Verzögerung von **65%** zuzufügen (gegen Bosse im Teamspiel unwirksam und nicht in der Apex-Liga verfügbar).",
+				"description": "Der Basismultiplikator für den Schaden durch **Seelenschwere** wird auf **900%** des ANG erhöht, Zertrümmern wird verdoppelt und es besteht eine Chance von **15%**, nach einem Treffer für **2** Sek. eine Verzögerung von **65%** zuzufügen (gegen Bosse im Teamspiel unwirksam und nicht in der Apex-Liga verfügbar).",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5226,7 +5354,6 @@
 		"name": "Gleipnir",
 		"avatar": {
 			"name": "Fenrir",
-			"description": "Unbekannt",
 			"advanceId": "imitation_32L1",
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
@@ -5392,7 +5519,6 @@
 		"name": "Purpurköpfchen",
 		"avatar": {
 			"name": "Lan",
-			"description": "Unbekannt",
 			"advanceId": "imitation_34L1",
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
@@ -5558,7 +5684,6 @@
 		"name": "Prunkstück",
 		"avatar": {
 			"name": "Ikarus",
-			"description": "Unbekannt",
 			"advanceId": "imitation_35L1",
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
@@ -5718,7 +5843,6 @@
 		"name": "Eintracht",
 		"avatar": {
 			"name": "Yu Lan",
-			"description": "Unbekannt",
 			"advanceId": "imitation_38L1",
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
@@ -5908,7 +6032,6 @@
 		"name": "Onyx-Schildkröte",
 		"avatar": {
 			"name": "Ming Jing",
-			"description": "Unbekannt",
 			"advanceId": "imitation_50L1",
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
@@ -6074,7 +6197,6 @@
 		"name": "Mondstern-Armband",
 		"avatar": {
 			"name": "Fiona",
-			"description": "Unbekannt",
 			"advanceId": "imitation_36L1",
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",

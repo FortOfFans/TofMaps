@@ -1,8 +1,8 @@
 {
 	"armband_orange": {
-		"name": "เกราะแขนป้อมปราการ",
+		"name": "堡垒臂甲",
 		"type": "NECKLACE",
-		"description": "อุปกรณ์ที่จัดทำขึ้นมาเพื่อทีมหน่วยรบพิเศษ มีคุณสมบัติในการป้องกันและความคล่องตัวในขั้นสูง",
+		"description": "为特种部队定制的装备，防护性能无可挑剔，穿着行动也很便利。",
 		"icon": "armband_040101",
 		"quality": "LEGENDRY",
 		"statPool": "armband_randompool_orange",
@@ -10,9 +10,9 @@
 		"id": "armband_orange"
 	},
 	"cloth_orange": {
-		"name": "เกราะป้อมปราการ",
+		"name": "堡垒护甲",
 		"type": "CLOTH",
-		"description": "เกราะหนักต้านทานการทะลุทะลวงที่ไฮครอสพัฒนาขึ้นหลังจากที่ใช้เวลาวิจัยมาหลายปี",
+		"description": "海嘉德耗费大量人力物力研发打造的超重型护甲，刀枪不入，防御性能卓越。",
 		"icon": "cloth_040101",
 		"quality": "LEGENDRY",
 		"statPool": "cloth_randompool_orange",
@@ -20,9 +20,9 @@
 		"id": "cloth_orange"
 	},
 	"pants_orange": {
-		"name": "เกราะขาป้อมปราการ",
+		"name": "堡垒护腿",
 		"type": "PANTS",
-		"description": "เกราะขาเหล่านี้ได้รับการเสริมพลังเพื่อให้ผู้สวมเกราะป้อมปราการอันหนักหน่วงเคลื่อนที่ได้คล่องตัวขึ้น",
+		"description": "内置动力装置，以辅助佩戴者驱动整套沉重的堡垒护甲。",
 		"icon": "pants_040101",
 		"quality": "LEGENDRY",
 		"statPool": "pants_randompool_orange",
@@ -30,9 +30,9 @@
 		"id": "pants_orange"
 	},
 	"shoes_orange": {
-		"name": "รองเท้าเกราะป้อมปราการ",
+		"name": "堡垒护甲靴",
 		"type": "SHOES",
-		"description": "เสียงย่ำพื้นอันหนักหน่วงจากรองเท้าคู่นี้ข่มขวัญศัตรูได้อย่างยอดเยี่ยม",
+		"description": "重型护甲靴踏在地面的声音就是最好的威慑。",
 		"icon": "shoes_040101",
 		"quality": "LEGENDRY",
 		"statPool": "shoes_randompool_orange",
@@ -40,9 +40,9 @@
 		"id": "shoes_orange"
 	},
 	"helmet_orange": {
-		"name": "หมวกเกราะป้อมปราการ",
+		"name": "堡垒作战盔",
 		"type": "FIRST",
-		"description": "หมวกเกราะปิดรอบด้านที่เพียบพร้อมทั้งคุณสมบัติป้องกัน การระบายอากาศ และระบบจัดการข้อมูล",
+		"description": "全封闭的重型头盔，具备完善的防化、循环和信息处理系统。",
 		"icon": "Helmet_040101",
 		"quality": "LEGENDRY",
 		"statPool": "helmet_randompool_orange",
@@ -50,9 +50,9 @@
 		"id": "helmet_orange"
 	},
 	"glove_orange": {
-		"name": "ถุงมือเกราะป้อมปราการ",
+		"name": "堡垒护手",
 		"type": "FIRST",
-		"description": "ถุงมือเกราะเหล่านี้ถูกออกแบบมาเป็นพิเศษให้ผู้สวมใช้อาวุธได้หลากหลาย",
+		"description": "厚重的护手甲内部进行了特化设计以灵活匹配各类武器的外形。",
 		"icon": "glove_040101",
 		"quality": "LEGENDRY",
 		"statPool": "glove_randompool_orange",
@@ -60,9 +60,9 @@
 		"id": "glove_orange"
 	},
 	"belt_orange": {
-		"name": "เข็มขัดป้อมปราการ",
+		"name": "堡垒扣带",
 		"type": "NECKLACE",
-		"description": "มีเซนเซอร์หลายชนิดไว้ส่งข้อมูลไปยังระบบจัดการข้อมูลของชุดโดยตรง",
+		"description": "集成了多种传感装置，可将数据直接传入套装的信息处理系统。",
 		"icon": "belt_040101",
 		"quality": "LEGENDRY",
 		"statPool": "belt_randompool_orange",
@@ -70,9 +70,9 @@
 		"id": "belt_orange"
 	},
 	"shawl_orange": {
-		"name": "เกราะไหล่ป้อมปราการ",
+		"name": "堡垒护肩",
 		"type": "AMULET",
-		"description": "ทำจากวัสดุแกร่งกันกระสุน สามารถปกป้องส่วนไหล่และคอผู้สวมได้อย่างสมบูรณ์แบบ",
+		"description": "高强度的材质加上避弹的外形设计，为佩戴者的肩颈部提供优良防护。",
 		"icon": "shawl_040101",
 		"quality": "LEGENDRY",
 		"statPool": "shawl_randompool_orange",
@@ -80,9 +80,9 @@
 		"id": "shawl_orange"
 	},
 	"armband_purple": {
-		"name": "ปลอกแขนขั้นสูง",
+		"name": "精英臂甲",
 		"type": "NECKLACE",
-		"description": "สามารถปรับเปลี่ยนพื้นที่ป้องกันให้สอดคล้องกับสถานการณ์ปัจจุบันได้",
+		"description": "增加了调整组件的臂甲，可根据实际情况改变防护面积。",
 		"icon": "armband_030101",
 		"quality": "EPIC",
 		"statPool": "armband_randompool_purple",
@@ -90,9 +90,9 @@
 		"id": "armband_purple"
 	},
 	"armband_red": {
-		"name": "ปลอกแขนไททัน",
+		"name": "泰坦臂甲",
 		"type": "NECKLACE",
-		"description": "อุปกรณ์ที่จัดทำขึ้นมาเพื่อทีมหน่วยรบพิเศษ มีคุณสมบัติในการป้องกันและความคล่องตัวในขั้นสูง",
+		"description": "为特种部队定制的装备，防护性能无可挑剔，穿着行动也很便利。",
 		"icon": "armband_red_2",
 		"quality": "RED",
 		"statPool": "armband_randompool_orange",
@@ -100,9 +100,9 @@
 		"id": "armband_red"
 	},
 	"cloth_purple": {
-		"name": "ชุดรบขั้นสูง",
+		"name": "精英作战服",
 		"type": "CLOTH",
-		"description": "อุปกรณ์พื้นฐานของหน่วยรบพิเศษของไฮครอส มีคุณสมบัติป้องกันและความทนทานเป็นเลิศ เหมาะกับสถานการณ์สุดอันตรายทุกรูปแบบ",
+		"description": "海嘉德特勤处制式装备，具备优越的防御性及对各种极端环境的抗性。",
 		"icon": "cloth_030101",
 		"quality": "EPIC",
 		"statPool": "cloth_randompool_purple",
@@ -110,9 +110,9 @@
 		"id": "cloth_purple"
 	},
 	"cloth_red": {
-		"name": "เกราะไททัน",
+		"name": "泰坦护甲",
 		"type": "CLOTH",
-		"description": "เกราะหนักต้านทานการทะลุทะลวงที่ไฮครอสพัฒนาขึ้นหลังจากที่ใช้เวลาวิจัยมาหลายปี",
+		"description": "海嘉德耗费大量人力物力研发打造的超重型护甲，刀枪不入，防御性能卓越。",
 		"icon": "cloth_red_2",
 		"quality": "RED",
 		"statPool": "cloth_randompool_orange",
@@ -120,9 +120,9 @@
 		"id": "cloth_red"
 	},
 	"pants_purple": {
-		"name": "กางเกงรบขั้นสูง",
+		"name": "精英作战裤",
 		"type": "PANTS",
-		"description": "มีโมดูลเกราะอันซับซ้อนที่บริเวณข้อต่อ ช่วยสนับสนุนเจ้าหน้าที่หน่วยรบพิเศษในการต่อสู้ที่แสนอันตราย",
+		"description": "针对特勤处成员所处的高危战场环境，在关节处增强了复合装甲模块。",
 		"icon": "pants_030101",
 		"quality": "EPIC",
 		"statPool": "pants_randompool_purple",
@@ -130,9 +130,9 @@
 		"id": "pants_purple"
 	},
 	"pants_red": {
-		"name": "เกราะขาไททัน",
+		"name": "泰坦护腿",
 		"type": "PANTS",
-		"description": "เกราะขาเหล่านี้ได้รับการเสริมพลังเพื่อให้ผู้สวมเกราะป้อมปราการอันหนักหน่วงเคลื่อนที่ได้คล่องตัวขึ้น",
+		"description": "内置动力装置，以辅助佩戴者驱动整套沉重的堡垒护甲。",
 		"icon": "pants_red_2",
 		"quality": "RED",
 		"statPool": "pants_randompool_orange",
@@ -140,9 +140,9 @@
 		"id": "pants_red"
 	},
 	"shoes_purple": {
-		"name": "รองเท้าบูทรบขั้นสูง",
+		"name": "精英作战靴",
 		"type": "SHOES",
-		"description": "ทำจากส่วนผสมรุ่นใหม่ที่สามารถปรับผิวสัมผัสได้โดยอัตโนมัติให้สอดคล้องกับสภาพในสนามรบ",
+		"description": "采用了全新复合材料，可根据战场环境自主调节表面材质。",
 		"icon": "shoes_030101",
 		"quality": "EPIC",
 		"statPool": "shoes_randompool_purple",
@@ -150,9 +150,9 @@
 		"id": "shoes_purple"
 	},
 	"shoes_red": {
-		"name": "รองเท้าเกราะไททัน",
+		"name": "泰坦护甲靴",
 		"type": "SHOES",
-		"description": "เสียงย่ำพื้นอันหนักหน่วงจากรองเท้าคู่นี้ข่มขวัญศัตรูได้อย่างยอดเยี่ยม",
+		"description": "重型护甲靴踏在地面的声音就是最好的威慑。",
 		"icon": "shoes_red_2",
 		"quality": "RED",
 		"statPool": "shoes_randompool_orange",
@@ -160,9 +160,9 @@
 		"id": "shoes_red"
 	},
 	"helmet_purple": {
-		"name": "หมวกเกราะรบขั้นสูง",
+		"name": "精英作战盔",
 		"type": "FIRST",
-		"description": "หมวกเกราะล้ำสมัย ติดตั้งฟังก์ชันระบุตัวศัตรูและช่วยเล็งเป้าหมาย",
+		"description": "配置有敌我识别和瞄准辅助系统的先进作战头盔。",
 		"icon": "Helmet_030101",
 		"quality": "EPIC",
 		"statPool": "helmet_randompool_purple",
@@ -170,9 +170,9 @@
 		"id": "helmet_purple"
 	},
 	"helmet_red": {
-		"name": "หมวกไททัน",
+		"name": "泰坦作战盔",
 		"type": "FIRST",
-		"description": "หมวกเกราะปิดรอบด้านที่เพียบพร้อมทั้งคุณสมบัติป้องกัน การระบายอากาศ และระบบจัดการข้อมูล",
+		"description": "全封闭的重型头盔，具备完善的防化、循环和信息处理系统。",
 		"icon": "Helmet_red_2",
 		"quality": "RED",
 		"statPool": "helmet_randompool_orange",
@@ -180,9 +180,9 @@
 		"id": "helmet_red"
 	},
 	"glove_purple": {
-		"name": "ถุงมือขั้นสูง",
+		"name": "精英手套",
 		"type": "FIRST",
-		"description": "มีโมดูลพลังแม่เหล็ก ช่วยให้ผู้สวมสามารถเกาะติดกับพื้นผิวโลหะได้ในยามจำเป็น",
+		"description": "手指部位添加了磁化模块，激活后可以吸附在各类金属材质表面。",
 		"icon": "glove_030101",
 		"quality": "EPIC",
 		"statPool": "glove_randompool_purple",
@@ -190,9 +190,9 @@
 		"id": "glove_purple"
 	},
 	"glove_red": {
-		"name": "ถุงมือไททัน",
+		"name": "泰坦护手",
 		"type": "FIRST",
-		"description": "ถุงมือเกราะเหล่านี้ถูกออกแบบมาเป็นพิเศษให้ผู้สวมใช้อาวุธได้หลากหลาย",
+		"description": "厚重的护手甲内部进行了特化设计以灵活匹配各类武器的外形。",
 		"icon": "glove_red_2",
 		"quality": "RED",
 		"statPool": "glove_randompool_orange",
@@ -200,9 +200,9 @@
 		"id": "glove_red"
 	},
 	"belt_purple": {
-		"name": "เข็มขัดรบขั้นสูง",
+		"name": "精英作战带",
 		"type": "NECKLACE",
-		"description": "ถูกออกแบบให้มีช่องติดตั้งโมดูลหลากหลายฟังก์ชันเพื่อให้สอดคล้องกับความจำเป็นต่าง ๆ ในภารกิจ",
+		"description": "外侧设计了多功能模块插槽，以满足多种不同种类的任务需求。",
 		"icon": "belt_030101",
 		"quality": "EPIC",
 		"statPool": "belt_randompool_purple",
@@ -210,9 +210,9 @@
 		"id": "belt_purple"
 	},
 	"belt_red": {
-		"name": "เข็มขัดไททัน",
+		"name": "泰坦扣带",
 		"type": "NECKLACE",
-		"description": "มีเซนเซอร์หลายชนิดไว้ส่งข้อมูลไปยังระบบจัดการข้อมูลของชุดโดยตรง",
+		"description": "集成了多种传感装置，可将数据直接传入套装的信息处理系统。",
 		"icon": "belt_red_2",
 		"quality": "RED",
 		"statPool": "belt_randompool_orange",
@@ -220,9 +220,9 @@
 		"id": "belt_red"
 	},
 	"shawl_purple": {
-		"name": "เกราะไหล่ขั้นสูง",
+		"name": "精英护肩",
 		"type": "AMULET",
-		"description": "ติดตั้งเครื่องกำเนิดพลังโล่เบี่ยงวิถีไว้ป้องกันส่วนหัวและไหล่ของผู้สวม",
+		"description": "配备了小型的偏转护盾发生器，可以有效保护佩戴者的头肩部。",
 		"icon": "shawl_030101",
 		"quality": "EPIC",
 		"statPool": "shawl_randompool_purple",
@@ -230,9 +230,9 @@
 		"id": "shawl_purple"
 	},
 	"shawl_red": {
-		"name": "เกราะไหล่ไททัน",
+		"name": "泰坦护肩",
 		"type": "AMULET",
-		"description": "ทำจากวัสดุแกร่งกันกระสุน สามารถปกป้องส่วนไหล่และคอผู้สวมได้อย่างสมบูรณ์แบบ",
+		"description": "高强度的材质加上避弹的外形设计，为佩戴者的肩颈部提供优良防护。",
 		"icon": "shawl_red_2",
 		"quality": "RED",
 		"statPool": "shawl_randompool_orange",
@@ -240,9 +240,9 @@
 		"id": "shawl_red"
 	},
 	"armband_blue": {
-		"name": "กำไลมือฟอลคอน",
+		"name": "猎鹰臂甲",
 		"type": "NECKLACE",
-		"description": "ทำจากโลหะผสมรุ่นใหม่\r\nช่วยรักษาสมดุลระหว่างน้ำหนัก\r\nและคุณสมบัติการป้องกัน",
+		"description": "首次采用新型合金的臂甲，在重量与防护性之间取得了一定的平衡。",
 		"icon": "armband_020101",
 		"quality": "RARE",
 		"statPool": "armband_randompool_blue",
@@ -250,9 +250,9 @@
 		"id": "armband_blue"
 	},
 	"cloth_blue": {
-		"name": "ชุดรบฟอลคอน",
+		"name": "猎鹰作战服",
 		"type": "CLOTH",
-		"description": "ทำจากวัสดุใหม่ที่รับประกันคุณสมบัติการป้องกัน มาพร้อมรูปลักษณ์ที่เรียบง่าย",
+		"description": "应用了新锐材料，在保证防护的基础上，简化了前代的许多冗余结构。",
 		"icon": "cloth_020101",
 		"quality": "RARE",
 		"statPool": "cloth_randompool_blue",
@@ -260,9 +260,9 @@
 		"id": "cloth_blue"
 	},
 	"pants_blue": {
-		"name": "กางเกงรบฟอลคอน",
+		"name": "猎鹰作战裤",
 		"type": "PANTS",
-		"description": "ปรับปรุงขึ้นมาจากรุ่นก่อนเป็นอย่างมาก ด้วยวัสดุและการออกแบบที่ดีกว่าเดิม",
+		"description": "改进了版式和关键材料后，猎鹰作战裤的性能相较于前作有了显著提升。",
 		"icon": "pants_020101",
 		"quality": "RARE",
 		"statPool": "pants_randompool_blue",
@@ -270,9 +270,9 @@
 		"id": "pants_blue"
 	},
 	"shoes_blue": {
-		"name": "รองเท้าบูทรบฟอลคอน",
+		"name": "猎鹰作战靴",
 		"type": "SHOES",
-		"description": "มีพื้นผิวดูดซับแรงกระแทกสองชั้น ทำให้ใส่สบายและทนทาน",
+		"description": "采用了双层避震设计，舒适性和耐用性均十分出色。",
 		"icon": "shoes_020101",
 		"quality": "RARE",
 		"statPool": "shoes_randompool_blue",
@@ -280,9 +280,9 @@
 		"id": "shoes_blue"
 	},
 	"helmet_blue": {
-		"name": "หมวกเกราะรบฟอลคอน",
+		"name": "猎鹰作战盔",
 		"type": "FIRST",
-		"description": "ทำจากวัสดุแข็งแกร่ง ปกป้องผู้สวมใส่ได้แม้อยู่กลางดงกระสุนปืน",
+		"description": "高强度材料制成的坚固头盔，面对枪林弹雨亦昂然不惧。",
 		"icon": "Helmet_020101",
 		"quality": "RARE",
 		"statPool": "helmet_randompool_blue",
@@ -290,9 +290,9 @@
 		"id": "helmet_blue"
 	},
 	"glove_blue": {
-		"name": "ถุงมือฟอลคอน",
+		"name": "猎鹰手套",
 		"type": "FIRST",
-		"description": "ทำจากวัสดุโพลีเมอร์น้ำหนักเบาที่ไม่ลดความคล่องแคล่วของผู้สวมแม้แต่น้อย",
+		"description": "采用了轻便的高分子材料，丝毫不影响手部的灵活度。",
 		"icon": "glove_020101",
 		"quality": "RARE",
 		"statPool": "glove_randompool_blue",
@@ -300,9 +300,9 @@
 		"id": "glove_blue"
 	},
 	"belt_blue": {
-		"name": "เข็มขัดฟอลคอน",
+		"name": "猎鹰作战带",
 		"type": "NECKLACE",
-		"description": "มีไมโครเซนเซอร์ไว้ตรวจดูค่าสัญญาณชีพของผู้สวม",
+		"description": "内置了微型检测装置，以监控佩戴者生理指标的变化。",
 		"icon": "belt_020101",
 		"quality": "RARE",
 		"statPool": "belt_randompool_blue",
@@ -310,9 +310,9 @@
 		"id": "belt_blue"
 	},
 	"shawl_blue": {
-		"name": "เกราะไหล่ฟอลคอน",
+		"name": "猎鹰护肩",
 		"type": "AMULET",
-		"description": "เกราะไหล่แวนการ์ดที่ได้รับการอัปเกรดให้สามารถป้องกันได้อย่างยอดเยี่ยม",
+		"description": "先锋护肩的加厚升级版，可以为佩戴者提供相当可观的防御力。",
 		"icon": "shawl_020101",
 		"quality": "RARE",
 		"statPool": "shawl_randompool_blue",
@@ -320,9 +320,9 @@
 		"id": "shawl_blue"
 	},
 	"armband_green": {
-		"name": "เกราะแขนแวนการ์ด",
+		"name": "先锋臂甲",
 		"type": "NECKLACE",
-		"description": "เพิ่มคุณสมบัติการป้องกันโดยแลกกับความคล่องตัวที่ลดลงนิดหน่อย",
+		"description": "注重防护性能的产品，因此牺牲了一定的轻便度。",
 		"icon": "armband_010101",
 		"quality": "COMMON",
 		"statPool": "armband_randompool_green",
@@ -330,9 +330,9 @@
 		"id": "armband_green"
 	},
 	"cloth_green": {
-		"name": "ชุดแวนการ์ด",
+		"name": "先锋作战服",
 		"type": "CLOTH",
-		"description": "แม้ฝ่ายไฮครอสจะไม่ใช้แล้ว แต่ก็เป็นไอเทมยอดนิยมในตลาดมืดอยู่ดี ",
+		"description": "海嘉德旧式作战服，虽然已退出现役，却仍是黑市中的紧俏货。",
 		"icon": "cloth_010100",
 		"quality": "COMMON",
 		"statPool": "cloth_randompool_green",
@@ -340,9 +340,9 @@
 		"id": "cloth_green"
 	},
 	"pants_green": {
-		"name": "เกราะขาแวนการ์ด",
+		"name": "先锋作战裤",
 		"type": "PANTS",
-		"description": "กางเกงรบรุ่นเก่าของไฮครอส จัดว่าอ่อนด้อยที่สุดในชุดอุปกรณ์แวนการ์ด",
+		"description": "海嘉德旧式作战裤，与先锋系列的其他产品相比，乏善可陈。",
 		"icon": "pants_010100",
 		"quality": "COMMON",
 		"statPool": "pants_randompool_green",
@@ -350,9 +350,9 @@
 		"id": "pants_green"
 	},
 	"shoes_green": {
-		"name": "รองเท้าบูทแวนการ์ด",
+		"name": "先锋作战靴",
 		"type": "SHOES",
-		"description": "รองเท้าบูทรุ่นเก่าของไฮครอสที่มีดีทั้งรูปลักษณ์และการใช้งาน ",
+		"description": "海嘉德旧式作战靴，造型拉风，性能可靠。",
 		"icon": "shoes_010100",
 		"quality": "COMMON",
 		"statPool": "shoes_randompool_green",
@@ -360,9 +360,9 @@
 		"id": "shoes_green"
 	},
 	"helmet_green": {
-		"name": "หมวกเกราะแวนการ์ด",
+		"name": "先锋作战盔",
 		"type": "FIRST",
-		"description": "หมวกเกราะที่สามารถปกป้องหัวของผู้สวมใส่ได้อย่างดีเยี่ยม",
+		"description": "配有整体结构的护目镜，防御性能优良。",
 		"icon": "Helmet_010100",
 		"quality": "COMMON",
 		"statPool": "helmet_randompool_green",
@@ -370,9 +370,9 @@
 		"id": "helmet_green"
 	},
 	"glove_green": {
-		"name": "ถุงมือแวนการ์ด",
+		"name": "先锋手套",
 		"type": "FIRST",
-		"description": "ถุงมือนี้เน้นการป้องกันโดยยอมทิ้งความคล่องตัว จึงมีทั้งคนที่ชอบและไม่ชอบมัน ",
+		"description": "为了保证防御性能而牺牲了部分灵活性，也因此饱受争议。",
 		"icon": "glove_010100",
 		"quality": "COMMON",
 		"statPool": "glove_randompool_green",
@@ -380,9 +380,9 @@
 		"id": "glove_green"
 	},
 	"belt_green": {
-		"name": "เข็มขัดแวนการ์ด",
+		"name": "先锋作战带",
 		"type": "NECKLACE",
-		"description": "ส่วนหัวเข็มขัดจะเป็นรุ่นเก่าที่มีความทนทานแต่ไม่สามารถปรับได้",
+		"description": "采用较为复古的卡扣设计，可靠耐用，但无法调节松紧程度。",
 		"icon": "belt_010100",
 		"quality": "COMMON",
 		"statPool": "belt_randompool_green",
@@ -390,9 +390,9 @@
 		"id": "belt_green"
 	},
 	"shawl_green": {
-		"name": "เกราะไหล่แวนการ์ด",
+		"name": "先锋护肩",
 		"type": "AMULET",
-		"description": "ถูกออกแบบมาเพื่อใช้ร่วมกับชุดแวนการ์ดเท่านั้น จะเน้นไปที่การป้องกันท่อนแขนส่วนบนของผู้สวม ",
+		"description": "采用了与作战服一体化的外形设计，重点保护佩戴者的手臂上部。",
 		"icon": "shawl_010100",
 		"quality": "COMMON",
 		"statPool": "shawl_randompool_green",
@@ -400,9 +400,9 @@
 		"id": "shawl_green"
 	},
 	"armband_white": {
-		"name": "เกราะแขนนักสำรวจ",
+		"name": "探险者臂甲",
 		"type": "NECKLACE",
-		"description": "เกราะแขนที่จัดทำขึ้นเพื่อการผจญภัย จึงมีลักษณะที่เบาและบางกว่าปกติ",
+		"description": "为冒险活动而减轻了重量的臂甲，金属片的厚度也随之降低。",
 		"icon": "armband_000101",
 		"quality": "POOR",
 		"statPool": "armband_randompool_white",
@@ -410,9 +410,9 @@
 		"id": "armband_white"
 	},
 	"cloth_white": {
-		"name": "เครื่องแบบนักสำรวจ",
+		"name": "探险者制服",
 		"type": "CLOTH",
-		"description": "เกราะหนังน้ำหนักเบาที่ทีมสำรวจของที่หลบภัยสวมใส่",
+		"description": "避难所探险队装备的轻型装备，由经过鞣制的皮革制成。",
 		"icon": "cloth_000101",
 		"quality": "POOR",
 		"statPool": "cloth_randompool_white",
@@ -420,9 +420,9 @@
 		"id": "cloth_white"
 	},
 	"pants_white": {
-		"name": "กางเกงนักสำรวจ",
+		"name": "探险者长裤",
 		"type": "PANTS",
-		"description": "แม้จะไม่ดูดีที่สุด แต่ก็ทนทาน ใช้งานได้ดี",
+		"description": "虽然款式称不上美观，但足够厚实耐磨，具备良好的实用性。",
 		"icon": "pants_000101",
 		"quality": "POOR",
 		"statPool": "pants_randompool_white",
@@ -430,9 +430,9 @@
 		"id": "pants_white"
 	},
 	"shoes_white": {
-		"name": "รองเท้าบูทนักสำรวจ",
+		"name": "探险者长靴",
 		"type": "SHOES",
-		"description": "รองเท้าบูทหนักทนทานที่ออกแบบเป็นพิเศษสำหรับทีมสำรวจของที่หลบภัย",
+		"description": "沉重而坚固的长靴，专为避难所的探险队员设计。",
 		"icon": "shoes_000101",
 		"quality": "POOR",
 		"statPool": "shoes_randompool_white",
@@ -440,9 +440,9 @@
 		"id": "shoes_white"
 	},
 	"helmet_white": {
-		"name": "หมวกเกราะนักสำรวจ",
+		"name": "探险者头盔",
 		"type": "FIRST",
-		"description": "สามารถปกป้องส่วนศีรษะได้อย่างยอดเยี่ยม",
+		"description": "可以为佩戴者提供良好的头部防护。",
 		"icon": "Helmet_000101",
 		"quality": "POOR",
 		"statPool": "helmet_randompool_white",
@@ -450,9 +450,9 @@
 		"id": "helmet_white"
 	},
 	"glove_white": {
-		"name": "ถุงมือนักสำรวจ",
+		"name": "探险者手套",
 		"type": "FIRST",
-		"description": "มีแผ่นรองเสริมช่วยให้รับมือกับสถานการณ์ต่าง ๆ ในป่าได้สะดวกมากขึ้น",
+		"description": "专门做了加厚处理以应对野外的复杂环境。",
 		"icon": "glove_000101",
 		"quality": "POOR",
 		"statPool": "glove_randompool_white",
@@ -460,9 +460,9 @@
 		"id": "glove_white"
 	},
 	"belt_white": {
-		"name": "เข็มขัดนักสำรวจ",
+		"name": "探险者腰带",
 		"type": "NECKLACE",
-		"description": "เข็มขัดมีช่องเก็บอุปกรณ์พร้อมเชือกไว้ใช้ในการสำรวจ",
+		"description": "针对探险活动的需求，腰带上设计了便于固定绳索工具的接口。",
 		"icon": "belt_000101",
 		"quality": "POOR",
 		"statPool": "belt_randompool_white",
@@ -470,9 +470,9 @@
 		"id": "belt_white"
 	},
 	"shawl_white": {
-		"name": "เกราะไหล่นักสำรวจ",
+		"name": "探险者护肩",
 		"type": "AMULET",
-		"description": "มีคุณสมบัติการป้องกันพื้นฐานโดยไม่ส่งผลกระทบต่อการเคลื่อนไหวของร่างกายส่วนบน",
+		"description": "在不影响上肢灵活性基础上，为探险者提供了基础的防护。",
 		"icon": "shawl_000101",
 		"quality": "POOR",
 		"statPool": "shawl_randompool_white",
@@ -480,9 +480,9 @@
 		"id": "shawl_white"
 	},
 	"core_OS_red": {
-		"name": "เครื่องยนต์รบไททัน",
+		"name": "泰坦作战引擎",
 		"type": "HEAD",
-		"description": "ผลงานสร้างสรรค์ล่าสุดจากฝ่าย R&D อุปกรณ์แห่งไฮครอส ให้การสนับสนุนในระดับที่เหนือกว่าแก่เหล่าผู้ปฏิบัติการ",
+		"description": "海嘉德装备研发部门最新产品，可为执行者带来卓越的支援。",
 		"icon": "core_red_2",
 		"quality": "RED",
 		"statPool": "core1_randompool_orange",
@@ -490,9 +490,9 @@
 		"id": "core_OS_red"
 	},
 	"core_OS_orange": {
-		"name": "เครื่องยนต์รบป้อมปราการ",
+		"name": "堡垒作战引擎",
 		"type": "HEAD",
-		"description": "ผลงานสร้างสรรค์ล่าสุดของแผนกวิจัยและพัฒนาของไฮครอส ซึ่งสามารถสนับสนุนค่าพลังธาตุให้แก่เหล่าผู้ปฏิบัติการได้อย่างดีเยี่ยม",
+		"description": "海嘉德装备研发部门最新产品，可为执行者带来卓越的属性支援。",
 		"icon": "core_orange",
 		"quality": "LEGENDRY",
 		"statPool": "core_OS_randompool_orange",
@@ -500,9 +500,9 @@
 		"id": "core_OS_orange"
 	},
 	"core_OS_purple": {
-		"name": "กล่องเครื่องยนต์รบขั้นสูง",
+		"name": "精英作战引擎",
 		"type": "HEAD",
-		"description": "อุปกรณ์มาตรฐานของกองกำลังพิเศษไฮครอส มันช่วยพวกเขาในภารกิจที่ยากจำนวนมาก",
+		"description": "海嘉德特勤处成员的统一装备，已伴随队员们经历诸多艰难的任务。",
 		"icon": "core_purple",
 		"quality": "EPIC",
 		"statPool": "core_OS_randompool_purple",
@@ -510,9 +510,9 @@
 		"id": "core_OS_purple"
 	},
 	"core_OS_blue": {
-		"name": "เครื่องยนต์รบฟอลคอน",
+		"name": "猎鹰作战引擎",
 		"type": "HEAD",
-		"description": "เครื่องยนต์รบที่สร้างโดยเบนเจสเทค เคยเป็นอุปกรณ์ที่ประชาชนนิยม",
+		"description": "班吉斯重工生产的作战引擎，曾经是民用装备中的抢手货。",
 		"icon": "core_blue",
 		"quality": "RARE",
 		"statPool": "core_OS_randompool_blue",
@@ -520,9 +520,9 @@
 		"id": "core_OS_blue"
 	},
 	"visor_OS_red": {
-		"name": "แว่นตาไททัน",
+		"name": "泰坦战术目镜",
 		"type": "EYEPIECE",
-		"description": "ผลงานสร้างสรรค์ล่าสุดจากฝ่าย R&D อุปกรณ์แห่งไฮครอส ให้การสนับสนุนในระดับที่เหนือกว่าแก่เหล่าผู้ปฏิบัติการ",
+		"description": "海嘉德装备研发部门最新产品，可为执行者带来卓越的支援。",
 		"icon": "visor_red_2",
 		"quality": "RED",
 		"statPool": "visor1_randompool_orange",
@@ -530,9 +530,9 @@
 		"id": "visor_OS_red"
 	},
 	"visor_OS_orange": {
-		"name": "แว่นกลยุทธ์ป้อมปราการ",
+		"name": "堡垒战术目镜",
 		"type": "EYEPIECE",
-		"description": "ผลงานสร้างสรรค์ล่าสุดของแผนกวิจัยและพัฒนาของไฮครอส ซึ่งสามารถสนับสนุนค่าพลังธาตุให้แก่เหล่าผู้ปฏิบัติการได้อย่างดีเยี่ยม",
+		"description": "海嘉德装备研发部门最新产品，可为执行者带来卓越的属性支援。",
 		"icon": "visor_orange",
 		"quality": "LEGENDRY",
 		"statPool": "visor_OS_randompool_orange",
@@ -540,9 +540,9 @@
 		"id": "visor_OS_orange"
 	},
 	"visor_OS_purple": {
-		"name": "แว่นกลยุทธ์ขั้นสูง",
+		"name": "精英战术目镜",
 		"type": "EYEPIECE",
-		"description": "อุปกรณ์มาตรฐานของกองกำลังพิเศษไฮครอส มันช่วยพวกเขาในภารกิจที่ยากจำนวนมาก",
+		"description": "海嘉德特勤处成员的统一装备，已伴随队员们经历诸多艰难的任务。",
 		"icon": "visor_purple",
 		"quality": "EPIC",
 		"statPool": "visor_OS_randompool_purple",
@@ -550,9 +550,9 @@
 		"id": "visor_OS_purple"
 	},
 	"visor_OS_blue": {
-		"name": "แว่นกลยุทธ์ฟอลคอน",
+		"name": "猎鹰战术目镜",
 		"type": "EYEPIECE",
-		"description": "แว่นกลยุทธ์ที่ผลิตโดยเบนเจสเทค เคยเป็นอุปกรณ์ที่ประชาชนนิยม",
+		"description": "班吉斯重工生产的战术目镜，曾经是民用装备中的抢手货。",
 		"icon": "visor_blue",
 		"quality": "RARE",
 		"statPool": "visor_OS_randompool_blue",
@@ -560,9 +560,9 @@
 		"id": "visor_OS_blue"
 	},
 	"reactor_OS_red": {
-		"name": "เครื่องปฏิกรณ์ไมโครไททัน",
+		"name": "泰坦微反应炉",
 		"type": "FURNACE",
-		"description": "เครื่องปฏิกรณ์ใหม่ประสิทธิภาพสูงที่พัฒนาโดยแผนกวิจัยและพัฒนาเขต 7 ซึ่งสามารถสนับสนุนได้อย่างโดดเด่น",
+		"description": "第七分区研发部门所研制的新型高效反应炉，可带来卓越的支援。",
 		"icon": "reactor_red_2",
 		"quality": "RED",
 		"statPool": "reactor1_randompool_orange",
@@ -570,9 +570,9 @@
 		"id": "reactor_OS_red"
 	},
 	"reactor_OS_orange": {
-		"name": "เครื่องปฏิกรณ์ไมโครป้อมปราการ",
+		"name": "堡垒微反应炉",
 		"type": "FURNACE",
-		"description": "เครื่องปฏิกรณ์ใหม่ประสิทธิภาพสูงที่พัฒนาโดยแผนกวิจัยและพัฒนาเขต 7 ซึ่งสามารถสนับสนุนค่าสถานะได้อย่างดีเยี่ยม",
+		"description": "第七分区研发部门所研制的新型高效反应炉，可带来卓越的属性支援。",
 		"icon": "reactor_orange",
 		"quality": "LEGENDRY",
 		"statPool": "reactor_OS_randompool_orange",
@@ -580,9 +580,9 @@
 		"id": "reactor_OS_orange"
 	},
 	"reactor_OS_purple": {
-		"name": "เครื่องปฏิกรณ์ไมโครขั้นสูง",
+		"name": "精英微反应炉",
 		"type": "FURNACE",
-		"description": "เครื่องปฏิกรณ์ไมโครที่ผู้ปฏิบัติการเขต 7 สวมใส่เพื่อต่อสู้กับตัวตนมิติสีเทา",
+		"description": "第七分区执行者所配备的微型反应炉，抵御灰域体需要做好万全准备。",
 		"icon": "reactor_purple",
 		"quality": "EPIC",
 		"statPool": "reactor_OS_randompool_purple",
@@ -590,9 +590,9 @@
 		"id": "reactor_OS_purple"
 	},
 	"reactor_OS_blue": {
-		"name": "เครื่องปฏิกรณ์ไมโครขั้นสูง",
+		"name": "精英微反应炉",
 		"type": "FURNACE",
-		"description": "มาตรฐานสำหรับสมาชิกทีมสำรวจพื้นดินวีร่า ให้พลังงานเพียงพอและทำให้พวกเขาพร้อมสำหรับทุกภารกิจ",
+		"description": "维拉地表探险队成员制式装备，能源供给充足，随时可以执行任务。",
 		"icon": "reactor_blue",
 		"quality": "RARE",
 		"statPool": "reactor_OS_randompool_blue",
@@ -600,9 +600,9 @@
 		"id": "reactor_OS_blue"
 	},
 	"exoskeleton_OS_red": {
-		"name": "เอ็กโซสเกเลตันไททัน",
+		"name": "泰坦外骨骼",
 		"type": "ECTOSKELETON",
-		"description": "เอ็กโซสเกเลตันใหม่ประสิทธิภาพสูงที่พัฒนาโดยแผนกวิจัยและพัฒนาประจำเขต 7 ที่ให้การสนับสนุนได้อย่างดีเยี่ยม",
+		"description": "第七分区研发部门所研制的新型外骨骼，可带来卓越的支援。",
 		"icon": "exoskeleton_red_2",
 		"quality": "RED",
 		"statPool": "exoskeleton1_randompool_orange",
@@ -610,9 +610,9 @@
 		"id": "exoskeleton_OS_red"
 	},
 	"exoskeleton_OS_orange": {
-		"name": "เอ็กโซสเกเลตันป้อมปราการ",
+		"name": "堡垒外骨骼",
 		"type": "ECTOSKELETON",
-		"description": "เอ็กโซสเกเลตันใหม่ประสิทธิภาพสูงที่พัฒนาโดยแผนกวิจัยและพัฒนาประจำเขต 7 ที่ให้การสนับสนุนค่าพลังได้อย่างดีเยี่ยม",
+		"description": "第七分区研发部门所研制的新型外骨骼，可带来卓越的属性支援。",
 		"icon": "exoskeleton_orange",
 		"quality": "LEGENDRY",
 		"statPool": "exoskeleton_OS_randompool_orange",
@@ -620,9 +620,9 @@
 		"id": "exoskeleton_OS_orange"
 	},
 	"exoskeleton_OS_purple": {
-		"name": "เอ็กโซสเกเลตันระดับสูง",
+		"name": "精英外骨骼",
 		"type": "ECTOSKELETON",
-		"description": "เอ็กโซสเกเลตันที่ผู้ปฏิบัติการเขต 7 สวมใส่เพื่อต่อสู้กับตัวตนมิติสีเทา",
+		"description": "第七分区执行者所配备的外骨骼，抵御灰域体需要做好万全准备。",
 		"icon": "exoskeleton_purple",
 		"quality": "EPIC",
 		"statPool": "exoskeleton_OS_randompool_purple",
@@ -630,9 +630,9 @@
 		"id": "exoskeleton_OS_purple"
 	},
 	"exoskeleton_OS_blue": {
-		"name": "เอ็กโซสเกเลตันฟอลคอน",
+		"name": "猎鹰外骨骼",
 		"type": "ECTOSKELETON",
-		"description": "มาตรฐานสำหรับสมาชิกทีมสำรวจพื้นดินวีร่า ให้พลังงานเพียงพอและทำให้พวกเขาพร้อมสำหรับทุกภารกิจ",
+		"description": "维拉地表探险队成员制式装备，能源供给充足，随时可以执行任务。",
 		"icon": "exoskeleton_blue",
 		"quality": "RARE",
 		"statPool": "exoskeleton_OS_randompool_blue",

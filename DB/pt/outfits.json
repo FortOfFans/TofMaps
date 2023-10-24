@@ -6,6 +6,30 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f27_lanmaozi",
 		"id": "fashion_dress_27"
 	},
+	"fashion_dress_58": {
+		"name": "Kilau Sutra",
+		"description": "Boneka labu menjerit yang mengenakan topeng yang meriah. Pakai untuk bersinar di bawah sorotan lampu di atas panggung atau lenyap di malam hari, dengan hanya meninggalkan jejak warna merah tua dan angin yang berbisik.",
+		"type": "Dress",
+		"source": "Diperoleh dari event Silken Adornment",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"id": "fashion_dress_58"
+	},
+	"fashion_dress_55": {
+		"name": "Sussurros da Maresia",
+		"description": "No calor escaldante do verão, caminhando pela praia, a cortina oscilante traz a sensação de verão.",
+		"type": "Dress",
+		"source": "Obtido no evento Sussurros da Maresia",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f66",
+		"id": "fashion_dress_55"
+	},
+	"fashion_dress_56": {
+		"name": "Jogando com o Tempo",
+		"description": "Por uma ficha de jogo, nós podemos curtir uma aventura o dia inteiro!",
+		"type": "Dress",
+		"source": "Obter Passe",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56",
+		"id": "fashion_dress_56"
+	},
 	"fashion_dress_54": {
 		"name": "Salto Dimensional",
 		"description": "Avante rumo a um novo mundo, onde começa uma nova jornada de fantasia!",
@@ -306,6 +330,7 @@
 		"name": "Busca na Multidão",
 		"description": "Olhando para trás sem querer, notei que você se destacava na multidão.",
 		"type": "Dress",
+		"source": "Obtido na fase 10 do Passe.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f53",
 		"id": "fashion_dress_52"
 	},
@@ -364,7 +389,7 @@
 		"id": "fashion_dress_20"
 	},
 	"fashion_dress_21": {
-		"name": "Meia-Noite",
+		"name": "Meia-noite",
 		"description": "Há perigo e oportunidade adiante. Vamos adentrar essa noite e iniciar uma aventura.",
 		"type": "Dress",
 		"source": "Brinde de Pedido",
@@ -817,6 +842,36 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_131",
 		"id": "fashion_decoration_83"
 	},
+	"fashion_decoration_86": {
+		"name": "Anel da Gula",
+		"description": "Um acessório feito de armadura de Taotie. Use-o por adsorção eletromagnética.",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_137",
+		"id": "fashion_decoration_86"
+	},
+	"fashion_decoration_87": {
+		"name": "Praia Prateada",
+		"description": "O sol de verão é ótimo, mas temos que proteger os olhos contra os raios ultravioletas.",
+		"type": "Headwear",
+		"source": "Em eventos",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_decoration_87_female",
+		"id": "fashion_decoration_87"
+	},
+	"fashion_decoration_88": {
+		"name": "Anel da Elucidação",
+		"description": "Esta honraria da Hykros é um reconhecimento aos mentores de diamante que mais ajudaram os iniciantes!",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88",
+		"id": "fashion_decoration_88"
+	},
+	"fashion_decoration_91": {
+		"name": "Iblis Cilik",
+		"description": "Hati-hati, kalau malam suka ada Iblis Cilik yang mengincar lehermu! Hiiii!",
+		"type": "Headwear",
+		"source": "Em eventos",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+		"id": "fashion_decoration_91"
+	},
 	"fashion_weapon_1": {
 		"name": "Montante",
 		"description": "Montante",
@@ -1016,6 +1071,75 @@
 		"source": "Resgate no evento de Operação",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",
 		"id": "fashion_Guidenpc_mia_oversea_1"
+	},
+	"fashion_medal_0": {
+		"name": "Sem acessório",
+		"type": "Medal",
+		"icon": "None",
+		"id": "fashion_medal_0"
+	},
+	"fashion_medal_1": {
+		"name": "Estrela do Fantasma do Passado",
+		"description": "Uma medalha comemorativa feita de diamantes, que traz o emblema do Fantasma do Passado no meio. Uma recompensa exclusiva para o primeiro colocado de uma temporada de Fantasma do Passado.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Diamond",
+		"id": "fashion_medal_1"
+	},
+	"fashion_medal_2": {
+		"name": "Medalha Fantasma de Ouro",
+		"description": "Uma medalha comemorativa feita de ouro, que traz o emblema do Fantasma do Passado no meio. Uma recompensa exclusiva para o segundo colocado de uma temporada de Fantasma do Passado.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Gold",
+		"id": "fashion_medal_2"
+	},
+	"fashion_medal_3": {
+		"name": "Medalha Fantasma de Prata",
+		"description": "Uma medalha comemorativa feita de prata, que traz o emblema do Fantasma do Passado no meio. Uma recompensa exclusiva para o terceiro colocado de uma temporada de Fantasma do Passado.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Silver",
+		"id": "fashion_medal_3"
+	},
+	"fashion_medal_4": {
+		"name": "Estrela de Mentor Erudito",
+		"description": "As decorações estreladas brilhantes, um símbolo do status de mentor de diamante, são um louvor por sua assistência aos demais.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond",
+		"id": "fashion_medal_4"
+	},
+	"fashion_medal_5": {
+		"name": "Estrela de Mentor Brilhante",
+		"description": "As decorações estreladas douradas reluzentes, um símbolo do status de mentor de ouro, são um louvor por sua assistência aos demais.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold",
+		"id": "fashion_medal_5"
+	},
+	"fashion_medal_6": {
+		"name": "Estrela de Mentor Esplêndido",
+		"description": "As decorações estreladas prateadas cintilantes, um símbolo do status de mentor de prata, são um louvor por sua assistência aos demais.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver",
+		"id": "fashion_medal_6"
+	},
+	"fashion_medal_7": {
+		"name": "Estrela da Origem da Guerra",
+		"description": "Uma medalha comemorativa feita de diamantes, que traz o emblema da Origem da Guerra no meio. Uma recompensa exclusiva para o primeiro colocado de uma temporada de Origem da Guerra.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Diamond",
+		"id": "fashion_medal_7"
+	},
+	"fashion_medal_8": {
+		"name": "Medalha Origem de Ouro",
+		"description": "Uma medalha comemorativa feita de ouro, que traz o emblema da Origem da Guerra no meio. Uma recompensa exclusiva para o segundo colocado de uma temporada de Origem da Guerra.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Gold",
+		"id": "fashion_medal_8"
+	},
+	"fashion_medal_9": {
+		"name": "Medalha Origem de Prata",
+		"description": "Uma medalha comemorativa feita de prata, que traz o emblema da Origem da Guerra no meio. Uma recompensa exclusiva para o terceiro colocado de uma temporada de Origem da Guerra.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Silver",
+		"id": "fashion_medal_9"
 	},
 	"fashion_Guidenpc_mia_10": {
 		"name": "Mi-a Reninha",

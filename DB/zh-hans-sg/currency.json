@@ -131,9 +131,9 @@
 		"id": "WeaponFragment"
 	},
 	"GenePointAttack": {
-		"name": "原基（攻击）",
-		"description": "研究原能辐射时发现的神秘物质，能对生物基因产生定向影响。经过多年研究优化，现已能安全地作用于人体。",
-		"icon": "/Game/Resources/Icon/item/jysicon",
+		"name": "域币",
+		"description": "阵宫发行的九域通用货币，为九域境内的唯一法定货币，内含少量用来制作时章的材料，用以鉴别真伪。",
+		"icon": "/Game/Resources/Icon/huobi/jiuyu_coin",
 		"id": "GenePointAttack"
 	},
 	"GuildCaption": {

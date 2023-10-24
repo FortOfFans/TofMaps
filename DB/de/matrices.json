@@ -665,8 +665,8 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Wird Prunkstück oder werden **2** oder mehr Waffen verschiedener Elemente oder **2** oder mehr Arten von Waffen ausgerüstet, wird jeglicher Elementarschaden um **8%**/9%/10%/11% erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Dabei ist aber nur das Set mit der höchsten Sternebewertung aktiv.",
-				"4": "Erhöht bei Frostschaden jeglichen Elementarschaden für **2500** Sek. um **13%**/16%/19%/22%. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Dabei ist aber nur das Set mit der höchsten Sternebewertung aktiv."
+				"2": "Wird Prunkstück oder werden **2** oder mehr Waffen verschiedener Elemente oder **2** oder mehr Arten von Waffen ausgerüstet, wird jeglicher Elementarschaden um **8%**/9%/10%/11% erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
+				"4": "Erhöht bei Frostschaden jeglichen Elementarschaden für **2500** Sek. um **13%**/16%/19%/22%. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
 			}
 		],
 		"id": "matrix_SSR28_1"
@@ -695,8 +695,8 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Erhöht allen Elementarschaden um **8%**/9%/10%/11%, wenn mindestens 1 physische Waffe ausgerüstet ist. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Dabei ist aber nur das Set mit der höchsten Sternebewertung aktiv.",
-				"4": "Nach Verwendung einer beliebigen physischen Waffenfähigkeit oder Entladungsfähigkeit wird sämtlicher Elementarschaden für **25**Sek. um **13%**/16%/19%/22% erhöht. Bei Verwendung von **Wirbelstürmchen** wird die verbrauchte Ausdauer um **40%** verringert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+				"2": "Erhöht allen Elementarschaden um **8%**/9%/10%/11%, wenn mindestens 1 physische Waffe ausgerüstet ist. Der Set-Effekt funktioniert auch im Nebenhand-Slot. und nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
+				"4": "Nach Verwendung einer beliebigen physischen Waffenfähigkeit oder Entladungsfähigkeit wird sämtlicher Elementarschaden für **25**Sek. um **13%**/16%/19%/22% erhöht. Bei Verwendung von **Wirbelstürmchen** wird die verbrauchte Ausdauer um **40%** verringert. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
 			}
 		],
 		"id": "matrix_SSR30_1"
@@ -711,7 +711,7 @@
 		"set": [
 			{
 				"2": "Erhöht Volt-ANG um **14%**/17%/19%/21%. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
-				"4": "Erhöht das Krystamax-Dornenlimit auf **6**. Erhöht allen Elementarschaden für **3000**Sek. um **13%**/16%/19%/22%, wenn eine Voltwaffe einen Treffer landet. Der Set-Effekt funktioniert auch im Nebenhand-Slot, nur das Set mit der höchsten Sternebewertung tritt in Kraft."
+				"4": "Erhöht das Krystamax-Dornenlimit auf **6**. Erhöht allen Elementarschaden für **3000**Sek. um **13%**/16%/19%/22%, wenn eine Voltwaffe einen Treffer landet. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternebewertung tritt in Kraft."
 			}
 		],
 		"id": "matrix_SSR31_1"
@@ -725,8 +725,8 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Erhöht den Endschaden um **9%**/10%/11%/12%. Die durch Ausweichen bei Verwendung von **Kienkomet** erhaltene Anzahl von **Sperlingsfedern** erhöht sich auf **20**. Der Set-Effekt funktioniert auch im Nebenhand-Slot, nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
-				"4": "Wenn mindestens **1** Flammenwaffe ausgerüstet ist, wird jeglicher Elementarschaden um **11%**/14%/17%/20% erhöht. Erhöht nach Verwendung von **In alle Richtungen** allen Elementarschadensbonus um zusätzliche **7%**, bevor er über **2500**Sek. auf **4%** abnimmt. Der Set-Effekt funktioniert auch im Nebenhand-Slot, nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+				"2": "Erhöht den Endschaden um **9%**/10%/11%/12%. Die durch Ausweichen bei Verwendung von **Kienkomet** erhaltene Anzahl von **Sperlingsfedern** erhöht sich auf **20**. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
+				"4": "Wenn mindestens **1** Flammenwaffe ausgerüstet ist, wird jeglicher Elementarschaden um **11%**/14%/17%/20% erhöht. Erhöht nach Verwendung von **In alle Richtungen** allen Elementarschadensbonus um zusätzliche **7%**, bevor er über **2500**Sek. auf **4%** abnimmt. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
 			}
 		],
 		"id": "matrix_SSR32_1"
@@ -741,7 +741,7 @@
 		"set": [
 			{
 				"2": "Wenn mindestens **1**Frostwaffe ausgerüstet ist, wird Zielen in der Nähe im Kampfstatus jede Sekunde Schaden in Höhe von **85%** des ANG zugefügt. Nach Verwendung einer beliebigen Frostwaffenfähigkeit oder Entladungsfähigkeit wird der Endschaden für **3000**Sek. um **7%**/8%/9%/10% erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
-				"4": "Nachdem **Eintracht** **Innere Stärke** oder **Kampfgeist** verbraucht hat, wird der Endschaden für **1500**Sek. um **6%** erhöht. Nachdem Frostschaden verursacht wurde, wird aller Elementarschaden für **3000**Sek. um **12%**/15%/19%/23% erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+				"4": "Nachdem **Eintracht** **Innere Stärke** oder **Kampfgeist** verbraucht hat, wird der Endschaden für **1500**Sek. um **6%** erhöht. Nachdem Frostschaden verursacht wurde, wird aller Elementarschaden für **3000**Sek. um **12%**/15%/19%/23% erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
 			}
 		],
 		"id": "matrix_SSR33_1"
@@ -770,8 +770,8 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Erhöht den Endschaden um **7%**/8%/9%/10%. Sobald die Schockwelle von Azura trifft, wird der Fähigkeitsschaden für **3000**Sek. um **15%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
-				"4": "Erhöht allen Elementarschaden um **14%**/17%/20%/23%, wenn wenigstens **1**Voltwaffe ausgerüstet ist. Erhöht nach dem Verwenden von **Azurmond**/**Aufsteigender Drache** den krit. Schaden für **3000**Sek. um **6%**. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+				"2": "Erhöht den Endschaden um **7%**/8%/9%/10%. Sobald die Schockwelle von Azura trifft, wird der Fähigkeitsschaden für **3000**Sek. um **15%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
+				"4": "Erhöht allen Elementarschaden um **14%**/17%/20%/23%, wenn wenigstens **1**Voltwaffe ausgerüstet ist. Erhöht nach dem Verwenden von **Azurmond**/**Aufsteigender Drache** den krit. Schaden für **3000**Sek. um **6%**. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
 			}
 		],
 		"id": "matrix_SSR35_1"
@@ -785,10 +785,25 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Nach der Verwendung einer Flammenwaffenfähigkeit oder Entladung werden alle Angriffe für **3000** Sek. um **18%**/22%/26%/30% erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot, nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
-				"4": "Erhöht allen Elementarschaden um **28%**/32%/36%/40%, wenn wenigstens **1** Flammenwaffe ausgerüstet ist. Erhöht nach dem Erzeugen von „Fei Ses Trugbild“ zusätzlich den Endschaden für **2500**Sek. um **20%**. Der Set-Effekt funktioniert auch im Nebenhand-Slot, nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+				"2": "Nach der Verwendung einer Flammenwaffenfähigkeit oder Entladung werden alle Angriffe für **3000** Sek. um **14%**/16%/18%/20% erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot, nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
+				"4": "Erhöht allen Elementarschaden um **14%**/17%/20%/23%, wenn wenigstens **1** Flammenwaffe ausgerüstet ist. Erhöht nach dem Erzeugen von „Fei Ses Trugbild“ zusätzlich den Endschaden für **2500**Sek. um **9%**. Der Set-Effekt funktioniert auch im Nebenhand-Slot, nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
 			}
 		],
 		"id": "matrix_SSR36_1"
+	},
+	"matrix_SSR37_1": {
+		"name": "Ling Han",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "Das Schwert ist wie ein Nebel, der schnell und unberechenbar umherwandert.",
+		"icon": "icon_matrix_SSR37_512",
+		"gachaIcon": "icon_matrix_SSR37_512",
+		"rarity": "SSR",
+		"set": [
+			{
+				"2": "Erhöht allen Elementarschaden um **7%**/8%/9%/10%. Fügt Zielen in der Nähe beim Abfeuern von „Frostklingen“ zusätzlichen Schaden in Höhe von **416%** des ANG zu. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
+				"4": "Nach der Verwendung einer Entladungsfähigkeit einer Frostwaffe wird der Endschaden für **3000**Sek. um **12%**/15%/19%/23% erhöht. Wenn **Alabastertiger** ausgerüstet ist, werden alle Angriffe um **12%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft."
+			}
+		],
+		"id": "matrix_SSR37_1"
 	}
 }

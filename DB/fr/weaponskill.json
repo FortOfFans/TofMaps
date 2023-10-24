@@ -166,7 +166,7 @@
 				"id": "GA_FPlayerSwordMelee_AirAttack"
 			},
 			{
-				"name": "Cyclone",
+				"name": "de mer-sable",
 				"description": "Pressez et maintenez appuyé le bouton d'attaque normale après des attaques normales pour déclencher Cyclone.\r\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> à une seule cible.",
 				"icon": "skill_sword_branch",
 				"id": "GA_FPlayerSwordMelee_Branch"
@@ -236,7 +236,7 @@
 				"id": "GA_FPlayerSwordMelee_AirAttack"
 			},
 			{
-				"name": "Cyclone",
+				"name": "de mer-sable",
 				"description": "Pressez et maintenez appuyé le bouton d'attaque normale après des attaques normales pour déclencher Cyclone.\r\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> à une seule cible.",
 				"icon": "skill_sword_branch",
 				"id": "GA_FPlayerSwordMelee_Branch"
@@ -300,7 +300,7 @@
 				"id": "GA_FPlayerSwordMelee_AirAttack"
 			},
 			{
-				"name": "Cyclone",
+				"name": "de mer-sable",
 				"description": "Pressez et maintenez appuyé le bouton d'attaque normale après des attaques normales pour déclencher Cyclone.\r\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> à une seule cible.",
 				"icon": "skill_sword_branch",
 				"id": "GA_FPlayerSwordMelee_Branch"
@@ -1735,7 +1735,7 @@
 				"id": "GA_FPlayerSwordMelee_AirAttack"
 			},
 			{
-				"name": "Cyclone",
+				"name": "de mer-sable",
 				"description": "Pressez et maintenez appuyé le bouton d'attaque normale après des attaques normales pour déclencher Cyclone.\r\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> à une seule cible.",
 				"icon": "skill_sword_branch",
 				"id": "GA_FPlayerSwordMelee_Branch"
@@ -1864,7 +1864,7 @@
 		"skills": [
 			{
 				"name": "Esquiver",
-				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 				"icon": "skill_dgun_evade",
 				"id": "GA_FPlayerUmbrellaEvadeFire_Evade"
 			}
@@ -2059,7 +2059,7 @@
 		"skills": [
 			{
 				"name": "Esquiver",
-				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 				"icon": "common_evade",
 				"id": "GA_FPlayerYoyoEvade_Evade"
 			},
@@ -2241,7 +2241,7 @@
 		"skills": [
 			{
 				"name": "Esquiver",
-				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 				"icon": "common_evade",
 				"id": "GA_FPlayerZekeEvade_Evade"
 			},
@@ -3696,7 +3696,7 @@
 		"skills": [
 			{
 				"name": "Esquiver",
-				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 				"icon": "skill_dgun_evade",
 				"id": "GA_FPlayerChainsawEvade_Evade"
 			},
@@ -3718,7 +3718,7 @@
 		"skills": [
 			{
 				"name": "Esquiver",
-				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 				"icon": "skill_dgun_evade",
 				"id": "GA_FPlayerChainsawEvade_Evade"
 			},
@@ -4097,7 +4097,7 @@
 				"id": "GA_FPlayerSwordMelee_AirAttack_SSR"
 			},
 			{
-				"name": "Cyclone",
+				"name": "de mer-sable",
 				"description": "Pressez et maintenez appuyé le bouton d'attaque normale après des attaques normales pour déclencher Cyclone.\r\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> à une seule cible.",
 				"icon": "skill_sword_branch",
 				"id": "GA_FPlayerSwordMelee_Branch_SSR"
@@ -4661,7 +4661,7 @@
 				"id": "GA_FPlayerSwordMelee_AirAttack_R"
 			},
 			{
-				"name": "Cyclone",
+				"name": "de mer-sable",
 				"description": "Pressez et maintenez appuyé le bouton d'attaque normale après des attaques normales pour déclencher Cyclone.\r\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> à une seule cible.",
 				"icon": "skill_sword_branch",
 				"id": "GA_FPlayerSwordMelee_Branch_R"
@@ -4996,7 +4996,7 @@
 			},
 			{
 				"name": "Esquiver",
-				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 				"icon": "skill_dgun_evade",
 				"id": "GA_FPlayerIceBladeEvadeIce_Evade"
 			}
@@ -5600,8 +5600,8 @@
 	"GA_FPlayerRubiliaChangeSkill": {
 		"skills": [
 			{
-				"name": "Étreinte d'Harrah",
-				"description": "Lorsque la <red>recharge d'arme</> est pleine ou que <red>Fantaisie</> est déclenchée, changer d'arme pour utiliser celle-ci <shuzhi>supprime toutes les altérations sur l'Explorateur</> et invoque Harrah qui lance <shuzhi>12</> Balles tempête, chacune infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches. Pendant ce temps, l'Explorateur gagne une immunité aux dégâts pendant <shuzhi>1,5</> seconde. Non disponible en Ligue ultime.\r\nAccroît les dégâts de foudre de <shuzhi>7%</> pendant <shuzhi>30</> secondes après avoir utilisé Étreinte d'Harrah. Génère également <shuzhi>3</> épines de crystamax (jusqu'à <shuzhi>5</> simultanément). Les épines de crystamax commencent avec <shuzhi>100%</> de PV max, ne peuvent pas être attaquées, ne peuvent être soignées qu'avec <shuzhi>Rétroaction</> et durent <shuzhi>150</> secondes.\r\nGagnez <shuzhi>2</> <shuzhi>Rétroactions</> après une attaque réussie d'Étreinte d'Harrah. Cumulable jusqu'à <shuzhi>4</> fois. Art perdu consomme <shuzhi>1</> <shuzhi>Rétroaction</> pour chaque attaque d'esquive, infligeant à la cible des dégâts équivalant au nombre d'épines de crystamax × <shuzhi>{2}%</> de l'ATQ, régénérant <shuzhi>25%</> des PV max de toutes les épines de crystamax, et réinitialisant l'emplacement et la durée des épines de crystamax.\r\nAprès avoir porté un coup avec Étreinte d'Harrah, gagnez <shuzhi>1</> opportunité d'esquiver sans consommer de tentative d'esquive.",
+				"name": "Étreinte de Harrah",
+				"description": "Lorsque la <red>recharge d'arme</> est pleine ou que <red>Fantaisie</> est déclenchée, changer d'arme pour utiliser celle-ci <shuzhi>supprime toutes les altérations sur l'Explorateur</> et invoque Harrah qui lance <shuzhi>12</> Balles tempête, chacune infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches. Pendant ce temps, l'Explorateur gagne une immunité aux dégâts pendant <shuzhi>1,5</> seconde. Non disponible en Ligue ultime.\r\nAccroît les dégâts de foudre de <shuzhi>7%</> pendant <shuzhi>30</> secondes après avoir utilisé Étreinte de Harrah. Génère également <shuzhi>3</> épines de crystamax (jusqu'à <shuzhi>5</> simultanément). Les épines de crystamax commencent avec <shuzhi>100%</> de PV max, ne peuvent pas être attaquées, ne peuvent être soignées qu'avec <shuzhi>Rétroaction</> et durent <shuzhi>150</> secondes.\r\nGagnez <shuzhi>2</> <shuzhi>Rétroactions</> après une attaque réussie d'Étreinte de Harrah. Cumulable jusqu'à <shuzhi>4</> fois. Art perdu consomme <shuzhi>1</> <shuzhi>Rétroaction</> pour chaque attaque d'esquive, infligeant à la cible des dégâts équivalant au nombre d'épines de crystamax × <shuzhi>{2}%</> de l'ATQ, régénérant <shuzhi>25%</> des PV max de toutes les épines de crystamax, et réinitialisant l'emplacement et la durée des épines de crystamax.\r\nAprès avoir porté un coup avec Étreinte de Harrah, gagnez <shuzhi>1</> opportunité d'esquiver sans consommer de tentative d'esquive.",
 				"icon": "skill_rubilia_changeskill",
 				"id": "GA_FPlayerRubiliaChangeSkill_Success"
 			}
@@ -5611,7 +5611,7 @@
 		"skills": [
 			{
 				"name": "Esquiver",
-				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 				"icon": "common_evade",
 				"id": "GA_FPlayerRubiliaEvade_Evade"
 			},
@@ -5745,7 +5745,9 @@
 	"GA_FPlayerLinghanChangeSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_changeskill",
+				"name": "Technique de l'épée : Appel glacé",
+				"description": "Lorsque la <red>recharge d'arme est pleine</> ou que <red>Fantaisie</> est déclenchée, au moment où vous changez d'arme pour passer à celle-ci, <shuzhi>élimine toutes les altérations sur l'Explorateur</> et invoque un Réseau d'épées autour de lui, plongeant la zone dans le froid et infligeant des dégâts équivalant au maximum à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches. Peu après, invoque un Tigre blanc, infligeant des dégâts équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</>. Pendant cette compétence, l'immunité aux dégâts dure <shuzhi>1,5</> secondes (non disponible en Ligue ultime).\r\n<shuzhi>Effet passif</> : lorsque Technique de l'épée : Appel glacé touche une cible, accroît les dégâts finaux de <shuzhi>8%</> pendant <shuzhi>30</> secondes.",
+				"icon": "skill_linghan_changeskill",
 				"id": "GA_FPlayerLinghanChangeSkill_Success"
 			}
 		]
@@ -5753,15 +5755,21 @@
 	"GA_FPlayerLinghanEvade": {
 		"skills": [
 			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 				"icon": "common_evade",
 				"id": "GA_FPlayerLinghanEvade_Evade"
 			},
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "Technique de l'épée : Nuages en cascade",
+				"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez un bouton directionnel avant d'esquiver) pour déclencher Technique de l'épée : Nuages en cascade, infligeant des dégâts équivalant au maximum à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles touchées.",
+				"icon": "skill_linghan_fevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
 			},
 			{
-				"icon": "skill_zeke_bevadeattack",
+				"name": "Technique de l'épée : Âme mortelle",
+				"description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Technique de l'épée : Âme mortelle. Crée une illusion en forme de Tigre blanc, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles en vue.",
+				"icon": "skill_linghan_bevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
 			}
 		]
@@ -5769,27 +5777,43 @@
 	"GA_FPlayerLinghanMelee": {
 		"skills": [
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "Technique de l'épée : Taille-lune",
+				"description": "Lorsque vous êtes au sol, utilisez l'attaque normale pour lancer 6 attaques d'affilée.\r\nPremière attaque : inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> et repousse la cible.\r\nDeuxième attaque : inflige des dégâts équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</> et repousse la cible.\r\nTroisième attaque : inflige des dégâts équivalant à <shuzhi>{4}%</> de l'ATQ +<shuzhi>{5}</> et repousse la cible.\r\nQuatrième attaque : inflige des dégâts équivalant à <shuzhi>{6}%</> de l'ATQ + <shuzhi>{7}</> et repousse la cible.\r\nCinquième attaque : inflige des dégâts équivalant à <shuzhi>{8}%</> de l'ATQ + <shuzhi>{9}</> et attire les ennemis en face de l'Explorateur.\r\nSixième attaque : inflige des dégâts équivalant à <shuzhi>{10}%</> de l'ATQ + <shuzhi>{11}</> et projette la cible.\r\nAprès avoir déclenché Technique de l'épée : Taille-lune, appuyez et maintenez Attaque normale pour déclencher <shuzhi>Technique de l'épée : Neige éternelle</>.\r\n\r\nLorsqu'une attaque normale de <shuzhi>Tigre d'albâtre</> touche une cible, applique <shuzhi>1</> cumul de <shuzhi>Fissure cristalline</> à la cible, lui infligeant des dégâts d'attaque normale équivalant à <shuzhi>{12}%</> de l'ATQ chaque seconde pendant <shuzhi>15</> secondes. Seul <shuzhi>1</> cumul de Fissure cristalline peut être appliqué à la même cible toutes les <shuzhi>4</> secondes. Cumulable jusqu'à <shuzhi>3</> fois. Les cumuls disparaissent un par un lorsque l'effet prend fin.",
+				"icon": "skill_linghan_melee",
 				"id": "GA_FPlayerLinghanMelee_Melee"
 			},
 			{
-				"icon": "skill_zeke_airattack",
+				"name": "Technique de l'épée : Cri de l'épée",
+				"description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour lancer 6 attaques consécutives en l'air, consommant de l'endurance.\r\nPremière attaque : inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</>.\r\nDeuxième attaque : inflige des dégâts équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</>.\r\nTroisième attaque : inflige des dégâts équivalant à <shuzhi>{4}%</> de l'ATQ + <shuzhi>{5}</>.\r\nQuatrième attaque : inflige des dégâts équivalant à <shuzhi>{6}%</> de l'ATQ + <shuzhi>{7}</>.\r\nCinquième attaque : inflige des dégâts équivalant à <shuzhi>{8}%</> de l'ATQ + <shuzhi>{9}</>.\r\nSixième attaque : inflige des dégâts équivalant à <shuzhi>{10}%</> de l'ATQ + <shuzhi>{11}</>.",
+				"icon": "skill_linghan_airattack",
 				"id": "GA_FPlayerLinghanMelee_AirAttack"
 			},
 			{
-				"icon": "skill_zeke_branch",
+				"name": "Technique de l'épée : Neige éternelle",
+				"description": "Lorsque vous utilisez l'attaque normale au sol, appuyez et maintenez Attaque normale pour déclencher Technique de l'épée : Neige éternelle.\r\nManipulez l'épée par la pensée tout en consommant de l'endurance, pendant que l'Explorateur gagne Hypercorps. Chaque attaque réussie inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.\r\nLorsque Technique de l'épée : Neige éternelle se termine, libère une puissante aura d'épée, infligeant des dégâts équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</> aux cibles proches.",
+				"icon": "skill_linghan_powerattack",
 				"id": "GA_FPlayerLinghanMelee_PowerAttack"
 			},
 			{
-				"icon": "skill_zeke_jumpattack",
+				"name": "Technique de l'épée : Chute de givre",
+				"description": "Appuyez et maintenez Attaque normale dans les airs (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Technique de l'épée : Chute de givre.\r\nEn descendant, vous infligez des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> chaque fois que la cible est touchée. À l'atterrissage, vous infligez des dégâts équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}</> aux cibles proches.",
+				"icon": "skill_linghan_jumpattack",
 				"id": "GA_FPlayerLinghanMelee_JumpAttack"
+			},
+			{
+				"name": "Pas léger",
+				"description": "Pendant que l'Explorateur est dans les airs après un double saut, appuyez sur Sauter pour déclencher Pas léger. Effectuez une brève ruée vers le haut avant de redescendre en glissant en continu. Dans les airs, Pas léger peut être utilisé jusqu'à <shuzhi>2</> fois.\r\nAu sol, Pas léger récupère <shuzhi>1</> tentative d'utilisation toutes les <shuzhi>10</> secondes (changer de zone, changer d'arme ou déséquiper <shuzhi>Tigre d'albâtre</> réinitialise les tentatives d'utilisation).",
+				"icon": "skill_linghan_qinggong",
+				"id": "GA_FPlayerLinghanMelee_QingGong"
 			}
 		]
 	},
 	"GA_FPlayerLinghanSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_skill",
+				"name": "Technique de l'épée : Glace ombrée",
+				"description": "Inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches et les attire. Forme ensuite un Réseau d'épées qui fait s'abattre une pluie d'épées et <shuzhi>gèle longuement</> les cibles (non disponible en Ligue ultime et contre les boss) pendant <shuzhi>4</> secondes. Temps de recharge : <shuzhi>30</> secondes.\r\nAprès avoir réussi Technique de l'épée : Glace ombrée, l'Explorateur diffuse de l'<shuzhi>Air froid</>, infligeant des dégâts équivalant à <shuzhi>{4}%</> de l'ATQ aux cibles proches chaque seconde et réduisant leur vitesse de <shuzhi>30%</> (non disponible en Ligue ultime et contre les boss).\r\nAprès avoir exécuté Technique de l'épée : Glace ombrée jusqu'au bout, l'Explorateur crée un grand nombre de <shuzhi>Lames de givre</> et lance <shuzhi>1</> lame toutes les <shuzhi>7,5</> secondes à la cible verrouillée, lui infligeant des dégâts équivalant à <shuzhi>{5}%</> de l'ATQ ainsi que l'effet <shuzhi>Réduction de température</>. Jusqu'à <shuzhi>3</> <shuzhi>Lames de givre</> peuvent être créées au début, et toutes les lames disparaissent en état hors combat.\r\n<shuzhi>Réduction de température</> : inflige des dégâts aux cibles proches équivalant à <shuzhi>{6}%</> de l'ATQ toutes les <shuzhi>3</> secondes pendant <shuzhi>12</> secondes.",
+				"icon": "skill_linghan_skill",
 				"id": "GA_FPlayerLinghanSkill_Skill"
 			}
 		]
@@ -6199,7 +6223,7 @@
 		"skills": [
 			{
 				"name": "Bassin de jade incomparable",
-				"description": "Lorsque la <red>recharge d'arme est pleine</> ou que <red>Fantaisie</> est déclenchée, <shuzhi>élimine toutes les altérations sur l'Explorateur</> au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</>. Durant cette période, accorde une immunité aux dégâts pendant <shuzhi>1,5</> seconde (non disponible en Ligue ultime).",
+				"description": "Lorsque la <red>recharge d'arme est pleine</> ou que <red>Fantaisie</> est déclenchée, <shuzhi>élimine toutes les altérations sur l'Explorateur</> au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</>. Durant cette période, accorde une immunité aux dégâts pendant <shuzhi>2,6</> secondes (non disponible en Ligue ultime).",
 				"icon": "feise_changeskill",
 				"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 			}
@@ -6209,13 +6233,13 @@
 		"skills": [
 			{
 				"name": "Esquiver",
-				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. L'esquive vous immunise contre l'hébétement.",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
 				"icon": "common_evade",
 				"id": "GA_FPlayerFeiseEvade_Evade"
 			},
 			{
 				"name": "Dispersion",
-				"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez sur un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.\r\n\r\nPendant le <shuzhi>Mirage fantastique</> de <shuzhi>Tourbillon</>, lorsque la première attaque d'esquive infligée avec n'importe quelle arme touche sa cible, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n<shuzhi>Fantaisie de Fei Se</> : À sa création, la Fantaisie de Fei Se copie <shuzhi>25%</> de l'ATQ max de la cible et les ajoute à l'<shuzhi>ATQ de feu de base</> de l'Explorateur (pas moins de <shuzhi>3 300</> et pas plus de <shuzhi>3 450</> ; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'<shuzhi>une</> Fantaisie de Fei Se à la fois.\r\n<shuzhi>Pétale de lotus</> : À leur création, les Pétales de lotus sont égaux au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après leur création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
+				"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez sur un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches.\r\n\r\nPendant le <shuzhi>Mirage fantastique</> de <shuzhi>Tourbillon</>, lorsque la première attaque d'esquive infligée avec n'importe quelle arme touche sa cible, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n<shuzhi>Fantaisie de Fei Se</> : À sa création, la Fantaisie de Fei Se copie <shuzhi>25%</> de l'ATQ max de la cible et les ajoute à l'<shuzhi>ATQ de feu de base</> de l'Explorateur (pas moins de <shuzhi>6 500</> et pas plus de <shuzhi>10 000</> ; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'<shuzhi>une</> Fantaisie de Fei Se à la fois.\r\n<shuzhi>Pétale de lotus</> : À leur création, les Pétales de lotus sont égaux au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après leur création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
 				"icon": "feise_evadefront",
 				"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 			},
@@ -6243,7 +6267,7 @@
 			},
 			{
 				"name": "Automne d'or",
-				"description": "Lorsque vous l'utilisez au sol, appuyez et maintenez Attaque normale lors de l'utilisation des attaques normales un à trois pour déclencher Automne d'or.\r\nAttire les cibles proches, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> et les suspendant.",
+				"description": "Lorsque vous êtes au sol, appuyez et maintenez Attaque normale lors de l'utilisation des attaques normales un à trois pour déclencher Automne d'or.\r\nAttire les cibles proches, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> et les suspendant.",
 				"icon": "feise_branch1",
 				"id": "GA_FPlayerFeiseMelee_Branch1"
 			},
@@ -6271,7 +6295,7 @@
 		"skills": [
 			{
 				"name": "Tourbillon",
-				"description": "Inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches et crée un Mirage fantastique, d'une durée maximale de <shuzhi>25</> secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de <shuzhi>20</> secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage :\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à <shuzhi>{2}%</> de l'ATQ aux cibles dans le Mirage. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les <shuzhi>5</> secondes, inflige Cœur flamboyant aux cibles dans le Mirage, leur infligeant des dégâts de brûlure équivalant à <shuzhi>{3}%</> de l'ATQ pendant <shuzhi>5</> secondes. Pour <shuzhi>chaque</> <shuzhi>Fantaisie de Fei Se</> ou <shuzhi>Pétale de lotus</> créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de <shuzhi>6%</> supplémentaires.",
+				"description": "Inflige des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ + <shuzhi>{1}</> aux cibles proches et crée un Mirage fantastique, d'une durée maximale de <shuzhi>25</> secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de <shuzhi>20</> secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage :\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à <shuzhi>{2}%</> de l'ATQ. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les <shuzhi>5</> secondes, inflige Cœur flamboyant aux cibles à portée, leur infligeant des dégâts de brûlure équivalant à <shuzhi>{3}%</> de l'ATQ pendant <shuzhi>5</> secondes. Pour <shuzhi>chaque</> <shuzhi>Fantaisie de Fei Se</> ou <shuzhi>Pétale de lotus</> créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de <shuzhi>15%</> supplémentaires.",
 				"icon": "feise_skill1",
 				"id": "GA_FPlayerFeiseSkill_Skill1"
 			},

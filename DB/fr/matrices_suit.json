@@ -388,23 +388,23 @@
 		"id": "suit_SSR27_3"
 	},
 	"suit_SSR28_0": {
-		"twopc": "Équiper Le Précieux, au moins **2**armes d'éléments différents ou au moins **2**types d'armes accroît tous les dégâts élémentaires de **8%**/9%/10%/11%. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de **13%**/16%/19%/22% pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Équiper Le Précieux, au moins **2**armes d'éléments différents ou au moins **2**types d'armes accroît tous les dégâts élémentaires de **8%**/9%/10%/11%. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de **13%**/16%/19%/22% pendant **2500**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR28_0"
 	},
 	"suit_SSR28_1": {
-		"twopc": "Équiper Le Précieux, au moins **2**armes d'éléments différents ou au moins **2**types d'armes accroît tous les dégâts élémentaires de 8%/**9%**/10%/11%. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 13%/**16%**/19%/22% pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Équiper Le Précieux, au moins **2**armes d'éléments différents ou au moins **2**types d'armes accroît tous les dégâts élémentaires de 8%/**9%**/10%/11%. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 13%/**16%**/19%/22% pendant **2500**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR28_1"
 	},
 	"suit_SSR28_2": {
-		"twopc": "Équiper Le Précieux, au moins **2**armes d'éléments différents ou au moins **2**types d'armes accroît tous les dégâts élémentaires de 8%/9%/**10%**/11%. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 13%/16%/**19%**/22% pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Équiper Le Précieux, au moins **2**armes d'éléments différents ou au moins **2**types d'armes accroît tous les dégâts élémentaires de 8%/9%/**10%**/11%. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 13%/16%/**19%**/22% pendant **2500**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR28_2"
 	},
 	"suit_SSR28_3": {
-		"twopc": "Équiper Le Précieux, au moins **2**armes d'éléments différents ou au moins **2**types d'armes accroît tous les dégâts élémentaires de 8%/9%/10%/**11%**. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 13%/16%/19%/**22%** pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Équiper Le Précieux, au moins **2**armes d'éléments différents ou au moins **2**types d'armes accroît tous les dégâts élémentaires de 8%/9%/10%/**11%**. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 13%/16%/19%/**22%** pendant **2500**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR28_3"
 	},
 	"suit_SSR29_0": {
@@ -448,83 +448,83 @@
 		"id": "suit_SSR3_3"
 	},
 	"suit_SSR30_0": {
-		"twopc": "Accroît tous les dégâts élémentaires de **8%**/9%/10%/11% lorsqu'au moins 1 arme physique est équipée. Les effets du kit fonctionnent dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Après avoir utilisé une compétence d'arme physique ou une compétence de décharge, augmentez tous les dégâts élémentaires de **13%**/16%/19%/22% pendant **25** secondes. L'endurance consommée lors de l'utilisation de **Mini ouragan** est réduite de **40%**. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît tous les dégâts élémentaires de **8%**/9%/10%/11% lorsqu'au moins 1arme physique est équipée. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Après avoir utilisé une compétence d'arme physique ou de décharge, tous les dégâts élémentaires sont augmentés de **13%**/16%/19%/22% pendant **25**secondes. L'endurance consommée lors de l'utilisation de **Mini ouragan** est réduite de **40%**. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR30_0"
 	},
 	"suit_SSR30_1": {
-		"twopc": "Accroît tous les dégâts élémentaires de 8%/**9%**/10%/11% lorsqu'au moins 1 arme physique est équipée. Les effets du kit fonctionnent dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Après avoir utilisé une compétence d'arme physique ou une compétence de décharge, augmentez tous les dégâts élémentaires de 13%/**16%**/19%/22% pendant **25** secondes. L'endurance consommée lors de l'utilisation de **Mini ouragan** est réduite de **40%**. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît tous les dégâts élémentaires de 8%/**9%**/10%/11% lorsqu'au moins 1arme physique est équipée. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Après avoir utilisé une compétence d'arme physique ou de décharge, tous les dégâts élémentaires sont augmentés de 13%/**16%**/19%/22% pendant **25**secondes. L'endurance consommée lors de l'utilisation de **Mini ouragan** est réduite de **40%**. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR30_1"
 	},
 	"suit_SSR30_2": {
-		"twopc": "Accroît tous les dégâts élémentaires de 8%/9%/**10%**/11% lorsqu'au moins 1 arme physique est équipée. Les effets du kit fonctionnent dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Après avoir utilisé une compétence d'arme physique ou une compétence de décharge, augmentez tous les dégâts élémentaires de 13%/16%/**19%**/22% pendant **25** secondes. L'endurance consommée lors de l'utilisation de **Mini ouragan** est réduite de **40%**. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît tous les dégâts élémentaires de 8%/9%/**10%**/11% lorsqu'au moins 1arme physique est équipée. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Après avoir utilisé une compétence d'arme physique ou de décharge, tous les dégâts élémentaires sont augmentés de 13%/16%/**19%**/22% pendant **25**secondes. L'endurance consommée lors de l'utilisation de **Mini ouragan** est réduite de **40%**. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR30_2"
 	},
 	"suit_SSR30_3": {
-		"twopc": "Accroît tous les dégâts élémentaires de 8%/9%/10%/**11%** lorsqu'au moins 1 arme physique est équipée. Les effets du kit fonctionnent dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Après avoir utilisé une compétence d'arme physique ou une compétence de décharge, augmentez tous les dégâts élémentaires de 13%/16%/19%/**22%** pendant **25** secondes. L'endurance consommée lors de l'utilisation de **Mini ouragan** est réduite de **40%**. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît tous les dégâts élémentaires de 8%/9%/10%/**11%** lorsqu'au moins 1arme physique est équipée. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Après avoir utilisé une compétence d'arme physique ou de décharge, tous les dégâts élémentaires sont augmentés de 13%/16%/19%/**22%** pendant **25**secondes. L'endurance consommée lors de l'utilisation de **Mini ouragan** est réduite de **40%**. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR30_3"
 	},
 	"suit_SSR31_0": {
 		"twopc": "Accroît l'ATQ de foudre de **14%**/17%/19%/21%. Les effets du kit fonctionnent dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Fait passer la limite d'épines de crystamax à **6**. Lorsqu'une arme de foudre touche sa cible, accroît tous les dégâts élémentaires de **13%**/16%/19%/22% pendant **3000** secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Fait passer la limite d'épines de crystamax à **6**. Lorsqu'une arme de foudre touche sa cible, accroît tous les dégâts élémentaires de **13%**/16%/19%/22% pendant **3000** secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR31_0"
 	},
 	"suit_SSR31_1": {
 		"twopc": "Accroît l'ATQ de foudre de 14%/**17%**/19%/21%. Les effets du kit fonctionnent dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Fait passer la limite d'épines de crystamax à **6**. Lorsqu'une arme de foudre touche sa cible, accroît tous les dégâts élémentaires de 13%/**16%**/19%/22% pendant **3000** secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Fait passer la limite d'épines de crystamax à **6**. Lorsqu'une arme de foudre touche sa cible, accroît tous les dégâts élémentaires de 13%/**16%**/19%/22% pendant **3000** secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR31_1"
 	},
 	"suit_SSR31_2": {
 		"twopc": "Accroît l'ATQ de foudre de 14%/17%/**19%**/21%. Les effets du kit fonctionnent dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Fait passer la limite d'épines de crystamax à **6**. Lorsqu'une arme de foudre touche sa cible, accroît tous les dégâts élémentaires de 13%/16%/**19%**/22% pendant **3000** secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Fait passer la limite d'épines de crystamax à **6**. Lorsqu'une arme de foudre touche sa cible, accroît tous les dégâts élémentaires de 13%/16%/**19%**/22% pendant **3000** secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR31_2"
 	},
 	"suit_SSR31_3": {
 		"twopc": "Accroît l'ATQ de foudre de 14%/17%/19%/**21%**. Les effets du kit fonctionnent dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Fait passer la limite d'épines de crystamax à **6**. Lorsqu'une arme de foudre touche sa cible, accroît tous les dégâts élémentaires de 13%/16%/19%/**22%** pendant **3000** secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Fait passer la limite d'épines de crystamax à **6**. Lorsqu'une arme de foudre touche sa cible, accroît tous les dégâts élémentaires de 13%/16%/19%/**22%** pendant **3000** secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR31_3"
 	},
 	"suit_SSR32_0": {
-		"twopc": "Accroît les dégâts finaux de **9%**/10%/11%/12%. Le nombre de **Plumes de moineau** obtenues grâce aux esquives en utilisant **Comète de pin** augmente de **20**. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de **11%**/14%/17%/20%. Après avoir utilisé **Dans toutes les directions**, accroît tous les bonus de dégâts élémentaires de **7%** supplémentaires et les réduit peu à peu de **4%** sur **2500** secondes. Les effets du kit fonctionnent dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît les dégâts finaux de **9%**/10%/11%/12%. Le nombre de **Plumes de moineau** obtenues grâce aux esquives en utilisant **Comète de pin** passe à **20**. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de **11%**/14%/17%/20%. Après avoir utilisé **Dans toutes les directions**, accroît tous les bonus de dégâts élémentaires de **7%** supplémentaires et les réduit peu à peu de **4%** sur **2500**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR32_0"
 	},
 	"suit_SSR32_1": {
-		"twopc": "Accroît les dégâts finaux de 9%/**10%**/11%/12%. Le nombre de **Plumes de moineau** obtenues grâce aux esquives en utilisant **Comète de pin** augmente de **20**. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 11%/**14%**/17%/20%. Après avoir utilisé **Dans toutes les directions**, accroît tous les bonus de dégâts élémentaires de **7%** supplémentaires et les réduit peu à peu de **4%** sur **2500** secondes. Les effets du kit fonctionnent dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît les dégâts finaux de 9%/**10%**/11%/12%. Le nombre de **Plumes de moineau** obtenues grâce aux esquives en utilisant **Comète de pin** passe à **20**. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 11%/**14%**/17%/20%. Après avoir utilisé **Dans toutes les directions**, accroît tous les bonus de dégâts élémentaires de **7%** supplémentaires et les réduit peu à peu de **4%** sur **2500**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR32_1"
 	},
 	"suit_SSR32_2": {
-		"twopc": "Accroît les dégâts finaux de 9%/10%/**11%**/12%. Le nombre de **Plumes de moineau** obtenues grâce aux esquives en utilisant **Comète de pin** augmente de **20**. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 11%/14%/**17%**/20%. Après avoir utilisé **Dans toutes les directions**, accroît tous les bonus de dégâts élémentaires de **7%** supplémentaires et les réduit peu à peu de **4%** sur **2500** secondes. Les effets du kit fonctionnent dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît les dégâts finaux de 9%/10%/**11%**/12%. Le nombre de **Plumes de moineau** obtenues grâce aux esquives en utilisant **Comète de pin** passe à **20**. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 11%/14%/**17%**/20%. Après avoir utilisé **Dans toutes les directions**, accroît tous les bonus de dégâts élémentaires de **7%** supplémentaires et les réduit peu à peu de **4%** sur **2500**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR32_2"
 	},
 	"suit_SSR32_3": {
-		"twopc": "Accroît les dégâts finaux de 9%/10%/11%/**12%**. Le nombre de **Plumes de moineau** obtenues grâce aux esquives en utilisant **Comète de pin** augmente de **20**. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 11%/14%/17%/**20%**. Après avoir utilisé **Dans toutes les directions**, accroît tous les bonus de dégâts élémentaires de **7%** supplémentaires et les réduit peu à peu de **4%** sur **2500** secondes. Les effets du kit fonctionnent dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît les dégâts finaux de 9%/10%/11%/**12%**. Le nombre de **Plumes de moineau** obtenues grâce aux esquives en utilisant **Comète de pin** passe à **20**. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 11%/14%/17%/**20%**. Après avoir utilisé **Dans toutes les directions**, accroît tous les bonus de dégâts élémentaires de **7%** supplémentaires et les réduit peu à peu de **4%** sur **2500**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR32_3"
 	},
 	"suit_SSR33_0": {
 		"twopc": "En équipant au moins **1**arme de givre en état de combat, inflige des dégâts équivalant à **85%** de l'ATQ à chaque seconde aux cibles proches. Après avoir utilisé une compétence d'arme ou une compétence de décharge de givre, accroît les dégâts finaux de **7**%/8%/9%/10% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, accroît les dégâts finaux de **6%** pendant **1500**secondes. Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de **12%**/15%/19%/23% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, accroît les dégâts finaux de **6%** pendant **1500**secondes. Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de **12%**/15%/19%/23% pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR33_0"
 	},
 	"suit_SSR33_1": {
 		"twopc": "En équipant au moins **1**arme de givre en état de combat, inflige des dégâts équivalant à **85%** de l'ATQ à chaque seconde aux cibles proches. Après avoir utilisé une compétence d'arme ou une compétence de décharge de givre, accroît les dégâts finaux de 7%/**8%**/9%/10% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, accroît les dégâts finaux de **6%** pendant **1500**secondes. Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 12%/**15%**/19%/23% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, accroît les dégâts finaux de **6%** pendant **1500**secondes. Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 12%/**15%**/19%/23% pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR33_1"
 	},
 	"suit_SSR33_2": {
 		"twopc": "En équipant au moins **1**arme de givre en état de combat, inflige des dégâts équivalant à **85%** de l'ATQ à chaque seconde aux cibles proches. Après avoir utilisé une compétence d'arme ou une compétence de décharge de givre, accroît les dégâts finaux de 7%/8%/**9%**/10% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, accroît les dégâts finaux de **6%** pendant **1500**secondes. Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 12%/15%/**19%**/23% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, accroît les dégâts finaux de **6%** pendant **1500**secondes. Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 12%/15%/**19%**/23% pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR33_2"
 	},
 	"suit_SSR33_3": {
 		"twopc": "En équipant au moins **1**arme de givre en état de combat, inflige des dégâts équivalant à **85%** de l'ATQ à chaque seconde aux cibles proches. Après avoir utilisé une compétence d'arme ou une compétence de décharge de givre, accroît les dégâts finaux de 7%/8%/9%/**10%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, mais seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, accroît les dégâts finaux de **6%** pendant **1500**secondes. Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 12%/15%/19%/**23%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre, seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, accroît les dégâts finaux de **6%** pendant **1500**secondes. Lorsque vous infligez des dégâts de givre, accroît tous les dégâts élémentaires de 12%/15%/19%/**23%** pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR33_3"
 	},
 	"suit_SSR34_0": {
@@ -868,55 +868,63 @@
 		"id": "suit_SSR19_3"
 	},
 	"suit_SSR35_0": {
-		"twopc": "Accroît les dégâts finaux de **7%**/8%/9%/10%. Quand l'onde de choc d'Azura touche une cible, accroît les dégâts de la compétence de **15%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de foudre, accroît tous les dégâts élémentaires de **14%**/17%/20%/23%. Après avoir utilisé **Lune azur**/**Dragon fulgurant**, accroît les dégâts critiques de **6%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît les dégâts finaux de **7%**/8%/9%/10%. Quand l'onde de choc d'Azura touche une cible, accroît les dégâts de la compétence de **15%** pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de foudre, accroît tous les dégâts élémentaires de **14%**/17%/20%/23%. Après avoir utilisé **Lune azur**/**Dragon fulgurant**, accroît les dégâts critiques de **6%** pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR35_0"
 	},
 	"suit_SSR35_1": {
-		"twopc": "Accroît les dégâts finaux de 7%/**8%**/9%/10%. Quand l'onde de choc d'Azura touche une cible, accroît les dégâts de la compétence de **15%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de foudre, accroît tous les dégâts élémentaires de 14%/**17%**/20%/23%. Après avoir utilisé **Lune azur**/**Dragon fulgurant**, accroît les dégâts critiques de **6%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît les dégâts finaux de 7%/**8%**/9%/10%. Quand l'onde de choc d'Azura touche une cible, accroît les dégâts de la compétence de **15%** pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de foudre, accroît tous les dégâts élémentaires de 14%/**17%**/20%/23%. Après avoir utilisé **Lune azur**/**Dragon fulgurant**, accroît les dégâts critiques de **6%** pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR35_1"
 	},
 	"suit_SSR35_2": {
-		"twopc": "Accroît les dégâts finaux de 7%/8%/**9%**/10%. Quand l'onde de choc d'Azura touche une cible, accroît les dégâts de la compétence de **15%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de foudre, accroît tous les dégâts élémentaires de 14%/17%/**20%**/23%. Après avoir utilisé **Lune azur**/**Dragon fulgurant**, accroît les dégâts critiques de **6%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît les dégâts finaux de 7%/8%/**9%**/10%. Quand l'onde de choc d'Azura touche une cible, accroît les dégâts de la compétence de **15%** pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de foudre, accroît tous les dégâts élémentaires de 14%/17%/**20%**/23%. Après avoir utilisé **Lune azur**/**Dragon fulgurant**, accroît les dégâts critiques de **6%** pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR35_2"
 	},
 	"suit_SSR35_3": {
-		"twopc": "Accroît les dégâts finaux de 7%/8%/9%/**10%**. Quand l'onde de choc d'Azura touche une cible, accroît les dégâts de la compétence de **15%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de foudre, accroît tous les dégâts élémentaires de 14%/17%/20%/**23%**. Après avoir utilisé **Lune azur**/**Dragon fulgurant**, accroît les dégâts critiques de **6%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Accroît les dégâts finaux de 7%/8%/9%/**10%**. Quand l'onde de choc d'Azura touche une cible, accroît les dégâts de la compétence de **15%** pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de foudre, accroît tous les dégâts élémentaires de 14%/17%/20%/**23%**. Après avoir utilisé **Lune azur**/**Dragon fulgurant**, accroît les dégâts critiques de **6%** pendant **3000**secondes. Les effets du kit fonctionnent dans l'emplacement main libre et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR35_3"
 	},
 	"suit_SSR36_0": {
-		"twopc": "Après avoir utilisé une compétence d'arme ou une compétence de décharge de feu, accroît toutes les attaques de **18%**/22%/26%/30% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de **28%**/32%/36%/40%. Après avoir créé la Fantaisie de Fei Se, accroît en plus les dégâts finaux de **20%** pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Après avoir utilisé une compétence d'arme ou une compétence de décharge de feu, accroît toutes les attaques de **14%**/16%/18%/20% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de **14%**/17%/20%/23%. Après avoir créé la Fantaisie de Fei Se, accroît en plus les dégâts finaux de **9%** pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR36_0"
 	},
 	"suit_SSR36_1": {
-		"twopc": "Après avoir utilisé une compétence d'arme ou une compétence de décharge de feu, accroît toutes les attaques de 18%/**22%**/26%/30% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 28%/**32%**/36%/40%. Après avoir créé la Fantaisie de Fei Se, accroît en plus les dégâts finaux de **20%** pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Après avoir utilisé une compétence d'arme ou une compétence de décharge de feu, accroît toutes les attaques de 14%/**16%**/18%/20% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 14%/**17%**/20%/23%. Après avoir créé la Fantaisie de Fei Se, accroît en plus les dégâts finaux de **9%** pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR36_1"
 	},
 	"suit_SSR36_2": {
-		"twopc": "Après avoir utilisé une compétence d'arme ou une compétence de décharge de feu, accroît toutes les attaques de 18%/22%/**26%**/30% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 28%/32%/**36%**/40%. Après avoir créé la Fantaisie de Fei Se, accroît en plus les dégâts finaux de **20%** pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Après avoir utilisé une compétence d'arme ou une compétence de décharge de feu, accroît toutes les attaques de 14%/16%/**18%**/20% pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 14%/17%/**20%**/23%. Après avoir créé la Fantaisie de Fei Se, accroît en plus les dégâts finaux de **9%** pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR36_2"
 	},
 	"suit_SSR36_3": {
-		"twopc": "Après avoir utilisé une compétence d'arme ou une compétence de décharge de feu, accroît toutes les attaques de 18%/22%/26%/**30%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
-		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 28%/32%/36%/**40%**. Après avoir créé la Fantaisie de Fei Se, accroît en plus les dégâts finaux de **20%** pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"twopc": "Après avoir utilisé une compétence d'arme ou une compétence de décharge de feu, accroît toutes les attaques de 14%/16%/18%/**20%** pendant **3000**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "En équipant au moins **1**arme de feu, accroît tous les dégâts élémentaires de 14%/17%/20%/**23%**. Après avoir créé la Fantaisie de Fei Se, accroît en plus les dégâts finaux de **9%** pendant **2500**secondes. Les effets du kit fonctionnent également dans l'emplacement main libre. Seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR36_3"
 	},
 	"suit_SSR37_0": {
+		"twopc": "Accroît tous les dégâts élémentaires de **7%**/8%/9%/10%. Utiliser Lames de givre inflige aux cibles proches des dégâts supplémentaires équivalant à **416%** de l'ATQ. Les effets du kit fonctionnent également dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Après avoir utilisé la compétence de décharge d'une arme de givre, accroît les dégâts finaux de **12%**/15%/19%/23% pendant **3000**secondes. Quand **Tigre d'albâtre** est équipé, accroît toutes les attaques de **12%**. Les effets du kit fonctionnent également dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR37_0"
 	},
 	"suit_SSR37_1": {
+		"twopc": "Accroît tous les dégâts élémentaires de 7%/**8%**/9%/10%. Utiliser Lames de givre inflige aux cibles proches des dégâts supplémentaires équivalant à **416%** de l'ATQ. Les effets du kit fonctionnent également dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Après avoir utilisé la compétence de décharge d'une arme de givre, accroît les dégâts finaux de 12%/**15%**/19%/23% pendant **3000**secondes. Quand **Tigre d'albâtre** est équipé, accroît toutes les attaques de **12%**. Les effets du kit fonctionnent également dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR37_1"
 	},
 	"suit_SSR37_2": {
+		"twopc": "Accroît tous les dégâts élémentaires de 7%/8%/**9%**/10%. Utiliser Lames de givre inflige aux cibles proches des dégâts supplémentaires équivalant à **416%** de l'ATQ. Les effets du kit fonctionnent également dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Après avoir utilisé la compétence de décharge d'une arme de givre, accroît les dégâts finaux de 12%/15%/**19%**/23% pendant **3000**secondes. Quand **Tigre d'albâtre** est équipé, accroît toutes les attaques de **12%**. Les effets du kit fonctionnent également dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR37_2"
 	},
 	"suit_SSR37_3": {
+		"twopc": "Accroît tous les dégâts élémentaires de 7%/8%/9%/**10%**. Utiliser Lames de givre inflige aux cibles proches des dégâts supplémentaires équivalant à **416%** de l'ATQ. Les effets du kit fonctionnent également dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
+		"fourpc": "Après avoir utilisé la compétence de décharge d'une arme de givre, accroît les dégâts finaux de 12%/15%/19%/**23%** pendant **3000**secondes. Quand **Tigre d'albâtre** est équipé, accroît toutes les attaques de **12%**. Les effets du kit fonctionnent également dans l'emplacement main libre, et seul le kit avec le nombre d'étoiles le plus élevé fait effet.",
 		"id": "suit_SSR37_3"
 	}
 }

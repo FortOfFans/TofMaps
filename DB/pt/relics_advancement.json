@@ -914,7 +914,7 @@
 		"id": "artifact_adv_042"
 	},
 	"1294": {
-		"description": "Aumenta o dano causado por Coração Talássico em mais <shuzhi>5,5%</>.",
+		"description": "Aumenta o dano causado a alvos atingidos por Coração Talássico em mais <shuzhi>5,5%</>.",
 		"id": "artifact_adv_042"
 	},
 	"1295": {
@@ -962,7 +962,7 @@
 		"id": "artifact_adv_043"
 	},
 	"1306": {
-		"description": "Durante zéfiro, cada golpe dos ataques aéreos restauram tentativas de esquiva e esquivas aéreas restauram todo o vigor.",
+		"description": "Durante zéfiro, cada golpe dos ataques aéreos recupera tentativas de esquiva e esquivas aéreas recuperam todo o vigor.",
 		"id": "artifact_adv_043"
 	},
 	"1307": {
@@ -970,7 +970,7 @@
 		"id": "artifact_adv_044"
 	},
 	"1308": {
-		"description": "Confère <shuzhi>1</>/<shuzhi>3</> cumuls de Partie de plaisir chaque fois que vous tirez des petites et grosses bulles. Chaque cumul accroît les dégâts infligés par l'Explorateur de <shuzhi>1,8%</> pendant <shuzhi>60</> secondes. Cumulable jusqu'à <shuzhi>5</> fois.",
+		"description": "Receba <shuzhi>1</>/<shuzhi>3</> acúmulos de momento feliz após disparar, respectivamente, bolhinhas e superbolhas. Cada acúmulo aumenta o dano causado por você em <shuzhi>1,8%</> durante <shuzhi>60</> segundos. Acumula até <shuzhi>5</> vezes.",
 		"id": "artifact_adv_044"
 	},
 	"1309": {
@@ -982,19 +982,19 @@
 		"id": "artifact_adv_044"
 	},
 	"1311": {
-		"description": "Accroît le bonus de dégâts de Partie de plaisir de <shuzhi>0,6%</> par cumul.",
+		"description": "Cada acúmulo aumenta o reforço de dano de momento feliz em <shuzhi>0,6%</>.",
 		"id": "artifact_adv_044"
 	},
 	"1312": {
-		"description": "111 111",
+		"description": "Desbloqueia Máscara do Caçador. Selecione ao usar a Máscara Tripla e confirme novamente para pôr. Usando a Máscara do Caçador, você pode ver, no mapa, a localização dos inimigos de conquista de elite do Domínio 9.",
 		"id": "artifact_adv_045"
 	},
 	"1313": {
-		"description": "111 111",
+		"description": "Usando a Máscara Tripla, a velocidade aumenta em <shuzhi>8%</> e o dano elemental aumenta em <shuzhi>8%</>.",
 		"id": "artifact_adv_045"
 	},
 	"1314": {
-		"description": "111 111",
+		"description": "Desbloqueia Máscara do Conhecimento. Usando a Máscara do Conhecimento, se houver um baú não aberto por perto, você vai receber um aviso e orientação até ele.",
 		"id": "artifact_adv_045"
 	},
 	"1315": {
@@ -1002,7 +1002,7 @@
 		"id": "artifact_adv_045"
 	},
 	"1316": {
-		"description": "111 111",
+		"description": "Usando a Máscara Tripla, o dano elemental aumenta em mais <shuzhi>8%</>.",
 		"id": "artifact_adv_045"
 	}
 }

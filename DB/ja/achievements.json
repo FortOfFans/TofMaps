@@ -249,7 +249,7 @@
 		"darkCrystals": 20
 	},
 	"105006": {
-		"name": "キラキラ装備",
+		"name": "キラキラした装備",
 		"amount": 1,
 		"description": "SSRアルケーを1種類所有",
 		"icon": "icon_dengji_001",
@@ -6068,6 +6068,35 @@
 		"achievementPoints": 15,
 		"darkCrystals": 10
 	},
+	"402221": {
+		"name": "竹の子不足",
+		"amount": 25,
+		"description": "竹の子を25個採集",
+		"icon": "icon_shenghuo_001",
+		"section": "Kehidupan",
+		"section2": "Plant",
+		"achievementPoints": 5
+	},
+	"402222": {
+		"name": "竹の子豊富",
+		"amount": 50,
+		"description": "竹の子を50個採集",
+		"icon": "icon_shenghuo_001",
+		"section": "Kehidupan",
+		"section2": "Plant",
+		"achievementPoints": 10,
+		"darkCrystals": 5
+	},
+	"402223": {
+		"name": "竹の子余剰",
+		"amount": 100,
+		"description": "竹の子を100個採集",
+		"icon": "icon_shenghuo_001",
+		"section": "Kehidupan",
+		"section2": "Plant",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
 	"403001": {
 		"name": "四次元の食事量",
 		"amount": 30,
@@ -7682,6 +7711,24 @@
 		"section2": "ミラポリスのソムリエ",
 		"achievementPoints": 5
 	},
+	"712317": {
+		"name": "「ナイチンゲールの心」を初めて飲む",
+		"amount": 1,
+		"description": "ナイチンゲールの心\r\nを1回飲む",
+		"icon": "icon_shenghuo_001",
+		"section": "Kehidupan",
+		"section2": "ミラポリスのソムリエ",
+		"achievementPoints": 5
+	},
+	"712318": {
+		"name": "「異国の友」を初めて飲む",
+		"amount": 1,
+		"description": "異国の友\r\nを1回飲む",
+		"icon": "icon_shenghuo_001",
+		"section": "Kehidupan",
+		"section2": "ミラポリスのソムリエ",
+		"achievementPoints": 5
+	},
 	"720001": {
 		"name": "ブルーエンゼル★",
 		"amount": 1,
@@ -8181,6 +8228,374 @@
 		"xR1a": 5,
 		"xR2": "JiuYu_Gashapon_coin_1",
 		"xR2a": 2
+	},
+	"904000": {
+		"name": "負岳-峻峰",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n雷州関所の上にて\r\n負岳-峻峰を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904001": {
+		"name": "負岳-峻晶",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n龍隠基地の底にある池にて\r\n負岳-峻晶を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904002": {
+		"name": "負岳-峻牙",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n臥虎洞の底にて\r\n負岳-峻牙を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904003": {
+		"name": "負岳-峻柱",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n紫峰谷の入り口にて\r\n負岳-峻柱を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904004": {
+		"name": "負岳-峻胄",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n臥虎洞の中層にて\r\n負岳-峻胄を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904005": {
+		"name": "負岳-峻坎",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n臥虎洞の中層にて\r\n負岳-峻坎を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904006": {
+		"name": "山神-猛虎",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n龍門瀑布の底にて\r\n山神-猛虎を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904007": {
+		"name": "山神-赤額",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n望風営地の南側にて\r\n山神-赤額を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904008": {
+		"name": "山神-窮奇",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n雷州・龍淵の北西側上層にて\r\n山神-窮奇を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904009": {
+		"name": "魍魎-麒麟",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n望風営地の西側にて\r\n魍魎-麒麟を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904010": {
+		"name": "魍魎-掣獣",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n玉翠園の南東側にて\r\n魍魎-掣獣を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904011": {
+		"name": "牛鬼-火牛",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n乗風営地の西側にて\r\n牛鬼-火牛を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904012": {
+		"name": "牛鬼-灰牛",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n金雷子刻の下にて\r\n牛鬼-灰牛を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904013": {
+		"name": "牛鬼-明牛",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n忘塵園の上層にて\r\n牛鬼-明牛を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904014": {
+		"name": "侍従-黛花",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n乗風営地の北側の戦場にて\r\n侍従-黛花を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904015": {
+		"name": "雷鬼-鳴蛙",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n清竹苑の南側にて\r\n雷鬼-鳴蛙を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904016": {
+		"name": "幽蛍-仇讐",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n臥虎洞の底にて\r\n幽蛍-仇讐を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904017": {
+		"name": "瞑闇-饕餮",
+		"amount": 1,
+		"description": "臥虎洞の\r\n瞑闇-饕餮を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "ボス",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"904020": {
+		"name": "沢鬼-鳴决",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n聚散基地の南側にて\r\n沢鬼-鳴决を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904021": {
+		"name": "瞑闇-酷僚",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n層林道の西側にて\r\n瞑闇-酷僚を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904022": {
+		"name": "藍輝-黛狐",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Splendor: Umber Fox\r\nLokasi: Sisi Timur Laut Kuil Nirmala Kahyangan",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904023": {
+		"name": "幽蘭-青丘狐",
+		"amount": 1,
+		"description": "Level Dimensi mencapai Lv. 100 atau lebih tinggi\r\nKalahkan Secluded: Greenhill Fox\r\nLokasi: Sisi Barat Kuil Nirmala Kahyangan",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904024": {
+		"name": "闇鬼-凌凍",
+		"amount": 1,
+		"description": "ワールドレベル100以上で\r\n聚散基地の正門にて\r\n闇鬼-凌凍を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "モンスター",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904025": {
+		"name": "瞑闇-刑天",
+		"amount": 1,
+		"description": "聚散基地にて\r\n瞑闇-刑天を撃破",
+		"icon": "icon_zhandou_001",
+		"section": "戦闘",
+		"section2": "ボス",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"920000": {
+		"name": "青龍の加護・壱",
+		"amount": 6,
+		"description": "青龍神像を初めてLv.6にレベルアップ",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920001": {
+		"name": "青龍の加護・弍",
+		"amount": 2,
+		"description": "2体の青龍神像をLv.6にレベルアップ",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920002": {
+		"name": "青龍の加護・参",
+		"amount": 3,
+		"description": "3体の青龍神像をLv.6にレベルアップ",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920003": {
+		"name": "青龍の加護・肆",
+		"amount": 4,
+		"description": "4体の青龍神像をLv.6にレベルアップ",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920004": {
+		"name": "青龍の加護・伍",
+		"amount": 5,
+		"description": "5体の青龍神像をLv.6にレベルアップ",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920005": {
+		"name": "青龍の加護・陸",
+		"amount": 6,
+		"description": "6体の青龍神像をLv.6にレベルアップ",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920006": {
+		"name": "青龍の加護・漆",
+		"amount": 7,
+		"description": "7体の青龍神像をLv.6にレベルアップ",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920014": {
+		"name": "白虎の加護・壱",
+		"amount": 6,
+		"description": "白虎神像を初めてLv.6にレベルアップ",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920015": {
+		"name": "白虎の加護・弍",
+		"amount": 2,
+		"description": "2体の白虎神像をLv.6にレベルアップ",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920016": {
+		"name": "白虎の加護・参",
+		"amount": 3,
+		"description": "3体の白虎神像をLv.6にレベルアップ",
+		"icon": "icon_tansuo_001",
+		"section": "Eksplorasi",
+		"section2": "Patung Dewa",
+		"achievementPoints": 15,
+		"darkCrystals": 10
 	},
 	"9030001": {
 		"name": "Judge: Crackle",

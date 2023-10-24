@@ -6,6 +6,30 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f27_lanmaozi",
 		"id": "fashion_dress_27"
 	},
+	"fashion_dress_58": {
+		"name": "Parure de soie",
+		"description": "Des marionnettes en forme de citrouille hurlent au cœur d'une mascarade survoltée. À porter pour briller sous les feux de la rampe ou pour disparaître dans les ténèbres, en ne laissant derrière soi qu'une traînée pourpre et une brise emplie de murmures.",
+		"type": "Dress",
+		"source": "S'obtient lors de l'événement Parure de soie",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"id": "fashion_dress_58"
+	},
+	"fashion_dress_55": {
+		"name": "Murmures de brise marine",
+		"description": "Dans l'accablante chaleur estivale, alors qu'on se promène sur la plage, un léger voile ondulant apporte les vibrations de l'été.",
+		"type": "Dress",
+		"source": "S'obtient lors de l'événement Murmures de brise marine",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f66",
+		"id": "fashion_dress_55"
+	},
+	"fashion_dress_56": {
+		"name": "Jeu spatio-temporel",
+		"description": "Donnez-moi un seul jeton de jeu et je vous emmènerai pour une longue journée d'aventure !",
+		"type": "Dress",
+		"source": "Obtenir le pass",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56",
+		"id": "fashion_dress_56"
+	},
 	"fashion_dress_54": {
 		"name": "Saut dimensionnel",
 		"description": "Un nouveau monde est là et une aventure fantastique inédite commence !",
@@ -273,7 +297,7 @@
 	},
 	"fashion_dress_10": {
 		"name": "Dernier combat",
-		"description": "Conçu pour les aventuriers privilégiant la mobilité, cette tenue fait entièrement l'impasse sur les aspects de protection.",
+		"description": "Conçue pour les aventuriers privilégiant la mobilité, cette tenue fait entièrement l'impasse sur les aspects de protection.",
 		"type": "Dress",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f02",
 		"id": "fashion_dress_10"
@@ -306,6 +330,7 @@
 		"name": "Au milieu de la foule",
 		"description": "En regardant sans faire exprès, j'ai remarqué que vous sortiez du lot.",
 		"type": "Dress",
+		"source": "S'obtient dans la phase 10 du pass.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f53",
 		"id": "fashion_dress_52"
 	},
@@ -817,6 +842,36 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_131",
 		"id": "fashion_decoration_83"
 	},
+	"fashion_decoration_86": {
+		"name": "Anneau de la gourmandise",
+		"description": "Un accessoire créé à partir de l'armure de Taotie. Se porte par adsorption électromagnétique.",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_137",
+		"id": "fashion_decoration_86"
+	},
+	"fashion_decoration_87": {
+		"name": "Plage d'argent",
+		"description": "C'est bien beau le soleil, mais il faut faire attention à se protéger les yeux des rayons UV.",
+		"type": "Headwear",
+		"source": "À partir des événements",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_decoration_87_female",
+		"id": "fashion_decoration_87"
+	},
+	"fashion_decoration_88": {
+		"name": "Anneau de l'illumination",
+		"description": "Cette distinction décernée par Hykros récompense officiellement les mentors de diamant ayant fourni le plus d'aide aux novices !",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88",
+		"id": "fashion_decoration_88"
+	},
+	"fashion_decoration_91": {
+		"name": "Petit diable",
+		"description": "Méfiez-vous des petits diables qui rôdent dans les ténèbres. Attention à votre cou !",
+		"type": "Headwear",
+		"source": "À partir des événements",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+		"id": "fashion_decoration_91"
+	},
 	"fashion_weapon_1": {
 		"name": "Grande épée",
 		"description": "Grande épée",
@@ -1016,6 +1071,75 @@
 		"source": "À récupérer dans l'événement Opération",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",
 		"id": "fashion_Guidenpc_mia_oversea_1"
+	},
+	"fashion_medal_0": {
+		"name": "Aucun",
+		"type": "Medal",
+		"icon": "None",
+		"id": "fashion_medal_0"
+	},
+	"fashion_medal_1": {
+		"name": "Étoile du Fantasme révolu",
+		"description": "Une médaille commémorative en diamant dont le centre est frappé de l'emblème du Fantasme révolu. Une récompense réservée au joueur classé premier lors d'une saison de Fantasme révolu.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Diamond",
+		"id": "fashion_medal_1"
+	},
+	"fashion_medal_2": {
+		"name": "Médaille d'or du Fantasme",
+		"description": "Une médaille commémorative en or pur dont le centre est frappé de l'emblème du Fantasme révolu. Une récompense réservée au joueur classé deuxième lors d'une saison de Fantasme révolu.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Gold",
+		"id": "fashion_medal_2"
+	},
+	"fashion_medal_3": {
+		"name": "Médaille d'argent du Fantasme",
+		"description": "Une médaille commémorative en argent fin dont le centre est frappé de l'emblème du Fantasme révolu. Une récompense réservée au joueur classé troisième lors d'une saison de Fantasme révolu.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Silver",
+		"id": "fashion_medal_3"
+	},
+	"fashion_medal_4": {
+		"name": "Étoile du mentor illuminé",
+		"description": "Ses décorations stellaires brillantes, symbole du statut de mentor de diamant, servent de distinction pour l'aide apportée aux autres.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond",
+		"id": "fashion_medal_4"
+	},
+	"fashion_medal_5": {
+		"name": "Étoile du mentor éclairé",
+		"description": "Ses décorations stellaires dorées éclatantes, symbole du statut de mentor d'or, servent de distinction pour l'aide apportée aux autres.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold",
+		"id": "fashion_medal_5"
+	},
+	"fashion_medal_6": {
+		"name": "Étoile du mentor splendide",
+		"description": "Ses décorations stellaires argentées chatoyantes, symbole du statut de mentor d'argent, servent de distinction pour l'aide apportée aux autres.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver",
+		"id": "fashion_medal_6"
+	},
+	"fashion_medal_7": {
+		"name": "Étoile de l'Origine de la guerre",
+		"description": "Une médaille commémorative en diamant dont le centre est frappé de l'emblème de l'Origine de la guerre. Une récompense réservée au joueur classé premier lors d'une saison d'Origine de la guerre.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Diamond",
+		"id": "fashion_medal_7"
+	},
+	"fashion_medal_8": {
+		"name": "Médaille d'or de l'Origine",
+		"description": "Une médaille commémorative en or pur dont le centre est frappé de l'emblème de l'Origine de la guerre. Une récompense réservée au joueur classé deuxième lors d'une saison d'Origine de la guerre.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Gold",
+		"id": "fashion_medal_8"
+	},
+	"fashion_medal_9": {
+		"name": "Médaille d'argent de l'Origine",
+		"description": "Une médaille commémorative en argent fin dont le centre est frappé de l'emblème de l'Origine de la guerre. Une récompense réservée au joueur classé troisième lors d'une saison d'Origine de la guerre.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Silver",
+		"id": "fashion_medal_9"
 	},
 	"fashion_Guidenpc_mia_10": {
 		"name": "Mi-a Renne",

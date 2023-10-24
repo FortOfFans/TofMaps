@@ -6,6 +6,30 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f27_lanmaozi",
 		"id": "fashion_dress_27"
 	},
+	"fashion_dress_58": {
+		"name": "Шелковый наряд",
+		"description": "Тыквы с раззявленными пастями веселятся на шумном маскараде. Наденьте этот наряд и блистайте на сцене — или скройтесь в тенях, оставив за собой лишь алый след и дуновение ветерка.",
+		"type": "Dress",
+		"source": "Можно получить в событии «Шелковый наряд»",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"id": "fashion_dress_58"
+	},
+	"fashion_dress_55": {
+		"name": "Шепот морского бриза",
+		"description": "Горячий песок под ногами, легкий шифон, трепещущий на ветру... Лето в самом разгаре!",
+		"type": "Dress",
+		"source": "Можно получить в событии «Шепот морского бриза»",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f66",
+		"id": "fashion_dress_55"
+	},
+	"fashion_dress_56": {
+		"name": "Игра со временем",
+		"description": "Дайте мне лишь один игровой жетон, и мы отправимся в путешествие на целый день!",
+		"type": "Dress",
+		"source": "Получить пропуск",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56",
+		"id": "fashion_dress_56"
+	},
 	"fashion_dress_54": {
 		"name": "Межпространственный скачок",
 		"description": "Вперед, в новый мир! Начинается новое фантастическое путешествие!",
@@ -306,6 +330,7 @@
 		"name": "Взгляд в толпе",
 		"description": "Случайный поворот головы — и мой взгляд безошибочно находит тебя в толпе.",
 		"type": "Dress",
+		"source": "Можно получить из десятой фазы пропуска.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f53",
 		"id": "fashion_dress_52"
 	},
@@ -817,6 +842,36 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_131",
 		"id": "fashion_decoration_83"
 	},
+	"fashion_decoration_86": {
+		"name": "Кольцо обжорства",
+		"description": "Аксессуар из брони Таоте. Крепится с помощью электромагнитной адсорбции.",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_137",
+		"id": "fashion_decoration_86"
+	},
+	"fashion_decoration_87": {
+		"name": "Серебристый пляж",
+		"description": "Солнце — это замечательно, но не когда оно слепит глаза.",
+		"type": "Headwear",
+		"source": "Из событий",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_decoration_87_female",
+		"id": "fashion_decoration_87"
+	},
+	"fashion_decoration_88": {
+		"name": "Кольцо просветления",
+		"description": "Почетная награда от Гикроса для Алмазных наставников, которые больше всего помогали новичкам!",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88",
+		"id": "fashion_decoration_88"
+	},
+	"fashion_decoration_91": {
+		"name": "Бесенок",
+		"description": "Близится ночь — берегитесь проказливых бесов!",
+		"type": "Headwear",
+		"source": "Из событий",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+		"id": "fashion_decoration_91"
+	},
 	"fashion_weapon_1": {
 		"name": "Двуручный меч",
 		"description": "Двуручный меч",
@@ -1018,6 +1073,75 @@
 		"source": "Получите в событии «Операция»",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",
 		"id": "fashion_Guidenpc_mia_oversea_1"
+	},
+	"fashion_medal_0": {
+		"name": "Снять всё",
+		"type": "Medal",
+		"icon": "None",
+		"id": "fashion_medal_0"
+	},
+	"fashion_medal_1": {
+		"name": "Звезда Фантома прошлого",
+		"description": "Памятная медаль с алмазами и эмблемой Фантома прошлого. Эта награда выдается только тем, кто занял первое место в одном из сезонов Фантома прошлого.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Diamond",
+		"id": "fashion_medal_1"
+	},
+	"fashion_medal_2": {
+		"name": "Золотая медаль Фантома прошлого",
+		"description": "Памятная медаль из чистого золота с эмблемой Фантома прошлого. Эта награда выдается только тем, кто занял второе место в одном из сезонов Фантома прошлого.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Gold",
+		"id": "fashion_medal_2"
+	},
+	"fashion_medal_3": {
+		"name": "Серебряная медаль Фантома прошлого",
+		"description": "Памятная медаль из чистого серебра с эмблемой Фантома прошлого. Эта награда выдается только тем, кто занял третье место в одном из сезонов Фантома прошлого.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Silver",
+		"id": "fashion_medal_3"
+	},
+	"fashion_medal_4": {
+		"name": "Звезда просветленного наставника",
+		"description": "Украшение с алмазными звездами символизирует статус Алмазного наставника. Это награда за помощь другим.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond",
+		"id": "fashion_medal_4"
+	},
+	"fashion_medal_5": {
+		"name": "Звезда превосходного наставника",
+		"description": "Украшение с золотыми звездами символизирует статус Золотого наставника. Это награда за помощь другим.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold",
+		"id": "fashion_medal_5"
+	},
+	"fashion_medal_6": {
+		"name": "Звезда прекрасного наставника",
+		"description": "Украшение с серебряными звездами символизирует статус Серебряного наставника. Это награда за помощь другим.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver",
+		"id": "fashion_medal_6"
+	},
+	"fashion_medal_7": {
+		"name": "Звезда Истоков войны",
+		"description": "Памятная медаль с алмазами и эмблемой Истоков войны. Эта награда выдается только тем, кто занял первое место в одном из сезонов Истоков войны.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Diamond",
+		"id": "fashion_medal_7"
+	},
+	"fashion_medal_8": {
+		"name": "Золотая медаль Истоков войны",
+		"description": "Памятная медаль из чистого золота с эмблемой Истоков войны. Эта награда выдается только тем, кто занял второе место в одном из сезонов Истоков войны.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Gold",
+		"id": "fashion_medal_8"
+	},
+	"fashion_medal_9": {
+		"name": "Серебряная медаль Истоков войны",
+		"description": "Памятная медаль из чистого серебра, с эмблемой Истоков войны. Эта награда выдается только тем, кто занял третье место в одном из сезонов Истоков войны.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Silver",
+		"id": "fashion_medal_9"
 	},
 	"fashion_Guidenpc_mia_10": {
 		"name": "Ми-я «Олененок»",

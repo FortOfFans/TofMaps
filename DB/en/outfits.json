@@ -6,6 +6,30 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f27_lanmaozi",
 		"id": "fashion_dress_27"
 	},
+	"fashion_dress_58": {
+		"name": "Silken Adornment",
+		"description": "Screaming pumpkin puppets in a lively masquerade. Wear it to shine in the spotlight on the stage or vanish into the night, leaving behind only a trace of crimson and a whispering breeze.",
+		"type": "Dress",
+		"source": "Obtained from the Silken Adornment event",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"id": "fashion_dress_58"
+	},
+	"fashion_dress_55": {
+		"name": "Seabreeze Whispers",
+		"description": "In the scorching summer heat, strolling on the beach, the swaying veil brings the midsummer vibes.",
+		"type": "Dress",
+		"source": "Obtained from the Seabreeze Whispers event",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f66",
+		"id": "fashion_dress_55"
+	},
+	"fashion_dress_56": {
+		"name": "Play in Time",
+		"description": "Hand me just one game token, and I'll take you on a day-long adventure!",
+		"type": "Dress",
+		"source": "Obtain Pass",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56",
+		"id": "fashion_dress_56"
+	},
 	"fashion_dress_54": {
 		"name": "Dimensional Leap",
 		"description": "Onward to a new world, and a new fantasy journey begins!",
@@ -273,7 +297,7 @@
 	},
 	"fashion_dress_10": {
 		"name": "Last Stand",
-		"description": "Geared towards mobility-minded adventurers, this outfit completely abandons any protective design considerations.",
+		"description": "Geared toward mobility-minded adventurers, this outfit completely abandons any protective design considerations.",
 		"type": "Dress",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f02",
 		"id": "fashion_dress_10"
@@ -306,6 +330,7 @@
 		"name": "Searching in the Crowd",
 		"description": "Looking back inadvertently, I noticed that you stood out among the crowd.",
 		"type": "Dress",
+		"source": "Obtained from phase 10 of the Pass.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f53",
 		"id": "fashion_dress_52"
 	},
@@ -817,6 +842,36 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_131",
 		"id": "fashion_decoration_83"
 	},
+	"fashion_decoration_86": {
+		"name": "Ring of Gluttony",
+		"description": "An accessory made out of Taotie's armor. Wear it by electromagnetic adsorption.",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_137",
+		"id": "fashion_decoration_86"
+	},
+	"fashion_decoration_87": {
+		"name": "Silver Beach",
+		"description": "Summer sun is great, but you should keep those UV rays out of your eyes somehow.",
+		"type": "Headwear",
+		"source": "From events",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_decoration_87_female",
+		"id": "fashion_decoration_87"
+	},
+	"fashion_decoration_88": {
+		"name": "Ring of Enlightenment",
+		"description": "An honor from Hykros, it recognizes the Diamond Mentors who have provided the most assistance to novices!",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88",
+		"id": "fashion_decoration_88"
+	},
+	"fashion_decoration_91": {
+		"name": "Tiny Devil",
+		"description": "Beware of the tiny devils lurking in the night. Watch your neck!",
+		"type": "Headwear",
+		"source": "From events",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+		"id": "fashion_decoration_91"
+	},
 	"fashion_weapon_1": {
 		"name": "Greatsword",
 		"description": "Greatsword",
@@ -1016,6 +1071,75 @@
 		"source": "Claim at the Operation Event",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",
 		"id": "fashion_Guidenpc_mia_oversea_1"
+	},
+	"fashion_medal_0": {
+		"name": "Undecorated",
+		"type": "Medal",
+		"icon": "None",
+		"id": "fashion_medal_0"
+	},
+	"fashion_medal_1": {
+		"name": "Bygone Phantasm Star",
+		"description": "A Commemorative Medal made of Diamonds, with the emblem of Bygone Phantasm in the middle. A reward exclusively for the first place player in a single Bygone Phantasm season.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Diamond",
+		"id": "fashion_medal_1"
+	},
+	"fashion_medal_2": {
+		"name": "Gold Phantasm Medal",
+		"description": "A Commemorative Medal made of pure gold, with the emblem of Bygone Phantasm in the middle. A reward exclusively for the second place player in a single Bygone Phantasm season.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Gold",
+		"id": "fashion_medal_2"
+	},
+	"fashion_medal_3": {
+		"name": "Silver Phantasm Medal",
+		"description": "A Commemorative Medal made of fine silver, with the emblem of Bygone Phantasm in the middle. A reward exclusively for the third place player in a single Bygone Phantasm season.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Silver",
+		"id": "fashion_medal_3"
+	},
+	"fashion_medal_4": {
+		"name": "Star of Enlightened Mentor",
+		"description": "Its brilliant starry decorations, a symbol of the Diamond Mentor's status, serve as an accolade for their assistance to others.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond",
+		"id": "fashion_medal_4"
+	},
+	"fashion_medal_5": {
+		"name": "Star of Bright Mentor",
+		"description": "Its shiny golden starry decorations, a symbol of the Gold Mentor's status, serve as an accolade for their assistance to others.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold",
+		"id": "fashion_medal_5"
+	},
+	"fashion_medal_6": {
+		"name": "Star of Splendid Mentor",
+		"description": "Its shimmering silver starry decorations, a symbol of the Silver Mentor's status, serve as an accolade for their assistance to others.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver",
+		"id": "fashion_medal_6"
+	},
+	"fashion_medal_7": {
+		"name": "Origin of War Star",
+		"description": "A Commemorative Medal made of Diamonds, with the emblem of Origin of War in the middle. A reward exclusively for the first place player in a single Origin of War season.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Diamond",
+		"id": "fashion_medal_7"
+	},
+	"fashion_medal_8": {
+		"name": "Gold Origin Medal",
+		"description": "A Commemorative Medal made of pure gold, with the emblem of Origin of War in the middle. A reward exclusively for the second place player in a single Origin of War season.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Gold",
+		"id": "fashion_medal_8"
+	},
+	"fashion_medal_9": {
+		"name": "Silver Origin Medal",
+		"description": "A Commemorative Medal made of fine silver, with the emblem of Origin of War in the middle. A reward exclusively for the third place player in a single Origin of War season.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Silver",
+		"id": "fashion_medal_9"
 	},
 	"fashion_Guidenpc_mia_10": {
 		"name": "Reindeer Mi-a",

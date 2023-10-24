@@ -349,22 +349,22 @@
 	},
 	"suit_SSR26_0": {
 		"twopc": "Equipar esta Matriz na arma atual aumenta o dano crítico em **13%**/16%/19%/23% e o despedaçar em **13%**/16%/19%/23%.",
-		"fourpc": "Equipar 2 ou mais armas de elementos ou tipos diferentes aumenta todos os danos elementais em **10%**/12%/14%/16%. O efeito também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Equipar 2 ou mais armas de elementos ou tipos diferentes aumenta o dano de todos os elementos em **10%**/12%/14%/16%. O efeito também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR26_0"
 	},
 	"suit_SSR26_1": {
 		"twopc": "Equipar esta Matriz na arma atual aumenta o dano crítico em 13%/**16%**/19%/23% e o despedaçar em 13%/**16%**/19%/23%.",
-		"fourpc": "Equipar 2 ou mais armas de elementos ou tipos diferentes aumenta todos os danos elementais em 10%/**12%**/14%/16%. O efeito também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Equipar 2 ou mais armas de elementos ou tipos diferentes aumenta o dano de todos os elementos em 10%/**12%**/14%/16%. O efeito também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR26_1"
 	},
 	"suit_SSR26_2": {
 		"twopc": "Equipar esta Matriz na arma atual aumenta o dano crítico em 13%/16%/**19%**/23% e o despedaçar em 13%/16%/**19%**/23%.",
-		"fourpc": "Equipar 2 ou mais armas de elementos ou tipos diferentes aumenta todos os danos elementais em 10%/12%/**14%**/16%. O efeito também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Equipar 2 ou mais armas de elementos ou tipos diferentes aumenta o dano de todos os elementos em 10%/12%/**14%**/16%. O efeito também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR26_2"
 	},
 	"suit_SSR26_3": {
 		"twopc": "Equipar esta Matriz na arma atual aumenta o dano crítico em 13%/16%/19%/**23%** e o despedaçar em 13%/16%/19%/**23%**.",
-		"fourpc": "Equipar 2 ou mais armas de elementos ou tipos diferentes aumenta todos os danos elementais em 10%/12%/14%/**16%**. O efeito também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Equipar 2 ou mais armas de elementos ou tipos diferentes aumenta o dano de todos os elementos em 10%/12%/14%/**16%**. O efeito também se ativa no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR26_3"
 	},
 	"suit_SSR27_0": {
@@ -388,23 +388,23 @@
 		"id": "suit_SSR27_3"
 	},
 	"suit_SSR28_0": {
-		"twopc": "Equipar a Preciosa, **2** ou mais armas de elementos diferentes ou **2** ou mais tipos de arma aumenta todos os danos elementais em **8%**/9%/10%/11%. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Ao causar dano gélido, aumenta todos os danos elementais em **13%**/16%/19%/22% durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Equipar a Preciosa, **2** ou mais armas de elementos diferentes ou **2** ou mais tipos de arma aumenta o dano de todos os elementos em **8%**/9%/10%/11%. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Ao causar dano gélido, aumenta o dano de todos os elementos em **13%**/16%/19%/22% durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR28_0"
 	},
 	"suit_SSR28_1": {
-		"twopc": "Equipar a Preciosa, **2** ou mais armas de elementos diferentes ou **2** ou mais tipos de arma aumenta todos os danos elementais em 8%/**9%**/10%/11%. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Ao causar dano gélido, aumenta todos os danos elementais em 13%/**16%**/19%/22% durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Equipar a Preciosa, **2** ou mais armas de elementos diferentes ou **2** ou mais tipos de arma aumenta o dano de todos os elementos em 8%/**9%**/10%/11%. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Ao causar dano gélido, aumenta o dano de todos os elementos em 13%/**16%**/19%/22% durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR28_1"
 	},
 	"suit_SSR28_2": {
-		"twopc": "Equipar a Preciosa, **2** ou mais armas de elementos diferentes ou **2** ou mais tipos de arma aumenta todos os danos elementais em 8%/9%/**10%**/11%. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Ao causar dano gélido, aumenta todos os danos elementais em 13%/16%/**19%**/22% durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Equipar a Preciosa, **2** ou mais armas de elementos diferentes ou **2** ou mais tipos de arma aumenta o dano de todos os elementos em 8%/9%/**10%**/11%. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Ao causar dano gélido, aumenta o dano de todos os elementos em 13%/16%/**19%**/22% durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR28_2"
 	},
 	"suit_SSR28_3": {
-		"twopc": "Equipar a Preciosa, **2** ou mais armas de elementos diferentes ou **2** ou mais tipos de arma aumenta todos os danos elementais em 8%/9%/10%/**11%**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Ao causar dano gélido, aumenta todos os danos elementais em 13%/16%/19%/**22%** durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Equipar a Preciosa, **2** ou mais armas de elementos diferentes ou **2** ou mais tipos de arma aumenta o dano de todos os elementos em 8%/9%/10%/**11%**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Ao causar dano gélido, aumenta o dano de todos os elementos em 13%/16%/19%/**22%** durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR28_3"
 	},
 	"suit_SSR29_0": {
@@ -448,22 +448,22 @@
 		"id": "suit_SSR3_3"
 	},
 	"suit_SSR30_0": {
-		"twopc": "Aumenta o dano de todos os elementos em **8%**/9%/10%/11% quando há pelo menos 1 arma física equipada. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Com pelo menos uma arma física equipada, aumenta o dano de todos os elementos em **8%**/9%/10%/11%. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"fourpc": "Aumenta o dano de todos os elementos em **13%**/16%/19%/22% após usar a habilidade ou a habilidade de descarga de qualquer arma física. Dura **25** segundos. O vigor consumido diminui em **40%** ao usar a **Minifuracão**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR30_0"
 	},
 	"suit_SSR30_1": {
-		"twopc": "Aumenta o dano de todos os elementos em 8%/**9%**/10%/11% quando há pelo menos 1 arma física equipada. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Com pelo menos uma arma física equipada, aumenta o dano de todos os elementos em 8%/**9%**/10%/11%. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"fourpc": "Aumenta o dano de todos os elementos em 13%/**16%**/19%/22% após usar a habilidade ou a habilidade de descarga de qualquer arma física. Dura **25** segundos. O vigor consumido diminui em **40%** ao usar a **Minifuracão**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR30_1"
 	},
 	"suit_SSR30_2": {
-		"twopc": "Aumenta o dano de todos os elementos em 8%/9%/**10%**/11% quando há pelo menos 1 arma física equipada. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Com pelo menos uma arma física equipada, aumenta o dano de todos os elementos em 8%/9%/**10%**/11%. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"fourpc": "Aumenta o dano de todos os elementos em 13%/16%/**19%**/22% após usar a habilidade ou a habilidade de descarga de qualquer arma física. Dura **25** segundos. O vigor consumido diminui em **40%** ao usar a **Minifuracão**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR30_2"
 	},
 	"suit_SSR30_3": {
-		"twopc": "Aumenta o dano de todos os elementos em 8%/9%/10%/**11%** quando há pelo menos 1 arma física equipada. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Com pelo menos uma arma física equipada, aumenta o dano de todos os elementos em 8%/9%/10%/**11%**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"fourpc": "Aumenta o dano de todos os elementos em 13%/16%/19%/**22%** após usar a habilidade ou a habilidade de descarga de qualquer arma física. Dura **25** segundos. O vigor consumido diminui em **40%** ao usar a **Minifuracão**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR30_3"
 	},
@@ -489,42 +489,42 @@
 	},
 	"suit_SSR32_0": {
 		"twopc": "Aumenta o dano final em **9%**/10%/11%/12%. A quantidade de **penas de pardal** obtidas por esquivar-se ao usar **Cometa Pinheiro** aumenta para **20**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **uma** arma de fogo estiver equipada, aumenta todo dano elemental em **11%**/14%/17%/20%. Após usar **Omnidirecional**, aumenta o reforço de dano de todos os elementos em mais **7%**, que é reduzido gradualmente até **4%** durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Com pelo menos **uma** arma ígnea equipada, aumenta o dano de todos os elementos em **11%**/14%/17%/20%. Após usar **Omnidirecional**, aumenta o reforço de dano de todos os elementos em mais **7%**, que é reduzido gradualmente até **4%** durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR32_0"
 	},
 	"suit_SSR32_1": {
 		"twopc": "Aumenta o dano final em 9%/**10%**/11%/12%. A quantidade de **penas de pardal** obtidas por esquivar-se ao usar **Cometa Pinheiro** aumenta para **20**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **uma** arma de fogo estiver equipada, aumenta todo dano elemental em 11%/**14%**/17%/20%. Após usar **Omnidirecional**, aumenta o reforço de dano de todos os elementos em mais **7%**, que é reduzido gradualmente até **4%** durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Com pelo menos **uma** arma ígnea equipada, aumenta o dano de todos os elementos em 11%/**14%**/17%/20%. Após usar **Omnidirecional**, aumenta o reforço de dano de todos os elementos em mais **7%**, que é reduzido gradualmente até **4%** durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR32_1"
 	},
 	"suit_SSR32_2": {
 		"twopc": "Aumenta o dano final em 9%/10%/**11%**/12%. A quantidade de **penas de pardal** obtidas por esquivar-se ao usar **Cometa Pinheiro** aumenta para **20**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **uma** arma de fogo estiver equipada, aumenta todo dano elemental em 11%/14%/**17%**/20%. Após usar **Omnidirecional**, aumenta o reforço de dano de todos os elementos em mais **7%**, que é reduzido gradualmente até **4%** durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Com pelo menos **uma** arma ígnea equipada, aumenta o dano de todos os elementos em 11%/14%/**17%**/20%. Após usar **Omnidirecional**, aumenta o reforço de dano de todos os elementos em mais **7%**, que é reduzido gradualmente até **4%** durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR32_2"
 	},
 	"suit_SSR32_3": {
 		"twopc": "Aumenta o dano final em 9%/10%/11%/**12%**. A quantidade de **penas de pardal** obtidas por esquivar-se ao usar **Cometa Pinheiro** aumenta para **20**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **uma** arma de fogo estiver equipada, aumenta todo dano elemental em 11%/14%/17%/**20%**. Após usar **Omnidirecional**, aumenta o reforço de dano de todos os elementos em mais **7%**, que é reduzido gradualmente até **4%** durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Com pelo menos **uma** arma ígnea equipada, aumenta o dano de todos os elementos em 11%/14%/17%/**20%**. Após usar **Omnidirecional**, aumenta o reforço de dano de todos os elementos em mais **7%**, que é reduzido gradualmente até **4%** durante **2500** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR32_3"
 	},
 	"suit_SSR33_0": {
-		"twopc": "Ao equipar pelo menos **1** arma gélida, no estado de combate, causa dano igual a **85%** do ATQ a alvos próximos a cada segundo. Após usar qualquer habilidade de arma gélida ou habilidade de descarga, aumenta o dano final em **7%**/8%/9%/10% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Após **União** consumir **força interior** ou **espírito combatente**, aumenta o dano final em **6%** durante **1500** segundos, causando dano gélido e aumentando todos os danos elementais em **12%**/15%/19%/23% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Ao equipar pelo menos **1** arma gélida, no estado de combate, causa dano de **85%** do ATQ a alvos próximos a cada segundo. Após usar qualquer habilidade de arma gélida ou habilidade de descarga, aumenta o dano final em **7%**/8%/9%/10% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Após **União** consumir **força interior** ou **espírito combatente**, aumenta o dano final em **6%** durante **1500** segundos, causando dano gélido e aumentando o dano de todos os elementos em **12%**/15%/19%/23% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR33_0"
 	},
 	"suit_SSR33_1": {
-		"twopc": "Ao equipar pelo menos **1** arma gélida, no estado de combate, causa dano igual a **85%** do ATQ a alvos próximos a cada segundo. Após usar qualquer habilidade de arma gélida ou habilidade de descarga, aumenta o dano final em 7%/**8%**/9%/10% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Após **União** consumir **força interior** ou **espírito combatente**, aumenta o dano final em **6%** durante **1500** segundos, causando dano gélido e aumentando todos os danos elementais em 12%/**15%**/19%/23% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Ao equipar pelo menos **1** arma gélida, no estado de combate, causa dano de **85%** do ATQ a alvos próximos a cada segundo. Após usar qualquer habilidade de arma gélida ou habilidade de descarga, aumenta o dano final em 7%/**8%**/9%/10% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Após **União** consumir **força interior** ou **espírito combatente**, aumenta o dano final em **6%** durante **1500** segundos, causando dano gélido e aumentando o dano de todos os elementos em 12%/**15%**/19%/23% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR33_1"
 	},
 	"suit_SSR33_2": {
-		"twopc": "Ao equipar pelo menos **1** arma gélida, no estado de combate, causa dano igual a **85%** do ATQ a alvos próximos a cada segundo. Após usar qualquer habilidade de arma gélida ou habilidade de descarga, aumenta o dano final em 7%/8%/**9%**/10% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Após **União** consumir **força interior** ou **espírito combatente**, aumenta o dano final em **6%** durante **1500** segundos, causando dano gélido e aumentando todos os danos elementais em 12%/15%/**19%**/23% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Ao equipar pelo menos **1** arma gélida, no estado de combate, causa dano de **85%** do ATQ a alvos próximos a cada segundo. Após usar qualquer habilidade de arma gélida ou habilidade de descarga, aumenta o dano final em 7%/8%/**9%**/10% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Após **União** consumir **força interior** ou **espírito combatente**, aumenta o dano final em **6%** durante **1500** segundos, causando dano gélido e aumentando o dano de todos os elementos em 12%/15%/**19%**/23% durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR33_2"
 	},
 	"suit_SSR33_3": {
-		"twopc": "Ao equipar pelo menos **1** arma gélida, no estado de combate, causa dano igual a **85%** do ATQ a alvos próximos a cada segundo. Após usar qualquer habilidade de arma gélida ou habilidade de descarga, aumenta o dano final em 7%/8%/9%/**10%** durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Após **União** consumir **força interior** ou **espírito combatente**, aumenta o dano final em **6%** durante **1500** segundos, causando dano gélido e aumentando todos os danos elementais em 12%/15%/19%/**23%** durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Ao equipar pelo menos **1** arma gélida, no estado de combate, causa dano de **85%** do ATQ a alvos próximos a cada segundo. Após usar qualquer habilidade de arma gélida ou habilidade de descarga, aumenta o dano final em 7%/8%/9%/**10%** durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Após **União** consumir **força interior** ou **espírito combatente**, aumenta o dano final em **6%** durante **1500** segundos, causando dano gélido e aumentando o dano de todos os elementos em 12%/15%/19%/**23%** durante **3000** segundos. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR33_3"
 	},
 	"suit_SSR34_0": {
@@ -868,55 +868,63 @@
 		"id": "suit_SSR19_3"
 	},
 	"suit_SSR35_0": {
-		"twopc": "Aumenta o dano final em **7%**/8%/9%/10%. Aumenta o dano de habilidade em **15%** durante **3000** segundos após atingir um inimigo com a onda de choque da Azura. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **1** arma elétrica estiver equipada, aumenta todos os danos elementais em **14%**/17%/20%/23%. Aumenta o dano crítico em **6%** durante **3000** segundos após usar **Lua Azul**/**Dragão Ascendente**. O efeito deste conjunto funciona no espaço secundário, somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Aumenta o dano final em **7%**/8%/9%/10%. Aumenta o dano de habilidade em **15%** durante **3000** segundos após atingir um inimigo com a onda de choque de azura. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Com pelo menos **uma** arma elétrica equipada, aumenta o dano de todos os elementos em **14%**/17%/20%/23%. Aumenta o dano crítico em **6%** durante **3000** segundos após usar **Lua Azul**/**Dragão Ascendente**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR35_0"
 	},
 	"suit_SSR35_1": {
-		"twopc": "Aumenta o dano final em 7%/**8%**/9%/10%. Aumenta o dano de habilidade em **15%** durante **3000** segundos após atingir um inimigo com a onda de choque da Azura. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **1** arma elétrica estiver equipada, aumenta todos os danos elementais em 14%/**17%**/20%/23%. Aumenta o dano crítico em **6%** durante **3000** segundos após usar **Lua Azul**/**Dragão Ascendente**. O efeito deste conjunto funciona no espaço secundário, somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Aumenta o dano final em 7%/**8%**/9%/10%. Aumenta o dano de habilidade em **15%** durante **3000** segundos após atingir um inimigo com a onda de choque de azura. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Com pelo menos **uma** arma elétrica equipada, aumenta o dano de todos os elementos em 14%/**17%**/20%/23%. Aumenta o dano crítico em **6%** durante **3000** segundos após usar **Lua Azul**/**Dragão Ascendente**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR35_1"
 	},
 	"suit_SSR35_2": {
-		"twopc": "Aumenta o dano final em 7%/8%/**9%**/10%. Aumenta o dano de habilidade em **15%** durante **3000** segundos após atingir um inimigo com a onda de choque da Azura. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **1** arma elétrica estiver equipada, aumenta todos os danos elementais em 14%/17%/**20%**/23%. Aumenta o dano crítico em **6%** por **3000** segundos após usar **Lua Azul**/**Dragão Ascendente**. O efeito deste conjunto funciona no espaço secundário, somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Aumenta o dano final em 7%/8%/**9%**/10%. Aumenta o dano de habilidade em **15%** durante **3000** segundos após atingir um inimigo com a onda de choque de azura. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Com pelo menos **uma** arma elétrica equipada, aumenta o dano de todos os elementos em 14%/17%/**20%**/23%. Aumenta o dano crítico em **6%** durante **3000** segundos após usar **Lua Azul**/**Dragão Ascendente**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR35_2"
 	},
 	"suit_SSR35_3": {
-		"twopc": "Aumenta o dano final em 7%/8%/9%/**10%**. Aumenta o dano de habilidade em **15%** durante **3000** segundos após atingir um inimigo com a onda de choque da Azura. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **1** arma elétrica estiver equipada, aumenta todos os danos elementais em 14%/17%/20%/**23%**. Aumenta o dano crítico em **6%** durante **3000** segundos após usar **Lua Azul**/**Dragão Ascendente**. O efeito deste conjunto funciona no espaço secundário, somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Aumenta o dano final em 7%/8%/9%/**10%**. Aumenta o dano de habilidade em **15%** durante **3000** segundos após atingir um inimigo com a onda de choque de azura. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Com pelo menos **uma** arma elétrica equipada, aumenta o dano de todos os elementos em 14%/17%/20%/**23%**. Aumenta o dano crítico em **6%** durante **3000** segundos após usar **Lua Azul**/**Dragão Ascendente**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR35_3"
 	},
 	"suit_SSR36_0": {
-		"twopc": "Aumenta todos os ataques em **18%**/22%/26%/30% durante **3000** segundos após usar a habilidade ou a habilidade de descarga de qualquer arma ígnea. O efeito deste conjunto funciona no espaço secundário, e somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **1** arma ígnea estiver equipada, aumenta todos os danos elementais em **28%**/32%/36%/40%. Aumenta o dano final em **20%** durante **2500** segundos após acionar a Phantasia de Fei Se. O efeito deste conjunto funciona no espaço secundário, somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Aumenta todos os ataques em **14%**/16%/18%/20% durante **3000** segundos após usar a habilidade ou a habilidade de descarga de qualquer arma ígnea. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Quando pelo menos **1** arma ígnea estiver equipada, aumenta o dano de todos os elementos em **14%**/17%/20%/23%. Além disso, aumenta o dano final em **9%** durante **2500** segundos após criar a Phantasia de Fei Se. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR36_0"
 	},
 	"suit_SSR36_1": {
-		"twopc": "Aumenta todos os ataques em 18%/**22%**/26%/30% durante **3000** segundos após usar a habilidade ou a habilidade de descarga de qualquer arma ígnea. O efeito deste conjunto funciona no espaço secundário, e somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **1** arma ígnea estiver equipada, aumenta todos os danos elementais em 28%/**32%**/36%/40%. Aumenta o dano final em **20%** durante **2500** segundos após acionar a Phantasia de Fei Se. O efeito deste conjunto funciona no espaço secundário, somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Aumenta todos os ataques em 14%/**16%**/18%/20% durante **3000** segundos após usar a habilidade ou a habilidade de descarga de qualquer arma ígnea. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Quando pelo menos **1** arma ígnea estiver equipada, aumenta o dano de todos os elementos em 14%/**17%**/20%/23%. Além disso, aumenta o dano final em **9%** durante **2500** segundos após criar a Phantasia de Fei Se. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR36_1"
 	},
 	"suit_SSR36_2": {
-		"twopc": "Aumenta todos os ataques em 18%/22%/**26%**/30% durante **3000** segundos após usar a habilidade ou a habilidade de descarga de qualquer arma ígnea. O efeito deste conjunto funciona no espaço secundário, e somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **1** arma ígnea estiver equipada, aumenta todos os danos elementais em 28%/32%/**36%**/40%. Aumenta o dano final em **20%** durante **2500** segundos após acionar a Phantasia de Fei Se. O efeito deste conjunto funciona no espaço secundário, somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Aumenta todos os ataques em 14%/16%/**18%**/20% durante **3000** segundos após usar a habilidade ou a habilidade de descarga de qualquer arma ígnea. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Quando pelo menos **1** arma ígnea estiver equipada, aumenta o dano de todos os elementos em 14%/17%/**20%**/23%. Além disso, aumenta o dano final em **9%** durante **2500** segundos após criar a Phantasia de Fei Se. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR36_2"
 	},
 	"suit_SSR36_3": {
-		"twopc": "Aumenta todos os ataques em 18%/22%/26%/**30%** durante **3000** segundos após usar a habilidade ou a habilidade de descarga de qualquer arma ígnea. O efeito deste conjunto funciona no espaço secundário, e somente o conjunto de classificação estelar mais alta surtirá efeito.",
-		"fourpc": "Quando pelo menos **1** arma ígnea estiver equipada, aumenta todos os danos elementais em 28%/32%/36%/**40%**. Aumenta o dano final em **20%** durante **2500** segundos após acionar a Phantasia de Fei Se. O efeito deste conjunto funciona no espaço secundário, somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"twopc": "Aumenta todos os ataques em 14%/16%/18%/**20%** durante **3000** segundos após usar a habilidade ou a habilidade de descarga de qualquer arma ígnea. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Quando pelo menos **1** arma ígnea estiver equipada, aumenta o dano de todos os elementos em 14%/17%/20%/**23%**. Além disso, aumenta o dano final em **9%** durante **2500** segundos após criar a Phantasia de Fei Se. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR36_3"
 	},
 	"suit_SSR37_0": {
+		"twopc": "Aumenta o dano de todos os elementos em **7%**/8%/9%/10%. Ao lançar lâminas gélidas, causa dano adicional de **416%** do ATQ aos alvos próximos. O efeito deste conjunto funciona no espaço secundário, e somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Aumenta o dano final em **12%**/15%/19%/23% durante **3000** segundos após usar uma habilidade de descarga de arma gélida. Com o **Tigre Alabastro** equipado, aumenta todos os ataques em **12%**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR37_0"
 	},
 	"suit_SSR37_1": {
+		"twopc": "Aumenta o dano de todos os elementos em 7%/**8%**/9%/10%. Ao lançar lâminas gélidas, causa dano adicional de **416%** do ATQ aos alvos próximos. O efeito deste conjunto funciona no espaço secundário, e somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Aumenta o dano final em 12%/**15%**/19%/23% durante **3000** segundos após usar uma habilidade de descarga de arma gélida. Com o **Tigre Alabastro** equipado, aumenta todos os ataques em **12%**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR37_1"
 	},
 	"suit_SSR37_2": {
+		"twopc": "Aumenta o dano de todos os elementos em 7%/8%/**9%**/10%. Ao lançar lâminas gélidas, causa dano adicional de **416%** do ATQ aos alvos próximos. O efeito deste conjunto funciona no espaço secundário, e somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Aumenta o dano final em 12%/15%/**19%**/23% durante **3000** segundos após usar uma habilidade de descarga de arma gélida. Com o **Tigre Alabastro** equipado, aumenta todos os ataques em **12%**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR37_2"
 	},
 	"suit_SSR37_3": {
+		"twopc": "Aumenta o dano de todos os elementos em 7%/8%/9%/**10%**. Ao lançar lâminas gélidas, causa dano adicional de **416%** do ATQ aos alvos próximos. O efeito deste conjunto funciona no espaço secundário, e somente o conjunto de classificação estelar mais alta surtirá efeito.",
+		"fourpc": "Aumenta o dano final em 12%/15%/19%/**23%** durante **3000** segundos após usar uma habilidade de descarga de arma gélida. Com o **Tigre Alabastro** equipado, aumenta todos os ataques em **12%**. O efeito deste conjunto funciona no espaço secundário, mas somente o conjunto de classificação estelar mais alta surtirá efeito.",
 		"id": "suit_SSR37_3"
 	}
 }

@@ -6,6 +6,30 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f27_lanmaozi",
 		"id": "fashion_dress_27"
 	},
+	"fashion_dress_58": {
+		"name": "แพรกระจกมรกต",
+		"description": "หุ่นฟักทองกรีดร้อง หน้ากากเต้นรำที่มีชีวิตชีวา เมื่อสวมใส่มัน คุณจะโดดเด่นราวกับสปอตไลท์และก็สามารถหายตัวไปได้ในยามค่ำคืน หลงเหลือไว้เพียงสีแดงเข้มและเสียงลม",
+		"type": "Dress",
+		"source": "ได้รับจากกิจกรรมกาชาแพรกระจกมรกต",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"id": "fashion_dress_58"
+	},
+	"fashion_dress_55": {
+		"name": "ถ้อยกระซิบลมทะเล",
+		"description": "ฤดูร้อนที่ร้อนแรง เดินเล่นบนชายหาด ผ้าโปร่งแสงพลิ้วไหวในสายลมแห่งฤดูร้อน",
+		"type": "Dress",
+		"source": "ได้รับจากกิจกรรมถ้อยกระซิบลมทะเล",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f66",
+		"id": "fashion_dress_55"
+	},
+	"fashion_dress_56": {
+		"name": "ช่วงเวลาเล่น",
+		"description": "แค่เอาเหรียญเกมให้ฉัน ฉันก็จะเล่นกับคุณตลอดทั้งวัน!",
+		"type": "Dress",
+		"source": "ได้จากบัตรพาส",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56",
+		"id": "fashion_dress_56"
+	},
 	"fashion_dress_54": {
 		"name": "Межпространственный скачок",
 		"description": "ออกเดินทางสู่การผจญภัยสุดแฟนตาซีในโลกใบใหม่!",
@@ -306,6 +330,7 @@
 		"name": "มองหากลางฝูงชน",
 		"description": "เมื่อมองย้อนกลับไปโดยไม่ได้ตั้งใจ ก็ได้สังเกตเห็นคุณที่โดดเด่นเกินกว่าท่ามกลางฝูงชน",
 		"type": "Dress",
+		"source": "ได้รับจากการซื้อบัตรพาส เฟสที่ 10",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f53",
 		"id": "fashion_dress_52"
 	},
@@ -817,6 +842,36 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_131",
 		"id": "fashion_decoration_83"
 	},
+	"fashion_decoration_86": {
+		"name": "แหวนแห่งความตะกละ",
+		"description": "เป็นเครื่องประดับที่ทำจากชุดเกราะของเทาเที่ย ซึ่งสามารถสวมใส่ผ่านการดูดซับด้วยคลื่นแม่เหล็กไฟฟ้า",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_137",
+		"id": "fashion_decoration_86"
+	},
+	"fashion_decoration_87": {
+		"name": "ชายหาดสีเงิน",
+		"description": "สวมแว่นกันแดดเพื่อป้องกันตัวเองจากรังสียูวีที่ชายหาดในฤดูร้อน",
+		"type": "Headwear",
+		"source": "จากกิจกรรม",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_decoration_87_female",
+		"id": "fashion_decoration_87"
+	},
+	"fashion_decoration_88": {
+		"name": "แหวนรู้แจ้ง",
+		"description": "ไฮครอสขอมอบเกียรติยศให้กับอาจารย์ระดับไดมอนด์ เพื่อยกย่องที่ให้ความช่วยเหลือมือใหม่สูงที่สุด",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88",
+		"id": "fashion_decoration_88"
+	},
+	"fashion_decoration_91": {
+		"name": "ปีศาจตัวน้อย ๆ",
+		"description": "ปีศาจตัวน้อยที่ซ่อนตัวในค่ำคืนกำลังมา จะวังคอไว้ให้ดีนะ~",
+		"type": "Headwear",
+		"source": "จากกิจกรรม",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+		"id": "fashion_decoration_91"
+	},
 	"fashion_weapon_1": {
 		"name": "ดาบใหญ่",
 		"description": "ดาบใหญ่",
@@ -1018,6 +1073,75 @@
 		"source": "รับในกิจกรรมปฏิบัติการ",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",
 		"id": "fashion_Guidenpc_mia_oversea_1"
+	},
+	"fashion_medal_0": {
+		"name": "ไม่ได้ตกแต่ง",
+		"type": "Medal",
+		"icon": "None",
+		"id": "fashion_medal_0"
+	},
+	"fashion_medal_1": {
+		"name": "ดาวมายาดึกดำบรรพ์",
+		"description": "ตราที่ระลึกที่สร้างจากเพชร โดยมีสัญลักษณ์มายาดึกดำบรรพ์อยู่ตรงกลาง ได้รับมาจากการชนะเป็นอันดับหนึ่งในซีซั่นการแข่งขันเดียวในมายาดึกดำบรรพ์",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Diamond",
+		"id": "fashion_medal_1"
+	},
+	"fashion_medal_2": {
+		"name": "ตรามายาแสงทอง",
+		"description": "ตราที่ระลึกที่สร้างจากทองบริสุทธิ์ โดยมีสัญลักษณ์มายาดึกดำบรรพ์อยู่ตรงกลาง ได้รับมาจากการชนะเป็นอันดับสองในซีซั่นการแข่งขันเดียวในมายาดึกดำบรรพ์",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Gold",
+		"id": "fashion_medal_2"
+	},
+	"fashion_medal_3": {
+		"name": "ตรามายาเงินสว่าง",
+		"description": "ตราที่ระลึกที่สร้างจากเงินบริสุทธิ์ โดยมีสัญลักษณ์มายาดึกดำบรรพ์อยู่ตรงกลาง ได้รับมาจากการชนะเป็นอันดับสามในซีซั่นการแข่งขันเดียวในมายาดึกดำบรรพ์",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Silver",
+		"id": "fashion_medal_3"
+	},
+	"fashion_medal_4": {
+		"name": "ดาวแห่งอาจารย์ผู้รู้แจ้ง",
+		"description": "ประดับดาวที่แพรวพราวเป็นสัญลักษณ์ของอาจารย์ระดับไดมอนด์ รางวัลยกย่องนี้ขอมอบคุณที่มีส่วนร่วมในการช่วยเหลือผู้อื่นในฐานะอาจารย์",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond",
+		"id": "fashion_medal_4"
+	},
+	"fashion_medal_5": {
+		"name": "ดาวอาจารย์แวววาว",
+		"description": "ประดับดาวที่มีสีทองสุกใสเป็นสัญลักษณ์ของอาจารย์ระดับโกลด์ รางวัลยกย่องนี้ขอมอบคุณที่มีส่วนร่วมในการช่วยเหลือผู้อื่นในฐานะอาจารย์",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold",
+		"id": "fashion_medal_5"
+	},
+	"fashion_medal_6": {
+		"name": "ดาวอาจารย์ขาวผ่อง",
+		"description": "ประดับดาวที่มีสีแวววาวเป็นสัญลักษณ์ของอาจารย์ระดับซิลเวอร์ รางวัลยกย่องนี้ขอมอบคุณที่มีส่วนร่วมในการช่วยเหลือผู้อื่นในฐานะอาจารย์",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver",
+		"id": "fashion_medal_6"
+	},
+	"fashion_medal_7": {
+		"name": "ดาวต้นกำเนิดสงคราม",
+		"description": "ตราที่ระลึกที่สร้างจากเพชร โดยมีสัญลักษณ์ต้นกำเนิดสงครามอยู่ตรงกลาง ได้รับมาจากการชนะเป็นอันดับหนึ่งในซีซั่นการแข่งขันเดียวในต้นกำเนิดสงคราม",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Diamond",
+		"id": "fashion_medal_7"
+	},
+	"fashion_medal_8": {
+		"name": "ตราต้นกำเนิดแสงทอง",
+		"description": "ตราที่ระลึกที่สร้างจากทองบริสุทธิ์ โดยมีสัญลักษณ์ต้นกำเนิดสงครามอยู่ตรงกลาง ได้รับมาจากการชนะเป็นอันดับสองในซีซั่นการแข่งขันเดียวในต้นกำเนิดสงคราม",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Gold",
+		"id": "fashion_medal_8"
+	},
+	"fashion_medal_9": {
+		"name": "ตราต้นกำเนิดเงินสว่าง",
+		"description": "ตราที่ระลึกที่สร้างจากเงินบริสุทธิ์ โดยมีสัญลักษณ์ต้นกำเนิดสงครามอยู่ตรงกลาง ได้รับมาจากการชนะเป็นอันดับสามในซีซั่นการแข่งขันเดียวในต้นกำเนิดสงคราม",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Silver",
+		"id": "fashion_medal_9"
 	},
 	"fashion_Guidenpc_mia_10": {
 		"name": "เรนเดียร์น้อยมีอา",

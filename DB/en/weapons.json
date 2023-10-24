@@ -312,7 +312,7 @@
 			"normals": [
 				{
 					"name": "Normal Attack",
-					"description": "While on the ground, draw the bow repeatedly to attack 5 times.\r\nFirst Attack: Deal damage equal to **0%** of ATK plus **1**.\r\nSecond Attack: Deal damage equal to **2%** of ATK plus **3**.\r\nThird Attack: Deal damage equal to **4%** of ATK plus **5**.\r\nFourth Attack: Deal damage equal to **6%** of ATK plus **7**.\r\nFifth Attack: Deal damage equal to **8%** of ATK plus **9** and knock the target back a short distance.",
+					"description": "While on the ground, draw the bow repeatedly to attack 5 times.\r\nFirst Attack: Deal damage equal to **27.3%** of ATK plus **164**.\r\nSecond Attack: Deal damage equal to **24.4%** of ATK plus **146**.\r\nThird Attack: Deal damage equal to **43.8%** of ATK plus **263**.\r\nFourth Attack: Deal damage equal to **67.8%** of ATK plus **407**.\r\nFifth Attack: Deal damage equal to **62.9%** of ATK plus **377** and knock the target back a short distance.",
 					"icon": "bow_skill",
 					"id": "GA_FPlayerBowMeleeNew_Melee"
 				},
@@ -360,7 +360,7 @@
 			"discharge": [
 				{
 					"name": "Explosive Barrage",
-					"description": "When **weapon charge** is full or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer** and unleash Explosive Barrage on the target, dealing damage equal to **0%** of ATK plus **1**.",
+					"description": "When **weapon charge** is full or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer** and unleash Explosive Barrage on the target, dealing damage equal to **396%** of ATK plus **2376**.",
 					"icon": "skill_artifact11_1",
 					"id": "GA_FPlayerBowChangeSkill_Success"
 				}
@@ -381,7 +381,6 @@
 		"name": "Staff of Scars",
 		"avatar": {
 			"name": "Pepper",
-			"description": "Unknown",
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
@@ -533,7 +532,6 @@
 		"name": "The Terminator",
 		"avatar": {
 			"name": "Hilda",
-			"description": "Unknown",
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
@@ -655,7 +653,6 @@
 		"name": "Mini Hurricane",
 		"avatar": {
 			"name": "Gnonno",
-			"description": "Unknown",
 			"advanceId": "imitation_27L1",
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
@@ -821,7 +818,6 @@
 		"name": "Pummeler",
 		"avatar": {
 			"name": "Ene",
-			"description": "Unknown",
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
@@ -979,7 +975,6 @@
 		"name": "Nightingale's Feather",
 		"avatar": {
 			"name": "Bai Ling",
-			"description": "Unknown",
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
@@ -1125,7 +1120,6 @@
 		"name": "Thunderous Halberd",
 		"avatar": {
 			"name": "Echo",
-			"description": "Unknown",
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
@@ -1283,7 +1277,6 @@
 		"name": "Thunderblades",
 		"avatar": {
 			"name": "Crow",
-			"description": "Unknown",
 			"advanceId": "imitation_13L1",
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
@@ -1436,7 +1429,6 @@
 		"name": "Rosy Edge",
 		"avatar": {
 			"name": "Meryl",
-			"description": "Unknown",
 			"advanceId": "imitation_3L1",
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
@@ -1601,7 +1593,6 @@
 		"name": "Icewind Arrow",
 		"avatar": {
 			"name": "Tsubasa",
-			"description": "Unknown",
 			"advanceId": "imitation_7L1",
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
@@ -1748,7 +1739,6 @@
 		"name": "Absolute Zero",
 		"avatar": {
 			"name": "Cocoritter",
-			"description": "Unknown",
 			"advanceId": "imitation_11L1",
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
@@ -1902,7 +1892,6 @@
 		"name": "Scythe of the Crow",
 		"avatar": {
 			"name": "KING",
-			"description": "Unknown",
 			"advanceId": "imitation_9L1",
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
@@ -2061,7 +2050,6 @@
 		"name": "Flaming Revolver",
 		"avatar": {
 			"name": "Cobalt-B",
-			"description": "Unknown",
 			"advanceId": "imitation_10L1",
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
@@ -2215,7 +2203,6 @@
 		"name": "Guren Blade",
 		"avatar": {
 			"name": "Claudia",
-			"description": "Unknown",
 			"advanceId": "imitation_12L1",
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
@@ -2369,7 +2356,6 @@
 		"name": "Chakram of the Seas",
 		"avatar": {
 			"name": "Shiro",
-			"description": "Unknown",
 			"advanceId": "imitation_8L1",
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
@@ -2522,7 +2508,6 @@
 		"name": "Negating Cube",
 		"avatar": {
 			"name": "Zero",
-			"description": "Unknown",
 			"advanceId": "imitation_1L1",
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
@@ -2676,7 +2661,6 @@
 		"name": "Dual EM Stars",
 		"avatar": {
 			"name": "Samir",
-			"description": "Unknown",
 			"advanceId": "imitation_5L1",
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
@@ -2823,7 +2807,6 @@
 		"name": "Molten Shield V2",
 		"avatar": {
 			"name": "Huma",
-			"description": "Unknown",
 			"advanceId": "imitation_6L1",
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
@@ -2970,7 +2953,6 @@
 		"name": "Azure Dragon",
 		"avatar": {
 			"name": "Huang",
-			"description": "Unknown",
 			"advanceId": "imitation_41L1",
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
@@ -3126,11 +3108,169 @@
 		],
 		"id": "mimi_thunder"
 	},
+	"Linghan_ice": {
+		"name": "Alabaster Tiger",
+		"avatar": {
+			"name": "Ling Han",
+			"advanceId": "imitation_43L1",
+			"weapon": "linghan_ice",
+			"icon": "imitation_43",
+			"avatarID": "linghan",
+			"id": "imitation_43"
+		},
+		"description": "With a flourish of sleeves and sword's dance divine, who can fathom the depths of this heart o' mine?",
+		"icon": "item_Weapon_SSR_Linghan_Ice01",
+		"gachaIcon": "UI_SSR_lh_linghan",
+		"rarity": "SSR",
+		"element": "Ice",
+		"weaponType": "Linghan",
+		"wc": "DPS",
+		"mats": {
+			"Item_Mine_ice": 39,
+			"Item_Mine_ice_02": 65,
+			"Item_breakthrough_B2": 65,
+			"Item_breakthrough_D2": 65,
+			"Item_Mine_ice_03": 32,
+			"Item_breakthrough_B3": 32,
+			"Item_breakthrough_D3": 32,
+			"Item_breakthrough_B1": 35,
+			"Item_breakthrough_D1": 32
+		},
+		"advanceID": "Linghan_ice_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "Sword Art: Mooncutter",
+					"description": "While on the ground, use normal attack to launch 6 attacks in a row.\r\nFirst Attack: Deal damage equal to **97.8%** of ATK plus **587** and knock the target back.\r\nSecond Attack: Deal damage equal to **129.4%** of ATK plus **776** and knock the target back.\r\nThird Attack: Deal damage equal to **207.2%** of ATK plus **1243** and knock the target back.\r\nFourth Attack: Deal damage equal to **125%** of ATK plus **750** and knock the target back.\r\nFifth Attack: Deal damage equal to **226%** of ATK plus **1356** and draw in enemies to the front of the Wanderer.\r\nSixth Attack: Deal damage equal to **253.6%** of ATK plus **1521** and launch the target.\r\nAfter triggering Sword Art: Mooncutter, tap and hold normal attack to trigger **Sword Art: Endless Snow**.\r\n\r\nAfter any of **Alabaster Tiger's** normal attacks land a hit, apply **1** stack of **Crystalline Crack** to the target, dealing normal attack damage equal to **48%** of ATK every second for **15** seconds. Only **1** stack of Crystalline Crack can be applied to the same target every **4** seconds, stacking up to **3** times. The stacks will disappear one by one after the effect duration is over.",
+					"icon": "skill_linghan_melee",
+					"id": "GA_FPlayerLinghanMelee_Melee"
+				},
+				{
+					"name": "Sword Art: Plum Swordcry",
+					"description": "While airborne, use normal attack to launch 6 consecutive attacks in mid-air, consuming endurance.\r\nFirst Attack: Deal damage equal to **95.9%** of ATK plus **575**.\r\nSecond Attack: Deal damage equal to **100.7%** of ATK plus **604**.\r\nThird Attack: Deal damage equal to **218.6%** of ATK plus **1311**.\r\nFourth Attack: Deal damage equal to **130%** of ATK plus **780**.\r\nFifth Attack: Deal damage equal to **213.7%** of ATK plus **1282**.\r\nSixth Attack: Deal damage equal to **256.9%** of ATK plus **1541**.",
+					"icon": "skill_linghan_airattack",
+					"id": "GA_FPlayerLinghanMelee_AirAttack"
+				},
+				{
+					"name": "Sword Art: Endless Snow",
+					"description": "While using normal attack on the ground, tap and hold normal attack to trigger Sword Art: Endless Snow.\r\nUse mind control to manipulate the sword while consuming endurance, during which the Wanderer gains hyperbody. Every attack that lands deals damage equal to **140.8%** of ATK plus **845** to nearby targets.\r\nWhen Sword Art: Endless Snow ends, release a powerful sword aura, dealing damage equal to **422.4%** of ATK plus **2534** to nearby targets.",
+					"icon": "skill_linghan_powerattack",
+					"id": "GA_FPlayerLinghanMelee_PowerAttack"
+				},
+				{
+					"name": "Sword Art: Falling Frost",
+					"description": "Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Sword Art: Falling Frost.\r\nWhile falling, deal damage equal to **75%** of ATK plus **450** each time the target is hit. Upon landing, deal damage equal to **366.7%** of ATK plus **2200** to nearby targets.",
+					"icon": "skill_linghan_jumpattack",
+					"id": "GA_FPlayerLinghanMelee_JumpAttack"
+				},
+				{
+					"name": "Light Steps",
+					"description": "While the Wanderer is airborne after double jumping, tap jump to trigger Light Steps. Briefly dash upward before continuously gliding. While airborne, Light Steps can be used up to **2** times.\r\nWhile on the ground, Light Steps recovers **1** use attempt every **10** seconds (switching areas, switching weapons, or unequipping **Alabaster Tiger** will reset the use attempts).",
+					"icon": "skill_linghan_qinggong",
+					"id": "GA_FPlayerLinghanMelee_QingGong"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Dodge",
+					"description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.",
+					"icon": "common_evade",
+					"id": "GA_FPlayerLinghanEvade_Evade"
+				},
+				{
+					"name": "Sword Art: Cloud Shower",
+					"description": "Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Sword Art: Cloud Shower, dealing damage up to **305%** of ATK plus **1830** to targets hit.",
+					"icon": "skill_linghan_fevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "Sword Art: Mortal Soul",
+					"description": "Use normal attack during the short period after dodging to trigger Sword Art: Mortal Soul. Release a White Tiger illusion to deal damage equal to **174.3%** of ATK plus **1046** to targets ahead.",
+					"icon": "skill_linghan_bevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "Sword Art: Shadowy Ice",
+					"description": "Deal damage equal to **370.2%** of ATK plus **2221** to nearby targets and draw them in. Then, form a Sword Array to summon a heavy rain of swords and **strongly freeze** targets (unavailable in Apex League and against bosses) for **4** seconds. Cooldown: **30** seconds.\r\nAfter successfully using Sword Art: Shadowy Ice, the Wanderer emits **Cold Air**, dealing damage equal to **68%** of ATK to nearby targets every second and reducing the targets' speed by **30%** (unavailable in Apex League and against bosses).\r\nAfter completely executing Sword Art: Shadowy Ice, the Wanderer creates a large amount of **Frost Blades**, firing **1** blade every **7.5** seconds at the currently locked-on target, dealing damage equal to **360%** of ATK and inflicting **Temperature Reduction** on the target. There can be up to **3** **Frost Blades** created initially, and all blades will be removed while in the non-combat state.\r\n**Temperature Reduction**: Deal damage equal to **240%** of ATK every **3** seconds to nearby targets for **12** seconds.",
+					"icon": "skill_linghan_skill",
+					"id": "GA_FPlayerLinghanSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Sword Art: Icy Beckon",
+					"description": "When **weapon charge is full** or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer** and summon a Sword Array around the Wanderer, engulfing the area in cold and dealing damage up to **844.5%** of ATK plus **5067** to nearby targets. Soon after, summon a White Tiger to deal damage equal to **1971%** of ATK plus **11825**, during which damage immunity lasts for **1.5** seconds (unavailable in Apex League).\r\n**Passive**: After Sword Art: Icy Beckon lands a hit, increase final damage by **8%** for **30** seconds.",
+					"icon": "skill_linghan_changeskill",
+					"id": "GA_FPlayerLinghanChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**Frost Resonance**: Increase frost ATK by **15%** and frost resistance by **25%**. Activate by equipping **2** or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Extreme Cold: Unload**: After using **Sword Art: Shadowy Ice**, every second, deal damage equal to **70%** of frost ATK plus **10%** of the Wanderer's Max HP plus **36%** of the sum of all the Wanderer's resistance types plus **1.35%** of crit for **30** seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is **1** volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by **1.3** times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "None"
+			},
+			{
+				"description": "After launching **Frost Blades**, the Wanderer's frost ATK is increased by **10%** and nearby targets will be dealt damage equal to **80%** of ATK every second for **30** seconds.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Increase the current weapon's base ATK growth by **16%**.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "The Wanderer can produce up to **4** **Frost Blades** and **Temperature Reduction's** damage's base multiplier is increased to **360%**.\r\nIf the target is the only one affected by **Temperature Reduction** within **6** seconds, additionally apply **Vein Seal** to the target, reducing their speed by **30%** (unavailable in Apex League and against bosses). If the target receives **Frost Blade** damage again during **Vein Seal's** duration, trigger Icy Burst, dealing skill damage equal to **17%** of ATK plus **2%** of the target's already-lost HP at that point (Icy Burst damage will be no lower than **20%** of the Wanderer's frost ATK and no higher than **22%** of the Wanderer's frost ATK). Then, remove the **Vein Seal** and **Temperature Reduction** effects on the target.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "Increase the current weapon's base ATK growth by **32%**.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "The damage dealt by **Crystalline Crack** and **Cold Air** is additionally increased by **50%**. **Light Steps'** use attempts is increased to **10** and recovery rate is increased to **1** attempt every **3** seconds.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "The **Temperature Reduction** effect inflicted after firing **Frost Blades** is now applied to an area and also deals additional damage equal to **990%** of ATK to nearby targets.",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			}
+		],
+		"id": "Linghan_ice"
+	},
 	"Suspension_thunder": {
 		"name": "Venus",
 		"avatar": {
 			"name": "Nemesis",
-			"description": "Unknown",
 			"advanceId": "imitation_17L1",
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
@@ -3284,7 +3424,6 @@
 		"name": "Balmung",
 		"avatar": {
 			"name": "Frigg",
-			"description": "Unknown",
 			"advanceId": "imitation_28L1",
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
@@ -3432,7 +3571,6 @@
 		"name": "Spark",
 		"avatar": {
 			"name": "Ruby",
-			"description": "Unknown",
 			"advanceId": "imitation_21L1",
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
@@ -3508,7 +3646,7 @@
 			"skill": [
 				{
 					"name": "Sparkling Collider",
-					"description": "Spark fires out Sparks that last for 15 seconds and bounce between the target and the Wanderer. Upon hitting the target, the Sparks slow it down for **4** seconds with a **15**-second cooldown. Sparks deal more damage the further they travel. Upon landing a hit, they will deal damage up to **350%** of ATK plus **4200** and inflict a **25**-second Emblazen mark on the target. At the same time, Spark fires 4 bullets, with each bullet dealing damage equal to **50%** of ATK plus **300** against its target. Spark's normal attacks deal **30%** more damage to Emblazen-marked targets. When Sparks hit targets burned by the Wanderer, they burn or ignite the target once and deal additional damage equal to **45%** of the total remaining damage (multiple burn or incendiary effects are counted together) and will automatically tally again 1 time. The result calculation cooldown is **6** seconds and the skill cooldown is **30** seconds.\r\n**Passive**: When Sparks is active, each time Spark Attack or Sparks deals damage, the Wanderer gains **1** point of Heat with a **0.9**-second cooldown, for up to **8** points of Heat. When Heat reaches the maximum, the Wanderer gains the effect Ultimate Heat, increasing flame ATK by **10%** for **25** seconds.",
+					"description": "Spark fires out Sparks that last for 15 seconds and bounce between the target and the Wanderer. Upon hitting the target, the Sparks slow it down for **4** seconds with a **15**-second cooldown. Sparks deal more damage the further they travel. Upon landing a hit, they will deal damage up to **380%** of ATK plus **4200** and inflict a **25**-second Emblazen mark on the target. At the same time, Spark fires 4 bullets, with each bullet dealing damage equal to **50%** of ATK plus **300** against its target. Spark's normal attacks deal **30%** more damage to Emblazen-marked targets. When Sparks hit targets burned by the Wanderer, they burn or ignite the target once and deal additional damage equal to **45%** of the total remaining damage (multiple burn or incendiary effects are counted together) and will automatically tally again 1 time. The result calculation cooldown is **6** seconds and the skill cooldown is **30** seconds.\r\n**Passive**: When Sparks is active, each time Spark Attack or Sparks deals damage, the Wanderer gains **1** point of Heat with a **0.9**-second cooldown, for up to **8** points of Heat. When Heat reaches the maximum, the Wanderer gains the effect Ultimate Heat, increasing flame ATK by **10%** for **25** seconds.",
 					"icon": "funnel_skill",
 					"id": "GA_FPlayerFunnelSkillFire"
 				}
@@ -3586,7 +3724,6 @@
 		"name": "Heartstream",
 		"avatar": {
 			"name": "Saki Fuwa",
-			"description": "Unknown",
 			"advanceId": "imitation_22L1",
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
@@ -3676,7 +3813,7 @@
 			"discharge": [
 				{
 					"name": "Heartlotus",
-					"description": "When **weapon charge** is full or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer** and dash toward the target with a combo attack, dealing total damage equal to **536%** of ATK plus **3216**.",
+					"description": "When **weapon charge** is full or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer** and dash toward the target with a combo attack, dealing total damage equal to **590%** of ATK plus **3216**.",
 					"icon": "skill_dkatana_changeskill",
 					"id": "GA_FPlayerDkatanaChangeSkill_Success"
 				}
@@ -3746,7 +3883,6 @@
 		"name": "Shadoweave",
 		"avatar": {
 			"name": "Lin",
-			"description": "Unknown",
 			"advanceId": "imitation_23L1",
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
@@ -3904,7 +4040,6 @@
 		"name": "Thunderbreaker",
 		"avatar": {
 			"name": "Tian Lang",
-			"description": "Unknown",
 			"advanceId": "imitation_29L1",
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
@@ -3940,7 +4075,7 @@
 				},
 				{
 					"name": "Mizar",
-					"description": "While on the ground, initiate 6 attacks in a row with Thunderbreaker.\r\nFirst Attack: Deal damage equal to **90.5%** of ATK plus **543** and knock the target back.\r\nSecond Attack: Deal damage equal to **67.9%** of ATK plus **407** and knock the target back.\r\nThird Attack: Deal damage equal to **123%** of ATK plus **738** and knock the target back.\r\nFourth Attack: Deal damage equal to **217.9%** of ATK plus **1307** and knock the target back.\r\nFifth Attack: Deal damage equal to **222%** of ATK plus **1332** and knock the target back.\r\nSixth Attack: Deal damage equal to **291.8%** of ATK plus **1751** and launch the target.",
+					"description": "While on the ground, initiate 6 attacks in a row with Thunderbreaker.\r\nFirst Attack: Deal damage equal to **99.3%** of ATK plus **543** and knock the target back.\r\nSecond Attack: Deal damage equal to **73.2%** of ATK plus **407** and knock the target back.\r\nThird Attack: Deal damage equal to **135.8%** of ATK plus **738** and knock the target back.\r\nFourth Attack: Deal damage equal to **240.5%** of ATK plus **1307** and knock the target back.\r\nFifth Attack: Deal damage equal to **240.1%** of ATK plus **1332** and knock the target back.\r\nSixth Attack: Deal damage equal to **314.1%** of ATK plus **1751** and launch the target.",
 					"icon": "skill_tianlang_melee",
 					"id": "GA_PlayerTianLangMelee_Melee"
 				},
@@ -4058,7 +4193,6 @@
 		"name": "Vesper",
 		"avatar": {
 			"name": "Lyra",
-			"description": "Unknown",
 			"advanceId": "imitation_24L1",
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
@@ -4146,13 +4280,13 @@
 				},
 				{
 					"name": "Starfall",
-					"description": "Leap towards the target, dealing damage equal to **702.1%** of ATK plus **4212** and **strongly suspending** it. Inflict an Enlightenment mark on the target for **18** seconds. Cooldown: **20** seconds.",
+					"description": "Leap toward the target, dealing damage equal to **771%** of ATK plus **4212** and **strongly suspending** it. Inflict an Enlightenment mark on the target for **18** seconds. Cooldown: **20** seconds.",
 					"icon": "skill_arm_airattack2",
 					"id": "GA_FPlayerArmPublishSkillPhy"
 				},
 				{
 					"name": "Shinerise",
-					"description": "Pummel the ground and **strongly launch** targets in front, dealing damage equal to **702.1%** of ATK plus **4212** and summoning up to **3** **Blades** for **75** seconds (up to 1 Blade every 2 meters). This skill can be used up to **3** times, with a cooldown of **20** seconds each time. When 2 **Blades** exist on the field, a **Clearshine** is created. When a **Blade** is touched, it heals targets within the movement radius, restoring HP equal to **25%** of the target's ATK. When 3 **Blades** exist, a **Nebula** is created. When a **Blade** is touched, it damages targets within the movement radius, dealing damage equal to **150%** of ATK × movement distance / **5**m.",
+					"description": "Pummel the ground and **strongly launch** targets in front, dealing damage equal to **771%** of ATK plus **4212** and summoning up to **3** **Blades** for **75** seconds (up to 1 Blade every 2 meters). This skill can be used up to **3** times, with a cooldown of **20** seconds each time. When 2 **Blades** exist on the field, a **Clearshine** is created. When a **Blade** is touched, it heals targets within the movement radius, restoring HP equal to **25%** of the target's ATK. When 3 **Blades** exist, a **Nebula** is created. When a **Blade** is touched, it damages targets within the movement radius, dealing damage equal to **150%** of ATK × movement distance / **5**m.",
 					"icon": "skill_arm_skill2",
 					"id": "GA_FPlayerArmLawSkillPhy"
 				}
@@ -4230,7 +4364,6 @@
 		"name": "Lost Art",
 		"avatar": {
 			"name": "Rubilia",
-			"description": "Unknown",
 			"advanceId": "imitation_48L1",
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
@@ -4304,7 +4437,7 @@
 				},
 				{
 					"name": "Weave",
-					"description": "When on the ground, holding any dodge can trigger Weave, dashing for a distance towards the sky (does not work in areas where Jetpack can't be used).",
+					"description": "When on the ground, holding any dodge can trigger Weave, dashing for a distance toward the sky (does not work in areas where Jetpack can't be used).",
 					"icon": "skill_rubilia_fly",
 					"id": "GA_FPlayerRubiliaEvade_Move"
 				},
@@ -4396,7 +4529,6 @@
 		"name": "Unyielding Wing",
 		"avatar": {
 			"name": "Alyss",
-			"description": "Unknown",
 			"advanceId": "imitation_30L1",
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
@@ -4556,7 +4688,6 @@
 		"name": "Clover Cross",
 		"avatar": {
 			"name": "Annabella",
-			"description": "Unknown",
 			"advanceId": "imitation_26L1",
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
@@ -4704,7 +4835,6 @@
 		"name": "Pine Comet",
 		"avatar": {
 			"name": "Liu Huo",
-			"description": "Unknown",
 			"advanceId": "imitation_37L1",
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
@@ -4882,7 +5012,6 @@
 		"name": "Mobius",
 		"avatar": {
 			"name": "Umi",
-			"description": "Unknown",
 			"advanceId": "imitation_31L1",
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
@@ -5054,7 +5183,6 @@
 		"name": "Endless Bloom",
 		"avatar": {
 			"name": "Fei Se",
-			"description": "Unknown",
 			"advanceId": "imitation_51L1",
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
@@ -5128,7 +5256,7 @@
 				},
 				{
 					"name": "Scatter",
-					"description": "Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Flower Scatter, dealing damage equal to **209%** of ATK plus **1254** to nearby targets.\r\n\r\nDuring **Mirage Fantasy** created by **Whirling**, after the first dodge attack using any weapon lands a hit, trigger Flower Graft, creating a Fei Se's Phantasia and Lotus Petals.\r\n**Fei Se's Phantasia**: Upon creation, Fei Se's Phantasia copies **25%** of the target's Max ATK and converts it to the Wanderer's **base flame ATK** (not lower than **3,300** and not exceeding **3,450**; this flame ATK will not be reflected on the Wanderer's stats and is unavailable in Apex League) until Fei Se's Phantasia disappears. This is calculated independently for each Fei Se's Phantasia. There can be only **1** Fei Se's Phantasia at a time.\r\n**Lotus Petal**: Upon creation, the Lotus Petal count is equal to the number of summons created by the Wanderer's weapons other than Endless Bloom. After creation, the Lotus Petal count does not change with the number of summons. Lotus Petals are considered as summons.",
+					"description": "Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Flower Scatter, dealing damage equal to **209%** of ATK plus **1254** to nearby targets.\r\n\r\nDuring **Mirage Fantasy** created by **Whirling**, after the first dodge attack using any weapon lands a hit, trigger Flower Graft, creating a Fei Se's Phantasia and Lotus Petal.\r\n**Fei Se's Phantasia**: Upon creation, Fei Se's Phantasia copies **25%** of the target's Max ATK and converts it to the Wanderer's **base flame ATK** (not lower than **6,500** and not exceeding **10,000**; this flame ATK will not be reflected on the Wanderer's stats and is unavailable in Apex League) until Fei Se's Phantasia disappears. This is calculated independently for each Fei Se's Phantasia. There can be only **1** Fei Se's Phantasia at a time.\r\n**Lotus Petal**: Upon creation, the Lotus Petal count is equal to the number of summons created by the Wanderer's weapons other than Endless Bloom. After creation, the Lotus Petal count does not change with the number of summons. Lotus Petals are considered as summons.",
 					"icon": "feise_evadefront",
 					"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 				},
@@ -5142,7 +5270,7 @@
 			"skill": [
 				{
 					"name": "Whirling",
-					"description": "Deal damage equal to **1008%** of ATK plus **6047** to nearby targets and create a Mirage Fantasy, which lasts up to **25** seconds.\r\nWhen Whirling is in cooldown, gain the new skill, Lissom. Lissom can be used after the Mirage has been active for **20** seconds.\r\nAfter the Mirage disappears, immediately refresh Whirling's cooldown. This is not affected by other cooldown clearing, resetting, or changing effects.\r\n\r\nDuring the Mirage:\r\nEvery second, deal Soulwear damage equal to **135%** of ATK to targets in the Mirage. Soulwear damage counts as normal attack damage.\r\nEvery **5** seconds, inflict Blazing Heart on targets in the Mirage, dealing burn damage equal to **20%** of ATK, lasting for **5** seconds. For every **1** **Fei Se's Phantasia** or **Lotus Petal** created by the Wanderer in the Mirage, Blazing Heart's damage is additionally increased by **6%**.",
+					"description": "Deal damage equal to **1008%** of ATK plus **6047** to nearby targets and create a Mirage Fantasy, lasting up to **25** seconds.\r\nWhen Whirling is in cooldown, gain the new skill, Lissom. Lissom can be used after the Mirage has been active for **20** seconds.\r\nAfter the Mirage disappears, immediately refresh Whirling's cooldown. This is not affected by other cooldown clearing, resetting, or changing effects.\r\n\r\nDuring the Mirage:\r\nEvery second, deal Soulwear damage equal to **135%** of ATK. Soulwear damage counts as normal attack damage.\r\nEvery **5** seconds, inflict Blazing Heart on targets within range, dealing burn damage equal to **20%** of ATK for **5** seconds. For every **1** **Fei Se's Phantasia** or **Lotus Petal** created by the Wanderer in the Mirage, Blazing Heart's damage is additionally increased by **15%**.",
 					"icon": "feise_skill1",
 					"id": "GA_FPlayerFeiseSkill_Skill1"
 				},
@@ -5156,7 +5284,7 @@
 			"discharge": [
 				{
 					"name": "Unparalleled Jade Pool",
-					"description": "When **weapon charge is full** or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer**, dealing damage equal to **1090%** of ATK plus **6539**. During this period, gain damage immunity for **1.5** seconds (unavailable in Apex League).",
+					"description": "When **weapon charge is full** or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer**, dealing damage equal to **1090%** of ATK plus **6539**. During this period, gain damage immunity for **2.6** seconds (unavailable in Apex League).",
 					"icon": "feise_changeskill",
 					"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 				}
@@ -5164,7 +5292,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Flame Resonance**: Increase flame ATK by **15%** and flame resistance by **25%**. Activate by equipping **2** or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Fiery Explosion: Swift Cut**: When **Endless Bloom** is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage equal to **5%** of flame ATK plus **8%** of the Wanderer's Max HP plus **3%** of the sum of all the Wanderer's resistance types plus **10%** of crit to nearby targets. While in combat, after every **0.5** seconds, the next Swift Cut damage will be increased by an additional **1** time, up to a maximum of **30** times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is **1** frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is increased to **2.5** times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+				"description": "**Flame Resonance**: Increase flame ATK by **20%** and flame resistance by **40%**. Activate by equipping **2** or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance or Flame Reaction effects, with Flame Resonance taking precedence.\r\n**Fiery Explosion: Swift Cut**: When **Endless Bloom** is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to **38%** of flame ATK plus **1%** of the Wanderer's Max HP plus **19%** of the sum of all the Wanderer's resistance types plus **69%** of crit. While in combat, after every **0.5** seconds, the next Swift Cut damage will be increased by an additional **1** time, up to a maximum of **30** times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is **1** frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by **1.3** times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5172,7 +5300,7 @@
 				"need": "None"
 			},
 			{
-				"description": "**Blazing Heart's** damage's base multiplier is increased to **60%** of ATK. While in the combat state, if the Wanderer inflicts multiple burn effects, **Blazing Heart's** damage's base multiplier is additionally increased to that of the highest multiplier effect.",
+				"description": "**Blazing Heart** damage's base multiplier is increased to **120%** of ATK. While in the combat state, if the Wanderer inflicts multiple burn effects, **Blazing Heart** damage's base multiplier is additionally increased to that of the highest multiplier effect.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5204,7 +5332,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "For every **1** **Fei Se's Phantasia** or **Lotus Petal** in the **Mirage**, **Blazing Heart's** damage is additionally increased by **12%**.\r\n**Lotus Aspara's** endurance consumption is reduced by **75%**.",
+				"description": "For every **1** **Fei Se's Phantasia** or **Lotus Petal** in the **Mirage**, **Blazing Heart's** damage is additionally increased by **15%**.\r\n**Lotus Aspara's** endurance consumption is reduced by **75%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5212,7 +5340,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "**Soulwear** damage's base multiplier is increased to **270%** of ATK, shatter is doubled, and after landing a hit, there is a **15%** chance to inflict a **65%** delay for **2** seconds (ineffective against bosses in team play and unavailable in Apex League).",
+				"description": "**Soulwear** damage's base multiplier is increased to **900%** of ATK, shatter is doubled, and there is a **15%** chance to inflict a **65%** delay for **2** seconds after landing a hit (ineffective against bosses in team play and unavailable in Apex League).",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5226,7 +5354,6 @@
 		"name": "Gleipnir",
 		"avatar": {
 			"name": "Fenrir",
-			"description": "Unknown",
 			"advanceId": "imitation_32L1",
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
@@ -5392,7 +5519,6 @@
 		"name": "Vermilion Bird",
 		"avatar": {
 			"name": "Lan",
-			"description": "Unknown",
 			"advanceId": "imitation_34L1",
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
@@ -5558,7 +5684,6 @@
 		"name": "Precious One",
 		"avatar": {
 			"name": "Icarus",
-			"description": "Unknown",
 			"advanceId": "imitation_35L1",
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
@@ -5718,7 +5843,6 @@
 		"name": "Unity",
 		"avatar": {
 			"name": "Yu Lan",
-			"description": "Unknown",
 			"advanceId": "imitation_38L1",
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
@@ -5908,7 +6032,6 @@
 		"name": "Onyx Tortoise",
 		"avatar": {
 			"name": "Ming Jing",
-			"description": "Unknown",
 			"advanceId": "imitation_50L1",
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
@@ -6074,7 +6197,6 @@
 		"name": "Moonstar Bracelet",
 		"avatar": {
 			"name": "Fiona",
-			"description": "Unknown",
 			"advanceId": "imitation_36L1",
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",

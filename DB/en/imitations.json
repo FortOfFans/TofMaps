@@ -1,7 +1,14 @@
 {
+	"imitation_43": {
+		"name": "Ling Han",
+		"advanceId": "imitation_43L1",
+		"weapon": "linghan_ice",
+		"icon": "imitation_43",
+		"avatarID": "linghan",
+		"id": "imitation_43"
+	},
 	"imitation_51": {
 		"name": "Fei Se",
-		"description": "Unknown",
 		"advanceId": "imitation_51L1",
 		"weapon": "feise_fire",
 		"icon": "imitation_51",
@@ -10,16 +17,14 @@
 	},
 	"imitation_33": {
 		"name": "Molinia",
-		"description": "Unknown",
 		"advanceId": "imitation_33L1",
 		"weapon": "None",
 		"icon": "imitation_21",
-		"avatarID": "morrina",
+		"avatarID": "moliniya",
 		"id": "imitation_33"
 	},
 	"imitation_41": {
 		"name": "Huang",
-		"description": "Unknown",
 		"advanceId": "imitation_41L1",
 		"weapon": "mimi_thunder",
 		"icon": "imitation_41",
@@ -28,7 +33,6 @@
 	},
 	"imitation_50": {
 		"name": "Ming Jing",
-		"description": "Unknown",
 		"advanceId": "imitation_50L1",
 		"weapon": "Zeke_physic",
 		"icon": "imitation_50",
@@ -37,7 +41,6 @@
 	},
 	"imitation_38": {
 		"name": "Yu Lan",
-		"description": "Unknown",
 		"advanceId": "imitation_38L1",
 		"weapon": "yulan_ice",
 		"icon": "imitation_38",
@@ -46,7 +49,6 @@
 	},
 	"imitation_37": {
 		"name": "Liu Huo",
-		"description": "Unknown",
 		"advanceId": "imitation_37L1",
 		"weapon": "brush_fire",
 		"icon": "imitation_37",
@@ -55,7 +57,6 @@
 	},
 	"imitation_48": {
 		"name": "Rubilia",
-		"description": "Unknown",
 		"advanceId": "imitation_48L1",
 		"weapon": "Rubilia_thunder",
 		"icon": "imitation_48",
@@ -64,7 +65,6 @@
 	},
 	"imitation_27": {
 		"name": "Gnonno",
-		"description": "Unknown",
 		"advanceId": "imitation_27L1",
 		"weapon": "Chainsaw_physic",
 		"icon": "imitation_27",
@@ -73,7 +73,6 @@
 	},
 	"imitation_36": {
 		"name": "Fiona",
-		"description": "Unknown",
 		"advanceId": "imitation_36L1",
 		"weapon": "queen_superpower",
 		"icon": "imitation_36",
@@ -82,7 +81,6 @@
 	},
 	"imitation_35": {
 		"name": "Icarus",
-		"description": "Unknown",
 		"advanceId": "imitation_35L1",
 		"weapon": "Yoyo_ice",
 		"icon": "imitation_35",
@@ -91,7 +89,6 @@
 	},
 	"imitation_34": {
 		"name": "Lan",
-		"description": "Unknown",
 		"advanceId": "imitation_34L1",
 		"weapon": "umbrella_fire",
 		"icon": "imitation_34",
@@ -100,7 +97,6 @@
 	},
 	"imitation_32": {
 		"name": "Fenrir",
-		"description": "Unknown",
 		"advanceId": "imitation_32L1",
 		"weapon": "fenrir_thunder",
 		"icon": "imitation_32",
@@ -109,7 +105,6 @@
 	},
 	"imitation_31": {
 		"name": "Umi",
-		"description": "Unknown",
 		"advanceId": "imitation_31L1",
 		"weapon": "Whip_physic",
 		"icon": "imitation_31",
@@ -118,7 +113,6 @@
 	},
 	"imitation_30": {
 		"name": "Alyss",
-		"description": "Unknown",
 		"advanceId": "imitation_30L1",
 		"weapon": "iceblade_ice",
 		"icon": "imitation_30",
@@ -127,7 +121,6 @@
 	},
 	"imitation_26": {
 		"name": "Annabella",
-		"description": "Unknown",
 		"advanceId": "imitation_26L1",
 		"weapon": "snipe_fire",
 		"icon": "imitation_26",
@@ -136,7 +129,6 @@
 	},
 	"imitation_29": {
 		"name": "Tian Lang",
-		"description": "Unknown",
 		"advanceId": "imitation_29L1",
 		"weapon": "tianlang_thunder",
 		"icon": "imitation_29",
@@ -145,7 +137,6 @@
 	},
 	"imitation_24": {
 		"name": "Lyra",
-		"description": "Unknown",
 		"advanceId": "imitation_24L1",
 		"weapon": "arm_physic",
 		"icon": "imitation_24",
@@ -154,7 +145,6 @@
 	},
 	"imitation_23": {
 		"name": "Lin",
-		"description": "Unknown",
 		"advanceId": "imitation_23L1",
 		"weapon": "fan_superpower",
 		"icon": "imitation_23",
@@ -163,7 +153,6 @@
 	},
 	"imitation_22": {
 		"name": "Saki Fuwa",
-		"description": "Unknown",
 		"advanceId": "imitation_22L1",
 		"weapon": "Dkatana_ice",
 		"icon": "imitation_22",
@@ -172,7 +161,6 @@
 	},
 	"imitation_21": {
 		"name": "Ruby",
-		"description": "Unknown",
 		"advanceId": "imitation_21L1",
 		"weapon": "funnel_fire",
 		"icon": "imitation_21",
@@ -181,7 +169,6 @@
 	},
 	"imitation_28": {
 		"name": "Frigg",
-		"description": "Unknown",
 		"advanceId": "imitation_28L1",
 		"weapon": "Frigg_ice",
 		"icon": "imitation_28",
@@ -190,7 +177,6 @@
 	},
 	"imitation_17": {
 		"name": "Nemesis",
-		"description": "Unknown",
 		"advanceId": "imitation_17L1",
 		"weapon": "Suspension_thunder",
 		"icon": "imitation_17",
@@ -199,7 +185,6 @@
 	},
 	"imitation_1": {
 		"name": "Zero",
-		"description": "Unknown",
 		"advanceId": "imitation_1L1",
 		"weapon": "cube_fire",
 		"icon": "imitation_1",
@@ -208,7 +193,6 @@
 	},
 	"imitation_2": {
 		"name": "Ene",
-		"description": "Unknown",
 		"weapon": "hammer_ice",
 		"icon": "imitation_2",
 		"avatarID": "xi",
@@ -216,7 +200,6 @@
 	},
 	"imitation_3": {
 		"name": "Meryl",
-		"description": "Unknown",
 		"advanceId": "imitation_3L1",
 		"weapon": "bigsword_ice",
 		"icon": "imitation_3",
@@ -225,7 +208,6 @@
 	},
 	"imitation_4": {
 		"name": "Echo",
-		"description": "Unknown",
 		"weapon": "spear_thunder",
 		"icon": "imitation_4",
 		"avatarID": "aige",
@@ -233,7 +215,6 @@
 	},
 	"imitation_5": {
 		"name": "Samir",
-		"description": "Unknown",
 		"advanceId": "imitation_5L1",
 		"weapon": "dgun_thunder",
 		"icon": "imitation_5",
@@ -242,7 +223,6 @@
 	},
 	"imitation_6": {
 		"name": "Huma",
-		"description": "Unknown",
 		"advanceId": "imitation_6L1",
 		"weapon": "ShieldAxe_Fire",
 		"icon": "imitation_6",
@@ -251,7 +231,6 @@
 	},
 	"imitation_7": {
 		"name": "Tsubasa",
-		"description": "Unknown",
 		"advanceId": "imitation_7L1",
 		"weapon": "bow_ice",
 		"icon": "imitation_7",
@@ -260,7 +239,6 @@
 	},
 	"imitation_8": {
 		"name": "Shiro",
-		"description": "Unknown",
 		"advanceId": "imitation_8L1",
 		"weapon": "darts_physic",
 		"icon": "imitation_8",
@@ -269,7 +247,6 @@
 	},
 	"imitation_9": {
 		"name": "KING",
-		"description": "Unknown",
 		"advanceId": "imitation_9L1",
 		"weapon": "sickle_fire",
 		"icon": "imitation_9",
@@ -278,7 +255,6 @@
 	},
 	"imitation_10": {
 		"name": "Cobalt-B",
-		"description": "Unknown",
 		"advanceId": "imitation_10L1",
 		"weapon": "gun_fire",
 		"icon": "imitation_10",
@@ -287,7 +263,6 @@
 	},
 	"imitation_11": {
 		"name": "Cocoritter",
-		"description": "Unknown",
 		"advanceId": "imitation_11L1",
 		"weapon": "stave_ice",
 		"icon": "imitation_11",
@@ -296,7 +271,6 @@
 	},
 	"imitation_12": {
 		"name": "Claudia",
-		"description": "Unknown",
 		"advanceId": "imitation_12L1",
 		"weapon": "sword_physic",
 		"icon": "imitation_12",
@@ -305,7 +279,6 @@
 	},
 	"imitation_13": {
 		"name": "Crow",
-		"description": "Unknown",
 		"advanceId": "imitation_13L1",
 		"weapon": "digger_thunder",
 		"icon": "imitation_13",
@@ -314,7 +287,6 @@
 	},
 	"imitation_14": {
 		"name": "Pepper",
-		"description": "Unknown",
 		"weapon": "stave_thunder",
 		"icon": "imitation_14",
 		"avatarID": "peipei",
@@ -322,7 +294,6 @@
 	},
 	"imitation_15": {
 		"name": "Hilda",
-		"description": "Unknown",
 		"weapon": "cannon_ice",
 		"icon": "imitation_15",
 		"avatarID": "hida",
@@ -330,7 +301,6 @@
 	},
 	"imitation_16": {
 		"name": "Bai Ling",
-		"description": "Unknown",
 		"weapon": "bow_physic",
 		"icon": "imitation_16",
 		"avatarID": "bailing",
@@ -338,7 +308,6 @@
 	},
 	"imitation_1L1": {
 		"name": "Zero",
-		"description": "Unknown",
 		"weapon": "cube_fire",
 		"icon": "erjie_imitation_1",
 		"avatarID": "ling",
@@ -346,7 +315,6 @@
 	},
 	"imitation_3L1": {
 		"name": "Meryl",
-		"description": "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
 		"weapon": "bigsword_ice",
 		"icon": "erjie_imitation_3",
 		"avatarID": "None",
@@ -354,7 +322,6 @@
 	},
 	"imitation_5L1": {
 		"name": "Samir",
-		"description": "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
 		"weapon": "dgun_thunder",
 		"icon": "erjie_imitation_5",
 		"avatarID": "None",
@@ -362,7 +329,6 @@
 	},
 	"imitation_6L1": {
 		"name": "Huma",
-		"description": "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
 		"weapon": "ShieldAxe_Fire",
 		"icon": "erjie_imitation_6",
 		"avatarID": "None",
@@ -370,7 +336,6 @@
 	},
 	"imitation_7L1": {
 		"name": "Tsubasa",
-		"description": "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
 		"weapon": "bow_ice",
 		"icon": "erjie_imitation_7",
 		"avatarID": "sifengyuanyu",
@@ -378,7 +343,6 @@
 	},
 	"imitation_8L1": {
 		"name": "Shiro",
-		"description": "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
 		"weapon": "darts_physic",
 		"icon": "erjie_imitation_8",
 		"avatarID": "None",
@@ -386,7 +350,6 @@
 	},
 	"imitation_9L1": {
 		"name": "KING",
-		"description": "Unknown",
 		"weapon": "sickle_fire",
 		"icon": "erjie_imitation_9",
 		"avatarID": "KING",
@@ -394,7 +357,6 @@
 	},
 	"imitation_10L1": {
 		"name": "Cobalt-B",
-		"description": "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
 		"weapon": "gun_fire",
 		"icon": "erjie_imitation_10",
 		"avatarID": "None",
@@ -402,7 +364,6 @@
 	},
 	"imitation_11L1": {
 		"name": "Cocoritter",
-		"description": "Born in Warren Snowfield, I had been dreaming of getting away and traveling the world. But when I was 14, an avalanche destroyed our shelter. Both my parents died and only I survived, as they had covered me with their bodies. I was rescued by the church that came to preach. After 4 years of living with them, I was selected as the Executor of the church, responsible for eliminating the heretics among us.",
 		"weapon": "stave_ice",
 		"icon": "erjie_imitation_11",
 		"avatarID": "None",
@@ -410,7 +371,6 @@
 	},
 	"imitation_12L1": {
 		"name": "Claudia",
-		"description": "Unknown",
 		"weapon": "sword_physic",
 		"icon": "erjie_imitation_12",
 		"avatarID": "kelaodiya",
@@ -418,7 +378,6 @@
 	},
 	"imitation_13L1": {
 		"name": "Crow",
-		"description": "Unknown",
 		"weapon": "digger_thunder",
 		"icon": "erjie_imitation_13",
 		"avatarID": "wuwan",
@@ -426,7 +385,6 @@
 	},
 	"imitation_17L1": {
 		"name": "Nemesis",
-		"description": "Unknown",
 		"weapon": "Suspension_thunder",
 		"icon": "erjie_imitation_17",
 		"avatarID": "naimeixisi",
@@ -434,7 +392,6 @@
 	},
 	"imitation_28L1": {
 		"name": "Frigg",
-		"description": "Unknown",
 		"advanceId": "None",
 		"weapon": "Frigg_ice",
 		"icon": "erjie_imitation_28",
@@ -443,7 +400,6 @@
 	},
 	"imitation_22L1": {
 		"name": "Saki Fuwa",
-		"description": "Unknown",
 		"advanceId": "imitation_22L1",
 		"weapon": "Dkatana_ice",
 		"icon": "erjie_imitation_22",
@@ -452,7 +408,6 @@
 	},
 	"imitation_23L1": {
 		"name": "Lin",
-		"description": "Unknown",
 		"weapon": "fan_superpower",
 		"icon": "erjie_imitation_23",
 		"avatarID": "linye",
@@ -460,7 +415,6 @@
 	},
 	"imitation_21L1": {
 		"name": "Ruby",
-		"description": "Unknown",
 		"weapon": "funnel_fire",
 		"icon": "imitation_21L1",
 		"avatarID": "leibei",
@@ -468,7 +422,6 @@
 	},
 	"imitation_24L1": {
 		"name": "Lyra",
-		"description": "Unknown",
 		"weapon": "arm_physicLV3",
 		"icon": "imitation_24L1",
 		"avatarID": "xinghuan",
@@ -476,7 +429,6 @@
 	},
 	"imitation_26L1": {
 		"name": "Annabella",
-		"description": "Unknown",
 		"weapon": "snipe_fire",
 		"icon": "erjie_imitation_26",
 		"avatarID": "Annabella",
@@ -484,7 +436,6 @@
 	},
 	"imitation_29L1": {
 		"name": "Tian Lang",
-		"description": "Unknown",
 		"advanceId": "imitation_29L1",
 		"weapon": "tianlang_thunder_Level3",
 		"icon": "erjie_imitation_29",
@@ -493,7 +444,6 @@
 	},
 	"imitation_32L1": {
 		"name": "Fenrir",
-		"description": "Unknown",
 		"advanceId": "imitation_32L1",
 		"weapon": "fenrir_thunder_lv3",
 		"icon": "erjie_imitation_32",
@@ -502,7 +452,6 @@
 	},
 	"imitation_30L1": {
 		"name": "Alyss",
-		"description": "Unknown",
 		"advanceId": "imitation_30L1",
 		"weapon": "iceblade_ice_lv3",
 		"icon": "erjie_imitation_30",
@@ -511,7 +460,6 @@
 	},
 	"imitation_34L1": {
 		"name": "Lan",
-		"description": "Unknown",
 		"advanceId": "imitation_34L1",
 		"weapon": "umbrella_fire_lv3",
 		"icon": "erjie_imitation_34",
@@ -520,7 +468,6 @@
 	},
 	"imitation_31L1": {
 		"name": "Umi",
-		"description": "Unknown",
 		"advanceId": "imitation_31L1",
 		"weapon": "Whip_physic_lv3",
 		"icon": "erjie_imitation_31",
@@ -529,7 +476,6 @@
 	},
 	"imitation_35L1": {
 		"name": "Icarus",
-		"description": "Unknown",
 		"weapon": "Yoyo_ice_Level3",
 		"icon": "erjie_imitation_35",
 		"avatarID": "Icarus",
@@ -537,7 +483,6 @@
 	},
 	"imitation_36L1": {
 		"name": "Fiona",
-		"description": "Unknown",
 		"weapon": "queen_superpower_lv3",
 		"icon": "erjie_imitation_36",
 		"avatarID": "feiouna",
@@ -545,7 +490,6 @@
 	},
 	"imitation_27L1": {
 		"name": "Gnonno",
-		"description": "Unknown",
 		"weapon": "Chainsaw_physic_lv3",
 		"icon": "imitation_27_2",
 		"avatarID": "genuonuo",
@@ -553,7 +497,6 @@
 	},
 	"imitation_38L1": {
 		"name": "Yu Lan",
-		"description": "Unknown",
 		"advanceId": "None",
 		"weapon": "yulan_ice_lv3",
 		"icon": "erjie_imitation_38",
@@ -562,7 +505,6 @@
 	},
 	"imitation_48L1": {
 		"name": "Rubilia",
-		"description": "Unknown",
 		"weapon": "Rubilia_thunder_Level3",
 		"icon": "erjie_imitation_48",
 		"avatarID": "leibiliya",
@@ -570,7 +512,6 @@
 	},
 	"imitation_37L1": {
 		"name": "Liu Huo",
-		"description": "Unknown",
 		"weapon": "brush_fire_lv3",
 		"icon": "erjie_imitation_37",
 		"avatarID": "feiouna",
@@ -578,15 +519,20 @@
 	},
 	"imitation_41L1": {
 		"name": "Huang",
-		"description": "Unknown",
 		"weapon": "mimi_thunder_lv3",
 		"icon": "erjie_imitation_41",
 		"avatarID": "mimi",
 		"id": "imitation_41L1"
 	},
+	"imitation_43L1": {
+		"name": "Ling Han",
+		"weapon": "Linghan_ice_Level3",
+		"icon": "erjie_imitation_43",
+		"avatarID": "linghan",
+		"id": "imitation_43L1"
+	},
 	"imitation_50L1": {
 		"name": "Ming Jing",
-		"description": "Unknown",
 		"weapon": "Zeke_physic_Level3",
 		"icon": "erjie_imitation_50",
 		"avatarID": "mingjing",
@@ -594,7 +540,6 @@
 	},
 	"imitation_51L1": {
 		"name": "Fei Se",
-		"description": "Unknown",
 		"weapon": "feise_fire_lv3",
 		"icon": "erjie_imitation_51",
 		"avatarID": "feise",

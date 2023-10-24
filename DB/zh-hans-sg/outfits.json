@@ -6,6 +6,30 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f27_lanmaozi",
 		"id": "fashion_dress_27"
 	},
+	"fashion_dress_58": {
+		"name": "织锦璎璃",
+		"description": "尖叫的南瓜人偶，热闹的假面舞会。穿上它，你可以闪亮登场万众瞩目，也可以没入夜色，徒留绯红与风声。",
+		"type": "Dress",
+		"source": "织锦璎璃扭蛋活动获取",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"id": "fashion_dress_58"
+	},
+	"fashion_dress_55": {
+		"name": "海风絮语",
+		"description": "夏日炎炎，漫步在沙滩上，随风摆动的轻纱带来盛夏的摇漾",
+		"type": "Dress",
+		"source": "海风絮语扭蛋活动获取",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f66",
+		"id": "fashion_dress_55"
+	},
+	"fashion_dress_56": {
+		"name": "玩转时空",
+		"description": "只要给我一个游戏币，我能带你玩上一整天！",
+		"type": "Dress",
+		"source": "通行证获取",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56",
+		"id": "fashion_dress_56"
+	},
 	"fashion_dress_54": {
 		"name": "次元跃迁",
 		"description": "新的世界，新的幻想旅程，出发！",
@@ -306,6 +330,7 @@
 		"name": "寻觅众里",
 		"description": "不经意的回首，注意到人群中独一无二的你。",
 		"type": "Dress",
+		"source": "第10期通行证获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f53",
 		"id": "fashion_dress_52"
 	},
@@ -817,6 +842,36 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_131",
 		"id": "fashion_decoration_83"
 	},
+	"fashion_decoration_86": {
+		"name": "暴食之环",
+		"description": "以饕餮的盔甲制作而成饰品，通过电磁吸附的方式佩戴。",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_137",
+		"id": "fashion_decoration_86"
+	},
+	"fashion_decoration_87": {
+		"name": "银色沙滩",
+		"description": "夏日的海边，你需要墨镜阻断紫外线的直射。",
+		"type": "Headwear",
+		"source": "活动获取",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_decoration_87_female",
+		"id": "fashion_decoration_87"
+	},
+	"fashion_decoration_88": {
+		"name": "启明之环",
+		"description": "海嘉德授予钻石导师的荣誉，以表彰那些给予新人最多帮助的导师！",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88",
+		"id": "fashion_decoration_88"
+	},
+	"fashion_decoration_91": {
+		"name": "小小恶魔",
+		"description": "潜藏在黑夜里的小小恶魔来袭，小心你的脖子哟~",
+		"type": "Headwear",
+		"source": "活动获取",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+		"id": "fashion_decoration_91"
+	},
 	"fashion_weapon_1": {
 		"name": "大剑",
 		"description": "大剑",
@@ -1018,6 +1073,75 @@
 		"source": "运营活动获取",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",
 		"id": "fashion_Guidenpc_mia_oversea_1"
+	},
+	"fashion_medal_0": {
+		"name": "无装饰",
+		"type": "Medal",
+		"icon": "None",
+		"id": "fashion_medal_0"
+	},
+	"fashion_medal_1": {
+		"name": "旧日幻象之星",
+		"description": "钻石打造的纪念勋章，中间是旧日幻象的徽记，在旧日幻象中单个赛季取得第一名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Diamond",
+		"id": "fashion_medal_1"
+	},
+	"fashion_medal_2": {
+		"name": "耀金幻象勋章",
+		"description": "纯金打造的纪念勋章，中间是旧日幻象的徽记，在旧日幻象中单个赛季取得第二名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Gold",
+		"id": "fashion_medal_2"
+	},
+	"fashion_medal_3": {
+		"name": "皓银幻象勋章",
+		"description": "纯银打造的纪念勋章，中间是旧日幻象的徽记，在旧日幻象中单个赛季取得第三名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Silver",
+		"id": "fashion_medal_3"
+	},
+	"fashion_medal_4": {
+		"name": "启明导师之星",
+		"description": "夺目耀眼的星辰装饰，象征着钻石导师的身份，谨以此嘉奖作为导师协助他人的贡献。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond",
+		"id": "fashion_medal_4"
+	},
+	"fashion_medal_5": {
+		"name": "璀璨导师之星",
+		"description": "金光灿烂的星辰装饰，象征着金牌导师的身份，谨以此嘉奖作为导师协助他人的贡献。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold",
+		"id": "fashion_medal_5"
+	},
+	"fashion_medal_6": {
+		"name": "辉白导师之星",
+		"description": "辉银色的星辰装饰，象征着银牌导师的身份，谨以此嘉奖作为导师协助他人的贡献。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver",
+		"id": "fashion_medal_6"
+	},
+	"fashion_medal_7": {
+		"name": "起源战境之星",
+		"description": "钻石打造的纪念勋章，中间是起源战境的徽记，在起源战境中单个赛季取得第一名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Diamond",
+		"id": "fashion_medal_7"
+	},
+	"fashion_medal_8": {
+		"name": "耀金起源勋章",
+		"description": "纯金打造的纪念勋章，中间是起源战境的徽记，在起源战境中单个赛季取得第二名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Gold",
+		"id": "fashion_medal_8"
+	},
+	"fashion_medal_9": {
+		"name": "皓银起源勋章",
+		"description": "纯银打造的纪念勋章，中间是起源战境的徽记，在起源战境中单个赛季取得第三名才可获得。",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Silver",
+		"id": "fashion_medal_9"
 	},
 	"fashion_Guidenpc_mia_10": {
 		"name": "驯鹿Mi-a",

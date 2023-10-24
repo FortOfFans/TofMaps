@@ -5629,7 +5629,7 @@
 			},
 			{
 				"name": "Weave",
-				"description": "When on the ground, holding any dodge can trigger Weave, dashing for a distance towards the sky (does not work in areas where Jetpack can't be used).",
+				"description": "When on the ground, holding any dodge can trigger Weave, dashing for a distance toward the sky (does not work in areas where Jetpack can't be used).",
 				"icon": "skill_rubilia_fly",
 				"id": "GA_FPlayerRubiliaEvade_Move"
 			},
@@ -5745,7 +5745,9 @@
 	"GA_FPlayerLinghanChangeSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_changeskill",
+				"name": "Sword Art: Icy Beckon",
+				"description": "When <red>weapon charge is full</> or <red>Phantasia</> is triggered, upon switching to this weapon, <shuzhi>remove all debuffs from the Wanderer</> and summon a Sword Array around the Wanderer, engulfing the area in cold and dealing damage up to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets. Soon after, summon a White Tiger to deal damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</>, during which damage immunity lasts for <shuzhi>1.5</> seconds (unavailable in Apex League).\r\n<shuzhi>Passive</>: After Sword Art: Icy Beckon lands a hit, increase final damage by <shuzhi>8%</> for <shuzhi>30</> seconds.",
+				"icon": "skill_linghan_changeskill",
 				"id": "GA_FPlayerLinghanChangeSkill_Success"
 			}
 		]
@@ -5753,15 +5755,21 @@
 	"GA_FPlayerLinghanEvade": {
 		"skills": [
 			{
+				"name": "Dodge",
+				"description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.",
 				"icon": "common_evade",
 				"id": "GA_FPlayerLinghanEvade_Evade"
 			},
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "Sword Art: Cloud Shower",
+				"description": "Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Sword Art: Cloud Shower, dealing damage up to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to targets hit.",
+				"icon": "skill_linghan_fevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
 			},
 			{
-				"icon": "skill_zeke_bevadeattack",
+				"name": "Sword Art: Mortal Soul",
+				"description": "Use normal attack during the short period after dodging to trigger Sword Art: Mortal Soul. Release a White Tiger illusion to deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to targets ahead.",
+				"icon": "skill_linghan_bevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
 			}
 		]
@@ -5769,27 +5777,43 @@
 	"GA_FPlayerLinghanMelee": {
 		"skills": [
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "Sword Art: Mooncutter",
+				"description": "While on the ground, use normal attack to launch 6 attacks in a row.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> and knock the target back.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</> and knock the target back.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK plus <shuzhi>{5}</> and knock the target back.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK plus <shuzhi>{7}</> and knock the target back.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK plus <shuzhi>{9}</> and draw in enemies to the front of the Wanderer.\r\nSixth Attack: Deal damage equal to <shuzhi>{10}%</> of ATK plus <shuzhi>{11}</> and launch the target.\r\nAfter triggering Sword Art: Mooncutter, tap and hold normal attack to trigger <shuzhi>Sword Art: Endless Snow</>.\r\n\r\nAfter any of <shuzhi>Alabaster Tiger's</> normal attacks land a hit, apply <shuzhi>1</> stack of <shuzhi>Crystalline Crack</> to the target, dealing normal attack damage equal to <shuzhi>{12}%</> of ATK every second for <shuzhi>15</> seconds. Only <shuzhi>1</> stack of Crystalline Crack can be applied to the same target every <shuzhi>4</> seconds, stacking up to <shuzhi>3</> times. The stacks will disappear one by one after the effect duration is over.",
+				"icon": "skill_linghan_melee",
 				"id": "GA_FPlayerLinghanMelee_Melee"
 			},
 			{
-				"icon": "skill_zeke_airattack",
+				"name": "Sword Art: Plum Swordcry",
+				"description": "While airborne, use normal attack to launch 6 consecutive attacks in mid-air, consuming endurance.\r\nFirst Attack: Deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</>.\r\nSecond Attack: Deal damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</>.\r\nThird Attack: Deal damage equal to <shuzhi>{4}%</> of ATK plus <shuzhi>{5}</>.\r\nFourth Attack: Deal damage equal to <shuzhi>{6}%</> of ATK plus <shuzhi>{7}</>.\r\nFifth Attack: Deal damage equal to <shuzhi>{8}%</> of ATK plus <shuzhi>{9}</>.\r\nSixth Attack: Deal damage equal to <shuzhi>{10}%</> of ATK plus <shuzhi>{11}</>.",
+				"icon": "skill_linghan_airattack",
 				"id": "GA_FPlayerLinghanMelee_AirAttack"
 			},
 			{
-				"icon": "skill_zeke_branch",
+				"name": "Sword Art: Endless Snow",
+				"description": "While using normal attack on the ground, tap and hold normal attack to trigger Sword Art: Endless Snow.\r\nUse mind control to manipulate the sword while consuming endurance, during which the Wanderer gains hyperbody. Every attack that lands deals damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets.\r\nWhen Sword Art: Endless Snow ends, release a powerful sword aura, dealing damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</> to nearby targets.",
+				"icon": "skill_linghan_powerattack",
 				"id": "GA_FPlayerLinghanMelee_PowerAttack"
 			},
 			{
-				"icon": "skill_zeke_jumpattack",
+				"name": "Sword Art: Falling Frost",
+				"description": "Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Sword Art: Falling Frost.\r\nWhile falling, deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> each time the target is hit. Upon landing, deal damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}</> to nearby targets.",
+				"icon": "skill_linghan_jumpattack",
 				"id": "GA_FPlayerLinghanMelee_JumpAttack"
+			},
+			{
+				"name": "Light Steps",
+				"description": "While the Wanderer is airborne after double jumping, tap jump to trigger Light Steps. Briefly dash upward before continuously gliding. While airborne, Light Steps can be used up to <shuzhi>2</> times.\r\nWhile on the ground, Light Steps recovers <shuzhi>1</> use attempt every <shuzhi>10</> seconds (switching areas, switching weapons, or unequipping <shuzhi>Alabaster Tiger</> will reset the use attempts).",
+				"icon": "skill_linghan_qinggong",
+				"id": "GA_FPlayerLinghanMelee_QingGong"
 			}
 		]
 	},
 	"GA_FPlayerLinghanSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_skill",
+				"name": "Sword Art: Shadowy Ice",
+				"description": "Deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets and draw them in. Then, form a Sword Array to summon a heavy rain of swords and <shuzhi>strongly freeze</> targets (unavailable in Apex League and against bosses) for <shuzhi>4</> seconds. Cooldown: <shuzhi>30</> seconds.\r\nAfter successfully using Sword Art: Shadowy Ice, the Wanderer emits <shuzhi>Cold Air</>, dealing damage equal to <shuzhi>{4}%</> of ATK to nearby targets every second and reducing the targets' speed by <shuzhi>30%</> (unavailable in Apex League and against bosses).\r\nAfter completely executing Sword Art: Shadowy Ice, the Wanderer creates a large amount of <shuzhi>Frost Blades</>, firing <shuzhi>1</> blade every <shuzhi>7.5</> seconds at the currently locked-on target, dealing damage equal to <shuzhi>{5}%</> of ATK and inflicting <shuzhi>Temperature Reduction</> on the target. There can be up to <shuzhi>3</> <shuzhi>Frost Blades</> created initially, and all blades will be removed while in the non-combat state.\r\n<shuzhi>Temperature Reduction</>: Deal damage equal to <shuzhi>{6}%</> of ATK every <shuzhi>3</> seconds to nearby targets for <shuzhi>12</> seconds.",
+				"icon": "skill_linghan_skill",
 				"id": "GA_FPlayerLinghanSkill_Skill"
 			}
 		]
@@ -6199,7 +6223,7 @@
 		"skills": [
 			{
 				"name": "Unparalleled Jade Pool",
-				"description": "When <red>weapon charge is full</> or <red>Phantasia</> is triggered, upon switching to this weapon, <shuzhi>remove all debuffs from the Wanderer</>, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</>. During this period, gain damage immunity for <shuzhi>1.5</> seconds (unavailable in Apex League).",
+				"description": "When <red>weapon charge is full</> or <red>Phantasia</> is triggered, upon switching to this weapon, <shuzhi>remove all debuffs from the Wanderer</>, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</>. During this period, gain damage immunity for <shuzhi>2.6</> seconds (unavailable in Apex League).",
 				"icon": "feise_changeskill",
 				"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 			}
@@ -6215,7 +6239,7 @@
 			},
 			{
 				"name": "Scatter",
-				"description": "Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Flower Scatter, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets.\r\n\r\nDuring <shuzhi>Mirage Fantasy</> created by <shuzhi>Whirling</>, after the first dodge attack using any weapon lands a hit, trigger Flower Graft, creating a Fei Se's Phantasia and Lotus Petals.\r\n<shuzhi>Fei Se's Phantasia</>: Upon creation, Fei Se's Phantasia copies <shuzhi>25%</> of the target's Max ATK and converts it to the Wanderer's <shuzhi>base flame ATK</> (not lower than <shuzhi>3,300</> and not exceeding <shuzhi>3,450</>; this flame ATK will not be reflected on the Wanderer's stats and is unavailable in Apex League) until Fei Se's Phantasia disappears. This is calculated independently for each Fei Se's Phantasia. There can be only <shuzhi>1</> Fei Se's Phantasia at a time.\r\n<shuzhi>Lotus Petal</>: Upon creation, the Lotus Petal count is equal to the number of summons created by the Wanderer's weapons other than Endless Bloom. After creation, the Lotus Petal count does not change with the number of summons. Lotus Petals are considered as summons.",
+				"description": "Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Flower Scatter, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets.\r\n\r\nDuring <shuzhi>Mirage Fantasy</> created by <shuzhi>Whirling</>, after the first dodge attack using any weapon lands a hit, trigger Flower Graft, creating a Fei Se's Phantasia and Lotus Petal.\r\n<shuzhi>Fei Se's Phantasia</>: Upon creation, Fei Se's Phantasia copies <shuzhi>25%</> of the target's Max ATK and converts it to the Wanderer's <shuzhi>base flame ATK</> (not lower than <shuzhi>6,500</> and not exceeding <shuzhi>10,000</>; this flame ATK will not be reflected on the Wanderer's stats and is unavailable in Apex League) until Fei Se's Phantasia disappears. This is calculated independently for each Fei Se's Phantasia. There can be only <shuzhi>1</> Fei Se's Phantasia at a time.\r\n<shuzhi>Lotus Petal</>: Upon creation, the Lotus Petal count is equal to the number of summons created by the Wanderer's weapons other than Endless Bloom. After creation, the Lotus Petal count does not change with the number of summons. Lotus Petals are considered as summons.",
 				"icon": "feise_evadefront",
 				"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 			},
@@ -6271,7 +6295,7 @@
 		"skills": [
 			{
 				"name": "Whirling",
-				"description": "Deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets and create a Mirage Fantasy, which lasts up to <shuzhi>25</> seconds.\r\nWhen Whirling is in cooldown, gain the new skill, Lissom. Lissom can be used after the Mirage has been active for <shuzhi>20</> seconds.\r\nAfter the Mirage disappears, immediately refresh Whirling's cooldown. This is not affected by other cooldown clearing, resetting, or changing effects.\r\n\r\nDuring the Mirage:\r\nEvery second, deal Soulwear damage equal to <shuzhi>{2}%</> of ATK to targets in the Mirage. Soulwear damage counts as normal attack damage.\r\nEvery <shuzhi>5</> seconds, inflict Blazing Heart on targets in the Mirage, dealing burn damage equal to <shuzhi>{3}%</> of ATK, lasting for <shuzhi>5</> seconds. For every <shuzhi>1</> <shuzhi>Fei Se's Phantasia</> or <shuzhi>Lotus Petal</> created by the Wanderer in the Mirage, Blazing Heart's damage is additionally increased by <shuzhi>6%</>.",
+				"description": "Deal damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> to nearby targets and create a Mirage Fantasy, lasting up to <shuzhi>25</> seconds.\r\nWhen Whirling is in cooldown, gain the new skill, Lissom. Lissom can be used after the Mirage has been active for <shuzhi>20</> seconds.\r\nAfter the Mirage disappears, immediately refresh Whirling's cooldown. This is not affected by other cooldown clearing, resetting, or changing effects.\r\n\r\nDuring the Mirage:\r\nEvery second, deal Soulwear damage equal to <shuzhi>{2}%</> of ATK. Soulwear damage counts as normal attack damage.\r\nEvery <shuzhi>5</> seconds, inflict Blazing Heart on targets within range, dealing burn damage equal to <shuzhi>{3}%</> of ATK for <shuzhi>5</> seconds. For every <shuzhi>1</> <shuzhi>Fei Se's Phantasia</> or <shuzhi>Lotus Petal</> created by the Wanderer in the Mirage, Blazing Heart's damage is additionally increased by <shuzhi>15%</>.",
 				"icon": "feise_skill1",
 				"id": "GA_FPlayerFeiseSkill_Skill1"
 			},
@@ -6761,7 +6785,7 @@
 			},
 			{
 				"name": "Starfall",
-				"description": "Leap towards the target, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> and <shuzhi>strongly suspending</> it. Inflict an Enlightenment mark on the target for <shuzhi>18</> seconds. Cooldown: <shuzhi>20</> seconds.",
+				"description": "Leap toward the target, dealing damage equal to <shuzhi>{0}%</> of ATK plus <shuzhi>{1}</> and <shuzhi>strongly suspending</> it. Inflict an Enlightenment mark on the target for <shuzhi>18</> seconds. Cooldown: <shuzhi>20</> seconds.",
 				"icon": "skill_arm_airattack2",
 				"id": "GA_FPlayerArmPublishSkillPhy"
 			},

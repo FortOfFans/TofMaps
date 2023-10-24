@@ -883,40 +883,48 @@
 		"id": "suit_SSR35_2"
 	},
 	"suit_SSR35_3": {
-		"twopc": "Final DMG meningkat sebesar 7%/8%/9%/**10%**. Setelah gelombang dari Azura menghantam lawan, DMG Skill meningkat **15%** selama **3000** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"twopc": "Final DMG meningkat sebesar 7%/8%/9%/**10%**. Setelah Azura Shockwave menghantam lawan, DMG Skill meningkat **15%** selama **3000** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
 		"fourpc": "Saat memakai setidaknya **1** Senjata Volt, semua DMG Elemental meningkat 14%/17%/20%/**23%**. Setelah menggunakan **Azure Moon** / **Soaring Dragon**, Crit DMG meningkat **6%** selama **3000** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
 		"id": "suit_SSR35_3"
 	},
 	"suit_SSR36_0": {
-		"twopc": "Setelah menggunakan Skill atau Skill Discharge dari Senjata Flame apa saja, semua ATK meningkat **18%**/22%/26%/30% selama **3000** detik. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
-		"fourpc": "Saat memakai setidaknya **1** Senjata Flame, semua DMG Elemental meningkat **28%**/32%/36%/40%. Setelah Fei Se Phantasia terpicu, Final DMG meningkat **20%** selama **2500** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"twopc": "Setelah menggunakan Skill atau Skill Discharge dari Senjata Flame apa saja, semua ATK meningkat **14%**/16%/18%/20% selama **3000** detik. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"fourpc": "Saat memakai setidaknya **1** Senjata Flame, semua DMG Elemental meningkat **14%**/17%/20%/23%. Setelah Fei Se Phantasia terpicu, Final DMG juga akan meningkat **9%** selama **2500** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
 		"id": "suit_SSR36_0"
 	},
 	"suit_SSR36_1": {
-		"twopc": "Setelah menggunakan Skill atau Skill Discharge dari Senjata Flame apa saja, semua ATK meningkat 18%/**22%**/26%/30% selama **3000** detik. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
-		"fourpc": "Saat memakai setidaknya **1** Senjata Flame, semua DMG Elemental meningkat 28%/**32%**/36%/40%. Setelah Fei Se Phantasia terpicu, Final DMG meningkat **20%** selama **2500** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"twopc": "Setelah menggunakan Skill atau Skill Discharge dari Senjata Flame apa saja, semua ATK meningkat 14%/**16%**/18%/20% selama **3000** detik. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"fourpc": "Saat memakai setidaknya **1** Senjata Flame, semua DMG Elemental meningkat 14%/**17%**/20%/23%. Setelah Fei Se Phantasia terpicu, Final DMG juga akan meningkat **9%** selama **2500** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
 		"id": "suit_SSR36_1"
 	},
 	"suit_SSR36_2": {
-		"twopc": "Setelah menggunakan Skill atau Skill Discharge dari Senjata Flame apa saja, semua ATK meningkat 18%/22%/**26%**/30% selama **3000** detik. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
-		"fourpc": "Saat memakai setidaknya **1** Senjata Flame, semua DMG Elemental meningkat 28%/32%/**36%**/40%. Setelah Fei Se Phantasia terpicu, Final DMG meningkat **20%** selama **2500** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"twopc": "Setelah menggunakan Skill atau Skill Discharge dari Senjata Flame apa saja, semua ATK meningkat 14%/16%/**18%**/20% selama **3000** detik. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"fourpc": "Saat memakai setidaknya **1** Senjata Flame, semua DMG Elemental meningkat 14%/17%/**20%**/23%. Setelah Fei Se Phantasia terpicu, Final DMG juga akan meningkat **9%** selama **2500** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
 		"id": "suit_SSR36_2"
 	},
 	"suit_SSR36_3": {
-		"twopc": "Setelah menggunakan Skill atau Skill Discharge dari Senjata Flame apa saja, semua ATK meningkat 18%/22%/26%/**30%** selama **3000** detik. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
-		"fourpc": "Saat memakai setidaknya **1** Senjata Flame, semua DMG Elemental meningkat 28%/32%/36%/**40%**. Setelah Fei Se Phantasia terpicu, Final DMG meningkat **20%** selama **2500** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"twopc": "Setelah menggunakan Skill atau Skill Discharge dari Senjata Flame apa saja, semua ATK meningkat 14%/16%/18%/**20%** selama **3000** detik. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"fourpc": "Saat memakai setidaknya **1** Senjata Flame, semua DMG Elemental meningkat 14%/17%/20%/**23%**. Setelah Fei Se Phantasia terpicu, Final DMG juga akan meningkat **9%** selama **2500** detik. Efek set ini berfungsi saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
 		"id": "suit_SSR36_3"
 	},
 	"suit_SSR37_0": {
+		"twopc": "Semua DMG Elemental meningkat **7%**/8%/9%/10%. Saat menembakkan Frost Blade, menimpakan DMG tambahan sebesar **416%** ATK pada target di sekitar. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"fourpc": "Setelah menggunakan Skill Discharge dari Senjata Frost apa saja, Final DMG meningkat **12%**/15%/19%/23% selama **3000** detik. Saat **Alabaster Tiger** terpasang, Semua ATK meningkat **12%**. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
 		"id": "suit_SSR37_0"
 	},
 	"suit_SSR37_1": {
+		"twopc": "Semua DMG Elemental meningkat 7%/**8%**/9%/10%. Saat menembakkan Frost Blade, menimpakan DMG tambahan sebesar **416%** ATK pada target di sekitar. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"fourpc": "Setelah menggunakan Skill Discharge dari Senjata Frost apa saja, Final DMG meningkat 12%**15%/19%/23% selama **3000** detik. Saat **Alabaster Tiger** terpasang, Semua ATK meningkat **12%**. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
 		"id": "suit_SSR37_1"
 	},
 	"suit_SSR37_2": {
+		"twopc": "Semua DMG Elemental meningkat 7%/8%/**9%**/10% Saat menembakkan Frost Blade, menimpakan DMG tambahan sebesar **416%** ATK pada target di sekitar. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"fourpc": "Setelah menggunakan Skill Discharge dari Senjata Frost apa saja, Final DMG meningkat 12%/15%/**19%/23% selama **3000** detik. Saat **Alabaster Tiger** terpasang, Semua ATK meningkat **12%**. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
 		"id": "suit_SSR37_2"
 	},
 	"suit_SSR37_3": {
+		"twopc": "Semua DMG Elemental meningkat 7%/8%/9%/**10%**. Saat menembakkan Frost Blade, menimpakan DMG tambahan sebesar **416%** ATK pada target di sekitar. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
+		"fourpc": "Setelah menggunakan Skill Discharge dari Senjata Frost apa saja, Final DMG meningkat 12%/15%/19%/**23%** selama **3000** detik. Saat **Alabaster Tiger** terpasang, Semua ATK meningkat **12%**. Efek set ini juga aktif saat senjata ada di slot sampingan, tapi yang akan berlaku hanyalah set yang rating bintangnya paling tinggi.",
 		"id": "suit_SSR37_3"
 	}
 }

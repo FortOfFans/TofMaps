@@ -131,9 +131,9 @@
 		"id": "WeaponFragment"
 	},
 	"GenePointAttack": {
-		"name": "Originum (Attack)",
-		"description": "Produk sampingan misterius berasal dari penelitian radiasi Omnium yang memengaruhi evolusi makhluk dengan suatu tujuan. Setelah penelitian dan pengoptimalan selama bertahun-tahun, kini produk ini bisa digunakan dengan aman pada tubuh manusia.",
-		"icon": "/Game/Resources/Icon/item/jysicon",
+		"name": "Dominium",
+		"description": "Mata uang umum dan satu-satunya mata uang resmi Domain 9 yang dikeluarkan oleh Zhen Gong. Mata uang ini mengandung sedikit bahan yang digunakan untuk membuat Timestamp sebagai pencegah pemalsuan.",
+		"icon": "/Game/Resources/Icon/huobi/jiuyu_coin",
 		"id": "GenePointAttack"
 	},
 	"GuildCaption": {
@@ -551,7 +551,7 @@
 	},
 	"GameActivityCoin4": {
 		"name": "Spacetime Crystal Fragment",
-		"description": "Fragmen yang melayang di lintasan operasi ruang-waktu ini berasal dari ruang-waktu yang hancur.",
+		"description": "Fragmen yang melayang di lintasan operasi ruang-waktu ini berasal dari dimensi ruang-waktu yang runtuh.",
 		"icon": "/Game/Resources/Icon/huobi/Energy_5",
 		"id": "GameActivityCoin4"
 	},

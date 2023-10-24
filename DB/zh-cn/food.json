@@ -9,4262 +9,5095 @@
 		"quality": "ITEM_QUALITY_POOR"
 	},
 	"Item_Cooking_0901": {
-		"name": "สตูว์รสแย่",
+		"name": "劣质乱炖",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "มีส่วนผสมที่ไม่รู้จักผสมกันในหม้อใหญ่ ระหว่างปรุงสารอาหารก็หายไปด้วย",
+		"description": "不知名的一堆食物以拙劣的方式放入大锅内炖烂，熟透了同时也丧失了大部分营养。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/Item_Cooking_901",
 		"stars": 0,
 		"quality": "ITEM_QUALITY_POOR",
-		"ingredients": []
+		"ingredients": [],
+		"ingredientsraw": []
 	},
 	"Item_Cooking_0902": {
-		"name": "สตูว์ชั้นดี",
+		"name": "优质乱炖",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "มันดูเหมือนจะอร่อย แต่สุดท้ายตัวเลือกส่วนผสมก็ทำให้อาหารจานนี้หมดอร่อย...",
+		"description": "从操作上看起来似乎烹饪成功了，但是食材的选择似乎又导致最终菜肴搭配的失败...",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/Item_Cooking_902",
 		"stars": 0,
 		"quality": "ITEM_QUALITY_POOR",
-		"ingredients": []
+		"ingredients": [],
+		"ingredientsraw": []
 	},
 	"Item_Cooking_1001": {
-		"name": "เห็ดทอด",
+		"name": "炒蘑菇",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "นอกจากรสชาติแล้ว อย่างน้อยมันก็ปรุงสุกและไม่ดิบ",
+		"description": "至少从生的变成了熟的，虽然味道还有待改进。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1001",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1002": {
-		"name": "ซุปไข่ใส่สาหร่าย",
+		"name": "紫菜蛋汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "มีสาหร่ายแดงสดและโปรตีนสูง กินแล้วอิ่มท้องดี",
+		"description": "既有紫菜的鲜美，又有蛋白质的营养，能灌饱肚子的实惠料理。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1002",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Greens007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens007, 2, 2",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1003": {
-		"name": "ปลาทอดกรอบ",
+		"name": "香脆烤鱼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "หนึ่งในอาหารที่เป็นที่นิยมในเมืองท่าของเบนเจส ถูกและอร่อย",
+		"description": "码头都市班吉斯最受欢迎的小吃之一，便宜又美味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1003",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Fishes_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1004": {
-		"name": "ขนมปังธัญพืช",
+		"name": "粗粮面包",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ทำจากเมล็ดแปรรูป มีคุณค่าทางโภชนาการและเก็บรักษาง่าย นักพเนจรทุกคนควรพกติดตัว",
+		"description": "麦子经过加工后制成的食物，营养丰富且容易储存，每个拓荒者身上都该备一些。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1004",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1005": {
-		"name": "ซีเรียลมื้อเช้า",
+		"name": "牛奶麦片",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ครั้งหนึ่งเคยเป็นอาหารช่วยชีวิตที่ช่วยให้\r\nคนห้าถึงหกคนอิ่มท้อง เนื่องด้วยสภาพการณ์\r\nที่ดีขึ้น ผู้คนจึงใส่นมแทนน้ำ",
+		"description": "曾经被用来加水泡喂饱五六个人的救命粮，现在生活好些，人们才开始加牛奶了。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1005",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_001, 2, 2",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"Item_Cooking_1006": {
-		"name": "เนื้อทอด",
+		"name": "滋滋烤肉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "คุณอยากให้มันสุกแค่ไหน? ลูกผู้ชายตัวจริงจะกินหลังจากย่างบนหินไม่กี่วินาทีภายใต้แดดแรงๆ ",
+		"description": "你吃几分熟？真的猛士把肉在太阳下的石头上烤烤就直接啃啦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1006",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Meat_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Meat_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1007": {
-		"name": "ซุปซีฟู้ด",
+		"name": "海鲜汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ว่ากันว่ากินเพียงหนึ่งคำก็ทำให้คุณกระชุ่มกระชวย สองคำจะทำให้คุณสุขภาพดี แต่รสชาติก็งั้นๆ ",
+		"description": "传说一口提神醒脑，两口长生不老，不过味道也就一般般啦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1007",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shell_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Shell_001",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Shell_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shell_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shell_001, 3, 3",
+			"Item_Shell_002, 2, 2",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1008": {
-		"name": "เบอร์เกอร์ไก่กรอบ",
+		"name": "脆皮鸡腿汉堡",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เบอร์เกอร์ไก่ที่เห็นได้ตามร้านฟาสต์ฟูด คงไม่มีอะไรดีไปกว่าคอมโบไก่กรอบร้อนๆ และผักกาดหอมกรอบ ๆ ",
+		"description": "快餐店常见的汉堡，热腾腾的脆皮鸡配上凉快清爽的生菜，口感丰富极了。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1008",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Meat_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_001, 1, 1",
+			"Item_Meat_002, 1, 1",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1009": {
-		"name": "เบอร์เกอร์สไปซี่",
+		"name": "香辣厚肉汉堡",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ไม่ว่าจะนานเท่าไหร่ มันก็ทำให้คุณหิวอยู่เสมอ",
+		"description": "不论过多长时间，这一口味道总能唤醒你对食物的渴望。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1009",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Staples_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_001",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Meat_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Meat_003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_001, 3, 3",
+			"Item_Meat_003, 2, 2",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1010": {
-		"name": "ข้าวผัดไข่",
+		"name": "蛋炒饭",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "นี่คือสูตรดัดแปลงที่คุณต้องการ เมื่อคุณเบื่อกับการกินข้าวขาว",
+		"description": "吃腻了白米饭，那就给你的主食加点蛋白质的味道吧。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1010",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Condiment_06, 2, 2",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1011": {
-		"name": "ปูนึ่ง",
+		"name": "清蒸蟹",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารทะเลจะอร่อยที่สุดถ้าเสิร์ฟแบบสดๆ ปัญหาคือ จะเริ่มกินตรงไหนก่อนดี?",
+		"description": "海鲜果然还是原汁原味的好。那么该从哪开始吃呢？",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1011",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells006",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells006, 2, 2",
+			"Item_Greens_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1012": {
-		"name": "สตรอว์เบอร์รีโซดาเย็น",
+		"name": "冰镇草莓汽水",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ผสมสตรอว์เบอร์รีเพียวเร่ลงในน้ำอัดลม จากนั้นเติมน้ำแข็ง นี่แหละของที่ขาดไม่ได้ในหน้าร้อน",
+		"description": "把草莓捣碎后拌入汽水，再加入凉爽的冰块，夏日必备。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1012",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruit_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruit_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_002, 2, 2",
+			"Item_Honey_001, 2, 2",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_1013": {
-		"name": "จุมพิตไฟโซดา",
+		"name": "火焰凝香汽水",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ได้เวลาจิบชากลางวัน!",
+		"description": "下午茶时间！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1013",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE"
 	},
 	"Item_Cooking_1014": {
-		"name": "เมฆาอัสนีบลูเบอร์รีโซดา",
+		"name": "雷云蓝莓汽水",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "บลูเบอร์รีนั้นดำเหมือนเมฆฝน ระวังอย่าให้มันหกใส่คุณ เพราะมันซักออกยาก",
+		"description": "这蓝莓紫得发黑，就像雷阵雨时的乌云一样。小心不要溅到衣服上，很难洗掉哦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1014",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_005, 1, 1",
+			"Item_Honey_001, 2, 2",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_1015": {
-		"name": "ไข่ทองคำกับมะเขือเทศ",
+		"name": "番茄黄金碎",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ไม่ ฉันไม่ได้เผลอคนไข่...",
+		"description": "才，才不是想做番茄炒蛋却不小心把蛋捣得太碎了呢！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1015",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Fruits006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruits006",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruits006, 2, 2",
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1016": {
-		"name": "สลัดเติมพลังงานธรรมดา",
+		"name": "简易能量沙拉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "สลัดที่เป็นเมนูพื้นฐานที่สุดสำหรับการรับประทานอาหารตามหลักโภชนาการ เป็นตัวเลือกสำหรับอาหารที่มีไขมันต่ำ",
+		"description": "按照人体营养需求配置的最基础的沙拉，减脂修身首选。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1016",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens_003, 1, 1",
+			"Item_Fruits006, 1, 1",
+			"Item_Greens_001, 1, 1",
+			"Item_Egg_001, 1, 1",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_1017": {
-		"name": "สลัดผักกาดหอม",
+		"name": "生菜沙拉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "สลัดที่อร่อย มีส่วนผสมง่ายๆ และรสชาติเข้มข้น",
+		"description": "精选沙拉其一 简单的食材也有十足的风味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1017",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Greens_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens_001, 2, 2",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_1018": {
-		"name": "ซุปเห็ด",
+		"name": "蘑菇汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ส่วนผสมที่สมบูรณ์แบบของเห็ดสดและผักกาดหอมกรอบ ๆ ",
+		"description": "经过漫长的炖煮，菌菇的鲜美与生菜的清爽完美地融合在了一起。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1018",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_001, 2, 2",
+			"Item_Greens_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1019": {
-		"name": "ไข่ดาว",
+		"name": "煎蛋",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เริ่มวันที่สดใสด้วยไข่ดาว!",
+		"description": "用煎蛋开启美好的一天吧！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1019",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1020": {
-		"name": "หอยสังข์นึ่ง",
+		"name": "清蒸螺",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "มันยังคงรสชาติรสชาติดั้งเดิมไว้! แต่ถ้าโรยต้นหอมซอยสักหน่อยละก็ จะต้องอร่อยขึ้นแน่ ๆ ",
+		"description": "保持食材最原始的风味！要是能撒点葱花就更好了。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1020",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Shell_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shell_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shell_001, 2, 2",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1021": {
-		"name": "ไข่ตุ๋นกับหอยเม่นทะเล",
+		"name": "海胆蒸蛋",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "หอยเม่นทะเลกับไข่ตุ๋นเนียนๆ นั้นอร่อยและชื่นใจ เป็นที่นิยมเป็นพิเศษในทุ่งหิมะ",
+		"description": "海胆颗粒的口感配上柔滑的蒸蛋，真是一道美味又暖心的菜肴，在雪原地区颇受欢迎。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1021",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells007, 2, 2",
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1022": {
-		"name": "ขนมปังปิ้งดับเบิลเบอรี่แยม",
+		"name": "双莓酱吐司",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "การผสมผสานระหว่างเบอร์รีสองชนิดเพื่อ\r\nให้บรรเลงรสเปรี้ยวหวานในปากคุณ",
+		"description": "将两种莓果混合起来，制成酸甜口感的二重奏。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1022",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_001",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_005, 1, 1",
+			"Item_Fruit_002, 1, 1",
+			"Item_Staples_001, 3, 3"
 		]
 	},
 	"Item_Cooking_1023": {
-		"name": "พาสตามะเขือเทศไข่ดาว",
+		"name": "番茄煎蛋意面",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เปรี้ยวอย่างสมบูรณ์แบบและทำง่าย อร่อยแบบแคลอรี่ต่ำ",
+		"description": "不但酸咸适口而且烹饪十分简单，是低卡低脂的美味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1023",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruits006",
-				"min": "4",
-				"max": "4"
+				"matID": "Item_Fruits006",
+				"min": " 4",
+				"max": " 4"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_001",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruits006, 4, 4",
+			"Item_Staples_001, 3, 3",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1024": {
-		"name": "สตูว์เนื้อกับมันฝรั่ง",
+		"name": "土豆炖肉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เนื้อดูดซับสารอาหารทั้งหมด มันเลยดีต่อสุขภาพสุดๆ !",
+		"description": "肉把营养都吸收进肉汁里，这一口堪比人参！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1024",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Meat_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_003, 1, 1",
+			"Item_Meat_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1025": {
-		"name": "เฟรนช์ฟรายส์",
+		"name": "薯条",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "มันไม่ใช่อาหารขยะแต่คือความสุขล้วนๆ !",
+		"description": "不准叫它垃圾食品！它应该叫快乐之源！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1025",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_003, 1, 1",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_1026": {
-		"name": "สลัดผัก",
+		"name": "蔬菜沙拉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "สลัดที่ถูกคัดสรรมาอย่างดี เหมาะสำหรับการปิกนิกอย่างยิ่ง",
+		"description": "精选沙拉其三 一起去野餐吧！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1026",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_001, 1, 1",
+			"Item_Fruits006, 1, 1",
+			"Item_Greens_001, 1, 1",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_1027": {
-		"name": "ไก่ทอด",
+		"name": "炸鸡",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารที่ทำได้ง่ายและรวดเร็ว ผิวสีเหลืองกรอบจะทำให้คนที่ผ่านไปผ่านมาท้องร้อง",
+		"description": "方便又快捷的简餐，裹上面包糠炸至金黄，路人都馋哭了。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1027",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Meat_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Meat_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_002, 2, 2",
+			"Item_Staples_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1028": {
-		"name": "น้ำผลไม้ใส่น้ำผึ้ง",
+		"name": "蜜糖果子饮料",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "น้ำผลไม้สดเหยาะน้ำผึ้ง เขย่านิดหน่อย เปรี้ยวแต่ก็ติดรสหวาน",
+		"description": "鲜榨的落果汁水加入少量蜂蜜后轻微摇匀，喝起来青涩中透着一丝丝甜味。",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/1028",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Fruit_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruit_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_001, 2, 2",
+			"Item_Honey_001, 1, 1",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_1029": {
-		"name": "เค้กผลไม้",
+		"name": "水果蛋糕",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ไม่ว่าจะเครียดแค่ไหนเค้กก็ช่วยได้ ถ้ามีเค้ก ก็หยุดกินสักเดี๋ยวนึง!",
+		"description": "没有什么烦恼是一块香甜的蛋糕不能解决的，如果有，那就再来一块！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1029",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruit_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruit_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_002, 2, 2",
+			"Item_Staples_001, 1, 1",
+			"Item_Fruit_001, 1, 1",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1030": {
-		"name": "น้ำกล้วยไม้เย็น",
+		"name": "幽兰冰饮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารพิเศษของฤดูร้อน สัมผัสปาร์ตี้โต้คลื่นในปากคุณ!",
+		"description": "夏季特饮，喝一口就有冲浪的感觉！",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/1030",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Mushroom_007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_007, 2, 2",
+			"Item_Condiment_07, 1, 1",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_1031": {
-		"name": "ผัดบรอคโคลี",
+		"name": "清炒西兰花",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารไขมันต่ำที่ดีต่อสุขภาพ แต่คนส่วนมากไม่ค่อยชอบ",
+		"description": "健康的减脂食物，但很多大人都不喜欢吃。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1031",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Greens_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_003",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens_003, 2, 2"
 		]
 	},
 	"Item_Cooking_1032": {
-		"name": "หอยเชลล์ต้ม",
+		"name": "水煮惑达贝",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารแสนอร่อยที่ทำง่าย ไม่จำเป็นต้องปรุงเลย",
+		"description": "不用额外放调料即可享受的简单美味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1032",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shell_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shell_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Greens_001",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shell_002, 2, 2",
+			"Item_Greens_001, 3, 3"
 		]
 	},
 	"Item_Cooking_1033": {
-		"name": "ซาลาเปาเนื้อ",
+		"name": "肉包",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "น้ำฉ่ำๆ ที่แตกออกเมื่อคุณกัดเข้าไป นั่นแหละของดี!",
+		"description": "咬开时唇齿间充盈的肉汁正是肉包的精髓所在！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1033",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Meat_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_001, 2, 2",
+			"Item_Meat_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1034": {
-		"name": "ปลาหั่นใส่เห็ด",
+		"name": "蘑菇鱼片",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ส่วนผสมแสนลงตัวของปลาหั่นกับเห็ด",
+		"description": "料理得当的鱼片与蘑菇的风味完美融合在了一起。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1034",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Fishes_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_001, 2, 2",
+			"Item_Fishes_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1035": {
-		"name": "เนื้อสะโพกย่าง",
+		"name": "烤后腿肉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ตั้งตะแกรงและหาที่นั่ง ใช่แล้ว หอมมาก...",
+		"description": "支起烤架，端个小凳。嗯，仿佛已经闻到烤肉的香味了！",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/1035",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Meat_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Meat_003",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_003, 2, 2"
 		]
 	},
 	"Item_Cooking_1036": {
-		"name": "ซุปเห็ดแดนดิไลออน",
+		"name": "蒲公英蘑菇汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เคยลองกินแดนดิไลออนกับเห็ดหรือยัง มันจะทำให้คุณขาอ่อนเลยล่ะ?",
+		"description": "蒲公英和蘑菇的搭配你试过吗？喝完之后脚步都会轻盈不少哦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/1036",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Dandelion_zhongzi",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Dandelion_zhongzi",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Dandelion_zhongzi, 1, 1",
+			"Item_Mushroom_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2001": {
-		"name": "เซิร์ฟแอนด์เทิร์ฟ",
+		"name": "游鱼探珠",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารทำเองที่บ้านของเบนเจส มีรสชาติเหมือนบ้านเกิด",
+		"description": "班吉斯的家常菜，嗯～有家的味道。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2001",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Fishes006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes006, 1, 1",
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2002": {
-		"name": "ขนมปังธัญพืชสีแดง",
+		"name": "红麦面包",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารที่ผู้คนในไอดาิยมรับประทานมากที่สุด สะท้อนถึงวิถีชีวิตเรียบง่าย",
+		"description": "艾达星人最普通的主食。普普通通乃生活本色。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2002",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_002, 2, 2"
 		]
 	},
 	"Item_Cooking_2003": {
-		"name": "พายฟิดเดิลเฮด",
+		"name": "蕨菜饼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "บิสกิตดีต่อสุขภาพ ผสมเฟิร์นฟิดเดิลเฮด แต่เด็กๆ ไม่ค่อยชอบเท่าไหร่",
+		"description": "加入了蕨菜的健康麦饼，在小孩子里不怎么受欢迎。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2003",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens008, 2, 2",
+			"Item_Staples_002, 2, 2"
 		]
 	},
 	"Item_Cooking_2004": {
-		"name": "ขนมปังช็อกโกแลต",
+		"name": "巧克力面包",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เต็มไปด้วยช็อกโกแลต! กินแล้วอดอาหารไปเลยหนึ่งวัน",
+		"description": "内馅塞满浓浓巧克力酱！减肥的事明天再说。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2004",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 2, 2",
+			"Item_Staples_002, 2, 2"
 		]
 	},
 	"Item_Cooking_2005": {
-		"name": "ซุปเห็ดไฟร์แค็ป",
+		"name": "火耳蘑菇汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อะไรจะชื่นใจไปกว่าซุปเห็ดไฟร์แค็ปร้อนๆ เมื่อคุณกำลังปีนเขาหิมะ",
+		"description": "在征服雪山的时候，有什么比一碗热气腾腾的火耳蘑菇汤更能慰藉身心呢?",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/2005",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Mushroom_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_004, 2, 2",
+			"Item_Greens_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2006": {
-		"name": "ซุปมอสดำ",
+		"name": "黒藓汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เติมท้องว่างๆ ของคุณตอนนี้ และหยิบสิ่งที่ดีกว่าในภายหลัง",
+		"description": "凑合着吃吧，改天再吃点好的。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2006",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Greens011",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens011",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens011, 2, 2",
+			"Item_Greens_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2007": {
-		"name": "สลัดผลหงส์เหิร",
+		"name": "气球果沙拉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "สลัดที่คัดเลือกมาโดยเฉพาะ\r\nมีรสเปรี้ยวหวาน เด็กๆ ชอบ!",
+		"description": "精选沙拉其二 酸酸甜甜，孩子喜爱！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2007",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruits009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruits009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Fruits006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruits006",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruits009, 2, 2",
+			"Item_Fruits006, 2, 2",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_2008": {
-		"name": "ซุปฟิดเดิลเฮด",
+		"name": "蕨菜汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เดาว่าวันนี้ก็คงกินผักอีกแล้วสินะ...",
+		"description": "啊，今天也是吃草的一天。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2008",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "4",
-				"max": "4"
+				"matID": "Item_Greens_001",
+				"min": " 4",
+				"max": " 4"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens008, 2, 2",
+			"Item_Greens_001, 4, 4"
 		]
 	},
 	"Item_Cooking_2009": {
-		"name": "ปลาไหลผัดเผ็ด",
+		"name": "香辣鳗鱼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ปลาไหลไฟฟ้านี่ปรุงสุกรึเปล่า? ทำไมลิ้นฉันชา?",
+		"description": "这雷鳗真的烧熟了吗？我的舌头怎么麻了？",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2009",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fishes_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes_002",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes_002, 1, 1"
 		]
 	},
 	"Item_Cooking_2010": {
-		"name": "ซุปเห็ดกับปลาไหล",
+		"name": "鳗鱼蘑菇汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารเผ็ดท้าทายสำหรับเพื่อนร่วมโต๊ะ ถ้ากล้าก็กลืนให้หมดในอึกเดียว! และอย่าดื่มน้ำตาม!",
+		"description": "舌尖上的辛辣考验。想体验刺激就一口气喝完吧！不准偷偷喝水哦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/Item_Cooking_0221",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fishes_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_004",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes_002, 1, 1",
+			"Item_Mushroom_004, 2, 2"
 		]
 	},
 	"Item_Cooking_2011": {
-		"name": "ซุปปูทะเล",
+		"name": "海蟹汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ทุกสิ่งที่ดีของปูอยู่ในสตูว์",
+		"description": "将所有蟹肉精华煮进了汤里。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2011",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells_005",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells_005",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "4",
-				"max": "4"
+				"matID": "Item_Mushroom_001",
+				"min": " 4",
+				"max": " 4"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells_005, 2, 2",
+			"Item_Mushroom_001, 4, 4"
 		]
 	},
 	"Item_Cooking_2012": {
-		"name": "น้ำทับทิมหวาน",
+		"name": "甜石榴果汁",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ตาฉันฝาดเหรอ หรือว่าน้ำผลไม้ส่องแสงจริง ๆ ?",
+		"description": "是我的错觉吗，这果汁是不是在发光？",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/2012",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruit_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruit_003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_003, 2, 2",
+			"Item_Honey_001, 2, 2",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_2013": {
-		"name": "นมโกโก้",
+		"name": "可可牛奶",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ดื่มสักถ้วยก่อนนอน และฝันดี!",
+		"description": "睡前喝一杯，做个带有可可香味的好梦吧！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2013",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 2, 2",
+			"Item_Honey_001, 2, 2",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"Item_Cooking_2014": {
-		"name": "ชาผลไม้แก้วมังกรไฟ",
+		"name": "炎龙果茶",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กินกับเค้กเพื่อให้การจิบชากลางวัน\r\nสมบูรณ์แบบ",
+		"description": "和蛋糕搭配在一起便是完美的下午茶套餐！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2014",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruit_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruit_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_004, 2, 2",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2015": {
-		"name": "สตูว์เพรียง",
+		"name": "藤壶炖菜",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "รสที่คุณจะชอบ!",
+		"description": "炖起来的美味！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2015",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "4",
-				"max": "4"
+				"matID": "Item_Greens_001",
+				"min": " 4",
+				"max": " 4"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells009, 2, 2",
+			"Item_Greens_001, 4, 4"
 		]
 	},
 	"Item_Cooking_2016": {
-		"name": "พิซซ่าซีฟู้ดเพรียง",
+		"name": "藤壶海鲜披萨",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ฉันขอเบิ้ลสอง!",
+		"description": "我要加双倍海鲜！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2016",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells009",
-				"min": "2",
-				"max": "1"
+				"matID": "Item_Shells009",
+				"min": " 2",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_05",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_05",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells009, 2, 1",
+			"Item_Staples_002, 2, 2",
+			"Item_Condiment_05, 1, 1"
 		]
 	},
 	"Item_Cooking_2017": {
-		"name": "ชากุหลาบหิมะพันปี",
+		"name": "雪鹃茶",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "คุณไม่กินสักหน่อยเหรอ ตอนกำลังกินผักใกล้กองไฟในฤดูหนาว",
+		"description": "在寒冷的冬季懒洋洋地烤火的时候，不妨来一杯吧！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2017",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Follows002",
-				"min": "2",
-				"max": "1"
+				"matID": "Item_Follows002",
+				"min": " 2",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Follows002, 2, 1",
+			"Item_Condiment_07, 1, 1",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2018": {
-		"name": "โกโก้ไพน์",
+		"name": "松籽可可",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "นมโกโก้กลิ่นถั่ว คนรักถั่วสามารถเติมถั่วเพิ่มได้",
+		"description": "增添坚果风味的可可牛奶，喜欢坚果的人可以多加一份果仁。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2018",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Nuts003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_07",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts003, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Condiment_07, 2, 2"
 		]
 	},
 	"Item_Cooking_2019": {
-		"name": "ชาถั่ว",
+		"name": "坚果茶",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ดมดูสิว่าถั่วสดแค่ไหน...",
+		"description": "散发着浓浓的坚果芳香～",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2019",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts001, 1, 1",
+			"Item_Nuts003, 2, 2",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2020": {
-		"name": "พายมันม่วง",
+		"name": "雀头薯饼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "พายสอดไส้ พกไปกินตอนเดินเขาระยะไกลได้",
+		"description": "耐饿的薯饼，适合远行的时候携带。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2020",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Staples_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_002",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_005, 1, 1",
+			"Item_Staples_002, 3, 3"
 		]
 	},
 	"Item_Cooking_2021": {
-		"name": "ซุปบัวหิมะ",
+		"name": "雪莲汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "บัวหิมะรสชาติค่อนข้างจาง\r\nเลยเติมน้ำตาลเพื่อให้เป็นของหวาน\r\nที่เป็นที่นิยม",
+		"description": "雪莲花没什么味道，因此通常要在汤里加糖将其作成老少咸宜的甜品。",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/2021",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Follows001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Follows001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Follows001, 1, 1",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2022": {
-		"name": "ข้าวผัดเห็ดทรัฟเฟิล",
+		"name": "松露炒饭",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ผัดเห็ดทรัฟเฟิล จากนั้นผสมกับข้าวผัด",
+		"description": "将松露炒香后倒入米饭，将其混合均匀后便可出锅。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2022",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Mushroom_006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_05",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_05",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_006, 1, 1",
+			"Item_Condiment_05, 1, 1",
+			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"Item_Cooking_2023": {
-		"name": "บะหมี่เห็ดถั่งเช่า",
+		"name": "虫草养生面",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ฉันอยู่ในวัยที่ต้องระวังเรื่องการกินแล้วเหรอ?",
+		"description": "唔，我也到了要养生的年纪吗？",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2023",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Greens012",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens012",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_002",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens012, 1, 1",
+			"Item_Staples_002, 3, 3"
 		]
 	},
 	"Item_Cooking_2024": {
-		"name": "ซูชิคาเวียร์",
+		"name": "鱼子酱寿司",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "โรลที่ดูน่ากินทำให้มันเป็นอาหารหรู ถ้าคุณทำไม่เป็น ก็ผสมมันในถ้วยได้",
+		"description": "卷得好的话，会是看起来非常高级的料理。卷不好……那你还不如吃鱼子拌饭呢。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2024",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Drugs_007",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_007",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens007",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_007, 1, 1",
+			"Item_Condiment_06, 2, 2",
+			"Item_Greens007, 2, 2"
 		]
 	},
 	"Item_Cooking_2025": {
-		"name": "มันฝรั่งคาเวียร์",
+		"name": "鱼子薯球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "บอลมันฝรั่งนุ่มๆ เต็มไปด้วยไข่ปลาคาเวียร์ คุณต้องอยากกินแน่ ๆ ",
+		"description": "松软的薯球浇上特级鱼子酱，好吃到还想再吃一份。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2025",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Drugs_007",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_007",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_003",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_007, 1, 1",
+			"Item_Staples_003, 2, 2"
 		]
 	},
 	"Item_Cooking_2026": {
-		"name": "สเต็กย่าง",
+		"name": "烤肉排",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ขอแบบกึ่งสุก!",
+		"description": "我要五分熟！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2026",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1"
 		]
 	},
 	"Item_Cooking_2027": {
-		"name": "สเต็กราดซอสเห็ด",
+		"name": "酱菇肉排",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ฉันว่าฉันเห็นสเต็กลอยผ่านท้องฟ้า...",
+		"description": "我好像……看到好多好多肉排在天上飞……",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2027",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_004",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Mushroom_004",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1",
+			"Item_Mushroom_004, 3, 3"
 		]
 	},
 	"Item_Cooking_2028": {
-		"name": "เนื้อตุ๋น",
+		"name": "红烧肉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารคลาสสิกตามประเพณี",
+		"description": "传统而经典的美味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2028",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_005",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_005, 1, 1"
 		]
 	},
 	"Item_Cooking_2029": {
-		"name": "แซนด์วิชเนื้อฉ่ำ",
+		"name": "多汁肉三明治",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ไม่ต้องรีบ ทำอาหารมื้อเช้าอร่อยๆ ให้ตัวเอง!",
+		"description": "花点时间，为自己好好做一顿早餐吧～",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2029",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_005, 1, 1",
+			"Item_Staples_002, 2, 2",
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2030": {
-		"name": "ซาชิมิแซลมอน",
+		"name": "鲑鱼刺身",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารมันต้องรสชาติอย่างนี้!",
+		"description": "食材的原滋原味！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2030",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fishes005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes005",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes005, 1, 1"
 		]
 	},
 	"Item_Cooking_2031": {
-		"name": "ข้าวอบหอยทาก",
+		"name": "蜗牛焗饭",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ดูเหมือนจะเป็นการผสมผสานที่ประหลาด แต่รสชาติอร่อยกว่าที่เห็น",
+		"description": "虽然看起来很像黑暗料理，但味道美味得出奇。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2031",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Shells_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Shells_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells_003, 1, 1",
+			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"item_Cooking_3001": {
-		"name": "พริกผัด",
+		"name": "爆炒辣椒",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เผ็ดเหลือเกิน!!!",
+		"description": "好——辣辣辣辣辣辣辣辣！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3001",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_05",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_05",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_001, 2, 2",
+			"Item_Condiment_05, 2, 2"
 		]
 	},
 	"item_Cooking_3002": {
-		"name": "หัวหอมทรายย่างชาร์โคล",
+		"name": "碳烤沙葱",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "แผงขายบาร์บีคิวชวนน้ำลายไหลสำหรับนักพเนจร เปิดให้บริการแล้วตอนนี้!",
+		"description": "拓荒者的美味烧烤摊，开张！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/2031",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_002, 2, 2"
 		]
 	},
 	"item_Cooking_3003": {
-		"name": "โยเกิร์ตว่านหางจระเข้",
+		"name": "芦荟酸奶",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "จะมีใครบ้างล่ะ ที่ไม่ชอบโยเกิร์ตรสหวานอมเปรี้ยว?",
+		"description": "酸酸甜甜的酸奶谁不喜欢呢？",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3003",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_07",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_003, 1, 1",
+			"Item_Honey_001, 1, 1",
+			"Item_Condiment_07, 2, 2"
 		]
 	},
 	"item_Cooking_3004": {
-		"name": "ชากุหลาบ",
+		"name": "玫瑰茶",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ในยามที่ชงชากุหลาบ แม้แต่ผู้ที่มีใจว้าวุ่นอย่างที่สุด ก็สามารถสงบลงได้ราวปาฏิหาริย์",
+		"description": "泡制玫瑰茶的时候，再浮躁的心情都会不可思议地平静下来。",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/3004",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_004, 1, 1",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"item_Cooking_3005": {
-		"name": "โซดาผลไม้หนาม",
+		"name": "阳光沙棘汽水",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "น้ำผึ้งปริมาณมากถูกเพิ่มเข้าไปให้น้ำผลไม้หนามทั่วไปมีรสชาติมากขึ้น",
+		"description": "加入大量蜂蜜，为平平无奇的沙棘果汁增添风味。",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/3008",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE"
 	},
 	"item_Cooking_3006": {
-		"name": "ซุปหัวบีทรูท",
+		"name": "甜菜根汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ซุปบีทรูทอุ่นๆ ในช่วงเวลาอากาศหนาว คุณสามารถซดซุปนี้ได้หมดหม้อเลยทีเดียว",
+		"description": "暖暖的甜菜汤，在天气冷的时候能轻松把一锅都喝光。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3006",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_006",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_006, 2, 2"
 		]
 	},
 	"item_Cooking_3007": {
-		"name": "สลัดเมล่อนหวาน",
+		"name": "甜瓜沙拉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "มันจะรสชาติดีกว่าเดิมเมื่อถูกทิ้งไว้ให้เย็นลง แต่อย่าทำตัวตะกละเชียวนะ",
+		"description": "冰镇后会更好吃呢，不过不可以贪凉哦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3007",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Condiment_03",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_007, 2, 2",
+			"Item_Condiment_03, 3, 3"
 		]
 	},
 	"item_Cooking_3008": {
-		"name": "โซดาผลไม้หนาม",
+		"name": "阳光沙棘汽水",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "น้ำผึ้งปริมาณมากถูกเพิ่มเข้าไปให้น้ำผลไม้หนามทั่วไปมีรสชาติมากขึ้น",
+		"description": "加入大量蜂蜜，为平平无奇的沙棘果汁增添风味。",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/3008",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_008, 2, 2",
+			"Item_Honey_001, 1, 1",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"item_Cooking_3009": {
-		"name": "โจ๊กฟักทอง",
+		"name": "南瓜粥",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "นับเป็นอาหารหลักที่ทานแล้วอิ่มท้อง หลังจากทานไปแล้วหนึ่งชาม บางทีคุณอาจไม่จำเป็นต้องกินอะไรต่ออีกแล้ว",
+		"description": "相当能填肚子的主食，大概喝完一碗后也不需要吃别的什么了。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3009",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Condiment_06",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_009, 2, 2",
+			"Item_Condiment_06, 3, 3"
 		]
 	},
 	"item_Cooking_3010": {
-		"name": "เต้าหู้ทอด",
+		"name": "香炸油豆腐",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ของทอดกินเล่นที่กรุบกรอบและทอดจนเป็นสีทอง ระวังอย่าให้ซอสหยดเลอะเสื้อด้วยนะ!",
+		"description": "炸得金黄酥脆的小吃，小心别让酱料滴到衣服上了！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3010",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_010",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_010",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_010, 2, 2"
 		]
 	},
 	"item_Cooking_3011": {
-		"name": "ซุปหัวเรดิช",
+		"name": "清炖萝卜汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ซุปที่เต็มไปด้วยสรรพคุณบำรุงกำลัง อีกทั้งมีรสชาติอร่อย ขออีกชามหนึ่งหน่อยสิ!",
+		"description": "滋补美味的汤品，我还要再来一碗！",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/3011",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_011",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_011",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_011, 1, 1"
 		]
 	},
 	"item_Cooking_3012": {
-		"name": "ข้าวโพดคลุกเกลือพริกไทย",
+		"name": "椒盐玉米",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ของกินเล่นที่ทำง่ายและทานง่าย เป็นตัวเลือกอันดับต้นๆ สำหรับวันนอนดึก",
+		"description": "简单好做的小吃，宵夜首选。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3012",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_012, 2, 2"
 		]
 	},
 	"item_Cooking_3013": {
-		"name": "กระบองเพชรสูตรพิเศษ",
+		"name": "仙人掌特饮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เครื่องดื่มพิเศษชวนให้สดชื่น ทำจากต้นกระบองเพชร นับเป็นสิ่งที่ขาดไม่ได้ในช่วงหน้าร้อน",
+		"description": "清爽的仙人掌特饮，消暑必备。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3013",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_013, 2, 2"
 		]
 	},
 	"item_Cooking_3014": {
-		"name": "หางจิ้งจกย่าง",
+		"name": "碳烤蜥尾",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "โรยพริก, ขมิ้นและพริกไทยลงไป จากนั้นให้ปล่อยทิ้งเฉยๆ สักพักหนึ่งก่อนลงมือทาน",
+		"description": "撒满辣椒孜然胡椒，再静静等待一会儿就可以开动啦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3014",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_014, 2, 2"
 		]
 	},
 	"item_Cooking_3015": {
-		"name": "ซี่โครงย่างสูตรพิเศษ",
+		"name": "秘制烤肋排",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เหมาะแก่การกินกับข้าวเป็นที่สุด! มีสิ่งนี้เพียงอย่างเดียวเท่านั้น!",
+		"description": "最下饭的一道菜！没有之一！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3015",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_015",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_015",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_015, 1, 1",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"item_Cooking_3016": {
-		"name": "นมถั่วเหลืองช็อกโกแลต",
+		"name": "巧克力豆浆",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "หากดื่มนมถั่วเหลืองธรรมดาๆ จนเบื่อแล้ว ไม่ลองดื่มนี่แทนเหรอ?",
+		"description": "普通的豆浆喝腻了的话，不如换个口味吧。",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/3016",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_010",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_010",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 2, 2",
+			"Item_Vera_Harvest_010, 1, 1",
+			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_Cooking_3017": {
-		"name": "บีทรูทใส่ฟิดเดิลเฮด",
+		"name": "甜菜根拌蕨菜",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เมื่อส่วนผสมทั้งหมดถูกต้มแล้ว ให้เอาลงจากกระทะ จากนั้นจึงเติมซอสลงไปแล้วผสมให้เข้ากัน เท่านี้ก็เสร็จเรียบร้อยแล้ว",
+		"description": "将食材煮熟后捞出装盘，再加入酱汁拌匀就大功告成啦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3017",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_006",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens008, 2, 2",
+			"Item_Vera_Harvest_006, 2, 2"
 		]
 	},
 	"item_Cooking_3018": {
-		"name": "สลัดทะเลทราย",
+		"name": "大漠沙拉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กระบองเพชรกลมทรงลูกเต๋าและผลไม้หนามพร้อมน้ำสลัด แนะนำให้แช่เย็นมันก่อน",
+		"description": "将仙人掌球、沙棘果切成小块后拌入沙拉酱即可享用，冰镇后滋味更佳哦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3018",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_008, 2, 2",
+			"Item_Vera_Harvest_013, 2, 2",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"item_Cooking_3019": {
-		"name": "ขนมปังกุหลาบ",
+		"name": "玫瑰面包",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ยามบ่ายอันรื่นรมย์เริ่มต้นด้วยการทานขนมปังสี่เหลี่ยมกลิ่นกุหลาบ",
+		"description": "散发着温柔玫瑰香味的方包，来度过一个惬意的下午吧。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3019",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_004, 1, 1",
+			"Item_Staples_002, 2, 2"
 		]
 	},
 	"item_Cooking_3020": {
-		"name": "ขนมปังเมล่อนน้ำผึ้ง",
+		"name": "蜜瓜面包",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "แค่ขนมปังกลมหนึ่งก้อน ยัดด้วยเมล่อนหวานฉ่ำไว้ เท่านี้ก็เพียงพอสำหรับมื้อเช้าแล้ว",
+		"description": "塞满甜甜蜜瓜馅的圆形面包，早餐吃一个就够啦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3020",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_007, 2, 2",
+			"Item_Honey_001, 1, 1",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3021": {
-		"name": "โจ๊กธัญพืชรวม",
+		"name": "杂粮粥",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "โจ๊กข้าวที่ทำมาจากธัญพืชหลากหลายชนิด บางที ฉันก็อยากกินอะไรสักอย่างที่รสอ่อนๆ เท่านั้นเอง",
+		"description": "加入多种杂粮熬制的米粥，难得想吃得清淡一些呢。",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/3021",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_012",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_012",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_009, 2, 2",
+			"Item_Vera_Harvest_012, 1, 1",
+			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"item_Cooking_3022": {
-		"name": "บิสกิตข้าวโพดซีฟู้ด",
+		"name": "玉米海鲜馅饼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ทาโก้รวมมิตรทะเล... หากเปิดร้านขายของแบบนี้ เดี๋ยวก็ถังแตกหรอก!",
+		"description": "全是海鲜的玉米馅饼，这样开店一定会破产的！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3022",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shell_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shell_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_012",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_012",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shell_002, 2, 2",
+			"Item_Vera_Harvest_012, 1, 1",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3023": {
-		"name": "ฟักทองนึ่ง",
+		"name": "清蒸南瓜",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ฟักทองนึ่งจะนุ่มและหวาน เป็นทางเลือกที่ดีสำหรับอาหารลดน้ำหนัก",
+		"description": "绵软甘甜的清蒸南瓜，减肥餐的不错选择。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3023",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_001",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_009, 2, 2",
+			"Item_Staples_001, 3, 3"
 		]
 	},
 	"item_Cooking_3024": {
-		"name": "ซุปไก่",
+		"name": "鸡汤暖心面",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "บะหมี่เส้นนุ่มราดหน้าด้วยซุปไก่อุ่นๆ คุณสามารถอธิษฐานสิ่งที่ต้องการได้โดยให้ถือว่านี่เป็นบะหมี่สำหรับอวยพรวันเกิด",
+		"description": "爽滑的面条浇上温暖的鸡汤，假装这是碗生日面，来许个愿吧。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3024",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_011",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_011",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Meat_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_011, 1, 1",
+			"Item_Meat_002, 1, 1",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3025": {
-		"name": "บะหมี่บาร์บีคิวรสเผ็ด",
+		"name": "辛辣叉烧面",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ฉันสามารถไปแข่งกับบะหมี่ร้านคุนจี้ได้แน่นอน!",
+		"description": "我的手艺完全不输坤记面馆嘛~",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3025",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_005, 1, 1",
+			"Item_Vera_Harvest_001, 1, 1",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3026": {
-		"name": "ข้าวผัดรสเผ็ด",
+		"name": "热辣黄金炒饭",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ยิ่งเผ็ด ก็ยิ่งมีความสุข!",
+		"description": "够辣才够味！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3026",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_014",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_014",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_001, 1, 1",
+			"Item_Vera_Harvest_014, 1, 1",
+			"Item_Egg_001, 1, 1",
+			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"item_Cooking_3027": {
-		"name": "จานของย่างคอมโบ",
+		"name": "烧烤拼盘",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "นี่ต้องเป็นของคนชอบทานเนื้อแน่ ๆ เลย จริงมั้ย!?",
+		"description": "这里一定是肉食爱好者的天堂吧？！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3027",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_014",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_014",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1",
+			"Item_Vera_Harvest_001, 1, 1",
+			"Item_Vera_Harvest_014, 1, 1"
 		]
 	},
 	"item_Cooking_3028": {
-		"name": "ซุปหัวเรดิชและพอร์คชอป",
+		"name": "萝卜排骨汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ซุปหัวเรดิชและพอร์กชอป ซึ่งผ่านการเคี่ยวอย่างพิถีพิถันมาเป็นเวลาหนึ่งวันเต็ม ที่จริงแล้วรสชาติของหัวเรดิชอร่อยโดดเด่นยิ่งกว่าพอร์กชอปด้วยซ้ำ",
+		"description": "精心炖煮了整整一天的萝卜排骨汤，其实萝卜比排骨还要好吃哦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3028",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_011",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_011",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_015",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_015",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_011, 1, 1",
+			"Item_Vera_Harvest_015, 1, 1"
 		]
 	},
 	"item_Cooking_3029": {
-		"name": "ซุปข้าวโพดครีมข้น",
+		"name": "奶油玉米浓汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ซุปข้นรสหวานปนเปรี้ยว ถึงเวลาแล้วที่จะทานมันกับขนมปัง",
+		"description": "奶味浓郁的甜香汤品，这个时候是不是要配着面包一起吃？",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3029",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_012, 2, 2",
+			"Item_Condiment_07, 1, 1",
+			"Item_Mushroom_001, 2, 2"
 		]
 	},
 	"item_Cooking_3030": {
-		"name": "น้ำเต้าผัดน้ำมันหมูกรุบกรอบ",
+		"name": "脆皮油瓜",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ให้นำไปคลุกกับแป้งทอด แล้วนำไปทอดในน้ำมันเป็นเวลาสองนาที เท่านี้ก็เรียบร้อยแล้ว!",
+		"description": "裹好炸粉下锅两分钟就完成啦！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3030",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fruits008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits008",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruits008, 1, 1"
 		]
 	},
 	"item_Cooking_3031": {
-		"name": "หอยนางรมย่าง",
+		"name": "烤牡蛎",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ตัดสินใจยากอยู่นะ ว่าจะราดน้ำเลม่อนนิดหน่อยแล้วกินดิบๆ หรือว่าจะเอาไปย่างดี",
+		"description": "是加些柠檬汁生吃还是烧烤，真是难以做出选择呀。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3031",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells008",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells008, 2, 2"
 		]
 	},
 	"item_Cooking_3032": {
-		"name": "คาวทองเย็น",
+		"name": "凉拌鱼腥草",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "หลังจากลองทานเป็นครั้งแรก ฉันก็ตกหลุมรักในรสชาติของผักคาวทอง!",
+		"description": "在第一次尝试后，我已经深深爱上了鱼腥草的味道！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/3032",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens009",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens009, 2, 2"
 		]
 	},
 	"item_Cooking_3033": {
-		"name": "น้ำเต้าฉีกเส้นผัดน้ำมันหมูรสเผ็ด",
+		"name": "辣油瓜条",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารเรียกน้ำย่อยที่รับประทานได้โดยไม่ต้องอุ่น ดูเหมือนว่า มันยอดเยี่ยมไม่แพ้อาหารจานหลักเลย",
+		"description": "开胃的凉拌小菜，当作正餐开吃似乎也没什么问题。",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/3033",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fruits008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits008",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruits008, 1, 1",
+			"Item_Vera_Harvest_001, 2, 2"
 		]
 	},
 	"item_Cooking_3034": {
-		"name": "ซุปเต้าหู้หอยนางรม",
+		"name": "海鲜牡蛎豆腐汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ฉันได้ยินมาว่ามีเด็กจำนวนมากไม่ชอบกินปลา ซุปนี้จึงถูกทำขึ้นมาเป็นพิเศษ",
+		"description": "听说很多小朋友不喜欢吃鱼，因而特制了这道汤品。",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/3034",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_010",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_010",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells008, 2, 2",
+			"Item_Vera_Harvest_010, 2, 2"
 		]
 	},
 	"item_Cooking_3035": {
-		"name": "ไข่คนใส่ต้นคาวทอง",
+		"name": "鱼腥草炒蛋",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ไข่คนน่ะ จะใส่อะไรลงไปก็ได้! ส่วนผสมที่ฉันชอบใส่ลงไปก็คือ...",
+		"description": "万物皆可炒蛋！我最中意的是……",
 		"source": "恢复<ComLblGreen>{0}</>点耐力",
 		"icon": "/Game/Resources/Icon/caiyao/3035",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Egg_001",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens009, 2, 2",
+			"Item_Egg_001, 3, 3"
 		]
 	},
 	"item_Cooking_4001": {
-		"name": "มังกรล่องดาว",
+		"name": "龙游星子",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ที่จริงก็คือเนื้อเต่าเศียรมังกรต้มกับไข่ปลาดาว แต่ร้านแต่งชื่อให้มันดูน่าสนใจขึ้นเพื่อจะได้ขายดีขึ้นน่ะ",
+		"description": "其实就是水煮龙龟肉加海星籽，但商家为了好卖改了名。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4001",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_007",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Ocean_Harvest_007",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Ocean_Harvest_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Ocean_Harvest_001",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_007, 3, 3",
+			"Item_Ocean_Harvest_001, 3, 3",
+			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4002": {
-		"name": "ไข่ตุ๋นกลิ่นทะเล",
+		"name": "海味蒸蛋",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ไข่เต่าเศียรมังกรมาจากทะเล มันก็เลยมีรสชาติของอาหารทะเล",
+		"description": "龙龟蛋来自海里，所以是海味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4002",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_008",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_008, 1, 1",
+			"Item_Ocean_Harvest_001, 2, 2"
 		]
 	},
 	"item_Cooking_4003": {
-		"name": "สลัดปลาปักเป้า",
+		"name": "河豚鱼沙拉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "สลัดปลาปักเป้าอร่อยจัง ลองชิมดูสิ!",
+		"description": "河豚鱼拌沙拉，好味，可以一试。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4003",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_002, 2, 2",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"item_Cooking_4004": {
-		"name": "ปลาปักเป้าสด",
+		"name": "极鲜河豚",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารที่ใช้วัตถุดิบจากปลาปักเป้า เพราะมันมีราคาแพง จึงต้องใช้ประโยชน์จากส่วนต่าง ๆ ของมันให้เกิดประโยชน์มากที่สุด",
+		"description": "河豚料理的一种，因为河豚很贵，所以作为食材被商家反复利用。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4004",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_002",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Ocean_Harvest_002",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Ocean_Harvest_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Ocean_Harvest_001",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Ocean_Harvest_020",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_020",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_002, 3, 3",
+			"Item_Ocean_Harvest_001, 3, 3",
+			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4005": {
-		"name": "ปลาปักเป้าย่าง",
+		"name": "炙烤河豚",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "นุ่มและชุ่มฉ่ำ กินแล้วละลายในปาก... ร้านเขียนบรรยายไว้แบบนั้นน่ะ",
+		"description": "鲜嫩多汁，入口即化，商家是这么写的。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4005",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_002, 2, 2",
+			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4006": {
-		"name": "ดอกบัวขาว",
+		"name": "曳白莲",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เนื้อปลาปักเป้าดิบที่ซ้อนกันเป็นชั้น ๆ อย่างสวยงาม เหมือนกับดอกบัวที่กำลังเบ่งบาน",
+		"description": "层层叠叠的美丽外形，宛如绽开的莲花。其实就是生切河豚肉。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4006",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_019",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_019",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_002, 2, 2",
+			"Item_Ocean_Harvest_019, 1, 1"
 		]
 	},
 	"item_Cooking_4007": {
-		"name": "หมึกยักษ์ต้ม",
+		"name": "白切章鱼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ให้สัมผัสที่หนึบหนับ นุ่มและยืดหยุ่น แนะนำให้ทุกคนมาลิ้มลอง",
+		"description": "口感筋道，软嫩弹牙，推荐大家都来吃。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4007",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_019",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_019",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_020",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_020",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_003, 2, 2",
+			"Item_Ocean_Harvest_019, 1, 1",
+			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4008": {
-		"name": "ลูกชิ้นหมึกยักษ์",
+		"name": "章鱼小丸子",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารดั้งเดิมแสนอร่อย ระดับความอร่อยขึ้นอยู่กับขนาดของชิ้นปลาหมึกที่หั่น",
+		"description": "一道好味的传统料理，好味程度取决于商家到底切了多大的章鱼。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4008",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_003, 2, 2",
+			"Item_Staples_001, 1, 1",
+			"Item_Condiment_03, 1, 1",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4009": {
-		"name": "ของย่าง",
+		"name": "风味铁板烧",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารที่ได้รับความนิยมจากเด็ก ๆ แต่เงินค่าขนมของเด็ก ๆ จ่ายไม่ไหว",
+		"description": "非常受小孩子欢迎的料理，但是凭小孩子的零用钱根本买不起。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4009",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_003, 2, 2",
+			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4010": {
-		"name": "ปลานึ่งเค็ม",
+		"name": "咸鲜蒸鱼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เนื่องจากปลาทะเลมีรสเค็มมาก การนึ่งปลาจะรักษารสชาติอูมามิเอาไว้",
+		"description": "因为海水鱼本身就很咸，所以直接蒸就是咸鲜。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4010",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_020",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_020",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_004, 2, 2",
+			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4011": {
-		"name": "ปลาทะเลผัดซอส",
+		"name": "酱烧海鱼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "วิธีการปรุงอาหารจานนี้ค่อนข้างซับซ้อน เพราะงั้นรสชาติมันควรมีความอร่อยขึ้น",
+		"description": "这道菜烹饪手法稍显复杂，所以从味道上应该更好吃。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4011",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells008, 2, 2",
+			"Item_Ocean_Harvest_004, 2, 2",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4012": {
-		"name": "ซาชิมิพรีเมี่ยม",
+		"name": "奢享刺身",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เป็นอาหารที่วัดระดับทักษะการใช้มีด แต่อย่าจิ้มวาซาบิมากเกินไปนะ",
+		"description": "非常考验刀工的料理，但吃的时候记得不要蘸太多芥末。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4012",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_011",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_011",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_04",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_04",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_019",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_019",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_004, 2, 2",
+			"Item_Ocean_Harvest_011, 2, 2",
+			"Item_Condiment_04, 1, 1",
+			"Item_Ocean_Harvest_019, 1, 1"
 		]
 	},
 	"item_Cooking_4013": {
-		"name": "พายสตาร์เกซี่",
+		"name": "仰望星空",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ตอนมันมีชีวิต ปลามันเงยหน้ามองดาวจริง ๆ เหรอ?",
+		"description": "鱼在活着的时候会仰望星空吗？",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4013",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_004, 2, 2",
+			"Item_Staples_001, 2, 2",
+			"Item_Ocean_Harvest_001, 1, 1"
 		]
 	},
 	"item_Cooking_4014": {
-		"name": "สตูว์ซีฟู้ด",
+		"name": "海鲜烩",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "มักจะปรุงด้วยเนื้อสัตว์ป่า เพื่อลดปริมาณของวัตถุดิบที่หายากที่ใช้ลง",
+		"description": "如果和兽肉一起煮，珍贵的食材就可以少放一点。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4014",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_005",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_005",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Meat_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Meat_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_005, 2, 2",
+			"Item_Meat_001, 2, 2",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4015": {
-		"name": "ดอกไม้ทะเลย่าง",
+		"name": "呛烧海葵",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ใส่พริกเยอะไป เดี๋ยวจะสำลักเอานะ",
+		"description": "辣椒放很多的话，会被呛到。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4015",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_006",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_006, 2, 2",
+			"Item_Vera_Harvest_001, 1, 1",
+			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4016": {
-		"name": "ไข่ตุ๋นดอกไม้ทะเล",
+		"name": "海葵花",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ใส่ดอกไม้ทะเลลงไปในไข่ตุ๋น แล้วรสชาติจะเข้มข้นขึ้น",
+		"description": "在炖蛋里加入海葵，口感会更加丰富。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4016",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_006",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_006, 2, 2",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"item_Cooking_4017": {
-		"name": "อายุยืนยาว",
+		"name": "仙寿恒昌",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เพราะเต่าเศียรมังกรมีความหมายดีมาก ทางร้านเลยตั้งชื่อให้มันเป็นพิเศษ",
+		"description": "因为龙龟的寓意很好，所以商家格外会给它起名。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4017",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_007, 2, 2",
+			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4018": {
-		"name": "ไข่แห่งความสุข",
+		"name": "欢喜蛋",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เป็นแค่ไข่เต่าเศียรมังกรต้มแหละ แต่ใส่สีเพิ่มเข้าไปให้มันขายดี",
+		"description": "白煮龙龟蛋，但是添加了染色剂，好卖",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4018",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_008",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Shells007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_04",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_04",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_008, 1, 1",
+			"Item_Shells007, 2, 2",
+			"Item_Condiment_04, 1, 1"
 		]
 	},
 	"item_Cooking_4019": {
-		"name": "ไข่แห่งความสุข (ชมพู)",
+		"name": "粉欢喜蛋",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เป็นแค่ไข่เต่าเศียรมังกรต้มแหละ แต่ใส่สีเพิ่มเข้าไปให้มันขายดี",
+		"description": "白煮龙龟蛋，但是添加了染色剂，好卖",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4019",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_008",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_016",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_016",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_04",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_04",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_008, 1, 1",
+			"Item_Ocean_Harvest_016, 2, 2",
+			"Item_Condiment_04, 1, 1"
 		]
 	},
 	"item_Cooking_4020": {
-		"name": "ไข่แห่งความสุข (แดง)",
+		"name": "红欢喜蛋",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เป็นแค่ไข่เต่าเศียรมังกรต้มแหละ แต่ใส่สีเพิ่มเข้าไปให้มันขายดี",
+		"description": "白煮龙龟蛋，但是添加了染色剂，好卖",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4020",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_008",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_015",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_015",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_04",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_04",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_008, 1, 1",
+			"Item_Ocean_Harvest_015, 2, 2",
+			"Item_Condiment_04, 1, 1"
 		]
 	},
 	"item_Cooking_4021": {
-		"name": "แมงกะพรุนเย็น",
+		"name": "凉拌海蜇",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กรุบกรอบอร่อย จนหยุดกินไม่ได้",
+		"description": "爽脆可口，吃着停不下来。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4021",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_019",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_019",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_009, 2, 2",
+			"Item_Ocean_Harvest_019, 1, 1"
 		]
 	},
 	"item_Cooking_4022": {
-		"name": "แมงกะพรุนผัดเห็ด",
+		"name": "菇炒海蜇丝",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "การผสมผสานที่เข้ากันของเห็ดและแมงกะพรุนนี้ มันกลายเป็นอาหารที่ยอดเยี่ยม มันจะทำให้คุณเผลอกินจนหมดจนไม่ทันตั้งตัวเลย",
+		"description": "草菇和海蜇的鲜味叠加，成为出色的下饭菜，一不留神就能吃掉一大盘。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4022",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_009, 2, 2",
+			"Item_Mushroom_001, 2, 2"
 		]
 	},
 	"item_Cooking_4023": {
-		"name": "ปลาหมึกระเบิดซอส",
+		"name": "爆浆墨鱼仔",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ไม่ควรกินปลาหมึกที่มันชุ่มฉ่ำไปด้วยน้ำแน่น ๆ ในที่สาธารณะดีกว่า ถ้าคุณไม่รู้วิธีการกินที่ถูกต้อง",
+		"description": "内涵丰富汁水的圆鼓鼓墨鱼仔，掌握不了正确食用技巧的话还是请避免在公开场合食用。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4023",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_010",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_010",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_010, 2, 2",
+			"Item_Ocean_Harvest_012, 2, 2",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4024": {
-		"name": "ยำปลาหมึก",
+		"name": "海鲜墨鱼拌",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารจะดูอร่อยขึ้นกว่านี้มาก ถ้าเปลี่ยนสีให้มันดูน่ากินกว่านี้หน่อย",
+		"description": "美味鲜香的料理，如果改变下色泽应该会更受欢迎。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4024",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells008, 2, 2",
+			"Item_Ocean_Harvest_012, 2, 2",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4025": {
-		"name": "ข้าวต้มปลา",
+		"name": "清炖鱼片粥",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ข้าวต้มปลาเพื่อสุขภาพ เหมาะสำหรับผู้ไม่อยากอาหาร",
+		"description": "养生鱼片粥，适合没有胃口的人食用。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4025",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_011",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_011",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_06",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_011, 2, 2",
+			"Item_Condiment_06, 1, 1"
 		]
 	},
 	"item_Cooking_4026": {
-		"name": "ปลาดอง",
+		"name": "腌制海鱼干",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาจจะไม่ได้รับความนิยมจากมนุษย์ แต่เป็นที่นิยมมากในหมู่แมว",
+		"description": "可能不适合人类的口味，但非常受猫猫们的欢迎。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4026",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_011",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_011",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_05",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_05",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_001, 1, 1",
+			"Item_Ocean_Harvest_011, 2, 2",
+			"Item_Ocean_Harvest_018, 1, 1",
+			"Item_Condiment_05, 1, 1"
 		]
 	},
 	"item_Cooking_4027": {
-		"name": "ข้าวหน้าล็อบสเตอร์รสเลิศ",
+		"name": "霸气龙虾盖饭",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารจานเด่นที่มีล็อบสเตอร์จำนวนมาก อาหารอันโอชะสุดหรูที่สามารถหาทานได้เฉพาะริมทะเลเท่านั้น",
+		"description": "龙虾份量极多的超霸气料理，只有在海边才能尽享的豪华美味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4027",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_06",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_020",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_020",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Condiment_06, 1, 1",
+			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4028": {
-		"name": "กุ้งผัดหมาล่า",
+		"name": "麻辣小龙虾",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เอาล็อบสเตอร์ตัวใหญ่มาหั่นให้เหมือนล็อบสเตอร์ตัวเล็ก...มั้ยนะ?",
+		"description": "把大龙虾切碎也算算是小龙虾……吧？",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4028",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Vera_Harvest_001, 1, 1"
 		]
 	},
 	"item_Cooking_4029": {
-		"name": "ไข่นึ่งปู",
+		"name": "肉蟹蒸蛋",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ไข่นึ่งปูแสนอร่อย ต้องคอยดูด้วยนะว่าที่ใส่เข้าไปน่ะเป็นเนื้อปูแท้หรือว่าปูอัด",
+		"description": "鲜美的肉蟹蒸蛋，要小心蛋里混入的是真蟹腿还是蟹肉棒。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4029",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Shells008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Shells008, 2, 2",
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"item_Cooking_4030": {
-		"name": "ข้าวผัดปูสุดหรู",
+		"name": "豪华蟹肉炒饭",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ไม่มีใครที่สามารถปฏิเสธข้าวผัดปูได้ ความหรูหราไม่ได้อยู่แค่ปริมาณของเนื้อปู",
+		"description": "没有人能拒绝的蟹肉炒饭，豪华的可不止是蟹肉的用量。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4030",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_06",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_05",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_05",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Condiment_06, 1, 1",
+			"Item_Condiment_05, 1, 1"
 		]
 	},
 	"item_Cooking_4031": {
-		"name": "คิงแครบ",
+		"name": "帝王蟹",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ความจริงพิสูจน์แล้วว่าไม่ว่าจะเป็นปูแบบไหน ก็จะถูกจัดเสิร์ฟบนโต๊ะอาหารอยู่ดี",
+		"description": "事实证明螃蟹再王霸也会被端上餐桌的。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4031",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_020",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_020",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4032": {
-		"name": "เค้กข้าวผัดเนื้อปู",
+		"name": "年糕炒蟹肉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ปูที่สดอร่อยรวมกับเค้กข้าวเหนียวนุ่ม~ เป็นการฟิวชั่นที่อร่อยอย่างไม่น่าเชื่อ",
+		"description": "鲜香美味的螃蟹加上晶莹软糯的年糕，是不可思议的美味的融合。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4032",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Staples_001, 1, 1",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4033": {
-		"name": "บะหมี่ปูทอง",
+		"name": "蟹黄金捞面",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "บะหมี่ปูทองที่ผ่านกรรมวิธีมาซับซ้อนหลายขั้นตอน ราคาก็ซับซ้อนด้วยเช่นกัน",
+		"description": "经过层层繁复的步骤打造出来的黄金捞面，价格也是层层叠加。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4033",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_4034": {
-		"name": "ทะเลนึ่งกระเทียม",
+		"name": "蒜蓉蒸鲜",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กระเทียมรสเข้มข้นกับกุ้งและปูแสนอร่อย เป็นอาหารอันโอชะสุดคลาสสิก",
+		"description": "味道浓郁的蒜蓉搭配可口入味的虾蟹，是经典好味料理。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4034",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Vera_Harvest_002, 2, 2"
 		]
 	},
 	"item_Cooking_4035": {
-		"name": "วุ้นเส้นทะเล",
+		"name": "海皇干捞粉丝",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "อาหารจานพิเศษที่อบอวลไปด้วยกลิ่นหอม ไม่เข้มข้นหรือเลี่ยนจนเกินไป",
+		"description": "香味十足，干爽而不腻的特色料理。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4035",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Ocean_Harvest_012, 2, 2",
+			"Item_Ocean_Harvest_021, 1, 1",
+			"Item_Staples_001, 1, 1"
 		]
 	},
 	"item_Cooking_4036": {
-		"name": "ล็อบสเตอร์อบชีส",
+		"name": "芝士焗龙虾",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เนื้อเด้งดึ๋ง กลิ่นหอมงารอบทิศ",
+		"description": "肉质弹牙，芝香四溢。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4036",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"item_Cooking_4037": {
-		"name": "บะหมี่หมึกล็อบสเตอร์",
+		"name": "龙虾墨面",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "สร้างสรรค์เมนูอาหารที่ย้อมด้วยหมึกธรรมชาติ ทั้งอร่อยและมีสไตล์",
+		"description": "用天然墨汁染色的创意料理，美味和风格兼备。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4037",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_010",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_010",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Ocean_Harvest_010, 2, 2",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_4038": {
-		"name": "เนื้อหอยผัดฉ่า",
+		"name": "爆炒螺肉",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "มีรสเผ็ดร้อนและมีรสที่อูมามิ อาหารรสเลิศนี้เป็นสิ่งที่จำเป็นสำหรับมื้อดึก",
+		"description": "麻辣鲜香、非常入味，是夜宵必点的美味",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/4038",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_038",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_038",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_038, 1, 1",
+			"Item_Ocean_Harvest_018, 2, 2"
+		]
+	},
+	"item_Cooking_5001": {
+		"name": "竹笋炖肉",
+		"type": "ITEM_TYPE_COOKING",
+		"description": "肥瘦相间的肉和竹笋炖了数小时，配合辛辣的调味，可以连吃三碗饭。",
+		"source": "恢复<ComLblGreen>{0}</>点饱食度",
+		"icon": "/Game/Resources/Icon/caiyao/5001",
+		"stars": 2,
+		"quality": "ITEM_QUALITY_EPIC",
+		"ingredients": [
+			{
+				"matID": "Item_Jiuyu_Harvest_004",
+				"min": " 2",
+				"max": " 2"
+			},
+			{
+				"matID": "Item_Meat_005",
+				"min": " 1",
+				"max": " 1"
+			},
+			{
+				"matID": "Item_Meat_001",
+				"min": " 4",
+				"max": " 4"
+			}
+		],
+		"ingredientsraw": [
+			"Item_Jiuyu_Harvest_004, 2, 2",
+			"Item_Meat_005, 1, 1",
+			"Item_Meat_001, 4, 4"
 		]
 	},
 	"item_Cooking_5007": {
-		"name": "บีโกเนียหยกขาว",
+		"name": "白玉海棠",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ออเดิร์ฟเย็นที่ทำจากหยกมรกตและบีโกเนีย",
+		"description": "由青离瑜和秋海棠制成的凉菜。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/5007",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Jiuyu_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Jiuyu_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Jiuyu_Harvest_001",
-				"min": "4",
-				"max": "4"
+				"matID": "Item_Jiuyu_Harvest_001",
+				"min": " 4",
+				"max": " 4"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Jiuyu_Harvest_012, 2, 2",
+			"Item_Jiuyu_Harvest_001, 4, 4"
 		]
 	},
 	"item_activity_cooking_001": {
-		"name": "หมูหัน",
+		"name": "烤乳猪",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "หมูหันที่ปรุงโดยสุดยอดเชฟซึ่งเป็นที่ถูกอกถูกใจ\nแม้จะเป็นนักชิมลิ้นเทพแค่ไหนก็ตาม\r\n\r\n\nดรอปจากหีบรหัสผ่านในช่วงกิจกรรมคาเฟ่ไอดา\nหลังจากเอาชนะอะโพฟิสและราชินีกุหลาบ\nหรือนำส่วนผสมมาใช้ทำอาหารก็ได้เช่นกัน",
+		"description": "在优秀的厨师手中，一道烤乳猪可以满足最挑剔的食客。\r\n\r\n艾达咖啡馆活动期间击败【阿波菲斯】【玫瑰女王】后开启其密码箱可能获得，也可收集食材烹饪获得。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_001",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity_cooking_RM_5",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_5",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_2, 1, 1",
+			"item_activity_cooking_RM_5, 1, 1",
+			"Item_Honey_001, 1, 1",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_002": {
-		"name": "ไก่งวงตุ๋นแอปเปิล",
+		"name": "苹果烩火鸡",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เมนูพิเศษของชาวแอสตรา ด้วยความเป็นที่นิยมในหมู่พ่อค้าและนักเดินทาง ทำให้เมนูนี้แพร่หลายไปทั่วทั้งทวีป\r\n\r\nดรอปจากหีบรหัสผ่านในช่วงกิจกรรมคาเฟ่ไอดาหลังจากเอาชนะอะโพฟิสและราชินีกุหลาบ หรือนำส่วนผสมมาใช้ทำอาหารก็ได้เช่นกัน",
+		"description": "星岛地区的特色美食，后经由行商旅客们的推广，已经风靡整片大陆。\r\n\r\n艾达咖啡馆活动期间击败【阿波菲斯】【玫瑰女王】后开启其密码箱可能获得，也可收集食材烹饪获得。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_002",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity_cooking_RM_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_003",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_3, 1, 1",
+			"item_activity_cooking_RM_1, 1, 1",
+			"Item_Staples_003, 1, 1",
+			"Item_Greens_003, 1, 1"
 		]
 	},
 	"item_activity_cooking_003": {
-		"name": "น่องไก่ย่างพร้อมผัก",
+		"name": "香蔬烤鸡腿",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ตอนแรกคุณจะดื่มด่ำได้ถึงรสสัมผัสของน่องไก่ย่าง จากนั้นจึงตัดเลี่ยนด้วยผักกาดหอมให้รู้สึกสดชื่น\r\n\r\nดรอปจากหีบรหัสผ่านในช่วงกิจกรรมคาเฟ่ไอดาหลังจากเอาชนะอะโพฟิสและราชินีกุหลาบ หรือนำส่วนผสมมาใช้ทำอาหารก็ได้เช่นกัน",
+		"description": "来一口香喷喷的烤鸡腿满足味蕾，再来一口清脆的生菜解去油腻，一本满足。\r\n\r\n艾达咖啡馆活动期间击败【阿波菲斯】【玫瑰女王】后开启其密码箱可能获得，也可收集食材烹饪获得。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_003",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_3, 1, 1",
+			"Item_Greens_001, 1, 1",
+			"Item_Mushroom_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_004": {
-		"name": "แซลมอนย่างกระทะ",
+		"name": "香煎三文鱼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "แซลมอนเนื้อนุ่มเสิร์ฟพร้อมซอสน้ำผึ้งหวานๆ ให้รสชาติหอมอบอวลติดปากติดใจ\r\n\r\nดรอปจากหีบรหัสผ่านในช่วงกิจกรรมคาเฟ่ไอดาหลังจากเอาชนะโรบาร์กและโซเบก และยังหาได้จากการเก็บส่วนผสมและทำอาหารด้วย",
+		"description": "三文鱼的鲜嫩，辅以蜂蜜的香甜，入口回味无穷。\r\n\r\n艾达咖啡馆活动期间击败【罗贝拉格】【索贝克】后开启其密码箱可能获得，也可收集食材烹饪获得。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_004",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_7",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_7",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_7, 1, 1",
+			"Item_Honey_001, 1, 1",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_005": {
-		"name": "บ๊ะจ่างโรยงาลูกเล็ก",
+		"name": "芝麻小圆子",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เมนูพิเศษสูตรดั้งเดิมในย่านท่าเรือเบนเจสที่ถูกอกถูกใจทั้งเด็กและผู้ใหญ่\r\n\r\nดรอปจากหีบรหัสผ่านในช่วงกิจกรรมคาเฟ่ไอดาหลังจากเอาชนะโรบาร์กและโซเบก หรือนำส่วนผสมมาใช้ทำอาหารก็ได้เช่นกัน",
+		"description": "班吉斯港的传统美食，深受老人和孩子的喜爱。\r\n\r\n艾达咖啡馆活动期间击败【罗贝拉格】【索贝克】后开启其密码箱可能获得，也可收集食材烹饪获得。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_005",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_4",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_4",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_4, 1, 1",
+			"Item_Staples_002, 1, 1",
+			"Item_Mushroom_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_006": {
-		"name": "ซุปไก่งวงบีทรูท",
+		"name": "火鸡甜菜汤",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ซุปอุ่นๆ สักชามที่จะช่วยคลายความเหนื่อยล้าที่สะสมมาตลอดทั้งวัน\r\nดรอปจากหีบรหัสผ่านในช่วงกิจกรรมคาเฟ่ไอดาหลังจากเอาชนะโรบาร์กและโซเบก หรือนำส่วนผสมมาใช้ทำอาหารก็ได้เช่นกัน",
+		"description": "一碗香浓温热的鸡汤，就能抚平一整天的疲劳和憔悴。\r\n\r\n艾达咖啡馆活动期间击败【罗贝拉格】【索贝克】后开启其密码箱可能获得，也可收集食材烹饪获得。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_006",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_3, 1, 1",
+			"Item_Staples_003, 1, 1",
+			"Item_Mushroom_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_007": {
-		"name": "ขนมปังขิง",
+		"name": "姜饼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ขนมหวานประจำเทศกาลยอดนิยมที่ได้ทั้งความหวานจากน้ำตาลกับน้ำผึ้ง พร้อมกลิ่นหอมจากธัญพืชข้าวสาลี\r\n\r\nดรอปจากหีบรหัสผ่านในช่วงกิจกรรมคาเฟ่ไอดาหลังจากเอาชนะโรบาร์ก, อะโพฟิส, ฟรอสต์บอท, โซเบก, ราชินีกุหลาบ และบาร์บารอสซา หรือนำส่วนผสมมาใช้ทำอาหารก็ได้เช่นกัน",
+		"description": "节日庆典中备受欢迎的美味糕点，有糖和蜂蜜的甜美，也有麦粒的清香。\r\n\r\n艾达咖啡馆活动期间击败【罗贝拉格】【阿波菲斯】【急冻机甲】【索贝克】【玫瑰女王】【巴巴罗萨】后开启其密码箱可能获得，也可收集食材烹饪获得。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_007",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_5",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_5",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_5, 1, 1",
+			"Item_Staples_002, 1, 1",
+			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_008": {
-		"name": "เค้กแอปเปิล",
+		"name": "苹果蛋糕",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เค้กผลไม้เนื้อนุ่มฟู ฟินตั้งแต่คำแรกที่ได้ทาน\r\n\r\n\r\nดรอปจากหีบรหัสผ่านในช่วงกิจกรรมคาเฟ่ไอดาหลังจากเอาชนะฟรอสต์บอทและบาร์บารอสซา หรือนำส่วนผสมมาใช้ทำอาหารก็ได้เช่นกัน",
+		"description": "松软可口的水果蛋糕，一口咬下，十分满足。\r\n\r\n艾达咖啡馆活动期间击败【急冻机甲】【巴巴罗萨】后开启其密码箱可能获得，也可收集食材烹饪获得。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_008",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity_cooking_RM_6",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_6",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_1, 1, 1",
+			"item_activity_cooking_RM_6, 1, 1",
+			"Item_Staples_002, 1, 1",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_009": {
-		"name": "ฟรุตพันช์",
+		"name": "水果宾治",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เครื่องดื่มที่ได้ทั้งกลิ่นหอมหวานจากผลไม้ และกลิ่นเหล้าคลุ้งจางๆ \r\n\r\nดรอปจากหีบรหัสผ่านในช่วงกิจกรรมคาเฟ่ไอดาหลังจากเอาชนะฟรอสต์บอทและบาร์บารอสซา หรือนำส่วนผสมมาใช้ทำอาหารก็ได้เช่นกัน",
+		"description": "缤纷果香之外，点缀一丝迷醉。\r\n\r\n艾达咖啡馆活动期间击败【急冻机甲】【巴巴罗萨】后开启其密码箱可能获得，也可收集食材烹饪获得。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_009",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_6",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_6",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity_cooking_RM_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits009",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits009",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_6, 1, 1",
+			"item_activity_cooking_RM_1, 1, 1",
+			"Item_Fruits009, 1, 1",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"item_activity_cooking_010": {
-		"name": "น้ำแอปเปิล",
+		"name": "苹果汁",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เปรี้ยวหวานลงตัวกำลังดี ทานได้ทุกเพศทุกวัย นับเป็นเครื่องดื่มหน้าร้อนแก้วโปรดของใครหลายๆ คน\r\n\r\nดรอปจากหีบรหัสผ่านในช่วงกิจกรรมคาเฟ่ไอดาหลังจากเอาชนะฟรอสต์บอทและบาร์บารอสซา หรือนำส่วนผสมมาใช้ทำอาหารก็ได้เช่นกัน",
+		"description": "酸甜可口，老少咸宜，许多人钟爱的夏日饮品。\r\n\r\n艾达咖啡馆活动期间击败【急冻机甲】【巴巴罗萨】后开启其密码箱可能获得，也可收集食材烹饪获得。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_010",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity_cooking_RM_5",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_5",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_1, 1, 1",
+			"item_activity_cooking_RM_5, 1, 1",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"item_activity2_cooking_101": {
-		"name": "ช็อกโกฮาร์ทหงส์เหิร",
+		"name": "漂浮心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ขึ้นขี่บอลลูนผลไม้ แล้วบินไปสู่โลกแห่งช็อกโกแลต!",
+		"description": "乘着气球果，一起前往巧克力的世界旅行吧！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_101",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits009",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits009",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruits009, 1, 1"
 		]
 	},
 	"item_activity2_cooking_102": {
-		"name": "ช็อกโกฮาร์ทรสลูกสน",
+		"name": "松籽心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตโรยลูกสนนับเป็นของขวัญที่สมบูรณ์แบบ",
+		"description": "落满松籽的巧克力正是最完美的礼物。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_102",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts003",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts003, 1, 1"
 		]
 	},
 	"item_activity2_cooking_103": {
-		"name": "ช็อกโกฮาร์ทรสสตรอว์เบอร์รี",
+		"name": "草莓心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เมื่อรสหวานอ่อนๆ ของสตรอว์เบอร์รีกับรสชาตินุ่มนวลของช็อกโกแลตมาผสมผสานกัน สิ่งที่ได้ก็คือรสหวานของรักครั้งแรก",
+		"description": "轻甜的草莓与香醇的巧克力交融，正是初恋的甜蜜滋味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_103",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_002",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_002, 1, 1"
 		]
 	},
 	"item_activity2_cooking_104": {
-		"name": "ช็อกโก้ฮาร์ทรสเฮเซลนัท",
+		"name": "榛仁心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "สิ่งที่ช็อกโกแลตห่อหุ้มอยู่ก็คือหัวใจที่รอคอยความรัก",
+		"description": "被巧克力包裹着的，正是一颗满怀期待的爱恋之心。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_104",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_105": {
-		"name": "ช็อกโก้ฮาร์ทรสทรัฟเฟิล",
+		"name": "松露心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "คุณสามารถรู้สึกได้ถึงความรักความใส่ใจจากส่วนผสมที่ได้รับการคัดสรรมา",
+		"description": "从选材上即可感受到满满心意。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_105",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_006",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Mushroom_006, 1, 1"
 		]
 	},
 	"item_activity2_cooking_106": {
-		"name": "ช็อกโก้ฮาร์ทบลูเบอร์รี",
+		"name": "蓝莓心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ลองกัดดูสักคำ แล้วให้รสหวานซ่อนเปรี้ยวของแนวบลูเบอร์รีแผ่ซ่านไปทั่วปลายลิ้นของคุณ",
+		"description": "轻咬一口，酸甜的蓝莓果酱在舌尖流淌。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_106",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Drugs_005, 1, 1"
 		]
 	},
 	"item_activity2_cooking_107": {
-		"name": "ช็อกโก้ฮาร์ทรสน้ำผึ้ง",
+		"name": "蜂蜜心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ท่วงทำนองสอดประสานอันยิ่งใหญ่ระหว่างช็อกโกแลตและน้ำผึ้ง",
+		"description": "奏响巧克力与蜂蜜的恢弘乐章。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_107",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_108": {
-		"name": "ช็อกโก้ฮาร์ทผลไม้ตกพื้น",
+		"name": "落果心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ขอมอบสิ่งที่ฉันรักที่สุดให้แก่คุณ",
+		"description": "赠予你我最珍视之物。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_108",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_109": {
-		"name": "ช็อกโก้ฮาร์ทโกโก้",
+		"name": "可可心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตดำรสละมุนนุ่มนวล ที่ถักทอเข้ากับความฝันที่ขมเล็กน้อยและกลมกล่อม",
+		"description": "细腻柔和的黑巧克力，钩织微苦醇厚的绮梦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_109",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 2, 2"
 		]
 	},
 	"item_activity2_cooking_110": {
-		"name": "ช็อกโก้ฮาร์ทรสนม",
+		"name": "牛奶心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "นมและช็อกโกแลตคือคู่กิ่งทองใบหยก!",
+		"description": "牛奶和巧克力正是天作之合！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_110",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"item_activity2_cooking_201": {
-		"name": "ช็อกบอลหงส์เหิร",
+		"name": "漂浮星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ขึ้นขี่บอลลูนผลไม้ แล้วบินไปสู่โลกแห่งช็อกโกแลต!",
+		"description": "乘着气球果，一起前往巧克力的世界旅行吧！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_201",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits009",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits009",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruits009, 1, 1"
 		]
 	},
 	"item_activity2_cooking_202": {
-		"name": "ช็อกบอลรสลูกสน",
+		"name": "松籽星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตโรยลูกสนนับเป็นของขวัญที่สมบูรณ์แบบ",
+		"description": "落满松籽的巧克力正是最完美的礼物。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_202",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts003",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts003, 1, 1"
 		]
 	},
 	"item_activity2_cooking_203": {
-		"name": "ช็อกบอลรสสตรอว์เบอร์รี",
+		"name": "草莓星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เมื่อรสหวานอ่อนๆ ของสตรอว์เบอร์รีกับรสชาตินุ่มนวลของช็อกโกแลตมาผสมผสานกัน สิ่งที่ได้ก็คือรสหวานของรักครั้งแรก",
+		"description": "轻甜的草莓与香醇的巧克力交融，正是初恋的甜蜜滋味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_203",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_002",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_002, 1, 1"
 		]
 	},
 	"item_activity2_cooking_204": {
-		"name": "ช็อกบอลรสเฮเซลนัท",
+		"name": "榛仁星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "สิ่งที่ช็อกโกแลตห่อหุ้มอยู่ก็คือหัวใจที่รอคอยความรัก",
+		"description": "被巧克力包裹着的，正是一颗满怀期待的爱恋之心。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_204",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_205": {
-		"name": "ช็อกบอลรสทรัฟเฟิล",
+		"name": "松露星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "คุณสามารถรู้สึกได้ถึงความรักความใส่ใจจากส่วนผสมที่ได้รับการคัดสรรมา",
+		"description": "从选材上即可感受到满满心意。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_205",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_006",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Mushroom_006, 1, 1"
 		]
 	},
 	"item_activity2_cooking_206": {
-		"name": "ช็อกบอลบลูเบอร์รี",
+		"name": "蓝莓星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ลองกัดดูสักคำ แล้วให้รสหวานซ่อนเปรี้ยวของแนวบลูเบอร์รีแผ่ซ่านไปทั่วปลายลิ้นของคุณ",
+		"description": "轻咬一口，酸甜的蓝莓果酱在舌尖流淌。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_206",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Drugs_005, 1, 1"
 		]
 	},
 	"item_activity2_cooking_207": {
-		"name": "ช็อกบอลรสน้ำผึ้ง",
+		"name": "蜂蜜星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ท่วงทำนองสอดประสานอันยิ่งใหญ่ระหว่างช็อกโกแลตและน้ำผึ้ง",
+		"description": "奏响巧克力与蜂蜜的恢弘乐章。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_207",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_208": {
-		"name": "ช็อกบอลผลไม้ตกพื้น",
+		"name": "落果星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ขอมอบสิ่งที่ฉันรักที่สุดให้แก่คุณ",
+		"description": "赠予你我最珍视之物。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_208",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_209": {
-		"name": "ช็อกบอลรสโกโก้",
+		"name": "可可星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตดำรสละมุนนุ่มนวล ที่ถักทอเข้ากับความฝันที่ขมเล็กน้อยและกลมกล่อม",
+		"description": "细腻柔和的黑巧克力，钩织微苦醇厚的绮梦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_209",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 2, 2"
 		]
 	},
 	"item_activity2_cooking_210": {
-		"name": "ช็อกบอลรสนม",
+		"name": "牛奶星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "นมและช็อกโกแลตคือคู่กิ่งทองใบหยก!",
+		"description": "牛奶和巧克力正是天作之合！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_210",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"item_activity2_cooking_301": {
-		"name": "ช็อกก้อนหงส์เหิร",
+		"name": "漂浮魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ขึ้นขี่บอลลูนผลไม้ แล้วบินไปสู่โลกแห่งช็อกโกแลต!",
+		"description": "乘着气球果，一起前往巧克力的世界旅行吧！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_301",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits009",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits009",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruits009, 1, 1"
 		]
 	},
 	"item_activity2_cooking_302": {
-		"name": "ลูกบาศก์ช็อกโกแลตรสลูกสน",
+		"name": "松籽魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตโรยลูกสนนับเป็นของขวัญที่สมบูรณ์แบบ",
+		"description": "落满松籽的巧克力正是最完美的礼物。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_302",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts003",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts003, 1, 1"
 		]
 	},
 	"item_activity2_cooking_303": {
-		"name": "สตรอว์เบอร์รีคิวบ์",
+		"name": "草莓魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เมื่อรสหวานอ่อนๆ ของสตรอว์เบอร์รีกับรสชาตินุ่มนวลของช็อกโกแลตมาผสมผสานกัน สิ่งที่ได้ก็คือรสหวานของรักครั้งแรก",
+		"description": "轻甜的草莓与香醇的巧克力交融，正是初恋的甜蜜滋味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_303",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_002",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_002, 1, 1"
 		]
 	},
 	"item_activity2_cooking_304": {
-		"name": "ลูกบาศก์ช็อกโกแลตรสเฮเซลนัท",
+		"name": "榛仁魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "สิ่งที่ช็อกโกแลตห่อหุ้มอยู่ก็คือหัวใจที่รอคอยความรัก",
+		"description": "被巧克力包裹着的，正是一颗满怀期待的爱恋之心。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_304",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_305": {
-		"name": "ลูกบาศก์ช็อกโกแลตรสทรัฟเฟิล",
+		"name": "松露魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "คุณสามารถรู้สึกได้ถึงความรักความใส่ใจจากส่วนผสมที่ได้รับการคัดสรรมา",
+		"description": "从选材上即可感受到满满心意。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_305",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_006",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Mushroom_006, 1, 1"
 		]
 	},
 	"item_activity2_cooking_306": {
-		"name": "บลูเบอร์รีคิวบ์",
+		"name": "蓝莓魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ลองกัดดูสักคำ แล้วให้รสหวานซ่อนเปรี้ยวของแนวบลูเบอร์รีแผ่ซ่านไปทั่วปลายลิ้นของคุณ",
+		"description": "轻咬一口，酸甜的蓝莓果酱在舌尖流淌。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_306",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Drugs_005, 1, 1"
 		]
 	},
 	"item_activity2_cooking_307": {
-		"name": "ลูกบาศก์ช็อกโกแลตรสน้ำผึ้ง",
+		"name": "蜂蜜魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ท่วงทำนองสอดประสานอันยิ่งใหญ่ระหว่างช็อกโกแลตและน้ำผึ้ง",
+		"description": "奏响巧克力与蜂蜜的恢弘乐章。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_307",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_308": {
-		"name": "คิวบ์ผลไม้ตกพื้น",
+		"name": "落果魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ขอมอบสิ่งที่ฉันรักที่สุดให้แก่คุณ",
+		"description": "赠予你我最珍视之物。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_308",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_309": {
-		"name": "โกโก้คิวบ์",
+		"name": "可可魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตดำรสละมุนนุ่มนวล ที่ถักทอเข้ากับความฝันที่ขมเล็กน้อยและกลมกล่อม",
+		"description": "细腻柔和的黑巧克力，钩织微苦醇厚的绮梦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_309",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 2, 2"
 		]
 	},
 	"item_activity2_cooking_310": {
-		"name": "ลูกบาศก์ช็อกโกแลตรสนม",
+		"name": "牛奶魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "นมและช็อกโกแลตคือคู่กิ่งทองใบหยก!",
+		"description": "牛奶和巧克力正是天作之合！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_310",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"item_activity2_cooking_001": {
-		"name": "ของที่ระลึกเกาะซีตัส",
+		"name": "白鲸伴手礼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กล่องของขวัญช็อกโกแลตอันเป็นผลงานที่ฮันนาภูมิใจ มันถูกออกแบบมาในธีมของวิชาไฟฟ้า\r\nดอกเตอร์บอกว่า มีของอร่อย ๆ ก็ต้องแบ่งปันให้คนสำคัญนะ!",
+		"description": "以雷元素为主题的巧克力礼盒，哈娜的得意之作。\r\n博士说，美味一定要和重要的人分享哦！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_box_thunder",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC"
 	},
 	"item_activity2_cooking_002": {
-		"name": "ของที่ระลึกเกาะซีตัส",
+		"name": "白鲸伴手礼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กล่องของขวัญช็อกโกแลตอันเป็นผลงานที่ฮันนาภูมิใจ มันถูกออกแบบมาในธีมของธาตุทางกายภาพ\nดอกเตอร์บอกว่า มีของอร่อยๆ ก็ต้องแบ่งปันให้คนสำคัญนะ!",
+		"description": "以物理元素为主题的巧克力礼盒，哈娜的得意之作。\n博士说，美味一定要和重要的人分享哦！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_box_physics",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC"
 	},
 	"item_activity2_cooking_003": {
-		"name": "ของที่ระลึกเกาะซีตัส",
+		"name": "白鲸伴手礼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กล่องของขวัญช็อกโกแลตสไตล์เวทมนตร์คุมไฟอันเป็นผลงานที่ฮันนาภูมิใจ \nดอกเตอร์บอกว่า มีของอร่อยๆ ก็ต้องแบ่งปันให้คนสำคัญนะ!",
+		"description": "以火元素为主题的巧克力礼盒，哈娜的得意之作。\n博士说，美味一定要和重要的人分享哦！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_box_fire",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC"
 	},
 	"item_activity2_cooking_004": {
-		"name": "ของที่ระลึกเกาะซีตัส",
+		"name": "白鲸伴手礼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กล่องของขวัญช็อกโกแลตอันเป็นผลงานที่ฮันนาภูมิใจ มันถูกออกแบบมาในธีมของวิชาควบคุมน้ำแข็ง\nดอกเตอร์บอกว่า มีของอร่อยๆ ก็ต้องแบ่งปันให้คนสำคัญนะ!",
+		"description": "以冰元素为主题的巧克力礼盒，哈娜的得意之作。\n博士说，美味一定要和重要的人分享哦！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_box_ice",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC"
 	},
 	"item_activity2_cooking_005": {
-		"name": "เค้กข้าวกรุบกรอบ",
+		"name": "脆皮年糕",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "หนึ่งในของกินเล่นยอดนิยมของดาวเคราะห์ไอดา ว่ากันว่าสมาชิกของกลุ่มไฮยีน่าและราเวเจอร์ต่อสู้กันเพื่อเค้กชิ้นนี้เพียงชิ้นเดียว",
+		"description": "艾达星最受欢迎的小吃之一。据说鬣狗帮成员和掠夺者成员曾为了一块年糕大打出手。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_1",
 		"stars": 1,
@@ -4280,820 +5113,963 @@
 		"quality": "ITEM_QUALITY_EPIC"
 	},
 	"HealPotion_01": {
-		"name": "แพนเค้กใบไม้ผลิ",
+		"name": "春饼",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ของทานเล่นที่ได้รับความนิยมที่สุดในตลาดฤดูใบไม้ผลิ\r\nบอกไม่ได้ว่ารสชาติของมันเป็นยังไง",
+		"description": "初春市集上最受欢迎的小吃，\r\n不过光从外观上来看无法判断这是什么口味的……",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/HealPotion_01",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC"
 	},
 	"BuffPotion_01": {
-		"name": "สายลมต้นสน",
+		"name": "松风",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เครื่องดื่มเด่นของตลาดฤดูใบไม้ผลิ\r\nกล่าวกันว่าหากจิบเครื่องดื่มนี้ไปเพียงครั้งเดียว คุณก็จะรู้สึกราวกับว่าตัวเองกำลังอยู่ท่ามกลางป่าต้นสน โดยมีสายลมแห่งฤดูใบไม้ผลิพัดเอื่อยๆ กระทบแก้มทั้งสองข้างของคุณ",
+		"description": "初春市集主推的饮品，\r\n据说品尝时仿佛感到置身松林之中，春风轻柔吹拂脸颊。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/Resources/Icon/caiyao/BuffPotion_01",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC"
 	},
 	"item_activity3_cooking_101": {
-		"name": "ช็อกก้อนคลาสสิก",
+		"name": "经典魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ใครจะต้านทานกลิ่นหอมเข้มข้นของช็อกโกแลตได้กันล่ะ?",
+		"description": "谁能拒绝浓浓的巧克力香气呢？",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_311_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food2, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"Item_Honey_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_102": {
-		"name": "ช็อกก้อนผสมถั่ว",
+		"name": "果仁魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตที่ผสมถั่วอร่อยอย่างน่าประหลาดใจ!",
+		"description": "用混合的坚果做成的巧克力，真是意外的好吃！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_312_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food6",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food6",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food6, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_103": {
-		"name": "ช็อกก้อนเฮเซลนัท",
+		"name": "榛子魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กลิ่นหอมของเฮเซลนัทที่น่าอัศจรรย์ผสมกับช็อกโกแลตเพื่อเพิ่มมิติใหม่ให้กับรสชาติที่ลงตัว",
+		"description": "入口绵密丝滑，榛子的香味为巧克力又增添了一层风味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_313_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts001, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_104": {
-		"name": "ช็อกก้อนแก้วมังกร",
+		"name": "炎龙魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ใครจะสนว่าอะไรมีเมล็ดหรือไม่มี ในเมื่อมีช็อกโกแลตให้เพลิดเพลินอยู่แล้ว?",
+		"description": "吃巧克力时，还在意什么带籽不带耔的。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_314_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fruit_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_004, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_105": {
-		"name": "โกโก้คิวบ์",
+		"name": "可可魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตดำรสละมุนนุ่มนวล ที่ถักทอเข้ากับความฝันที่ขมเล็กน้อยและกลมกล่อม",
+		"description": "细腻柔和的黑巧克力，钩织微苦醇厚的绮梦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_320_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_106": {
-		"name": "ช็อกก้อนผสมหาง",
+		"name": "尾巴魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "นี่ช็อกโกแลตรสชาติแปลก ๆ อันใหม่ล่าสุด คุณกล้าลองป่ะล่ะ?",
+		"description": "这可是最新的怪味巧克力，要不要挑战下？",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_315_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_014",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_014",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_014, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_107": {
-		"name": "ช็อกก้อนเนื้อหยอง",
+		"name": "肉松魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เนื้อหยองรสช็อกโกแลต อีกหนึ่งส่วนเสริมของโลกแห่งความมืดของการทำอาหารใต้ดิน",
+		"description": "巧克力味的肉松，黑暗料理界再添一员大将。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_316_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_108": {
-		"name": "ช็อกก้อนเห็ด",
+		"name": "菇菇魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตสอดไส้เป็นอะไรที่น่าประหลาดใจเสมอ",
+		"description": "夹心巧克力总是这么有惊喜。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_317_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Mushroom_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_001, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_109": {
-		"name": "ช็อกก้อนไข่เค็ม",
+		"name": "咸蛋魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ไข่แดงลูกเล็กและชุ่มน้ำ มีรสชาติที่โดดเด่น",
+		"description": "蛋黄油润起沙，别有一番风味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_318_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Egg_001, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_110": {
-		"name": "ช็อกก้อนปูอัด",
+		"name": "蟹柳魔方",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กลิ่นหอมของอาหารทะเลที่เข้มข้นสร้างบรรยากาศให้กับช็อกโกแลตนี้",
+		"description": "浓郁的海鲜香气为这款巧克力奠定了主基调。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_319_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Shells006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Shells006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells006, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_201": {
-		"name": "ช็อกบอลรสกาแฟ",
+		"name": "咖啡星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ฉันอยากสัมผัสถึงรสชาติอันหวานอมขมกลืนในระหว่างการเดินทางไปพร้อมกับคุณ",
+		"description": "想和你一起品尝路途中的苦与甜。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_211_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Meat_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food3, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"Item_Meat_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_202": {
-		"name": "ช็อกบอลสอดไส้เหล้า",
+		"name": "酒心星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กลิ่นหอมละมุนของไวน์และช็อกโกแลตประสานกันเพื่อสร้างท่วงทำนองสุดผ่อนคลาย",
+		"description": "柔和的酒香与巧克力交织起香醇的旋律。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_212_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food7",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food7",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food7, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_203": {
-		"name": "ช็อกบอลรสดอกไม้",
+		"name": "鲜花星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "กัดสักคำเพื่อปลดปล่อยกลิ่นหอมอันน่าทึ่งของดอกไม้ ชวนให้นึกถึงดอกกุหลาบในวันวาเลนไทน์",
+		"description": "轻咬一口，花香袭人，果然还是玫瑰和情人节最配。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_213_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_004, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_204": {
-		"name": "ช็อกบอลรสสตรอว์เบอร์รี",
+		"name": "草莓星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เมื่อรสหวานอ่อนๆ ของสตรอว์เบอร์รีกับรสชาตินุ่มนวลของช็อกโกแลตมาผสมผสานกัน สิ่งที่ได้ก็คือรสหวานของรักครั้งแรก",
+		"description": "轻甜的草莓与香醇的巧克力交融，正是初恋的甜蜜滋味。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_217_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fruit_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_002, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_205": {
-		"name": "ช็อกบอลรสโกโก้",
+		"name": "可可星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตดำรสละมุนนุ่มนวล ที่ถักทอเข้ากับความฝันที่ขมเล็กน้อยและกลมกล่อม",
+		"description": "细腻柔和的黑巧克力，钩织微苦醇厚的绮梦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_218_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_206": {
-		"name": "ช็อกบอลหงส์เหิร",
+		"name": "漂浮星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ขึ้นขี่บอลลูนผลไม้ แล้วบินไปสู่โลกแห่งช็อกโกแลต!",
+		"description": "乘着气球果，一起前往巧克力的世界旅行吧！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_219_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_015",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_015",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_015, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_207": {
-		"name": "ช็อกบอลรสเนื้อหยอง",
+		"name": "肉松星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตเนื้อเนียนและไส้ที่นุ่มฟูที่ผสานกันเพื่อมอบรสชาติใหม่",
+		"description": "丝滑的巧克力与有蓬松的夹心带来截然不同的口感。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_214_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_208": {
-		"name": "ช็อกบอลรสเกลือทะเล",
+		"name": "海盐星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เบื่อรสหวานรึยัง? มาลองของเค็มกัน!",
+		"description": "吃腻了甜甜的风味？来试试咸的吧！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_215_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Shell_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Shell_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shell_002, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_209": {
-		"name": "ช็อกบอลรสทรัฟเฟิล",
+		"name": "松露星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "คุณสามารถรู้สึกได้ถึงความรักความใส่ใจจากส่วนผสมที่ได้รับการคัดสรรมา",
+		"description": "从选材上即可感受到满满心意。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_220_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Mushroom_006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_006, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_210": {
-		"name": "ช็อกบอลรสปูอัด",
+		"name": "蟹柳星球",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "มีหลายวิธีการเลยล่ะในการที่จะปรุงขาปู",
+		"description": "梭子蟹腿也是有很多种做法的。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_216_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Shells006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Shells006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells006, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_301": {
-		"name": "ช็อกโกฮาร์ทมินต์",
+		"name": "薄荷心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "รสเย็นที่สดชื่นไม่สิ้นสุด",
+		"description": "一口冰凉，无限清新。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_111_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food4",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food4",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food4, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_302": {
-		"name": "ช็อกโกฮาร์ทครีม",
+		"name": "奶油心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "มีอะไรที่สู้ความหวานของครีมได้ด้วยเหรอ?",
+		"description": "论甜蜜，还有能超过奶油心潮的吗？",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_112_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food5",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food5",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food5, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_303": {
-		"name": "ช็อกโก้ฮาร์ทผลไม้ตกพื้น",
+		"name": "落果心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ขอมอบสิ่งที่ฉันรักที่สุดให้แก่คุณ",
+		"description": "赠予你我最珍视之物。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_118_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_001, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_304": {
-		"name": "ช็อกโก้ฮาร์ทบลูเบอร์รี",
+		"name": "蓝莓心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ลองกัดดูสักคำ แล้วให้รสหวานซ่อนเปรี้ยวของแนวบลูเบอร์รีแผ่ซ่านไปทั่วปลายลิ้นของคุณ",
+		"description": "轻咬一口，酸甜的蓝莓果酱在舌尖流淌。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_119_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_005, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_305": {
-		"name": "ช็อกโก้ฮาร์ทโกโก้",
+		"name": "可可心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตดำรสละมุนนุ่มนวล ที่ถักทอเข้ากับความฝันที่ขมเล็กน้อยและกลมกล่อม",
+		"description": "细腻柔和的黑巧克力，钩织微苦醇厚的绮梦。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_120_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_306": {
-		"name": "ช็อกโกฮาร์ทน้ำมันปลา",
+		"name": "鱼油心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ช็อกโกแลตที่เต็มไปด้วยสารอาหาร ทางเลือกเพื่อคนรักสุขภาพ",
+		"description": "富含EPA和DHA的巧克力，健康人士的首选。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_113_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fishes006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes006, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_307": {
-		"name": "ช็อกโกฮาร์ทเผ็ด",
+		"name": "激辣心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "ถั่วที่มีรสเผ็ด",
+		"description": "这个坚果可是辣味的。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_114_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts003, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_308": {
-		"name": "ช็อกโกฮาร์ทเนื้อหยอง",
+		"name": "肉松心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "เปลือกขนมเย็นเฉียบผสานกับไส้ในรสนุ่มนวล",
+		"description": "冰凉的外壳与松软的内心。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_115_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_309": {
-		"name": "ช็อกโกฮาร์ทไข่ปลา",
+		"name": "鱼子心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "แค่เห็นวัตถุดิบก็รู้แล้วว่าแพงขนาดไหน!",
+		"description": "从选材便可以看出来，价值不菲！",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_116_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Drugs_007",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_007",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_007, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_310": {
-		"name": "ช็อกโกฮาร์ทปูอัด",
+		"name": "蟹柳心潮",
 		"type": "ITEM_TYPE_COOKING",
-		"description": "รีวิวของช็อกโกแลตชิ้นนี้มันดูแตกต่างกันสุดขั้วเกินไป บ้างก็ว่าดี บ้างก็ว่าไม่ดี",
+		"description": "这款巧克力的评价确实两极分化很严重。",
 		"source": "恢复<ComLblGreen>{0}</>点饱食度",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_117_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Shells006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Shells006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells006, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
-	},
-	"item_BurgerKing_Whopper": {
-		"name": "ปราสาท",
-		"type": "ITEM_TYPE_COOKING",
-		"description": "สินค้าดาวเด่นประจำวันนี้ ทำขึ้นอย่างพิถีพิถัน เนื้อบดย่าง กะหล่ำปลีสดกรอบ มะเขือเทศแสนฉ่ำ และผักดองที่แสนสดชื่น",
-		"source": "恢复<ComLblGreen>{0}</>点饱食度",
-		"icon": "/Game/Resources/Icon/caiyao/BurgerKing_Whopper",
-		"stars": 2,
-		"quality": "ITEM_QUALITY_EPIC"
 	}
 }

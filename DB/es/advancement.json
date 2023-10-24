@@ -1654,6 +1654,107 @@
 			"charge": 8
 		}
 	},
+	"Linghan_ice_ssr_star_0": {
+		"advancement": "<shuzhi>Resonancia de Escarcha</>: Aumenta el ATQ de escarcha un <shuzhi>15%</> y la resistencia a la escarcha un <shuzhi>25%</>. Se activa equipando <shuzhi>2</> o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n<shuzhi>Frío Extremo: Descarga</>: Después de usar <shuzhi>Arte de Espada: Hielo Oscuro</>, cada segundo infliges daño igual a la suma de: <shuzhi>{0}%</> de tu ATQ de escarcha, <shuzhi>{1}%</> de tus PS Máx., <shuzhi>{2}%</> de todos tus tipos de resistencias, y <shuzhi>{3}%</> de tu crítico. Ocurre durante <shuzhi>{4}</> seg. El daño de múltiples Descargas no se acumula, y el daño de Frío Extremo contará como daño de habilidad. Si tienes <shuzhi>1</> arma eléctrica/de fuego/física de cualquier tipo equipada, el daño de Frío Extremo se multiplica por <shuzhi>{5}</>. Además, el daño de Frío Extremo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanJiHanDamageCoeffIceATK",
+			"LinghanJiHanDamageCoeffMaxHP",
+			"LinghanJiHanDamageCoeffDefSum",
+			"LinghanJiHanDamageCoeffCrit",
+			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
+			"LinghanJiHanDamageCoeffAdv"
+		],
+		"cost": 0,
+		"need": "None",
+		"needamt": null,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_1": {
+		"advancement": "Tras lanzar <shuzhi>Cuchilla de Hielo</>, aumenta tu ATQ de escarcha un <shuzhi>{0}%</> y los objetivos cercanos recibirán daño igual a <shuzhi>80%</> del ATQ cada segundo durante <shuzhi>{1}</> seg.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Effect_L1_IceAtkUp",
+			"Buff_Linghan_Effect_L1_Duration"
+		],
+		"cost": 1000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_2": {
+		"advancement": "Aumenta el crecimiento de ATQ base del arma actual un <shuzhi>16%</>.",
+		"numbers": [],
+		"cost": 2000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_3": {
+		"advancement": "Puedes producir hasta <shuzhi>4</> <shuzhi>Cuchillas de Hielo</>, y el multiplicador base del daño de <shuzhi>Reducción de Temperatura</> aumenta a <shuzhi>360%</>.\r\nSi tu objetivo es el único afectado por <shuzhi>Reducción de Temperatura</>, dentro de <shuzhi>{0}</> seg le aplicas adicionalmente <shuzhi>Sello de Vena</>, lo que reduce su velocidad un <shuzhi>{1}%</> (no disponible en la Liga Ápex ni contra jefes). Si el objetivo vuelve a recibir daño de <shuzhi>Cuchilla de Hielo</> durante el <shuzhi>Sello de Vena</>, desencadena Estallido Gélido, lo que inflige daño de habilidad igual a <shuzhi>{2}%</> del ATQ más <shuzhi>{3}%</> de los PS ya perdidos del objetivo en ese momento (el daño de Estallido Gélido no será inferior a <shuzhi>{4}%</> del ATQ de escarcha del nómada ni superior a <shuzhi>{5}%</> del ATQ de escarcha del nómada). A continuación, elimina los efectos de <shuzhi>Sello de Vena</> y <shuzhi>Reducción de Temperatura</> en el objetivo.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Frostbite_DelayAdd_Period",
+			"Buff_Linghan_TargetSpeedDown",
+			"IceBoomAtkCoeff",
+			"IceBoomHPCoeff",
+			"IceBoomMinAtkCoeff",
+			"IceBoomMaxAtkCoeff"
+		],
+		"cost": 4000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_4": {
+		"advancement": "Aumenta el crecimiento de ATQ base del arma actual un <shuzhi>32%</>.",
+		"numbers": [],
+		"cost": 6000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_5": {
+		"advancement": "Aumenta el daño infligido por <shuzhi>Grieta Cristalina</> y <shuzhi>Aire Frío</> adicionalmente un <shuzhi>50%</>. Aumenta los intentos de uso de <shuzhi>Pasos Ligeros</> a <shuzhi>{1}</> y aumenta la tasa de recuperación a <shuzhi>1</> intento cada <shuzhi>{0}</> seg.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanQinggongPeriodL5",
+			"LinghanQinggongMaxL5"
+		],
+		"cost": 9000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_6": {
+		"advancement": "El efecto de <shuzhi>Reducción de Temperatura</> infligido después de disparar <shuzhi>Cuchillas de Hielo</> ahora se aplica a un área y también inflige daño adicional igual a <shuzhi>990%</> del ATQ a los objetivos cercanos.",
+		"numbers": [],
+		"cost": 13500,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
 	"Suspension_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia Eléctrica</>: Aumenta el ATQ eléctrico un <shuzhi>15%</> y la resistencia a la electricidad un <shuzhi>25%</>. Se activa al equipar <shuzhi>2</> o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n<shuzhi>Sacramento Eléctrico</>: Aumenta el ATQ eléctrico de todo el equipo un <shuzhi>5%</> cuando se activa Resonancia de Sacramento.",
 		"numbers": [],
@@ -3755,7 +3856,7 @@
 		}
 	},
 	"feise_fire_ssr_star_0": {
-		"advancement": "<shuzhi>Resonancia de Fuego</>: Aumenta el ATQ de fuego un <shuzhi>15%</> y la resistencia al fuego un <shuzhi>25%</>. Se activa equipando <shuzhi>2</> o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n<shuzhi>Explosión Ardiente: Corte Veloz</>: Cuando <shuzhi>Floración Interminable</> está equipada, al impactar con cualquier habilidad de descarga de arma, infliges daño inicial igual a la suma de: <shuzhi>{0}%</> de tu ATQ de fuego, <shuzhi>{1}%</> de tus PS Máx., <shuzhi>{2}%</> de todas tus resistencias y <shuzhi>{3}%</> de tu crítico a los objetivos cercanos. Mientras estés en combate y cada <shuzhi>0.5</> seg, el daño del siguiente Corte Veloz aumentará <shuzhi>1</> vez adicional, hasta un máximo de <shuzhi>30</> veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. Explosión Ardiente: El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si tienes <shuzhi>1</> arma de escarcha/eléctrica/física de cualquier tipo equipada, aumenta el daño de Explosión Ardiente a <shuzhi>{4}</>. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+		"advancement": "<shuzhi>Resonancia de Fuego</>: Aumenta el ATQ de fuego un <shuzhi>20%</> y la resistencia al fuego un <shuzhi>40%</>. Se activa equipando <shuzhi>2</> o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego o Reacción al Fuego; Resonancia de Fuego tiene prioridad.\r\n<shuzhi>Explosión Ardiente: Corte Veloz</>: Cuando <shuzhi>Floración Interminable</> está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a <shuzhi>{0}%</> del ATQ de fuego, más <shuzhi>{1}%</> de los PS Máx. del nómada, más <shuzhi>{2}%</> de la suma de todos los tipos de resistencias del nómada, más <shuzhi>{3}%</> del crítico. Mientras estés en combate y cada <shuzhi>0.5</> seg, el daño del siguiente Corte Veloz aumentará <shuzhi>1</> vez adicional, hasta un máximo de <shuzhi>30</> veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. Explosión Ardiente: El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si tienes <shuzhi>1</> arma de escarcha/éléctrica/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por <shuzhi>{4}</>. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales",
 		"numbermap": "CurveTable'FeiseEffectFigure'",
 		"numbers": [
 			"FeiSeEXChangeWeaponCoefficientFireAttack",
@@ -3773,7 +3874,7 @@
 		}
 	},
 	"feise_fire_ssr_star_1": {
-		"advancement": "Aumenta el multiplicador base del daño de <shuzhi>Corazón Resplandeciente</> a <shuzhi>60%</> del ATQ. En estado de combate, si infliges múltiples efectos de quemadura, el multiplicador base del daño por quemadura de <shuzhi>Corazón Resplandeciente</> aumenta al del efecto multiplicador más alto.",
+		"advancement": "Aumenta el multiplicador base del daño de <shuzhi>Corazón Resplandeciente</> a <shuzhi>120%</> del ATQ. En estado de combate, si el nómada inflige múltiples efectos de quemadura, el multiplicador base del daño de <shuzhi>Corazón Resplandeciente</> se incrementa adicionalmente al del efecto multiplicador más alto.",
 		"numbers": [],
 		"cost": 1000,
 		"need": "feise_fire_plasm",
@@ -3795,7 +3896,7 @@
 		}
 	},
 	"feise_fire_ssr_star_3": {
-		"advancement": "Aumenta el número máximo de <shuzhi>Phantasia de Fei Se</> a <shuzhi>2</>. Después de que <shuzhi>Remolino</> logra un impacto, también crea <shuzhi>1</> <shuzhi>Phantasia de Fei Se</>.",
+		"advancement": "Aumenta el número máximo de <shuzhi>Phantasia de Fei Se</> a <shuzhi>2</>. Después de que <shuzhi>Remolino</> logra un impacto, también crea <shuzhi>1</> de <shuzhi>Phantasia de Fei Se</>.",
 		"numbers": [],
 		"cost": 4000,
 		"need": "feise_fire_plasm",
@@ -3817,7 +3918,7 @@
 		}
 	},
 	"feise_fire_ssr_star_5": {
-		"advancement": "Por <shuzhi>cada</> <shuzhi>Phantasia de Fei Se</> o <shuzhi>Pétalo de Loto</> en el <shuzhi>Espejismo</>, aumenta el daño de <shuzhi>Corazón Resplandeciente</> un <shuzhi>12%</> adicional.\r\nReduce el consumo de resistencia de <shuzhi>Loto Apsará</> un <shuzhi>75%</>.",
+		"advancement": "Por cada <shuzhi>1</> de <shuzhi>Phantasia de Fei Se</> o <shuzhi>Pétalo de Loto</> en el <shuzhi>Espejismo</>, aumenta el daño de <shuzhi>Corazón Resplandeciente</> un <shuzhi>15%</> adicional.\r\nReduce el consumo de resistencia de <shuzhi>Loto Apsará</> un <shuzhi>75%</>.",
 		"numbers": [],
 		"cost": 9000,
 		"need": "feise_fire_plasm",
@@ -3828,7 +3929,7 @@
 		}
 	},
 	"feise_fire_ssr_star_6": {
-		"advancement": "El multiplicador base del daño de <shuzhi>Espiritormento</> aumenta a <shuzhi>270%</> del ATQ, la destrucción se duplica, y, tras asestar un impacto, hay un <shuzhi>15%</> de probabilidad de infligir un retraso del <shuzhi>65%</> durante <shuzhi>2</> seg (no es eficaz contra jefes en partidas en equipo; no está disponible en la Liga Ápex).",
+		"advancement": "El multiplicador base del daño de <shuzhi>Espiritormento</> aumenta a <shuzhi>900%</> del ATQ, la destrucción se duplica, y hay un <shuzhi>15%</> de probabilidad de infligir un retraso del <shuzhi>65%</> durante <shuzhi>2</> seg tras asestar un golpe (no es eficaz contra jefes en partidas en equipo; no está disponible en la Liga Ápex).",
 		"numbers": [],
 		"cost": 13500,
 		"need": "feise_fire_plasm",

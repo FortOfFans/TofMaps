@@ -6068,6 +6068,35 @@
 		"achievementPoints": 15,
 		"darkCrystals": 10
 	},
+	"402221": {
+		"name": "Escassez de Brotos de bambu",
+		"amount": 25,
+		"description": "Colete 25 brotos de bambu.",
+		"icon": "icon_shenghuo_001",
+		"section": "Vida",
+		"section2": "Planta",
+		"achievementPoints": 5
+	},
+	"402222": {
+		"name": "Abundância de Brotos de bambu",
+		"amount": 50,
+		"description": "Colete 50 brotos de bambu.",
+		"icon": "icon_shenghuo_001",
+		"section": "Vida",
+		"section2": "Planta",
+		"achievementPoints": 10,
+		"darkCrystals": 5
+	},
+	"402223": {
+		"name": "Excedente de Brotos de bambu",
+		"amount": 100,
+		"description": "Colete 100 brotos de bambu.",
+		"icon": "icon_shenghuo_001",
+		"section": "Vida",
+		"section2": "Planta",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
 	"403001": {
 		"name": "Nham, Nham, Nham",
 		"amount": 30,
@@ -7682,6 +7711,24 @@
 		"section2": "Sommelier de Reflexia",
 		"achievementPoints": 5
 	},
+	"712317": {
+		"name": "Primeiro Drinque: Coração do Rouxinol",
+		"amount": 1,
+		"description": "Beba 1:\r\nCoração do rouxinol",
+		"icon": "icon_shenghuo_001",
+		"section": "Vida",
+		"section2": "Sommelier de Reflexia",
+		"achievementPoints": 5
+	},
+	"712318": {
+		"name": "Primeiro Drinque: Amigo Estrangeiro",
+		"amount": 1,
+		"description": "Beba 1:\r\nAmigo estrangeiro",
+		"icon": "icon_shenghuo_001",
+		"section": "Vida",
+		"section2": "Sommelier de Reflexia",
+		"achievementPoints": 5
+	},
 	"720001": {
 		"name": "Peixe-fada azul alfa",
 		"amount": 1,
@@ -8181,6 +8228,374 @@
 		"xR1a": 5,
 		"xR2": "JiuYu_Gashapon_coin_1",
 		"xR2a": 2
+	},
+	"904000": {
+		"name": "Imensidão: Fastígio",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Imensidão: Fastígio\r\nLocal: sobre a Passagem de Trovoado",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904001": {
+		"name": "Imensidão: Cristal",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Imensidão: Cristal\r\nLocal: águas na base do Posto Dragão Oculto",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904002": {
+		"name": "Imensidão: Dente",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Imensidão: Dente\r\nLocal: nível inferior da Caverna do Tigre Rastejante",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904003": {
+		"name": "Imensidão: Pilar",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Imensidão: Pilar\r\nLocal: entrada do Vale do Pico Púrpuro",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904004": {
+		"name": "Imensidão: Elmo",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Imensidão: Elmo\r\nLocal: meio da Caverna do Tigre Rastejante",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904005": {
+		"name": "Imensidão: Voragem",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Imensidão: Voragem\r\nLocal: meio da Caverna do Tigre Rastejante",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904006": {
+		"name": "Mandril: Yutu",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Mandril: Yutu\r\nLocal: nível inferior da Cachoeira Dracostium",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904007": {
+		"name": "Mandril: Zhe Er",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Mandril: Zhe Er\r\nLocal: sul do Acampamento de Vigia",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904008": {
+		"name": "Mandril: Qiongqi",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Mandril: Qiongqi\r\nLocal: extremo noroeste de Dracolago de Trovoado",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904009": {
+		"name": "Arquilopante: Kirin",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Arquilopante: Kirin\r\nLocal: oeste do Acampamento de Vigia",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904010": {
+		"name": "Arquilopante: Arisco",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Arquilopante: Arisco\r\nLocal: sudeste do Jardim de Jade",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904011": {
+		"name": "Serpentouro: Tourasa",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Serpentouro: Tourasa\r\nLocal: oeste do Acampamento Vendaval",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904012": {
+		"name": "Serpentouro: Tourinza",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Serpentouro: Tourinza\r\nLocal: sob a Praça Relógio de Sol do Relâmpago Dourado",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904013": {
+		"name": "Serpentouro: Tourustão",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Serpentouro: Tourustão\r\nLocal: nível superior do Jardim Esquecido",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904014": {
+		"name": "Grão-servo: Dai Xing",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Grão-servo: Dai Xing\r\nLocal: campo de batalha ao norte do Acampamento Vendaval",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904015": {
+		"name": "Eletrocutor: Viajor",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Eletrocutor: Viajor\r\nLocal: sul do Parque dos Bambus",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904016": {
+		"name": "Fluroalma: Encouraçado",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Fluroalma: Encouraçado\r\nLocal: nível inferior da Caverna do Tigre Rastejante",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904017": {
+		"name": "Escuridão: Taotie",
+		"amount": 1,
+		"description": "Derrote Escuridão: Taotie\r\nLocal: Caverna do Tigre Rastejante",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Chefe",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"904020": {
+		"name": "Redentor: Determinante",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Redentor: Determinante\r\nLocal: sul do Posto de Distribuição",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904021": {
+		"name": "Escuridão: Garra Brutal",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Escuridão: Garra Brutal\r\nLocal: oeste do Caminho Nemoroso",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904022": {
+		"name": "Esplendor: Raposa Ocre",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Esplendor: Raposa Ocre\r\nLocal: Lado nordeste do Templo das Bênçãos Divinas",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904023": {
+		"name": "Isolada: Raposa Monte-Verde",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Isolada: Raposa Monte-Verde\r\nLocal: Lado oeste do Templo das Bênçãos Divinas",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904024": {
+		"name": "Desgraça sombria Algideiro",
+		"amount": 1,
+		"description": "Atinja Nível Dimensional 100 ou maior\r\nDerrote Desgraça sombria Algideiro\r\nLocal: entrada principal do Posto de Distribuição",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Inimigos",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904025": {
+		"name": "Escuridão: Xingtian",
+		"amount": 1,
+		"description": "Derrote a Escuridão Xingtian\r\nLocal: Posto de Distribuição",
+		"icon": "icon_zhandou_001",
+		"section": "Batalha",
+		"section2": "Chefe",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"920000": {
+		"name": "Bênção de Qinglong I",
+		"amount": 6,
+		"description": "Aprimore uma Estátua Azul para o Nv. 6 pela primeira vez.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploração",
+		"section2": "Ídolo",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920001": {
+		"name": "Bênção de Qinglong II",
+		"amount": 2,
+		"description": "Aprimore 2 Estátuas Azuis para o Nv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploração",
+		"section2": "Ídolo",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920002": {
+		"name": "Bênção de Qinglong III",
+		"amount": 3,
+		"description": "Aprimore 3 Estátuas Azuis para o Nv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploração",
+		"section2": "Ídolo",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920003": {
+		"name": "Bênção de Qinglong IV",
+		"amount": 4,
+		"description": "Aprimore 4 Estátuas Azuis para o Nv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploração",
+		"section2": "Ídolo",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920004": {
+		"name": "Bênção de Qinglong V",
+		"amount": 5,
+		"description": "Aprimore 5 Estátuas Azuis para o Nv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploração",
+		"section2": "Ídolo",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920005": {
+		"name": "Bênção de Qinglong VI",
+		"amount": 6,
+		"description": "Aprimore 6 Estátuas Azuis para o Nv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploração",
+		"section2": "Ídolo",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920006": {
+		"name": "Bênção de Qinglong VII",
+		"amount": 7,
+		"description": "Aprimore 7 Estátuas Azuis para o Nv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploração",
+		"section2": "Ídolo",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920014": {
+		"name": "Guia de Alabastro I",
+		"amount": 6,
+		"description": "Aprimore uma Estátua de Alabastro para o Nv. 6 pela primeira vez.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploração",
+		"section2": "Ídolo",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920015": {
+		"name": "Guia de Alabastro II",
+		"amount": 2,
+		"description": "Aprimore 2 Estátuas de Alabastro para o Nv. 6",
+		"icon": "icon_tansuo_001",
+		"section": "Exploração",
+		"section2": "Ídolo",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920016": {
+		"name": "Guia de Alabastro III",
+		"amount": 3,
+		"description": "Aprimore 3 Estátuas de Alabastro para o Nv. 6",
+		"icon": "icon_tansuo_001",
+		"section": "Exploração",
+		"section2": "Ídolo",
+		"achievementPoints": 15,
+		"darkCrystals": 10
 	},
 	"9030001": {
 		"name": "Juiz: Crépito",

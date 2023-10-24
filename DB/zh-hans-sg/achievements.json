@@ -6068,6 +6068,35 @@
 		"achievementPoints": 15,
 		"darkCrystals": 10
 	},
+	"402221": {
+		"name": "竹笋紧缺",
+		"amount": 25,
+		"description": "采集25个竹笋",
+		"icon": "icon_shenghuo_001",
+		"section": "生活",
+		"section2": "植物",
+		"achievementPoints": 5
+	},
+	"402222": {
+		"name": "竹笋盈余",
+		"amount": 50,
+		"description": "采集50个竹笋",
+		"icon": "icon_shenghuo_001",
+		"section": "生活",
+		"section2": "植物",
+		"achievementPoints": 10,
+		"darkCrystals": 5
+	},
+	"402223": {
+		"name": "竹笋充裕",
+		"amount": 100,
+		"description": "采集100个竹笋",
+		"icon": "icon_shenghuo_001",
+		"section": "生活",
+		"section2": "植物",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
 	"403001": {
 		"name": "四次元饭量",
 		"amount": 30,
@@ -7682,6 +7711,24 @@
 		"section2": "镜都品酒师",
 		"achievementPoints": 5
 	},
+	"712317": {
+		"name": "初饮夜莺的心",
+		"amount": 1,
+		"description": "饮用1次\r\n夜莺的心",
+		"icon": "icon_shenghuo_001",
+		"section": "生活",
+		"section2": "镜都品酒师",
+		"achievementPoints": 5
+	},
+	"712318": {
+		"name": "初饮外乡知音",
+		"amount": 1,
+		"description": "饮用1次\r\n外乡知音",
+		"icon": "icon_shenghuo_001",
+		"section": "生活",
+		"section2": "镜都品酒师",
+		"achievementPoints": 5
+	},
 	"720001": {
 		"name": "蓝纹神仙鱼王",
 		"amount": 1,
@@ -8182,6 +8229,374 @@
 		"xR2": "JiuYu_Gashapon_coin_1",
 		"xR2a": 2
 	},
+	"904000": {
+		"name": "负岳-嶙鳍",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败震州关隘上方的\r\n负岳-嶙鳍",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904001": {
+		"name": "负岳-嶙晶",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败藏龙哨站底部水潭的\r\n负岳-嶙晶",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904002": {
+		"name": "负岳-嶙齿",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败卧虎溶洞底层的\r\n负岳-嶙齿",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904003": {
+		"name": "负岳-嶙胫",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败紫峰谷口的\r\n负岳-嶙胫",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904004": {
+		"name": "负岳-嶙胄",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败卧虎溶洞中层的\r\n负岳-嶙胄",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904005": {
+		"name": "负岳-嶙坎",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败卧虎溶洞中层的\r\n负岳-嶙坎",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904006": {
+		"name": "山魈-於菟",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败龙门瀑布底部的\r\n山魈-於菟",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904007": {
+		"name": "山魈-赭额",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败望风营地南侧的\r\n山魈-赭额",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904008": {
+		"name": "山魈-穷奇",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败震州龙渊西北上层的\r\n山魈-穷奇",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904009": {
+		"name": "魍蛊-麒麟",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败望风营地西侧的\r\n魍蛊-麒麟",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904010": {
+		"name": "魍蛊-掣兽",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败萦翠园东南侧的\r\n魍蛊-掣兽",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904011": {
+		"name": "谯蜚-煴牬",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败乘风营地西侧的\r\n谯蜚-煴牬",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904012": {
+		"name": "谯蜚-烬犙",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败金雷子晷下方的\r\n谯蜚-烬犙",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904013": {
+		"name": "谯蜚-熳牭",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败忘尘园上层的\r\n谯蜚-熳牭",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904014": {
+		"name": "御侍-黛荇",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败乘风营地北侧战场的\r\n御侍-黛荇",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904015": {
+		"name": "震伥-唃黾",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败清竹苑南侧的\r\n震伥-唃黾",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904016": {
+		"name": "幽萤-雠鍪",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败卧虎溶洞底层的\r\n幽萤-雠鍪",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904017": {
+		"name": "晦暝·饕餮",
+		"amount": 1,
+		"description": "击败卧虎溶洞的\r\n晦暝**•** 饕餮",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "首领",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"904020": {
+		"name": "兑伥-唃决",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败集散哨站南侧的\r\n兑伥-唃决",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904021": {
+		"name": "晦暝-酷僚",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败层林道西侧的\r\n晦暝-酷僚",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904022": {
+		"name": "蓝辉-黛狐",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败天佑寺东北侧的\r\n蓝辉-黛狐",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904023": {
+		"name": "幽兰-青丘狐",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败天佑寺西侧的\r\n幽兰-青丘狐",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904024": {
+		"name": "暝伥-凌凁",
+		"amount": 1,
+		"description": "世界等级大于等于100级\r\n击败集散哨站正门的\r\n暝伥-凌凁",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "怪物",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904025": {
+		"name": "晦暝·刑天",
+		"amount": 1,
+		"description": "击败集散哨站的\r\n晦暝**•** 刑天",
+		"icon": "icon_zhandou_001",
+		"section": "战斗",
+		"section2": "首领",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"920000": {
+		"name": "青龙护佑·壹",
+		"amount": 6,
+		"description": "首次将青龙神像升至6级",
+		"icon": "icon_tansuo_001",
+		"section": "探索",
+		"section2": "神像",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920001": {
+		"name": "青龙护佑·贰",
+		"amount": 2,
+		"description": "将2座青龙神像升至6级",
+		"icon": "icon_tansuo_001",
+		"section": "探索",
+		"section2": "神像",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920002": {
+		"name": "青龙护佑·叁",
+		"amount": 3,
+		"description": "将3座青龙神像升至6级",
+		"icon": "icon_tansuo_001",
+		"section": "探索",
+		"section2": "神像",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920003": {
+		"name": "青龙护佑·肆",
+		"amount": 4,
+		"description": "将4座青龙神像升至6级",
+		"icon": "icon_tansuo_001",
+		"section": "探索",
+		"section2": "神像",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920004": {
+		"name": "青龙护佑·伍",
+		"amount": 5,
+		"description": "将5座青龙神像升至6级",
+		"icon": "icon_tansuo_001",
+		"section": "探索",
+		"section2": "神像",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920005": {
+		"name": "青龙护佑·陆",
+		"amount": 6,
+		"description": "将6座青龙神像升至6级",
+		"icon": "icon_tansuo_001",
+		"section": "探索",
+		"section2": "神像",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920006": {
+		"name": "青龙护佑·柒",
+		"amount": 7,
+		"description": "将7座青龙神像升至6级",
+		"icon": "icon_tansuo_001",
+		"section": "探索",
+		"section2": "神像",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920014": {
+		"name": "白虎护佑·壹",
+		"amount": 6,
+		"description": "首次将白虎神像升至6级",
+		"icon": "icon_tansuo_001",
+		"section": "探索",
+		"section2": "神像",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920015": {
+		"name": "白虎护佑·贰",
+		"amount": 2,
+		"description": "将2座白虎神像升至6级",
+		"icon": "icon_tansuo_001",
+		"section": "探索",
+		"section2": "神像",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920016": {
+		"name": "白虎护佑·叁",
+		"amount": 3,
+		"description": "将3座白虎神像升至6级",
+		"icon": "icon_tansuo_001",
+		"section": "探索",
+		"section2": "神像",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
 	"9030001": {
 		"name": "刑官-殷雷",
 		"amount": 1,
@@ -8238,9 +8653,9 @@
 		"xR1a": 1
 	},
 	"9030006": {
-		"name": "食尘-坝垚",
+		"name": "食尘-屃垚",
 		"amount": 1,
-		"description": "世界等级大于等于90级\r\n击败迎风郊的\r\n食尘-坝垚",
+		"description": "世界等级大于等于90级\r\n击败迎风郊的\r\n食尘-屃垚",
 		"icon": "icon_zhandou_001",
 		"section": "战斗",
 		"section2": "怪物",
@@ -8282,9 +8697,9 @@
 		"xR1a": 1
 	},
 	"9030010": {
-		"name": "离伥-咕钬",
+		"name": "离伥-唃钬",
 		"amount": 1,
-		"description": "世界等级大于等于90级\r\n击败归鸢营地北侧的\r\n离伥-咕钬",
+		"description": "世界等级大于等于90级\r\n击败归鸢营地北侧的\r\n离伥-唃钬",
 		"icon": "icon_zhandou_001",
 		"section": "战斗",
 		"section2": "怪物",
@@ -8293,9 +8708,9 @@
 		"xR1a": 1
 	},
 	"9030011": {
-		"name": "震伥-咕奄",
+		"name": "震伥-唃奄",
 		"amount": 1,
-		"description": "世界等级大于等于90级\r\n击败玄玉遗迹南侧的\r\n震伥-咕奄",
+		"description": "世界等级大于等于90级\r\n击败玄玉遗迹南侧的\r\n震伥-唃奄",
 		"icon": "icon_zhandou_001",
 		"section": "战斗",
 		"section2": "怪物",
@@ -8304,9 +8719,9 @@
 		"xR1a": 1
 	},
 	"9030013": {
-		"name": "食垩-坝垄",
+		"name": "食垩-屃垄",
 		"amount": 1,
-		"description": "世界等级大于等于90级\r\n单人击败迎风郊南侧塔\r\n一层 食垩-坝垄",
+		"description": "世界等级大于等于90级\r\n单人击败迎风郊南侧塔\r\n一层 食垩-屃垄",
 		"icon": "icon_zhandou_001",
 		"section": "战斗",
 		"section2": "降妖塔",

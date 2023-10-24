@@ -638,7 +638,7 @@
 	"Item_PrimaryEnergy_6": {
 		"name": "Spacetime Crystal Fragment",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Fragmen yang melayang di lintasan operasi ruang-waktu ini berasal dari ruang-waktu yang hancur.",
+		"description": "Fragmen yang melayang di lintasan operasi ruang-waktu ini berasal dari dimensi ruang-waktu yang runtuh.",
 		"source": "Bisa ditukar dengan barang di Toko Spacetime.",
 		"icon": "/Game/Resources/Icon/huobi/Energy_5",
 		"rarity": "LEGENDRY",

@@ -638,7 +638,7 @@
 	"Item_PrimaryEnergy_6": {
 		"name": "Estilhaços de cristal do espaço-tempo",
 		"type": "ITEM_TYPE_CURRENCY",
-		"description": "Esses fragmentos que flutuam na trajetória de operações do espaço-tempo são produtos do espaço-tempo que foi despedaçado.",
+		"description": "Esses fragmentos que flutuam na trajetória de operações do espaço-tempo são produtos do colapso do espaço-tempo que foi despedaçado.",
 		"source": "Troque por itens na Loja do Espaço-Tempo.",
 		"icon": "/Game/Resources/Icon/huobi/Energy_5",
 		"rarity": "LEGENDRY",

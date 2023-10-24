@@ -1654,6 +1654,107 @@
 			"charge": 8
 		}
 	},
+	"Linghan_ice_ssr_star_0": {
+		"advancement": "<shuzhi>氷共鳴</>：氷属性武器を<shuzhi>2</>つ以上装備すると発動。氷攻撃力+<shuzhi>15%</>、氷耐性+<shuzhi>25%</>。装備すると常時有効(複数の物理共鳴/物理反応はスタック不可、物理共鳴が優先して発動)。\r\n<shuzhi>極寒・脱手</>：<shuzhi>剣訣・凌玄影</>の発動後、攻撃が命中したターゲットに対し氷攻撃力×<shuzhi>{0}%</>+自身の最大HP×<shuzhi>{1}%</>+各属性耐性の合計値×<shuzhi>{2}%</>+会心の値×<shuzhi>{3}%</>のダメージを毎秒与える。<shuzhi>{4}</>秒間持続。脱手ダメージはスタック不可。極寒ダメージはスキルダメージと見なされる。雷/炎/物理属性武器のいずれかを<shuzhi>1</>つ装備している場合、極寒ダメージが<shuzhi>{5}</>倍まで UPする。なお、極寒ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanJiHanDamageCoeffIceATK",
+			"LinghanJiHanDamageCoeffMaxHP",
+			"LinghanJiHanDamageCoeffDefSum",
+			"LinghanJiHanDamageCoeffCrit",
+			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
+			"LinghanJiHanDamageCoeffAdv"
+		],
+		"cost": 0,
+		"need": "None",
+		"needamt": null,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_1": {
+		"advancement": "<shuzhi>氷刃</>の発射後、自身の氷攻撃力+<shuzhi>{0}%</>。さらに付近のターゲットに攻撃力×<shuzhi>104%</>のダメージを毎秒与える。両効果は<shuzhi>{1}</>秒間持続。",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Effect_L1_IceAtkUp",
+			"Buff_Linghan_Effect_L1_Duration"
+		],
+		"cost": 1000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_2": {
+		"advancement": "現在の武器の攻撃力基本成長率+<shuzhi>16%</>。",
+		"numbers": [],
+		"cost": 2000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_3": {
+		"advancement": "<shuzhi>氷刃</>の生成数上限が<shuzhi>4</>まで UPし、<shuzhi>温度低下</>によるダメージの基本倍率が<shuzhi>468%</>まで UPする。\r\n<shuzhi>{0}</>秒の間、<shuzhi>温度低下</>効果を受けているのがターゲットのみの場合、ターゲットに追加で<shuzhi>封脈</>効果を付与し移動速度-<shuzhi>{1}%</>(トップリーグ及びボスには無効)。<shuzhi>封脈</>の持続中に再び<shuzhi>氷刃</>で当該ターゲットにダメージを与えると氷爆が発動し、攻撃力×<shuzhi>{2}%</>+ターゲットが失っているHPの<shuzhi>{3}%</>のスキルダメージを与える(氷爆ダメージはプレイヤーの氷攻撃力×<shuzhi>{4}%</>～プレイヤーの氷攻撃力×<shuzhi>{5}%</>以内に収まる)。さらに、ターゲットの<shuzhi>封脈</>と<shuzhi>温度低下</>効果を解除する。",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Frostbite_DelayAdd_Period",
+			"Buff_Linghan_TargetSpeedDown",
+			"IceBoomAtkCoeff",
+			"IceBoomHPCoeff",
+			"IceBoomMinAtkCoeff",
+			"IceBoomMaxAtkCoeff"
+		],
+		"cost": 4000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_4": {
+		"advancement": "現在の武器の攻撃力基本成長率+<shuzhi>32%</>。",
+		"numbers": [],
+		"cost": 6000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_5": {
+		"advancement": "<shuzhi>晶裂</>と<shuzhi>氷気</>によるダメージが追加で+<shuzhi>50%</>。また、<shuzhi>飛舞落</>の使用上限が<shuzhi>{1}</>回までに UPし、使用回数の回復効率が<shuzhi>{0}</>秒ごとに<shuzhi>1</>まで UPする。",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanQinggongPeriodL5",
+			"LinghanQinggongMaxL5"
+		],
+		"cost": 9000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_6": {
+		"advancement": "<shuzhi>氷刃</>の発射後に付与する<shuzhi>温度低下</>効果が範囲効果に変化する。また、付近のターゲットに追加で攻撃力×<shuzhi>1170%</>のダメージを与える。",
+		"numbers": [],
+		"cost": 13500,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
 	"Suspension_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>雷共鳴</>：雷属性武器を<shuzhi>2</>つ以上装備すると発動。雷攻撃力+<shuzhi>15%</>、雷耐性+<shuzhi>25%</>。装備すると常時有効、同系統の効果はスタック不可。\r\n<shuzhi>雷の恩恵</>：自身が恩恵共鳴を発動していると、チーム全体の雷攻撃力+<shuzhi>5%</>。",
 		"numbers": [],
@@ -3369,7 +3470,7 @@
 		}
 	},
 	"brush_fire_ssr_star_0": {
-		"advancement": "<shuzhi>炎共鳴</>：炎属性武器を<shuzhi>2</>つ以上装備すると発動。炎攻撃力+<shuzhi>15%</>、炎耐性+<shuzhi>25%</>。装備すると常時有効、同系統の効果はスタック不可。\r\n<shuzhi>爆炎</>：<shuzhi>松慧</>による攻撃が命中した時、付近のターゲットに炎攻撃力×<shuzhi>{0}%</>+自身の最大HP×<shuzhi>{1}%</>+各属性耐性の合計値×<shuzhi>{2}%</>+会心の値×<shuzhi>{3}%</>のダメージを与える。<shuzhi>1.5</>秒間に1回のみ発動。このダメージは通常攻撃によるダメージと見なされる。任意の雷/氷/物理属性武器を<shuzhi>1</>つ装備している場合、爆炎ダメージが<shuzhi>{4}</>倍まで UPする。なお、爆炎ダメージはダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+		"advancement": "<shuzhi>炎共鳴</>：炎属性武器を<shuzhi>2</>つ以上装備すると発動。炎攻撃力+<shuzhi>15%</>、炎耐性+<shuzhi>25%</>。装備すると常時有効、同系統の効果はスタック不可。\r\n<shuzhi>爆炎・顕在</>：<shuzhi>松慧</>による攻撃が命中した時、付近のターゲットに炎攻撃力×<shuzhi>{0}%</>+自身の最大HP×<shuzhi>{1}%</>+各属性耐性の合計値×<shuzhi>{2}%</>+会心の値×<shuzhi>{3}%</>のダメージを与える。<shuzhi>1.5</>秒間に1回のみ発動。このダメージは通常攻撃によるダメージと見なされる。任意の雷/氷/物理属性武器を<shuzhi>1</>つ装備している場合、爆炎ダメージが<shuzhi>{4}</>倍まで UPする。なお、爆炎ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 		"numbermap": "CurveTable'BrushEffectFigure'",
 		"numbers": [
 			"BrushFireSpecialFireAtk",
@@ -3412,7 +3513,7 @@
 		}
 	},
 	"brush_fire_ssr_star_3": {
-		"advancement": "自身のHPが最大HPの<shuzhi>50%</>未満になると、<shuzhi>0.5</>秒ごとに<shuzhi>雀羽</>を<shuzhi>1</>枚消費して最大HPを<shuzhi>{0}%</>回復する。ソロモードの場合、回復効果が<shuzhi>{1}%</>まで UP。この効果はHPが全回復するまで、または<shuzhi>雀羽</>をすべて消費しきるまで持続する。装備すると常時有効",
+		"advancement": "自身のHPが最大HPの<shuzhi>50%</>未満になると、<shuzhi>0.5</>秒ごとに<shuzhi>雀羽</>を<shuzhi>1</>枚消費して最大HPを<shuzhi>{0}%</>回復する。ソロモードの場合、HP回復効果が<shuzhi>{1}%</>まで UP。この効果はHPが全回復するまで、または<shuzhi>雀羽</>をすべて消費しきるまで持続する。装備すると常時有効",
 		"numbermap": "CurveTable'BrushEffectFigure'",
 		"numbers": [
 			"BrushLevel3ReceverHP",
@@ -3578,7 +3679,7 @@
 		}
 	},
 	"Zeke_physic_ssr_star_0": {
-		"advancement": "<shuzhi>物理共鳴</>：物理属性武器を<shuzhi>2</>つ以上装備すると発動。物理攻撃力+<shuzhi>15%</>、物理耐性+<shuzhi>25%</>。装備すると常時有効(複数の物理共鳴はスタック不可、物理共鳴が優先して発動)。\r\n<shuzhi>炎共鳴</>：炎属性武器を<shuzhi>2</>つ以上装備すると発動。炎攻撃力+<shuzhi>15%</>、炎耐性+<shuzhi>25%</>。装備すると常時有効(複数の炎共鳴はスタック不可、炎共鳴が優先して発動)。\r\n<shuzhi>破甲・脱手</>：<shuzhi>絶谷</>の発動後、攻撃が命中したターゲットに対し物理攻撃力×<shuzhi>{1}%</>+自身の最大HP×<shuzhi>{2}%</>+各属性耐性の合計値×<shuzhi>{3}%</>+会心の値×<shuzhi>{4}%</>のダメージを毎秒与える。<shuzhi>{0}</>秒間持続。脱手ダメージはスタック不可。破甲のダメージはスキルダメージと見なされる。雷/炎/氷属性武器のいずれかを<shuzhi>1</>つ装備している場合、破甲ダメージが<shuzhi>{5}</>倍まで UPする。なお、破甲ダメージはダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+		"advancement": "<shuzhi>物理共鳴</>：物理属性武器を<shuzhi>2</>つ以上装備すると発動。物理攻撃力+<shuzhi>15%</>、物理耐性+<shuzhi>25%</>。装備すると常時有効(複数の物理共鳴はスタック不可、物理共鳴が優先して発動)。\r\n<shuzhi>炎共鳴</>：炎属性武器を<shuzhi>2</>つ以上装備すると発動。炎攻撃力+<shuzhi>15%</>、炎耐性+<shuzhi>25%</>。装備すると常時有効(複数の炎共鳴はスタック不可、炎共鳴が優先して発動)。\r\n<shuzhi>破甲・脱手</>：<shuzhi>絶谷</>の発動後、攻撃が命中したターゲットに対し物理攻撃力×<shuzhi>{1}%</>+自身の最大HP×<shuzhi>{2}%</>+各属性耐性の合計値×<shuzhi>{3}%</>+会心の値×<shuzhi>{4}%</>のダメージを毎秒与える。<shuzhi>{0}</>秒間持続。脱手ダメージはスタック不可。破甲のダメージはスキルダメージと見なされる。雷/炎/氷属性武器のいずれかを<shuzhi>1</>つ装備している場合、破甲ダメージが<shuzhi>{5}</>倍まで UPする。なお、破甲ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 		"numbermap": "CurveTable'ZekeEffectFigure'",
 		"numbers": [
 			"Buff_ZekeSkillPoJiaDamageDuration",
@@ -3671,7 +3772,7 @@
 		}
 	},
 	"mimi_thunder_ssr_star_0": {
-		"advancement": "<shuzhi>雷共鳴</>：雷属性武器を<shuzhi>2</>つ以上装備すると発動。雷攻撃力+<shuzhi>15%</>、雷耐性+<shuzhi>25%</>。装備すると常時有効、同系統の効果はスタック不可。\r\n<shuzhi>雷霆・顕在</>：<shuzhi>孟章</>による攻撃が命中した時、付近のターゲットに雷攻撃力×<shuzhi>{0}%</>+自身の最大HP×<shuzhi>{1}%</>+各属性耐性の合計値×<shuzhi>{2}%</>+会心の値×<shuzhi>{3}%</>のダメージを与える。<shuzhi>1.5</>秒間に1回のみ発動。この雷霆ダメージは通常攻撃によるダメージと見なされる。任意の炎/氷/物理属性武器を<shuzhi>1</>つ装備した場合、雷霆ダメージが<shuzhi>{4}</>倍まで UPする。また、雷霆ダメージはダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+		"advancement": "<shuzhi>雷共鳴</>：雷属性武器を<shuzhi>2</>つ以上装備すると発動。雷攻撃力+<shuzhi>15%</>、雷耐性+<shuzhi>25%</>。装備すると常時有効、同系統の効果はスタック不可。\r\n<shuzhi>雷霆・顕在</>：<shuzhi>孟章</>による攻撃が命中した時、付近のターゲットに雷攻撃力×<shuzhi>{0}%</>+自身の最大HP×<shuzhi>{1}%</>+各属性耐性の合計値×<shuzhi>{2}%</>+会心の値×<shuzhi>{3}%</>のダメージを与える。<shuzhi>1.5</>秒間に1回のみ発動。この雷霆ダメージは通常攻撃によるダメージと見なされる。任意の炎/氷/物理属性武器を<shuzhi>1</>つ装備した場合、雷霆ダメージが<shuzhi>{4}</>倍まで UPする。また、雷霆ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 		"numbermap": "CurveTable'MiMiEffectFigure'",
 		"numbers": [
 			"Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
@@ -3689,7 +3790,7 @@
 		}
 	},
 	"mimi_thunder_ssr_star_1": {
-		"advancement": "<shuzhi>雷爆</>による長押し攻撃中、一度に<shuzhi>2</>体の小青龍を召喚する。また、各小青龍は召喚物の最大HPの<shuzhi>20%</>を回復する。\r\n<shuzhi>雷爆</>による長押し攻撃と衝撃波の与ダメージ+<shuzhi>30%</>。\r\n<shuzhi>青雲威月</>を発動すると青龍の力を即時<shuzhi>3</>スタック獲得。その他の雷属性武器スキルを発動すると、青龍の力を即時<shuzhi>1</>スタック獲得。",
+		"advancement": "<shuzhi>雷爆</>による長押し攻撃中、一度に<shuzhi>2</>体の小青龍を召喚する。また、各小青龍は召喚物の最大HPの<shuzhi>20%</>を回復する。\r\n<shuzhi>雷爆</>によるチャージ攻撃と衝撃波の与ダメージ+<shuzhi>30%</>。\r\n<shuzhi>青雲威月</>を発動すると青龍の力を即時<shuzhi>3</>スタック獲得。その他の雷属性武器スキルを発動すると、青龍の力を即時<shuzhi>1</>スタック獲得。",
 		"numbers": [],
 		"cost": 1000,
 		"need": "mimi_thunder_plasm",
@@ -3711,7 +3812,7 @@
 		}
 	},
 	"mimi_thunder_ssr_star_3": {
-		"advancement": "<shuzhi>孟章</>の装備時、雷属性の武器固有スキルのクールダウン-<shuzhi>20%</>。スキルのクールダウンのクリア、リセット、変化の影響を受けない。\r\nさらに、自身の雷ダメージ+<shuzhi>15%</>。装備すると常時有効。",
+		"advancement": "<shuzhi>孟章</>を装備時、雷属性の武器固有スキルのクールダウン-<shuzhi>20%</>。スキルのクールダウンのクリア、リセット、変化の影響を受けない。\r\nさらに、自身の雷ダメージ+<shuzhi>15%</>。装備すると常時有効。",
 		"numbers": [],
 		"cost": 4000,
 		"need": "mimi_thunder_plasm",
@@ -3744,7 +3845,7 @@
 		}
 	},
 	"mimi_thunder_ssr_star_6": {
-		"advancement": "<shuzhi>青雲威月</>の発動後、自身が与える雷ダメージ+<shuzhi>10%</>、最終ダメージ+<shuzhi>10%</>。<shuzhi>30</>秒間持続",
+		"advancement": "<shuzhi>青雲威月</>の発動後、自身が与える雷ダメージ+<shuzhi>10%</>、最終ダメージ+<shuzhi>10%</>。<shuzhi>30</>秒間持続。",
 		"numbers": [],
 		"cost": 13500,
 		"need": "mimi_thunder_plasm",
@@ -3755,7 +3856,7 @@
 		}
 	},
 	"feise_fire_ssr_star_0": {
-		"advancement": "<shuzhi>Résonance de feu</> : accroît l'ATQ de feu de <shuzhi>15%</> et la résistance au feu de <shuzhi>25%</>. S'active en équipant au moins <shuzhi>2</> armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n<shuzhi>Explosion incandescente : Coupe rapide</> : quand <shuzhi>Floraison éternelle</> est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux équivalant à <shuzhi>{0}%</> de l'ATQ de feu + <shuzhi>{1}%</> des PV max de l'Explorateur + <shuzhi>{2}%</> de la somme de tous les types de résistance de l'Explorateur + <shuzhi>{3}%</> de crit aux cibles proches. En combat, toutes les <shuzhi>0,5</> seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'<shuzhi>une</> fois supplémentaire, jusqu'à un maximum de <shuzhi>30</> fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion incandescente : Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si <shuzhi>1</> arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par <shuzhi>{4}</>. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
+		"advancement": "<shuzhi>炎共鳴</>：炎属性武器を<shuzhi>2</>つ以上装備すると発動。炎攻撃力+<shuzhi>20%</>、炎耐性+<shuzhi>40%</>。装備すると常時有効(複数の炎共鳴/炎反応はスタック不可、炎共鳴が優先して発動)。\r\n<shuzhi>爆炎・速斬り</>：<shuzhi>重蕊</>装備中に、任意の武器による連携スキルが命中した時、最初に付近のターゲットに炎攻撃力×<shuzhi>{0}%</>+自身の最大HP×<shuzhi>{1}%</>+各属性耐性の合計値×<shuzhi>{2}%</>+会心の値×<shuzhi>{3}%</>のダメージを与える。その後、戦闘状態が継続する間、次回以降の速斬りは、<shuzhi>0.5</>秒間隔でダメージが上昇し、1回目の速斬りダメージ×<shuzhi>100％</>ずつ加算されていく(この加算は最大<shuzhi>30回</>まで)。1回目の速斬りダメージが複数発生した場合は、各攻撃が最初に与えたダメージのうちの最大値を基準にする。この速斬りダメージは連携ダメージと見なされる。任意の雷/氷/物理属性武器を<shuzhi>1</>つ装備した場合、爆炎ダメージが<shuzhi>{4}</>倍まで UPする。爆炎ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 		"numbermap": "CurveTable'FeiseEffectFigure'",
 		"numbers": [
 			"FeiSeEXChangeWeaponCoefficientFireAttack",
@@ -3773,7 +3874,7 @@
 		}
 	},
 	"feise_fire_ssr_star_1": {
-		"advancement": "Le multiplicateur de base des dégâts de <shuzhi>Cœur flamboyant</> passe à <shuzhi>60%</> de l'ATQ. En état de combat, si l'Explorateur inflige plusieurs effets de brûlure, le multiplicateur de base des dégâts de <shuzhi>Cœur flamboyant</> est remplacé par le multiplicateur le plus élevé.",
+		"advancement": "<shuzhi>心炎</>ダメージの基本倍率が攻撃力×<shuzhi>120%</>まで UP。戦闘状態の時、自身が燃焼状態を複数付与している場合、<shuzhi>心炎</>ダメージの基本倍率は最高倍率にまで UPする。",
 		"numbers": [],
 		"cost": 1000,
 		"need": "feise_fire_plasm",
@@ -3795,7 +3896,7 @@
 		}
 	},
 	"feise_fire_ssr_star_3": {
-		"advancement": "フィールド上に存在できる<shuzhi>妃色化身</>の数の上限が<shuzhi>2</>までアップする。<shuzhi>扶揺</>がターゲットに命中すると、追加で<shuzhi>妃色化身</>を<shuzhi>1</>つ生成する。",
+		"advancement": "フィールド上に存在できる<shuzhi>妃色化身</>の数の上限が<shuzhi>2</>まで UPする。<shuzhi>扶揺</>がターゲットに命中すると、追加で<shuzhi>妃色化身</>を<shuzhi>1</>つ生成する。",
 		"numbers": [],
 		"cost": 4000,
 		"need": "feise_fire_plasm",
@@ -3817,7 +3918,7 @@
 		}
 	},
 	"feise_fire_ssr_star_5": {
-		"advancement": "Pour <shuzhi>chaque</> <shuzhi>Fantaisie de Fei Se</> ou <shuzhi>Pétale de lotus</> créé dans le <shuzhi>Mirage</>, les dégâts de <shuzhi>Cœur flamboyant</> sont accrus de <shuzhi>12%</> supplémentaires.\r\nLa consommation d'endurance d'<shuzhi>Effet du lotus</> est réduite de <shuzhi>75%</>.",
+		"advancement": "<shuzhi>蜃気楼</>内に<shuzhi>妃色化身</>または<shuzhi>蓮弁</>が<shuzhi>1</>つ存在するごとに、<shuzhi>心炎</>によるダメージが追加で+<shuzhi>15%</>。\r\n<shuzhi>蓮歩飛天</>発動中のスタミナ消費-<shuzhi>75%</>。",
 		"numbers": [],
 		"cost": 9000,
 		"need": "feise_fire_plasm",
@@ -3828,7 +3929,7 @@
 		}
 	},
 	"feise_fire_ssr_star_6": {
-		"advancement": "Le multiplicateur de base des dégâts d'<shuzhi>Usure d'âme</> passe à <shuzhi>270%</> de l'ATQ, la capacité de fracture est doublée et après avoir touché une cible, vous avez <shuzhi>15%</> de chances d'infliger un ralentissement de <shuzhi>65%</> pendant <shuzhi>2</> secondes (inefficace contre les boss en jeu en équipe et non disponible en Ligue ultime).",
+		"advancement": "<shuzhi>心蝕</>ダメージの基本倍率が攻撃力×<shuzhi>900%</>まで UPする。心蝕ダメージによるシールドブレイク率が2倍になり、ターゲットに心蝕ダメージを与えた際に<shuzhi>15%</>の確率で<shuzhi>2</>秒間かつ<shuzhi>65%</>のスロウ効果を付与する(チームプレイ時のボスならびにトップリーグでは無効)。",
 		"numbers": [],
 		"cost": 13500,
 		"need": "feise_fire_plasm",

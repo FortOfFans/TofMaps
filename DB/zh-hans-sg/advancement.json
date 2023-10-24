@@ -1654,6 +1654,107 @@
 			"charge": 8
 		}
 	},
+	"Linghan_ice_ssr_star_0": {
+		"advancement": "<shuzhi>寒冰共鸣</>：装备<shuzhi>2</>把及以上寒冰武器触发，提升<shuzhi>15%</>冰攻和<shuzhi>25%</>冰抗，装备后后台可生效，同类效果不叠加。\r\n<shuzhi>极寒-脱手</>：释放<shuzhi>剑诀·凌玄影</>后，每秒对命中目标造成<shuzhi>{0}%</>*冰攻+<shuzhi>{1}%</>*自身最大生命值+<shuzhi>{2}%</>*各元素抗性之和+<shuzhi>{3}%</>*暴击点伤害，持续<shuzhi>{4}</>秒，多个脱手伤害不叠加，极寒伤害视为技能伤害，若装备任意<shuzhi>1</>把雷电/火焰/物理武器，则极寒伤害提升至<shuzhi>{5}</>倍。此外，极寒伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanJiHanDamageCoeffIceATK",
+			"LinghanJiHanDamageCoeffMaxHP",
+			"LinghanJiHanDamageCoeffDefSum",
+			"LinghanJiHanDamageCoeffCrit",
+			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
+			"LinghanJiHanDamageCoeffAdv"
+		],
+		"cost": 0,
+		"need": "None",
+		"needamt": null,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_1": {
+		"advancement": "发射<shuzhi>冰刃</>后自身冰攻提升<shuzhi>{0}%</>，每秒对附近目标造成<shuzhi>80%</>*攻击力伤害，持续<shuzhi>{1}</>秒。",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Effect_L1_IceAtkUp",
+			"Buff_Linghan_Effect_L1_Duration"
+		],
+		"cost": 1000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_2": {
+		"advancement": "当前武器的基础攻击成长+<shuzhi>16%</>",
+		"numbers": [],
+		"cost": 2000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_3": {
+		"advancement": "<shuzhi>冰刃</>生成数量上限提升至<shuzhi>4</>柄，<shuzhi>温度降低</>伤害基础倍率提升至<shuzhi>360%</>；\r\n若<shuzhi>{0}</>秒内受到<shuzhi>温度降低</>效果影响的仅有目标自身，则对目标额外添加<shuzhi>封脉</>效果，移动速度降低<shuzhi>{1}%</>（巅峰联赛、对boss不生效），若目标<shuzhi>封脉</>期间再次受到<shuzhi>冰刃</>伤害，可触发冰爆，造成<shuzhi>{2}%</>*攻击力+<shuzhi>{3}%</>目标已损失生命值的技能伤害（冰爆伤害不低于玩家<shuzhi>{4}%</>冰攻且不高于玩家<shuzhi>{5}%</>冰攻），并移除目标的<shuzhi>封脉</>与<shuzhi>温度降低</>效果。",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Frostbite_DelayAdd_Period",
+			"Buff_Linghan_TargetSpeedDown",
+			"IceBoomAtkCoeff",
+			"IceBoomHPCoeff",
+			"IceBoomMinAtkCoeff",
+			"IceBoomMaxAtkCoeff"
+		],
+		"cost": 4000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_4": {
+		"advancement": "当前武器的基础攻击成长+<shuzhi>32%</>",
+		"numbers": [],
+		"cost": 6000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_5": {
+		"advancement": "<shuzhi>晶裂</>、<shuzhi>寒气</>造成的伤害额外提升<shuzhi>50%</>，<shuzhi>翩跹落</>使用上限提升至<shuzhi>{1}</>次，回复效率提升至每<shuzhi>{0}</>秒回复<shuzhi>1</>次使用次数。",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanQinggongPeriodL5",
+			"LinghanQinggongMaxL5"
+		],
+		"cost": 9000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_6": {
+		"advancement": "发射<shuzhi>冰刃</>添加的<shuzhi>温度降低</>效果变为范围添加，并对附近目标额外造成<shuzhi>990%</>*攻击力伤害。",
+		"numbers": [],
+		"cost": 13500,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
 	"Suspension_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>雷电共鸣</>：装备<shuzhi>2</>把及以上雷电武器触发，提升<shuzhi>15%</>雷攻和<shuzhi>25%</>雷抗，装备后后台可生效，同类效果不叠加。\r\n<shuzhi>雷电恩赐</>：自身激活恩赐共鸣时，提升全队<shuzhi>5%</>雷攻。",
 		"numbers": [],
@@ -3755,7 +3856,7 @@
 		}
 	},
 	"feise_fire_ssr_star_0": {
-		"advancement": "<shuzhi>火焰共鸣</>：装备<shuzhi>2</>把及以上火焰武器触发，提升<shuzhi>15%</>火攻和<shuzhi>25%</>火抗，装备后后台可生效，同类效果不叠加。\r\n<shuzhi>爆炎-速切</>：装备<shuzhi>重蕊</>时，任意武器连携技命中后，对附近目标初始造成<shuzhi>{0}%</>*火攻+<shuzhi>{1}%</>*自身最大生命值+<shuzhi>{2}%</>*各元素抗性之和+<shuzhi>{3}%</>*暴击值点伤害，战斗状态下每间隔<shuzhi>0.5</>秒，下次速切伤害额外提升<shuzhi>1</>倍，至多提升<shuzhi>30</>次，存在多个速切伤害时取最大初始值计算，爆炎-速切伤害为连携伤害，若装备任意<shuzhi>1</>把寒冰/雷电/物理武器，则爆炎伤害提升至<shuzhi>{4}</>倍。此外，爆炎伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。",
+		"advancement": "<shuzhi>火焰共鸣</>：装备<shuzhi>2</>把及以上火焰武器触发，提升<shuzhi>20%</>火攻和<shuzhi>40%</>火抗，装备后后台可生效（多个火焰共鸣/火焰反应不叠加，优先生效火焰共鸣）。\r\n<shuzhi>爆炎-速切</>：装备<shuzhi>重蕊</>时，任意武器连携技命中后，对附近目标初始造成<shuzhi>{0}%</>*火攻+<shuzhi>{1}%</>*自身最大生命值+<shuzhi>{2}%</>*各元素抗性之和+<shuzhi>{3}%</>*暴击值点伤害，战斗状态下每间隔<shuzhi>0.5</>秒，下次速切伤害额外提升<shuzhi>1</>倍，至多提升<shuzhi>30</>次，存在多个速切伤害时取最大初始值计算，爆炎-速切伤害为连携伤害，若装备任意<shuzhi>1</>把寒冰/雷电/物理武器，则爆炎伤害提升至<shuzhi>{4}</>倍。此外，爆炎伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。",
 		"numbermap": "CurveTable'FeiseEffectFigure'",
 		"numbers": [
 			"FeiSeEXChangeWeaponCoefficientFireAttack",
@@ -3773,7 +3874,7 @@
 		}
 	},
 	"feise_fire_ssr_star_1": {
-		"advancement": "<shuzhi>心焰</>伤害的基础倍率提升至<shuzhi>60%</>*攻击力，战斗状态下，若自身添加过多个灼烧状态，<shuzhi>心焰</>伤害的基础倍率额外提升至其中的最高基础倍率。",
+		"advancement": "<shuzhi>心燚</>伤害的基础倍率提升至<shuzhi>120%</>*攻击力，战斗状态下，若自身添加过多个灼烧状态，<shuzhi>心燚</>伤害的基础倍率额外提升至其中的最高基础倍率。",
 		"numbers": [],
 		"cost": 1000,
 		"need": "feise_fire_plasm",
@@ -3817,7 +3918,7 @@
 		}
 	},
 	"feise_fire_ssr_star_5": {
-		"advancement": "<shuzhi>蜃楼</>中每有<shuzhi>1</>个<shuzhi>妃色幻象</>或<shuzhi>莲瓣</>，<shuzhi>心焰</>伤害额外提升<shuzhi>12%</>。\r\n释放<shuzhi>莲步飞天</>耐力消耗减少<shuzhi>75%</>。",
+		"advancement": "<shuzhi>蜃楼</>中每有<shuzhi>1</>个<shuzhi>妃色幻象</>或<shuzhi>莲瓣</>，<shuzhi>心燚</>伤害额外提升<shuzhi>15%</>。\r\n释放<shuzhi>莲步飞天</>耐力消耗减少<shuzhi>75%</>。",
 		"numbers": [],
 		"cost": 9000,
 		"need": "feise_fire_plasm",
@@ -3828,7 +3929,7 @@
 		}
 	},
 	"feise_fire_ssr_star_6": {
-		"advancement": "<shuzhi>心蚀</>伤害的基础倍率提升至<shuzhi>270%</>*攻击力，破盾效率翻倍，并且命中目标后<shuzhi>15%</>概率添加<shuzhi>2</>秒<shuzhi>65%</>迟缓（组队玩法中对BOSS不生效，巅峰联赛不生效）效果。",
+		"advancement": "<shuzhi>心蚀</>伤害的基础倍率提升至<shuzhi>900%</>*攻击力，破盾效率翻倍，并且命中目标后<shuzhi>15%</>概率添加<shuzhi>2</>秒<shuzhi>65%</>迟缓（组队玩法中对BOSS不生效，巅峰联赛不生效）效果。",
 		"numbers": [],
 		"cost": 13500,
 		"need": "feise_fire_plasm",

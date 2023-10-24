@@ -131,9 +131,9 @@
 		"id": "WeaponFragment"
 	},
 	"GenePointAttack": {
-		"name": "Originum (Attack)",
-		"description": "A mysterious byproduct of Omnium radiation research that affects the evolution of creatures with a purpose. After years of research and optimization, it can now be safely used on the human body.",
-		"icon": "/Game/Resources/Icon/item/jysicon",
+		"name": "Dominium",
+		"description": "A common currency and the only legal currency of Domain 9 issued by Zhen Gong. It contains a small amount of the material used to make timestamps as an anti-counterfeiting measure.",
+		"icon": "/Game/Resources/Icon/huobi/jiuyu_coin",
 		"id": "GenePointAttack"
 	},
 	"GuildCaption": {

@@ -967,7 +967,7 @@
 		"description": "ใช้เวลา 100 นาทีทำภารกิจหนึ่งเซสชั่น",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 7,
 		"darkCrystals": 5
 	},
@@ -977,7 +977,7 @@
 		"description": "ใช้เวลา 500 นาทีทำภารกิจหนึ่งเซสชั่น",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 7,
 		"darkCrystals": 5
 	},
@@ -987,7 +987,7 @@
 		"description": "โดนจับได้ 10 ครั้ง ระหว่างสำรวจเฟอร์นิเจอร์",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 7,
 		"darkCrystals": 5
 	},
@@ -997,7 +997,7 @@
 		"description": "สำรวจเฟอร์นิเจอร์ 50 ครั้ง",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 7,
 		"darkCrystals": 10
 	},
@@ -1007,7 +1007,7 @@
 		"description": "รอดชีวิตการตกที่รุนแรง",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 7,
 		"darkCrystals": 5
 	},
@@ -1017,7 +1017,7 @@
 		"description": "ใช้เวลา 300 นาทีทำภารกิจหนึ่งเซสชั่น",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 7
 	},
 	"203007": {
@@ -1026,7 +1026,7 @@
 		"description": "ใช้เวลา 800 นาทีทำภารกิจหนึ่งเซสชั่น",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 10,
 		"darkCrystals": 10
 	},
@@ -1036,7 +1036,7 @@
 		"description": "ใช้เวลา 1,000 นาทีทำภารกิจหนึ่งเซสชั่น",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15,
 		"darkCrystals": 20
 	},
@@ -1053,7 +1053,7 @@
 		"description": "จมน้ำ 50 ครั้ง",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 7,
 		"darkCrystals": 10
 	},
@@ -1063,7 +1063,7 @@
 		"description": "วิ่งจำนวนระยะ 10 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 5,
 		"darkCrystals": 5
 	},
@@ -1073,7 +1073,7 @@
 		"description": "วิ่งจำนวนระยะ 40 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 10,
 		"darkCrystals": 10
 	},
@@ -1083,7 +1083,7 @@
 		"description": "วิ่งจำนวนระยะ 70 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15,
 		"darkCrystals": 20
 	},
@@ -1093,7 +1093,7 @@
 		"description": "เดินทางด้วยเจ็ตบอร์ด 10 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 5,
 		"darkCrystals": 5
 	},
@@ -1103,7 +1103,7 @@
 		"description": "เดินทางด้วยเจ็ตบอร์ด 40 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 10,
 		"darkCrystals": 10
 	},
@@ -1113,7 +1113,7 @@
 		"description": "เดินทางด้วยเจ็ตบอร์ด 70 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15,
 		"darkCrystals": 20
 	},
@@ -1123,7 +1123,7 @@
 		"description": "ว่ายน้ำ 10 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 5,
 		"darkCrystals": 5
 	},
@@ -1133,7 +1133,7 @@
 		"description": "ว่ายน้ำ 40 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 10,
 		"darkCrystals": 10
 	},
@@ -1143,7 +1143,7 @@
 		"description": "ว่ายน้ำ 70 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15,
 		"darkCrystals": 20
 	},
@@ -1153,7 +1153,7 @@
 		"description": "ปีนป่าย 10 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 5,
 		"darkCrystals": 5
 	},
@@ -1163,7 +1163,7 @@
 		"description": "ปีนป่าย 40 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 10,
 		"darkCrystals": 10
 	},
@@ -1173,7 +1173,7 @@
 		"description": "ปีนป่าย 70 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15,
 		"darkCrystals": 20
 	},
@@ -1183,7 +1183,7 @@
 		"description": "ร่อน 10 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 5,
 		"darkCrystals": 5
 	},
@@ -1193,7 +1193,7 @@
 		"description": "ร่อน 40 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 10,
 		"darkCrystals": 10
 	},
@@ -1203,7 +1203,7 @@
 		"description": "ร่อน 70 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15,
 		"darkCrystals": 20
 	},
@@ -1227,7 +1227,7 @@
 		"description": "วิจัยวัฏจักรสัตว์ทะเล 1 ครั้ง",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15,
 		"xR1": "AvatarFrame_66",
 		"xR1a": 1
@@ -1238,7 +1238,7 @@
 		"description": "วิจัยการวัดระดับแห่งสระลึกลับ 1 ครั้ง",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15,
 		"xR1": "chat_qipao_67",
 		"xR1a": 1
@@ -1249,7 +1249,7 @@
 		"description": "วิจัยการสังเกตการณ์มิติสีเทา 1 ครั้ง",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15,
 		"xR1": "Title_1_6_2_3",
 		"xR1a": 1
@@ -1260,7 +1260,7 @@
 		"description": "ดำน้ำ 10 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 5
 	},
 	"203032": {
@@ -1269,7 +1269,7 @@
 		"description": "ดำน้ำ 40 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 10
 	},
 	"203033": {
@@ -1278,7 +1278,7 @@
 		"description": "ดำน้ำ 70 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15
 	},
 	"203034": {
@@ -1287,7 +1287,7 @@
 		"description": "ชักชวนปลาโลมา 1 ตัวให้ติดตามคุณ",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 5
 	},
 	"203035": {
@@ -1296,7 +1296,7 @@
 		"description": "ชักชวนปลาโลมา 3 ตัวให้ติดตามคุณ",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 10
 	},
 	"203036": {
@@ -1305,7 +1305,7 @@
 		"description": "ชักชวนปลาโลมา 5 ตัวให้ติดตามคุณ",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15
 	},
 	"203037": {
@@ -1314,7 +1314,7 @@
 		"description": "ล่องลอยไปกับกระแสน้ำในมหาสมุทร 10 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 5
 	},
 	"203038": {
@@ -1323,7 +1323,7 @@
 		"description": "ล่องลอยไปกับกระแสน้ำในมหาสมุทร 40 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 10
 	},
 	"203039": {
@@ -1332,7 +1332,7 @@
 		"description": "ล่องลอยไปกับกระแสน้ำในมหาสมุทร 70 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15
 	},
 	"203040": {
@@ -1341,7 +1341,7 @@
 		"description": "สำรวจถ้ำแมงกะพรุนใต้น้ำ",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 7
 	},
 	"203041": {
@@ -1350,7 +1350,7 @@
 		"description": "จับปลา 100 ตัวในแกรนด์ซี",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 15
 	},
 	"203042": {
@@ -1359,7 +1359,7 @@
 		"description": "ดำน้ำ 1 กิโลเมตร",
 		"icon": "icon_tansuo_001",
 		"section": "การสำรวจ",
-		"section2": "แอเรีย",
+		"section2": "พื้นที่",
 		"achievementPoints": 5,
 		"xR1": "artifact_ssr_015",
 		"xR1a": 1
@@ -6068,6 +6068,35 @@
 		"achievementPoints": 15,
 		"darkCrystals": 10
 	},
+	"402221": {
+		"name": "หน่อไม้ขาดแคลน",
+		"amount": 25,
+		"description": "รวบรวมหน่อไม้ 25 หน่วย",
+		"icon": "icon_shenghuo_001",
+		"section": "ชีวิต",
+		"section2": "โรงงาน",
+		"achievementPoints": 5
+	},
+	"402222": {
+		"name": "หน่อไม้มากเพียงพอ",
+		"amount": 50,
+		"description": "รวบรวมหน่อไม้ 50 หน่วย",
+		"icon": "icon_shenghuo_001",
+		"section": "ชีวิต",
+		"section2": "โรงงาน",
+		"achievementPoints": 10,
+		"darkCrystals": 5
+	},
+	"402223": {
+		"name": "หน่อไม้เหลือเฟือ",
+		"amount": 100,
+		"description": "รวบรวมหน่อไม้ 100 หน่วย",
+		"icon": "icon_shenghuo_001",
+		"section": "ชีวิต",
+		"section2": "โรงงาน",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
 	"403001": {
 		"name": "ง่ำๆๆ ",
 		"amount": 30,
@@ -7682,6 +7711,24 @@
 		"section2": "ซอมเมอลิเยร์แห่งมิเรอเรีย",
 		"achievementPoints": 5
 	},
+	"712317": {
+		"name": "เครื่องดื่มเริ่มต้น: หัวใจไนติงเกล",
+		"amount": 1,
+		"description": "ดื่มไอเทมต่อไปนี้ 1 หน่วย:\r\nหัวใจไนติงเกล",
+		"icon": "icon_shenghuo_001",
+		"section": "ชีวิต",
+		"section2": "ซอมเมอลิเยร์แห่งมิเรอเรีย",
+		"achievementPoints": 5
+	},
+	"712318": {
+		"name": "เครื่องดื่มเริ่มต้น: เพื่อนต่างแดน",
+		"amount": 1,
+		"description": "ดื่มไอเทมต่อไปนี้ 1 หน่วย:\r\nเพื่อนต่างแดน",
+		"icon": "icon_shenghuo_001",
+		"section": "ชีวิต",
+		"section2": "ซอมเมอลิเยร์แห่งมิเรอเรีย",
+		"achievementPoints": 5
+	},
 	"720001": {
 		"name": "ราชาปลาสินสมุทรลายคราม",
 		"amount": 1,
@@ -8170,9 +8217,9 @@
 		"xR1a": 2
 	},
 	"903030": {
-		"name": "ดาร์คเร็ตช์: อีกาทมิฬ",
+		"name": "ดาร์กเร็ตช์: อีกาทมิฬ",
 		"amount": 1,
-		"description": "หลังจากเอาชนะดาร์คเร็ตช์: อีกาทมิฬ\r\nตำแหน่ง: แท่นบูชาที่สวนหลังหมู่บ้านเขาเฉียดฟ้า",
+		"description": "หลังจากเอาชนะดาร์กเร็ตช์: อีกาทมิฬ\r\nตำแหน่ง: แท่นบูชาที่สวนหลังหมู่บ้านเขาเฉียดฟ้า",
 		"icon": "icon_zhandou_001",
 		"section": "การต่อสู้",
 		"section2": "บอส",
@@ -8181,6 +8228,374 @@
 		"xR1a": 5,
 		"xR2": "JiuYu_Gashapon_coin_1",
 		"xR2a": 2
+	},
+	"904000": {
+		"name": "แบกผา: ครีบเกล็ด",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะแบกผา: ครีบเกล็ด\r\nตำแหน่ง: ด่านเจิ้นโจว",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904001": {
+		"name": "แบกผา: คริสตัลเกล็ด",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะแบกผา: ครีบเกล็ด\r\nตำแหน่ง: บ่อน้ำลึกภายในหอสังเกตการณ์ซ่อนมังกร",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904002": {
+		"name": "แบกผา: ฟันเกล็ด",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะแบกผา: ฟันเกล็ด\r\nตำแหน่ง: ด้านล่างสุดของถ้ำเสือหมอบ",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904003": {
+		"name": "แบกผา: เสาเกล็ด",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะแบกผา: เสาเกล็ด\r\nตำแหน่ง: ทางเข้าหุบเขายอดอินทนิล",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904004": {
+		"name": "แบกผา: หมวกเกล็ด",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะแบกผา: หมวกเกล็ด\r\nตำแหน่ง: ใจกลางของถ้ำเสือหมอบ",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904005": {
+		"name": "แบกผา: หลุมเกล็ด",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะแบกผา: หลุมเกล็ด\r\nตำแหน่ง: ใจกลางของถ้ำเสือหมอบ",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904006": {
+		"name": "แมนดริล: อูถู",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะแมนดริล: อูถู\r\nตำแหน่ง: ด้านล่างสุดของน้ำตกประตูมังกร",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904007": {
+		"name": "แมนดริล: เจ่อเอ๋อ",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะแมนดริล: เจ่อเอ๋อ\r\nตำแหน่ง: ทางตอนใต้ของค่ายเฝ้ามองวายุ",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904008": {
+		"name": "แมนดริล: ฉงฉี",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะแมนดริล: ฉงฉี\r\nตำแหน่ง: ทางตะวันตกเฉียงเหนือตอนบนของห้วงมังกรแห่งเจิ้นโจว",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904009": {
+		"name": "อาร์ชสไปร์: กิเลน",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะอาร์ชสไปร์: กิเลน\r\nตำแหน่ง: ทางตะวันตกของค่ายเฝ้ามองวายุ",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904010": {
+		"name": "อาร์ชสไปร์: อสูรฉุดลาก",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะอาร์ชสไปร์: อสูรฉุดลาก\r\nตำแหน่ง: ทางตะวันออกเฉียงใต้ของสวนล้อมมรกต",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904011": {
+		"name": "ไซอ็อกซ์: กระทิงไฟ",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะไซอ็อกซ์: กระทิงไฟ\r\nตำแหน่ง: ทางตะวันตกของแคมป์ขี่ล่องวาโย",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904012": {
+		"name": "ไซอ็อกซ์: กระทิงถ่าน",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะไซอ็อกซ์: กระทิงถ่าน\r\nตำแหน่ง: บริเวณใต้จัตุรัสนาฬิกาแดดอัสนีทอง",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904013": {
+		"name": "ไซอ็อกซ์: กระทิงเพลิงลุกโชน",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะไซอ็อกซ์: กระทิงเพลิงลุกโชน\r\nตำแหน่ง: บริเวณชั้นบนของสวนโลกาลืมเลือน",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904014": {
+		"name": "ผู้ดูแลหลัก: ไต้ซิ่ง",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะผู้ดูแลหลัก: ไต้ซื่ง\r\nตำแหน่ง: ทางเหนือของแคมป์ขี่ล่องวาโย",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904015": {
+		"name": "ช็อกเกอร์: สไตรดิน",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะช็อกเกอร์: สไตรดิน\r\nตำแหน่ง: ทางใต้ของสวนไผ่บริสุทธิ์",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904016": {
+		"name": "หิ่งห้อยมืด: เกราะเหล็ก",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะหิ่งห้อยมืด: เกราะเหล็ก\r\nตำแหน่ง: ด้านล่างสุดของถ้ำเสือหมอบ",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904017": {
+		"name": "ดาร์กเนส: เทาเที่ย",
+		"amount": 1,
+		"description": "เอาชนะดาร์กเนส: เทาเที่ย\r\nในถ้ำเสือหมอบ",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "บอส",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"904020": {
+		"name": "รีดีมเมอร์: ดีไซด์เดอร์",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะรีดีมเมอร์: ดีไซด์เดอร์\r\nตำแหน่ง: ทางใต้ของหอสังเกตการณ์รวมพล",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904021": {
+		"name": "ดาร์กเนส: ครูเอิลครอล",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะดาร์กเนส: ครูเอิลครอล\r\nตำแหน่ง: ทางตะวันตกของทางผ่านแมกไม้",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904022": {
+		"name": "สเพลนดอร์: จิ้งจอกอัมเบอร์",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะสเพลนดอร์: จิ้งจอกอัมเบอร์\r\nตำแหน่ง: ทางตะวันออกเฉียงเหนือของวัดสวรรค์ปกปัก",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904023": {
+		"name": "ซีคลูดิด: จิ้งจอกกรีนฮิลล์",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะซีคลูดิด: จิ้งจอกกรีนฮิลล์\r\nตำแหน่ง: ทางตะวันตกของวัดสวรรค์ปกปัก",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904024": {
+		"name": "ดาร์กเร็ตช์: ฟรอสต์ไฟท์เตอร์",
+		"amount": 1,
+		"description": "เลเวลห้วงมิติมากกว่าหรือเท่ากับ 100\r\nเอาชนะดาร์กเร็ตช์: ฟรอสต์ไฟท์เตอร์\r\nตำแหน่ง: ประตูหน้าของหอสังเกตการณ์รวมพล",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "อสุรกาย",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904025": {
+		"name": "ดาร์กเนส: สิงเทียน",
+		"amount": 1,
+		"description": "กำจัดดาร์กเนส: สิงเทียน\r\nที่หอสังเกตการณ์รวมพล",
+		"icon": "icon_zhandou_001",
+		"section": "การต่อสู้",
+		"section2": "บอส",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"920000": {
+		"name": "มังกรครามคอยพิทักษ์ I",
+		"amount": 6,
+		"description": "อัปเกรดรูปปั้นมังกรครามถึง Lv.6 เป็นครั้งแรก",
+		"icon": "icon_tansuo_001",
+		"section": "การสำรวจ",
+		"section2": "รูปปั้น",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920001": {
+		"name": "มังกรครามคอยพิทักษ์ II",
+		"amount": 2,
+		"description": "อัปเกรดรูปปั้นมังกรคราม II ถึง Lv.6",
+		"icon": "icon_tansuo_001",
+		"section": "การสำรวจ",
+		"section2": "รูปปั้น",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920002": {
+		"name": "มังกรครามคอยพิทักษ์ III",
+		"amount": 3,
+		"description": "อัปเกรดรูปปั้นมังกรคราม III ถึง Lv.6",
+		"icon": "icon_tansuo_001",
+		"section": "การสำรวจ",
+		"section2": "รูปปั้น",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920003": {
+		"name": "มังกรครามคอยพิทักษ์ IV",
+		"amount": 4,
+		"description": "อัปเกรดรูปปั้นมังกรคราม IV ถึง Lv.6",
+		"icon": "icon_tansuo_001",
+		"section": "การสำรวจ",
+		"section2": "รูปปั้น",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920004": {
+		"name": "มังกรครามคอยพิทักษ์ V",
+		"amount": 5,
+		"description": "อัปเกรดรูปปั้นมังกรคราม V ถึง Lv.6",
+		"icon": "icon_tansuo_001",
+		"section": "การสำรวจ",
+		"section2": "รูปปั้น",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920005": {
+		"name": "มังกรครามคอยพิทักษ์ VI",
+		"amount": 6,
+		"description": "อัปเกรดรูปปั้นมังกรคราม VI ถึง Lv.6",
+		"icon": "icon_tansuo_001",
+		"section": "การสำรวจ",
+		"section2": "รูปปั้น",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920006": {
+		"name": "มังกรครามคอยพิทักษ์ VII",
+		"amount": 7,
+		"description": "อัปเกรดรูปปั้นมังกรคราม VII ถึง Lv.6",
+		"icon": "icon_tansuo_001",
+		"section": "การสำรวจ",
+		"section2": "รูปปั้น",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920014": {
+		"name": "พยัคฆ์ขาวคอยพิทักษ์ I",
+		"amount": 6,
+		"description": "อัปเกรดรูปปั้นพยัคฆ์ขาวถึง Lv.6 เป็นครั้งแรก",
+		"icon": "icon_tansuo_001",
+		"section": "การสำรวจ",
+		"section2": "รูปปั้น",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920015": {
+		"name": "พยัคฆ์ขาวคอยพิทักษ์ II",
+		"amount": 2,
+		"description": "อัปเกรดรูปปั้นพยัคฆ์ขาว 2 แห่งให้ถึง Lv.6",
+		"icon": "icon_tansuo_001",
+		"section": "การสำรวจ",
+		"section2": "รูปปั้น",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920016": {
+		"name": "พยัคฆ์ขาวคอยพิทักษ์ III",
+		"amount": 3,
+		"description": "อัปเกรดรูปปั้นพยัคฆ์ขาว 3 แห่งให้ถึง Lv.6",
+		"icon": "icon_tansuo_001",
+		"section": "การสำรวจ",
+		"section2": "รูปปั้น",
+		"achievementPoints": 15,
+		"darkCrystals": 10
 	},
 	"9030001": {
 		"name": "จัดจ์: แครกเคิล",

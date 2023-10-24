@@ -457,7 +457,7 @@
 				"id": "artifact_adv_042"
 			},
 			{
-				"description": "マリンハートの攻撃が命中したターゲットの被ダメージ+<shuzhi>5.5%</>",
+				"description": "マリンハートの攻撃が命中したターゲットの被ダメージが追加で+<shuzhi>5.5%</>",
 				"id": "artifact_adv_042"
 			},
 			{
@@ -507,7 +507,7 @@
 		"name": "バブルガン",
 		"type": "ITEM_TYPE_ARTIFACT",
 		"description": "ミラポリスのとある金髪の子が、ふとひらめいて作ったものらしい…",
-		"source": "Appuyez sur le bouton Tirer pour consommer <shuzhi>1</> goutte de produit à bulles et tirer des bulles, infligeant chacune des dégâts équivalent à <shuzhi>10%</> de l'ATQ. Maintenez le bouton enfoncé pendant <shuzhi>0,5</> seconde pour consommer <shuzhi>5</> gouttes de produit à bulles et tirer une grosse bulle, infligeant des dégâts équivalent à <shuzhi>300%</> de l'ATQ. La grosse bulle peut envelopper la plupart des petites cibles pour les faire s'envoler. Chaque cible ne peut être enveloppée qu'<shuzhi>une</> fois toutes les <shuzhi>15</> secondes. Les cibles avec Hypercorps ne sont pas affectées par cet effet. Le temps de recharge des grosses bulles est de <shuzhi>5</> secondes. Vous gagnez <shuzhi>1</> goutte de produit à bulles toutes les <shuzhi>3</> secondes et <shuzhi>10</> gouttes en éliminant un ennemi. Le Pistolet à bulles peut contenir jusqu'à <shuzhi>30</> gouttes de produit à bulles.",
+		"source": "バブルガンの使用時、タップするとバブルウォーターを<shuzhi>1</>Pt消費して前方に小バブルを発射し、攻撃力×<shuzhi>10%</>のダメージを与える。長押しすると、<shuzhi>0.5</>秒ごとにバブルウォーターを<shuzhi>5</>Pt消費しながら前方に大バブルを発射し、命中した敵に攻撃力×<shuzhi>300%</>のダメージを与える。また、大バブルは小型ターゲットのほとんどを包み込んで浮遊させる。同一ターゲットへの浮遊付与は<shuzhi>15</>秒ごとに<shuzhi>1</>回のみ、かつ不屈状態のターゲットには無効。大バブルを発射すると、クールダウン<shuzhi>5</>秒。バブルウォーターは<shuzhi>3</>秒ごとに<shuzhi>1</>Pt、敵を撃破すると<shuzhi>10</>Pt回復する。バブルガンに補充できるバブルウォーターは<shuzhi>30</>Ptまで",
 		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_020",
 		"rarity": "LEGENDRY",
 		"AttributeID": "artifact_adv_044",
@@ -517,7 +517,7 @@
 				"id": "artifact_adv_044"
 			},
 			{
-				"description": "Confère <shuzhi>1</>/<shuzhi>3</> cumuls de Partie de plaisir chaque fois que vous tirez des petites et grosses bulles. Chaque cumul accroît les dégâts infligés par l'Explorateur de <shuzhi>1,8%</> pendant <shuzhi>60</> secondes. Cumulable jusqu'à <shuzhi>5</> fois.",
+				"description": "小バブル/大バブルを発動するごとにプレイヤーはハッピータイムを<shuzhi>1</>/<shuzhi>3</>スタック獲得する。1スタックにつきプレイヤーの与ダメージ+<shuzhi>1.8%</>、最大<shuzhi>5</>スタックまで。<shuzhi>60</>秒間持続",
 				"id": "artifact_adv_044"
 			},
 			{
@@ -529,11 +529,43 @@
 				"id": "artifact_adv_044"
 			},
 			{
-				"description": "Accroît le bonus de dégâts de Partie de plaisir de <shuzhi>0,6%</> par cumul.",
+				"description": "ハッピータイムによるダメージUP効果が、1スタックにつき追加で+<shuzhi>0.6%</>",
 				"id": "artifact_adv_044"
 			}
 		],
 		"id": "artifact_ssr_020"
+	},
+	"artifact_ssr_021": {
+		"name": "トリプルマスク",
+		"type": "ITEM_TYPE_ARTIFACT",
+		"description": "顔に傷のある人物によって作られた、装飾的なアシストアルケーのセット。装飾としての価値はともかく、一般的な機能性は備えている。マスクは本来自分を隠すためのものだが、そこに含まれる技術は新たな発見を促してくれる",
+		"source": "トリプルマスクの中から「隠密マスク」を装着し、かつワールド探索をしているとき、ボス以外の敵から攻撃を受けなくなる。なお、特定の敵に発見された場合は探知が発動する。また、隠密マスクの装着中、マスクの効果対象である敵に攻撃を仕掛けても他の敵からの攻撃を誘発しなくなる。再度トリプルマスクを使用するとこのマスクは解除され、クールダウンに入る。クールダウン<shuzhi>20</>秒",
+		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_021",
+		"rarity": "LEGENDRY",
+		"AttributeID": "artifact_adv_045",
+		"advancement": [
+			{
+				"description": "狩猟マスクが開放される。トリプルマスク使用時に選択し、確定をすることで装着できる。狩猟マスクの装着中、九域にいる精鋭アチーブメントモンスターの位置をマップで確認できる",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "トリプルマスクのセット時、移動速度+<shuzhi>8%</>、属性ダメージ+<shuzhi>8%</>",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "探知マスクが開放される。探知マスクを装着中かつ未開放の宝箱が近くにあるとき、その宝箱の位置ヒントとガイドを表示してくれる",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "氷ダメージ+<shuzhi>2%</>。セットしていなくても有効(トップリーグでは無効)",
+				"id": "artifact_adv_045"
+			},
+			{
+				"description": "トリプルマスクのセット時、追加で属性ダメージ+<shuzhi>8%</>",
+				"id": "artifact_adv_045"
+			}
+		],
+		"id": "artifact_ssr_021"
 	},
 	"artifact_sr_001": {
 		"name": "フロスト砲",

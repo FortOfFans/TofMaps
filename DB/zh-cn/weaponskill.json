@@ -5745,7 +5745,9 @@
 	"GA_FPlayerLinghanChangeSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_changeskill",
+				"name": "剑诀·冰归啸",
+				"description": "当<red>武器充能满</>或触发<red>幻时</>时，从其他武器切换到该武器时<shuzhi>清除自身负面状态</>，召唤剑阵使自身周围寒冷席卷，对附近目标最多造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，随后会召唤白虎造成<shuzhi>{2}%</>*攻击力+<shuzhi>{3}</>点伤害，期间免疫伤害持续<shuzhi>1.5</>秒（巅峰联赛不生效）。\r\n <shuzhi>被动</>：剑诀·冰归啸命中后获得<shuzhi>8%</>最终伤害提升，持续<shuzhi>30</>秒。",
+				"icon": "skill_linghan_changeskill",
 				"id": "GA_FPlayerLinghanChangeSkill_Success"
 			}
 		]
@@ -5753,15 +5755,21 @@
 	"GA_FPlayerLinghanEvade": {
 		"skills": [
 			{
+				"name": "闪避",
+				"description": "在被命中前闪避，可触发幻时，使一定范围内的目标动作速率变缓；闪避过程中，免疫硬直效果。",
 				"icon": "common_evade",
 				"id": "GA_FPlayerLinghanEvade_Evade"
 			},
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "剑诀·瀑流云",
+				"description": "方向键加闪避键触发的前闪避短暂时间内，点击普攻，可触发剑诀·瀑流云，对命中目标至多造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。",
+				"icon": "skill_linghan_fevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
 			},
 			{
-				"icon": "skill_zeke_bevadeattack",
+				"name": "剑诀·魄千寻",
+				"description": "闪避之后的短暂时间内，点击普攻，可触发剑诀·魄千寻，发出一道白虎幻影对前方目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。",
+				"icon": "skill_linghan_bevadeattack",
 				"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
 			}
 		]
@@ -5769,27 +5777,43 @@
 	"GA_FPlayerLinghanMelee": {
 		"skills": [
 			{
-				"icon": "skill_zeke_fevadeattack",
+				"name": "剑诀·剑斩月",
+				"description": "在地面时，点击普攻可连续进行六次攻击。\r\n第一次攻击对目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，并击退目标。\r\n第二次攻击对目标造成<shuzhi>{2}%</>*攻击力+<shuzhi>{3}</>点伤害，并击退目标。\r\n第三次攻击对目标造成<shuzhi>{4}%</>*攻击力+<shuzhi>{5}</>点伤害，并击退目标。\r\n第四次攻击对目标造成<shuzhi>{6}%</>*攻击力+<shuzhi>{7}</>点伤害，并击退目标。\r\n第五次攻击对目标造成<shuzhi>{8}%</>*攻击力+<shuzhi>{9}</>点伤害，并吸引怪物向前方聚集。\r\n第六次攻击对目标造成<shuzhi>{10}%</>*攻击力+<shuzhi>{11}</>点伤害，并击飞目标。\r\n触发剑诀·剑斩月后，长按普攻可触发<shuzhi>剑诀·雪连天</>。\r\n\r\n<shuzhi>监兵</>任意普攻命中目标后，为目标添加<shuzhi>1</>层<shuzhi>晶裂</>状态，每秒造成<shuzhi>{12}%</>*攻击力普攻伤害，持续<shuzhi>15</>秒，同一目标每<shuzhi>4</>秒至多添加<shuzhi>1</>层，至多可添加<shuzhi>3</>层，持续时间结束后逐层衰减。",
+				"icon": "skill_linghan_melee",
 				"id": "GA_FPlayerLinghanMelee_Melee"
 			},
 			{
-				"icon": "skill_zeke_airattack",
+				"name": "剑诀·梅剑鸣",
+				"description": "当拓荒者滞空时，点击普攻可在空中连续进行六次攻击，并消耗耐力。\r\n第一次攻击对目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。\r\n第二次攻击对目标造成<shuzhi>{2}%</>*攻击力+<shuzhi>{3}</>点伤害。\r\n第三次攻击对目标造成<shuzhi>{4}%</>*攻击力+<shuzhi>{5}</>点伤害。\r\n第四次攻击对目标造成<shuzhi>{6}%</>*攻击力+<shuzhi>{7}</>点伤害。\r\n第五次攻击对目标造成<shuzhi>{8}%</>*攻击力+<shuzhi>{9}</>点伤害。\r\n第六次攻击对目标造成<shuzhi>{10}%</>*攻击力+<shuzhi>{11}</>点伤害。",
+				"icon": "skill_linghan_airattack",
 				"id": "GA_FPlayerLinghanMelee_AirAttack"
 			},
 			{
-				"icon": "skill_zeke_branch",
+				"name": "剑诀·雪连天",
+				"description": "在地面普攻时，长按普攻可触发剑诀·雪连天。\r\n以念御剑，并消耗耐力，期间自身获得霸体效果，每次命中对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。\r\n剑诀 · 雪连天结束时释放一道强力剑气，命中对附近目标造成<shuzhi>{2}%</>*攻击力+<shuzhi>{3}</>点伤害。",
+				"icon": "skill_linghan_powerattack",
 				"id": "GA_FPlayerLinghanMelee_PowerAttack"
 			},
 			{
-				"icon": "skill_zeke_jumpattack",
+				"name": "剑诀·霜飘落",
+				"description": "滞空时长按普攻（存在敌方目标时点按），攀爬，反向跳攻击或使用喷气背包普攻，可触发剑诀·霜飘落。\r\n下落过程中，每次命中目标对目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，落地后对附近目标造成<shuzhi>{2}%</>*攻击力+<shuzhi>{3}</>点伤害。",
+				"icon": "skill_linghan_jumpattack",
 				"id": "GA_FPlayerLinghanMelee_JumpAttack"
+			},
+			{
+				"name": "翩跹落",
+				"description": "当拓荒者处于二段跳后的滞空时，点击跳跃可触发翩跹落，向高空短暂冲刺后持续滑行，滞空时翩跹落至多可使用<shuzhi>2</>次。\r\n在地面时，翩跹落每<shuzhi>10</>秒回复<shuzhi>1</>次使用次数（切换场景/装卸<shuzhi>监兵</>后使用次数重置）。",
+				"icon": "skill_linghan_qinggong",
+				"id": "GA_FPlayerLinghanMelee_QingGong"
 			}
 		]
 	},
 	"GA_FPlayerLinghanSkill": {
 		"skills": [
 			{
-				"icon": "skill_zeke_skill",
+				"name": "剑诀·凌玄影",
+				"description": "对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害并吸附附近目标，之后结成剑阵唤来大量剑雨，并<shuzhi>强控冻结</>目标（巅峰联赛、对boss不生效）持续<shuzhi>4</>秒，冷却<shuzhi>30</>秒；\r\n成功释放剑诀·凌玄影后使自身散发<shuzhi>寒气</>，每秒对附近目标造成<shuzhi>{4}%</>*攻击力伤害，并使目标移动速度降低<shuzhi>30%</>（巅峰联赛、对boss不生效）；\r\n释放剑诀·凌玄影完成后自身生成最大数量<shuzhi>冰刃</>，每<shuzhi>7.5</>秒对当前锁定目标发射<shuzhi>1</>柄，命中目标造成<shuzhi>{5}%</>*攻击力伤害与<shuzhi>温度降低</>效果，<shuzhi>冰刃</>初始至多可生成<shuzhi>3</>柄，非战斗状态下清除全部冰刃。\r\n<shuzhi>温度降低</>：每<shuzhi>3</>秒对附近目标造成<shuzhi>{6}%</>*攻击力伤害，持续<shuzhi>12</>秒。",
+				"icon": "skill_linghan_skill",
 				"id": "GA_FPlayerLinghanSkill_Skill"
 			}
 		]
@@ -6199,7 +6223,7 @@
 		"skills": [
 			{
 				"name": "瑶池无双",
-				"description": "当<red>武器充能满</>或触发<red>幻时</>时，从其他武器切换到该武器时<shuzhi>清除自身负面状态</>，造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，期间免疫伤害持续<shuzhi>1.5</>秒（巅峰联赛不生效）。",
+				"description": "当<red>武器充能满</>或触发<red>幻时</>时，从其他武器切换到该武器时<shuzhi>清除自身负面状态</>，造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，期间免疫伤害持续<shuzhi>2.6</>秒（巅峰联赛不生效）。",
 				"icon": "feise_changeskill",
 				"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 			}
@@ -6215,7 +6239,7 @@
 			},
 			{
 				"name": "散华",
-				"description": "方向键加闪避键触发的前闪避短暂时间内，点击普攻，可触发散华，对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。\r\n\r\n<shuzhi>扶摇</>生成的<shuzhi>蜃楼</>幻境持续期间，任意武器的闪避攻击首次命中目标后，触发移花效果，生成妃色幻象与莲瓣。\r\n<shuzhi>妃色幻象</>：生成时，妃色幻象复制目标<shuzhi>25%</>最大攻击力转化为拓荒者自身<shuzhi>基础火攻</>（不低于<shuzhi>3300</>且不超<shuzhi>3450</>，该火攻不显示在拓荒者人物属性中，巅峰联赛不生效）直至妃色幻象消失，每个妃色幻象独立计算，场上至多存在<shuzhi>1</>个妃色幻象。\r\n<shuzhi>莲瓣</>：生成时，莲瓣数量等同于当前场上除重蕊外其他自身武器生成的召唤物数量，生成后，莲瓣数量不随场上召唤物数量的变化而变化。莲瓣属于召唤物。",
+				"description": "方向键加闪避键触发的前闪避短暂时间内，点击普攻，可触发散华，对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害。\r\n\r\n<shuzhi>扶摇</>生成的<shuzhi>蜃楼</>幻境持续期间，任意武器的闪避攻击首次命中目标后，触发移花效果，生成妃色幻象与莲瓣。\r\n<shuzhi>妃色幻象</>：生成时，妃色幻象复制目标<shuzhi>25%</>最大攻击力转化为拓荒者自身<shuzhi>基础火攻</>（不低于<shuzhi>6500</>且不超<shuzhi>10000</>，该火攻不显示在拓荒者人物属性中，巅峰联赛不生效）直至妃色幻象消失，每个妃色幻象独立计算，场上至多存在<shuzhi>1</>个妃色幻象。\r\n<shuzhi>莲瓣</>：生成时，莲瓣数量等同于当前场上除重蕊外其他自身武器生成的召唤物数量，生成后，莲瓣数量不随场上召唤物数量的变化而变化。莲瓣属于召唤物。",
 				"icon": "feise_evadefront",
 				"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 			},
@@ -6271,7 +6295,7 @@
 		"skills": [
 			{
 				"name": "扶摇",
-				"description": "对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，并生成蜃楼幻境，至多持续<shuzhi>25</>秒。\r\n扶摇处于冷却状态时，获得新技能惊鸿，蜃楼持续<shuzhi>20</>秒后可释放惊鸿。\r\n蜃楼消失后，立即刷新扶摇的冷却时间，且不受任何其它冷却时间清除、重置、变化效果的影响。\r\n\r\n蜃楼持续期间：\r\n每秒对其中目标造成<shuzhi>{2}%</>*攻击力点心蚀伤害,心蚀伤害视为普攻伤害；\r\n每<shuzhi>5</>秒对其中目标添加心燚状态，每秒造成<shuzhi>{3}%</>*攻击力点灼烧伤害，持续<shuzhi>5</>秒，蜃楼中每有<shuzhi>1</>个自身生成的<shuzhi>妃色幻象</>或<shuzhi>莲瓣</>，心燚伤害额外提升<shuzhi>6%</>。",
+				"description": "对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，并生成蜃楼幻境，至多持续<shuzhi>25</>秒。\r\n扶摇处于冷却状态时，获得新技能惊鸿，蜃楼持续<shuzhi>20</>秒后可释放惊鸿。\r\n蜃楼消失后，立即刷新扶摇的冷却时间，且不受任何其它冷却时间清除、重置、变化效果的影响。\r\n\r\n蜃楼持续期间：\r\n每秒对其中目标造成<shuzhi>{2}%</>*攻击力点心蚀伤害,心蚀伤害视为普攻伤害；\r\n每<shuzhi>5</>秒对其中目标添加心燚状态，每秒造成<shuzhi>{3}%</>*攻击力点灼烧伤害，持续<shuzhi>5</>秒，蜃楼中每有<shuzhi>1</>个自身生成的<shuzhi>妃色幻象</>或<shuzhi>莲瓣</>，心燚伤害额外提升<shuzhi>15%</>。",
 				"icon": "feise_skill1",
 				"id": "GA_FPlayerFeiseSkill_Skill1"
 			},

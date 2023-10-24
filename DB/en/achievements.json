@@ -6068,6 +6068,35 @@
 		"achievementPoints": 15,
 		"darkCrystals": 10
 	},
+	"402221": {
+		"name": "Bamboo Shoots Shortage",
+		"amount": 25,
+		"description": "Gather 25 bamboo shoots.",
+		"icon": "icon_shenghuo_001",
+		"section": "Life",
+		"section2": "Plant",
+		"achievementPoints": 5
+	},
+	"402222": {
+		"name": "Bamboo Shoots Abundance",
+		"amount": 50,
+		"description": "Gather 50 bamboo shoots.",
+		"icon": "icon_shenghuo_001",
+		"section": "Life",
+		"section2": "Plant",
+		"achievementPoints": 10,
+		"darkCrystals": 5
+	},
+	"402223": {
+		"name": "Bamboo Shoots Surplus",
+		"amount": 100,
+		"description": "Gather 100 bamboo shoots.",
+		"icon": "icon_shenghuo_001",
+		"section": "Life",
+		"section2": "Plant",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
 	"403001": {
 		"name": "Nom Nom Nom",
 		"amount": 30,
@@ -7682,6 +7711,24 @@
 		"section2": "Mirroria Sommelier",
 		"achievementPoints": 5
 	},
+	"712317": {
+		"name": "First Drink: Nightingale Heart",
+		"amount": 1,
+		"description": "Drink 1:\r\nNightingale Heart",
+		"icon": "icon_shenghuo_001",
+		"section": "Life",
+		"section2": "Mirroria Sommelier",
+		"achievementPoints": 5
+	},
+	"712318": {
+		"name": "First Drink: Foreign Friend",
+		"amount": 1,
+		"description": "Drink 1:\r\nForeign Friend",
+		"icon": "icon_shenghuo_001",
+		"section": "Life",
+		"section2": "Mirroria Sommelier",
+		"achievementPoints": 5
+	},
 	"720001": {
 		"name": "Alpha Blue Angelfish",
 		"amount": 1,
@@ -8181,6 +8228,374 @@
 		"xR1a": 5,
 		"xR2": "JiuYu_Gashapon_coin_1",
 		"xR2a": 2
+	},
+	"904000": {
+		"name": "Immensity: Ridge",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Immensity: Ridge\r\nLocation: Above the Joltville Pass",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904001": {
+		"name": "Immensity: Crystal",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Immensity: Crystal\r\nLocation: Pool at the Bottom of the Hidden Dragon Outpost",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904002": {
+		"name": "Immensity: Tusk",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Immensity: Tusk\r\nLocation: Bottom Level of the Crouching Tiger Cave",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904003": {
+		"name": "Immensity: Pillar",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Immensity: Pillar\r\nLocation: Entrance of the Purple Peak Valley",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904004": {
+		"name": "Immensity: Helmet",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Immensity: Helmet\r\nLocation: Middle of the Crouching Tiger Cave",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904005": {
+		"name": "Immensity: Pit",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Immensity: Pit\r\nLocation: Middle of the Crouching Tiger Cave",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904006": {
+		"name": "Mandrill: Yutu",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Mandrill: Yutu\r\nLocation: Bottom Level of the Dragongate Falls",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904007": {
+		"name": "Mandrill: Zhe Er",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Mandrill: Zhe Er\r\nLocation: South Side of the Lookout Camp",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904008": {
+		"name": "Mandrill: Qiongqi",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Mandrill: Qiongqi\r\nLocation: Upper Northwest Level of Joltville Dragon Pool",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904009": {
+		"name": "Archsprite: Qilin",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Archsprite: Qilin\r\nLocation: West Side of the Lookout Camp",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904010": {
+		"name": "Archsprite: Untamed",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Archsprite: Untamed\r\nLocation: Southeast Side of the Jade Garden",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904011": {
+		"name": "Cyox: Emberbull",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Cyox: Emberbull\r\nLocation: West Side of the Windrider Camp",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904012": {
+		"name": "Cyox: Cinderbull",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Cyox: Cinderbull\r\nLocation: Under the Gold Lightning Sundial Square",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904013": {
+		"name": "Cyox: Blazenbull",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Cyox: Blazenbull\r\nLocation: Upper Level of the Forgotten Garden",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904014": {
+		"name": "Grand Servant: Dai Xing",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Grand Servant: Dai Xing\r\nLocation: Battlefield at the North to the Windrider Camp",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904015": {
+		"name": "Shocker: Stridin",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Shocker: Stridin\r\nLocation: South Side of the Clear Bamboo Court",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904016": {
+		"name": "Flurophantom: Ironclad",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Flurophantom: Ironclad\r\nLocation: Bottom Level of the Crouching Tiger Cave",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904017": {
+		"name": "Darkness: Taotie",
+		"amount": 1,
+		"description": "Defeat Darkness: Taotie\r\nLocation: Crouching Tiger Cave",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "Boss",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"904020": {
+		"name": "Redeemer: Decider",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Redeemer: Decider\r\nLocation: South side of the Distribution Outpost",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904021": {
+		"name": "Darkness: Cruel Claw",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Darkness: Cruel Claw\r\nLocation: West side of Layered Woods Pass",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904022": {
+		"name": "Splendor: Umber Fox",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Splendor: Umber Fox\r\nLocation: Northeast side of the Temple of Divine Blessings",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904023": {
+		"name": "Secluded: Greenhill Fox",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Secluded: Greenhill Fox\r\nLocation: West side of the Temple of Divine Blessings",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904024": {
+		"name": "Frostfighter Dark Wretch",
+		"amount": 1,
+		"description": "Reach Dimension level 100 or above\r\nDefeat Frostfighter Dark Wretch\r\nLocation: Main entrance of the Distribution Outpost",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "The Monster",
+		"achievementPoints": 7,
+		"xR1": "JiuYu_Gashapon_coin_1",
+		"xR1a": 1
+	},
+	"904025": {
+		"name": "Darkness: Xingtian",
+		"amount": 1,
+		"description": "Defeat Darkness: Xingtian\r\nLocation: Distribution Outpost",
+		"icon": "icon_zhandou_001",
+		"section": "Battle",
+		"section2": "Boss",
+		"achievementPoints": 30,
+		"xR1": "fragment_artifact_ssr_019",
+		"xR1a": 5,
+		"xR2": "JiuYu_Gashapon_coin_1",
+		"xR2a": 2
+	},
+	"920000": {
+		"name": "Qinglong Blessing I",
+		"amount": 6,
+		"description": "Upgrade an Azure Statue to Lv. 6 for the first time.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploration",
+		"section2": "Divine Figure",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920001": {
+		"name": "Qinglong Blessing II",
+		"amount": 2,
+		"description": "Upgrade 2 Azure Statues to Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploration",
+		"section2": "Divine Figure",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920002": {
+		"name": "Qinglong Blessing III",
+		"amount": 3,
+		"description": "Upgrade 3 Azure Statues to Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploration",
+		"section2": "Divine Figure",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920003": {
+		"name": "Qinglong Blessing IV",
+		"amount": 4,
+		"description": "Upgrade 4 Azure Statues to Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploration",
+		"section2": "Divine Figure",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920004": {
+		"name": "Qinglong Blessing V",
+		"amount": 5,
+		"description": "Upgrade 5 Azure Statues to Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploration",
+		"section2": "Divine Figure",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920005": {
+		"name": "Qinglong Blessing VI",
+		"amount": 6,
+		"description": "Upgrade 6 Azure Statues to Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploration",
+		"section2": "Divine Figure",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920006": {
+		"name": "Qinglong Blessing VII",
+		"amount": 7,
+		"description": "Upgrade 7 Azure Statues to Lv. 6.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploration",
+		"section2": "Divine Figure",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920014": {
+		"name": "Alabaster Guidance I",
+		"amount": 6,
+		"description": "Upgrade an Alabaster Statue to Lv. 6 for the first time.",
+		"icon": "icon_tansuo_001",
+		"section": "Exploration",
+		"section2": "Divine Figure",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920015": {
+		"name": "Alabaster Guidance II",
+		"amount": 2,
+		"description": "Upgrade 2 Alabaster Statues to Lv. 6",
+		"icon": "icon_tansuo_001",
+		"section": "Exploration",
+		"section2": "Divine Figure",
+		"achievementPoints": 15,
+		"darkCrystals": 10
+	},
+	"920016": {
+		"name": "Alabaster Guidance III",
+		"amount": 3,
+		"description": "Upgrade 3 Alabaster Statues to Lv. 6",
+		"icon": "icon_tansuo_001",
+		"section": "Exploration",
+		"section2": "Divine Figure",
+		"achievementPoints": 15,
+		"darkCrystals": 10
 	},
 	"9030001": {
 		"name": "Judge: Crackle",

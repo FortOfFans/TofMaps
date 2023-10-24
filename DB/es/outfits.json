@@ -6,6 +6,30 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f27_lanmaozi",
 		"id": "fashion_dress_27"
 	},
+	"fashion_dress_58": {
+		"name": "Adorno de Seda",
+		"description": "Marionetas de calabaza gritan vestidas con una mascarada colorida. Úsala para convertirte en el centro de atención sobre el escenario o para desaparecer en la noche. Solo dejarás un rastro carmesí y una briza que susurra.",
+		"type": "Dress",
+		"source": "Se obtiene del evento Adorno de Seda",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"id": "fashion_dress_58"
+	},
+	"fashion_dress_55": {
+		"name": "Susurros de Brisa Veraniega",
+		"description": "Hallarás amor entre sus aguas, y tendrás del mar su inspiración…",
+		"type": "Dress",
+		"source": "Se obtiene en el evento Susurros de Brisa Veraniega",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f66",
+		"id": "fashion_dress_55"
+	},
+	"fashion_dress_56": {
+		"name": "Juega con el Tiempo",
+		"description": "¡Dame solo una ficha de juego y te llevaré a una aventura por todo un día!",
+		"type": "Dress",
+		"source": "Obtén el pase",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f56",
+		"id": "fashion_dress_56"
+	},
 	"fashion_dress_54": {
 		"name": "Salto Dimensional",
 		"description": "Adelante hacia un nuevo mundo. ¡Comienza un fantástico viaje!",
@@ -306,6 +330,7 @@
 		"name": "Buscando entre la multitud",
 		"description": "Mirando hacia atrás, me di cuenta de que destacabas entre la multitud.",
 		"type": "Dress",
+		"source": "Se obtiene de la fase 10 del pase.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f53",
 		"id": "fashion_dress_52"
 	},
@@ -817,6 +842,36 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_131",
 		"id": "fashion_decoration_83"
 	},
+	"fashion_decoration_86": {
+		"name": "Anillo de la Gula",
+		"description": "Un accesorio hecho con la armadura de Taotie. Se usa con adsorción electromagnética.",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_137",
+		"id": "fashion_decoration_86"
+	},
+	"fashion_decoration_87": {
+		"name": "Playa Plateada",
+		"description": "El sol del verano es estupendo, pero deberías mantener esos rayos UV alejados de tus ojos de algún modo.",
+		"type": "Headwear",
+		"source": "De los eventos",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_decoration_87_female",
+		"id": "fashion_decoration_87"
+	},
+	"fashion_decoration_88": {
+		"name": "Anillo de Iluminación",
+		"description": "Un honor de Hykros, ¡reconoce a los Mentores Diamante que han proporcionado más asistencias a principiantes!",
+		"type": "Headwear",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_88",
+		"id": "fashion_decoration_88"
+	},
+	"fashion_decoration_91": {
+		"name": "Minidemonio",
+		"description": "Cuidado con los pequeños Demonios que acechan en la noche. ¡Cuidado con el cuello!",
+		"type": "Headwear",
+		"source": "De los eventos",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+		"id": "fashion_decoration_91"
+	},
 	"fashion_weapon_1": {
 		"name": "Espadón",
 		"description": "Espadón",
@@ -1016,6 +1071,75 @@
 		"source": "Se obtiene en el evento Operación",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/256mia012",
 		"id": "fashion_Guidenpc_mia_oversea_1"
+	},
+	"fashion_medal_0": {
+		"name": "Sin decorado",
+		"type": "Medal",
+		"icon": "None",
+		"id": "fashion_medal_0"
+	},
+	"fashion_medal_1": {
+		"name": "Estrella de Fantasma del Pasado",
+		"description": "Medalla conmemorativa hecha de diamantes, con el emblema de Fantasma del Pasado en el centro. Una recompensa exclusiva para la persona que quede en primer lugar en una sola temporada de Fantasma del Pasado.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Diamond",
+		"id": "fashion_medal_1"
+	},
+	"fashion_medal_2": {
+		"name": "Medalla de Fantasma de Oro",
+		"description": "Medalla conmemorativa de oro puro con el emblema de Fantasma del Pasado en el centro. Una recompensa exclusiva para la persona que quede en segundo lugar en una sola temporada de Fantasma del Pasado.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Gold",
+		"id": "fashion_medal_2"
+	},
+	"fashion_medal_3": {
+		"name": "Medalla de Fantasma de Plata",
+		"description": "Medalla conmemorativa de plata fina con el emblema de Fantasma del Pasado en el centro. Una recompensa exclusiva para la persona que quede en tercer lugar en una sola temporada de Fantasma del Pasado.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_jiuri_Silver",
+		"id": "fashion_medal_3"
+	},
+	"fashion_medal_4": {
+		"name": "Estrella de Mentoría Iluminada",
+		"description": "Sus brillantes decoraciones estrelladas, símbolo del estado de la Mentoría Diamante, sirven como galardón por su asistencia a los demás.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Diamond",
+		"id": "fashion_medal_4"
+	},
+	"fashion_medal_5": {
+		"name": "Estrella de Mentoría Brillante",
+		"description": "Sus brillantes adornos dorados en forma de estrella, símbolo del estado del Mentoría de Oro, sirven como galardón por su asistencia a los demás.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Gold",
+		"id": "fashion_medal_5"
+	},
+	"fashion_medal_6": {
+		"name": "Estrella de Mentoría Espléndida",
+		"description": "Sus relucientes adornos estrellados plateados, símbolo del estado de la Mentoría de Plata, sirven como elogio por su asistencia a los demás.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Medal_Mentor_Silver",
+		"id": "fashion_medal_6"
+	},
+	"fashion_medal_7": {
+		"name": "Estrella de Origen de la Guerra",
+		"description": "Medalla conmemorativa de diamantes con el emblema de Origen de la Guerra en el centro. Una recompensa exclusiva para la persona que quede en primer lugar en una sola temporada de Origen de la Guerra.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Diamond",
+		"id": "fashion_medal_7"
+	},
+	"fashion_medal_8": {
+		"name": "Medalla de Origen de Oro",
+		"description": "Medalla conmemorativa de oro puro con el emblema de Origen de la Guerra en el centro. Una recompensa exclusiva para la persona que quede en segundo lugar en una sola temporada de Origen de la Guerra.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Gold",
+		"id": "fashion_medal_8"
+	},
+	"fashion_medal_9": {
+		"name": "Medalla de Origen de Plata",
+		"description": "Medalla conmemorativa de plata fina con el emblema de Origen de la Guerra en el centro. Una recompensa exclusiva para la persona que quede en tercer lugar en una sola temporada de Origen de la Guerra.",
+		"type": "Medal",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_medal_qiyuan_Silver",
+		"id": "fashion_medal_9"
 	},
 	"fashion_Guidenpc_mia_10": {
 		"name": "Mi-a renita",

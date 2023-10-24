@@ -16,7 +16,8 @@
 		"icon": "/Game/Resources/Icon/caiyao/Item_Cooking_901",
 		"stars": 0,
 		"quality": "ITEM_QUALITY_POOR",
-		"ingredients": []
+		"ingredients": [],
+		"ingredientsraw": []
 	},
 	"Item_Cooking_0902": {
 		"name": "そこそこシチュー",
@@ -26,7 +27,8 @@
 		"icon": "/Game/Resources/Icon/caiyao/Item_Cooking_902",
 		"stars": 0,
 		"quality": "ITEM_QUALITY_POOR",
-		"ingredients": []
+		"ingredients": [],
+		"ingredientsraw": []
 	},
 	"Item_Cooking_1001": {
 		"name": "キノコ炒め",
@@ -38,10 +40,13 @@
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1002": {
@@ -54,15 +59,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Greens007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens007, 2, 2",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1003": {
@@ -75,10 +84,13 @@
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Fishes_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1004": {
@@ -91,10 +103,13 @@
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1005": {
@@ -107,15 +122,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_001, 2, 2",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"Item_Cooking_1006": {
@@ -128,10 +147,13 @@
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Meat_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Meat_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1007": {
@@ -144,20 +166,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shell_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Shell_001",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Shell_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shell_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shell_001, 3, 3",
+			"Item_Shell_002, 2, 2",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1008": {
@@ -170,20 +197,25 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Meat_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_001, 1, 1",
+			"Item_Meat_002, 1, 1",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1009": {
@@ -196,20 +228,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Staples_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_001",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Meat_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Meat_003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_001, 3, 3",
+			"Item_Meat_003, 2, 2",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1010": {
@@ -222,15 +259,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Condiment_06, 2, 2",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1011": {
@@ -243,15 +284,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells006",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells006, 2, 2",
+			"Item_Greens_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1012": {
@@ -264,20 +309,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruit_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruit_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_002, 2, 2",
+			"Item_Honey_001, 2, 2",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_1013": {
@@ -299,20 +349,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_005, 1, 1",
+			"Item_Honey_001, 2, 2",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_1015": {
@@ -325,15 +380,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Fruits006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruits006",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruits006, 2, 2",
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1016": {
@@ -346,30 +405,37 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens_003, 1, 1",
+			"Item_Fruits006, 1, 1",
+			"Item_Greens_001, 1, 1",
+			"Item_Egg_001, 1, 1",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_1017": {
@@ -382,15 +448,19 @@
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Greens_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens_001, 2, 2",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_1018": {
@@ -403,15 +473,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_001, 2, 2",
+			"Item_Greens_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1019": {
@@ -424,10 +498,13 @@
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1020": {
@@ -440,15 +517,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Shell_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shell_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shell_001, 2, 2",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1021": {
@@ -461,15 +542,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells007, 2, 2",
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1022": {
@@ -482,20 +567,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_001",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_005, 1, 1",
+			"Item_Fruit_002, 1, 1",
+			"Item_Staples_001, 3, 3"
 		]
 	},
 	"Item_Cooking_1023": {
@@ -508,20 +598,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruits006",
-				"min": "4",
-				"max": "4"
+				"matID": "Item_Fruits006",
+				"min": " 4",
+				"max": " 4"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_001",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruits006, 4, 4",
+			"Item_Staples_001, 3, 3",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1024": {
@@ -534,15 +629,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Meat_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_003, 1, 1",
+			"Item_Meat_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1025": {
@@ -555,15 +654,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_003, 1, 1",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_1026": {
@@ -576,25 +679,31 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_001, 1, 1",
+			"Item_Fruits006, 1, 1",
+			"Item_Greens_001, 1, 1",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_1027": {
@@ -607,15 +716,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Meat_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Meat_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_002, 2, 2",
+			"Item_Staples_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1028": {
@@ -628,20 +741,25 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Fruit_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruit_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_001, 2, 2",
+			"Item_Honey_001, 1, 1",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_1029": {
@@ -654,25 +772,31 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruit_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruit_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_002, 2, 2",
+			"Item_Staples_001, 1, 1",
+			"Item_Fruit_001, 1, 1",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1030": {
@@ -685,20 +809,25 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Mushroom_007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_007, 2, 2",
+			"Item_Condiment_07, 1, 1",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_1031": {
@@ -711,10 +840,13 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Greens_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_003",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens_003, 2, 2"
 		]
 	},
 	"Item_Cooking_1032": {
@@ -727,15 +859,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shell_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shell_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Greens_001",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shell_002, 2, 2",
+			"Item_Greens_001, 3, 3"
 		]
 	},
 	"Item_Cooking_1033": {
@@ -748,15 +884,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Meat_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_001, 2, 2",
+			"Item_Meat_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1034": {
@@ -769,15 +909,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Fishes_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_001, 2, 2",
+			"Item_Fishes_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1035": {
@@ -790,10 +934,13 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Meat_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Meat_003",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_003, 2, 2"
 		]
 	},
 	"Item_Cooking_1036": {
@@ -806,15 +953,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Dandelion_zhongzi",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Dandelion_zhongzi",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Dandelion_zhongzi, 1, 1",
+			"Item_Mushroom_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2001": {
@@ -827,15 +978,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Fishes006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes006, 1, 1",
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2002": {
@@ -848,10 +1003,13 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_002, 2, 2"
 		]
 	},
 	"Item_Cooking_2003": {
@@ -864,15 +1022,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens008, 2, 2",
+			"Item_Staples_002, 2, 2"
 		]
 	},
 	"Item_Cooking_2004": {
@@ -885,15 +1047,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 2, 2",
+			"Item_Staples_002, 2, 2"
 		]
 	},
 	"Item_Cooking_2005": {
@@ -906,15 +1072,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Mushroom_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_004, 2, 2",
+			"Item_Greens_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2006": {
@@ -927,15 +1097,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Greens011",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens011",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens011, 2, 2",
+			"Item_Greens_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2007": {
@@ -948,20 +1122,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruits009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruits009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Fruits006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruits006",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruits009, 2, 2",
+			"Item_Fruits006, 2, 2",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_2008": {
@@ -974,15 +1153,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "4",
-				"max": "4"
+				"matID": "Item_Greens_001",
+				"min": " 4",
+				"max": " 4"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens008, 2, 2",
+			"Item_Greens_001, 4, 4"
 		]
 	},
 	"Item_Cooking_2009": {
@@ -995,10 +1178,13 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fishes_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes_002",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes_002, 1, 1"
 		]
 	},
 	"Item_Cooking_2010": {
@@ -1011,15 +1197,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fishes_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_004",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes_002, 1, 1",
+			"Item_Mushroom_004, 2, 2"
 		]
 	},
 	"Item_Cooking_2011": {
@@ -1032,15 +1222,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells_005",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells_005",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "4",
-				"max": "4"
+				"matID": "Item_Mushroom_001",
+				"min": " 4",
+				"max": " 4"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells_005, 2, 2",
+			"Item_Mushroom_001, 4, 4"
 		]
 	},
 	"Item_Cooking_2012": {
@@ -1053,20 +1247,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruit_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruit_003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_003, 2, 2",
+			"Item_Honey_001, 2, 2",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_2013": {
@@ -1079,20 +1278,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 2, 2",
+			"Item_Honey_001, 2, 2",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"Item_Cooking_2014": {
@@ -1105,15 +1309,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Fruit_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Fruit_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_004, 2, 2",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2015": {
@@ -1126,15 +1334,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "4",
-				"max": "4"
+				"matID": "Item_Greens_001",
+				"min": " 4",
+				"max": " 4"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells009, 2, 2",
+			"Item_Greens_001, 4, 4"
 		]
 	},
 	"Item_Cooking_2016": {
@@ -1147,20 +1359,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells009",
-				"min": "2",
-				"max": "1"
+				"matID": "Item_Shells009",
+				"min": " 2",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_05",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_05",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells009, 2, 1",
+			"Item_Staples_002, 2, 2",
+			"Item_Condiment_05, 1, 1"
 		]
 	},
 	"Item_Cooking_2017": {
@@ -1173,20 +1390,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Follows002",
-				"min": "2",
-				"max": "1"
+				"matID": "Item_Follows002",
+				"min": " 2",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Follows002, 2, 1",
+			"Item_Condiment_07, 1, 1",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2018": {
@@ -1199,20 +1421,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Nuts003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_07",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts003, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Condiment_07, 2, 2"
 		]
 	},
 	"Item_Cooking_2019": {
@@ -1225,20 +1452,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts001, 1, 1",
+			"Item_Nuts003, 2, 2",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2020": {
@@ -1251,15 +1483,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Staples_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_002",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Staples_005, 1, 1",
+			"Item_Staples_002, 3, 3"
 		]
 	},
 	"Item_Cooking_2021": {
@@ -1272,15 +1508,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Follows001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Follows001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Follows001, 1, 1",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2022": {
@@ -1293,20 +1533,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Mushroom_006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_05",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_05",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_006, 1, 1",
+			"Item_Condiment_05, 1, 1",
+			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"Item_Cooking_2023": {
@@ -1319,15 +1564,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Greens012",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens012",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_002",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens012, 1, 1",
+			"Item_Staples_002, 3, 3"
 		]
 	},
 	"Item_Cooking_2024": {
@@ -1340,20 +1589,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Drugs_007",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_007",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Greens007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens007",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_007, 1, 1",
+			"Item_Condiment_06, 2, 2",
+			"Item_Greens007, 2, 2"
 		]
 	},
 	"Item_Cooking_2025": {
@@ -1366,15 +1620,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Drugs_007",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_007",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_003",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_007, 1, 1",
+			"Item_Staples_003, 2, 2"
 		]
 	},
 	"Item_Cooking_2026": {
@@ -1387,10 +1645,13 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1"
 		]
 	},
 	"Item_Cooking_2027": {
@@ -1403,15 +1664,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_004",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Mushroom_004",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1",
+			"Item_Mushroom_004, 3, 3"
 		]
 	},
 	"Item_Cooking_2028": {
@@ -1424,10 +1689,13 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_005",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_005, 1, 1"
 		]
 	},
 	"Item_Cooking_2029": {
@@ -1440,20 +1708,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_005, 1, 1",
+			"Item_Staples_002, 2, 2",
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2030": {
@@ -1466,10 +1739,13 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fishes005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes005",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes005, 1, 1"
 		]
 	},
 	"Item_Cooking_2031": {
@@ -1482,15 +1758,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Shells_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Shells_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells_003, 1, 1",
+			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"item_Cooking_3001": {
@@ -1503,15 +1783,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_05",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_05",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_001, 2, 2",
+			"Item_Condiment_05, 2, 2"
 		]
 	},
 	"item_Cooking_3002": {
@@ -1524,10 +1808,13 @@
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_002, 2, 2"
 		]
 	},
 	"item_Cooking_3003": {
@@ -1540,20 +1827,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_07",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_003, 1, 1",
+			"Item_Honey_001, 1, 1",
+			"Item_Condiment_07, 2, 2"
 		]
 	},
 	"item_Cooking_3004": {
@@ -1566,15 +1858,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_004, 1, 1",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"item_Cooking_3005": {
@@ -1596,10 +1892,13 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_006",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_006, 2, 2"
 		]
 	},
 	"item_Cooking_3007": {
@@ -1612,15 +1911,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Condiment_03",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_007, 2, 2",
+			"Item_Condiment_03, 3, 3"
 		]
 	},
 	"item_Cooking_3008": {
@@ -1633,20 +1936,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_008, 2, 2",
+			"Item_Honey_001, 1, 1",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"item_Cooking_3009": {
@@ -1659,15 +1967,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Condiment_06",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_009, 2, 2",
+			"Item_Condiment_06, 3, 3"
 		]
 	},
 	"item_Cooking_3010": {
@@ -1680,10 +1992,13 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_010",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_010",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_010, 2, 2"
 		]
 	},
 	"item_Cooking_3011": {
@@ -1696,10 +2011,13 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_011",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_011",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_011, 1, 1"
 		]
 	},
 	"item_Cooking_3012": {
@@ -1712,10 +2030,13 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_012, 2, 2"
 		]
 	},
 	"item_Cooking_3013": {
@@ -1728,10 +2049,13 @@
 		"quality": "ITEM_QUALITY_POOR",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_013, 2, 2"
 		]
 	},
 	"item_Cooking_3014": {
@@ -1744,10 +2068,13 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_014, 2, 2"
 		]
 	},
 	"item_Cooking_3015": {
@@ -1760,15 +2087,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_015",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_015",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Honey_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_015, 1, 1",
+			"Item_Honey_001, 2, 2"
 		]
 	},
 	"item_Cooking_3016": {
@@ -1781,20 +2112,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_010",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_010",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 2, 2",
+			"Item_Vera_Harvest_010, 1, 1",
+			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_Cooking_3017": {
@@ -1807,15 +2143,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_006",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens008, 2, 2",
+			"Item_Vera_Harvest_006, 2, 2"
 		]
 	},
 	"item_Cooking_3018": {
@@ -1828,20 +2168,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_008, 2, 2",
+			"Item_Vera_Harvest_013, 2, 2",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"item_Cooking_3019": {
@@ -1854,15 +2199,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_004, 1, 1",
+			"Item_Staples_002, 2, 2"
 		]
 	},
 	"item_Cooking_3020": {
@@ -1875,20 +2224,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_007, 2, 2",
+			"Item_Honey_001, 1, 1",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3021": {
@@ -1901,20 +2255,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_012",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_012",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_009, 2, 2",
+			"Item_Vera_Harvest_012, 1, 1",
+			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"item_Cooking_3022": {
@@ -1927,20 +2286,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shell_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shell_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_012",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_012",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shell_002, 2, 2",
+			"Item_Vera_Harvest_012, 1, 1",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3023": {
@@ -1953,15 +2317,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Staples_001",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_009, 2, 2",
+			"Item_Staples_001, 3, 3"
 		]
 	},
 	"item_Cooking_3024": {
@@ -1974,20 +2342,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_011",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_011",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Meat_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_011, 1, 1",
+			"Item_Meat_002, 1, 1",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3025": {
@@ -2000,20 +2373,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_005, 1, 1",
+			"Item_Vera_Harvest_001, 1, 1",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3026": {
@@ -2026,25 +2404,31 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_014",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_014",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Condiment_06",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_001, 1, 1",
+			"Item_Vera_Harvest_014, 1, 1",
+			"Item_Egg_001, 1, 1",
+			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"item_Cooking_3027": {
@@ -2057,20 +2441,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_014",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_014",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1",
+			"Item_Vera_Harvest_001, 1, 1",
+			"Item_Vera_Harvest_014, 1, 1"
 		]
 	},
 	"item_Cooking_3028": {
@@ -2083,15 +2472,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_011",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_011",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_015",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_015",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_011, 1, 1",
+			"Item_Vera_Harvest_015, 1, 1"
 		]
 	},
 	"item_Cooking_3029": {
@@ -2104,20 +2497,25 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_012, 2, 2",
+			"Item_Condiment_07, 1, 1",
+			"Item_Mushroom_001, 2, 2"
 		]
 	},
 	"item_Cooking_3030": {
@@ -2130,10 +2528,13 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fruits008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits008",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruits008, 1, 1"
 		]
 	},
 	"item_Cooking_3031": {
@@ -2146,10 +2547,13 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells008",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells008, 2, 2"
 		]
 	},
 	"item_Cooking_3032": {
@@ -2162,10 +2566,13 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens009",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens009, 2, 2"
 		]
 	},
 	"item_Cooking_3033": {
@@ -2178,15 +2585,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fruits008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits008",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruits008, 1, 1",
+			"Item_Vera_Harvest_001, 2, 2"
 		]
 	},
 	"item_Cooking_3034": {
@@ -2199,15 +2610,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_010",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_010",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells008, 2, 2",
+			"Item_Vera_Harvest_010, 2, 2"
 		]
 	},
 	"item_Cooking_3035": {
@@ -2220,15 +2635,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Greens009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Greens009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Egg_001",
+				"min": " 3",
+				"max": " 3"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Greens009, 2, 2",
+			"Item_Egg_001, 3, 3"
 		]
 	},
 	"item_Cooking_4001": {
@@ -2241,20 +2660,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_007",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Ocean_Harvest_007",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Ocean_Harvest_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Ocean_Harvest_001",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_007, 3, 3",
+			"Item_Ocean_Harvest_001, 3, 3",
+			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4002": {
@@ -2267,15 +2691,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_008",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_008, 1, 1",
+			"Item_Ocean_Harvest_001, 2, 2"
 		]
 	},
 	"item_Cooking_4003": {
@@ -2288,15 +2716,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_002, 2, 2",
+			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"item_Cooking_4004": {
@@ -2309,20 +2741,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_002",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Ocean_Harvest_002",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Ocean_Harvest_001",
-				"min": "3",
-				"max": "3"
+				"matID": "Item_Ocean_Harvest_001",
+				"min": " 3",
+				"max": " 3"
 			},
 			{
-				"matID": "Ocean_Harvest_020",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_020",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_002, 3, 3",
+			"Item_Ocean_Harvest_001, 3, 3",
+			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4005": {
@@ -2335,15 +2772,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_002, 2, 2",
+			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4006": {
@@ -2356,15 +2797,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_002",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_019",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_019",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_002, 2, 2",
+			"Item_Ocean_Harvest_019, 1, 1"
 		]
 	},
 	"item_Cooking_4007": {
@@ -2377,20 +2822,25 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_019",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_019",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_020",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_020",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_003, 2, 2",
+			"Item_Ocean_Harvest_019, 1, 1",
+			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4008": {
@@ -2403,25 +2853,31 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_03",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_03",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_003, 2, 2",
+			"Item_Staples_001, 1, 1",
+			"Item_Condiment_03, 1, 1",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4009": {
@@ -2434,15 +2890,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_003",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_003",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_003, 2, 2",
+			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4010": {
@@ -2455,15 +2915,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_020",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_020",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_004, 2, 2",
+			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4011": {
@@ -2476,20 +2940,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells008, 2, 2",
+			"Item_Ocean_Harvest_004, 2, 2",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4012": {
@@ -2502,25 +2971,31 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_011",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_011",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_04",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_04",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_019",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_019",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_004, 2, 2",
+			"Item_Ocean_Harvest_011, 2, 2",
+			"Item_Condiment_04, 1, 1",
+			"Item_Ocean_Harvest_019, 1, 1"
 		]
 	},
 	"item_Cooking_4013": {
@@ -2533,20 +3008,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_004",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_004",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_004, 2, 2",
+			"Item_Staples_001, 2, 2",
+			"Item_Ocean_Harvest_001, 1, 1"
 		]
 	},
 	"item_Cooking_4014": {
@@ -2559,20 +3039,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_005",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_005",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Meat_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Meat_001",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_005, 2, 2",
+			"Item_Meat_001, 2, 2",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4015": {
@@ -2585,20 +3070,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_006",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_006, 2, 2",
+			"Item_Vera_Harvest_001, 1, 1",
+			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4016": {
@@ -2611,15 +3101,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_006",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_006",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_006, 2, 2",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"item_Cooking_4017": {
@@ -2632,15 +3126,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_007, 2, 2",
+			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4018": {
@@ -2653,20 +3151,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_008",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Shells007",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells007",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_04",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_04",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_008, 1, 1",
+			"Item_Shells007, 2, 2",
+			"Item_Condiment_04, 1, 1"
 		]
 	},
 	"item_Cooking_4019": {
@@ -2679,20 +3182,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_008",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_016",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_016",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_04",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_04",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_008, 1, 1",
+			"Item_Ocean_Harvest_016, 2, 2",
+			"Item_Condiment_04, 1, 1"
 		]
 	},
 	"item_Cooking_4020": {
@@ -2705,20 +3213,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_008",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_008",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_015",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_015",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_04",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_04",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_008, 1, 1",
+			"Item_Ocean_Harvest_015, 2, 2",
+			"Item_Condiment_04, 1, 1"
 		]
 	},
 	"item_Cooking_4021": {
@@ -2731,15 +3244,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_019",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_019",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_009, 2, 2",
+			"Item_Ocean_Harvest_019, 1, 1"
 		]
 	},
 	"item_Cooking_4022": {
@@ -2752,15 +3269,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_009",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_009",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Mushroom_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_009, 2, 2",
+			"Item_Mushroom_001, 2, 2"
 		]
 	},
 	"item_Cooking_4023": {
@@ -2773,20 +3294,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_010",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_010",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_010, 2, 2",
+			"Item_Ocean_Harvest_012, 2, 2",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4024": {
@@ -2799,20 +3325,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Shells008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells008, 2, 2",
+			"Item_Ocean_Harvest_012, 2, 2",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4025": {
@@ -2825,15 +3356,19 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_011",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_011",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_06",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_011, 2, 2",
+			"Item_Condiment_06, 1, 1"
 		]
 	},
 	"item_Cooking_4026": {
@@ -2846,25 +3381,31 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_011",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_011",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_05",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_05",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_001, 1, 1",
+			"Item_Ocean_Harvest_011, 2, 2",
+			"Item_Ocean_Harvest_018, 1, 1",
+			"Item_Condiment_05, 1, 1"
 		]
 	},
 	"item_Cooking_4027": {
@@ -2877,20 +3418,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_06",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_020",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_020",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Condiment_06, 1, 1",
+			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4028": {
@@ -2903,15 +3449,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Vera_Harvest_001, 1, 1"
 		]
 	},
 	"item_Cooking_4029": {
@@ -2924,20 +3474,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Shells008",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Shells008",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Egg_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Shells008, 2, 2",
+			"Item_Egg_001, 2, 2"
 		]
 	},
 	"item_Cooking_4030": {
@@ -2950,20 +3505,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_06",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_06",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_05",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_05",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Condiment_06, 1, 1",
+			"Item_Condiment_05, 1, 1"
 		]
 	},
 	"item_Cooking_4031": {
@@ -2976,15 +3536,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_020",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_020",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4032": {
@@ -2997,20 +3561,25 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Staples_001, 1, 1",
+			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4033": {
@@ -3023,15 +3592,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_4034": {
@@ -3044,20 +3617,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_014",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_014",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Vera_Harvest_002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Vera_Harvest_002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Ocean_Harvest_014, 2, 2",
+			"Item_Vera_Harvest_002, 2, 2"
 		]
 	},
 	"item_Cooking_4035": {
@@ -3070,25 +3648,31 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_021",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_021",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Ocean_Harvest_012, 2, 2",
+			"Item_Ocean_Harvest_021, 1, 1",
+			"Item_Staples_001, 1, 1"
 		]
 	},
 	"item_Cooking_4036": {
@@ -3101,15 +3685,19 @@
 		"quality": "ITEM_QUALITY_RARE",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"item_Cooking_4037": {
@@ -3122,20 +3710,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_013",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_013",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Ocean_Harvest_010",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_010",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Staples_001",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_013, 2, 2",
+			"Item_Ocean_Harvest_010, 2, 2",
+			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_4038": {
@@ -3148,15 +3741,50 @@
 		"quality": "ITEM_QUALITY_COMMON",
 		"ingredients": [
 			{
-				"matID": "Ocean_Harvest_038",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Ocean_Harvest_038",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Ocean_Harvest_018",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Ocean_Harvest_018",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Ocean_Harvest_038, 1, 1",
+			"Item_Ocean_Harvest_018, 2, 2"
+		]
+	},
+	"item_Cooking_5001": {
+		"name": "肉と筍のコトコト煮",
+		"type": "ITEM_TYPE_COOKING",
+		"description": "赤身と脂身がほどよく混じった肉と竹の子を数時間コトコト煮た後、唐辛子で味付け。ご飯が進む一品",
+		"source": "満腹度が<ComLblGreen>{0}</>Pt回復",
+		"icon": "/Game/Resources/Icon/caiyao/5001",
+		"stars": 2,
+		"quality": "ITEM_QUALITY_EPIC",
+		"ingredients": [
+			{
+				"matID": "Item_Jiuyu_Harvest_004",
+				"min": " 2",
+				"max": " 2"
+			},
+			{
+				"matID": "Item_Meat_005",
+				"min": " 1",
+				"max": " 1"
+			},
+			{
+				"matID": "Item_Meat_001",
+				"min": " 4",
+				"max": " 4"
+			}
+		],
+		"ingredientsraw": [
+			"Item_Jiuyu_Harvest_004, 2, 2",
+			"Item_Meat_005, 1, 1",
+			"Item_Meat_001, 4, 4"
 		]
 	},
 	"item_Cooking_5007": {
@@ -3169,15 +3797,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Jiuyu_Harvest_012",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Jiuyu_Harvest_012",
+				"min": " 2",
+				"max": " 2"
 			},
 			{
-				"matID": "Jiuyu_Harvest_001",
-				"min": "4",
-				"max": "4"
+				"matID": "Item_Jiuyu_Harvest_001",
+				"min": " 4",
+				"max": " 4"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Jiuyu_Harvest_012, 2, 2",
+			"Item_Jiuyu_Harvest_001, 4, 4"
 		]
 	},
 	"item_activity_cooking_001": {
@@ -3190,25 +3822,31 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity_cooking_RM_5",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_5",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_2, 1, 1",
+			"item_activity_cooking_RM_5, 1, 1",
+			"Item_Honey_001, 1, 1",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_002": {
@@ -3221,25 +3859,31 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity_cooking_RM_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_003",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_3, 1, 1",
+			"item_activity_cooking_RM_1, 1, 1",
+			"Item_Staples_003, 1, 1",
+			"Item_Greens_003, 1, 1"
 		]
 	},
 	"item_activity_cooking_003": {
@@ -3252,20 +3896,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_3, 1, 1",
+			"Item_Greens_001, 1, 1",
+			"Item_Mushroom_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_004": {
@@ -3278,20 +3927,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_7",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_7",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Greens_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Greens_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_7, 1, 1",
+			"Item_Honey_001, 1, 1",
+			"Item_Greens_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_005": {
@@ -3304,20 +3958,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_4",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_4",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_4, 1, 1",
+			"Item_Staples_002, 1, 1",
+			"Item_Mushroom_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_006": {
@@ -3330,20 +3989,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_3, 1, 1",
+			"Item_Staples_003, 1, 1",
+			"Item_Mushroom_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_007": {
@@ -3356,20 +4020,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_5",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_5",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_5, 1, 1",
+			"Item_Staples_002, 1, 1",
+			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_008": {
@@ -3382,25 +4051,31 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity_cooking_RM_6",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_6",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_1, 1, 1",
+			"item_activity_cooking_RM_6, 1, 1",
+			"Item_Staples_002, 1, 1",
+			"Item_Egg_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_009": {
@@ -3413,25 +4088,31 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_6",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_6",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity_cooking_RM_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits009",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits009",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_6, 1, 1",
+			"item_activity_cooking_RM_1, 1, 1",
+			"Item_Fruits009, 1, 1",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"item_activity_cooking_010": {
@@ -3444,20 +4125,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity_cooking_RM_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity_cooking_RM_5",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity_cooking_RM_5",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_01",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_01",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity_cooking_RM_1, 1, 1",
+			"item_activity_cooking_RM_5, 1, 1",
+			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"item_activity2_cooking_101": {
@@ -3470,20 +4156,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits009",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits009",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruits009, 1, 1"
 		]
 	},
 	"item_activity2_cooking_102": {
@@ -3496,20 +4187,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts003",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts003, 1, 1"
 		]
 	},
 	"item_activity2_cooking_103": {
@@ -3522,20 +4218,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_002",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_002, 1, 1"
 		]
 	},
 	"item_activity2_cooking_104": {
@@ -3548,20 +4249,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_105": {
@@ -3574,20 +4280,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_006",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Mushroom_006, 1, 1"
 		]
 	},
 	"item_activity2_cooking_106": {
@@ -3600,20 +4311,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Drugs_005, 1, 1"
 		]
 	},
 	"item_activity2_cooking_107": {
@@ -3626,20 +4342,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_108": {
@@ -3652,20 +4373,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_109": {
@@ -3678,15 +4404,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 2, 2"
 		]
 	},
 	"item_activity2_cooking_110": {
@@ -3699,20 +4429,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_1, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"item_activity2_cooking_201": {
@@ -3725,20 +4460,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits009",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits009",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruits009, 1, 1"
 		]
 	},
 	"item_activity2_cooking_202": {
@@ -3751,20 +4491,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts003",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts003, 1, 1"
 		]
 	},
 	"item_activity2_cooking_203": {
@@ -3777,20 +4522,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_002",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_002, 1, 1"
 		]
 	},
 	"item_activity2_cooking_204": {
@@ -3803,20 +4553,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_205": {
@@ -3829,20 +4584,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_006",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Mushroom_006, 1, 1"
 		]
 	},
 	"item_activity2_cooking_206": {
@@ -3855,20 +4615,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Drugs_005, 1, 1"
 		]
 	},
 	"item_activity2_cooking_207": {
@@ -3881,20 +4646,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_208": {
@@ -3907,20 +4677,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_209": {
@@ -3933,15 +4708,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 2, 2"
 		]
 	},
 	"item_activity2_cooking_210": {
@@ -3954,20 +4733,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_2, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"item_activity2_cooking_301": {
@@ -3980,20 +4764,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruits009",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruits009",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruits009, 1, 1"
 		]
 	},
 	"item_activity2_cooking_302": {
@@ -4006,20 +4795,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts003",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts003, 1, 1"
 		]
 	},
 	"item_activity2_cooking_303": {
@@ -4032,20 +4826,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_002",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_002, 1, 1"
 		]
 	},
 	"item_activity2_cooking_304": {
@@ -4058,20 +4857,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Nuts001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_305": {
@@ -4084,20 +4888,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Mushroom_006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_006",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Mushroom_006, 1, 1"
 		]
 	},
 	"item_activity2_cooking_306": {
@@ -4110,20 +4919,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Drugs_005, 1, 1"
 		]
 	},
 	"item_activity2_cooking_307": {
@@ -4136,20 +4950,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_308": {
@@ -4162,20 +4981,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Fruit_001, 1, 1"
 		]
 	},
 	"item_activity2_cooking_309": {
@@ -4188,15 +5012,19 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "2",
-				"max": "2"
+				"matID": "Item_Nuts002",
+				"min": " 2",
+				"max": " 2"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 2, 2"
 		]
 	},
 	"item_activity2_cooking_310": {
@@ -4209,20 +5037,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity2_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity2_mould_3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Condiment_07",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Condiment_07",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity2_mould_3, 1, 1",
+			"Item_Nuts002, 1, 1",
+			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"item_activity2_cooking_001": {
@@ -4307,25 +5140,31 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food2",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Honey_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Honey_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food2, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"Item_Honey_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_102": {
@@ -4338,20 +5177,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food6",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food6",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food6, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_103": {
@@ -4364,20 +5208,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts001, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_104": {
@@ -4390,20 +5239,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fruit_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_004, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_105": {
@@ -4416,20 +5270,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_106": {
@@ -4442,20 +5301,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_014",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_014",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_014, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_107": {
@@ -4468,20 +5332,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_108": {
@@ -4494,20 +5363,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Mushroom_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_001, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_109": {
@@ -4520,20 +5394,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Egg_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Egg_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Egg_001, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_110": {
@@ -4546,20 +5425,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Shells006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Shells006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_1",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells006, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_1, 1, 1"
 		]
 	},
 	"item_activity3_cooking_201": {
@@ -4572,25 +5456,31 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food3",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Meat_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food3, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"Item_Meat_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_202": {
@@ -4603,20 +5493,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food7",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food7",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food7, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_203": {
@@ -4629,20 +5524,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_004, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_204": {
@@ -4655,20 +5555,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fruit_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_002, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_205": {
@@ -4681,20 +5586,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_206": {
@@ -4707,20 +5617,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Vera_Harvest_015",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Vera_Harvest_015",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Vera_Harvest_015, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_207": {
@@ -4733,20 +5648,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_208": {
@@ -4759,20 +5679,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Shell_002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Shell_002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shell_002, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_209": {
@@ -4785,20 +5710,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Mushroom_006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Mushroom_006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Mushroom_006, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_210": {
@@ -4811,20 +5741,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Shells006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Shells006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "Staples_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Staples_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_2",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_2",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells006, 1, 1",
+			"Item_Staples_001, 1, 1",
+			"item_activity3_mould_2, 1, 1"
 		]
 	},
 	"item_activity3_cooking_301": {
@@ -4837,20 +5772,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food4",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food4",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food4, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_302": {
@@ -4863,20 +5803,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "activity3_food5",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food5",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"item_activity3_food5, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_303": {
@@ -4889,20 +5834,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fruit_001",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fruit_001",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fruit_001, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_304": {
@@ -4915,20 +5865,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Drugs_005",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_005",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_005, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_305": {
@@ -4941,20 +5896,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts002",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts002",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts002, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_306": {
@@ -4967,20 +5927,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Fishes006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Fishes006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Fishes006, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_307": {
@@ -4993,20 +5958,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Nuts003",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Nuts003",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Nuts003, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_308": {
@@ -5019,20 +5989,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Meat_004",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Meat_004",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Meat_004, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_309": {
@@ -5045,20 +6020,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Drugs_007",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Drugs_007",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Drugs_007, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
 	},
 	"item_activity3_cooking_310": {
@@ -5071,29 +6051,25 @@
 		"quality": "ITEM_QUALITY_EPIC",
 		"ingredients": [
 			{
-				"matID": "Shells006",
-				"min": "1",
-				"max": "1"
+				"matID": "Item_Shells006",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_food1",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_food1",
+				"min": " 1",
+				"max": " 1"
 			},
 			{
-				"matID": "activity3_mould_3",
-				"min": "1",
-				"max": "1"
+				"matID": "item_activity3_mould_3",
+				"min": " 1",
+				"max": " 1"
 			}
+		],
+		"ingredientsraw": [
+			"Item_Shells006, 1, 1",
+			"item_activity3_food1, 1, 1",
+			"item_activity3_mould_3, 1, 1"
 		]
-	},
-	"item_BurgerKing_Whopper": {
-		"name": "ワッパー",
-		"type": "ITEM_TYPE_COOKING",
-		"description": "しっかり焼いたパティ、新鮮なレタス、ジューシーなトマトにさっぱりピクルスを使った人気メニュー。",
-		"source": "満腹度が<ComLblGreen>{0}</>Pt回復",
-		"icon": "/Game/Resources/Icon/caiyao/BurgerKing_Whopper",
-		"stars": 2,
-		"quality": "ITEM_QUALITY_EPIC"
 	}
 }

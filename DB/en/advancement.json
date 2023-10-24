@@ -1654,6 +1654,107 @@
 			"charge": 8
 		}
 	},
+	"Linghan_ice_ssr_star_0": {
+		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Extreme Cold: Unload</>: After using <shuzhi>Sword Art: Shadowy Ice</>, every second, deal damage equal to <shuzhi>{0}%</> of frost ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit for <shuzhi>{4}</> seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is <shuzhi>1</> volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by <shuzhi>{5}</> times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanJiHanDamageCoeffIceATK",
+			"LinghanJiHanDamageCoeffMaxHP",
+			"LinghanJiHanDamageCoeffDefSum",
+			"LinghanJiHanDamageCoeffCrit",
+			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
+			"LinghanJiHanDamageCoeffAdv"
+		],
+		"cost": 0,
+		"need": "None",
+		"needamt": null,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_1": {
+		"advancement": "After launching <shuzhi>Frost Blades</>, the Wanderer's frost ATK is increased by <shuzhi>{0}%</> and nearby targets will be dealt damage equal to <shuzhi>80%</> of ATK every second for <shuzhi>{1}</> seconds.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Effect_L1_IceAtkUp",
+			"Buff_Linghan_Effect_L1_Duration"
+		],
+		"cost": 1000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_2": {
+		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
+		"numbers": [],
+		"cost": 2000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_3": {
+		"advancement": "The Wanderer can produce up to <shuzhi>4</> <shuzhi>Frost Blades</> and <shuzhi>Temperature Reduction's</> damage's base multiplier is increased to <shuzhi>360%</>.\r\nIf the target is the only one affected by <shuzhi>Temperature Reduction</> within <shuzhi>{0}</> seconds, additionally apply <shuzhi>Vein Seal</> to the target, reducing their speed by <shuzhi>{1}%</> (unavailable in Apex League and against bosses). If the target receives <shuzhi>Frost Blade</> damage again during <shuzhi>Vein Seal's</> duration, trigger Icy Burst, dealing skill damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}%</> of the target's already-lost HP at that point (Icy Burst damage will be no lower than <shuzhi>{4}%</> of the Wanderer's frost ATK and no higher than <shuzhi>{5}%</> of the Wanderer's frost ATK). Then, remove the <shuzhi>Vein Seal</> and <shuzhi>Temperature Reduction</> effects on the target.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"Buff_Linghan_Frostbite_DelayAdd_Period",
+			"Buff_Linghan_TargetSpeedDown",
+			"IceBoomAtkCoeff",
+			"IceBoomHPCoeff",
+			"IceBoomMinAtkCoeff",
+			"IceBoomMaxAtkCoeff"
+		],
+		"cost": 4000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_4": {
+		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
+		"numbers": [],
+		"cost": 6000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_5": {
+		"advancement": "The damage dealt by <shuzhi>Crystalline Crack</> and <shuzhi>Cold Air</> is additionally increased by <shuzhi>50%</>. <shuzhi>Light Steps'</> use attempts is increased to <shuzhi>{1}</> and recovery rate is increased to <shuzhi>1</> attempt every <shuzhi>{0}</> seconds.",
+		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbers": [
+			"LinghanQinggongPeriodL5",
+			"LinghanQinggongMaxL5"
+		],
+		"cost": 9000,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
+	"Linghan_ice_ssr_star_6": {
+		"advancement": "The <shuzhi>Temperature Reduction</> effect inflicted after firing <shuzhi>Frost Blades</> is now applied to an area and also deals additional damage equal to <shuzhi>990%</> of ATK to nearby targets.",
+		"numbers": [],
+		"cost": 13500,
+		"need": "Linghan_ice_plasm",
+		"needamt": 1,
+		"stats": {
+			"shatter": 16,
+			"charge": 8
+		}
+	},
 	"Suspension_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Volt Benediction</>: Increase the entire team's volt ATK by <shuzhi>5%</> when Benediction Resonance is active.",
 		"numbers": [],
@@ -3755,7 +3856,7 @@
 		}
 	},
 	"feise_fire_ssr_star_0": {
-		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Fiery Explosion: Swift Cut</>: When <shuzhi>Endless Bloom</> is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage equal to <shuzhi>{0}%</> of flame ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit to nearby targets. While in combat, after every <shuzhi>0.5</> seconds, the next Swift Cut damage will be increased by an additional <shuzhi>1</> time, up to a maximum of <shuzhi>30</> times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is <shuzhi>1</> frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is increased to <shuzhi>{4}</> times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>20%</> and flame resistance by <shuzhi>40%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance or Flame Reaction effects, with Flame Resonance taking precedence.\r\n<shuzhi>Fiery Explosion: Swift Cut</>: When <shuzhi>Endless Bloom</> is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to <shuzhi>{0}%</> of flame ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit. While in combat, after every <shuzhi>0.5</> seconds, the next Swift Cut damage will be increased by an additional <shuzhi>1</> time, up to a maximum of <shuzhi>30</> times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is <shuzhi>1</> frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by <shuzhi>{4}</> times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
 		"numbermap": "CurveTable'FeiseEffectFigure'",
 		"numbers": [
 			"FeiSeEXChangeWeaponCoefficientFireAttack",
@@ -3773,7 +3874,7 @@
 		}
 	},
 	"feise_fire_ssr_star_1": {
-		"advancement": "<shuzhi>Blazing Heart's</> damage's base multiplier is increased to <shuzhi>60%</> of ATK. While in the combat state, if the Wanderer inflicts multiple burn effects, <shuzhi>Blazing Heart's</> damage's base multiplier is additionally increased to that of the highest multiplier effect.",
+		"advancement": "<shuzhi>Blazing Heart</> damage's base multiplier is increased to <shuzhi>120%</> of ATK. While in the combat state, if the Wanderer inflicts multiple burn effects, <shuzhi>Blazing Heart</> damage's base multiplier is additionally increased to that of the highest multiplier effect.",
 		"numbers": [],
 		"cost": 1000,
 		"need": "feise_fire_plasm",
@@ -3817,7 +3918,7 @@
 		}
 	},
 	"feise_fire_ssr_star_5": {
-		"advancement": "For every <shuzhi>1</> <shuzhi>Fei Se's Phantasia</> or <shuzhi>Lotus Petal</> in the <shuzhi>Mirage</>, <shuzhi>Blazing Heart's</> damage is additionally increased by <shuzhi>12%</>.\r\n<shuzhi>Lotus Aspara's</> endurance consumption is reduced by <shuzhi>75%</>.",
+		"advancement": "For every <shuzhi>1</> <shuzhi>Fei Se's Phantasia</> or <shuzhi>Lotus Petal</> in the <shuzhi>Mirage</>, <shuzhi>Blazing Heart's</> damage is additionally increased by <shuzhi>15%</>.\r\n<shuzhi>Lotus Aspara's</> endurance consumption is reduced by <shuzhi>75%</>.",
 		"numbers": [],
 		"cost": 9000,
 		"need": "feise_fire_plasm",
@@ -3828,7 +3929,7 @@
 		}
 	},
 	"feise_fire_ssr_star_6": {
-		"advancement": "<shuzhi>Soulwear</> damage's base multiplier is increased to <shuzhi>270%</> of ATK, shatter is doubled, and after landing a hit, there is a <shuzhi>15%</> chance to inflict a <shuzhi>65%</> delay for <shuzhi>2</> seconds (ineffective against bosses in team play and unavailable in Apex League).",
+		"advancement": "<shuzhi>Soulwear</> damage's base multiplier is increased to <shuzhi>900%</> of ATK, shatter is doubled, and there is a <shuzhi>15%</> chance to inflict a <shuzhi>65%</> delay for <shuzhi>2</> seconds after landing a hit (ineffective against bosses in team play and unavailable in Apex League).",
 		"numbers": [],
 		"cost": 13500,
 		"need": "feise_fire_plasm",

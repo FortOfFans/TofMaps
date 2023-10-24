@@ -665,8 +665,8 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Al equipar Preciosa, **2** o más armas de diferentes elementos o **2** o más tipos de armas, incrementa todo el daño elemental en un **8%**/9%/10%/11%. Este efecto de set funciona en la ranura secundaria, solo tendrá efecto el set con la clasificación de estrellas más alta.",
-				"4": "Al infligir daño de escarcha, incrementa todo el daño elemental en un **13%**/16%/19%/22% por **2500**seg. Este efecto de set funciona en la ranura secundaria, solo tendrá efecto el set con la clasificación de estrellas más alta."
+				"2": "Equipar a Preciosa, **2** o más armas de diferentes elementos, o **2** o más tipos de armas aumenta todo el daño elemental un **8%**/9%/10%/11%. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta.",
+				"4": "Al infligir daño de escarcha, aumenta todo el daño elemental un **13%**/16%/19%/22% durante **2500**seg. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta."
 			}
 		],
 		"id": "matrix_SSR28_1"
@@ -711,7 +711,7 @@
 		"set": [
 			{
 				"2": "Aumenta el ATQ eléctrico un **14%**/17%/19%/21%. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta.",
-				"4": "Aumenta el límite de espinas de cristamax a **6**. Tras lograr un impacto con un arma eléctrica, aumenta todo el daño elemental un **13%**/16%/19%/22% por **3000**seg. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta."
+				"4": "Aumenta el límite de Espinas de Cristamax a **6**. Tras lograr un impacto con un arma eléctrica, aumenta todo el daño elemental un **13%**/16%/19%/22% por **3000**seg. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta."
 			}
 		],
 		"id": "matrix_SSR31_1"
@@ -771,7 +771,7 @@
 		"set": [
 			{
 				"2": "Aumenta el daño final un **7%**/8%/9%/10%. Después de que la onda de choque de Azura logra un impacto, aumenta el daño de habilidad un **15%** por **3000**seg. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta.",
-				"4": "Cuando se equipa con al menos **1** arma eléctrica, aumenta todo el daño elemental un **14%**/17%/20%/23%. Después de usar **Luna Azur**/**Dragón Aéreo**, aumenta tu daño crítico un **6%** durante **3000**seg. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta."
+				"4": "Cuando se equipa con al menos **1** arma eléctrica, aumenta todo el daño elemental un **14%**/17%/20%/23%. Después de usar **Luna Azur** / **Dragón Aéreo**, aumenta tu daño crítico un **6%** durante **3000**seg. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta."
 			}
 		],
 		"id": "matrix_SSR35_1"
@@ -785,10 +785,25 @@
 		"rarity": "SSR",
 		"set": [
 			{
-				"2": "Después de usar cualquier habilidad de arma de fuego o descarga, aumenta el ataque conjunto un **18%**/22%/26%/30% durante **3000**seg. Este efecto de set funciona en la ranura secundaria. Solo tendrá efecto el set con la clasificación de estrellas más alta.",
-				"4": "Cuando se equipa con al menos **1** arma de fuego, aumenta todo el daño elemental un **28%**/32%/36%/40%. Tras crear una Phantasia de FeiSe, también aumenta el daño final un **20%** durante **2500**seg. Este efecto de set funciona en la ranura secundaria. Solo tendrá efecto el set con la clasificación de estrellas más alta."
+				"2": "Después de usar cualquier habilidad de arma de fuego o descarga, aumenta el ataque conjunto un **14%**/16%/18%/20% durante **3000**seg. Este efecto de set funciona en la ranura secundaria. Solo tendrá efecto el set con la clasificación de estrellas más alta.",
+				"4": "Cuando se equipa con al menos **1** arma de fuego, aumenta todo el daño elemental un **14%**/17%/20%/23%. Tras crear la Phantasia de Fei Se, aumenta adicionalmente el daño final un **9%** por **2500**seg. Este efecto de set funciona en la ranura secundaria. Solo tendrá efecto el set con la clasificación de estrellas más alta."
 			}
 		],
 		"id": "matrix_SSR36_1"
+	},
+	"matrix_SSR37_1": {
+		"name": "Ling Han",
+		"type": "ITEM_TYPE_MATRIX",
+		"description": "La espada es como una niebla que viaja rápida e indiscriminadamente.",
+		"icon": "icon_matrix_SSR37_512",
+		"gachaIcon": "icon_matrix_SSR37_512",
+		"rarity": "SSR",
+		"set": [
+			{
+				"2": "Aumenta todo el daño elemental un **7%**/8%/9%/10%. Al disparar Cuchillas de Hielo, infliges daño adicional igual a **416%** del ATQ a los objetivos cercanos. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta.",
+				"4": "Después de usar cualquier habilidad de descarga de arma de escarcha, aumenta tu daño final un **12%**/15%/19%/23% por **3000**seg. Cuando **Tigre de Alabastro** está equipado, aumenta tu ataque conjunto un **12%**. Este efecto de set funciona en la ranura secundaria, y solo tendrá efecto el set con la clasificación de estrellas más alta."
+			}
+		],
+		"id": "matrix_SSR37_1"
 	}
 }

@@ -1,7 +1,7 @@
 {
 	"spear_ice": {
-		"name": "หอกน้ำแข็ง",
-		"description": "อาวุธทั่วไปของผู้ที่อาศัยอยู่ในทุ่งหิมะวอร์เรน อาวุธนี้บรรจุไปด้วยพลังน้ำแข็ง สะท้อนให้เห็นถึงลักษณะท้องถิ่นที่ใช้งานมัน มันเป็นที่นิยมมากเพราะราคาถูก แต่ก็มีประสิทธิภาพสูง",
+		"name": "霜冻长枪",
+		"description": "沃兰雪原居民常用的武器，根据地域特点增加了寒冰属性。平价而高效，广受欢迎。",
 		"icon": "item_Weapon_R_Spear_Ice01",
 		"gachaIcon": "Weapon_R_Spear_Ice01",
 		"rarity": "R",
@@ -102,8 +102,8 @@
 		"id": "spear_ice"
 	},
 	"digger_physic": {
-		"name": "ดาบปะทะ",
-		"description": "อาวุธพื้นฐานที่พัฒนาขึ้นโดยเบนเจสเทค หลอมในอัลลอยพิเศษ น้ำหนักเบา คล่องแคล่ว และถือสะดวก",
+		"name": "格斗刀",
+		"description": "班吉斯重工研发的基础型武器，使用特制合金制作，轻便而灵活，打击感十足。",
 		"icon": "item_Weapon_R_Ds_Phy01",
 		"gachaIcon": "Weapon_R_Ds_Phy01",
 		"rarity": "R",
@@ -198,8 +198,8 @@
 		"id": "digger_physic"
 	},
 	"sword_thunder": {
-		"name": "ดาบ EM",
-		"description": "โครงการออมเนียมแม่เหล็กไฟฟ้าแรกสุด ดาบนี้ใช้งานง่ายและได้รับความนิยมอย่างมากในหมู่นักพเนจรที่ไม่ได้ถนัดการต่อสู้",
+		"name": "电磁刃",
+		"description": "最早被立项的电能原能武具项目，上手简单，受到许多不擅长战斗的拓荒者的欢迎。",
 		"icon": "item_Weapon_R_Sword_Thunder01",
 		"gachaIcon": "Weapon_R_Sword_Thunder01",
 		"rarity": "R",
@@ -288,8 +288,8 @@
 		"id": "sword_thunder"
 	},
 	"bow_fire": {
-		"name": "ธนูแบบผสม",
-		"description": "อาวุธทั่วไปที่นักล่าใช้ในทุ่งหิมะ ถือสะดวกและมีความแม่นยำสูง หลังจากโฆษณาขายมากพอ มันมีส่วนแบ่งมากกว่าครึ่งหนึ่งของตลาดพลเรือนที่มีราคาไม่แพง",
+		"name": "复合弓",
+		"description": "雪原上的猎人常用的武器，能够轻松命中猎物。经过推广后，现已在平价民用市场占据半壁江山。",
 		"icon": "item_Weapon_SR_Bow_Fire01",
 		"gachaIcon": "Weapon_R_Bow_Phy01",
 		"rarity": "R",
@@ -312,7 +312,7 @@
 			"normals": [
 				{
 					"name": "普通攻击",
-					"description": "在地面时，连续拉弓进行五次攻击。\r\n第一次攻击对目标造成**0%***攻击力+**1**点伤害。\r\n第二次攻击对目标造成**2%***攻击力+**3**点伤害。\r\n第三次攻击对目标造成**4%***攻击力+**5**点伤害。\r\n第四次攻击对目标造成**6%***攻击力+**7**点伤害。\r\n第五次攻击对目标造成**8%***攻击力+**9**点伤害，并小幅击退目标。",
+					"description": "在地面时，连续拉弓进行五次攻击。\r\n第一次攻击对目标造成**27.3%***攻击力+**164**点伤害。\r\n第二次攻击对目标造成**24.4%***攻击力+**146**点伤害。\r\n第三次攻击对目标造成**43.8%***攻击力+**263**点伤害。\r\n第四次攻击对目标造成**67.8%***攻击力+**407**点伤害。\r\n第五次攻击对目标造成**62.9%***攻击力+**377**点伤害，并小幅击退目标。",
 					"icon": "bow_skill",
 					"id": "GA_FPlayerBowMeleeNew_Melee"
 				},
@@ -360,7 +360,7 @@
 			"discharge": [
 				{
 					"name": "爆裂箭雨",
-					"description": "当**武器充能满**或触发**幻时**时，从其他武器切换到该武器时**清除自身负面状态**，向目标射出爆裂箭雨，对单个目标最多造成**0%***攻击力+**1**点伤害。",
+					"description": "当**武器充能满**或触发**幻时**时，从其他武器切换到该武器时**清除自身负面状态**，向目标射出爆裂箭雨，对单个目标最多造成**396%***攻击力+**2376**点伤害。",
 					"icon": "skill_artifact11_1",
 					"id": "GA_FPlayerBowChangeSkill_Success"
 				}
@@ -378,16 +378,15 @@
 		"id": "bow_fire"
 	},
 	"stave_thunder": {
-		"name": "คทารอยแผล",
+		"name": "圣痕权杖",
 		"avatar": {
 			"name": "佩·佩",
-			"description": "พื้นที่ปริศนา",
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
 			"id": "imitation_14"
 		},
-		"description": "คทายนต์ที่สลักรูนไม้กางเขนเข้าไป สามารถใช้อภัยบาปหรือลงทัณฑ์ได้",
+		"description": "刻有十字圣符的机械法杖，或宽恕己罪或降临神罚。",
 		"icon": "item_Weapon_SR_Stave_Thunder01",
 		"gachaIcon": "sr_lh_shqz",
 		"rarity": "SR",
@@ -530,16 +529,15 @@
 		"id": "stave_thunder"
 	},
 	"cannon_ice": {
-		"name": "ปืนทำลายล้าง",
+		"name": "终结者",
 		"avatar": {
-			"name": "ฮิลดา",
-			"description": "พื้นที่ปริศนา",
+			"name": "希尔达",
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
 			"id": "imitation_15"
 		},
-		"description": "ปืนที่ดีที่สุดที่เคยสร้างขึ้นมา มีฉายาว่าป้อมปืนเคลื่อนที่",
+		"description": "火器界超越枪炮史的绝命之作，人称移动炮台的重型机枪。",
 		"icon": "item_Weapon_SR_Cannon_Ice01",
 		"gachaIcon": "SR_lh_zjz",
 		"rarity": "SR",
@@ -654,8 +652,7 @@
 	"Chainsaw_physic": {
 		"name": "小小飓风",
 		"avatar": {
-			"name": "กนอนโน",
-			"description": "พื้นที่ปริศนา",
+			"name": "格诺诺",
 			"advanceId": "imitation_27L1",
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
@@ -818,16 +815,15 @@
 		"id": "Chainsaw_physic"
 	},
 	"hammer_ice": {
-		"name": "จอมทุบ",
+		"name": "初动重击",
 		"avatar": {
 			"name": "烯",
-			"description": "พื้นที่ปริศนา",
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
 			"id": "imitation_2"
 		},
-		"description": "ไม่มีใครอยากโดนค้อนนี้ทุบ",
+		"description": "面对这样的大锤，应该没有人会想要迎面接下它的沉重敲击。",
 		"icon": "item_Weapon_SR_Hammer_Ice01",
 		"gachaIcon": "SR_lh_cdzj",
 		"rarity": "SR",
@@ -976,16 +972,15 @@
 		"id": "hammer_ice"
 	},
 	"bow_physic": {
-		"name": "ธนูขนไนติงเกล",
+		"name": "夜雀之羽",
 		"avatar": {
 			"name": "白伶",
-			"description": "พื้นที่ปริศนา",
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
 			"id": "imitation_16"
 		},
-		"description": "พรางตัวได้ดีในราตรีมืดหม่น",
+		"description": "犹如暗夜般的弓矢，可以完美地融入幽邃的夜色。",
 		"icon": "item_Weapon_R_Bow_Phy01",
 		"gachaIcon": "SR_lh_yqzy",
 		"rarity": "SR",
@@ -1122,16 +1117,15 @@
 		"id": "bow_physic"
 	},
 	"spear_thunder": {
-		"name": "ง้าวอัสนี",
+		"name": "雷霆战戟",
 		"avatar": {
 			"name": "爱歌",
-			"description": "พื้นที่ปริศนา",
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
 			"id": "imitation_4"
 		},
-		"description": "ง้าวที่มีพลังไฟฟ้า สร้างความเสียหายได้ดีเยี่ยม และมีความยาวที่ช่วยให้ต่อสู้ได้หลายระยะ",
+		"description": "被灌注了雷霆之力的长枪，爆发力超高，兼顾近远攻守。",
 		"icon": "item_Weapon_SSR_Spear_Thunder01",
 		"gachaIcon": "SR_lh_ltzj",
 		"rarity": "SR",
@@ -1280,17 +1274,16 @@
 		"id": "spear_thunder"
 	},
 	"digger_thunder": {
-		"name": "มีดอัสนี",
+		"name": "疾雷双刃",
 		"avatar": {
 			"name": "乌丸",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_13L1",
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
 			"avatarID": "wuwan",
 			"id": "imitation_13"
 		},
-		"description": "อันตราย คาดเดายาก และเงียบเชียบ",
+		"description": "如同小丑先生的各种魔术小刀一样，变幻莫测如影随形且致命无声。",
 		"icon": "item_Weapon_SSR_Ds_Thunder01",
 		"gachaIcon": "SSR_lh_jkxd",
 		"rarity": "SSR",
@@ -1433,17 +1426,16 @@
 		"id": "digger_thunder"
 	},
 	"bigsword_ice": {
-		"name": "ดาบโรซี่เอดจ์",
+		"name": "蔷薇之锋",
 		"avatar": {
 			"name": "梅丽尔",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_3L1",
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
 			"avatarID": "meilier",
 			"id": "imitation_3"
 		},
-		"description": "ดาบน้ำแข็งสง่างามที่ชวนให้นึกถึงดอกไม้ขาวบริสุทธิ์ซึ่งเบ่งบานบนยอดผาที่ปกคลุมด้วยหิมะ",
+		"description": "高贵优雅的冰霜巨剑，仿佛傲立于峭峰雪岭的纯白之花。",
 		"icon": "item_Weapon_SSR_BigSword_Ice01",
 		"gachaIcon": "SSR_lh_qwjf",
 		"rarity": "SSR",
@@ -1598,17 +1590,16 @@
 		"id": "bigsword_ice"
 	},
 	"bow_ice": {
-		"name": "ธนูลมหนาว",
+		"name": "冰风之矢",
 		"avatar": {
 			"name": "四枫院羽",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_7L1",
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
 			"avatarID": "sifengyuanyu",
 			"id": "imitation_7"
 		},
-		"description": "ศรจากธนูนี้มีพลังน้ำแข็ง",
+		"description": "能够凝结冰霜的弓矢，发出的强力一击如同冰之吐息。",
 		"icon": "item_Weapon_SSR_Bow_Ice01",
 		"gachaIcon": "SSR_lh_Mg",
 		"rarity": "SSR",
@@ -1745,17 +1736,16 @@
 		"id": "bow_ice"
 	},
 	"stave_ice": {
-		"name": "ง้าวแอบโซลูทซีโร่",
+		"name": "零度指针",
 		"avatar": {
 			"name": "可可丽特",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_11L1",
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
 			"avatarID": "kekelite",
 			"id": "imitation_11"
 		},
-		"description": "รักษาอุณหภูมิให้เย็นอยู่เสมอเพื่อรักษาพันธมิตร",
+		"description": "以精度的指针将寒冷的温度进行保持逐步稳定，最终达到疗愈。",
 		"icon": "item_Weapon_SSR_Stave_Ice01",
 		"gachaIcon": "SSR_lh_mtzz",
 		"rarity": "SSR",
@@ -1899,17 +1889,16 @@
 		"id": "stave_ice"
 	},
 	"sickle_fire": {
-		"name": "เคียวอีกา",
+		"name": "黑鸦冥镰",
 		"avatar": {
 			"name": "KING",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_9L1",
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
 			"avatarID": "KING",
 			"id": "imitation_9"
 		},
-		"description": "เคียวอันทรงพลัง ใช้ได้ดีทั้งในการโจมตีและตั้งรับ สามารถฆ่าเป้าหมายที่อยู่ในบางระยะได้ทันที",
+		"description": "攻守兼备威力强悍的镰刀，在一定距离下甚至可以一击必杀。",
 		"icon": "item_Weapon_SSR_Sickle_Fire01",
 		"gachaIcon": "SSR_lh_ml",
 		"rarity": "SSR",
@@ -2058,17 +2047,16 @@
 		"id": "sickle_fire"
 	},
 	"gun_fire": {
-		"name": "ปืนลูกโม่เพลิง",
+		"name": "炽焰左轮",
 		"avatar": {
 			"name": "钴蓝",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_10L1",
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
 			"avatarID": "gulan",
 			"id": "imitation_10"
 		},
-		"description": "ประดิษฐ์ขึ้นโดยนักวิทยาศาสตร์บ้าคลั่ง ด้วยตัวเลขการทดสอบที่น่าประทับใจ คุณจะจินตนาการไม่ออกเลยว่ามันจะทรงพลังเพียงใดถ้าใช้งานเต็มกำลัง",
+		"description": "由某位科学怪人打造，测试时数值爆表，不知道火力全开情况如何。",
 		"icon": "item_Weapon_SSR_Gun_Fire01",
 		"gachaIcon": "SSR_lh_zl",
 		"rarity": "SSR",
@@ -2212,17 +2200,16 @@
 		"id": "gun_fire"
 	},
 	"sword_physic": {
-		"name": "ดาบกูเรน",
+		"name": "红莲刃",
 		"avatar": {
 			"name": "克劳迪娅",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_12L1",
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
 			"avatarID": "kelaodiya",
 			"id": "imitation_12"
 		},
-		"description": "ดาบแดงฉานสื่อถึงความกล้าหาญและแน่วแน่ คมดาบของมันใช้รักษาความยุติธรรม",
+		"description": "利刃的剑锋是正义的代行者，红莲的剑身象征着勇敢坚毅的品格。",
 		"icon": "item_Weapon_SR_Sword_Fire01",
 		"gachaIcon": "SSR_lh_hlr",
 		"rarity": "SSR",
@@ -2366,17 +2353,16 @@
 		"id": "sword_physic"
 	},
 	"darts_physic": {
-		"name": "กงจักรทะเล",
+		"name": "环海轮刃",
 		"avatar": {
 			"name": "西萝",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_8L1",
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
 			"avatarID": "xiluo",
 			"id": "imitation_8"
 		},
-		"description": "อาวุธทรงโค้งและคมที่ท่องสมุทรกับเจ้าของของมัน",
+		"description": "圆月型锋刃武器，它陪伴主人完成了沿海旅行，因此得名环海。",
 		"icon": "item_Weapon_SSR_Darts_Phy01",
 		"gachaIcon": "SSR_lh_hr",
 		"rarity": "SSR",
@@ -2519,17 +2505,16 @@
 		"id": "darts_physic"
 	},
 	"cube_fire": {
-		"name": "คิวบ์ลบล้าง",
+		"name": "否决立方",
 		"avatar": {
 			"name": "零",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_1L1",
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
 			"avatarID": "ling",
 			"id": "imitation_1"
 		},
-		"description": "ผู้ใช้คิวบ์ประหลาดมักจะคิดวิธีต่าง ๆ ในการลบล้างข้อกำหนดที่ไม่จำเป็น",
+		"description": "似乎魔方的使用者总能想出各种方法来否定不必要的条件。",
 		"icon": "item_Weapon_SSR_Cube_Fire01",
 		"gachaIcon": "SSR_lh_mf",
 		"rarity": "SSR",
@@ -2673,17 +2658,16 @@
 		"id": "cube_fire"
 	},
 	"dgun_thunder": {
-		"name": "ปืนคู่ EM สตาร์",
+		"name": "超电磁双星",
 		"avatar": {
 			"name": "赛弥尔",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_5L1",
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
 			"avatarID": "saimier",
 			"id": "imitation_5"
 		},
-		"description": "อาวุธปืนนี้ออกแบบตามปืนแม่เหล็กไฟฟ้า และต้องใช้เป็นคู่",
+		"description": "参考磁轨炮原理制作而成枪械，需要成对使用。",
 		"icon": "item_Weapon_SSR_DGun_Thunder",
 		"gachaIcon": "SSR_lh_Sq",
 		"rarity": "SSR",
@@ -2820,17 +2804,16 @@
 		"id": "dgun_thunder"
 	},
 	"ShieldAxe_Fire": {
-		"name": "โล่ลาวา V2",
+		"name": "V2熔驱盾",
 		"avatar": {
 			"name": "修玛",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_6L1",
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
 			"avatarID": "xiuma",
 			"id": "imitation_6"
 		},
-		"description": "ขวานโล่ที่อยู่ในซีรีส์อาวุธ V2 เป็นกลุ่มอาวุธที่หลอมขึ้นด้วยเทคนิคพิเศษ",
+		"description": "特殊工艺定制的v2系列武器之一，此为攻守一体的熔能盾斧。",
 		"icon": "item_Weapon_SSR_ShieldAxe_Fire01",
 		"gachaIcon": "SSR_lh_yyz",
 		"rarity": "SSR",
@@ -2969,8 +2952,7 @@
 	"mimi_thunder": {
 		"name": "孟章",
 		"avatar": {
-			"name": "หวง",
-			"description": "พื้นที่ปริศนา",
+			"name": "篁",
 			"advanceId": "imitation_41L1",
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
@@ -3126,18 +3108,176 @@
 		],
 		"id": "mimi_thunder"
 	},
+	"Linghan_ice": {
+		"name": "监兵",
+		"avatar": {
+			"name": "凌寒",
+			"advanceId": "imitation_43L1",
+			"weapon": "linghan_ice",
+			"icon": "imitation_43",
+			"avatarID": "linghan",
+			"id": "imitation_43"
+		},
+		"description": "挥袖舞长剑，谁能识此心。",
+		"icon": "item_Weapon_SSR_Linghan_Ice01",
+		"gachaIcon": "UI_SSR_lh_linghan",
+		"rarity": "SSR",
+		"element": "Ice",
+		"weaponType": "Linghan",
+		"wc": "DPS",
+		"mats": {
+			"Item_Mine_ice": 39,
+			"Item_Mine_ice_02": 65,
+			"Item_breakthrough_B2": 65,
+			"Item_breakthrough_D2": 65,
+			"Item_Mine_ice_03": 32,
+			"Item_breakthrough_B3": 32,
+			"Item_breakthrough_D3": 32,
+			"Item_breakthrough_B1": 35,
+			"Item_breakthrough_D1": 32
+		},
+		"advanceID": "Linghan_ice_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "剑诀**•** 剑斩月",
+					"description": "在地面时，点击普攻可连续进行六次攻击。\r\n第一次攻击对目标造成**97.8%***攻击力+**587**点伤害，并击退目标。\r\n第二次攻击对目标造成**129.4%***攻击力+**776**点伤害，并击退目标。\r\n第三次攻击对目标造成**207.2%***攻击力+**1243**点伤害，并击退目标。\r\n第四次攻击对目标造成**125%***攻击力+**750**点伤害，并击退目标。\r\n第五次攻击对目标造成**226%***攻击力+**1356**点伤害，并吸引怪物向前方聚集。\r\n第六次攻击对目标造成**253.6%***攻击力+**1521**点伤害，并击飞目标。\r\n触发剑诀**•** 剑斩月后，长按普攻可触发**剑诀**•** 雪连天**。\r\n\r\n**监兵**任意普攻命中目标后，为目标添加**1**层**晶裂**状态，每秒造成**48%***攻击力普攻伤害，持续**15**秒，同一目标每**4**秒至多添加**1**层，至多可添加**3**层，持续时间结束后逐层衰减。",
+					"icon": "skill_linghan_melee",
+					"id": "GA_FPlayerLinghanMelee_Melee"
+				},
+				{
+					"name": "剑诀**•** 梅剑鸣",
+					"description": "当拓荒者滞空时，点击普攻可在空中连续进行六次攻击，并消耗耐力。\r\n第一次攻击对目标造成**95.9%***攻击力+**575**点伤害。\r\n第二次攻击对目标造成**100.7%***攻击力+**604**点伤害。\r\n第三次攻击对目标造成**218.6%***攻击力+**1311**点伤害。\r\n第四次攻击对目标造成**130%***攻击力+**780**点伤害。\r\n第五次攻击对目标造成**213.7%***攻击力+**1282**点伤害。\r\n第六次攻击对目标造成**256.9%***攻击力+**1541**点伤害。",
+					"icon": "skill_linghan_airattack",
+					"id": "GA_FPlayerLinghanMelee_AirAttack"
+				},
+				{
+					"name": "剑诀**•** 雪连天",
+					"description": "在地面普攻时，长按普攻可触发剑诀**•** 雪连天。\r\n以念御剑，并消耗耐力，期间自身获得霸体效果，每次命中对附近目标造成**140.8%***攻击力+**845**点伤害。\r\n剑诀 **•**  雪连天结束时释放一道强力剑气，命中对附近目标造成**422.4%***攻击力+**2534**点伤害。",
+					"icon": "skill_linghan_powerattack",
+					"id": "GA_FPlayerLinghanMelee_PowerAttack"
+				},
+				{
+					"name": "剑诀**•** 霜飘落",
+					"description": "滞空时长按普攻（存在敌方目标时点按），攀爬，反向跳攻击或使用喷气背包普攻，可触发剑诀**•** 霜飘落。\r\n下落过程中，每次命中目标对目标造成**75%***攻击力+**450**点伤害，落地后对附近目标造成**366.7%***攻击力+**2200**点伤害。",
+					"icon": "skill_linghan_jumpattack",
+					"id": "GA_FPlayerLinghanMelee_JumpAttack"
+				},
+				{
+					"name": "翩跹落",
+					"description": "当拓荒者处于二段跳后的滞空时，点击跳跃可触发翩跹落，向高空短暂冲刺后持续滑行，滞空时翩跹落至多可使用**2**次。\r\n在地面时，翩跹落每**10**秒回复**1**次使用次数（切换场景/装卸**监兵**后使用次数重置）。",
+					"icon": "skill_linghan_qinggong",
+					"id": "GA_FPlayerLinghanMelee_QingGong"
+				}
+			],
+			"dodge": [
+				{
+					"name": "闪避",
+					"description": "在被命中前闪避，可触发幻时，使一定范围内的目标动作速率变缓；闪避过程中，免疫硬直效果。",
+					"icon": "common_evade",
+					"id": "GA_FPlayerLinghanEvade_Evade"
+				},
+				{
+					"name": "剑诀**•** 瀑流云",
+					"description": "方向键加闪避键触发的前闪避短暂时间内，点击普攻，可触发剑诀**•** 瀑流云，对命中目标至多造成**305%***攻击力+**1830**点伤害。",
+					"icon": "skill_linghan_fevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+				},
+				{
+					"name": "剑诀**•** 魄千寻",
+					"description": "闪避之后的短暂时间内，点击普攻，可触发剑诀**•** 魄千寻，发出一道白虎幻影对前方目标造成**174.3%***攻击力+**1046**点伤害。",
+					"icon": "skill_linghan_bevadeattack",
+					"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+				}
+			],
+			"skill": [
+				{
+					"name": "剑诀**•** 凌玄影",
+					"description": "对附近目标造成**370.2%***攻击力+**2221**点伤害并吸附附近目标，之后结成剑阵唤来大量剑雨，并**强控冻结**目标（巅峰联赛、对boss不生效）持续**4**秒，冷却**30**秒；\r\n成功释放剑诀**•** 凌玄影后使自身散发**寒气**，每秒对附近目标造成**68%***攻击力伤害，并使目标移动速度降低**30%**（巅峰联赛、对boss不生效）；\r\n释放剑诀**•** 凌玄影完成后自身生成最大数量**冰刃**，每**7.5**秒对当前锁定目标发射**1**柄，命中目标造成**360%***攻击力伤害与**温度降低**效果，**冰刃**初始至多可生成**3**柄，非战斗状态下清除全部冰刃。\r\n**温度降低**：每**3**秒对附近目标造成**240%***攻击力伤害，持续**12**秒。",
+					"icon": "skill_linghan_skill",
+					"id": "GA_FPlayerLinghanSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "剑诀**•** 冰归啸",
+					"description": "当**武器充能满**或触发**幻时**时，从其他武器切换到该武器时**清除自身负面状态**，召唤剑阵使自身周围寒冷席卷，对附近目标最多造成**844.5%***攻击力+**5067**点伤害，随后会召唤白虎造成**1971%***攻击力+**11825**点伤害，期间免疫伤害持续**1.5**秒（巅峰联赛不生效）。\r\n **被动**：剑诀**•** 冰归啸命中后获得**8%**最终伤害提升，持续**30**秒。",
+					"icon": "skill_linghan_changeskill",
+					"id": "GA_FPlayerLinghanChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**寒冰共鸣**：装备**2**把及以上寒冰武器触发，提升**15%**冰攻和**25%**冰抗，装备后后台可生效，同类效果不叠加。\r\n**极寒-脱手**：释放**剑诀**•** 凌玄影**后，每秒对命中目标造成**70%***冰攻+**10%***自身最大生命值+**36%***各元素抗性之和+**1.35%***暴击点伤害，持续**30**秒，多个脱手伤害不叠加，极寒伤害视为技能伤害，若装备任意**1**把雷电/火焰/物理武器，则极寒伤害提升至**1.3**倍。此外，极寒伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "None"
+			},
+			{
+				"description": "发射**冰刃**后自身冰攻提升**10%**，每秒对附近目标造成**80%***攻击力伤害，持续**30**秒。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "当前武器的基础攻击成长+**16%**",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "**冰刃**生成数量上限提升至**4**柄，**温度降低**伤害基础倍率提升至**360%**；\r\n若**6**秒内受到**温度降低**效果影响的仅有目标自身，则对目标额外添加**封脉**效果，移动速度降低**30%**（巅峰联赛、对boss不生效），若目标**封脉**期间再次受到**冰刃**伤害，可触发冰爆，造成**17%***攻击力+**2%**目标已损失生命值的技能伤害（冰爆伤害不低于玩家**20%**冰攻且不高于玩家**22%**冰攻），并移除目标的**封脉**与**温度降低**效果。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "当前武器的基础攻击成长+**32%**",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "**晶裂**、**寒气**造成的伤害额外提升**50%**，**翩跹落**使用上限提升至**10**次，回复效率提升至每**3**秒回复**1**次使用次数。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			},
+			{
+				"description": "发射**冰刃**添加的**温度降低**效果变为范围添加，并对附近目标额外造成**990%***攻击力伤害。",
+				"stats": {
+					"shatter": 16,
+					"charge": 8
+				},
+				"need": "Linghan_ice_plasm"
+			}
+		],
+		"id": "Linghan_ice"
+	},
 	"Suspension_thunder": {
-		"name": "วีนัส",
+		"name": "启明星",
 		"avatar": {
 			"name": "奈美西斯",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_17L1",
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
 			"avatarID": "Avatar06",
 			"id": "imitation_17"
 		},
-		"description": "ไม่มีใครทราบว่าใครเป็นผู้ออกแบบ และแปลนต้นแบบก็หายไปแล้ว ปืน EM ลอยได้แบบพิเศษนี้ มีระบบประหยัดพลังไฟฟ้าที่มีเอกลักษณ์เฉพาะอยู่ภายใน มันจะพังหากใช้งานมากเกินไป และการซ่อมก็เป็นเรื่องน่าปวดหัว ดูเหมือนว่าโคบอลต์-บี จากเบนเจสเทคจะสามารถซ่อมได้",
+		"description": "设计者不明，原型蓝图已流失的特制悬浮电磁炮，内部有独特的电气储蓄工艺，一旦用坏维修起来极其麻烦，但班吉斯重工的钴蓝似乎能做到。",
 		"icon": "item_Weapon_SSR_naimxs_Thunder01",
 		"gachaIcon": "SSR_lh_nmxs",
 		"rarity": "SSR",
@@ -3281,17 +3421,16 @@
 		"id": "Suspension_thunder"
 	},
 	"Frigg_ice": {
-		"name": "บาลมุงก์",
+		"name": "巴尔蒙克",
 		"avatar": {
 			"name": "弗丽嘉",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_28L1",
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
 			"avatarID": "Avatar12",
 			"id": "imitation_28"
 		},
-		"description": "ดาบใหญ่และกระบี่ประจำตัวของฟริกก์ ผู้เป็นทูตสวรรค์ปรานี อาวุธสองเล่มนี้ถูกผลิตขึ้นมาให้เข้ากับร่างไซบอร์กของฟริกก์ แม้พวกมันจะไม่เหมือนกัน และไม่ใช่อาวุธเล่มเดียวกัน แต่ฟริกก์ก็เรียกพวกมันแบบรวมๆ ว่าบาลมุงก์",
+		"description": "专属于赦免天使弗丽嘉的大剑与佩刀，制造时对弗丽嘉的机械躯体进行了适配。两把武器虽然并不是一体的，不过弗丽嘉将它们统称为巴尔蒙克。",
 		"icon": "item_Weapon_SSR_frigg_Ice01",
 		"gachaIcon": "SSR_lh_flj",
 		"rarity": "SSR",
@@ -3429,17 +3568,16 @@
 		"id": "Frigg_ice"
 	},
 	"funnel_fire": {
-		"name": "สปาร์ก",
+		"name": "斯帕克",
 		"avatar": {
 			"name": "蕾贝",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_21L1",
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
 			"avatarID": "leibei",
 			"id": "imitation_21"
 		},
-		"description": "อาวุธพิเศษที่หลินขอให้แผนกวิจัยและพัฒนามิเรอเรียสร้างให้รูบี้ ฟังก์ชันหลักของมันได้แก่ ทำงานเป็นคนทำความสะอาดในเกมสมมติ ปลุกรูบี้ตอนเช้า นำทางรูบี้... และที่สำคัญที่สุดคือปกป้องรูบี้",
+		"description": "凛夜拜托镜都研发部门为蕾贝特制的武器，主要功能有：过家家时管家担当、早上叫蕾贝起床、为蕾贝带路……噢噢，最重要的当然是，保护蕾贝。",
 		"icon": "item_Weapon_SSR_funnel_Fire01",
 		"gachaIcon": "SSR_lh_leibei",
 		"rarity": "SSR",
@@ -3508,7 +3646,7 @@
 			"skill": [
 				{
 					"name": "火花撞撞",
-					"description": "斯帕克向前方射出【火花】存在15秒，在目标和玩家之间反弹并首次命中使目标动作速率减缓（非强控）持续**4**秒冷却**15**秒，距离越远伤害越高，命中敌人最多可造成**350%***攻击力+**4200**点伤害并施加【炙热】标记持续**25**秒，同时释放4颗子弹，每颗子弹对目标造成**50%***攻击力+**300**点伤害；斯帕克对【炙热】标记的目标普攻伤害提高**30%**。若目标存在自己施加的灼烧，则在【火花】命中时触发一次灼烧或点燃剩余总伤害**45%**的额外伤害（多个灼烧或点燃合并计算）且后续会自动结算一次，,结算冷却**6**秒,技能冷却**30**秒。\r\n**被动**：【火花】存在期间，斯帕克普攻/火花每造成1次伤害，玩家累积**1**点【热能】冷却**0.9**秒，至多积累**8**点，当【热能】达到上限时，玩家获得【极限热能】效果，火攻增加**10%**持续**25**秒。",
+					"description": "斯帕克向前方射出【火花】存在15秒，在目标和玩家之间反弹并首次命中使目标动作速率减缓（非强控）持续**4**秒冷却**15**秒，距离越远伤害越高，命中敌人最多可造成**380%***攻击力+**4200**点伤害并施加【炙热】标记持续**25**秒，同时释放4颗子弹，每颗子弹对目标造成**50%***攻击力+**300**点伤害；斯帕克对【炙热】标记的目标普攻伤害提高**30%**。若目标存在自己施加的灼烧，则在【火花】命中时触发一次灼烧或点燃剩余总伤害**45%**的额外伤害（多个灼烧或点燃合并计算）且后续会自动结算一次，,结算冷却**6**秒,技能冷却**30**秒。\r\n**被动**：【火花】存在期间，斯帕克普攻/火花每造成1次伤害，玩家累积**1**点【热能】冷却**0.9**秒，至多积累**8**点，当【热能】达到上限时，玩家获得【极限热能】效果，火攻增加**10%**持续**25**秒。",
 					"icon": "funnel_skill",
 					"id": "GA_FPlayerFunnelSkillFire"
 				}
@@ -3583,17 +3721,16 @@
 		"id": "funnel_fire"
 	},
 	"Dkatana_ice": {
-		"name": "กระแสหฤทัย",
+		"name": "流泉彻心",
 		"avatar": {
 			"name": "不破咲",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_22L1",
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
 			"avatarID": "bupoxiao",
 			"id": "imitation_22"
 		},
-		"description": "ดาบทาจิพิเศษที่ปรับตัวเข้ากับการทดลองซูเปอร์โฟลว์ มันสามารถสัมผัสได้ถึงสภาวะจิตใจของผู้ใช้และสร้างเงาดาบเพื่อช่วยต่อสู้ในเวลาที่เหมาะสม",
+		"description": "应对超心流实验的特种作战太刀武器，能感知使用者的精神状态，在恰当时机可以生成辅助作战用途的「剑影」。",
 		"icon": "item_Weapon_SSR_dkatana_Ice01",
 		"gachaIcon": "SSR_lh_bupoxiao",
 		"rarity": "SSR",
@@ -3676,7 +3813,7 @@
 			"discharge": [
 				{
 					"name": "彻心莲华",
-					"description": "当**武器充能满**或触发**幻时**时，从其他武器切换到该武器时**清除自身负面状态**，向目标冲刺并发动一套连击，共造成**536%***攻击力+**3216**伤害。",
+					"description": "当**武器充能满**或触发**幻时**时，从其他武器切换到该武器时**清除自身负面状态**，向目标冲刺并发动一套连击，共造成**590%***攻击力+**3216**伤害。",
 					"icon": "skill_dkatana_changeskill",
 					"id": "GA_FPlayerDkatanaChangeSkill_Success"
 				}
@@ -3743,17 +3880,16 @@
 		"id": "Dkatana_ice"
 	},
 	"fan_superpower": {
-		"name": "ชาโดว์วีฟ",
+		"name": "影织",
 		"avatar": {
-			"name": "หลิน",
-			"description": "พื้นที่ปริศนา",
+			"name": "凛夜",
 			"advanceId": "imitation_23L1",
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
 			"avatarID": "linye",
 			"id": "imitation_23"
 		},
-		"description": "การออกแบบเบื้องต้นแสดงให้เห็นอาวุธขนาดเบาและปกปิดมิดชิด แต่มันเปลี่ยนเป็นดาบใหญ่ตามคำขอของผู้ใช้ มันมีน้ำหนักมากและไม่เป็นอาวุธลับเลย",
+		"description": "最开始打算设计成更为小巧轻便的暗器，但在使用者本人的要求下，改装成了这副形似于一把剑的厚重姿态。沉甸甸的，完全不像是暗器该有的样子。",
 		"icon": "item_Weapon_SSR_fan_superpower01",
 		"gachaIcon": "SSR_lh_linye",
 		"rarity": "SSR",
@@ -3901,17 +4037,16 @@
 		"id": "fan_superpower"
 	},
 	"tianlang_thunder": {
-		"name": "ธันเดอร์เบรกเกอร์",
+		"name": "破钧",
 		"avatar": {
-			"name": "เทียนหลาง",
-			"description": "พื้นที่ปริศนา",
+			"name": "天琅",
 			"advanceId": "imitation_29L1",
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
 			"avatarID": "tianlang",
 			"id": "imitation_29"
 		},
-		"description": "หอกยาวที่ปกคลุมไปด้วยสายฟ้านี้คือ SMA1-TS000-ธันเดอร์เบรกเกอร์ มันสามารถปลดปล่อยพลังงานที่เก็บไว้ด้วยวิธีที่เกินจินตนาการ สนามไฟฟ้าที่มันสร้างขึ้นจะรบกวนจิตใจของผู้ครอบครอง ดังนั้นคนทั่วไปจึงไม่สามารถใช้มันได้",
+		"description": "满溢着雷霆的长枪，代号SMA1-TS00-破钧，能将储存的能量以匪夷所思的形式释放出来。由于破钧生成的电场会干扰使用者的思维，以至于常人无法驾驭。",
 		"icon": "item_Weapon_SSR_Tianlang_Thunder01",
 		"gachaIcon": "SSR_lh_tianlang",
 		"rarity": "SSR",
@@ -3940,7 +4075,7 @@
 				},
 				{
 					"name": "武曲",
-					"description": "在地面时，使用破钧进行6次攻击。\r\n第一次攻击对目标可造成**90.5%***攻击力+**543**点伤害，并击退目标。\r\n第二次攻击对目标可造成**67.9%***攻击力+**407**点伤害，并击退目标。\r\n第三次攻击对目标可造成**123%***攻击力+**738**点伤害，并击退目标。\r\n第四次攻击对目标可造成**217.9%***攻击力+**1307**点伤害，并击退目标。\r\n第五次攻击对目标可造成**222%***攻击力+**1332**点伤害，并击退目标。\r\n第六次攻击对目标可造成**291.8%***攻击力+**1751**点伤害，并击飞目标。",
+					"description": "在地面时，使用破钧进行6次攻击。\r\n第一次攻击对目标可造成**99.3%***攻击力+**543**点伤害，并击退目标。\r\n第二次攻击对目标可造成**73.2%***攻击力+**407**点伤害，并击退目标。\r\n第三次攻击对目标可造成**135.8%***攻击力+**738**点伤害，并击退目标。\r\n第四次攻击对目标可造成**240.5%***攻击力+**1307**点伤害，并击退目标。\r\n第五次攻击对目标可造成**240.1%***攻击力+**1332**点伤害，并击退目标。\r\n第六次攻击对目标可造成**314.1%***攻击力+**1751**点伤害，并击飞目标。",
 					"icon": "skill_tianlang_melee",
 					"id": "GA_PlayerTianLangMelee_Melee"
 				},
@@ -4055,17 +4190,16 @@
 		"id": "tianlang_thunder"
 	},
 	"arm_physic": {
-		"name": "เวสเปอร์",
+		"name": "晚祷",
 		"avatar": {
-			"name": "ไลร่า",
-			"description": "พื้นที่ปริศนา",
+			"name": "星寰",
 			"advanceId": "imitation_24L1",
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
 			"avatarID": "xinghuan",
 			"id": "imitation_24"
 		},
-		"description": "อาวุธซัพพอร์ตที่ปรับแต่งมาเพื่อบุคลากรภายในของมูลนิธิเมดิลีน คุณเมดิลีนเชื่อว่าไลร่าจะใช้มันได้อย่างเหมาะสม",
+		"description": "为某位麦德琳基金会内部人员定制的辅助型作战武器。麦德琳女士相信星寰能够得体、恰当地发挥它的真正用途。",
 		"icon": "item_Weapon_SSR_Arm_Physic01",
 		"gachaIcon": "SSR_lh_xinghuan",
 		"rarity": "SSR",
@@ -4146,13 +4280,13 @@
 				},
 				{
 					"name": "星落",
-					"description": "跃向目标，对目标造成**702.1%***攻击力+**4212**点伤害，**强控浮空**目标，并给目标添加「悔悟」标记持续**18**秒，冷却**20**秒。",
+					"description": "跃向目标，对目标造成**771%***攻击力+**4212**点伤害，**强控浮空**目标，并给目标添加「悔悟」标记持续**18**秒，冷却**20**秒。",
 					"icon": "skill_arm_airattack2",
 					"id": "GA_FPlayerArmPublishSkillPhy"
 				},
 				{
 					"name": "辉起",
-					"description": "重击地面，**强控击飞**面前的目标造成**702.1%***攻击力+**4212**点伤害，并召唤**锋芒**最多存在**3**个，持续**75**秒（锋芒附近2米范围内最多存在1个），该技能最多可累积使用**3**次，单次冷却时间**20**秒；当场上存在2个**锋芒**时，创建一个**清晖**，每次触碰**锋芒**，对移动距离半径内的目标进行一次治疗，恢复目标攻击力**25%**的生命；当场上存在3个**锋芒**时，创建一个**星云**，每次触碰**锋芒**，对移动距离半径内的目标造成（**150%***攻击力*移动距离/**5**米）点伤害。",
+					"description": "重击地面，**强控击飞**面前的目标造成**771%***攻击力+**4212**点伤害，并召唤**锋芒**最多存在**3**个，持续**75**秒（锋芒附近2米范围内最多存在1个），该技能最多可累积使用**3**次，单次冷却时间**20**秒；当场上存在2个**锋芒**时，创建一个**清晖**，每次触碰**锋芒**，对移动距离半径内的目标进行一次治疗，恢复目标攻击力**25%**的生命；当场上存在3个**锋芒**时，创建一个**星云**，每次触碰**锋芒**，对移动距离半径内的目标造成（**150%***攻击力*移动距离/**5**米）点伤害。",
 					"icon": "skill_arm_skill2",
 					"id": "GA_FPlayerArmLawSkillPhy"
 				}
@@ -4229,8 +4363,7 @@
 	"Rubilia_thunder": {
 		"name": "绝响",
 		"avatar": {
-			"name": "รูบิเลีย",
-			"description": "พื้นที่ปริศนา",
+			"name": "蕾比莉亚",
 			"advanceId": "imitation_48L1",
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
@@ -4395,8 +4528,7 @@
 	"iceblade_ice": {
 		"name": "不灭之翼",
 		"avatar": {
-			"name": "อลิส",
-			"description": "พื้นที่ปริศนา",
+			"name": "艾莉丝",
 			"advanceId": "imitation_30L1",
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
@@ -4555,8 +4687,7 @@
 	"Snipe_fire": {
 		"name": "四叶十字",
 		"avatar": {
-			"name": "แอนนาเบลลา",
-			"description": "พื้นที่ปริศนา",
+			"name": "安娜贝拉",
 			"advanceId": "imitation_26L1",
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
@@ -4704,7 +4835,6 @@
 		"name": "松彗",
 		"avatar": {
 			"name": "榴火",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_37L1",
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
@@ -4879,17 +5009,16 @@
 		"id": "brush_fire"
 	},
 	"Whip_physic": {
-		"name": "โมเบียส",
+		"name": "莫比乌斯",
 		"avatar": {
-			"name": "อูมิ",
-			"description": "พื้นที่ปริศนา",
+			"name": "乌米",
 			"advanceId": "imitation_31L1",
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
 			"avatarID": "wumi",
 			"id": "imitation_31"
 		},
-		"description": "แส้ยาวที่ อูมิ ผู้ปฏิบัติการคนใหม่ใช้เป็นประจำ จุดที่อูมิพึงพอใจในอาวุธนี้ที่สุดก็คือ มันจะไม่ทำเธอสะดุดล้ม... ในสถานการณ์ปกติน่ะนะ",
+		"description": "新人执行者乌米惯用的长鞭。乌米对其最满意的一点在于，一般情况下它不会把自己绊一跤。",
 		"icon": "item_Weapon_SSR_Whip_Phy01",
 		"gachaIcon": "SSR_lh_wumi",
 		"rarity": "SSR",
@@ -5054,7 +5183,6 @@
 		"name": "重蕊",
 		"avatar": {
 			"name": "妃色",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_51L1",
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
@@ -5128,7 +5256,7 @@
 				},
 				{
 					"name": "散华",
-					"description": "方向键加闪避键触发的前闪避短暂时间内，点击普攻，可触发散华，对附近目标造成**209%***攻击力+**1254**点伤害。\r\n\r\n**扶摇**生成的**蜃楼**幻境持续期间，任意武器的闪避攻击首次命中目标后，触发移花效果，生成妃色幻象与莲瓣。\r\n**妃色幻象**：生成时，妃色幻象复制目标**25%**最大攻击力转化为拓荒者自身**基础火攻**（不低于**3300**且不超**3450**，该火攻不显示在拓荒者人物属性中，巅峰联赛不生效）直至妃色幻象消失，每个妃色幻象独立计算，场上至多存在**1**个妃色幻象。\r\n**莲瓣**：生成时，莲瓣数量等同于当前场上除重蕊外其他自身武器生成的召唤物数量，生成后，莲瓣数量不随场上召唤物数量的变化而变化。莲瓣属于召唤物。",
+					"description": "方向键加闪避键触发的前闪避短暂时间内，点击普攻，可触发散华，对附近目标造成**209%***攻击力+**1254**点伤害。\r\n\r\n**扶摇**生成的**蜃楼**幻境持续期间，任意武器的闪避攻击首次命中目标后，触发移花效果，生成妃色幻象与莲瓣。\r\n**妃色幻象**：生成时，妃色幻象复制目标**25%**最大攻击力转化为拓荒者自身**基础火攻**（不低于**6500**且不超**10000**，该火攻不显示在拓荒者人物属性中，巅峰联赛不生效）直至妃色幻象消失，每个妃色幻象独立计算，场上至多存在**1**个妃色幻象。\r\n**莲瓣**：生成时，莲瓣数量等同于当前场上除重蕊外其他自身武器生成的召唤物数量，生成后，莲瓣数量不随场上召唤物数量的变化而变化。莲瓣属于召唤物。",
 					"icon": "feise_evadefront",
 					"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 				},
@@ -5142,7 +5270,7 @@
 			"skill": [
 				{
 					"name": "扶摇",
-					"description": "对附近目标造成**1008%***攻击力+**6047**点伤害，并生成蜃楼幻境，至多持续**25**秒。\r\n扶摇处于冷却状态时，获得新技能惊鸿，蜃楼持续**20**秒后可释放惊鸿。\r\n蜃楼消失后，立即刷新扶摇的冷却时间，且不受任何其它冷却时间清除、重置、变化效果的影响。\r\n\r\n蜃楼持续期间：\r\n每秒对其中目标造成**135%***攻击力点心蚀伤害,心蚀伤害视为普攻伤害；\r\n每**5**秒对其中目标添加心燚状态，每秒造成**20%***攻击力点灼烧伤害，持续**5**秒，蜃楼中每有**1**个自身生成的**妃色幻象**或**莲瓣**，心燚伤害额外提升**6%**。",
+					"description": "对附近目标造成**1008%***攻击力+**6047**点伤害，并生成蜃楼幻境，至多持续**25**秒。\r\n扶摇处于冷却状态时，获得新技能惊鸿，蜃楼持续**20**秒后可释放惊鸿。\r\n蜃楼消失后，立即刷新扶摇的冷却时间，且不受任何其它冷却时间清除、重置、变化效果的影响。\r\n\r\n蜃楼持续期间：\r\n每秒对其中目标造成**135%***攻击力点心蚀伤害,心蚀伤害视为普攻伤害；\r\n每**5**秒对其中目标添加心燚状态，每秒造成**20%***攻击力点灼烧伤害，持续**5**秒，蜃楼中每有**1**个自身生成的**妃色幻象**或**莲瓣**，心燚伤害额外提升**15%**。",
 					"icon": "feise_skill1",
 					"id": "GA_FPlayerFeiseSkill_Skill1"
 				},
@@ -5156,7 +5284,7 @@
 			"discharge": [
 				{
 					"name": "瑶池无双",
-					"description": "当**武器充能满**或触发**幻时**时，从其他武器切换到该武器时**清除自身负面状态**，造成**1090%***攻击力+**6539**点伤害，期间免疫伤害持续**1.5**秒（巅峰联赛不生效）。",
+					"description": "当**武器充能满**或触发**幻时**时，从其他武器切换到该武器时**清除自身负面状态**，造成**1090%***攻击力+**6539**点伤害，期间免疫伤害持续**2.6**秒（巅峰联赛不生效）。",
 					"icon": "feise_changeskill",
 					"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 				}
@@ -5164,7 +5292,7 @@
 		},
 		"stars": [
 			{
-				"description": "**火焰共鸣**：装备**2**把及以上火焰武器触发，提升**15%**火攻和**25%**火抗，装备后后台可生效，同类效果不叠加。\r\n**爆炎-速切**：装备**重蕊**时，任意武器连携技命中后，对附近目标初始造成**5%***火攻+**8%***自身最大生命值+**3%***各元素抗性之和+**10%***暴击值点伤害，战斗状态下每间隔**0.5**秒，下次速切伤害额外提升**1**倍，至多提升**30**次，存在多个速切伤害时取最大初始值计算，爆炎-速切伤害为连携伤害，若装备任意**1**把寒冰/雷电/物理武器，则爆炎伤害提升至**2.5**倍。此外，爆炎伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。",
+				"description": "**火焰共鸣**：装备**2**把及以上火焰武器触发，提升**20%**火攻和**40%**火抗，装备后后台可生效（多个火焰共鸣/火焰反应不叠加，优先生效火焰共鸣）。\r\n**爆炎-速切**：装备**重蕊**时，任意武器连携技命中后，对附近目标初始造成**38%***火攻+**1%***自身最大生命值+**19%***各元素抗性之和+**69%***暴击值点伤害，战斗状态下每间隔**0.5**秒，下次速切伤害额外提升**1**倍，至多提升**30**次，存在多个速切伤害时取最大初始值计算，爆炎-速切伤害为连携伤害，若装备任意**1**把寒冰/雷电/物理武器，则爆炎伤害提升至**1.3**倍。此外，爆炎伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5172,7 +5300,7 @@
 				"need": "None"
 			},
 			{
-				"description": "**心燚**伤害的基础倍率提升至**60%***攻击力，战斗状态下，若自身添加过多个灼烧状态，**心燚**伤害的基础倍率额外提升至其中的最高基础倍率。",
+				"description": "**心燚**伤害的基础倍率提升至**120%***攻击力，战斗状态下，若自身添加过多个灼烧状态，**心燚**伤害的基础倍率额外提升至其中的最高基础倍率。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5204,7 +5332,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "**蜃楼**中每有**1**个**妃色幻象**或**莲瓣**，**心燚**伤害额外提升**12%**。\r\n释放**莲步飞天**耐力消耗减少**75%**。",
+				"description": "**蜃楼**中每有**1**个**妃色幻象**或**莲瓣**，**心燚**伤害额外提升**15%**。\r\n释放**莲步飞天**耐力消耗减少**75%**。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5212,7 +5340,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "**心蚀**伤害的基础倍率提升至**270%***攻击力，破盾效率翻倍，并且命中目标后**15%**概率添加**2**秒**65%**迟缓（组队玩法中对BOSS不生效，巅峰联赛不生效）效果。",
+				"description": "**心蚀**伤害的基础倍率提升至**900%***攻击力，破盾效率翻倍，并且命中目标后**15%**概率添加**2**秒**65%**迟缓（组队玩法中对BOSS不生效，巅峰联赛不生效）效果。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5225,8 +5353,7 @@
 	"fenrir_thunder": {
 		"name": "格莱普尼",
 		"avatar": {
-			"name": "เฟนรีร์",
-			"description": "พื้นที่ปริศนา",
+			"name": "芬璃尔",
 			"advanceId": "imitation_32L1",
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
@@ -5389,17 +5516,16 @@
 		"id": "fenrir_thunder"
 	},
 	"umbrella_fire": {
-		"name": "เวอร์มิลเลี่ยนเบิร์ด",
+		"name": "陵光",
 		"avatar": {
-			"name": "หลาน",
-			"description": "พื้นที่ปริศนา",
+			"name": "岚",
 			"advanceId": "imitation_34L1",
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
 			"avatarID": "lan",
 			"id": "imitation_34"
 		},
-		"description": "อาวุธร่มที่หงส์เพลิงใช้โดยเฉพาะ มันมีกลไกต่าง ๆ ซ่อนอยู่ ด้วยตัวร่มขนาดใหญ่ เวอร์มิลเลี่ยนเบิร์ดไม่เพียงเป็นเครื่องมือทรงพลังในการทำลายศัตรูด้วยการปล่อยพลังงานเท่านั้น แต่ยังเป็นสิ่งที่บังสายตาของผู้อื่นและซ่อนพฤติกรรมของผู้ถือ...",
+		"description": "朱雀专用的伞式武具，内有各式机关。有着庞大伞身的陵光既能成为释放能量消灭敌人的利器，也能成为阻挡他人视线、隐藏自己举止的工具……",
 		"icon": "item_Weapon_SSR_umbrella_Fire01",
 		"gachaIcon": "SSR_lh_lan",
 		"rarity": "SSR",
@@ -5555,17 +5681,16 @@
 		"id": "umbrella_fire"
 	},
 	"Yoyo_ice": {
-		"name": "เพรชเชิสวัน",
+		"name": "片光零羽",
 		"avatar": {
 			"name": "伊卡洛斯",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_35L1",
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
 			"avatarID": "yikaluosi",
 			"id": "imitation_35"
 		},
-		"description": "อาวุธสะสมหายาก ที่ผสมผสานกับการดัดแปลงที่ทันสมัยไม่ซ้ำใคร ขอให้ผู้ใช้มีความกล้าหาญที่จะก้าวไปข้างหน้าอย่างไม่หวั่นกลัวในพื้นที่รกร้างอันมืดมิด ทะยานสู่แสงสว่าง และเผชิญหน้ากับน้ำแข็งและเปลวเพลิง",
+		"description": "结合潮流改装的独特武器，数量零星的珍藏品。愿使用者拥有在漆黑荒野中无畏前行的勇气，纵翎羽逐日，纵寒冰扑火。",
 		"icon": "item_Weapon_SSR_yoyo_Ice01",
 		"gachaIcon": "SSR_lh_yikaluosi",
 		"rarity": "SSR",
@@ -5715,17 +5840,16 @@
 		"id": "Yoyo_ice"
 	},
 	"yulan_ice": {
-		"name": "ยูนิตี้",
+		"name": "骈臻",
 		"avatar": {
 			"name": "玉兰",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_38L1",
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
 			"avatarID": "yulan",
 			"id": "imitation_38"
 		},
-		"description": "\"ยูนิตี้\" หมายถึง \"รวมเข้าด้วยกัน\" อาวุธที่จีหยู่เลือกให้หยู่หลานนั้นถือว่าเป็นอาวุธที่รวบรวมเทคโนโลยีล่าสุดทั้งหมดของอาณาเขตที่ 9 มาใช้ เพราะฉะนั้นอย่าตกใจไปถ้าเห็นอะไรดูน่ามหัศจรรย์หลังจากใช้ผนึกเวลา",
+		"description": "「骈臻」之意为「并至」，姬玉亲自为玉兰挑选的武器，凝聚了九域最新技术，调用时章力量后若是看到一些神奇的景象也请不必惊讶。",
 		"icon": "item_Weapon_SSR_yulan_Ice01",
 		"gachaIcon": "SSR_lh_yulan",
 		"rarity": "SSR",
@@ -5907,8 +6031,7 @@
 	"Zeke_physic": {
 		"name": "执明",
 		"avatar": {
-			"name": "หมิงจิ่ง",
-			"description": "พื้นที่ปริศนา",
+			"name": "明景",
 			"advanceId": "imitation_50L1",
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
@@ -6074,7 +6197,6 @@
 		"name": "月星钏",
 		"avatar": {
 			"name": "菲欧娜",
-			"description": "พื้นที่ปริศนา",
 			"advanceId": "imitation_36L1",
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",
