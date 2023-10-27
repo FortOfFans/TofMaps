@@ -384,6 +384,33 @@
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
+			"age": "July 9",
+			"gender": "Female",
+			"state": "Hykros Medical Department",
+			"city": "Banges",
+			"rating": "wuwei_imitation_14",
+			"gp": [
+				"everydayObjects",
+				"decorate",
+				"collection"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王雅欣"
+				},
+				{
+					"Japanese": "CV : 能登 麻美子"
+				},
+				{
+					"English": "CV : Kayli Mills"
+				},
+				{
+					"Korean": "CV : 김가령"
+				},
+				{
+					"Portuguese": "CV : Flávia Narciso"
+				}
+			],
 			"id": "imitation_14"
 		},
 		"description": "A mechanical staff with a cross rune carved into it. Capable of both forgiving sins or unleashing punishments.",
@@ -535,6 +562,33 @@
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
+			"age": "April 11",
+			"gender": "Female",
+			"state": "Banges",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_15",
+			"gp": [
+				"restrictedGoods",
+				"garageKit",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 裴致莹"
+				},
+				{
+					"Japanese": "CV : 花澤 香菜"
+				},
+				{
+					"English": "CV : Kira Buckland"
+				},
+				{
+					"Korean": "CV : 윤아영"
+				},
+				{
+					"Portuguese": "CV : Bruna Matta"
+				}
+			],
 			"id": "imitation_15"
 		},
 		"description": "The most gnarly firearm ever created, also known as a moving turret.",
@@ -657,6 +711,33 @@
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
 			"avatarID": "genuonuo",
+			"age": "March 6",
+			"gender": "Female",
+			"state": "Unknown",
+			"city": "Innars",
+			"rating": "wuwei_imitation_27",
+			"gp": [
+				"Rarity",
+				"collection",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 常丹瑞"
+				},
+				{
+					"Japanese": "CV : 釘宮 理恵"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 유영"
+				},
+				{
+					"Portuguese": "CV : Nina Carvalho"
+				}
+			],
 			"id": "imitation_27"
 		},
 		"description": "Far too dangerous to be a child's plaything. There is no way a kid could have gotten their hands on it through honest means. Who knows what kind of tech was used to refit it... Maybe it was simply picked up somewhere off the beaten path.",
@@ -821,6 +902,33 @@
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
+			"age": "August 17",
+			"gender": "Female",
+			"state": "Victoria Security",
+			"city": "Crown",
+			"rating": "wuwei_imitation_2",
+			"gp": [
+				"game",
+				"decorate",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王燕华"
+				},
+				{
+					"Japanese": "CV : 小清水 亜美"
+				},
+				{
+					"English": "CV : Melissa Fahn"
+				},
+				{
+					"Korean": "CV : 박리나"
+				},
+				{
+					"Portuguese": "CV : Amanda Tavares"
+				}
+			],
 			"id": "imitation_2"
 		},
 		"description": "No one wants to be on the receiving end of this maul.",
@@ -978,6 +1086,33 @@
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
+			"age": "May 8",
+			"gender": "Female",
+			"state": "HT201 Shelter",
+			"city": "HT201 Shelter",
+			"rating": "wuwei_imitation_16",
+			"gp": [
+				"Rarity",
+				"collection",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王晓彤"
+				},
+				{
+					"Japanese": "CV : 日高 里菜"
+				},
+				{
+					"English": "CV : Xanthe Huynh"
+				},
+				{
+					"Korean": "CV : 김율"
+				},
+				{
+					"Portuguese": "CV : Adriana Pissardini"
+				}
+			],
 			"id": "imitation_16"
 		},
 		"description": "Blends perfectly into the gloomy night.",
@@ -1123,6 +1258,33 @@
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
+			"age": "August 14",
+			"gender": "Female",
+			"state": "Unknown",
+			"city": "Warren",
+			"rating": "wuwei_imitation_4",
+			"gp": [
+				"everydayObjects",
+				"restrictedGoods",
+				"game"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 曹雅雯"
+				},
+				{
+					"Japanese": "CV : 大久保 瑠美"
+				},
+				{
+					"English": "CV : Jeannie Tirado"
+				},
+				{
+					"Korean": "CV : 정유정"
+				},
+				{
+					"Portuguese": "CV : Rebeca Zadra"
+				}
+			],
 			"id": "imitation_4"
 		},
 		"description": "A halberd infused with the power of thunder. Great for burst damage, and its length makes it a great weapon for a variety of ranges.",
@@ -1281,6 +1443,33 @@
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
 			"avatarID": "wuwan",
+			"age": "December 17",
+			"gender": "Male",
+			"state": "Unknown",
+			"city": "Astra",
+			"rating": "wuwei_imitation_13",
+			"gp": [
+				"everydayObjects",
+				"garageKit",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 翟巍"
+				},
+				{
+					"Japanese": "CV : 岡本 信彦"
+				},
+				{
+					"English": "CV : Casey Mongillo"
+				},
+				{
+					"Korean": "CV : 김다올"
+				},
+				{
+					"Portuguese": "CV : Vagner Fagundes"
+				}
+			],
 			"id": "imitation_13"
 		},
 		"description": "Lethal, unpredictable and quiet.",
@@ -1433,6 +1622,32 @@
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
 			"avatarID": "meilier",
+			"age": "October 10",
+			"gender": "Female",
+			"state": "Hykros",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_3",
+			"gp": [
+				"collection",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 秦紫翼"
+				},
+				{
+					"Japanese": "CV : 石川 由依"
+				},
+				{
+					"English": "CV : Kira Buckland"
+				},
+				{
+					"Korean": "CV : 이다은"
+				},
+				{
+					"Portuguese": "CV : Patt Souza"
+				}
+			],
 			"id": "imitation_3"
 		},
 		"description": "An elegant frost blade that conjures up images of a pure white flower blooming on a snow-covered cliff.",
@@ -1597,6 +1812,33 @@
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
 			"avatarID": "sifengyuanyu",
+			"age": "March 24",
+			"gender": "Female",
+			"state": "Heirs of Aida",
+			"city": "Astra",
+			"rating": "wuwei_imitation_7",
+			"gp": [
+				"garageKit",
+				"restrictedGoods",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 徐徐"
+				},
+				{
+					"Japanese": "CV : 小原 好美"
+				},
+				{
+					"English": "CV : Amber Lee Connors"
+				},
+				{
+					"Korean": "CV : 손선영"
+				},
+				{
+					"Portuguese": "CV : Tânia Gaidarji"
+				}
+			],
 			"id": "imitation_7"
 		},
 		"description": "The arrows from this bow carry the power of frost.",
@@ -1743,6 +1985,33 @@
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
 			"avatarID": "kekelite",
+			"age": "June 1",
+			"gender": "Female",
+			"state": "Hykros Medical Department",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_11",
+			"gp": [
+				"toy",
+				"decorate",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 胡婷婷"
+				},
+				{
+					"Japanese": "CV : 鬼頭 明里"
+				},
+				{
+					"English": "CV : Lexi Fontaine"
+				},
+				{
+					"Korean": "CV : 강시현"
+				},
+				{
+					"Portuguese": "CV : Mari Guedes"
+				}
+			],
 			"id": "imitation_11"
 		},
 		"description": "Keep the cold temperature steady to heal allies.",
@@ -1896,6 +2165,33 @@
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
 			"avatarID": "KING",
+			"age": "November 3",
+			"gender": "Male",
+			"state": "Ravagers",
+			"city": "Crown",
+			"rating": "wuwei_imitation_9",
+			"gp": [
+				"collection",
+				"Rarity",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐子晰"
+				},
+				{
+					"Japanese": "CV : 松岡 禎丞"
+				},
+				{
+					"English": "CV : Johnny Young"
+				},
+				{
+					"Korean": "CV : 류승곤"
+				},
+				{
+					"Portuguese": "CV : Leonardo Camillo"
+				}
+			],
 			"id": "imitation_9"
 		},
 		"description": "A powerful scythe, great for both offense and defense. Able to instantly kill its target within a certain distance.",
@@ -2054,6 +2350,33 @@
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
 			"avatarID": "gulan",
+			"age": "June 26",
+			"gender": "Female",
+			"state": "Banges Tech",
+			"city": "Crown",
+			"rating": "wuwei_imitation_10",
+			"gp": [
+				"metal",
+				"collection",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈睿婕"
+				},
+				{
+					"Japanese": "CV : 川澄 綾子"
+				},
+				{
+					"English": "CV : Stephanie Kerbis"
+				},
+				{
+					"Korean": "CV : 김예림"
+				},
+				{
+					"Portuguese": "CV : Jussara Marques"
+				}
+			],
 			"id": "imitation_10"
 		},
 		"description": "Invented by a mad scientist. With its impressive test numbers, one can only imagine how powerful it might be at full power.",
@@ -2207,6 +2530,33 @@
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
 			"avatarID": "kelaodiya",
+			"age": "January 16",
+			"gender": "Female",
+			"state": "Hykros",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_12",
+			"gp": [
+				"everydayObjects",
+				"Rarity",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 贺文潇"
+				},
+				{
+					"Japanese": "CV : 小松 未可子"
+				},
+				{
+					"English": "CV : Elizabeth Simmons"
+				},
+				{
+					"Korean": "CV : 성예원"
+				},
+				{
+					"Portuguese": "CV : Thaís Durães"
+				}
+			],
 			"id": "imitation_12"
 		},
 		"description": "The crimson blade stands for courage and resolve, while the sharp edge carries out justice.",
@@ -2360,6 +2710,33 @@
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
 			"avatarID": "xiluo",
+			"age": "September 22",
+			"gender": "Female",
+			"state": "Unknown",
+			"city": "Warren",
+			"rating": "wuwei_imitation_8",
+			"gp": [
+				"metal",
+				"collection",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 蔡娜"
+				},
+				{
+					"Japanese": "CV : 小澤 亜李"
+				},
+				{
+					"English": "CV : Kristen McGuire"
+				},
+				{
+					"Korean": "CV : 양정화"
+				},
+				{
+					"Portuguese": "CV : Fernanda Bullara"
+				}
+			],
 			"id": "imitation_8"
 		},
 		"description": "A round and sharp weapon that traveled the seas with its owner.",
@@ -2512,6 +2889,32 @@
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
 			"avatarID": "ling",
+			"age": "June 6",
+			"gender": "Male",
+			"state": "Unknown",
+			"city": "Banges",
+			"rating": "wuwei_imitation_1",
+			"gp": [
+				"game",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 蔡海婷"
+				},
+				{
+					"Japanese": "CV : 村瀬 歩"
+				},
+				{
+					"English": "CV : Griffin Burns"
+				},
+				{
+					"Korean": "CV : 김나율"
+				},
+				{
+					"Portuguese": "CV : Henry Walnut"
+				}
+			],
 			"id": "imitation_1"
 		},
 		"description": "Users of the Strange Cube tend to think of many ways to negate unnecessary requirements.",
@@ -2665,6 +3068,32 @@
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
 			"avatarID": "saimier",
+			"age": "May 20",
+			"gender": "Female",
+			"state": "Hykros",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_5",
+			"gp": [
+				"game",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐雅菁"
+				},
+				{
+					"Japanese": "CV : 水樹 奈々"
+				},
+				{
+					"English": "CV : Brittany Cox"
+				},
+				{
+					"Korean": "CV : 서유리"
+				},
+				{
+					"Portuguese": "CV : Fernanda Bullara"
+				}
+			],
 			"id": "imitation_5"
 		},
 		"description": "These firearms are designed based on railguns, and must be used in a pair.",
@@ -2811,6 +3240,33 @@
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
 			"avatarID": "xiuma",
+			"age": "January 12",
+			"gender": "Female",
+			"state": "Hykros",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_6",
+			"gp": [
+				"everydayObjects",
+				"game",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐雅菁"
+				},
+				{
+					"Japanese": "CV : 高橋 李依"
+				},
+				{
+					"English": "CV : Colleen O Shaughnessey"
+				},
+				{
+					"Korean": "CV : 김보나"
+				},
+				{
+					"Portuguese": "CV : Marli Bortoletto"
+				}
+			],
 			"id": "imitation_6"
 		},
 		"description": "A shield axe that belongs to the V2 weapon series, a collection of weapons forged with special techniques.",
@@ -2957,6 +3413,33 @@
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
 			"avatarID": "mimi",
+			"age": "July 23",
+			"gender": "Female",
+			"state": "Tianzhang Pavilion",
+			"city": "Joltville",
+			"rating": "wuwei_imitation_41",
+			"gp": [
+				"toy",
+				"garageKit",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 裴致莹"
+				},
+				{
+					"Japanese": "CV : 新井 里美"
+				},
+				{
+					"English": "CV : Alexis Tipton"
+				},
+				{
+					"Korean": "CV : 윤은서"
+				},
+				{
+					"Portuguese": "CV : BIANCA ALENCAR"
+				}
+			],
 			"id": "imitation_41"
 		},
 		"description": "A pair of fans that contains enormous energy capable of collapsing mountains and tearing the world apart.\r\nWhen Azure Dragon mounts the clouds, the world is buffeted by the wind.",
@@ -3050,7 +3533,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Volt Resonance**: Increase volt ATK by **15%** and volt resistance by **25%**. Activate by equipping **2** or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n\r\n**Thunderboom: On-Field**: When landing any hit with **Azure Dragon**, it deals damage to nearby targets equal to **1.313%** of volt ATK plus **2%** of the Wanderer's Max HP plus **69%** of the sum of all the Wanderer's resistance types plus **2.5%** of crit. This effect can be triggered up to 1 time every **1.5** seconds. The Thunderboom damage is counted as normal attack damage. If there is **1** flame/frost/physical weapon of any kind equipped, Thunderboom damage is multiplied by **1.3** times. Additionally, Thunderboom damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+				"description": "**Volt Resonance**: Increase volt ATK by **15%** and volt resistance by **25%**. Activate by equipping **2** or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n\r\n**Thunderboom: On-Field**: When landing any hit with **Azure Dragon**, it deals damage to nearby targets equal to **131.3%** of volt ATK plus **1.9%** of the Wanderer's Max HP plus **68.8%** of the sum of all the Wanderer's resistance types plus **250%** of crit. This effect can be triggered up to 1 time every **1.5** seconds. The Thunderboom damage is counted as normal attack damage. If there is **1** flame/frost/physical weapon of any kind equipped, Thunderboom damage is multiplied by **130** times. Additionally, Thunderboom damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3116,6 +3599,33 @@
 			"weapon": "linghan_ice",
 			"icon": "imitation_43",
 			"avatarID": "linghan",
+			"age": "June 7",
+			"gender": "Female",
+			"state": "Longjian Pavilion",
+			"city": "Marshville",
+			"rating": "wuwei_imitation_43",
+			"gp": [
+				"collection",
+				"decorate",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : kiyo"
+				},
+				{
+					"Japanese": "CV : 原 由実"
+				},
+				{
+					"English": "CV : Dominique North"
+				},
+				{
+					"Korean": "CV : 김윤채"
+				},
+				{
+					"Portuguese": "CV : SAMIRA FERNANDES"
+				}
+			],
 			"id": "imitation_43"
 		},
 		"description": "With a flourish of sleeves and sword's dance divine, who can fathom the depths of this heart o' mine?",
@@ -3209,7 +3719,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Frost Resonance**: Increase frost ATK by **15%** and frost resistance by **25%**. Activate by equipping **2** or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Extreme Cold: Unload**: After using **Sword Art: Shadowy Ice**, every second, deal damage equal to **70%** of frost ATK plus **10%** of the Wanderer's Max HP plus **36%** of the sum of all the Wanderer's resistance types plus **1.35%** of crit for **30** seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is **1** volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by **1.3** times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+				"description": "**Frost Resonance**: Increase frost ATK by **15%** and frost resistance by **25%**. Activate by equipping **2** or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Extreme Cold: Unload**: After using **Sword Art: Shadowy Ice**, every second, deal damage equal to **70%** of frost ATK plus **10%** of the Wanderer's Max HP plus **36%** of the sum of all the Wanderer's resistance types plus **135%** of crit for **3000** seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is **1** volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by **130** times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3217,7 +3727,7 @@
 				"need": "None"
 			},
 			{
-				"description": "After launching **Frost Blades**, the Wanderer's frost ATK is increased by **10%** and nearby targets will be dealt damage equal to **80%** of ATK every second for **30** seconds.",
+				"description": "After launching **Frost Blades**, the Wanderer's frost ATK is increased by **0.1%** and nearby targets will be dealt damage equal to **80%** of ATK every second for **30** seconds.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3233,7 +3743,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "The Wanderer can produce up to **4** **Frost Blades** and **Temperature Reduction's** damage's base multiplier is increased to **360%**.\r\nIf the target is the only one affected by **Temperature Reduction** within **6** seconds, additionally apply **Vein Seal** to the target, reducing their speed by **30%** (unavailable in Apex League and against bosses). If the target receives **Frost Blade** damage again during **Vein Seal's** duration, trigger Icy Burst, dealing skill damage equal to **17%** of ATK plus **2%** of the target's already-lost HP at that point (Icy Burst damage will be no lower than **20%** of the Wanderer's frost ATK and no higher than **22%** of the Wanderer's frost ATK). Then, remove the **Vein Seal** and **Temperature Reduction** effects on the target.",
+				"description": "The Wanderer can produce up to **4** **Frost Blades** and **Temperature Reduction's** damage's base multiplier is increased to **360%**.\r\nIf the target is the only one affected by **Temperature Reduction** within **600** seconds, additionally apply **Vein Seal** to the target, reducing their speed by **30%** (unavailable in Apex League and against bosses). If the target receives **Frost Blade** damage again during **Vein Seal's** duration, trigger Icy Burst, dealing skill damage equal to **1700%** of ATK plus **2%** of the target's already-lost HP at that point (Icy Burst damage will be no lower than **2000%** of the Wanderer's frost ATK and no higher than **2200%** of the Wanderer's frost ATK). Then, remove the **Vein Seal** and **Temperature Reduction** effects on the target.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3275,6 +3785,33 @@
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
 			"avatarID": "Avatar06",
+			"age": "May 23",
+			"gender": "Female",
+			"state": "Angel of Clemency",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_17",
+			"gp": [
+				"toy",
+				"decorate",
+				"everydayObjects"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 宋媛媛"
+				},
+				{
+					"Japanese": "CV : 戸松 遥"
+				},
+				{
+					"English": "CV : Suzie Yeung"
+				},
+				{
+					"Korean": "CV : 이새아"
+				},
+				{
+					"Portuguese": "CV : Tatiane Keplmair"
+				}
+			],
 			"id": "imitation_17"
 		},
 		"description": "Its designer is unknown. The special hovering EM Blaster's prototype's blueprint has been lost. It contains a unique electrical saving process in its interior. It's extremely troublesome to repair when it gets worn out, but Cobalt-B of Banges Tech seems to be able to do it. ",
@@ -3428,6 +3965,32 @@
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
 			"avatarID": "Avatar12",
+			"age": "February 1",
+			"gender": "Female",
+			"state": "Angel of Clemency",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_28",
+			"gp": [
+				"metal",
+				"everydayObjects"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 杨梦露"
+				},
+				{
+					"Japanese": "CV : 伊藤 静"
+				},
+				{
+					"English": "CV : Antonia Flynn"
+				},
+				{
+					"Korean": "CV : 소연"
+				},
+				{
+					"Portuguese": "CV : Adriana Pissardini"
+				}
+			],
 			"id": "imitation_28"
 		},
 		"description": "The greatsword and the saber belonging exclusively to the Angel of Clemency, Frigg. They were adapted to Frigg's cybernetic body when they were manufactured. The two weapons are not one and the same, but Frigg refers to them collectively as Balmung.",
@@ -3575,6 +4138,33 @@
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
 			"avatarID": "leibei",
+			"age": "July 15",
+			"gender": "Female",
+			"state": "Unknown",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_21",
+			"gp": [
+				"game",
+				"toy",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 赵爽"
+				},
+				{
+					"Japanese": "CV : 小倉 唯"
+				},
+				{
+					"English": "CV : Lizzie Freeman"
+				},
+				{
+					"Korean": "CV : 이다은"
+				},
+				{
+					"Portuguese": "CV : Letícia Celini"
+				}
+			],
 			"id": "imitation_21"
 		},
 		"description": "A special weapon Lin asked Mirroria R&D to make for Ruby. Its main functions include: Acting as the housekeeper in the play-house game, waking Ruby up in the morning, and leading the way for Ruby... But most importantly, protecting Ruby. ",
@@ -3728,6 +4318,33 @@
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
 			"avatarID": "bupoxiao",
+			"age": "October 11",
+			"gender": "Female",
+			"state": "Mirroria Security Force Special Forces",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_22",
+			"gp": [
+				"metal",
+				"everydayObjects",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐小喜"
+				},
+				{
+					"Japanese": "CV : 雨宮 天"
+				},
+				{
+					"English": "CV : EmiLo"
+				},
+				{
+					"Korean": "CV : 김나율"
+				},
+				{
+					"Portuguese": "CV : Letícia Quinto"
+				}
+			],
 			"id": "imitation_22"
 		},
 		"description": "A special tachi that adapts to the Super Flow experiments. It is able to sense the user's mental state and generate Sword Shadow to assist in combat at the right time.",
@@ -3869,7 +4486,7 @@
 				"need": "Dkatana_ice_plasm"
 			},
 			{
-				"description": "Upon hitting a target with Surge, increase frost damage by **11%** for **15** seconds.\r\nUpon triggering block with Sword Shadow, reduce the frost damage dealt by nearby enemy targets by **25%** for **12** seconds.",
+				"description": "Upon hitting a target with Surge, increase frost damage by **0.11%** for **15** seconds.\r\nUpon triggering block with Sword Shadow, reduce the frost damage dealt by nearby enemy targets by **0.25%** for **12** seconds.",
 				"stats": {
 					"shatter": 13.9,
 					"charge": 8
@@ -3887,6 +4504,33 @@
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
 			"avatarID": "linye",
+			"age": "September 3",
+			"gender": "Female",
+			"state": "Hykros District 7",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_23",
+			"gp": [
+				"metal",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈婷婷"
+				},
+				{
+					"Japanese": "CV : 南條 愛乃"
+				},
+				{
+					"English": "CV : Erin Yvette"
+				},
+				{
+					"Korean": "CV : 조경이"
+				},
+				{
+					"Portuguese": "CV : Carol Valença"
+				}
+			],
 			"id": "imitation_23"
 		},
 		"description": "The initial design shows it to be a lightweight and covert concealed weapon, but it's changed to a heavy blade by the user's own request. It's heavy and not like a concealed weapon at all.",
@@ -4044,6 +4688,33 @@
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
 			"avatarID": "tianlang",
+			"age": "March 23",
+			"gender": "Male",
+			"state": "Mirroria Nursery",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_29",
+			"gp": [
+				"collection",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 淦子齐"
+				},
+				{
+					"Japanese": "CV : 石川 界人"
+				},
+				{
+					"English": "CV : Kaiji Tang"
+				},
+				{
+					"Korean": "CV : 박요한"
+				},
+				{
+					"Portuguese": "CV : Glauco Marques"
+				}
+			],
 			"id": "imitation_29"
 		},
 		"description": "This long spear covered in lightning is the SMA1-TS00-Thunderbreaker. It is able to unleash the stored power through unimaginable means. The electric field that it generates disrupts the mind of its wielder, so it cannot be mastered by ordinary people.",
@@ -4197,6 +4868,32 @@
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
 			"avatarID": "xinghuan",
+			"age": "June 23",
+			"gender": "Female",
+			"state": "Maidelin Fund",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_24",
+			"gp": [
+				"everydayObjects",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 常佳梦"
+				},
+				{
+					"Japanese": "CV : 大原 さやか"
+				},
+				{
+					"English": "CV : Ryan Bartley"
+				},
+				{
+					"Korean": "CV : 윤은서"
+				},
+				{
+					"Portuguese": "CV : Maitê Cunha"
+				}
+			],
 			"id": "imitation_24"
 		},
 		"description": "A support weapon custom-made for an insider of the Maidelin Foundation. Ms. Maidelin believes that Lyra could make proper use of it.",
@@ -4326,7 +5023,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Increase all damage dealt by Guards by **20%**, and increase the guarded target's final damage by **15%** for **10 seconds** when releasing any weapon skill or discharge under the effect of Benediction Resonance.",
+				"description": "Increase all damage dealt by Guards by **20%**, and increase the guarded target's final damage by **0.15%** for **10 seconds** when releasing any weapon skill or discharge under the effect of Benediction Resonance.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4342,7 +5039,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Forgiveness Guard: After releasing Resonance 5 times, receive **1** chance to negate lethal damage for the wielder and the guarded target. After a teammate negates lethal damage, they will consume Forgiveness Guard and recover **5%** of Max HP. Unavailable in Apex League.\r\nEnlightenment Guard: After releasing Resonance 5 times and when having Enlightenment Guard, the wielder receives **2** chances to negate lethal damage. Stack up to **5** times. After the wielder negates lethal damage, they will consume 1 stack of Enlightenment Guard and recover **5%** of Max HP. Unavailable in Apex League.",
+				"description": "Forgiveness Guard: After releasing Resonance 5 times, receive **1** chance to negate lethal damage for the wielder and the guarded target. After a teammate negates lethal damage, they will consume Forgiveness Guard and recover **0.05%** of Max HP. Unavailable in Apex League.\r\nEnlightenment Guard: After releasing Resonance 5 times and when having Enlightenment Guard, the wielder receives **2** chances to negate lethal damage. Stack up to **5** times. After the wielder negates lethal damage, they will consume 1 stack of Enlightenment Guard and recover **0.05%** of Max HP. Unavailable in Apex League.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4350,7 +5047,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "When unleashing any weapon skill or discharge, the increase of final damage and healing depends on the number of Guards. Each Guard increases final damage and healing by **2%**, up to **8%** for **25 seconds**.",
+				"description": "When unleashing any weapon skill or discharge, the increase of final damage and healing depends on the number of Guards. Each Guard increases final damage and healing by **1.6%**, up to **8%** for **2500 seconds**.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4368,6 +5065,32 @@
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
 			"avatarID": "leibiliya",
+			"age": "April 24",
+			"gender": "Female",
+			"state": "Mirroria",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_48",
+			"gp": [
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 穆雪婷"
+				},
+				{
+					"Japanese": "CV : 三石 琴乃"
+				},
+				{
+					"English": "CV : Samantha Berman"
+				},
+				{
+					"Korean": "CV : 이새벽"
+				},
+				{
+					"Portuguese": "CV : Jussara Marques"
+				}
+			],
 			"id": "imitation_48"
 		},
 		"description": "A gentle swing in the chaotic abyss will stir up a tempest that affects everyone's fate.",
@@ -4475,7 +5198,7 @@
 				"need": "None"
 			},
 			{
-				"description": "After triggering **Feedback**, every Crystamax thorn will deal damage to nearby targets equal to **66.7%** of ATK every **2** seconds for **NaN** seconds.",
+				"description": "After triggering **Feedback**, every Crystamax thorn will deal damage to nearby targets equal to **66.7%** of ATK every **2** seconds for **undefined** seconds.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4507,7 +5230,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Increase **Feedback's** Max HP recovery of Crystamax thorns to **NaN%**.",
+				"description": "Increase **Feedback's** Max HP recovery of Crystamax thorns to **undefined%**.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4515,7 +5238,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "After successfully using Harrah's Embrace, increase volt damage by an additional **NaN%** for **NaN** seconds.",
+				"description": "After successfully using Harrah's Embrace, increase volt damage by an additional **undefined%** for **undefined** seconds.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4533,6 +5256,33 @@
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
 			"avatarID": "ailisi",
+			"age": "May 28",
+			"gender": "Female",
+			"state": "Mirroria Security Force Special Forces",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_30",
+			"gp": [
+				"collection",
+				"restrictedGoods",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 杜晴晴"
+				},
+				{
+					"Japanese": "CV : 安済 知佳"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 유영"
+				},
+				{
+					"Portuguese": "CV : Michelle Giudice"
+				}
+			],
 			"id": "imitation_30"
 		},
 		"description": "Combat armor crafted with a foot-blade as its core. Powered by the user's mental energy, it is the result of cutting-edge science and technology from before the Cataclysm, and explodes with terrifying power when necessary.",
@@ -4692,6 +5442,34 @@
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
 			"avatarID": "annabeila",
+			"age": "April 28",
+			"gender": "Female",
+			"state": "Unknown",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_26",
+			"gp": [
+				"decorate",
+				"Rarity",
+				"game",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 洪海天"
+				},
+				{
+					"Japanese": "CV : 黒沢 ともよ"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 이유리"
+				},
+				{
+					"Portuguese": "CV : Ágatha Paulita"
+				}
+			],
 			"id": "imitation_26"
 		},
 		"description": "A VR multiplayer shooting game that is incredibly popular in Mirroria specially designed this exclusive gun for their top player from a certain season. The customized physical model of the gun was also sent to the player, but nobody realized it could be used just like in the game...",
@@ -4839,6 +5617,33 @@
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
 			"avatarID": "liuhuo",
+			"age": "August 19",
+			"gender": "Female",
+			"state": "Ignisville Mansion",
+			"city": "Ignisville",
+			"rating": "wuwei_imitation_37",
+			"gp": [
+				"everydayObjects",
+				"metal",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 葛子瑞"
+				},
+				{
+					"Japanese": "CV : 徳井 青空"
+				},
+				{
+					"English": "CV : Michelle Marie"
+				},
+				{
+					"Korean": "CV : 문유정"
+				},
+				{
+					"Portuguese": "CV : ISABELLA GUARNIERI"
+				}
+			],
 			"id": "imitation_37"
 		},
 		"description": "\"No violence please! Real academics wouldn't hit anyone with stationery!\" —Rong Jin",
@@ -4950,7 +5755,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Flame Resonance**: Increase flame ATK by **15%** and flame resistance by **25%**. Activate by equipping **2** or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Fiery Explosion: On-Field**: When landing any hit with **Pine Comet**, it deals damage to nearby targets equal to **1.05%** of flame ATK plus **2%** of the Wanderer's Max HP plus **55%** of the sum of all the Wanderer's resistance types plus **2%** of crit. This effect can be triggered once every **1.5** seconds. The Fiery Explosion damage is counted as normal attack damage. If there is **1** volt/frost/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by **1.3**. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+				"description": "**Flame Resonance**: Increase flame ATK by **15%** and flame resistance by **25%**. Activate by equipping **2** or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Fiery Explosion: On-Field**: When landing any hit with **Pine Comet**, it deals damage to nearby targets equal to **105%** of flame ATK plus **1.5%** of the Wanderer's Max HP plus **55%** of the sum of all the Wanderer's resistance types plus **200%** of crit. This effect can be triggered once every **1.5** seconds. The Fiery Explosion damage is counted as normal attack damage. If there is **1** volt/frost/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by **130**. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4958,7 +5763,7 @@
 				"need": "None"
 			},
 			{
-				"description": "When a **Sparrow Feather** hits a target, it triggers a spreading effect, dealing an additional area damage equal to **50%** of the total burn and incendiary damage. It also spreads the affected target's **Sparroburn** to nearby targets, refreshing the **Sparroburn** duration. The spread effect can be triggered 1 time every **5** seconds.",
+				"description": "When a **Sparrow Feather** hits a target, it triggers a spreading effect, dealing an additional area damage equal to **0.5%** of the total burn and incendiary damage. It also spreads the affected target's **Sparroburn** to nearby targets, refreshing the **Sparroburn** duration. The spread effect can be triggered 1 time every **5** seconds.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4974,7 +5779,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "When the Wanderer's HP is below **50%** of Max HP, every **0.5** seconds, consume **1** **Sparrow Feather** and recover **2%** of Max HP (increases to **3%** of Max HP in solo play) until the Wanderer's HP is full or all **Sparrow Feathers** are consumed. This effect works in the off-hand slot.",
+				"description": "When the Wanderer's HP is below **50%** of Max HP, every **0.5** seconds, consume **1** **Sparrow Feather** and recover **1.5%** of Max HP (increases to **3%** of Max HP in solo play) until the Wanderer's HP is full or all **Sparrow Feathers** are consumed. This effect works in the off-hand slot.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4998,7 +5803,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Increase flame damage by an additional **14%** when you are under **Pinnacle** state.",
+				"description": "Increase flame damage by an additional **0.14%** when you are under **Pinnacle** state.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5016,6 +5821,32 @@
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
 			"avatarID": "wumi",
+			"age": "October 20",
+			"gender": "Female",
+			"state": "Hykros District 7",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_31",
+			"gp": [
+				"game",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 刘雯"
+				},
+				{
+					"Japanese": "CV : M・A・O"
+				},
+				{
+					"English": "CV : Anne Yatco"
+				},
+				{
+					"Korean": "CV : 김연우"
+				},
+				{
+					"Portuguese": "CV : Pâmela Rodrigues"
+				}
+			],
 			"id": "imitation_31"
 		},
 		"description": "The whip favored by the new Executor, Umi. Umi's favorite part of it is that she doesn't get tripped up by it, usually.",
@@ -5129,7 +5960,7 @@
 				"need": "None"
 			},
 			{
-				"description": "When switching to Mobius, immediately gain **30** warmup points. Cooldown: **17** seconds. Upon entering Magic Trick, deal area damage equal to **8.4%** of ATK to nearby targets and reduce their physical resistance by **-10%** for **20** seconds.",
+				"description": "When switching to Mobius, immediately gain **30** warmup points. Cooldown: **17** seconds. Upon entering Magic Trick, deal area damage equal to **8.4%** of ATK to nearby targets and reduce their physical resistance by **-0.1%** for **20** seconds.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5145,7 +5976,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "When ending Magic Trick early, deal wide-area damage over **13** seconds. The current cooldown of Mobius's skill is reduced, and physical damage is increased by **25%** for a period of time (this effect does not apply to Mobius). If Magic Trick has more than **13** seconds remaining, gain an additional **200** weapon charge. The more time remaining when Magic Trick ends, the higher the area damage, the greater the skill cooldown reduction, and the longer the physical damage boost lasts. The area damage dealt is capped at **2%** of ATK (the maximum damage is dealt when the remaining time is more than **13** seconds). The maximum cooldown reduction is **13** seconds, and the physical damage boost can last up to **20** seconds.",
+				"description": "When ending Magic Trick early, deal wide-area damage over **13** seconds. The current cooldown of Mobius's skill is reduced, and physical damage is increased by **0.25%** for a period of time (this effect does not apply to Mobius). If Magic Trick has more than **13** seconds remaining, gain an additional **200** weapon charge. The more time remaining when Magic Trick ends, the higher the area damage, the greater the skill cooldown reduction, and the longer the physical damage boost lasts. The area damage dealt is capped at **2%** of ATK (the maximum damage is dealt when the remaining time is more than **13** seconds). The maximum cooldown reduction is **13** seconds, and the physical damage boost can last up to **20** seconds.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5161,7 +5992,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Gain the Psychic Puppet effect upon entering Magic Trick, increasing Mobius's physical damage boost to **15%**. During Magic Trick, recover **2%** of Max HP and **10** weapon charge every second.",
+				"description": "Gain the Psychic Puppet effect upon entering Magic Trick, increasing Mobius's physical damage boost to **15%**. During Magic Trick, recover **2%** of Max HP and **1000** weapon charge every second.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5187,6 +6018,33 @@
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
 			"avatarID": "feise",
+			"age": "August 23",
+			"gender": "Female",
+			"state": "Phantom Palace",
+			"city": "Ignisville",
+			"rating": "wuwei_imitation_51",
+			"gp": [
+				"everydayObjects",
+				"collection",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈彦亦"
+				},
+				{
+					"Japanese": "CV : 田中 理恵"
+				},
+				{
+					"English": "CV : Alexis Tipton"
+				},
+				{
+					"Korean": "CV : 강새봄"
+				},
+				{
+					"Portuguese": "CV : LUCIANA BAROLI"
+				}
+			],
 			"id": "imitation_51"
 		},
 		"description": "Some flowers conceal a lethal intent.",
@@ -5292,7 +6150,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Flame Resonance**: Increase flame ATK by **20%** and flame resistance by **40%**. Activate by equipping **2** or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance or Flame Reaction effects, with Flame Resonance taking precedence.\r\n**Fiery Explosion: Swift Cut**: When **Endless Bloom** is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to **38%** of flame ATK plus **1%** of the Wanderer's Max HP plus **19%** of the sum of all the Wanderer's resistance types plus **69%** of crit. While in combat, after every **0.5** seconds, the next Swift Cut damage will be increased by an additional **1** time, up to a maximum of **30** times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is **1** frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by **1.3** times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+				"description": "**Flame Resonance**: Increase flame ATK by **20%** and flame resistance by **40%**. Activate by equipping **2** or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance or Flame Reaction effects, with Flame Resonance taking precedence.\r\n**Fiery Explosion: Swift Cut**: When **Endless Bloom** is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to **37.5%** of flame ATK plus **0.5%** of the Wanderer's Max HP plus **18.75%** of the sum of all the Wanderer's resistance types plus **68.75%** of crit. While in combat, after every **0.5** seconds, the next Swift Cut damage will be increased by an additional **1** time, up to a maximum of **30** times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is **1** frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by **130** times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5358,6 +6216,33 @@
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
 			"avatarID": "fenlier",
+			"age": "February 13",
+			"gender": "Female",
+			"state": "Oasis Club",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_32",
+			"gp": [
+				"toy",
+				"collection",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 孙艳琦"
+				},
+				{
+					"Japanese": "CV : 丹下 桜"
+				},
+				{
+					"English": "CV : Corina Boetger"
+				},
+				{
+					"Korean": "CV : 강은애"
+				},
+				{
+					"Portuguese": "CV : Jullie"
+				}
+			],
 			"id": "imitation_32"
 		},
 		"description": "A special device that converts sound waves into attack. When the shackles are shattered, the currents of death become sharp claws that tear everything apart.",
@@ -5523,6 +6408,34 @@
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
 			"avatarID": "lan",
+			"age": "May 5",
+			"gender": "Female",
+			"state": "The Shadowguards",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_34",
+			"gp": [
+				"Rarity",
+				"everydayObjects",
+				"Vera",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈雨"
+				},
+				{
+					"Japanese": "CV : 内田 真礼"
+				},
+				{
+					"English": "CV : Sarah Wiedenheft"
+				},
+				{
+					"Korean": "CV : 박리나"
+				},
+				{
+					"Portuguese": "CV : Luiza Caspary"
+				}
+			],
 			"id": "imitation_34"
 		},
 		"description": "A parasol weapon used exclusively by Zhuque with various hidden mechanisms. Vermilion Bird's large parasol body can not only become a powerful tool to destroy enemies using energy, but also something to block the sight of others and hide the holder's demeanor...",
@@ -5662,7 +6575,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Fiery Crash and the transferred damage ignore **60%** of the target's flame resistance.\r\nFlame damage dealt by Corrosion is increased by **10%**.",
+				"description": "Fiery Crash and the transferred damage ignore **60%** of the target's flame resistance.\r\nFlame damage dealt by Corrosion is increased by **0.1%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -5670,7 +6583,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Increase the damage dealt by Dancing Flames and Soaring Strike by **50%**.\r\nThe multiplier for rapidly spinning parasols, Phoenix Sweep, and Fiery Crash is now Polyfeather Parasol plus **2**.",
+				"description": "Increase the damage dealt by Dancing Flames and Soaring Strike by **0.5%**.\r\nThe multiplier for rapidly spinning parasols, Phoenix Sweep, and Fiery Crash is now Polyfeather Parasol plus **2**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -5688,6 +6601,34 @@
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
 			"avatarID": "yikaluosi",
+			"age": "October 24",
+			"gender": "Male",
+			"state": "Mooke Squad",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_35",
+			"gp": [
+				"collection",
+				"metal",
+				"Vera",
+				"Asshai"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 沐霏"
+				},
+				{
+					"Japanese": "CV : 梶原 岳人"
+				},
+				{
+					"English": "CV : RyMcKeand"
+				},
+				{
+					"Korean": "CV : 김유림"
+				},
+				{
+					"Portuguese": "CV : Úrsula Bezerra"
+				}
+			],
 			"id": "imitation_35"
 		},
 		"description": "A rare collectible weapon fused with unique trendy refits. May the wielder walk with courage into the desolate darkness, even if like a moth to the flame.",
@@ -5789,7 +6730,7 @@
 				"need": "None"
 			},
 			{
-				"description": "When any weapon skill is used, Speedy Yo-yo can trigger **harmony**, dealing damage to nearby targets equal to **NaN%** of the Wanderer's lost HP. The damage dealt shall be no less than **NaN%** of the Wanderer's Max ATK, and no more than **NaN%** of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.\r\nWhen any weapon discharge is used, Speedy Yo-yo can trigger **tuning**, dealing damage to nearby targets equal to **NaN%** of the Wanderer's Max HP. The damage dealt shall be no more than **NaN%** of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.",
+				"description": "When any weapon skill is used, Speedy Yo-yo can trigger **harmony**, dealing damage to nearby targets equal to **undefined%** of the Wanderer's lost HP. The damage dealt shall be no less than **undefined%** of the Wanderer's Max ATK, and no more than **undefined%** of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.\r\nWhen any weapon discharge is used, Speedy Yo-yo can trigger **tuning**, dealing damage to nearby targets equal to **undefined%** of the Wanderer's Max HP. The damage dealt shall be no more than **undefined%** of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5805,7 +6746,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "When using Desolate Day, Speedy Yo-yo can trigger **NaN** seconds of **swiftness**: Speedy Yo-yo's speed is increased by **NaN%**, damage is increased by **160%**, and damage caused by passing through the target is converted to small-area damage.",
+				"description": "When using Desolate Day, Speedy Yo-yo can trigger **undefined** seconds of **swiftness**: Speedy Yo-yo's speed is increased by **undefined%**, damage is increased by **160%**, and damage caused by passing through the target is converted to small-area damage.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5821,7 +6762,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Increases the damage of Speedy Yo-yo and Return to Loneliness by **NaN%**.",
+				"description": "Increases the damage of Speedy Yo-yo and Return to Loneliness by **undefined%**.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5829,7 +6770,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Increase final damage by **NaN%** while Speedy Yo-yo is active.",
+				"description": "Increase final damage by **undefined%** while Speedy Yo-yo is active.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5847,6 +6788,33 @@
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
 			"avatarID": "yulan",
+			"age": "February 9",
+			"gender": "Female",
+			"state": "Sundial Guard",
+			"city": "Domain 9",
+			"rating": "wuwei_imitation_38",
+			"gp": [
+				"everydayObjects",
+				"collection",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 秦文静"
+				},
+				{
+					"Japanese": "CV : 柚木 涼香"
+				},
+				{
+					"English": "CV : Brianna Knickerbocker"
+				},
+				{
+					"Korean": "CV : 김윤채"
+				},
+				{
+					"Portuguese": "CV : LUIZA PORTO"
+				}
+			],
 			"id": "imitation_38"
 		},
 		"description": "Unity, in other words, consolidation. It's the weapon Ji Yu handpicked for Yu Lan, which possesses the latest tech from Domain 9. Please don't be surprised if you witness some miraculous sights after using it with the timestamp.",
@@ -5970,7 +6938,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Frost Resonance**: Increase frost ATK by **15%** and frost resistance by **25%**. Activate by equipping **2** or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Icecrush: Swift Cut**: When **Unity** is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to **30%** of frost ATK plus **0%** of the Wanderer's Max HP plus **15%** of the sum of all the Wanderer's resistance types plus **55%** of crit. While in combat state, after every **0.5** seconds, the next Swift Cut damage will be increased by an additional **1** time, up to a maximum of **30** times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Swift Cut damage is counted as discharge skill damage. If there is **1** volt/physical/flame weapon of any kind equipped, Icecrush damage is increased **1.3** times. In addition, Icecrush damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+				"description": "**Frost Resonance**: Increase frost ATK by **15%** and frost resistance by **25%**. Activate by equipping **2** or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Icecrush: Swift Cut**: When **Unity** is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to **30%** of frost ATK plus **0.4%** of the Wanderer's Max HP plus **15%** of the sum of all the Wanderer's resistance types plus **55%** of crit. While in combat state, after every **0.5** seconds, the next Swift Cut damage will be increased by an additional **1** time, up to a maximum of **30** times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Swift Cut damage is counted as discharge skill damage. If there is **1** volt/physical/flame weapon of any kind equipped, Icecrush damage is increased **130** times. In addition, Icecrush damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -5978,7 +6946,7 @@
 				"need": "None"
 			},
 			{
-				"description": "While in the **Martial Artist** form, after consuming **3** or more **Internal Strength**, **Unity** restores **1** **Internal Strength**. Subsequently, the Wanderer's final damage is increased by **5%**, and **Unity's** dodge attack/normal attack damage is increased by **50%** for **30** seconds.\r\nWhile in the **Sweeping Force** form, after consuming **3** or more **Fighting Spirit**, **Unity** restores **1** **Fighting Spirit**. Subsequently, the Wanderer's final damage is increased by **5%** for **15** seconds.",
+				"description": "While in the **Martial Artist** form, after consuming **3** or more **Internal Strength**, **Unity** restores **100** **Internal Strength**. Subsequently, the Wanderer's final damage is increased by **5%**, and **Unity's** dodge attack/normal attack damage is increased by **50%** for **3000** seconds.\r\nWhile in the **Sweeping Force** form, after consuming **3** or more **Fighting Spirit**, **Unity** restores **100** **Fighting Spirit**. Subsequently, the Wanderer's final damage is increased by **5%** for **1500** seconds.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -5994,7 +6962,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "In the **Martial Artist** form, if **Internal Strength** is not obtained within **5** seconds, the next acquisition of **Internal Strength** will grant **2** counts.\r\nIn any form, when **Unity** consumes **3** or more **Internal Strength** or **Fighting Spirit**, restore **10%** of the Wanderer's Max HP. In solo play, the HP recovery is increased to **20%**. This effect can only trigger 1 time every **8** seconds in **Sweeping Force** form. In **Martial Artist** form, there are no limitations.",
+				"description": "In the **Martial Artist** form, if **Internal Strength** is not obtained within **500** seconds, the next acquisition of **Internal Strength** will grant **2** counts.\r\nIn any form, when **Unity** consumes **3** or more **Internal Strength** or **Fighting Spirit**, restore **10%** of the Wanderer's Max HP. In solo play, the HP recovery is increased to **20%**. This effect can only trigger 1 time every **8** seconds in **Sweeping Force** form. In **Martial Artist** form, there are no limitations.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6010,7 +6978,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "After **Unity** consumes **Internal Strength** or **Fighting Spirit**, when receiving lethal damage, prevent lethal damage 1 time and recover **20%** of the Wanderer's Max HP (Unavailable in Apex League). In solo play, the HP recovery is increased to **40%**. Both effects can only trigger 1 time every **60** seconds.",
+				"description": "After **Unity** consumes **Internal Strength** or **Fighting Spirit**, when receiving lethal damage, prevent lethal damage 1 time and recover **20%** of the Wanderer's Max HP (Unavailable in Apex League). In solo play, the HP recovery is increased to **40%**. Both effects can only trigger 1 time every **6000** seconds.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6018,7 +6986,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "While in the **Martial Artist** form, **Unity's** dodge attack / normal attack damage is further increased by **70%**. After consuming **Internal Strength**, the Wanderer's final damage is increased by **10%** for **30** seconds.\r\nWhile in the **Sweeping Force** form, after **Unity** consumes **Fighting Spirit**, the Wanderer's final damage is increased by **15%** for **30** seconds.",
+				"description": "While in the **Martial Artist** form, **Unity's** dodge attack / normal attack damage is further increased by **70%**. After consuming **Internal Strength**, the Wanderer's final damage is increased by **10%** for **3000** seconds.\r\nWhile in the **Sweeping Force** form, after **Unity** consumes **Fighting Spirit**, the Wanderer's final damage is increased by **15%** for **3000** seconds.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6036,6 +7004,34 @@
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
 			"avatarID": "mingjing",
+			"age": "November 12",
+			"gender": "Male",
+			"state": "Domain 9",
+			"city": "Unknown",
+			"rating": "wuwei_imitation_50",
+			"gp": [
+				"everydayObjects",
+				"Asshai",
+				"Vera",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 马洋"
+				},
+				{
+					"Japanese": "CV : 中村 悠一"
+				},
+				{
+					"English": "CV : Johnny Young"
+				},
+				{
+					"Korean": "CV : 신용우"
+				},
+				{
+					"Portuguese": "CV : Wendel Bezerra"
+				}
+			],
 			"id": "imitation_50"
 		},
 		"description": "An imposing and sharp greatsword that ordinary people can barely muster the strength to pick up. Its destructive power is juxtaposed by the wide blade and the sense of security it brings.",
@@ -6135,7 +7131,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Physical Resonance**: Increase physical ATK by **15%** and physical resistance by **25%**. Activate by equipping **2** or more physical weapons. This set effect works in the off-hand slot. Cannot stack with other Physical Resonance effects, with Physical Resonance taking precedence.\r\n**Flame Resonance**: Increase flame ATK by **15%** and flame resistance by **25%**. Activate by equipping **2** or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance effects, with Flame Resonance taking precedence.\r\n\r\n**Shield Break: Detachment**: After using **Absolute Ravine**, every second, deal damage equal to **70%** of physical ATK plus **1%** of the Wanderer's Max HP plus **36%** of the sum of all the Wanderer's resistance types plus **1.35%** of crit for **30** seconds to targets hit. Multiple Detachment damage will not stack and shield break damage will be counted as skill damage. If there is **1** volt/flame/frost weapon equipped, shield break damage is multiplied by **1.3**. In addition, shield break damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+				"description": "**Physical Resonance**: Increase physical ATK by **15%** and physical resistance by **25%**. Activate by equipping **2** or more physical weapons. This set effect works in the off-hand slot. Cannot stack with other Physical Resonance effects, with Physical Resonance taking precedence.\r\n**Flame Resonance**: Increase flame ATK by **15%** and flame resistance by **25%**. Activate by equipping **2** or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance effects, with Flame Resonance taking precedence.\r\n\r\n**Shield Break: Detachment**: After using **Absolute Ravine**, every second, deal damage equal to **70%** of physical ATK plus **1%** of the Wanderer's Max HP plus **36%** of the sum of all the Wanderer's resistance types plus **135%** of crit for **3000** seconds to targets hit. Multiple Detachment damage will not stack and shield break damage will be counted as skill damage. If there is **1** volt/flame/frost weapon equipped, shield break damage is multiplied by **130**. In addition, shield break damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6175,7 +7171,7 @@
 				"need": "Zeke_physic_plasm"
 			},
 			{
-				"description": "After using **Absolute Ravine**, reduce the Wanderer's damage taken by **10%** (**20%** in solo play) for **30** seconds.",
+				"description": "After using **Absolute Ravine**, reduce the Wanderer's damage taken by **10%** (**20%** in solo play) for **3000** seconds.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6201,6 +7197,33 @@
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",
 			"avatarID": "feiouna",
+			"age": "April 17",
+			"gender": "Female",
+			"state": "Innars",
+			"city": "Innars",
+			"rating": "wuwei_imitation_36",
+			"gp": [
+				"collection",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 刘雪"
+				},
+				{
+					"Japanese": "CV : 石見 舞菜香"
+				},
+				{
+					"English": "CV : Lindsay Sheppard"
+				},
+				{
+					"Korean": "CV : 양정화"
+				},
+				{
+					"Portuguese": "CV : Mayara Stefane"
+				}
+			],
 			"id": "imitation_36"
 		},
 		"description": "A strange nanoweapon that generates blades that cut through metal like butter. In the past, it used to take the form of a bracelet that wrapped around its owner's wrist while in standby mode, and that is where its owner's descriptions of it come from.",

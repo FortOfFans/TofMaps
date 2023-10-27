@@ -384,6 +384,33 @@
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
+			"age": "9 de julio",
+			"gender": "Femenino",
+			"state": "Departamento Médico de Hykros",
+			"city": "Banges",
+			"rating": "wuwei_imitation_14",
+			"gp": [
+				"everydayObjects",
+				"decorate",
+				"collection"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王雅欣"
+				},
+				{
+					"Japanese": "CV : 能登 麻美子"
+				},
+				{
+					"English": "CV : Kayli Mills"
+				},
+				{
+					"Korean": "CV : 김가령"
+				},
+				{
+					"Portuguese": "CV : Flávia Narciso"
+				}
+			],
 			"id": "imitation_14"
 		},
 		"description": "Un bastón mecánico con una runa cruzada grabada en él. Es capaz tanto de perdonar pecados como de desatar castigos.",
@@ -535,6 +562,33 @@
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
+			"age": "11 de abril",
+			"gender": "Femenino",
+			"state": "Banges",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_15",
+			"gp": [
+				"restrictedGoods",
+				"garageKit",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 裴致莹"
+				},
+				{
+					"Japanese": "CV : 花澤 香菜"
+				},
+				{
+					"English": "CV : Kira Buckland"
+				},
+				{
+					"Korean": "CV : 윤아영"
+				},
+				{
+					"Portuguese": "CV : Bruna Matta"
+				}
+			],
 			"id": "imitation_15"
 		},
 		"description": "El arma más aterradora jamás creada, también conocida como una torreta andante.",
@@ -657,6 +711,33 @@
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
 			"avatarID": "genuonuo",
+			"age": "6 de marzo",
+			"gender": "Femenino",
+			"state": "Desconocido",
+			"city": "Innars",
+			"rating": "wuwei_imitation_27",
+			"gp": [
+				"Rarity",
+				"collection",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 常丹瑞"
+				},
+				{
+					"Japanese": "CV : 釘宮 理恵"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 유영"
+				},
+				{
+					"Portuguese": "CV : Nina Carvalho"
+				}
+			],
 			"id": "imitation_27"
 		},
 		"description": "Demasiado peligroso para ser un juguete. No hay forma de que una niña haya podido conseguirlo por medios honestos. Quién sabe qué tipo de tecnología se usó para refinarlo… Quizás lo recogió en algún camino olvidado.",
@@ -821,6 +902,33 @@
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
+			"age": "17 de agosto",
+			"gender": "Femenino",
+			"state": "Seguridad de Victoria",
+			"city": "Corona",
+			"rating": "wuwei_imitation_2",
+			"gp": [
+				"game",
+				"decorate",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王燕华"
+				},
+				{
+					"Japanese": "CV : 小清水 亜美"
+				},
+				{
+					"English": "CV : Melissa Fahn"
+				},
+				{
+					"Korean": "CV : 박리나"
+				},
+				{
+					"Portuguese": "CV : Amanda Tavares"
+				}
+			],
 			"id": "imitation_2"
 		},
 		"description": "Nadie quiere ser el objetivo de esta maza.",
@@ -978,6 +1086,33 @@
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
+			"age": "8 de mayo",
+			"gender": "Femenino",
+			"state": "Refugio HT201",
+			"city": "Refugio HT201",
+			"rating": "wuwei_imitation_16",
+			"gp": [
+				"Rarity",
+				"collection",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王晓彤"
+				},
+				{
+					"Japanese": "CV : 日高 里菜"
+				},
+				{
+					"English": "CV : Xanthe Huynh"
+				},
+				{
+					"Korean": "CV : 김율"
+				},
+				{
+					"Portuguese": "CV : Adriana Pissardini"
+				}
+			],
 			"id": "imitation_16"
 		},
 		"description": "Perfecta para una noche gris.",
@@ -1123,6 +1258,33 @@
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
+			"age": "14 de agosto",
+			"gender": "Femenino",
+			"state": "Desconocido",
+			"city": "Warren",
+			"rating": "wuwei_imitation_4",
+			"gp": [
+				"everydayObjects",
+				"restrictedGoods",
+				"game"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 曹雅雯"
+				},
+				{
+					"Japanese": "CV : 大久保 瑠美"
+				},
+				{
+					"English": "CV : Jeannie Tirado"
+				},
+				{
+					"Korean": "CV : 정유정"
+				},
+				{
+					"Portuguese": "CV : Rebeca Zadra"
+				}
+			],
 			"id": "imitation_4"
 		},
 		"description": "Una alabarda imbuida del poder del trueno. Es excelente para infligir daño de ráfaga, y su tamaño la hace perfecta para una diversidad de alcances.",
@@ -1281,6 +1443,33 @@
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
 			"avatarID": "wuwan",
+			"age": "17 de diciembre",
+			"gender": "Masculino",
+			"state": "Desconocido",
+			"city": "Astra",
+			"rating": "wuwei_imitation_13",
+			"gp": [
+				"everydayObjects",
+				"garageKit",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 翟巍"
+				},
+				{
+					"Japanese": "CV : 岡本 信彦"
+				},
+				{
+					"English": "CV : Casey Mongillo"
+				},
+				{
+					"Korean": "CV : 김다올"
+				},
+				{
+					"Portuguese": "CV : Vagner Fagundes"
+				}
+			],
 			"id": "imitation_13"
 		},
 		"description": "Letales, impredecibles y silenciosas.",
@@ -1433,6 +1622,32 @@
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
 			"avatarID": "meilier",
+			"age": "10 de octubre",
+			"gender": "Femenino",
+			"state": "Hykros",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_3",
+			"gp": [
+				"collection",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 秦紫翼"
+				},
+				{
+					"Japanese": "CV : 石川 由依"
+				},
+				{
+					"English": "CV : Kira Buckland"
+				},
+				{
+					"Korean": "CV : 이다은"
+				},
+				{
+					"Portuguese": "CV : Patt Souza"
+				}
+			],
 			"id": "imitation_3"
 		},
 		"description": "Una elegante espada de escarcha que recuerda a una flor pura y blanca que florece en un risco cubierto de nieve.",
@@ -1597,6 +1812,33 @@
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
 			"avatarID": "sifengyuanyu",
+			"age": "24 de marzo",
+			"gender": "Femenino",
+			"state": "Herederos de Aida",
+			"city": "Astra",
+			"rating": "wuwei_imitation_7",
+			"gp": [
+				"garageKit",
+				"restrictedGoods",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 徐徐"
+				},
+				{
+					"Japanese": "CV : 小原 好美"
+				},
+				{
+					"English": "CV : Amber Lee Connors"
+				},
+				{
+					"Korean": "CV : 손선영"
+				},
+				{
+					"Portuguese": "CV : Tânia Gaidarji"
+				}
+			],
 			"id": "imitation_7"
 		},
 		"description": "Las flechas de este arco llevan el poder de la escarcha.",
@@ -1743,6 +1985,33 @@
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
 			"avatarID": "kekelite",
+			"age": "1 de junio",
+			"gender": "Femenino",
+			"state": "Departamento Médico de Hykros",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_11",
+			"gp": [
+				"toy",
+				"decorate",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 胡婷婷"
+				},
+				{
+					"Japanese": "CV : 鬼頭 明里"
+				},
+				{
+					"English": "CV : Lexi Fontaine"
+				},
+				{
+					"Korean": "CV : 강시현"
+				},
+				{
+					"Portuguese": "CV : Mari Guedes"
+				}
+			],
 			"id": "imitation_11"
 		},
 		"description": "Mantiene la temperatura baja para curar aliados.",
@@ -1896,6 +2165,33 @@
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
 			"avatarID": "KING",
+			"age": "3 de noviembre",
+			"gender": "Masculino",
+			"state": "Saqueadores",
+			"city": "Corona",
+			"rating": "wuwei_imitation_9",
+			"gp": [
+				"collection",
+				"Rarity",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐子晰"
+				},
+				{
+					"Japanese": "CV : 松岡 禎丞"
+				},
+				{
+					"English": "CV : Johnny Young"
+				},
+				{
+					"Korean": "CV : 류승곤"
+				},
+				{
+					"Portuguese": "CV : Leonardo Camillo"
+				}
+			],
 			"id": "imitation_9"
 		},
 		"description": "Una guadaña poderosa, excelente para el ataque y la defensa. Puede matar al objetivo al instante dentro de una cierta distancia.",
@@ -2054,6 +2350,33 @@
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
 			"avatarID": "gulan",
+			"age": "26 de junio",
+			"gender": "Femenino",
+			"state": "Tecnología Banges",
+			"city": "Corona",
+			"rating": "wuwei_imitation_10",
+			"gp": [
+				"metal",
+				"collection",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈睿婕"
+				},
+				{
+					"Japanese": "CV : 川澄 綾子"
+				},
+				{
+					"English": "CV : Stephanie Kerbis"
+				},
+				{
+					"Korean": "CV : 김예림"
+				},
+				{
+					"Portuguese": "CV : Jussara Marques"
+				}
+			],
 			"id": "imitation_10"
 		},
 		"description": "Inventado por un científico loco. Con las impresionantes cifras arrojadas en las pruebas, solo se puede imaginar el máximo poder que es capaz de alcanzar.",
@@ -2207,6 +2530,33 @@
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
 			"avatarID": "kelaodiya",
+			"age": "16 de enero",
+			"gender": "Femenino",
+			"state": "Hykros",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_12",
+			"gp": [
+				"everydayObjects",
+				"Rarity",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 贺文潇"
+				},
+				{
+					"Japanese": "CV : 小松 未可子"
+				},
+				{
+					"English": "CV : Elizabeth Simmons"
+				},
+				{
+					"Korean": "CV : 성예원"
+				},
+				{
+					"Portuguese": "CV : Thaís Durães"
+				}
+			],
 			"id": "imitation_12"
 		},
 		"description": "Esta espada carmesí representa el coraje y la decisión, mientras que su filo porta la justicia.",
@@ -2360,6 +2710,33 @@
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
 			"avatarID": "xiluo",
+			"age": "22 de septiembre",
+			"gender": "Femenino",
+			"state": "Desconocido",
+			"city": "Warren",
+			"rating": "wuwei_imitation_8",
+			"gp": [
+				"metal",
+				"collection",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 蔡娜"
+				},
+				{
+					"Japanese": "CV : 小澤 亜李"
+				},
+				{
+					"English": "CV : Kristen McGuire"
+				},
+				{
+					"Korean": "CV : 양정화"
+				},
+				{
+					"Portuguese": "CV : Fernanda Bullara"
+				}
+			],
 			"id": "imitation_8"
 		},
 		"description": "Un arma redonda y afilada que atravesó los mares junto a quien la porta.",
@@ -2512,6 +2889,32 @@
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
 			"avatarID": "ling",
+			"age": "6 de junio",
+			"gender": "Masculino",
+			"state": "Desconocido",
+			"city": "Banges",
+			"rating": "wuwei_imitation_1",
+			"gp": [
+				"game",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 蔡海婷"
+				},
+				{
+					"Japanese": "CV : 村瀬 歩"
+				},
+				{
+					"English": "CV : Griffin Burns"
+				},
+				{
+					"Korean": "CV : 김나율"
+				},
+				{
+					"Portuguese": "CV : Henry Walnut"
+				}
+			],
 			"id": "imitation_1"
 		},
 		"description": "Los usuarios del Cubo Extraño tienden a idear muchas maneras para negarse a requerimientos innecesarios.",
@@ -2665,6 +3068,32 @@
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
 			"avatarID": "saimier",
+			"age": "20 de mayo",
+			"gender": "Femenino",
+			"state": "Hykros",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_5",
+			"gp": [
+				"game",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐雅菁"
+				},
+				{
+					"Japanese": "CV : 水樹 奈々"
+				},
+				{
+					"English": "CV : Brittany Cox"
+				},
+				{
+					"Korean": "CV : 서유리"
+				},
+				{
+					"Portuguese": "CV : Fernanda Bullara"
+				}
+			],
 			"id": "imitation_5"
 		},
 		"description": "Estas armas se basan en un sistema de cañón de riel y deben usarse juntas.",
@@ -2811,6 +3240,33 @@
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
 			"avatarID": "xiuma",
+			"age": "12 de enero",
+			"gender": "Femenino",
+			"state": "Hykros",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_6",
+			"gp": [
+				"everydayObjects",
+				"game",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐雅菁"
+				},
+				{
+					"Japanese": "CV : 高橋 李依"
+				},
+				{
+					"English": "CV : Colleen O Shaughnessey"
+				},
+				{
+					"Korean": "CV : 김보나"
+				},
+				{
+					"Portuguese": "CV : Marli Bortoletto"
+				}
+			],
 			"id": "imitation_6"
 		},
 		"description": "Un hacha escudo que pertenece a la serie de armas V2, una colección de armas fabricadas con técnicas especiales.",
@@ -2957,6 +3413,33 @@
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
 			"avatarID": "mimi",
+			"age": "23 de julio",
+			"gender": "Femenino",
+			"state": "Pabellón Tianzhang",
+			"city": "Truenovilla",
+			"rating": "wuwei_imitation_41",
+			"gp": [
+				"toy",
+				"garageKit",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 裴致莹"
+				},
+				{
+					"Japanese": "CV : 新井 里美"
+				},
+				{
+					"English": "CV : Alexis Tipton"
+				},
+				{
+					"Korean": "CV : 윤은서"
+				},
+				{
+					"Portuguese": "CV : BIANCA ALENCAR"
+				}
+			],
 			"id": "imitation_41"
 		},
 		"description": "Un par de abanicos que contienen una enorme energía capaz de derrumbar montañas y desgarrar el mundo.\r\nCuando Dragón Azur sube a las nubes, sacude al mundo con el viento.",
@@ -3050,7 +3533,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia Eléctrica**: Aumenta el ATQ eléctrico un **15%** y la resistencia eléctrica un **25%**. Se activa al equipar **2** o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n\r\n**Truenoestallido: En el Campo**: Al lograr un impacto con **Dragón Azur**, infliges daño a los objetivos cercanos igual a **1.313%** del ATQ eléctrico más **2%** de los PSMáx. del nómada más **69%** de la suma de todos los tipos de resistencias del nómada más **2.5%** del crítico. Este efecto se puede activar hasta 1 vez cada **1.5**seg. El daño de Truenoestallido cuenta como daño de ataque normal. Si tienes **1** arma de fuego/escarcha/física de cualquier tipo equipada, multiplica el daño de Truenoestallido por **1.3**. Además, el daño de Truenoestallido no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia Eléctrica**: Aumenta el ATQ eléctrico un **15%** y la resistencia eléctrica un **25%**. Se activa al equipar **2** o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n\r\n**Truenoestallido: En el Campo**: Al lograr un impacto con **Dragón Azur**, infliges daño a los objetivos cercanos igual a **131.3%** del ATQ eléctrico más **1.9%** de los PSMáx. del nómada más **68.8%** de la suma de todos los tipos de resistencias del nómada más **250%** del crítico. Este efecto se puede activar hasta 1 vez cada **1.5**seg. El daño de Truenoestallido cuenta como daño de ataque normal. Si tienes **1** arma de fuego/escarcha/física de cualquier tipo equipada, multiplica el daño de Truenoestallido por **130**. Además, el daño de Truenoestallido no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3116,6 +3599,33 @@
 			"weapon": "linghan_ice",
 			"icon": "imitation_43",
 			"avatarID": "linghan",
+			"age": "7 de junio",
+			"gender": "Femenino",
+			"state": "Pabellón Longjian",
+			"city": "Pantanovilla",
+			"rating": "wuwei_imitation_43",
+			"gp": [
+				"collection",
+				"decorate",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : kiyo"
+				},
+				{
+					"Japanese": "CV : 原 由実"
+				},
+				{
+					"English": "CV : Dominique North"
+				},
+				{
+					"Korean": "CV : 김윤채"
+				},
+				{
+					"Portuguese": "CV : SAMIRA FERNANDES"
+				}
+			],
 			"id": "imitation_43"
 		},
 		"description": "Con una floritura de prestidigitación y una danza divina de espadas, ¿quién podrá explorar las profundidades de este corazón mío?",
@@ -3209,7 +3719,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Frío Extremo: Descarga**: Después de usar **Arte de Espada: Hielo Oscuro**, cada segundo infliges daño igual a la suma de: **70%** de tu ATQ de escarcha, **10%** de tus PS Máx., **36%** de todos tus tipos de resistencias, y **1.35%** de tu crítico. Ocurre durante **30**seg. El daño de múltiples Descargas no se acumula, y el daño de Frío Extremo contará como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/física de cualquier tipo equipada, el daño de Frío Extremo se multiplica por **1.3**. Además, el daño de Frío Extremo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Frío Extremo: Descarga**: Después de usar **Arte de Espada: Hielo Oscuro**, cada segundo infliges daño igual a la suma de: **70%** de tu ATQ de escarcha, **10%** de tus PS Máx., **36%** de todos tus tipos de resistencias, y **135%** de tu crítico. Ocurre durante **3000**seg. El daño de múltiples Descargas no se acumula, y el daño de Frío Extremo contará como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/física de cualquier tipo equipada, el daño de Frío Extremo se multiplica por **130**. Además, el daño de Frío Extremo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3217,7 +3727,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Tras lanzar **Cuchilla de Hielo**, aumenta tu ATQ de escarcha un **10%** y los objetivos cercanos recibirán daño igual a **80%** del ATQ cada segundo durante **30**seg.",
+				"description": "Tras lanzar **Cuchilla de Hielo**, aumenta tu ATQ de escarcha un **0.1%** y los objetivos cercanos recibirán daño igual a **80%** del ATQ cada segundo durante **30**seg.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3233,7 +3743,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "Puedes producir hasta **4** **Cuchillas de Hielo**, y el multiplicador base del daño de **Reducción de Temperatura** aumenta a **360%**.\r\nSi tu objetivo es el único afectado por **Reducción de Temperatura**, dentro de **6**seg le aplicas adicionalmente **Sello de Vena**, lo que reduce su velocidad un **30%** (no disponible en la Liga Ápex ni contra jefes). Si el objetivo vuelve a recibir daño de **Cuchilla de Hielo** durante el **Sello de Vena**, desencadena Estallido Gélido, lo que inflige daño de habilidad igual a **17%** del ATQ más **2%** de los PS ya perdidos del objetivo en ese momento (el daño de Estallido Gélido no será inferior a **20%** del ATQ de escarcha del nómada ni superior a **22%** del ATQ de escarcha del nómada). A continuación, elimina los efectos de **Sello de Vena** y **Reducción de Temperatura** en el objetivo.",
+				"description": "Puedes producir hasta **4** **Cuchillas de Hielo**, y el multiplicador base del daño de **Reducción de Temperatura** aumenta a **360%**.\r\nSi tu objetivo es el único afectado por **Reducción de Temperatura**, dentro de **600**seg le aplicas adicionalmente **Sello de Vena**, lo que reduce su velocidad un **30%** (no disponible en la Liga Ápex ni contra jefes). Si el objetivo vuelve a recibir daño de **Cuchilla de Hielo** durante el **Sello de Vena**, desencadena Estallido Gélido, lo que inflige daño de habilidad igual a **1700%** del ATQ más **2%** de los PS ya perdidos del objetivo en ese momento (el daño de Estallido Gélido no será inferior a **2000%** del ATQ de escarcha del nómada ni superior a **2200%** del ATQ de escarcha del nómada). A continuación, elimina los efectos de **Sello de Vena** y **Reducción de Temperatura** en el objetivo.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3275,6 +3785,33 @@
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
 			"avatarID": "Avatar06",
+			"age": "23 de mayo",
+			"gender": "Femenino",
+			"state": "Ángel de la Clemencia",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_17",
+			"gp": [
+				"toy",
+				"decorate",
+				"everydayObjects"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 宋媛媛"
+				},
+				{
+					"Japanese": "CV : 戸松 遥"
+				},
+				{
+					"English": "CV : Suzie Yeung"
+				},
+				{
+					"Korean": "CV : 이새아"
+				},
+				{
+					"Portuguese": "CV : Tatiane Keplmair"
+				}
+			],
 			"id": "imitation_17"
 		},
 		"description": "Su diseñador es desconocido. Se perdió el plano del prototipo del Cañón Magnético especial flotante. Contiene un proceso de ahorro eléctrico único en su interior. Es muy difícil de reparar cuando se desgasta, pero Cobalt-B de Tecnología Banges parece ser capaz de hacerlo. ",
@@ -3428,6 +3965,32 @@
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
 			"avatarID": "Avatar12",
+			"age": "1 de febrero",
+			"gender": "Femenino",
+			"state": "Ángel de la Clemencia",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_28",
+			"gp": [
+				"metal",
+				"everydayObjects"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 杨梦露"
+				},
+				{
+					"Japanese": "CV : 伊藤 静"
+				},
+				{
+					"English": "CV : Antonia Flynn"
+				},
+				{
+					"Korean": "CV : 소연"
+				},
+				{
+					"Portuguese": "CV : Adriana Pissardini"
+				}
+			],
 			"id": "imitation_28"
 		},
 		"description": "El espadón y el sable que pertenecen exclusivamente a Frigg, el Ángel de la Clemencia. Se adaptaron al cuerpo cibernético de Frigg en su proceso de manufactura. Estas dos armas no son lo mismo, aunque Frigg se refiere a ellas con el nombre colectivo de Balmung.",
@@ -3575,6 +4138,33 @@
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
 			"avatarID": "leibei",
+			"age": "15 de julio",
+			"gender": "Femenino",
+			"state": "Desconocido",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_21",
+			"gp": [
+				"game",
+				"toy",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 赵爽"
+				},
+				{
+					"Japanese": "CV : 小倉 唯"
+				},
+				{
+					"English": "CV : Lizzie Freeman"
+				},
+				{
+					"Korean": "CV : 이다은"
+				},
+				{
+					"Portuguese": "CV : Letícia Celini"
+				}
+			],
 			"id": "imitation_21"
 		},
 		"description": "Un arma especial que Lin le pidió al equipo de desarrollo de Espejia para Ruby. Sus funciones principales incluyen: hacer de intendente en el juego de la casita, despertar a Ruby por las mañanas... Y lo más importante, proteger a Ruby. ",
@@ -3728,6 +4318,33 @@
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
 			"avatarID": "bupoxiao",
+			"age": "11 de octubre",
+			"gender": "Femenino",
+			"state": "Fuerzas Especiales de las Fuerzas de Seguridad de Espejia",
+			"city": "Espejia",
+			"rating": "wuwei_imitation_22",
+			"gp": [
+				"metal",
+				"everydayObjects",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐小喜"
+				},
+				{
+					"Japanese": "CV : 雨宮 天"
+				},
+				{
+					"English": "CV : EmiLo"
+				},
+				{
+					"Korean": "CV : 김나율"
+				},
+				{
+					"Portuguese": "CV : Letícia Quinto"
+				}
+			],
 			"id": "imitation_22"
 		},
 		"description": "Un tachi especial que se adapta a los experimentos del Superflujo. Puede sentir el estado mental del usuario y generar una Sombra de Espada para asistirle en el combate en el momento adecuado.",
@@ -3869,7 +4486,7 @@
 				"need": "Dkatana_ice_plasm"
 			},
 			{
-				"description": "Al impactar a un objetivo con Sobrecarga, aumenta el daño de escarcha un **11%** por **15**seg.\r\nAl activar un bloqueo con Sombra de Espada, reduce el daño de escarcha que infligen los objetivos enemigos un **25%** por **12**seg.",
+				"description": "Al impactar a un objetivo con Sobrecarga, aumenta el daño de escarcha un **0.11%** por **15**seg.\r\nAl activar un bloqueo con Sombra de Espada, reduce el daño de escarcha que infligen los objetivos enemigos un **0.25%** por **12**seg.",
 				"stats": {
 					"shatter": 13.9,
 					"charge": 8
@@ -3887,6 +4504,33 @@
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
 			"avatarID": "linye",
+			"age": "3 de septiembre",
+			"gender": "Femenino",
+			"state": "Distrito 7 de Hykros",
+			"city": "Espejia",
+			"rating": "wuwei_imitation_23",
+			"gp": [
+				"metal",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈婷婷"
+				},
+				{
+					"Japanese": "CV : 南條 愛乃"
+				},
+				{
+					"English": "CV : Erin Yvette"
+				},
+				{
+					"Korean": "CV : 조경이"
+				},
+				{
+					"Portuguese": "CV : Carol Valença"
+				}
+			],
 			"id": "imitation_23"
 		},
 		"description": "El diseño inicial la muestra como un arma pensada para ser secreta y ligera, pero cambió a una espada pesada a solicitud de su usuario. Es pesada y para nada discreta.",
@@ -4044,6 +4688,33 @@
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
 			"avatarID": "tianlang",
+			"age": "23 de marzo",
+			"gender": "Masculino",
+			"state": "Vivero de Espejia",
+			"city": "Espejia",
+			"rating": "wuwei_imitation_29",
+			"gp": [
+				"collection",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 淦子齐"
+				},
+				{
+					"Japanese": "CV : 石川 界人"
+				},
+				{
+					"English": "CV : Kaiji Tang"
+				},
+				{
+					"Korean": "CV : 박요한"
+				},
+				{
+					"Portuguese": "CV : Glauco Marques"
+				}
+			],
 			"id": "imitation_29"
 		},
 		"description": "Esta lanza larga cubierta de rayos es el SMA1-TS00-Rompetruenos. Es capaz de desatar el poder almacenado por medios inimaginables. El campo eléctrico que genera perturba la mente de su portador, por lo que no lo puede dominar la gente normal.",
@@ -4197,6 +4868,32 @@
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
 			"avatarID": "xinghuan",
+			"age": "23 de junio",
+			"gender": "Femenino",
+			"state": "Fondo Maidelin",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_24",
+			"gp": [
+				"everydayObjects",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 常佳梦"
+				},
+				{
+					"Japanese": "CV : 大原 さやか"
+				},
+				{
+					"English": "CV : Ryan Bartley"
+				},
+				{
+					"Korean": "CV : 윤은서"
+				},
+				{
+					"Portuguese": "CV : Maitê Cunha"
+				}
+			],
 			"id": "imitation_24"
 		},
 		"description": "Un arma de soporte hecha a medida para un integrante de la Fundación Maidelin. La Sra. Maidelin cree que Lira podría darle un buen uso.",
@@ -4326,7 +5023,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Aumenta todo el daño infligido por las guardias un **20%** y aumenta el daño final del objetivo protegido un **15%** por **10 seg** al desatar cualquier habilidad de arma o de descarga bajo el efecto de Resonancia de Sacramento.",
+				"description": "Aumenta todo el daño infligido por las guardias un **20%** y aumenta el daño final del objetivo protegido un **0.15%** por **10 seg** al desatar cualquier habilidad de arma o de descarga bajo el efecto de Resonancia de Sacramento.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4342,7 +5039,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Guardia de Perdón: Después de liberar Resonancia 5 veces, recibes **1** oportunidad de anular daño letal para el portador y el objetivo protegido. Después de que un compañero niegue el daño letal, consumirá Guardia de Perdón y recuperará un **5%** de sus PS Máx. No disponible en la Liga Ápex.\r\nGuardia de Iluminación: Después de liberar Resonancia 5 veces y al tener la Guardia de Iluminación, el portador recibe **2** oportunidades de anular daño letal. Se acumula hasta **5** veces. Después de que el portador niegue daño letal, consumirá 1 acumulación de Guardia de Iluminación y recuperará un **5%** de sus PS Máx. No disponible en la Liga Ápex.",
+				"description": "Guardia de Perdón: Después de liberar Resonancia 5 veces, recibes **1** oportunidad de anular daño letal para el portador y el objetivo protegido. Después de que un compañero niegue el daño letal, consumirá Guardia de Perdón y recuperará un **0.05%** de sus PS Máx. No disponible en la Liga Ápex.\r\nGuardia de Iluminación: Después de liberar Resonancia 5 veces y al tener la Guardia de Iluminación, el portador recibe **2** oportunidades de anular daño letal. Se acumula hasta **5** veces. Después de que el portador niegue daño letal, consumirá 1 acumulación de Guardia de Iluminación y recuperará un **0.05%** de sus PS Máx. No disponible en la Liga Ápex.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4350,7 +5047,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Al desatar cualquier habilidad de arma o de descarga, el aumento del daño final y de la curación depende del número de guardias. Cada guardia aumenta el daño final y la curación un **2%**, hasta **8%** por **25seg**.",
+				"description": "Al desatar cualquier habilidad de arma o de descarga, el aumento del daño final y de la curación depende del número de guardias. Cada guardia aumenta el daño final y la curación un **1.6%**, hasta **8%** por **2500seg**.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4368,6 +5065,32 @@
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
 			"avatarID": "leibiliya",
+			"age": "24 de abril",
+			"gender": "Femenino",
+			"state": "Espejia",
+			"city": "Espejia",
+			"rating": "wuwei_imitation_48",
+			"gp": [
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 穆雪婷"
+				},
+				{
+					"Japanese": "CV : 三石 琴乃"
+				},
+				{
+					"English": "CV : Samantha Berman"
+				},
+				{
+					"Korean": "CV : 이새벽"
+				},
+				{
+					"Portuguese": "CV : Jussara Marques"
+				}
+			],
 			"id": "imitation_48"
 		},
 		"description": "Un suave balanceo en el caótico abismo provocará una tempestad que afectará al destino de toda la gente.",
@@ -4475,7 +5198,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Tras activar **Retroalimentación**, cada espina de cristamax infligirá daño a los objetivos cercanos igual a **66.7%** del ATQ cada **2**seg durante **NaN**seg.",
+				"description": "Tras activar **Retroalimentación**, cada espina de cristamax infligirá daño a los objetivos cercanos igual a **66.7%** del ATQ cada **2**seg durante **undefined**seg.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4507,7 +5230,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Aumenta la recuperación de PS Máx. de las espinas de cristamax de **Retroalimentación** a **NaN%**.",
+				"description": "Aumenta la recuperación de PS Máx. de las espinas de cristamax de **Retroalimentación** a **undefined%**.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4515,7 +5238,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Tras usar Regalo de Harrah, aumenta el daño eléctrico un **NaN%** adicional por **NaN**seg.",
+				"description": "Tras usar Regalo de Harrah, aumenta el daño eléctrico un **undefined%** adicional por **undefined**seg.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4533,6 +5256,33 @@
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
 			"avatarID": "ailisi",
+			"age": "28 de mayo",
+			"gender": "Femenino",
+			"state": "Fuerzas Especiales de las Fuerzas de Seguridad de Espejia",
+			"city": "Espejia",
+			"rating": "wuwei_imitation_30",
+			"gp": [
+				"collection",
+				"restrictedGoods",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 杜晴晴"
+				},
+				{
+					"Japanese": "CV : 安済 知佳"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 유영"
+				},
+				{
+					"Portuguese": "CV : Michelle Giudice"
+				}
+			],
 			"id": "imitation_30"
 		},
 		"description": "Armadura de combate fabricada con una cuchilla de pie como núcleo. La impulsa la energía mental del usuario. Es el resultado de las tecnologías de punta de antes del Cataclismo y explota con un poder atemorizante cuando es necesario.",
@@ -4692,6 +5442,34 @@
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
 			"avatarID": "annabeila",
+			"age": "28 de abril",
+			"gender": "Femenino",
+			"state": "Desconocido",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_26",
+			"gp": [
+				"decorate",
+				"Rarity",
+				"game",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 洪海天"
+				},
+				{
+					"Japanese": "CV : 黒沢 ともよ"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 이유리"
+				},
+				{
+					"Portuguese": "CV : Ágatha Paulita"
+				}
+			],
 			"id": "imitation_26"
 		},
 		"description": "Un juego de disparos de realidad virtual bastante popular en Espejia diseñó esta pistola exclusiva para su mejor jugador de una cierta temporada. También enviaron el modelo físico personalizado de la pistola al jugador, pero nadie sabía que se podía usar igual que en el juego…",
@@ -4839,6 +5617,33 @@
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
 			"avatarID": "liuhuo",
+			"age": "19 de agosto",
+			"gender": "Femenino",
+			"state": "Mansión de Fuegovilla",
+			"city": "Fuegovilla",
+			"rating": "wuwei_imitation_37",
+			"gp": [
+				"everydayObjects",
+				"metal",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 葛子瑞"
+				},
+				{
+					"Japanese": "CV : 徳井 青空"
+				},
+				{
+					"English": "CV : Michelle Marie"
+				},
+				{
+					"Korean": "CV : 문유정"
+				},
+				{
+					"Portuguese": "CV : ISABELLA GUARNIERI"
+				}
+			],
 			"id": "imitation_37"
 		},
 		"description": "\"¡Sin violencia, por favor! ¡Un académico no le pegaría a nadie con productos de papelería!\" (Rong Jin)",
@@ -4950,7 +5755,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia de Fuego**: Aumenta el ATQ de fuego un **15%** y la resistencia al fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Explosión Ardiente: En el Campo**: Al lograr un impacto con **Pincel Meteórico**, infliges daño a los objetivos cercanos igual a **1.05%** del ATQ de fuego más **2%** de los PS Máx. del nómada más **55%** de la suma de todos los tipos de resistencias del nómada más **2%** del crítico. Este efecto se puede activar una vez cada **1.5**seg. El daño de Explosión Ardiente cuenta como daño de ataque normal. Si tienes **1** arma eléctrica/de escarcha/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por **1.3**. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia de Fuego**: Aumenta el ATQ de fuego un **15%** y la resistencia al fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Explosión Ardiente: En el Campo**: Al lograr un impacto con **Pincel Meteórico**, infliges daño a los objetivos cercanos igual a **105%** del ATQ de fuego más **1.5%** de los PS Máx. del nómada más **55%** de la suma de todos los tipos de resistencias del nómada más **200%** del crítico. Este efecto se puede activar una vez cada **1.5**seg. El daño de Explosión Ardiente cuenta como daño de ataque normal. Si tienes **1** arma eléctrica/de escarcha/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por **130**. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4958,7 +5763,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Cuando una **Pluma de Gorrión** impacta a un objetivo, activa un efecto de propagación que inflige daño de área adicional igual a **50%** del daño total por quemadura e incendiario. También propaga la **Avequemadura** del objetivo afectado a los objetivos cercanos, y restablece la duración de **Avequemadura**. El efecto de esparcimiento se puede activar 1 vez cada **5**seg.",
+				"description": "Cuando una **Pluma de Gorrión** impacta a un objetivo, activa un efecto de propagación que inflige daño de área adicional igual a **0.5%** del daño total por quemadura e incendiario. También propaga la **Avequemadura** del objetivo afectado a los objetivos cercanos, y restablece la duración de **Avequemadura**. El efecto de esparcimiento se puede activar 1 vez cada **5**seg.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4974,7 +5779,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Cuando los PS del nómada estén por debajo del **50%** de los PS Máx., cada **0.5**seg, consumes **1** **Pluma de Gorrión** y recuperas **2%** de tus PS Máx. (aumenta a **3%** de los PS Máx. en el modo individual) hasta que los PS del nómada estén completos o se hayan consumido todas las **Plumas de Gorrión**. Este efecto funciona en la ranura secundaria.",
+				"description": "Cuando los PS del nómada estén por debajo del **50%** de los PS Máx., cada **0.5**seg, consumes **1** **Pluma de Gorrión** y recuperas **1.5%** de tus PS Máx. (aumenta a **3%** de los PS Máx. en el modo individual) hasta que los PS del nómada estén completos o se hayan consumido todas las **Plumas de Gorrión**. Este efecto funciona en la ranura secundaria.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4998,7 +5803,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Aumenta el daño de fuego un **14%** adicional cuando estás bajo el estado de **Cúspide**.",
+				"description": "Aumenta el daño de fuego un **0.14%** adicional cuando estás bajo el estado de **Cúspide**.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5016,6 +5821,32 @@
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
 			"avatarID": "wumi",
+			"age": "20 de octubre",
+			"gender": "Femenino",
+			"state": "Distrito 7 de Hykros",
+			"city": "Espejia",
+			"rating": "wuwei_imitation_31",
+			"gp": [
+				"game",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 刘雯"
+				},
+				{
+					"Japanese": "CV : M・A・O"
+				},
+				{
+					"English": "CV : Anne Yatco"
+				},
+				{
+					"Korean": "CV : 김연우"
+				},
+				{
+					"Portuguese": "CV : Pâmela Rodrigues"
+				}
+			],
 			"id": "imitation_31"
 		},
 		"description": "El látigo preferido de la nueva Ejecutora, Umi. Lo que más le gusta a Umi es que normalmente no se tropieza con él.",
@@ -5129,7 +5960,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Al cambiar a Mobius, ganas inmediatamente **30** puntos de calentamiento. Enfriamiento: **17**seg. Al entrar a Truco de Magia, inflige daño de área igual a **8.4%** del ATQ a los objetivos cercanos y reduce su resistencia física un **-10%** por **20**seg.",
+				"description": "Al cambiar a Mobius, ganas inmediatamente **30** puntos de calentamiento. Enfriamiento: **17**seg. Al entrar a Truco de Magia, inflige daño de área igual a **8.4%** del ATQ a los objetivos cercanos y reduce su resistencia física un **-0.1%** por **20**seg.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5145,7 +5976,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Al terminar Truco de Magia antes de tiempo, infliges daño de área amplio por **13**seg. Reduce el enfriamiento actual de la habilidad de Mobius y aumenta el daño físico un **25%** por un periodo (este efecto no se aplica a Mobius). Si al Truco de Magia le quedan más de **13**seg, ganas **200** de carga de arma. Cuanto más tiempo quede cuando termine el Truco de Magia, mayor será el daño de área, mayor será la reducción de enfriamiento de habilidades y más durará el refuerzo de daño físico. El daño de área infligido tiene un límite de **2%** del ATQ (el daño máximo se inflige cuando el tiempo restante es superior a **13**seg). La reducción de enfriamiento máxima es de **13**seg, y el refuerzo de daño físico puede durar hasta **20**seg.",
+				"description": "Al terminar Truco de Magia antes de tiempo, infliges daño de área amplio por **13**seg. Reduce el enfriamiento actual de la habilidad de Mobius y aumenta el daño físico un **0.25%** por un periodo (este efecto no se aplica a Mobius). Si al Truco de Magia le quedan más de **13**seg, ganas **200** de carga de arma. Cuanto más tiempo quede cuando termine el Truco de Magia, mayor será el daño de área, mayor será la reducción de enfriamiento de habilidades y más durará el refuerzo de daño físico. El daño de área infligido tiene un límite de **2%** del ATQ (el daño máximo se inflige cuando el tiempo restante es superior a **13**seg). La reducción de enfriamiento máxima es de **13**seg, y el refuerzo de daño físico puede durar hasta **20**seg.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5161,7 +5992,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Obtienes el efecto Marioneta Psíquica al entrar en el Truco de Magia, lo que aumenta el Refuerzo de Daño Físico de Mobius a **15%**. Durante Truco de Magia, recuperas **2%** de tus PS Máx. y **10** carga de arma cada segundo.",
+				"description": "Obtienes el efecto Marioneta Psíquica al entrar en el Truco de Magia, lo que aumenta el Refuerzo de Daño Físico de Mobius a **15%**. Durante Truco de Magia, recuperas **2%** de tus PS Máx. y **1000** carga de arma cada segundo.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5187,6 +6018,33 @@
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
 			"avatarID": "feise",
+			"age": "23 de agosto",
+			"gender": "Femenino",
+			"state": "Palacio Fantasma",
+			"city": "Fuegovilla",
+			"rating": "wuwei_imitation_51",
+			"gp": [
+				"everydayObjects",
+				"collection",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈彦亦"
+				},
+				{
+					"Japanese": "CV : 田中 理恵"
+				},
+				{
+					"English": "CV : Alexis Tipton"
+				},
+				{
+					"Korean": "CV : 강새봄"
+				},
+				{
+					"Portuguese": "CV : LUCIANA BAROLI"
+				}
+			],
 			"id": "imitation_51"
 		},
 		"description": "Algunas flores ocultan una intención letal.",
@@ -5292,7 +6150,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia de Fuego**: Aumenta el ATQ de fuego un **20%** y la resistencia al fuego un **40%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego o Reacción al Fuego; Resonancia de Fuego tiene prioridad.\r\n**Explosión Ardiente: Corte Veloz**: Cuando **Floración Interminable** está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a **38%** del ATQ de fuego, más **1%** de los PS Máx. del nómada, más **19%** de la suma de todos los tipos de resistencias del nómada, más **69%** del crítico. Mientras estés en combate y cada **0.5**seg, el daño del siguiente Corte Veloz aumentará **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. Explosión Ardiente: El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si tienes **1** arma de escarcha/éléctrica/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por **1.3**. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales",
+				"description": "**Resonancia de Fuego**: Aumenta el ATQ de fuego un **20%** y la resistencia al fuego un **40%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego o Reacción al Fuego; Resonancia de Fuego tiene prioridad.\r\n**Explosión Ardiente: Corte Veloz**: Cuando **Floración Interminable** está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a **37.5%** del ATQ de fuego, más **0.5%** de los PS Máx. del nómada, más **18.75%** de la suma de todos los tipos de resistencias del nómada, más **68.75%** del crítico. Mientras estés en combate y cada **0.5**seg, el daño del siguiente Corte Veloz aumentará **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. Explosión Ardiente: El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si tienes **1** arma de escarcha/éléctrica/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por **130**. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5358,6 +6216,33 @@
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
 			"avatarID": "fenlier",
+			"age": "13 de febrero",
+			"gender": "Femenino",
+			"state": "Club Oasis",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_32",
+			"gp": [
+				"toy",
+				"collection",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 孙艳琦"
+				},
+				{
+					"Japanese": "CV : 丹下 桜"
+				},
+				{
+					"English": "CV : Corina Boetger"
+				},
+				{
+					"Korean": "CV : 강은애"
+				},
+				{
+					"Portuguese": "CV : Jullie"
+				}
+			],
 			"id": "imitation_32"
 		},
 		"description": "Un dispositivo especial que convierte las ondas de sonido en ataque. Cuando se rompen los grilletes, las corrientes de la muerte se convierten en afiladas garras que lo desgarran todo.",
@@ -5523,6 +6408,34 @@
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
 			"avatarID": "lan",
+			"age": "5 de mayo",
+			"gender": "Femenino",
+			"state": "Los Guardias Sombríos",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_34",
+			"gp": [
+				"Rarity",
+				"everydayObjects",
+				"Vera",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈雨"
+				},
+				{
+					"Japanese": "CV : 内田 真礼"
+				},
+				{
+					"English": "CV : Sarah Wiedenheft"
+				},
+				{
+					"Korean": "CV : 박리나"
+				},
+				{
+					"Portuguese": "CV : Luiza Caspary"
+				}
+			],
 			"id": "imitation_34"
 		},
 		"description": "Arma en forma de paraguas exclusiva de Zhuque. Por su estructura única, Ave Bermellón no solo puede convertirse en una herramienta para destruir enemigos con energía, sino que también bloquea la vista de los demás y oculta a quien la porta.",
@@ -5662,7 +6575,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Choque Ardiente y el daño transferido ignoran **60%** de la resistencia al fuego del objetivo.\r\nEl daño de fuego causado por Corrosión aumenta un **10%**.",
+				"description": "Choque Ardiente y el daño transferido ignoran **60%** de la resistencia al fuego del objetivo.\r\nEl daño de fuego causado por Corrosión aumenta un **0.1%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -5670,7 +6583,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Aumenta el daño infligido por Llamas Danzantes e Impacto Aéreo en **50%**.\r\nEl multiplicador de las sombrillas que giran rápidamente, Barrido Fénix y Choque Ardiente, ahora es Sombrilla de Polipluma más **2**.",
+				"description": "Aumenta el daño infligido por Llamas Danzantes e Impacto Aéreo en **0.5%**.\r\nEl multiplicador de las sombrillas que giran rápidamente, Barrido Fénix y Choque Ardiente, ahora es Sombrilla de Polipluma más **2**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -5688,6 +6601,34 @@
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
 			"avatarID": "yikaluosi",
+			"age": "24 de octubre",
+			"gender": "Masculino",
+			"state": "Escuadrón de Mooke",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_35",
+			"gp": [
+				"collection",
+				"metal",
+				"Vera",
+				"Asshai"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 沐霏"
+				},
+				{
+					"Japanese": "CV : 梶原 岳人"
+				},
+				{
+					"English": "CV : RyMcKeand"
+				},
+				{
+					"Korean": "CV : 김유림"
+				},
+				{
+					"Portuguese": "CV : Úrsula Bezerra"
+				}
+			],
 			"id": "imitation_35"
 		},
 		"description": "Una inusual arma de colección fusionada con renovaciones de moda únicas. Que el portador camine con valor hacia la desolada oscuridad, aunque sea como una polilla volando hacia la llama.",
@@ -5789,7 +6730,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Al usar cualquier habilidad de arma, VelociYo-yo puede activar **armonía**, lo que inflige daño a los objetivos cercanos igual a **NaN%** de los PS perdidos del nómada. El daño infligido no será inferior a **NaN%** del ATQ máx. del nómada, ni superior a **NaN%** del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.\r\nCuando se usa cualquier descarga de arma, VelociYo-yo puede activar **ajuste**, lo que inflige daño a los objetivos cercanos igual a un **NaN%** de los PS máx. del nómada. El daño infligido no será superior a **NaN%** del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.",
+				"description": "Al usar cualquier habilidad de arma, VelociYo-yo puede activar **armonía**, lo que inflige daño a los objetivos cercanos igual a **undefined%** de los PS perdidos del nómada. El daño infligido no será inferior a **undefined%** del ATQ máx. del nómada, ni superior a **undefined%** del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.\r\nCuando se usa cualquier descarga de arma, VelociYo-yo puede activar **ajuste**, lo que inflige daño a los objetivos cercanos igual a un **undefined%** de los PS máx. del nómada. El daño infligido no será superior a **undefined%** del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5805,7 +6746,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Al usar Día Desolado, VelociYo-yo puede activar **NaN**seg de **rapidez**: Aumenta la velocidad del VelociYo-yo un **NaN%**, aumenta el daño un **160%**, y el daño causado al atravesar al objetivo se convierte en un daño de área pequeña.",
+				"description": "Al usar Día Desolado, VelociYo-yo puede activar **undefined**seg de **rapidez**: Aumenta la velocidad del VelociYo-yo un **undefined%**, aumenta el daño un **160%**, y el daño causado al atravesar al objetivo se convierte en un daño de área pequeña.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5821,7 +6762,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Aumenta el daño de VelociYo-yo y Regreso a la Soledad en un **NaN%**.",
+				"description": "Aumenta el daño de VelociYo-yo y Regreso a la Soledad en un **undefined%**.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5829,7 +6770,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Aumenta el daño final en un **NaN%** mientras VelociYo-yo está activo.",
+				"description": "Aumenta el daño final en un **undefined%** mientras VelociYo-yo está activo.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5847,6 +6788,33 @@
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
 			"avatarID": "yulan",
+			"age": "9 de febrero",
+			"gender": "Femenino",
+			"state": "Guardia del Reloj Solar",
+			"city": "Dominio 9",
+			"rating": "wuwei_imitation_38",
+			"gp": [
+				"everydayObjects",
+				"collection",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 秦文静"
+				},
+				{
+					"Japanese": "CV : 柚木 涼香"
+				},
+				{
+					"English": "CV : Brianna Knickerbocker"
+				},
+				{
+					"Korean": "CV : 김윤채"
+				},
+				{
+					"Portuguese": "CV : LUIZA PORTO"
+				}
+			],
 			"id": "imitation_38"
 		},
 		"description": "Unidad significa consolidación. Es el arma que Ji Yu escogió para Yu Lan; posee la última tecnología del Dominio 9. No te sorprendas si eres testigo de alguna visión milagrosa después de usarla con la marca de tiempo.",
@@ -5970,7 +6938,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Hielo Destructor: Corte Veloz**: Cuando **Unidad** está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a **30%** del ATQ de escarcha, más **0%** de los PS Máx. del nómada, más **15%** de la suma de todos los tipos de resistencias del nómada, más **55%** del crítico. Mientras estés en estado de combate, después de cada **0.5**seg, el daño del siguiente Corte Veloz aumentará una **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si hay **1** arma eléctrica/física/de fuego de cualquier tipo equipada, el daño de Hielo Destructor aumenta **1.3** veces. Además, el daño de Hielo Destructor no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Hielo Destructor: Corte Veloz**: Cuando **Unidad** está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a **30%** del ATQ de escarcha, más **0.4%** de los PS Máx. del nómada, más **15%** de la suma de todos los tipos de resistencias del nómada, más **55%** del crítico. Mientras estés en estado de combate, después de cada **0.5**seg, el daño del siguiente Corte Veloz aumentará una **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si hay **1** arma eléctrica/física/de fuego de cualquier tipo equipada, el daño de Hielo Destructor aumenta **130** veces. Además, el daño de Hielo Destructor no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -5978,7 +6946,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Mientras estás en la forma de **Artista Marcial**, después de consumir **3** o más de **Fuerza Interna**, **Unidad** restaura **1** de **Fuerza Interna**. Después, aumenta el daño final del nómada un **5%**, y aumenta el daño de ataque de evasión/ataque normal de **Unidad** un **50%** por **30**seg.\r\nAl estar en forma de **Fuerza Arrolladora**, tras consumir **3** o más de **Espíritu de Pelea**, **Unidad** restaura **1** de **Espíritu de Pelea**. También aumenta el daño final del nómada un **5%** por **15**seg.",
+				"description": "Mientras estás en la forma de **Artista Marcial**, después de consumir **3** o más de **Fuerza Interna**, **Unidad** restaura **100** de **Fuerza Interna**. Después, aumenta el daño final del nómada un **5%**, y aumenta el daño de ataque de evasión/ataque normal de **Unidad** un **50%** por **3000**seg.\r\nAl estar en forma de **Fuerza Arrolladora**, tras consumir **3** o más de **Espíritu de Pelea**, **Unidad** restaura **100** de **Espíritu de Pelea**. También aumenta el daño final del nómada un **5%** por **1500**seg.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -5994,7 +6962,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "En la forma de **Artista Marcial**, si no obtienes **Fuerza Interna** dentro de un lapso de **5**seg, la siguiente adquisición de **Fuerza Interna** otorgará **2** acumulaciones.\r\nEn cualquier forma, cuando **Unidad** consume **3** o más de **Fuerza Interna** o de **Espíritu de Pelea**, recuperas un **10%** de tus PS Máx. En el modo individual, la recuperación de PS aumenta a **20%**. Este efecto solo se puede activar 1 vez cada **8**seg en forma de **Fuerza Arrolladora**. En la forma de **Artista Marcial**, no hay limitaciones.",
+				"description": "En la forma de **Artista Marcial**, si no obtienes **Fuerza Interna** dentro de un lapso de **500**seg, la siguiente adquisición de **Fuerza Interna** otorgará **2** acumulaciones.\r\nEn cualquier forma, cuando **Unidad** consume **3** o más de **Fuerza Interna** o de **Espíritu de Pelea**, recuperas un **10%** de tus PS Máx. En el modo individual, la recuperación de PS aumenta a **20%**. Este efecto solo se puede activar 1 vez cada **8**seg en forma de **Fuerza Arrolladora**. En la forma de **Artista Marcial**, no hay limitaciones.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6010,7 +6978,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Después de que **Unidad** consuma **Fuerza Interna** o **Espíritu de Pelea**, al recibir daño letal, evitas el daño letal 1 vez y recuperas **20%** de tus PS Máx. (no disponible en la Liga Ápex). En el modo individual, la recuperación de PS aumenta a **40%**. Ambos efectos solo se pueden activar 1 vez cada **60**seg.",
+				"description": "Después de que **Unidad** consuma **Fuerza Interna** o **Espíritu de Pelea**, al recibir daño letal, evitas el daño letal 1 vez y recuperas **20%** de tus PS Máx. (no disponible en la Liga Ápex). En el modo individual, la recuperación de PS aumenta a **40%**. Ambos efectos solo se pueden activar 1 vez cada **6000**seg.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6018,7 +6986,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Mientras estás en la forma **Artista Marcial**, aumenta el daño de ataque de evasión/ataque normal de **Unidad** un **70%** adicional. Después de consumir **Fuerza Interna**, aumenta el daño final del nómada un **10%** durante **30**seg.\r\nMientras estás en forma de **Fuerza Arrolladora**, después de que **Unidad** consume **Espíritu de Pelea**, aumenta el daño final del nómada un **15%** por **30**seg.",
+				"description": "Mientras estás en la forma **Artista Marcial**, aumenta el daño de ataque de evasión/ataque normal de **Unidad** un **70%** adicional. Después de consumir **Fuerza Interna**, aumenta el daño final del nómada un **10%** durante **3000**seg.\r\nMientras estás en forma de **Fuerza Arrolladora**, después de que **Unidad** consume **Espíritu de Pelea**, aumenta el daño final del nómada un **15%** por **3000**seg.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6036,6 +7004,34 @@
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
 			"avatarID": "mingjing",
+			"age": "12 de noviembre",
+			"gender": "Masculino",
+			"state": "Dominio 9",
+			"city": "Desconocido",
+			"rating": "wuwei_imitation_50",
+			"gp": [
+				"everydayObjects",
+				"Asshai",
+				"Vera",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 马洋"
+				},
+				{
+					"Japanese": "CV : 中村 悠一"
+				},
+				{
+					"English": "CV : Johnny Young"
+				},
+				{
+					"Korean": "CV : 신용우"
+				},
+				{
+					"Portuguese": "CV : Wendel Bezerra"
+				}
+			],
 			"id": "imitation_50"
 		},
 		"description": "Un imponente y afilado espadón que la gente común apenas y tiene las fuerzas para cargarlo. Su poder destructivo se yuxtapone a la anchura de la cuchilla y a la sensación de seguridad que aporta.",
@@ -6135,7 +7131,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia Física**: Aumenta el ATQ físico un **15%** y la resistencia física un **25%**. Se activa equipando **2** o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Física; Resonancia Física tiene prioridad.\r\n**Resonancia de Fuego**: Aumenta el ATQ de fuego un **15%** y la resistencia al fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego; Resonancia de Fuego tiene prioridad.\r\n\r\n**Destrucción de Escudo: Separación**: Después de usar **Abismo Absoluto**, cada segundo inflige daño igual a **70%** del ATQ físico, más **1%** de los PS Máx. del nómada, más **36%** de la suma de todos los tipos de resistencias del nómada, más **1.35%** del crítico durante **30**seg a los objetivos impactados. El daño de varias Separaciones no se acumula, y el daño por destrucción de escudo cuenta como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/de escarcha equipada, el daño de destrucción de escudo se multiplica por **1.3**. Además, el daño de destrucción de escudo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia Física**: Aumenta el ATQ físico un **15%** y la resistencia física un **25%**. Se activa equipando **2** o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Física; Resonancia Física tiene prioridad.\r\n**Resonancia de Fuego**: Aumenta el ATQ de fuego un **15%** y la resistencia al fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego; Resonancia de Fuego tiene prioridad.\r\n\r\n**Destrucción de Escudo: Separación**: Después de usar **Abismo Absoluto**, cada segundo inflige daño igual a **70%** del ATQ físico, más **1%** de los PS Máx. del nómada, más **36%** de la suma de todos los tipos de resistencias del nómada, más **135%** del crítico durante **3000**seg a los objetivos impactados. El daño de varias Separaciones no se acumula, y el daño por destrucción de escudo cuenta como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/de escarcha equipada, el daño de destrucción de escudo se multiplica por **130**. Además, el daño de destrucción de escudo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6175,7 +7171,7 @@
 				"need": "Zeke_physic_plasm"
 			},
 			{
-				"description": "Después de usar **Abismo Absoluto**, reduce el daño que el nómada recibe un **10%** (**20%** en el modo individual) por **30**seg.",
+				"description": "Después de usar **Abismo Absoluto**, reduce el daño que el nómada recibe un **10%** (**20%** en el modo individual) por **3000**seg.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6201,6 +7197,33 @@
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",
 			"avatarID": "feiouna",
+			"age": "17 de abril",
+			"gender": "Femenino",
+			"state": "Innars",
+			"city": "Innars",
+			"rating": "wuwei_imitation_36",
+			"gp": [
+				"collection",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 刘雪"
+				},
+				{
+					"Japanese": "CV : 石見 舞菜香"
+				},
+				{
+					"English": "CV : Lindsay Sheppard"
+				},
+				{
+					"Korean": "CV : 양정화"
+				},
+				{
+					"Portuguese": "CV : Mayara Stefane"
+				}
+			],
 			"id": "imitation_36"
 		},
 		"description": "Una extraña nanoarma que genera cuchillas que cortan el metal como si fuera mantequilla. Solía adoptar la forma de un brazalete enrollado alrededor de la muñeca de su propietaria mientras estaba en estado de reposo. De ahí vienen las descripciones que hace su dueña sobre ella.",

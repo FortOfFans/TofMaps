@@ -384,6 +384,33 @@
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
+			"age": "9 juillet",
+			"gender": "Féminin",
+			"state": "Service médical d'Hykros",
+			"city": "Banges",
+			"rating": "wuwei_imitation_14",
+			"gp": [
+				"everydayObjects",
+				"decorate",
+				"collection"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王雅欣"
+				},
+				{
+					"Japanese": "CV : 能登 麻美子"
+				},
+				{
+					"English": "CV : Kayli Mills"
+				},
+				{
+					"Korean": "CV : 김가령"
+				},
+				{
+					"Portuguese": "CV : Flávia Narciso"
+				}
+			],
 			"id": "imitation_14"
 		},
 		"description": "Un bâton mécanique avec une rune en forme de croix gravée dessus. Capable de pardonner les péchés ou d'infliger des punitions.",
@@ -535,6 +562,33 @@
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
+			"age": "11 avril",
+			"gender": "Féminin",
+			"state": "Banges",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_15",
+			"gp": [
+				"restrictedGoods",
+				"garageKit",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 裴致莹"
+				},
+				{
+					"Japanese": "CV : 花澤 香菜"
+				},
+				{
+					"English": "CV : Kira Buckland"
+				},
+				{
+					"Korean": "CV : 윤아영"
+				},
+				{
+					"Portuguese": "CV : Bruna Matta"
+				}
+			],
 			"id": "imitation_15"
 		},
 		"description": "L'arme à feu la plus redoutable jamais créée, aussi connue sous le nom de tourelle mobile.",
@@ -657,6 +711,33 @@
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
 			"avatarID": "genuonuo",
+			"age": "6 mars",
+			"gender": "Féminin",
+			"state": "Inconnu",
+			"city": "Innars",
+			"rating": "wuwei_imitation_27",
+			"gp": [
+				"Rarity",
+				"collection",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 常丹瑞"
+				},
+				{
+					"Japanese": "CV : 釘宮 理恵"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 유영"
+				},
+				{
+					"Portuguese": "CV : Nina Carvalho"
+				}
+			],
 			"id": "imitation_27"
 		},
 		"description": "Bien trop dangereuse pour n'être qu'un jouet. Un enfant n'aurait aucunement pu mettre la main dessus de manière légale. Qui sait quel genre de technologie a permis sa reconversion… Elle a peut-être été récupérée quelque part hors des sentiers battus.",
@@ -821,6 +902,33 @@
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
+			"age": "17 août",
+			"gender": "Féminin",
+			"state": "Victoria Security",
+			"city": "Crown",
+			"rating": "wuwei_imitation_2",
+			"gp": [
+				"game",
+				"decorate",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王燕华"
+				},
+				{
+					"Japanese": "CV : 小清水 亜美"
+				},
+				{
+					"English": "CV : Melissa Fahn"
+				},
+				{
+					"Korean": "CV : 박리나"
+				},
+				{
+					"Portuguese": "CV : Amanda Tavares"
+				}
+			],
 			"id": "imitation_2"
 		},
 		"description": "Personne ne veut se retrouver du mauvais côté de ce merlin.",
@@ -978,6 +1086,33 @@
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
+			"age": "8 mai",
+			"gender": "Féminin",
+			"state": "Refuge HT201",
+			"city": "Refuge HT201",
+			"rating": "wuwei_imitation_16",
+			"gp": [
+				"Rarity",
+				"collection",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王晓彤"
+				},
+				{
+					"Japanese": "CV : 日高 里菜"
+				},
+				{
+					"English": "CV : Xanthe Huynh"
+				},
+				{
+					"Korean": "CV : 김율"
+				},
+				{
+					"Portuguese": "CV : Adriana Pissardini"
+				}
+			],
 			"id": "imitation_16"
 		},
 		"description": "Se fond parfaitement dans la nuit noire.",
@@ -1123,6 +1258,33 @@
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
+			"age": "14 août",
+			"gender": "Féminin",
+			"state": "Inconnu",
+			"city": "Warren",
+			"rating": "wuwei_imitation_4",
+			"gp": [
+				"everydayObjects",
+				"restrictedGoods",
+				"game"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 曹雅雯"
+				},
+				{
+					"Japanese": "CV : 大久保 瑠美"
+				},
+				{
+					"English": "CV : Jeannie Tirado"
+				},
+				{
+					"Korean": "CV : 정유정"
+				},
+				{
+					"Portuguese": "CV : Rebeca Zadra"
+				}
+			],
 			"id": "imitation_4"
 		},
 		"description": "Une hallebarde imprégnée de la puissance du tonnerre. Elle est idéale pour les dégâts en rafale, et sa longueur en fait une arme adaptée à différentes portées.",
@@ -1281,6 +1443,33 @@
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
 			"avatarID": "wuwan",
+			"age": "17décembre",
+			"gender": "Masculin",
+			"state": "Inconnu",
+			"city": "Astra",
+			"rating": "wuwei_imitation_13",
+			"gp": [
+				"everydayObjects",
+				"garageKit",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 翟巍"
+				},
+				{
+					"Japanese": "CV : 岡本 信彦"
+				},
+				{
+					"English": "CV : Casey Mongillo"
+				},
+				{
+					"Korean": "CV : 김다올"
+				},
+				{
+					"Portuguese": "CV : Vagner Fagundes"
+				}
+			],
 			"id": "imitation_13"
 		},
 		"description": "Une arme létale, imprévisible et silencieuse.",
@@ -1433,6 +1622,32 @@
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
 			"avatarID": "meilier",
+			"age": "10octobre",
+			"gender": "Féminin",
+			"state": "Hykros",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_3",
+			"gp": [
+				"collection",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 秦紫翼"
+				},
+				{
+					"Japanese": "CV : 石川 由依"
+				},
+				{
+					"English": "CV : Kira Buckland"
+				},
+				{
+					"Korean": "CV : 이다은"
+				},
+				{
+					"Portuguese": "CV : Patt Souza"
+				}
+			],
 			"id": "imitation_3"
 		},
 		"description": "Une élégante lame de givre qui évoque une fleur immaculée s'épanouissant sur une falaise enneigée.",
@@ -1597,6 +1812,33 @@
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
 			"avatarID": "sifengyuanyu",
+			"age": "24 mars",
+			"gender": "Féminin",
+			"state": "Héritiers d'Aida",
+			"city": "Astra",
+			"rating": "wuwei_imitation_7",
+			"gp": [
+				"garageKit",
+				"restrictedGoods",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 徐徐"
+				},
+				{
+					"Japanese": "CV : 小原 好美"
+				},
+				{
+					"English": "CV : Amber Lee Connors"
+				},
+				{
+					"Korean": "CV : 손선영"
+				},
+				{
+					"Portuguese": "CV : Tânia Gaidarji"
+				}
+			],
 			"id": "imitation_7"
 		},
 		"description": "Les flèches de cet arc renferment le pouvoir du givre.",
@@ -1743,6 +1985,33 @@
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
 			"avatarID": "kekelite",
+			"age": "1er juin",
+			"gender": "Féminin",
+			"state": "Service médical d'Hykros",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_11",
+			"gp": [
+				"toy",
+				"decorate",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 胡婷婷"
+				},
+				{
+					"Japanese": "CV : 鬼頭 明里"
+				},
+				{
+					"English": "CV : Lexi Fontaine"
+				},
+				{
+					"Korean": "CV : 강시현"
+				},
+				{
+					"Portuguese": "CV : Mari Guedes"
+				}
+			],
 			"id": "imitation_11"
 		},
 		"description": "Maintient un froid constant pour soigner les alliés.",
@@ -1896,6 +2165,33 @@
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
 			"avatarID": "KING",
+			"age": "3 novembre",
+			"gender": "Masculin",
+			"state": "Ravageurs",
+			"city": "Crown",
+			"rating": "wuwei_imitation_9",
+			"gp": [
+				"collection",
+				"Rarity",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐子晰"
+				},
+				{
+					"Japanese": "CV : 松岡 禎丞"
+				},
+				{
+					"English": "CV : Johnny Young"
+				},
+				{
+					"Korean": "CV : 류승곤"
+				},
+				{
+					"Portuguese": "CV : Leonardo Camillo"
+				}
+			],
 			"id": "imitation_9"
 		},
 		"description": "Une puissante faux, idéale pour l'attaque et la défense. Capable de tuer instantanément sa cible à une certaine distance.",
@@ -2054,6 +2350,33 @@
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
 			"avatarID": "gulan",
+			"age": "26 juin",
+			"gender": "Féminin",
+			"state": "Banges Tech",
+			"city": "Crown",
+			"rating": "wuwei_imitation_10",
+			"gp": [
+				"metal",
+				"collection",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈睿婕"
+				},
+				{
+					"Japanese": "CV : 川澄 綾子"
+				},
+				{
+					"English": "CV : Stephanie Kerbis"
+				},
+				{
+					"Korean": "CV : 김예림"
+				},
+				{
+					"Portuguese": "CV : Jussara Marques"
+				}
+			],
 			"id": "imitation_10"
 		},
 		"description": "Inventé par un scientifique fou. Avec ses résultats de test impressionnants, on ne peut qu'imaginer la puissance qu'il pourrait avoir à pleine capacité.",
@@ -2207,6 +2530,33 @@
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
 			"avatarID": "kelaodiya",
+			"age": "16janvier",
+			"gender": "Féminin",
+			"state": "Hykros",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_12",
+			"gp": [
+				"everydayObjects",
+				"Rarity",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 贺文潇"
+				},
+				{
+					"Japanese": "CV : 小松 未可子"
+				},
+				{
+					"English": "CV : Elizabeth Simmons"
+				},
+				{
+					"Korean": "CV : 성예원"
+				},
+				{
+					"Portuguese": "CV : Thaís Durães"
+				}
+			],
 			"id": "imitation_12"
 		},
 		"description": "La lame écarlate représente le courage et la détermination, tandis que le bord tranchant rend la justice.",
@@ -2360,6 +2710,33 @@
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
 			"avatarID": "xiluo",
+			"age": "22 septembre",
+			"gender": "Féminin",
+			"state": "Inconnu",
+			"city": "Warren",
+			"rating": "wuwei_imitation_8",
+			"gp": [
+				"metal",
+				"collection",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 蔡娜"
+				},
+				{
+					"Japanese": "CV : 小澤 亜李"
+				},
+				{
+					"English": "CV : Kristen McGuire"
+				},
+				{
+					"Korean": "CV : 양정화"
+				},
+				{
+					"Portuguese": "CV : Fernanda Bullara"
+				}
+			],
 			"id": "imitation_8"
 		},
 		"description": "Une arme ronde et tranchante qui a voyagé sur les mers avec son propriétaire.",
@@ -2512,6 +2889,32 @@
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
 			"avatarID": "ling",
+			"age": "6 juin",
+			"gender": "Masculin",
+			"state": "Inconnu",
+			"city": "Banges",
+			"rating": "wuwei_imitation_1",
+			"gp": [
+				"game",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 蔡海婷"
+				},
+				{
+					"Japanese": "CV : 村瀬 歩"
+				},
+				{
+					"English": "CV : Griffin Burns"
+				},
+				{
+					"Korean": "CV : 김나율"
+				},
+				{
+					"Portuguese": "CV : Henry Walnut"
+				}
+			],
 			"id": "imitation_1"
 		},
 		"description": "Les utilisateurs du Cube étrange aiment réfléchir à toutes les façons d'éliminer les contraintes inutiles.",
@@ -2665,6 +3068,32 @@
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
 			"avatarID": "saimier",
+			"age": "20 mai",
+			"gender": "Féminin",
+			"state": "Hykros",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_5",
+			"gp": [
+				"game",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐雅菁"
+				},
+				{
+					"Japanese": "CV : 水樹 奈々"
+				},
+				{
+					"English": "CV : Brittany Cox"
+				},
+				{
+					"Korean": "CV : 서유리"
+				},
+				{
+					"Portuguese": "CV : Fernanda Bullara"
+				}
+			],
 			"id": "imitation_5"
 		},
 		"description": "Ces armes à feu s'inspirent des canons à rails, et doivent être utilisées par deux.",
@@ -2811,6 +3240,33 @@
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
 			"avatarID": "xiuma",
+			"age": "12janvier",
+			"gender": "Féminin",
+			"state": "Hykros",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_6",
+			"gp": [
+				"everydayObjects",
+				"game",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐雅菁"
+				},
+				{
+					"Japanese": "CV : 高橋 李依"
+				},
+				{
+					"English": "CV : Colleen O Shaughnessey"
+				},
+				{
+					"Korean": "CV : 김보나"
+				},
+				{
+					"Portuguese": "CV : Marli Bortoletto"
+				}
+			],
 			"id": "imitation_6"
 		},
 		"description": "Une hache bouclier appartenant à la série d'armes V2, une collection d'armes forgées selon des techniques spéciales.",
@@ -2957,6 +3413,33 @@
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
 			"avatarID": "mimi",
+			"age": "23juillet",
+			"gender": "Féminin",
+			"state": "Pavillon de Tianzhang",
+			"city": "Tonnerreville",
+			"rating": "wuwei_imitation_41",
+			"gp": [
+				"toy",
+				"garageKit",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 裴致莹"
+				},
+				{
+					"Japanese": "CV : 新井 里美"
+				},
+				{
+					"English": "CV : Alexis Tipton"
+				},
+				{
+					"Korean": "CV : 윤은서"
+				},
+				{
+					"Portuguese": "CV : BIANCA ALENCAR"
+				}
+			],
 			"id": "imitation_41"
 		},
 		"description": "Une paire d'éventails qui renferme une énergie considérable, capable de raser les montagnes et de détruire le monde.\r\nLorsque le Dragon azur chevauche les nuages, le vent se lève aux quatre coins du monde.",
@@ -3050,7 +3533,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de foudre**: accroît l'ATQ de foudre de **15%** et la résistance à la foudre de **25%**. S'active en équipant au moins **2**armes de foudre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n\r\n**Gronde-tonnerre: Sur le terrain**: quand un coup est réussi avec **Dragon azur**, inflige des dégâts aux cibles proches équivalant à **1.313%** de l'ATQ de foudre + **2%** des PV max de l'Explorateur + **69%** de la somme de tous les types de résistance de l'Explorateur + **2.5%** de crit. Cet effet peut être déclenché une fois toutes les **1,5**seconde. Les dégâts de Gronde-tonnerre sont comptabilisés comme des dégâts d'attaque normale. Si **1**arme de feu, de givre ou physique est équipée, les dégâts de Gronde-tonnerre sont multipliés par **1.3**. De plus, les dégâts de Gronde-tonnerre ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent pas d'effets d'attaque supplémentaires.",
+				"description": "**Résonance de foudre**: accroît l'ATQ de foudre de **15%** et la résistance à la foudre de **25%**. S'active en équipant au moins **2**armes de foudre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n\r\n**Gronde-tonnerre: Sur le terrain**: quand un coup est réussi avec **Dragon azur**, inflige des dégâts aux cibles proches équivalant à **131.3%** de l'ATQ de foudre + **1.9%** des PV max de l'Explorateur + **68.8%** de la somme de tous les types de résistance de l'Explorateur + **250%** de crit. Cet effet peut être déclenché une fois toutes les **1,5**seconde. Les dégâts de Gronde-tonnerre sont comptabilisés comme des dégâts d'attaque normale. Si **1**arme de feu, de givre ou physique est équipée, les dégâts de Gronde-tonnerre sont multipliés par **130**. De plus, les dégâts de Gronde-tonnerre ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent pas d'effets d'attaque supplémentaires.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3116,6 +3599,33 @@
 			"weapon": "linghan_ice",
 			"icon": "imitation_43",
 			"avatarID": "linghan",
+			"age": "7juin",
+			"gender": "Féminin",
+			"state": "Pavillonde Longjian",
+			"city": "Villemarais",
+			"rating": "wuwei_imitation_43",
+			"gp": [
+				"collection",
+				"decorate",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : kiyo"
+				},
+				{
+					"Japanese": "CV : 原 由実"
+				},
+				{
+					"English": "CV : Dominique North"
+				},
+				{
+					"Korean": "CV : 김윤채"
+				},
+				{
+					"Portuguese": "CV : SAMIRA FERNANDES"
+				}
+			],
 			"id": "imitation_43"
 		},
 		"description": "Derrière la danse divine de mon épée et mes manches virevoltantes, qui peut sonder le fond de mon cœur ?",
@@ -3209,7 +3719,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Froid extrême: Décharge**: après avoir utilisé **Technique de l'épée: Glace ombrée**, inflige chaque seconde des dégâts équivalant à **70%** de l'ATQ de givre + **10%** des PV max de l'Explorateur + **36%** de la somme de tous les types de résistance de l'Explorateur + **1.35%** de crit pendant **30**secondes. Les dégâts de Décharge multiple ne se cumulent pas et les dégâts de Froid extrême sont comptabilisés comme des dégâts de la compétence. Si **1**arme de foudre, de feu ou physique est équipée, les dégâts de Froid extrême sont multipliés par **1.3**. Par ailleurs, les dégâts de Froid extrême ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
+				"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Froid extrême: Décharge**: après avoir utilisé **Technique de l'épée: Glace ombrée**, inflige chaque seconde des dégâts équivalant à **70%** de l'ATQ de givre + **10%** des PV max de l'Explorateur + **36%** de la somme de tous les types de résistance de l'Explorateur + **135%** de crit pendant **3000**secondes. Les dégâts de Décharge multiple ne se cumulent pas et les dégâts de Froid extrême sont comptabilisés comme des dégâts de la compétence. Si **1**arme de foudre, de feu ou physique est équipée, les dégâts de Froid extrême sont multipliés par **130**. Par ailleurs, les dégâts de Froid extrême ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3217,7 +3727,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Après avoir lancé **Lames de givre**, accroît l'ATQ de givre de l'Explorateur de **10%** et inflige aux cibles proches des dégâts équivalant à **80%** de l'ATQ chaque seconde pendant **30** secondes.",
+				"description": "Après avoir lancé **Lames de givre**, accroît l'ATQ de givre de l'Explorateur de **0.1%** et inflige aux cibles proches des dégâts équivalant à **80%** de l'ATQ chaque seconde pendant **30** secondes.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3233,7 +3743,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "L'Explorateur peut faire apparaître jusqu'à **4****Lames de givre** et le multiplicateur de base des dégâts de **Réduction de température** passe à **360%**.\r\nSi une seule cible est affectée par **Réduction de température** dans un délai de **6**secondes, inflige également l'effet **Veine scellée** à la cible, réduisant sa vitesse de **30%** (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de **Lame de givre** pendant la durée de **Veine scellée**, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à **17%** de l'ATQ + **2%** des PV déjà perdus par la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à **20%** ni supérieurs à **22%** de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets **Veine scellée** et **Réduction de température** de la cible.",
+				"description": "L'Explorateur peut faire apparaître jusqu'à **4****Lames de givre** et le multiplicateur de base des dégâts de **Réduction de température** passe à **360%**.\r\nSi une seule cible est affectée par **Réduction de température** dans un délai de **600**secondes, inflige également l'effet **Veine scellée** à la cible, réduisant sa vitesse de **30%** (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de **Lame de givre** pendant la durée de **Veine scellée**, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à **1700%** de l'ATQ + **2%** des PV déjà perdus par la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à **2000%** ni supérieurs à **2200%** de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets **Veine scellée** et **Réduction de température** de la cible.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3275,6 +3785,33 @@
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
 			"avatarID": "Avatar06",
+			"age": "23 mai",
+			"gender": "Féminin",
+			"state": "Ange de la clémence",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_17",
+			"gp": [
+				"toy",
+				"decorate",
+				"everydayObjects"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 宋媛媛"
+				},
+				{
+					"Japanese": "CV : 戸松 遥"
+				},
+				{
+					"English": "CV : Suzie Yeung"
+				},
+				{
+					"Korean": "CV : 이새아"
+				},
+				{
+					"Portuguese": "CV : Tatiane Keplmair"
+				}
+			],
 			"id": "imitation_17"
 		},
 		"description": "Concepteur inconnu. Le plan du prototype du blaster EM stationnaire spécial a été perdu. Il contient un procédé unique d'économie d'électricité à l'intérieur. Il est extrêmement difficile de le réparer lorsqu'il est usé, mais Cobalt-B de Banges Tech est apparemment capable de le faire. ",
@@ -3428,6 +3965,32 @@
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
 			"avatarID": "Avatar12",
+			"age": "1er février",
+			"gender": "Féminin",
+			"state": "Ange de la clémence",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_28",
+			"gp": [
+				"metal",
+				"everydayObjects"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 杨梦露"
+				},
+				{
+					"Japanese": "CV : 伊藤 静"
+				},
+				{
+					"English": "CV : Antonia Flynn"
+				},
+				{
+					"Korean": "CV : 소연"
+				},
+				{
+					"Portuguese": "CV : Adriana Pissardini"
+				}
+			],
 			"id": "imitation_28"
 		},
 		"description": "La grande épée et le sabre appartenant exclusivement à Frigg, l'Ange de la clémence. Ces armes ont été fabriquées en s'adaptant au corps cybernétique de Frigg. Elles sont distinctes l'une de l'autre, mais Frigg les désigne ensemble sous le nom de Balmung.",
@@ -3575,6 +4138,33 @@
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
 			"avatarID": "leibei",
+			"age": "15 juillet",
+			"gender": "Féminin",
+			"state": "Inconnu",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_21",
+			"gp": [
+				"game",
+				"toy",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 赵爽"
+				},
+				{
+					"Japanese": "CV : 小倉 唯"
+				},
+				{
+					"English": "CV : Lizzie Freeman"
+				},
+				{
+					"Korean": "CV : 이다은"
+				},
+				{
+					"Portuguese": "CV : Letícia Celini"
+				}
+			],
 			"id": "imitation_21"
 		},
 		"description": "Une arme spéciale que Lin a demandé au département R&D de Mirroria de mettre au point pour Ruby. Ses fonctions principales sont de jouer à la maison de poupée avec Ruby, de la réveiller le matin, de l'accompagner partout, et surtout de la protéger. ",
@@ -3728,6 +4318,33 @@
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
 			"avatarID": "bupoxiao",
+			"age": "11 octobre",
+			"gender": "Féminin",
+			"state": "Forces spéciales de sécurité de Mirroria",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_22",
+			"gp": [
+				"metal",
+				"everydayObjects",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐小喜"
+				},
+				{
+					"Japanese": "CV : 雨宮 天"
+				},
+				{
+					"English": "CV : EmiLo"
+				},
+				{
+					"Korean": "CV : 김나율"
+				},
+				{
+					"Portuguese": "CV : Letícia Quinto"
+				}
+			],
 			"id": "imitation_22"
 		},
 		"description": "Un tachi spécial qui s'adapte aux expériences avec l'Hyper flux. Il est capable de ressentir l'état mental de son utilisateur et de générer Ombre de l'épée pour l'assister au combat.",
@@ -3869,7 +4486,7 @@
 				"need": "Dkatana_ice_plasm"
 			},
 			{
-				"description": "Après avoir touché une cible avec Déferlement, augmente les dégâts de givre de **11%** pendant **15** secondes.\r\nEn déclenchant un blocage avec l'Ombre de l'épée, réduit de **25%** les dégâts de givre infligés par les cibles ennemies à proximité pendant **12** secondes.",
+				"description": "Après avoir touché une cible avec Déferlement, augmente les dégâts de givre de **0.11%** pendant **15** secondes.\r\nEn déclenchant un blocage avec l'Ombre de l'épée, réduit de **0.25%** les dégâts de givre infligés par les cibles ennemies à proximité pendant **12** secondes.",
 				"stats": {
 					"shatter": 13.9,
 					"charge": 8
@@ -3887,6 +4504,33 @@
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
 			"avatarID": "linye",
+			"age": "3 septembre",
+			"gender": "Féminin",
+			"state": "District7 d'Hykros",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_23",
+			"gp": [
+				"metal",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈婷婷"
+				},
+				{
+					"Japanese": "CV : 南條 愛乃"
+				},
+				{
+					"English": "CV : Erin Yvette"
+				},
+				{
+					"Korean": "CV : 조경이"
+				},
+				{
+					"Portuguese": "CV : Carol Valença"
+				}
+			],
 			"id": "imitation_23"
 		},
 		"description": "D'après le design initial, il s'agit d'une arme légère et dissimulée qui peut se transformer en une lame imposante par son utilisateur. Du coup, cette arme n'est plus du tout légère et encore moins dissimulée.",
@@ -4044,6 +4688,33 @@
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
 			"avatarID": "tianlang",
+			"age": "23 mars",
+			"gender": "Masculin",
+			"state": "Éco-centre de Mirroria",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_29",
+			"gp": [
+				"collection",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 淦子齐"
+				},
+				{
+					"Japanese": "CV : 石川 界人"
+				},
+				{
+					"English": "CV : Kaiji Tang"
+				},
+				{
+					"Korean": "CV : 박요한"
+				},
+				{
+					"Portuguese": "CV : Glauco Marques"
+				}
+			],
 			"id": "imitation_29"
 		},
 		"description": "Cette lance longue enveloppée d'éclairs est le Brise-tonnerre SMA1-TS00. Elle est capable de déchaîner le pouvoir qu'elle renferme de façon inimaginable. Le champ électrique qu'elle génère perturbe les pensées de son porteur. Elle n'est donc pas à mettre entre n'importe quelles mains.",
@@ -4197,6 +4868,32 @@
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
 			"avatarID": "xinghuan",
+			"age": "23 juin",
+			"gender": "Féminin",
+			"state": "Fonds de Maidelin",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_24",
+			"gp": [
+				"everydayObjects",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 常佳梦"
+				},
+				{
+					"Japanese": "CV : 大原 さやか"
+				},
+				{
+					"English": "CV : Ryan Bartley"
+				},
+				{
+					"Korean": "CV : 윤은서"
+				},
+				{
+					"Portuguese": "CV : Maitê Cunha"
+				}
+			],
 			"id": "imitation_24"
 		},
 		"description": "Arme de soutien faite sur mesure pour un membre de la fondation Maidelin. Mme Maidelin est persuadée que Lyra saurait en faire bon usage.",
@@ -4326,7 +5023,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Accroît tous les dégâts infligés par les gardes de **20%**, et les dégâts finaux de **15%** sur la cible en garde pendant **10secondes** lorsque vous déclenchez une compétence d'armes ou de décharge sous l'effet de Résonance de bénédiction.",
+				"description": "Accroît tous les dégâts infligés par les gardes de **20%**, et les dégâts finaux de **0.15%** sur la cible en garde pendant **10secondes** lorsque vous déclenchez une compétence d'armes ou de décharge sous l'effet de Résonance de bénédiction.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4342,7 +5039,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Garde du pardon: après avoir déclenché Résonance 5fois, vous avez **1**chance d'annuler des dégâts fatals pour l'utilisateur et la cible gardée. Après qu'un membre du groupe annule des dégâts fatals, il consomme la garde du pardon et récupère **5%** des PV max. Non disponible en Ligue ultime.\r\nGarde de l'illumination: après avoir déclenché Résonance 5fois et en présence de la garde de l'illumination, l'utilisateur a **2**chances d'annuler des dégâts fatals. Se cumule jusqu'à **5**fois. Après que l'utilisateur annule des dégâts fatals, il consomme 1cumul de Garde de l'illumination et récupère **5%** des PV max. Non disponible en Ligue ultime.",
+				"description": "Garde du pardon: après avoir déclenché Résonance 5fois, vous avez **1**chance d'annuler des dégâts fatals pour l'utilisateur et la cible gardée. Après qu'un membre du groupe annule des dégâts fatals, il consomme la garde du pardon et récupère **0.05%** des PV max. Non disponible en Ligue ultime.\r\nGarde de l'illumination: après avoir déclenché Résonance 5fois et en présence de la garde de l'illumination, l'utilisateur a **2**chances d'annuler des dégâts fatals. Se cumule jusqu'à **5**fois. Après que l'utilisateur annule des dégâts fatals, il consomme 1cumul de Garde de l'illumination et récupère **0.05%** des PV max. Non disponible en Ligue ultime.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4350,7 +5047,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Lorsque vous déclenchez une compétence d'arme ou de décharge, l'augmentation des dégâts finaux et des soins dépend du nombre de gardes. Chaque garde augmente de **2%**les dégâts finaux et les effets de soin, jusqu'à **8%** maximum pendant **25secondes**.",
+				"description": "Lorsque vous déclenchez une compétence d'arme ou de décharge, l'augmentation des dégâts finaux et des soins dépend du nombre de gardes. Chaque garde augmente de **1.6%**les dégâts finaux et les effets de soin, jusqu'à **8%** maximum pendant **2500secondes**.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4368,6 +5065,32 @@
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
 			"avatarID": "leibiliya",
+			"age": "24 avril",
+			"gender": "Féminin",
+			"state": "Mirroria",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_48",
+			"gp": [
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 穆雪婷"
+				},
+				{
+					"Japanese": "CV : 三石 琴乃"
+				},
+				{
+					"English": "CV : Samantha Berman"
+				},
+				{
+					"Korean": "CV : 이새벽"
+				},
+				{
+					"Portuguese": "CV : Jussara Marques"
+				}
+			],
 			"id": "imitation_48"
 		},
 		"description": "Une légère secousse dans l'abîme chaotique soulève une tempête qui affecte le destin de chacun.",
@@ -4475,7 +5198,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Après avoir déclenché **Rétroaction**, chaque épine de crystamax inflige aux cibles proches des dégâts équivalant à **66,7%** de l'ATQ toutes les **2** secondes, pendant **NaN** secondes.",
+				"description": "Après avoir déclenché **Rétroaction**, chaque épine de crystamax inflige aux cibles proches des dégâts équivalant à **66,7%** de l'ATQ toutes les **2** secondes, pendant **undefined** secondes.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4507,7 +5230,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Accroît la récupération de PV max d'épines de crystamax de **Rétroaction** jusqu'à **NaN%**.",
+				"description": "Accroît la récupération de PV max d'épines de crystamax de **Rétroaction** jusqu'à **undefined%**.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4515,7 +5238,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Accroît de **NaN%** supplémentaires les dégâts de foudre pendant **NaN** secondes après avoir utilisé Étreinte de Harrah.",
+				"description": "Accroît de **undefined%** supplémentaires les dégâts de foudre pendant **undefined** secondes après avoir utilisé Étreinte de Harrah.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4533,6 +5256,33 @@
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
 			"avatarID": "ailisi",
+			"age": "28 mai",
+			"gender": "Féminin",
+			"state": "Forces spéciales de sécurité de Mirroria",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_30",
+			"gp": [
+				"collection",
+				"restrictedGoods",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 杜晴晴"
+				},
+				{
+					"Japanese": "CV : 安済 知佳"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 유영"
+				},
+				{
+					"Portuguese": "CV : Michelle Giudice"
+				}
+			],
 			"id": "imitation_30"
 		},
 		"description": "Une armure de combat avec une lame de pied. Alimentée par l'énergie mentale de son porteur, elle est le résultat de la science et la technologie de pointe pré-Cataclysme. Elle explose avec une puissance terrifiante si nécessaire.",
@@ -4692,6 +5442,34 @@
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
 			"avatarID": "annabeila",
+			"age": "28 avril",
+			"gender": "Féminin",
+			"state": "Inconnu",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_26",
+			"gp": [
+				"decorate",
+				"Rarity",
+				"game",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 洪海天"
+				},
+				{
+					"Japanese": "CV : 黒沢 ともよ"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 이유리"
+				},
+				{
+					"Portuguese": "CV : Ágatha Paulita"
+				}
+			],
 			"id": "imitation_26"
 		},
 		"description": "Un jeu de tir multijoueur VR populaire à Mirroria a conçu ce pistolet exclusif pour le meilleur joueur d'une certaine saison, qui a aussi reçu une maquette de l'arme… qui est plus réaliste que prévu…",
@@ -4839,6 +5617,33 @@
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
 			"avatarID": "liuhuo",
+			"age": "19 août",
+			"gender": "Féminin",
+			"state": "Manoir de Flammeville",
+			"city": "Flammeville",
+			"rating": "wuwei_imitation_37",
+			"gp": [
+				"everydayObjects",
+				"metal",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 葛子瑞"
+				},
+				{
+					"Japanese": "CV : 徳井 青空"
+				},
+				{
+					"English": "CV : Michelle Marie"
+				},
+				{
+					"Korean": "CV : 문유정"
+				},
+				{
+					"Portuguese": "CV : ISABELLA GUARNIERI"
+				}
+			],
 			"id": "imitation_37"
 		},
 		"description": "\"Pas de violence ! Un véritable universitaire ne frapperait personne avec des fournitures de bureau !\" —Rong Jin",
@@ -4950,7 +5755,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Explosion incandescente: Sur le terrain**: quand un coup est réussi avec **Comète de pin**, inflige des dégâts aux cibles proches équivalant à **1.05%** de l'ATQ de feu + **2%** des PV max de l'Explorateur + **55%** de la somme de tous les types de résistance de l'Explorateur + **2%** de crit. Cet effet peut être déclenché une fois toutes les **1,5**seconde. Les dégâts d'Explosion incandescente sont comptabilisés comme des dégâts d'attaque normale. Si **1**arme de foudre, de givre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **1.3**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
+				"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Explosion incandescente: Sur le terrain**: quand un coup est réussi avec **Comète de pin**, inflige des dégâts aux cibles proches équivalant à **105%** de l'ATQ de feu + **1.5%** des PV max de l'Explorateur + **55%** de la somme de tous les types de résistance de l'Explorateur + **200%** de crit. Cet effet peut être déclenché une fois toutes les **1,5**seconde. Les dégâts d'Explosion incandescente sont comptabilisés comme des dégâts d'attaque normale. Si **1**arme de foudre, de givre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **130**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4958,7 +5763,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Lorsqu'une **Plume de moineau** touche une cible, elle crée un effet de propagation, infligeant des dégâts de zone supplémentaires équivalant à **50%** du total des dégâts de brûlure et d'embrasement. Cela étend également le **Brûle-moineau** de la cible affectée aux cibles proches, actualisant la durée de **Brûle-moineau**. L'effet de propagation peut être déclenché une fois toutes les **5**secondes.",
+				"description": "Lorsqu'une **Plume de moineau** touche une cible, elle crée un effet de propagation, infligeant des dégâts de zone supplémentaires équivalant à **0.5%** du total des dégâts de brûlure et d'embrasement. Cela étend également le **Brûle-moineau** de la cible affectée aux cibles proches, actualisant la durée de **Brûle-moineau**. L'effet de propagation peut être déclenché une fois toutes les **5**secondes.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4974,7 +5779,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Lorsque les PV de l'Explorateur sont inférieurs à **50%** des PV max, toutes les **0,5** seconde, consommez **1** **Plume de moineau** et récupérez **2%** des PV max (augmente à **3%** des PV max en solo) jusqu'à ce que les PV de l'Explorateur soient pleins ou que toutes les **Plumes de moineau** soient consommées. Cet effet fonctionne dans l'emplacement main libre.",
+				"description": "Lorsque les PV de l'Explorateur sont inférieurs à **50%** des PV max, toutes les **0,5** seconde, consommez **1** **Plume de moineau** et récupérez **1.5%** des PV max (augmente à **3%** des PV max en solo) jusqu'à ce que les PV de l'Explorateur soient pleins ou que toutes les **Plumes de moineau** soient consommées. Cet effet fonctionne dans l'emplacement main libre.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4998,7 +5803,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Augmente les dégâts de feu de **14%** supplémentaires en état **Pinacle**.",
+				"description": "Augmente les dégâts de feu de **0.14%** supplémentaires en état **Pinacle**.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5016,6 +5821,32 @@
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
 			"avatarID": "wumi",
+			"age": "20 octobre",
+			"gender": "Féminin",
+			"state": "District7 d'Hykros",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_31",
+			"gp": [
+				"game",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 刘雯"
+				},
+				{
+					"Japanese": "CV : M・A・O"
+				},
+				{
+					"English": "CV : Anne Yatco"
+				},
+				{
+					"Korean": "CV : 김연우"
+				},
+				{
+					"Portuguese": "CV : Pâmela Rodrigues"
+				}
+			],
 			"id": "imitation_31"
 		},
 		"description": "Le fouet favori de la nouvelle Exécutante, Umi. Ce qu'Umi préfère, c'est que d'habitude, elle ne trébuche pas dessus.",
@@ -5129,7 +5960,7 @@
 				"need": "None"
 			},
 			{
-				"description": "En incarnant Mobius, vous gagnez immédiatement **30**points d'échauffement. Temps de recharge: **17** secondes. En entrant dans Tour de magie, inflige aux cibles situées à proximité des dégâts de zone équivalant à **8.4%** de l'ATQ et réduit leur résistance physique de **-10%** pendant **20** secondes.",
+				"description": "En incarnant Mobius, vous gagnez immédiatement **30**points d'échauffement. Temps de recharge: **17** secondes. En entrant dans Tour de magie, inflige aux cibles situées à proximité des dégâts de zone équivalant à **8.4%** de l'ATQ et réduit leur résistance physique de **-0.1%** pendant **20** secondes.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5145,7 +5976,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Lorsque vous mettez fin à Tour de magie en avance, inflige des dégâts sur une vaste zone pendant **13** secondes. Le temps de recharge actuel de la compétence de Mobius est réduit et les dégâts physiques accrus de **25%** pendant une certaine période (cet effet ne concerne pas Mobius). S'il reste plus de **13** secondes à Tour de magie, confère **200** de recharge d'arme supplémentaires. Le temps restant à la fin de Tour de magie accroît la zone de dégâts, réduit le temps de recharge des compétences et prolonge le bonus de dégâts physiques. Les dégâts de zone sont plafonnés à **2%** de l'ATQ (les dégâts maximum sont infligés lorsque le temps restant est supérieur à **13** secondes). La réduction de temps de recharge maximum est de **13** secondes et le bonus de dégâts physiques peut durer jusqu'à **20** secondes.",
+				"description": "Lorsque vous mettez fin à Tour de magie en avance, inflige des dégâts sur une vaste zone pendant **13** secondes. Le temps de recharge actuel de la compétence de Mobius est réduit et les dégâts physiques accrus de **0.25%** pendant une certaine période (cet effet ne concerne pas Mobius). S'il reste plus de **13** secondes à Tour de magie, confère **200** de recharge d'arme supplémentaires. Le temps restant à la fin de Tour de magie accroît la zone de dégâts, réduit le temps de recharge des compétences et prolonge le bonus de dégâts physiques. Les dégâts de zone sont plafonnés à **2%** de l'ATQ (les dégâts maximum sont infligés lorsque le temps restant est supérieur à **13** secondes). La réduction de temps de recharge maximum est de **13** secondes et le bonus de dégâts physiques peut durer jusqu'à **20** secondes.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5161,7 +5992,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Gagne l'effet Marionnette psychique pendant Tour de magie et accroît le bonus de dégâts physiques de Mobius à **15%**. Pendant Tour de magie, restaure **2%** des PV max et **10** de recharge d'arme à chaque seconde.",
+				"description": "Gagne l'effet Marionnette psychique pendant Tour de magie et accroît le bonus de dégâts physiques de Mobius à **15%**. Pendant Tour de magie, restaure **2%** des PV max et **1000** de recharge d'arme à chaque seconde.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5187,6 +6018,33 @@
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
 			"avatarID": "feise",
+			"age": "23août",
+			"gender": "Féminin",
+			"state": "Palais fantôme",
+			"city": "Flammeville",
+			"rating": "wuwei_imitation_51",
+			"gp": [
+				"everydayObjects",
+				"collection",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈彦亦"
+				},
+				{
+					"Japanese": "CV : 田中 理恵"
+				},
+				{
+					"English": "CV : Alexis Tipton"
+				},
+				{
+					"Korean": "CV : 강새봄"
+				},
+				{
+					"Portuguese": "CV : LUCIANA BAROLI"
+				}
+			],
 			"id": "imitation_51"
 		},
 		"description": "Certaines fleurs dissimulent une volonté létale.",
@@ -5292,7 +6150,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de feu**: accroît l'ATQ de feu de **20%** et la résistance au feu de **40%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu ou de Réaction de feu, et Résonance de feu prévaut.\r\n**Explosion incandescente: Coupe rapide**: Quand **Floraison éternelle** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux aux cibles proches équivalant à **38%** de l'ATQ de feu + **1%** des PV max de l'Explorateur + **19%** de la somme de tous les types de résistance de l'Explorateur + **69%** de crit. En combat, toutes les **0,5**seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion ardente: Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **1.3**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
+				"description": "**Résonance de feu**: accroît l'ATQ de feu de **20%** et la résistance au feu de **40%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu ou de Réaction de feu, et Résonance de feu prévaut.\r\n**Explosion incandescente: Coupe rapide**: Quand **Floraison éternelle** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux aux cibles proches équivalant à **37.5%** de l'ATQ de feu + **0.5%** des PV max de l'Explorateur + **18.75%** de la somme de tous les types de résistance de l'Explorateur + **68.75%** de crit. En combat, toutes les **0,5**seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion ardente: Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **130**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5358,6 +6216,33 @@
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
 			"avatarID": "fenlier",
+			"age": "13 février",
+			"gender": "Féminin",
+			"state": "Club Oasis",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_32",
+			"gp": [
+				"toy",
+				"collection",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 孙艳琦"
+				},
+				{
+					"Japanese": "CV : 丹下 桜"
+				},
+				{
+					"English": "CV : Corina Boetger"
+				},
+				{
+					"Korean": "CV : 강은애"
+				},
+				{
+					"Portuguese": "CV : Jullie"
+				}
+			],
 			"id": "imitation_32"
 		},
 		"description": "Un appareil spécial qui convertit les ondes sonores en attaque. Quand les chaînes sont brisées, les courants de la mort deviennent des griffes tranchantes qui déchirent tout sur leur passage.",
@@ -5523,6 +6408,34 @@
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
 			"avatarID": "lan",
+			"age": "5 mai",
+			"gender": "Féminin",
+			"state": "Les gardes de l'ombre",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_34",
+			"gp": [
+				"Rarity",
+				"everydayObjects",
+				"Vera",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈雨"
+				},
+				{
+					"Japanese": "CV : 内田 真礼"
+				},
+				{
+					"English": "CV : Sarah Wiedenheft"
+				},
+				{
+					"Korean": "CV : 박리나"
+				},
+				{
+					"Portuguese": "CV : Luiza Caspary"
+				}
+			],
 			"id": "imitation_34"
 		},
 		"description": "Une arme avec divers mécanismes cachés, utilisée exclusivement par Zhuque. La partie principale en forme d'ombrelle d'Oiseau vermillon peut non seulement devenir un outil puissant pour détruire les ennemis en utilisant de l'énergie, mais aussi bloquer la vue des autres et cacher son porteur…",
@@ -5662,7 +6575,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Impact incandescent et les dégâts transférés ignorent **60%** de la résistance au feu de la cible.\r\nLes dégâts de feu infligés par Corrosion sont accrus de **10%**.",
+				"description": "Impact incandescent et les dégâts transférés ignorent **60%** de la résistance au feu de la cible.\r\nLes dégâts de feu infligés par Corrosion sont accrus de **0.1%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -5670,7 +6583,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Accroît les dégâts infligés par Danse de flammes et Frappe vertigineuse de **50%**.\r\nLe multiplicateur pour les ombrelles tournoyant rapidement, Revers du phénix et Impact incandescent devient Ombrelles duveteuses + **2**.",
+				"description": "Accroît les dégâts infligés par Danse de flammes et Frappe vertigineuse de **0.5%**.\r\nLe multiplicateur pour les ombrelles tournoyant rapidement, Revers du phénix et Impact incandescent devient Ombrelles duveteuses + **2**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -5688,6 +6601,34 @@
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
 			"avatarID": "yikaluosi",
+			"age": "24 octobre",
+			"gender": "Masculin",
+			"state": "Brigade de Mooke",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_35",
+			"gp": [
+				"collection",
+				"metal",
+				"Vera",
+				"Asshai"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 沐霏"
+				},
+				{
+					"Japanese": "CV : 梶原 岳人"
+				},
+				{
+					"English": "CV : RyMcKeand"
+				},
+				{
+					"Korean": "CV : 김유림"
+				},
+				{
+					"Portuguese": "CV : Úrsula Bezerra"
+				}
+			],
 			"id": "imitation_35"
 		},
 		"description": "Arme de collection rare fusionnée avec des rééquipements uniques et tendance. Puisse le porteur progresser avec courage dans les ténèbres désolées, tel un papillon de nuit devant une flamme.",
@@ -5789,7 +6730,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Quand une compétence d'arme est utilisée, Yo-yo fulgurant déclenche **Harmonie**, infligeant des dégâts aux cibles proches équivalant à **NaN%** des PV perdus de l'Explorateur. Les dégâts infligés ne peuvent pas être inférieurs à **NaN%** et ne peuvent pas dépasser **NaN%** de l'ATQ max de l'Explorateur. Le type de dégâts élémentaires infligés sera le même que celui de l'arme actuelle.\r\nLorsqu'une décharge d'arme est utilisée, Yo-yo fulgurant déclenche **Calibrage**, infligeant des dégâts aux cibles proches équivalant à **NaN%** des PV max de l'Explorateur. Les dégâts infligés ne peuvent pas dépasser **NaN%** de l'ATQ max de l'Explorateur. Le type de dégâts élémentaires infligé sera le même que celui de l'arme actuelle.",
+				"description": "Quand une compétence d'arme est utilisée, Yo-yo fulgurant déclenche **Harmonie**, infligeant des dégâts aux cibles proches équivalant à **undefined%** des PV perdus de l'Explorateur. Les dégâts infligés ne peuvent pas être inférieurs à **undefined%** et ne peuvent pas dépasser **undefined%** de l'ATQ max de l'Explorateur. Le type de dégâts élémentaires infligés sera le même que celui de l'arme actuelle.\r\nLorsqu'une décharge d'arme est utilisée, Yo-yo fulgurant déclenche **Calibrage**, infligeant des dégâts aux cibles proches équivalant à **undefined%** des PV max de l'Explorateur. Les dégâts infligés ne peuvent pas dépasser **undefined%** de l'ATQ max de l'Explorateur. Le type de dégâts élémentaires infligé sera le même que celui de l'arme actuelle.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5805,7 +6746,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Quand vous utilisez Jour de désolation, Yo-yo fulgurant peut déclencher **NaN**secondes de **prestesse**: accroît la vitesse de Yo-yo fulgurant de **NaN%** et les dégâts de **160%**, et les dégâts infligés en passant à travers la cible sont convertis en dégâts à faible portée.",
+				"description": "Quand vous utilisez Jour de désolation, Yo-yo fulgurant peut déclencher **undefined**secondes de **prestesse**: accroît la vitesse de Yo-yo fulgurant de **undefined%** et les dégâts de **160%**, et les dégâts infligés en passant à travers la cible sont convertis en dégâts à faible portée.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5821,7 +6762,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Accroît les dégâts de Yo-yo fulgurant et de Retour à la solitude de **NaN%**.",
+				"description": "Accroît les dégâts de Yo-yo fulgurant et de Retour à la solitude de **undefined%**.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5829,7 +6770,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Accroît les dégâts finaux de **NaN%** lorsque Yo-yo fulgurant est actif.",
+				"description": "Accroît les dégâts finaux de **undefined%** lorsque Yo-yo fulgurant est actif.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5847,6 +6788,33 @@
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
 			"avatarID": "yulan",
+			"age": "9février",
+			"gender": "Féminin",
+			"state": "Garde du Cadran solaire",
+			"city": "Domaine9",
+			"rating": "wuwei_imitation_38",
+			"gp": [
+				"everydayObjects",
+				"collection",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 秦文静"
+				},
+				{
+					"Japanese": "CV : 柚木 涼香"
+				},
+				{
+					"English": "CV : Brianna Knickerbocker"
+				},
+				{
+					"Korean": "CV : 김윤채"
+				},
+				{
+					"Portuguese": "CV : LUIZA PORTO"
+				}
+			],
 			"id": "imitation_38"
 		},
 		"description": "Unité ou, en d'autres termes, la consolidation. Dotée des dernières technologies de pointe du domaine 9, c'est l'arme que Ji Yu a choisie pour Yu Lan. Ne soyez pas surpris si un miracle visuel se produit après l'avoir utilisée avec le sceau temporel.",
@@ -5970,7 +6938,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de givre**: Accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Brise-glace: Coupe rapide**: Quand **Unité** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts aux cibles proches équivalant à **30%** de l'ATQ de givre + **0%** des PV max de l'Explorateur + **15%** de la somme de tous les types de résistance de l'Explorateur + **55%** de crit. En combat, toutes les **0,5**secondes, les prochains dégâts infligés par Coupe rapide seront augmentés d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts de Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de foudre, de feu ou physique est équipée, les dégâts de Brise-glace sont augmentés **1.3** fois.Par ailleurs, les dégâts de Brise-glace ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
+				"description": "**Résonance de givre**: Accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Brise-glace: Coupe rapide**: Quand **Unité** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts aux cibles proches équivalant à **30%** de l'ATQ de givre + **0.4%** des PV max de l'Explorateur + **15%** de la somme de tous les types de résistance de l'Explorateur + **55%** de crit. En combat, toutes les **0,5**secondes, les prochains dégâts infligés par Coupe rapide seront augmentés d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts de Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de foudre, de feu ou physique est équipée, les dégâts de Brise-glace sont augmentés **130** fois.Par ailleurs, les dégâts de Brise-glace ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -5978,7 +6946,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Sous la forme **Artiste martial**, après avoir consommé au moins **3**de **Force intérieure**, **Unité** restaure **1**de **Force intérieure**. Ensuite, accroît les dégâts finaux de l'Explorateur de **5%**, et accroît les dégâts infligés par les attaques d'esquive/normales d'**Unité** de **50%** pendant **30**secondes.\r\nSous la forme **Force de balayage**, après avoir consommé au moins **3**d'**Esprit combatif**, **Unité** restaure **1**d'**Esprit combatif**. Ensuite, accroît les dégâts finaux de l'Explorateur de **5%** pendant **15**secondes.",
+				"description": "Sous la forme **Artiste martial**, après avoir consommé au moins **3**de **Force intérieure**, **Unité** restaure **100**de **Force intérieure**. Ensuite, accroît les dégâts finaux de l'Explorateur de **5%**, et accroît les dégâts infligés par les attaques d'esquive/normales d'**Unité** de **50%** pendant **3000**secondes.\r\nSous la forme **Force de balayage**, après avoir consommé au moins **3**d'**Esprit combatif**, **Unité** restaure **100**d'**Esprit combatif**. Ensuite, accroît les dégâts finaux de l'Explorateur de **5%** pendant **1500**secondes.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -5994,7 +6962,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Sous la forme **Artiste martial**, si **Force intérieure** n'est pas obtenue dans les **5**secondes, la prochaine acquisition de **Force intérieure** comptera pour **2**.\r\nSous n'importe quelle forme, si **Unité** consomme au moins **3**de **Force intérieure** ou d'**Esprit combatif**, restaure **10%** des PV max de l'Explorateur. En jeu en solo, accroît la récupération des PV de **20%**. Cet effet ne peut être déclenché qu'une fois toutes les **8**secondes sous la forme **Force de balayage**. Il n'y a pas de limite sous la forme **Artiste martial**.",
+				"description": "Sous la forme **Artiste martial**, si **Force intérieure** n'est pas obtenue dans les **500**secondes, la prochaine acquisition de **Force intérieure** comptera pour **2**.\r\nSous n'importe quelle forme, si **Unité** consomme au moins **3**de **Force intérieure** ou d'**Esprit combatif**, restaure **10%** des PV max de l'Explorateur. En jeu en solo, accroît la récupération des PV de **20%**. Cet effet ne peut être déclenché qu'une fois toutes les **8**secondes sous la forme **Force de balayage**. Il n'y a pas de limite sous la forme **Artiste martial**.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6010,7 +6978,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, lorsque vous subissez des dégâts fatals, évite les dégâts fatals 1fois et restaure **20%** des PV max de l'Explorateur (non disponible en Ligue ultime). En jeu en solo, accroît la récupération des PV de **40%**. Chaque effet ne peut être déclenché qu'une fois toutes les **60**secondes.",
+				"description": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, lorsque vous subissez des dégâts fatals, évite les dégâts fatals 1fois et restaure **20%** des PV max de l'Explorateur (non disponible en Ligue ultime). En jeu en solo, accroît la récupération des PV de **40%**. Chaque effet ne peut être déclenché qu'une fois toutes les **6000**secondes.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6018,7 +6986,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Sous la forme **Artiste martial**, accroît les dégâts infligés par les attaques d'esquive/normales d'**Unité** de **70%** supplémentaires. Après avoir consommé **Force intérieure**, accroît les dégâts finaux de l'Explorateur de **10%** pendant **30**secondes.\r\nSous la forme **Force de balayage**, quand **Unité** consomme **Esprit combatif**, accroît les dégâts finaux de l'Explorateur de **15%** pendant **30**secondes.",
+				"description": "Sous la forme **Artiste martial**, accroît les dégâts infligés par les attaques d'esquive/normales d'**Unité** de **70%** supplémentaires. Après avoir consommé **Force intérieure**, accroît les dégâts finaux de l'Explorateur de **10%** pendant **3000**secondes.\r\nSous la forme **Force de balayage**, quand **Unité** consomme **Esprit combatif**, accroît les dégâts finaux de l'Explorateur de **15%** pendant **3000**secondes.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6036,6 +7004,34 @@
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
 			"avatarID": "mingjing",
+			"age": "12novembre",
+			"gender": "Masculin",
+			"state": "Domaine9",
+			"city": "Inconnu",
+			"rating": "wuwei_imitation_50",
+			"gp": [
+				"everydayObjects",
+				"Asshai",
+				"Vera",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 马洋"
+				},
+				{
+					"Japanese": "CV : 中村 悠一"
+				},
+				{
+					"English": "CV : Johnny Young"
+				},
+				{
+					"Korean": "CV : 신용우"
+				},
+				{
+					"Portuguese": "CV : Wendel Bezerra"
+				}
+			],
 			"id": "imitation_50"
 		},
 		"description": "Une grande épée aiguisée qu'une personne ordinaire pourrait à peine réussir à soulever. Sa puissance destructrice est démultipliée par sa lame imposante et le sentiment de sécurité qu'elle procure.",
@@ -6135,7 +7131,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance physique**: Accroît l'ATQ physique de **15%** et la résistance physique de **25%**. S'active en équipant au moins **2**armes physiques. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance physique, et Résonance physique prévaut.\r\n**Résonance de feu**: Accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu, et Résonance de feu prévaut.\r\n\r\n**Fracture du bouclier: Détachement**: Après avoir utilisé **Ravin absolu**, inflige chaque seconde des dégâts équivalant à **70%** de l'ATQ physique + **1%** des PV max de l'Explorateur + **36%** de la somme de tous les types de résistance de l'Explorateur + **1.35%** de crit pendant **30**secondes aux cibles touchées. Les dégâts de Détachement multiples ne se cumulent pas et les dégâts de fracture du bouclier sont comptabilisés comme des dégâts de compétence. Si **1**arme de foudre, de feu ou de givre est équipée, les dégâts de fracture du bouclier sont multipliés par **1.3**. Par ailleurs, les dégâts de fracture du bouclier ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
+				"description": "**Résonance physique**: Accroît l'ATQ physique de **15%** et la résistance physique de **25%**. S'active en équipant au moins **2**armes physiques. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance physique, et Résonance physique prévaut.\r\n**Résonance de feu**: Accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu, et Résonance de feu prévaut.\r\n\r\n**Fracture du bouclier: Détachement**: Après avoir utilisé **Ravin absolu**, inflige chaque seconde des dégâts équivalant à **70%** de l'ATQ physique + **1%** des PV max de l'Explorateur + **36%** de la somme de tous les types de résistance de l'Explorateur + **135%** de crit pendant **3000**secondes aux cibles touchées. Les dégâts de Détachement multiples ne se cumulent pas et les dégâts de fracture du bouclier sont comptabilisés comme des dégâts de compétence. Si **1**arme de foudre, de feu ou de givre est équipée, les dégâts de fracture du bouclier sont multipliés par **130**. Par ailleurs, les dégâts de fracture du bouclier ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6175,7 +7171,7 @@
 				"need": "Zeke_physic_plasm"
 			},
 			{
-				"description": "Après l'utilisation de **Ravin absolu**, réduit les dégâts subis par l'Explorateur de **10%** (**20%** en jeu en solo) pendant **30**secondes.",
+				"description": "Après l'utilisation de **Ravin absolu**, réduit les dégâts subis par l'Explorateur de **10%** (**20%** en jeu en solo) pendant **3000**secondes.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6201,6 +7197,33 @@
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",
 			"avatarID": "feiouna",
+			"age": "17 avril",
+			"gender": "Féminin",
+			"state": "Innars",
+			"city": "Innars",
+			"rating": "wuwei_imitation_36",
+			"gp": [
+				"collection",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 刘雪"
+				},
+				{
+					"Japanese": "CV : 石見 舞菜香"
+				},
+				{
+					"English": "CV : Lindsay Sheppard"
+				},
+				{
+					"Korean": "CV : 양정화"
+				},
+				{
+					"Portuguese": "CV : Mayara Stefane"
+				}
+			],
 			"id": "imitation_36"
 		},
 		"description": "Étrange mini-arme générant des lames qui tranchent le métal comme du beurre. Par le passé, elle revêtait en mode veille la forme d'un bracelet encerclant le poignet de son propriétaire. C'est de là que proviennent les descriptions de son propriétaire.",

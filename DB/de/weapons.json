@@ -384,6 +384,33 @@
 			"weapon": "stave_thunder",
 			"icon": "imitation_14",
 			"avatarID": "peipei",
+			"age": "9. Juli",
+			"gender": "Weiblich",
+			"state": "Hykros’ Medizinische Abteilung",
+			"city": "Banges",
+			"rating": "wuwei_imitation_14",
+			"gp": [
+				"everydayObjects",
+				"decorate",
+				"collection"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王雅欣"
+				},
+				{
+					"Japanese": "CV : 能登 麻美子"
+				},
+				{
+					"English": "CV : Kayli Mills"
+				},
+				{
+					"Korean": "CV : 김가령"
+				},
+				{
+					"Portuguese": "CV : Flávia Narciso"
+				}
+			],
 			"id": "imitation_14"
 		},
 		"description": "Ein mechanischer Stab mit einer kreuzförmig eingeritzten Rune. Damit kann vergeben und bestraft werden.",
@@ -535,6 +562,33 @@
 			"weapon": "cannon_ice",
 			"icon": "imitation_15",
 			"avatarID": "hida",
+			"age": "11. April",
+			"gender": "Weiblich",
+			"state": "Banges",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_15",
+			"gp": [
+				"restrictedGoods",
+				"garageKit",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 裴致莹"
+				},
+				{
+					"Japanese": "CV : 花澤 香菜"
+				},
+				{
+					"English": "CV : Kira Buckland"
+				},
+				{
+					"Korean": "CV : 윤아영"
+				},
+				{
+					"Portuguese": "CV : Bruna Matta"
+				}
+			],
 			"id": "imitation_15"
 		},
 		"description": "Die knorrigste Feuerwaffe aller Zeiten, auch als beweglicher Geschützturm bekannt.",
@@ -657,6 +711,33 @@
 			"weapon": "Chainsaw_physic",
 			"icon": "imitation_27",
 			"avatarID": "genuonuo",
+			"age": "6. März",
+			"gender": "Weiblich",
+			"state": "Unbekannt",
+			"city": "Innars",
+			"rating": "wuwei_imitation_27",
+			"gp": [
+				"Rarity",
+				"collection",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 常丹瑞"
+				},
+				{
+					"Japanese": "CV : 釘宮 理恵"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 유영"
+				},
+				{
+					"Portuguese": "CV : Nina Carvalho"
+				}
+			],
 			"id": "imitation_27"
 		},
 		"description": "Viel zu gefährlich, um ein Kinderspielzeug zu sein. Es ist unmöglich, dass ein Kind es auf ehrliche Weise in die Hände bekommen hat. Wer weiß, was für eine Technik verwendet wurde, um es umzubauen … Vielleicht wurde es einfach irgendwo abseits des Weges aufgeschnappt.",
@@ -821,6 +902,33 @@
 			"weapon": "hammer_ice",
 			"icon": "imitation_2",
 			"avatarID": "xi",
+			"age": "17. August",
+			"gender": "Weiblich",
+			"state": "Victoria Security",
+			"city": "Krone",
+			"rating": "wuwei_imitation_2",
+			"gp": [
+				"game",
+				"decorate",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王燕华"
+				},
+				{
+					"Japanese": "CV : 小清水 亜美"
+				},
+				{
+					"English": "CV : Melissa Fahn"
+				},
+				{
+					"Korean": "CV : 박리나"
+				},
+				{
+					"Portuguese": "CV : Amanda Tavares"
+				}
+			],
 			"id": "imitation_2"
 		},
 		"description": "Niemand will von diesem Vorschlaghammer eine volle Breitseite abbekommen.",
@@ -978,6 +1086,33 @@
 			"weapon": "bow_physic",
 			"icon": "imitation_16",
 			"avatarID": "bailing",
+			"age": "8. Mai",
+			"gender": "Weiblich",
+			"state": "HT201-Zuflucht",
+			"city": "HT201-Zuflucht",
+			"rating": "wuwei_imitation_16",
+			"gp": [
+				"Rarity",
+				"collection",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 王晓彤"
+				},
+				{
+					"Japanese": "CV : 日高 里菜"
+				},
+				{
+					"English": "CV : Xanthe Huynh"
+				},
+				{
+					"Korean": "CV : 김율"
+				},
+				{
+					"Portuguese": "CV : Adriana Pissardini"
+				}
+			],
 			"id": "imitation_16"
 		},
 		"description": "Der ideale Verbündete für düstere Nächte.",
@@ -1123,6 +1258,33 @@
 			"weapon": "spear_thunder",
 			"icon": "imitation_4",
 			"avatarID": "aige",
+			"age": "14. August",
+			"gender": "Weiblich",
+			"state": "Unbekannt",
+			"city": "Warren",
+			"rating": "wuwei_imitation_4",
+			"gp": [
+				"everydayObjects",
+				"restrictedGoods",
+				"game"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 曹雅雯"
+				},
+				{
+					"Japanese": "CV : 大久保 瑠美"
+				},
+				{
+					"English": "CV : Jeannie Tirado"
+				},
+				{
+					"Korean": "CV : 정유정"
+				},
+				{
+					"Portuguese": "CV : Rebeca Zadra"
+				}
+			],
 			"id": "imitation_4"
 		},
 		"description": "Eine Hellebarde mit der Kraft des Donners. Gut für Explosionsschaden, und durch die Länge ist sie in unterschiedlichen Entfernungen einsetzbar.",
@@ -1281,6 +1443,33 @@
 			"weapon": "digger_thunder",
 			"icon": "imitation_13",
 			"avatarID": "wuwan",
+			"age": "17. Dezember",
+			"gender": "Männlich",
+			"state": "Unbekannt",
+			"city": "Astra",
+			"rating": "wuwei_imitation_13",
+			"gp": [
+				"everydayObjects",
+				"garageKit",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 翟巍"
+				},
+				{
+					"Japanese": "CV : 岡本 信彦"
+				},
+				{
+					"English": "CV : Casey Mongillo"
+				},
+				{
+					"Korean": "CV : 김다올"
+				},
+				{
+					"Portuguese": "CV : Vagner Fagundes"
+				}
+			],
 			"id": "imitation_13"
 		},
 		"description": "Tödlich, unberechenbar und leise.",
@@ -1433,6 +1622,32 @@
 			"weapon": "bigsword_ice",
 			"icon": "imitation_3",
 			"avatarID": "meilier",
+			"age": "10. Oktober",
+			"gender": "Weiblich",
+			"state": "Hykros",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_3",
+			"gp": [
+				"collection",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 秦紫翼"
+				},
+				{
+					"Japanese": "CV : 石川 由依"
+				},
+				{
+					"English": "CV : Kira Buckland"
+				},
+				{
+					"Korean": "CV : 이다은"
+				},
+				{
+					"Portuguese": "CV : Patt Souza"
+				}
+			],
 			"id": "imitation_3"
 		},
 		"description": "Eine elegante Frostklinge, die an reinweiße Rosen erinnert, die auf schneebedeckten Felsen blühen.",
@@ -1597,6 +1812,33 @@
 			"weapon": "bow_ice",
 			"icon": "imitation_7",
 			"avatarID": "sifengyuanyu",
+			"age": "24. März",
+			"gender": "Weiblich",
+			"state": "Erben von Aida",
+			"city": "Astra",
+			"rating": "wuwei_imitation_7",
+			"gp": [
+				"garageKit",
+				"restrictedGoods",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 徐徐"
+				},
+				{
+					"Japanese": "CV : 小原 好美"
+				},
+				{
+					"English": "CV : Amber Lee Connors"
+				},
+				{
+					"Korean": "CV : 손선영"
+				},
+				{
+					"Portuguese": "CV : Tânia Gaidarji"
+				}
+			],
 			"id": "imitation_7"
 		},
 		"description": "Die Pfeile dieses Bogens tragen die Kraft des Frosts in sich.",
@@ -1743,6 +1985,33 @@
 			"weapon": "stave_ice",
 			"icon": "imitation_11",
 			"avatarID": "kekelite",
+			"age": "1. Juni",
+			"gender": "Weiblich",
+			"state": "Hykros’ Medizinische Abteilung",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_11",
+			"gp": [
+				"toy",
+				"decorate",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 胡婷婷"
+				},
+				{
+					"Japanese": "CV : 鬼頭 明里"
+				},
+				{
+					"English": "CV : Lexi Fontaine"
+				},
+				{
+					"Korean": "CV : 강시현"
+				},
+				{
+					"Portuguese": "CV : Mari Guedes"
+				}
+			],
 			"id": "imitation_11"
 		},
 		"description": "Hält die Temperatur gleichbleibend kalt, um Verbündete zu heilen.",
@@ -1896,6 +2165,33 @@
 			"weapon": "sickle_fire",
 			"icon": "imitation_9",
 			"avatarID": "KING",
+			"age": "3. November",
+			"gender": "Männlich",
+			"state": "Ravager",
+			"city": "Krone",
+			"rating": "wuwei_imitation_9",
+			"gp": [
+				"collection",
+				"Rarity",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐子晰"
+				},
+				{
+					"Japanese": "CV : 松岡 禎丞"
+				},
+				{
+					"English": "CV : Johnny Young"
+				},
+				{
+					"Korean": "CV : 류승곤"
+				},
+				{
+					"Portuguese": "CV : Leonardo Camillo"
+				}
+			],
 			"id": "imitation_9"
 		},
 		"description": "Eine mächtige Sense, die sich sowohl für den Angriff als auch für die Verteidigung eignet. Sie kann ihr Ziel innerhalb einer bestimmten Entfernung sofort töten.",
@@ -2054,6 +2350,33 @@
 			"weapon": "gun_fire",
 			"icon": "imitation_10",
 			"avatarID": "gulan",
+			"age": "26. Juni",
+			"gender": "Weiblich",
+			"state": "Banges-Technik",
+			"city": "Krone",
+			"rating": "wuwei_imitation_10",
+			"gp": [
+				"metal",
+				"collection",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈睿婕"
+				},
+				{
+					"Japanese": "CV : 川澄 綾子"
+				},
+				{
+					"English": "CV : Stephanie Kerbis"
+				},
+				{
+					"Korean": "CV : 김예림"
+				},
+				{
+					"Portuguese": "CV : Jussara Marques"
+				}
+			],
 			"id": "imitation_10"
 		},
 		"description": "Wurde von einem verrückten Wissenschaftler erfunden. Die Testergebnisse waren bereits sehr beeindruckend. Man mag sich gar nicht vorstellen, was die Waffe bei voller Leistung schafft.",
@@ -2207,6 +2530,33 @@
 			"weapon": "sword_physic",
 			"icon": "imitation_12",
 			"avatarID": "kelaodiya",
+			"age": "16. Januar",
+			"gender": "Weiblich",
+			"state": "Hykros",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_12",
+			"gp": [
+				"everydayObjects",
+				"Rarity",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 贺文潇"
+				},
+				{
+					"Japanese": "CV : 小松 未可子"
+				},
+				{
+					"English": "CV : Elizabeth Simmons"
+				},
+				{
+					"Korean": "CV : 성예원"
+				},
+				{
+					"Portuguese": "CV : Thaís Durães"
+				}
+			],
 			"id": "imitation_12"
 		},
 		"description": "Diese blutrote Klinge steht für Mut und Entschlossenheit und sorgt somit für Gerechtigkeit.",
@@ -2360,6 +2710,33 @@
 			"weapon": "darts_physic",
 			"icon": "imitation_8",
 			"avatarID": "xiluo",
+			"age": "22. September",
+			"gender": "Weiblich",
+			"state": "Unbekannt",
+			"city": "Warren",
+			"rating": "wuwei_imitation_8",
+			"gp": [
+				"metal",
+				"collection",
+				"Rarity"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 蔡娜"
+				},
+				{
+					"Japanese": "CV : 小澤 亜李"
+				},
+				{
+					"English": "CV : Kristen McGuire"
+				},
+				{
+					"Korean": "CV : 양정화"
+				},
+				{
+					"Portuguese": "CV : Fernanda Bullara"
+				}
+			],
 			"id": "imitation_8"
 		},
 		"description": "Eine runde und scharfe Waffe, die mit ihrem Besitzer weit über die Meere gereist ist.",
@@ -2512,6 +2889,32 @@
 			"weapon": "cube_fire",
 			"icon": "imitation_1",
 			"avatarID": "ling",
+			"age": "6. Juni",
+			"gender": "Männlich",
+			"state": "Unbekannt",
+			"city": "Banges",
+			"rating": "wuwei_imitation_1",
+			"gp": [
+				"game",
+				"restrictedGoods"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 蔡海婷"
+				},
+				{
+					"Japanese": "CV : 村瀬 歩"
+				},
+				{
+					"English": "CV : Griffin Burns"
+				},
+				{
+					"Korean": "CV : 김나율"
+				},
+				{
+					"Portuguese": "CV : Henry Walnut"
+				}
+			],
 			"id": "imitation_1"
 		},
 		"description": "Anwender von „Seltsamer Würfel“ können sich viele Wege einfallen lassen, unnötige Anforderungen zu umgehen.",
@@ -2665,6 +3068,32 @@
 			"weapon": "dgun_thunder",
 			"icon": "imitation_5",
 			"avatarID": "saimier",
+			"age": "20. Mai",
+			"gender": "Weiblich",
+			"state": "Hykros",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_5",
+			"gp": [
+				"game",
+				"toy"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐雅菁"
+				},
+				{
+					"Japanese": "CV : 水樹 奈々"
+				},
+				{
+					"English": "CV : Brittany Cox"
+				},
+				{
+					"Korean": "CV : 서유리"
+				},
+				{
+					"Portuguese": "CV : Fernanda Bullara"
+				}
+			],
 			"id": "imitation_5"
 		},
 		"description": "Diese Schusswaffen orientieren sich an Railguns und müssen paarweise verwendet werden.",
@@ -2811,6 +3240,33 @@
 			"weapon": "ShieldAxe_Fire",
 			"icon": "imitation_6",
 			"avatarID": "xiuma",
+			"age": "12. Januar",
+			"gender": "Weiblich",
+			"state": "Hykros",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_6",
+			"gp": [
+				"everydayObjects",
+				"game",
+				"decorate"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐雅菁"
+				},
+				{
+					"Japanese": "CV : 高橋 李依"
+				},
+				{
+					"English": "CV : Colleen O Shaughnessey"
+				},
+				{
+					"Korean": "CV : 김보나"
+				},
+				{
+					"Portuguese": "CV : Marli Bortoletto"
+				}
+			],
 			"id": "imitation_6"
 		},
 		"description": "Eine Schildaxt, die zur V2-Waffenserie gehört. Eine Reihe von Waffen, die mit einer besonderen Technik geschmiedet wurden.",
@@ -2957,6 +3413,33 @@
 			"weapon": "mimi_thunder",
 			"icon": "imitation_41",
 			"avatarID": "mimi",
+			"age": "23. Juli",
+			"gender": "Weiblich",
+			"state": "Tianzhang-Pavillon",
+			"city": "Donnerstadt",
+			"rating": "wuwei_imitation_41",
+			"gp": [
+				"toy",
+				"garageKit",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 裴致莹"
+				},
+				{
+					"Japanese": "CV : 新井 里美"
+				},
+				{
+					"English": "CV : Alexis Tipton"
+				},
+				{
+					"Korean": "CV : 윤은서"
+				},
+				{
+					"Portuguese": "CV : BIANCA ALENCAR"
+				}
+			],
 			"id": "imitation_41"
 		},
 		"description": "Ein Paar Fächer mit enormer Energie und der Macht, Berge zum Einsturz zu bringen oder die Welt entzweizureißen.\r\nWenn Azurdrache in die Wolken emporsteigt, wird die Welt vom Wind erschüttert.",
@@ -3050,7 +3533,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Voltresonanz**: Erhöht den Volt-ANG um **15%** und den Voltwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n\r\n**Donnergroll: Auf dem Feld**: Bei jedem Treffer mit **Azurdrache** wird Zielen in der Nähe Schaden in Höhe von **1.313%** des Volt-ANG + **2%** der max. LP des Wanderers + **69%** der Summe aller Widerstandsarten des Wanderers + **2.5%** des krit. Schadens zugefügt. Dieser Effekt kann einmal alle **1,5**Sek. ausgelöst werden. Der Schaden von „Donnergroll“ zählt als normaler Angriffsschaden. Wenn **1** Flammen-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Donnergroll“ um das **1.3**-fache multipliziert. Außerdem wird der Schaden von „Donnergroll“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Voltresonanz**: Erhöht den Volt-ANG um **15%** und den Voltwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n\r\n**Donnergroll: Auf dem Feld**: Bei jedem Treffer mit **Azurdrache** wird Zielen in der Nähe Schaden in Höhe von **131.3%** des Volt-ANG + **1.9%** der max. LP des Wanderers + **68.8%** der Summe aller Widerstandsarten des Wanderers + **250%** des krit. Schadens zugefügt. Dieser Effekt kann einmal alle **1,5**Sek. ausgelöst werden. Der Schaden von „Donnergroll“ zählt als normaler Angriffsschaden. Wenn **1** Flammen-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Donnergroll“ um das **130**-fache multipliziert. Außerdem wird der Schaden von „Donnergroll“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3116,6 +3599,33 @@
 			"weapon": "linghan_ice",
 			"icon": "imitation_43",
 			"avatarID": "linghan",
+			"age": "7. Juni",
+			"gender": "Weiblich",
+			"state": "Longjian-Pavillon",
+			"city": "Sumpfstadt",
+			"rating": "wuwei_imitation_43",
+			"gp": [
+				"collection",
+				"decorate",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : kiyo"
+				},
+				{
+					"Japanese": "CV : 原 由実"
+				},
+				{
+					"English": "CV : Dominique North"
+				},
+				{
+					"Korean": "CV : 김윤채"
+				},
+				{
+					"Portuguese": "CV : SAMIRA FERNANDES"
+				}
+			],
 			"id": "imitation_43"
 		},
 		"description": "Mit einem Ärmelschwung und des Schwertes göttlichem Tanz, wer ergründet dieses Herzens Glanz?",
@@ -3209,7 +3719,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Extreme Kälte: Entladen**: Nach Verwendung von **Schwertkunst: Schatteneis** wird **30**Sek. lang jede Sekunde Schaden in Höhe von **70%** des Frost-ANG + **10%** der max. LP des Wanderers + **36%** der Summe aller Widerstandsarten des Wanderers + **1.35%** des krit. Schadens verursacht. Mehrfacher Entladungsschaden wird nicht gestapelt und Schaden von „Extreme Kälte“ zählt als Fähigkeitsschaden. Wenn **1** Volt-/Flammen-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Extreme Kälte“ um das **1.3**-fache multipliziert. Außerdem wird der Schaden von „Extreme Kälte“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Extreme Kälte: Entladen**: Nach Verwendung von **Schwertkunst: Schatteneis** wird **3000**Sek. lang jede Sekunde Schaden in Höhe von **70%** des Frost-ANG + **10%** der max. LP des Wanderers + **36%** der Summe aller Widerstandsarten des Wanderers + **135%** des krit. Schadens verursacht. Mehrfacher Entladungsschaden wird nicht gestapelt und Schaden von „Extreme Kälte“ zählt als Fähigkeitsschaden. Wenn **1** Volt-/Flammen-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Extreme Kälte“ um das **130**-fache multipliziert. Außerdem wird der Schaden von „Extreme Kälte“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3217,7 +3727,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Nach dem Abfeuern von **Frostklingen** wird der Frost-ANG des Wanderers um **10%** erhöht und Zielen in der Nähe wird für **30**Sek. jede Sekunde Schaden in Höhe von **104%** des ANG zugefügt.",
+				"description": "Nach dem Abfeuern von **Frostklingen** wird der Frost-ANG des Wanderers um **0.1%** erhöht und Zielen in der Nähe wird für **30**Sek. jede Sekunde Schaden in Höhe von **104%** des ANG zugefügt.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3233,7 +3743,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "Der Wanderer kann bis zu **4** **Frostklingen** erzeugen und der Basismultiplikator des Schadens von **Temperaturabfall** wird auf **468%** erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von **6**Sek. von **Temperaturabfall** betroffen ist, wird dem Ziel zusätzlich ein **Adersiegel** zugefügt, wodurch es um **30%** verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von **Adersiegel** erneut Schaden durch **Frostklinge** erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von **17%** des ANG + **2%** der zu diesem Zeitpunkt verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als **20%** und nicht höher als **22%** des Frost-ANG des Wanderers). Anschließend werden die Effekte von **Adersiegel** und **Temperaturabfall** vom Ziel entfernt.",
+				"description": "Der Wanderer kann bis zu **4** **Frostklingen** erzeugen und der Basismultiplikator des Schadens von **Temperaturabfall** wird auf **468%** erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von **600**Sek. von **Temperaturabfall** betroffen ist, wird dem Ziel zusätzlich ein **Adersiegel** zugefügt, wodurch es um **30%** verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von **Adersiegel** erneut Schaden durch **Frostklinge** erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von **1700%** des ANG + **2%** der zu diesem Zeitpunkt verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als **2000%** und nicht höher als **2200%** des Frost-ANG des Wanderers). Anschließend werden die Effekte von **Adersiegel** und **Temperaturabfall** vom Ziel entfernt.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3275,6 +3785,33 @@
 			"weapon": "Suspension_thunder",
 			"icon": "imitation_17",
 			"avatarID": "Avatar06",
+			"age": "23. Mai",
+			"gender": "Weiblich",
+			"state": "Engel der Gnade",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_17",
+			"gp": [
+				"toy",
+				"decorate",
+				"everydayObjects"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 宋媛媛"
+				},
+				{
+					"Japanese": "CV : 戸松 遥"
+				},
+				{
+					"English": "CV : Suzie Yeung"
+				},
+				{
+					"Korean": "CV : 이새아"
+				},
+				{
+					"Portuguese": "CV : Tatiane Keplmair"
+				}
+			],
 			"id": "imitation_17"
 		},
 		"description": "Sein Entwickler ist unbekannt und die Prototyp-Blaupause des EM-Schwebeblasters ist verloren gegangen. Er enthält in seinem Inneren einzigartige elektrische Speicherprozesse. Es ist außerordentlich aufwendig, ihn zu reparieren, wenn er verschlissen ist, aber Cobalt-B von Banges Tech scheint dazu in der Lage zu sein. ",
@@ -3428,6 +3965,32 @@
 			"weapon": "Frigg_ice",
 			"icon": "imitation_28",
 			"avatarID": "Avatar12",
+			"age": "1. Februar",
+			"gender": "Weiblich",
+			"state": "Engel der Gnade",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_28",
+			"gp": [
+				"metal",
+				"everydayObjects"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 杨梦露"
+				},
+				{
+					"Japanese": "CV : 伊藤 静"
+				},
+				{
+					"English": "CV : Antonia Flynn"
+				},
+				{
+					"Korean": "CV : 소연"
+				},
+				{
+					"Portuguese": "CV : Adriana Pissardini"
+				}
+			],
 			"id": "imitation_28"
 		},
 		"description": "Das Großschwert und der Säbel gehören einzig und allein Frigg, dem Engel der Gnade. Sie wurden an Friggs kybernetischen Körper angepasst, als sie geschmiedet wurden. Die beiden Waffen sind nicht ein und dieselbe, aber Frigg bezeichnet sie zusammen als „Balmung“.",
@@ -3575,6 +4138,33 @@
 			"weapon": "funnel_fire",
 			"icon": "imitation_21",
 			"avatarID": "leibei",
+			"age": "15. Juli",
+			"gender": "Weiblich",
+			"state": "Unbekannt",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_21",
+			"gp": [
+				"game",
+				"toy",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 赵爽"
+				},
+				{
+					"Japanese": "CV : 小倉 唯"
+				},
+				{
+					"English": "CV : Lizzie Freeman"
+				},
+				{
+					"Korean": "CV : 이다은"
+				},
+				{
+					"Portuguese": "CV : Letícia Celini"
+				}
+			],
 			"id": "imitation_21"
 		},
 		"description": "Eine besondere Waffe, die Lin in der F&E von Mirroria für Ruby in Auftrag gegeben hat. Ihre Hauptfunktionen sind: in Rubys Lieblingsspiel als Haushälterin fungieren, Ruby morgens aufwecken und Ruby den Weg weisen … Vor allem soll sie Ruby aber beschützen. ",
@@ -3728,6 +4318,33 @@
 			"weapon": "Dkatana_ice",
 			"icon": "imitation_22",
 			"avatarID": "bupoxiao",
+			"age": "11. Oktober",
+			"gender": "Weiblich",
+			"state": "Spezialkräfte des Sicherheitsdiensts von Mirroria",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_22",
+			"gp": [
+				"metal",
+				"everydayObjects",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 唐小喜"
+				},
+				{
+					"Japanese": "CV : 雨宮 天"
+				},
+				{
+					"English": "CV : EmiLo"
+				},
+				{
+					"Korean": "CV : 김나율"
+				},
+				{
+					"Portuguese": "CV : Letícia Quinto"
+				}
+			],
 			"id": "imitation_22"
 		},
 		"description": "Ein spezielles Tachi, das sich den Super-Flow-Experimenten anpasst. Es ist in der Lage, die mentale Verfassung des Benutzers zu erkennen und erzeugt im richtigen Moment „Schwertschatten“, um im Kampf zu unterstützen.",
@@ -3869,7 +4486,7 @@
 				"need": "Dkatana_ice_plasm"
 			},
 			{
-				"description": "Treffer mit „Volt-Welle“ gegen ein Ziel erhöhen den Frostschaden für **15**Sek. um **11%**.\r\nDurch „Schwertschatten“ ausgelöste Blocks verringern den von gegnerischen Zielen in der Nähe verursachten Frostschaden für **12**Sek. um **25%**.",
+				"description": "Treffer mit „Volt-Welle“ gegen ein Ziel erhöhen den Frostschaden für **15**Sek. um **0.11%**.\r\nDurch „Schwertschatten“ ausgelöste Blocks verringern den von gegnerischen Zielen in der Nähe verursachten Frostschaden für **12**Sek. um **0.25%**.",
 				"stats": {
 					"shatter": 13.9,
 					"charge": 8
@@ -3887,6 +4504,33 @@
 			"weapon": "fan_superpower",
 			"icon": "imitation_23",
 			"avatarID": "linye",
+			"age": "3. September",
+			"gender": "Weiblich",
+			"state": "Hykros – Distrikt 7",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_23",
+			"gp": [
+				"metal",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈婷婷"
+				},
+				{
+					"Japanese": "CV : 南條 愛乃"
+				},
+				{
+					"English": "CV : Erin Yvette"
+				},
+				{
+					"Korean": "CV : 조경이"
+				},
+				{
+					"Portuguese": "CV : Carol Valença"
+				}
+			],
 			"id": "imitation_23"
 		},
 		"description": "Ursprünglich sollte es eine leichte und verdeckte Waffe sein, aber auf Wunsch des Benutzers wurde es in eine schwere Klinge umgewandelt. Sie ist schwer und überhaupt nicht wie eine verdeckte Waffe.",
@@ -4044,6 +4688,33 @@
 			"weapon": "tianlang_thunder",
 			"icon": "imitation_29",
 			"avatarID": "tianlang",
+			"age": "23. März",
+			"gender": "Männlich",
+			"state": "Zuchtstation von Mirroria",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_29",
+			"gp": [
+				"collection",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 淦子齐"
+				},
+				{
+					"Japanese": "CV : 石川 界人"
+				},
+				{
+					"English": "CV : Kaiji Tang"
+				},
+				{
+					"Korean": "CV : 박요한"
+				},
+				{
+					"Portuguese": "CV : Glauco Marques"
+				}
+			],
 			"id": "imitation_29"
 		},
 		"description": "Dieser mit Blitzen bedeckte Langspeer ist der SMA1-TS00-Donnerbrecher. Er kann die gespeicherte Kraft mit unvorstellbaren Mitteln entfesseln. Das vom Speer erzeugte elektrische Feld stört den Verstand seines Trägers, sodass er von normalen Menschen nicht beherrscht werden kann.",
@@ -4197,6 +4868,32 @@
 			"weapon": "arm_physic",
 			"icon": "imitation_24",
 			"avatarID": "xinghuan",
+			"age": "23. Juni",
+			"gender": "Weiblich",
+			"state": "Maidelin Fund",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_24",
+			"gp": [
+				"everydayObjects",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 常佳梦"
+				},
+				{
+					"Japanese": "CV : 大原 さやか"
+				},
+				{
+					"English": "CV : Ryan Bartley"
+				},
+				{
+					"Korean": "CV : 윤은서"
+				},
+				{
+					"Portuguese": "CV : Maitê Cunha"
+				}
+			],
 			"id": "imitation_24"
 		},
 		"description": "Eine Unterstützungswaffe, die individuell für einen Insider der Maidelin Foundation angefertigt wurde. Frau Maidelin glaubt, dass Lyra sie gut gebrauchen kann.",
@@ -4326,7 +5023,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Erhöht den gesamten durch Wächter verursachten Schaden um **20%** und den Endschaden des bewachten Ziels für **10Sek.** um **15%**, wenn der Anwender unter dem Effekt von „Segnungsresonanz“ eine beliebige Waffenfähigkeit oder Entladung auslöst.",
+				"description": "Erhöht den gesamten durch Wächter verursachten Schaden um **20%** und den Endschaden des bewachten Ziels für **10Sek.** um **0.15%**, wenn der Anwender unter dem Effekt von „Segnungsresonanz“ eine beliebige Waffenfähigkeit oder Entladung auslöst.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4342,7 +5039,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Vergebungswächter: Nachdem du 5-mal „Resonanz“ ausgelöst hast, erhältst du **1** Chance, tödlichen Schaden für den Anwender und das bewachte Ziel zu negieren. Nachdem ein Teammitglied tödlichen Schaden negiert hat, verbraucht es Vergebungswächter und stellt **5%** der max. LP wieder her. Nicht in der Apex-Liga verfügbar.\r\nErleuchtungswächter: Nachdem der Anwender 5-mal „Resonanz“ ausgelöst hat und wenn er Erleuchtungswächter besitzt, erhält er **2** Chancen, tödlichen Schaden zu negieren. Kann bis zu **5**-mal gestapelt werden. Nachdem der Anwender tödlichen Schaden negiert hat, wird 1 Stapel Erleuchtungswächter verbraucht und **5%** der max. LP werden wiederhergestellt. Nicht in der Apex-Liga verfügbar.",
+				"description": "Vergebungswächter: Nachdem du 5-mal „Resonanz“ ausgelöst hast, erhältst du **1** Chance, tödlichen Schaden für den Anwender und das bewachte Ziel zu negieren. Nachdem ein Teammitglied tödlichen Schaden negiert hat, verbraucht es Vergebungswächter und stellt **0.05%** der max. LP wieder her. Nicht in der Apex-Liga verfügbar.\r\nErleuchtungswächter: Nachdem der Anwender 5-mal „Resonanz“ ausgelöst hat und wenn er Erleuchtungswächter besitzt, erhält er **2** Chancen, tödlichen Schaden zu negieren. Kann bis zu **5**-mal gestapelt werden. Nachdem der Anwender tödlichen Schaden negiert hat, wird 1 Stapel Erleuchtungswächter verbraucht und **0.05%** der max. LP werden wiederhergestellt. Nicht in der Apex-Liga verfügbar.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4350,7 +5047,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Wenn du eine beliebige Waffenfähigkeit oder Entladung auslöst, hängt die Erhöhung des Endschadens und der Heilung von der Anzahl der Wächter ab. Jeder Wächter erhöht den endgültigen Schaden und Heilung um **2%**, bis zu **8%** für **25 Sek.**",
+				"description": "Wenn du eine beliebige Waffenfähigkeit oder Entladung auslöst, hängt die Erhöhung des Endschadens und der Heilung von der Anzahl der Wächter ab. Jeder Wächter erhöht den endgültigen Schaden und Heilung um **1.6%**, bis zu **8%** für **2500 Sek.**",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -4368,6 +5065,32 @@
 			"weapon": "Rubilia_thunder",
 			"icon": "imitation_48",
 			"avatarID": "leibiliya",
+			"age": "24. April",
+			"gender": "Weiblich",
+			"state": "Mirroria",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_48",
+			"gp": [
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 穆雪婷"
+				},
+				{
+					"Japanese": "CV : 三石 琴乃"
+				},
+				{
+					"English": "CV : Samantha Berman"
+				},
+				{
+					"Korean": "CV : 이새벽"
+				},
+				{
+					"Portuguese": "CV : Jussara Marques"
+				}
+			],
 			"id": "imitation_48"
 		},
 		"description": "Ein sanfter Streich im chaotischen Abgrund wird einen Sturm auslösen, der das Schicksal aller beeinflusst.",
@@ -4475,7 +5198,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Nachdem **Feedback** ausgelöst wurde, fügt jeder Krystamax-Dorn für **NaN** Sek. alle **2** Sek. Zielen in der Nähe Schaden in Höhe von **66,7%** des ANG zu.",
+				"description": "Nachdem **Feedback** ausgelöst wurde, fügt jeder Krystamax-Dorn für **undefined** Sek. alle **2** Sek. Zielen in der Nähe Schaden in Höhe von **66,7%** des ANG zu.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4507,7 +5230,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Erhöht die Wiederherstellung der max. LP von Krystamax-Dornen von **Feedback** auf **NaN%**.",
+				"description": "Erhöht die Wiederherstellung der max. LP von Krystamax-Dornen von **Feedback** auf **undefined%**.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4515,7 +5238,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Erhöht Voltschaden **NaN** Sek. lang um zusätzliche **NaN%**, nachdem Harrahs Umarmung erfolgreich eingesetzt wurde.",
+				"description": "Erhöht Voltschaden **undefined** Sek. lang um zusätzliche **undefined%**, nachdem Harrahs Umarmung erfolgreich eingesetzt wurde.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -4533,6 +5256,33 @@
 			"weapon": "iceblade_ice",
 			"icon": "imitation_30",
 			"avatarID": "ailisi",
+			"age": "28. Mai",
+			"gender": "Weiblich",
+			"state": "Spezialkräfte des Sicherheitsdiensts von Mirroria",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_30",
+			"gp": [
+				"collection",
+				"restrictedGoods",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 杜晴晴"
+				},
+				{
+					"Japanese": "CV : 安済 知佳"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 유영"
+				},
+				{
+					"Portuguese": "CV : Michelle Giudice"
+				}
+			],
 			"id": "imitation_30"
 		},
 		"description": "Eine Kampfrüstung mit einer Fußklinge als Kernelement. Sie ist das Ergebnis modernster Wissenschaft und Technik aus der Zeit vor der Katastrophe und wird durch die bloße Kraft der Gedanken angetrieben. Falls nötig, setzt sie eine gewaltige Explosion frei.",
@@ -4692,6 +5442,34 @@
 			"weapon": "snipe_fire",
 			"icon": "imitation_26",
 			"avatarID": "annabeila",
+			"age": "28. April",
+			"gender": "Weiblich",
+			"state": "Unbekannt",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_26",
+			"gp": [
+				"decorate",
+				"Rarity",
+				"game",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 洪海天"
+				},
+				{
+					"Japanese": "CV : 黒沢 ともよ"
+				},
+				{
+					"English": "CV : Risa Mei"
+				},
+				{
+					"Korean": "CV : 이유리"
+				},
+				{
+					"Portuguese": "CV : Ágatha Paulita"
+				}
+			],
 			"id": "imitation_26"
 		},
 		"description": "Ein VR-Mehrspieler-Shooter, der in Mirroria wahnsinnig beliebt ist, hat diese exklusive Waffe für den besten Spieler einer Saison entwickelt. Das maßgefertigte echte Modell der Waffe wurde dem Spieler zugesendet. Niemand konnte ahnen, dass sie wie im Spiel funktioniert …",
@@ -4839,6 +5617,33 @@
 			"weapon": "brush_fire",
 			"icon": "imitation_37",
 			"avatarID": "liuhuo",
+			"age": "19. August",
+			"gender": "Weiblich",
+			"state": "Flammenstadt-Villa",
+			"city": "Flammenstadt",
+			"rating": "wuwei_imitation_37",
+			"gp": [
+				"everydayObjects",
+				"metal",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 葛子瑞"
+				},
+				{
+					"Japanese": "CV : 徳井 青空"
+				},
+				{
+					"English": "CV : Michelle Marie"
+				},
+				{
+					"Korean": "CV : 문유정"
+				},
+				{
+					"Portuguese": "CV : ISABELLA GUARNIERI"
+				}
+			],
 			"id": "imitation_37"
 		},
 		"description": "„Keine Gewalt bitte! Echte Akademiker würden niemanden mit Briefpapier abschießen!“ – Rong Jin",
@@ -4950,7 +5755,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **15%** und den Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Flammenexplosion: Auf dem Feld**: Beim Landen jedes Treffers mit **Kienkomet** wird Zielen in der Nähe Schaden in Höhe von **1.05%** des Flammen-ANG + **2%** der max. LP des Wanderers + **55%** der Summe aller Widerstandsarten des Wanderers + **2%** des krit. Schadens zugefügt. Dieser Effekt kann einmal alle **1,5**Sek. ausgelöst werden. Der Flammenexplosionsschaden zählt als normaler Angriffsschaden. Wenn **1** Volt-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Flammenexplosionsschaden um das **1.3**-fache multipliziert. Außerdem wird der Flammenexplosionsschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **15%** und den Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Flammenexplosion: Auf dem Feld**: Beim Landen jedes Treffers mit **Kienkomet** wird Zielen in der Nähe Schaden in Höhe von **105%** des Flammen-ANG + **1.5%** der max. LP des Wanderers + **55%** der Summe aller Widerstandsarten des Wanderers + **200%** des krit. Schadens zugefügt. Dieser Effekt kann einmal alle **1,5**Sek. ausgelöst werden. Der Flammenexplosionsschaden zählt als normaler Angriffsschaden. Wenn **1** Volt-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Flammenexplosionsschaden um das **130**-fache multipliziert. Außerdem wird der Flammenexplosionsschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4958,7 +5763,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Wenn eine **Sperlingsfeder** ein Ziel trifft, wird ein Ausbreitungseffekt ausgelöst, der zusätzlichen Flächenschaden in Höhe von **50%** des gesamten Brand- und Entzündungsschadens verursacht. Zudem breitet sich der **Sperlingsbrand** des betroffenen Ziels auf Ziele in der Nähe aus, wodurch die Dauer von **Sperlingsbrand** zurückgesetzt wird. Der Ausbreitungseffekt kann einmal alle **5**Sek. ausgelöst werden.",
+				"description": "Wenn eine **Sperlingsfeder** ein Ziel trifft, wird ein Ausbreitungseffekt ausgelöst, der zusätzlichen Flächenschaden in Höhe von **0.5%** des gesamten Brand- und Entzündungsschadens verursacht. Zudem breitet sich der **Sperlingsbrand** des betroffenen Ziels auf Ziele in der Nähe aus, wodurch die Dauer von **Sperlingsbrand** zurückgesetzt wird. Der Ausbreitungseffekt kann einmal alle **5**Sek. ausgelöst werden.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4974,7 +5779,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Sind die LP des Wanderers unter **50%** der max. LP gefallen, werden alle **0,5**Sek. **1** **Sperlingsfeder** verbraucht und **2%** der max. LP wiederhergestellt, (erhöht sich im Solospiel auf **3%** der max. LP), bis die LP des Wanderers voll oder alle **Sperlingsfedern** verbraucht sind. Der Effekt funktioniert auch im Nebenhand-Slot.",
+				"description": "Sind die LP des Wanderers unter **50%** der max. LP gefallen, werden alle **0,5**Sek. **1** **Sperlingsfeder** verbraucht und **1.5%** der max. LP wiederhergestellt, (erhöht sich im Solospiel auf **3%** der max. LP), bis die LP des Wanderers voll oder alle **Sperlingsfedern** verbraucht sind. Der Effekt funktioniert auch im Nebenhand-Slot.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -4998,7 +5803,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Erhöht den Flammenschaden um zusätzliche **14%**, wenn du dich im **Gipfel**-Zustand befindest.",
+				"description": "Erhöht den Flammenschaden um zusätzliche **0.14%**, wenn du dich im **Gipfel**-Zustand befindest.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5016,6 +5821,32 @@
 			"weapon": "Whip_physic",
 			"icon": "imitation_31",
 			"avatarID": "wumi",
+			"age": "20. Oktober",
+			"gender": "Weiblich",
+			"state": "Hykros – Distrikt 7",
+			"city": "Mirroria",
+			"rating": "wuwei_imitation_31",
+			"gp": [
+				"game",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 刘雯"
+				},
+				{
+					"Japanese": "CV : M・A・O"
+				},
+				{
+					"English": "CV : Anne Yatco"
+				},
+				{
+					"Korean": "CV : 김연우"
+				},
+				{
+					"Portuguese": "CV : Pâmela Rodrigues"
+				}
+			],
 			"id": "imitation_31"
 		},
 		"description": "Die Peitsche, die von der neuen Vollstreckerin Umi bevorzugt wird. Umi mag an ihr am liebsten, dass sie normalerweise nicht über sie stolpert.",
@@ -5129,7 +5960,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Gewährt beim Wechsel zu Möbius sofort **30**Aufwärmpunkte. Abklingzeit: **17**Sek. Fügt Zielen in der Nähe beim Einsatz von „Zaubertrick“ Flächenschaden in Höhe von **8.4%** des ANG zu und reduziert ihren physischen Widerstand für **20**Sek. um **-10%**.",
+				"description": "Gewährt beim Wechsel zu Möbius sofort **30**Aufwärmpunkte. Abklingzeit: **17**Sek. Fügt Zielen in der Nähe beim Einsatz von „Zaubertrick“ Flächenschaden in Höhe von **8.4%** des ANG zu und reduziert ihren physischen Widerstand für **20**Sek. um **-0.1%**.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5145,7 +5976,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Wenn „Zaubertrick“ frühzeitig beendet wird, wird über **13**Sek. großflächig Schaden verursacht. Die aktuelle Abklingzeit von Möbius’ Fähigkeit wird verringert und der physische Schaden wird für eine gewisse Zeit um **25%** erhöht (dieser Effekt gilt nicht für Möbius). Wenn von „Zaubertrick“ mehr als **13**Sek. verbleiben, erhält der Anwender zusätzlich **200**Waffenladung. Je mehr Zeit verbleibt, wenn „Zaubertrick“ endet, desto höher der Flächenschaden, desto größer die Abklingzeitverringerung der Fähigkeit und desto länger hält der physische Schadensbonus an. Der verursachte Flächenschaden ist auf **2%** des ANG begrenzt (der maximale Schaden wird verursacht, wenn die verbleibende Zeit mehr als **13**Sek. beträgt). Die maximale Abklingzeitverringerung beträgt **13**Sek., und der physische Schadensbonus kann bis zu **20**Sek. andauern.",
+				"description": "Wenn „Zaubertrick“ frühzeitig beendet wird, wird über **13**Sek. großflächig Schaden verursacht. Die aktuelle Abklingzeit von Möbius’ Fähigkeit wird verringert und der physische Schaden wird für eine gewisse Zeit um **0.25%** erhöht (dieser Effekt gilt nicht für Möbius). Wenn von „Zaubertrick“ mehr als **13**Sek. verbleiben, erhält der Anwender zusätzlich **200**Waffenladung. Je mehr Zeit verbleibt, wenn „Zaubertrick“ endet, desto höher der Flächenschaden, desto größer die Abklingzeitverringerung der Fähigkeit und desto länger hält der physische Schadensbonus an. Der verursachte Flächenschaden ist auf **2%** des ANG begrenzt (der maximale Schaden wird verursacht, wenn die verbleibende Zeit mehr als **13**Sek. beträgt). Die maximale Abklingzeitverringerung beträgt **13**Sek., und der physische Schadensbonus kann bis zu **20**Sek. andauern.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5161,7 +5992,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Erhalte den Effekt „Psychische Puppe“ während des Zaubertricks und erhöhe Möbius’ physischen Schadensbonus auf **15%**. Während des Zaubertricks stellst du jede Sekunde **2%** der max. LP und **10** Waffenladung wieder her.",
+				"description": "Erhalte den Effekt „Psychische Puppe“ während des Zaubertricks und erhöhe Möbius’ physischen Schadensbonus auf **15%**. Während des Zaubertricks stellst du jede Sekunde **2%** der max. LP und **1000** Waffenladung wieder her.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -5187,6 +6018,33 @@
 			"weapon": "feise_fire",
 			"icon": "imitation_51",
 			"avatarID": "feise",
+			"age": "23. August",
+			"gender": "Weiblich",
+			"state": "Phantompalast",
+			"city": "Flammenstadt",
+			"rating": "wuwei_imitation_51",
+			"gp": [
+				"everydayObjects",
+				"collection",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈彦亦"
+				},
+				{
+					"Japanese": "CV : 田中 理恵"
+				},
+				{
+					"English": "CV : Alexis Tipton"
+				},
+				{
+					"Korean": "CV : 강새봄"
+				},
+				{
+					"Portuguese": "CV : LUCIANA BAROLI"
+				}
+			],
 			"id": "imitation_51"
 		},
 		"description": "Hinter manchen Blüten verbirgt sich harter Stahl.",
@@ -5292,7 +6150,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **20%** und den Flammenwiderstand um **40%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n**Flammenexplosion: Schneller Hieb**: Wenn **Endlose Blüte** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **38%** des Flammen-ANG + **1%** der max. LP des Wanderers + **19%** der Summe aller Widerstandsarten des Wanderers + **69%** des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle **0,5** Sekunden zusätzlich um das **1**-fache erhöht, bis zu einem Maximum von **30**-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das **1.3**-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **20%** und den Flammenwiderstand um **40%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n**Flammenexplosion: Schneller Hieb**: Wenn **Endlose Blüte** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **37.5%** des Flammen-ANG + **0.5%** der max. LP des Wanderers + **18.75%** der Summe aller Widerstandsarten des Wanderers + **68.75%** des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle **0,5** Sekunden zusätzlich um das **1**-fache erhöht, bis zu einem Maximum von **30**-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das **130**-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -5358,6 +6216,33 @@
 			"weapon": "fenrir_thunder",
 			"icon": "imitation_32",
 			"avatarID": "fenlier",
+			"age": "13. Februar",
+			"gender": "Weiblich",
+			"state": "Oasenclub",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_32",
+			"gp": [
+				"toy",
+				"collection",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 孙艳琦"
+				},
+				{
+					"Japanese": "CV : 丹下 桜"
+				},
+				{
+					"English": "CV : Corina Boetger"
+				},
+				{
+					"Korean": "CV : 강은애"
+				},
+				{
+					"Portuguese": "CV : Jullie"
+				}
+			],
 			"id": "imitation_32"
 		},
 		"description": "Ein spezielles Gerät, das Schallwellen in Angriffe umwandelt. Wenn die Fesseln gesprengt werden, wird die Strömung des Todes zu scharfen Krallen, die alles zerfetzen.",
@@ -5523,6 +6408,34 @@
 			"weapon": "umbrella_fire",
 			"icon": "imitation_34",
 			"avatarID": "lan",
+			"age": "5. Mai",
+			"gender": "Weiblich",
+			"state": "Die Schattenwächter",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_34",
+			"gp": [
+				"Rarity",
+				"everydayObjects",
+				"Vera",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 陈雨"
+				},
+				{
+					"Japanese": "CV : 内田 真礼"
+				},
+				{
+					"English": "CV : Sarah Wiedenheft"
+				},
+				{
+					"Korean": "CV : 박리나"
+				},
+				{
+					"Portuguese": "CV : Luiza Caspary"
+				}
+			],
 			"id": "imitation_34"
 		},
 		"description": "Eine Sonnenschirmwaffe, die ausschließlich von Zhuque verwendet wird und über verschiedene versteckte Funktionen verfügt. Das Purpurköpfchen kann nicht nur ein mächtiges Werkzeug sein, um Feinde mit Energie zu zerstören, sondern ist auch in der Lage, anderen die Sicht zu versperren und das Handeln des Besitzers zu verbergen …",
@@ -5662,7 +6575,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "„Gleißender Aufprall“ und der übertragene Schaden ignorieren **60%** des Flammenwiderstands des Ziels.\r\nDer von „Korrosion“ verursachte Flammenschaden wird um **10%** erhöht.",
+				"description": "„Gleißender Aufprall“ und der übertragene Schaden ignorieren **60%** des Flammenwiderstands des Ziels.\r\nDer von „Korrosion“ verursachte Flammenschaden wird um **0.1%** erhöht.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -5670,7 +6583,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Erhöht den von „Tanzende Flammen“ und „Schwungschlag“ verursachten Schaden um **50%**.\r\nDer Multiplikator für schnell rotierende Sonnenschirme, „Phönixhieb“ und „Gleißender Aufprall“ beträgt jetzt „Vielfeder-Sonnenschirm“ + **2**.",
+				"description": "Erhöht den von „Tanzende Flammen“ und „Schwungschlag“ verursachten Schaden um **0.5%**.\r\nDer Multiplikator für schnell rotierende Sonnenschirme, „Phönixhieb“ und „Gleißender Aufprall“ beträgt jetzt „Vielfeder-Sonnenschirm“ + **2**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -5688,6 +6601,34 @@
 			"weapon": "Yoyo_ice",
 			"icon": "imitation_35",
 			"avatarID": "yikaluosi",
+			"age": "24. Oktober",
+			"gender": "Männlich",
+			"state": "Mookes Team",
+			"city": "Hykros",
+			"rating": "wuwei_imitation_35",
+			"gp": [
+				"collection",
+				"metal",
+				"Vera",
+				"Asshai"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 沐霏"
+				},
+				{
+					"Japanese": "CV : 梶原 岳人"
+				},
+				{
+					"English": "CV : RyMcKeand"
+				},
+				{
+					"Korean": "CV : 김유림"
+				},
+				{
+					"Portuguese": "CV : Úrsula Bezerra"
+				}
+			],
 			"id": "imitation_35"
 		},
 		"description": "Eine seltene Sammlerwaffe, die mit einzigartigen, beliebten Nachrüstungen verschmolzen ist. Möge der Träger mit Mut in die trostlose Dunkelheit voranschreiten, selbst wenn es einen wie die Motte zur Flamme zieht.",
@@ -5789,7 +6730,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Wenn eine beliebige Waffenfähigkeit eingesetzt wird, kann „Rasantes Jo-Jo“ **Harmonie** auslösen, was Zielen in der Nähe Schaden in Höhe von **NaN%** ihrer verlorenen LP zufügt. Der verursachte Schaden beträgt mindestens **NaN%** und höchstens **NaN%** des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.\r\nWenn eine beliebige Waffenentladung eingesetzt wird, kann „Rasantes Jo-Jo“ **Tuning** auslösen, was Zielen in der Nähe Schaden in Höhe von **NaN%** der max. LP des Wanderers zufügt. Der verursachte Schaden beträgt höchstens **NaN%** des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.",
+				"description": "Wenn eine beliebige Waffenfähigkeit eingesetzt wird, kann „Rasantes Jo-Jo“ **Harmonie** auslösen, was Zielen in der Nähe Schaden in Höhe von **undefined%** ihrer verlorenen LP zufügt. Der verursachte Schaden beträgt mindestens **undefined%** und höchstens **undefined%** des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.\r\nWenn eine beliebige Waffenentladung eingesetzt wird, kann „Rasantes Jo-Jo“ **Tuning** auslösen, was Zielen in der Nähe Schaden in Höhe von **undefined%** der max. LP des Wanderers zufügt. Der verursachte Schaden beträgt höchstens **undefined%** des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5805,7 +6746,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Wenn „Trostloser Tag“ verwendet wird, kann „Rasantes Jo-Jo“ für **NaN**Sek. **Schnelligkeit** auslösen: Die Geschwindigkeit von „Rasantes Jo-Jo“ wird um **NaN%** erhöht, der Schaden wird um **160%** erhöht und der Schaden, der beim Passieren des Ziels entsteht, wird in geringfügigen Flächenschaden umgewandelt.",
+				"description": "Wenn „Trostloser Tag“ verwendet wird, kann „Rasantes Jo-Jo“ für **undefined**Sek. **Schnelligkeit** auslösen: Die Geschwindigkeit von „Rasantes Jo-Jo“ wird um **undefined%** erhöht, der Schaden wird um **160%** erhöht und der Schaden, der beim Passieren des Ziels entsteht, wird in geringfügigen Flächenschaden umgewandelt.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5821,7 +6762,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Erhöht den Schaden von „Rasantes Jo-Jo“ und „Rückkehr zur Einsamkeit“ um **NaN%**.",
+				"description": "Erhöht den Schaden von „Rasantes Jo-Jo“ und „Rückkehr zur Einsamkeit“ um **undefined%**.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5829,7 +6770,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Erhöht den Endschaden um **NaN%**, während „Rasantes Jo-Jo“ aktiv ist.",
+				"description": "Erhöht den Endschaden um **undefined%**, während „Rasantes Jo-Jo“ aktiv ist.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -5847,6 +6788,33 @@
 			"weapon": "yulan_ice",
 			"icon": "imitation_38",
 			"avatarID": "yulan",
+			"age": "9. Februar",
+			"gender": "Weiblich",
+			"state": "Wächterin der Sonnenuhr",
+			"city": "Gebiet 9",
+			"rating": "wuwei_imitation_38",
+			"gp": [
+				"everydayObjects",
+				"collection",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 秦文静"
+				},
+				{
+					"Japanese": "CV : 柚木 涼香"
+				},
+				{
+					"English": "CV : Brianna Knickerbocker"
+				},
+				{
+					"Korean": "CV : 김윤채"
+				},
+				{
+					"Portuguese": "CV : LUIZA PORTO"
+				}
+			],
 			"id": "imitation_38"
 		},
 		"description": "Eintracht, oder anders formuliert Konsolidierung. Das ist die Waffe, die Ji Yu persönlich für Yu Lan ausgesucht hat und technologisch auf dem neuesten Stand von Gebiet 9 ist. Sei also nicht überrascht, wenn du Zeuge wundersamer Anblicke wirst, nachdem du sie mit dem Zeitstempel verwendet hast.",
@@ -5970,7 +6938,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Eisvernichtung: Schneller Hieb**: Wenn **Eintracht** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **30%** des Frost-ANG + **0%** der max. LP des Wanderers + **15%** der Summe aller Widerstandsarten des Wanderers + **55%** des krit. Schadens zu. Im Kampfstatus wird alle **0,5**Sek. der Schaden des nächsten schnellen Hiebs zusätzlich um das **1**-fache erhöht, bis zum Maximum des **30**-fachen. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Volt-/physische/Flammenwaffe jeglicher Art ausgerüstet ist, wird der Schaden von „Eisvernichtung“ um das **1.3**-fache erhöht. Außerdem wird der Schaden von „Eisvernichtung“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Eisvernichtung: Schneller Hieb**: Wenn **Eintracht** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **30%** des Frost-ANG + **0.4%** der max. LP des Wanderers + **15%** der Summe aller Widerstandsarten des Wanderers + **55%** des krit. Schadens zu. Im Kampfstatus wird alle **0,5**Sek. der Schaden des nächsten schnellen Hiebs zusätzlich um das **1**-fache erhöht, bis zum Maximum des **30**-fachen. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Volt-/physische/Flammenwaffe jeglicher Art ausgerüstet ist, wird der Schaden von „Eisvernichtung“ um das **130**-fache erhöht. Außerdem wird der Schaden von „Eisvernichtung“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -5978,7 +6946,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Wenn in der **Kampfkünstler**-Form **3** oder mehr **Innere Stärke** verbraucht wurden, regeneriert **Eintracht** **1** **Innere Stärke**. Anschließend wird der Endschaden des Wanderers um **5%** erhöht, und der Schaden des Ausweichangriffs/normalen Angriffs von **Eintracht** wird **30** Sekunden lang um **50%** erhöht.\r\nWenn in der **Rohe Kraft**-Form **3** oder mehr **Kampfgeist** verbraucht wurden, regeneriert **Eintracht** **1** **Kampfgeist**. Anschließend wird der Endschaden des Wanderers **15** Sekunden lang um **5%** erhöht.",
+				"description": "Wenn in der **Kampfkünstler**-Form **3** oder mehr **Innere Stärke** verbraucht wurden, regeneriert **Eintracht** **100** **Innere Stärke**. Anschließend wird der Endschaden des Wanderers um **5%** erhöht, und der Schaden des Ausweichangriffs/normalen Angriffs von **Eintracht** wird **3000** Sekunden lang um **50%** erhöht.\r\nWenn in der **Rohe Kraft**-Form **3** oder mehr **Kampfgeist** verbraucht wurden, regeneriert **Eintracht** **100** **Kampfgeist**. Anschließend wird der Endschaden des Wanderers **1500** Sekunden lang um **5%** erhöht.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -5994,7 +6962,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Wenn in der **Kampfkünstler**-Form innerhalb von **5** Sekunden keine **Innere Stärke** generiert wird, werden beim nächsten Erhalt von **Innerer Stärke** stattdessen **2** Einheiten verliehen.\r\nWenn **Eintracht** in einer beliebigen Form **3** oder mehr **Innere Stärke** oder **Kampfgeist** verbraucht, werden **10%** der max. LP des Wanderers wiederhergestellt. Im Einzelspiel wird die LP-Wiederherstellung auf **20%** erhöht. Dieser Effekt in der **Rohe Kraft**-Form nur 1-mal alle **8** Sekunden auftreten. In der **Kampfkünstler**-Form gibt es keine Beschränkung.",
+				"description": "Wenn in der **Kampfkünstler**-Form innerhalb von **500** Sekunden keine **Innere Stärke** generiert wird, werden beim nächsten Erhalt von **Innerer Stärke** stattdessen **2** Einheiten verliehen.\r\nWenn **Eintracht** in einer beliebigen Form **3** oder mehr **Innere Stärke** oder **Kampfgeist** verbraucht, werden **10%** der max. LP des Wanderers wiederhergestellt. Im Einzelspiel wird die LP-Wiederherstellung auf **20%** erhöht. Dieser Effekt in der **Rohe Kraft**-Form nur 1-mal alle **8** Sekunden auftreten. In der **Kampfkünstler**-Form gibt es keine Beschränkung.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6010,7 +6978,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Wenn **Eintracht** **Innere Stärke** oder **Kampfgeist** verbraucht wird, wird tödlicher Schaden 1-mal verhindert und der Wanderer stellt **20%** der max. LP wieder her (nicht in der Apex-Liga verfügbar). Im Einzelspiel wird die LP-Wiederherstellung auf **40%** erhöht. Beide Effekte können nur 1-mal alle **60**Sek. ausgelöst werden.",
+				"description": "Wenn **Eintracht** **Innere Stärke** oder **Kampfgeist** verbraucht wird, wird tödlicher Schaden 1-mal verhindert und der Wanderer stellt **20%** der max. LP wieder her (nicht in der Apex-Liga verfügbar). Im Einzelspiel wird die LP-Wiederherstellung auf **40%** erhöht. Beide Effekte können nur 1-mal alle **6000**Sek. ausgelöst werden.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6018,7 +6986,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "In der **Kampfkünstler**-Form wird der Schaden des Ausweichangriffs/normalen Angriffs von **Eintracht** um weitere **70%** erhöht. Wenn **innere Stärke** verbraucht wird, wird der Endschaden des Wanderers **30**Sek. lang um **10%** erhöht.\r\nWenn **Eintracht** in der **Rohe Kraft**-Form **Kampfgeist** verbraucht, wird der Endschaden des Wanderers **30**Sek. lang um **15%** erhöht.",
+				"description": "In der **Kampfkünstler**-Form wird der Schaden des Ausweichangriffs/normalen Angriffs von **Eintracht** um weitere **70%** erhöht. Wenn **innere Stärke** verbraucht wird, wird der Endschaden des Wanderers **3000**Sek. lang um **10%** erhöht.\r\nWenn **Eintracht** in der **Rohe Kraft**-Form **Kampfgeist** verbraucht, wird der Endschaden des Wanderers **3000**Sek. lang um **15%** erhöht.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6036,6 +7004,34 @@
 			"weapon": "Zeke_physic",
 			"icon": "imitation_50",
 			"avatarID": "mingjing",
+			"age": "12. November",
+			"gender": "Männlich",
+			"state": "Gebiet 9",
+			"city": "Unbekannt",
+			"rating": "wuwei_imitation_50",
+			"gp": [
+				"everydayObjects",
+				"Asshai",
+				"Vera",
+				"Jiuyu"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 马洋"
+				},
+				{
+					"Japanese": "CV : 中村 悠一"
+				},
+				{
+					"English": "CV : Johnny Young"
+				},
+				{
+					"Korean": "CV : 신용우"
+				},
+				{
+					"Portuguese": "CV : Wendel Bezerra"
+				}
+			],
 			"id": "imitation_50"
 		},
 		"description": "Ein beeindruckendes und scharfes Großschwert, das normale Menschen heben können. Neben seiner zerstörerischen Kraft vermittelt seine breite Klinge auch ein Gefühl der Sicherheit.",
@@ -6135,7 +7131,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Physische Resonanz**: Erhöht den physischen ANG um **15%** und den physischen Widerstand um **25%**. Wird durch Ausrüsten von **2** oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen physischen Resonanz- oder Reaktionseffekten gestapelt werden, wobei physische Resonanz priorisiert wird.\r\n**Flammenresonanz**: Erhöht den Flammen-ANG um **15%** und den Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n\r\n**Schildbruch: Distanzierung**: Nach Verwendung von **Bodenlose Schlucht** wird bei getroffenen Zielen **30**Sek. lang pro Sekunde Schaden in Höhe von **70%** des physischen ANG + **1%** der max. LP des Wanderers + **36%** der Summe aller Widerstandsarten des Wanderers + **1.35%** des krit. Schadens verursacht. Mehrfacher Distanzierungsschaden wird nicht gestapelt und Schildbruchschaden zählt als Fähigkeitsschaden. Wenn **1** Volt-/Flammen-/Frostwaffe ausgerüstet ist, wird der Schildbruchschaden um das **1.3**-fache multipliziert. Außerdem wird der Schildbruchschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Physische Resonanz**: Erhöht den physischen ANG um **15%** und den physischen Widerstand um **25%**. Wird durch Ausrüsten von **2** oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen physischen Resonanz- oder Reaktionseffekten gestapelt werden, wobei physische Resonanz priorisiert wird.\r\n**Flammenresonanz**: Erhöht den Flammen-ANG um **15%** und den Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n\r\n**Schildbruch: Distanzierung**: Nach Verwendung von **Bodenlose Schlucht** wird bei getroffenen Zielen **3000**Sek. lang pro Sekunde Schaden in Höhe von **70%** des physischen ANG + **1%** der max. LP des Wanderers + **36%** der Summe aller Widerstandsarten des Wanderers + **135%** des krit. Schadens verursacht. Mehrfacher Distanzierungsschaden wird nicht gestapelt und Schildbruchschaden zählt als Fähigkeitsschaden. Wenn **1** Volt-/Flammen-/Frostwaffe ausgerüstet ist, wird der Schildbruchschaden um das **130**-fache multipliziert. Außerdem wird der Schildbruchschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6175,7 +7171,7 @@
 				"need": "Zeke_physic_plasm"
 			},
 			{
-				"description": "Nach der Verwendung von **Bodenlose Schlucht** wird der vom Wanderer erlittene Schaden für **30**Sek. um **10%** verringert (**20%** im Einzelspiel).",
+				"description": "Nach der Verwendung von **Bodenlose Schlucht** wird der vom Wanderer erlittene Schaden für **3000**Sek. um **10%** verringert (**20%** im Einzelspiel).",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6201,6 +7197,33 @@
 			"weapon": "queen_superpower",
 			"icon": "imitation_36",
 			"avatarID": "feiouna",
+			"age": "17. April",
+			"gender": "Weiblich",
+			"state": "Innars",
+			"city": "Innars",
+			"rating": "wuwei_imitation_36",
+			"gp": [
+				"collection",
+				"decorate",
+				"Vera"
+			],
+			"va": [
+				{
+					"Chinese": "CV : 刘雪"
+				},
+				{
+					"Japanese": "CV : 石見 舞菜香"
+				},
+				{
+					"English": "CV : Lindsay Sheppard"
+				},
+				{
+					"Korean": "CV : 양정화"
+				},
+				{
+					"Portuguese": "CV : Mayara Stefane"
+				}
+			],
 			"id": "imitation_36"
 		},
 		"description": "Eine seltsame Nanowaffe, die Klingen generiert, die Metall wie Butter schneiden. Früher nahm sie die Form eines Armbands an, das sich im Standby-Modus um das Handgelenk des Trägers legte. Daher kommen auch die Waffenbeschreibungen des Besitzers.",

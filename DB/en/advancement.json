@@ -7,7 +7,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 10
-		}
+		},
+		"id": "stave_thunder_sr_star_0"
 	},
 	"stave_thunder_sr_star_1": {
 		"advancement": "Heal all teammates within <shuzhi>10</> meters for <shuzhi>100%</> of ATK after using a dodge skill.",
@@ -18,7 +19,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 10
-		}
+		},
+		"id": "stave_thunder_sr_star_1"
 	},
 	"stave_thunder_sr_star_2": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>10%</>.",
@@ -29,7 +31,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 10
-		}
+		},
+		"id": "stave_thunder_sr_star_2"
 	},
 	"stave_thunder_sr_star_3": {
 		"advancement": "Normal attacks also fire two missiles, each dealing damage equal to <shuzhi>5%</> of ATK to the target and restoring <shuzhi>5</> weapon charge points.",
@@ -40,7 +43,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.2
-		}
+		},
+		"id": "stave_thunder_sr_star_3"
 	},
 	"stave_thunder_sr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>20%</>.",
@@ -51,7 +55,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.2
-		}
+		},
+		"id": "stave_thunder_sr_star_4"
 	},
 	"stave_thunder_sr_star_5": {
 		"advancement": "Increase speed of obtaining weapon charge by <shuzhi>20%</> (not applicable to missile attacks).",
@@ -62,7 +67,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 13.2
-		}
+		},
+		"id": "stave_thunder_sr_star_5"
 	},
 	"stave_thunder_sr_star_6": {
 		"advancement": "Grant all teammates within range <shuzhi>60%</> damage reduction whenever a skill dispels control effects from the target.",
@@ -73,7 +79,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 13.2
-		}
+		},
+		"id": "stave_thunder_sr_star_6"
 	},
 	"cannon_ice_sr_star_0": {
 		"numbers": [],
@@ -83,7 +90,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_0"
 	},
 	"cannon_ice_sr_star_1": {
 		"advancement": "Every successful normal attack increases damage by <shuzhi>1%</> for <shuzhi>2</> seconds. Stack up to <shuzhi>15</> times. Increase ammo count to <shuzhi>60</>.",
@@ -94,7 +102,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_1"
 	},
 	"cannon_ice_sr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>10%</>.",
@@ -105,7 +114,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_2"
 	},
 	"cannon_ice_sr_star_3": {
 		"advancement": "Within <shuzhi>10</> seconds of switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>30%</>. Cooldown: <shuzhi>25</> seconds. Increase ammo to <shuzhi>80</>.",
@@ -116,7 +126,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_3"
 	},
 	"cannon_ice_sr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>20%</>.",
@@ -127,7 +138,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_4"
 	},
 	"cannon_ice_sr_star_5": {
 		"advancement": "Reduce cooldown of normal attacks while in turret mode by <shuzhi>2</> seconds.",
@@ -138,7 +150,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_5"
 	},
 	"cannon_ice_sr_star_6": {
 		"advancement": "Within <shuzhi>10</> seconds upon switching to the weapon, increase damage of normal attacks and shatter by <shuzhi>60%</>. Cooldown: <shuzhi>25</> seconds.",
@@ -149,7 +162,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_6"
 	},
 	"Chainsaw_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>{0}%</> and physical resistance by <shuzhi>{1}%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect also works with weapons in the off-hand slot. Cannot stack with other Physical Resonance or Physical Reaction effects, with Physical Resonance taking precedence.\r\n<shuzhi>Universal Resonance</>: Increase final damage by <shuzhi>{2}%</>. Activate by equipping <shuzhi>2</> weapons of the same element, not including physical. This set effect works in the off-hand slot.",
@@ -165,7 +179,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_0"
 	},
 	"Chainsaw_physic_ssr_star_1": {
 		"advancement": "Increase the shatter of Frantic Digging, Boiling Octopus Balls, and Go on, Pip! by <shuzhi>80%</>.\r\nGain a <shuzhi>50%</> increase to Shield when these skills are used when the Wanderer's Shield is below <shuzhi>50%</>. Lasts <shuzhi>8</> seconds. This effect can only be triggered <shuzhi>1</> time every <shuzhi>5</> seconds (unavailable in Apex League).",
@@ -176,7 +191,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_1"
 	},
 	"Chainsaw_physic_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -187,7 +203,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_2"
 	},
 	"Chainsaw_physic_ssr_star_3": {
 		"advancement": "<shuzhi>Pip Octowhip</> limit is increased to <shuzhi>45</>.\r\nAfter using Pip Ultimate, increase physical damage by <shuzhi>12%</> for <shuzhi>30</> seconds.",
@@ -198,7 +215,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_3"
 	},
 	"Chainsaw_physic_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -209,7 +227,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_4"
 	},
 	"Chainsaw_physic_ssr_star_5": {
 		"advancement": "Detonating <shuzhi>Treasure Tracers</> refreshes the <shuzhi>grievous</> status of targets.\r\nIncrease physical damage by <shuzhi>10%</> when damage is dealt to targets with less than <shuzhi>80%</> HP. This set effect works in the off-hand slot.",
@@ -220,7 +239,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_5"
 	},
 	"Chainsaw_physic_ssr_star_6": {
 		"advancement": "Increase damage dealt by detonating <shuzhi>Treasure Tracers</> to <shuzhi>90%</> of ATK.",
@@ -231,7 +251,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_6"
 	},
 	"hammer_ice_sr_star_0": {
 		"numbers": [],
@@ -241,7 +262,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_0"
 	},
 	"hammer_ice_sr_star_1": {
 		"advancement": "Taunt nearby targets after switching to this weapon, preventing <shuzhi>1</> instance of damage in the next <shuzhi>8</> seconds and granting hyperbody for the next <shuzhi>8</> seconds. Cooldown: <shuzhi>15</> seconds.",
@@ -252,7 +274,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_1"
 	},
 	"hammer_ice_sr_star_2": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>10%</>.",
@@ -263,7 +286,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_2"
 	},
 	"hammer_ice_sr_star_3": {
 		"advancement": "After taking damage, reduce all damage received by <shuzhi>50%</> for the next <shuzhi>6</> seconds. Cooldown: <shuzhi>20</> seconds.",
@@ -274,7 +298,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_3"
 	},
 	"hammer_ice_sr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>20%</>.",
@@ -285,7 +310,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_4"
 	},
 	"hammer_ice_sr_star_5": {
 		"advancement": "Normal attacks <shuzhi>stun</> targets for <shuzhi>2.5</> seconds. Cooldown: <shuzhi>20</> seconds.",
@@ -296,7 +322,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_5"
 	},
 	"hammer_ice_sr_star_6": {
 		"advancement": "Discharge skills deal an additional <shuzhi>10%</> damage to targets and increase frost damage by an additional <shuzhi>10%</> for <shuzhi>25</> seconds.",
@@ -307,7 +334,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_6"
 	},
 	"bow_physic_sr_star_0": {
 		"numbers": [],
@@ -317,7 +345,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_0"
 	},
 	"bow_physic_sr_star_1": {
 		"advancement": "Restore 1 dodge attempt every fifth normal attack or after using <ComLblGreen>Piercing Shot</>.",
@@ -328,7 +357,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_1"
 	},
 	"bow_physic_sr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>10%</>.",
@@ -339,7 +369,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_2"
 	},
 	"bow_physic_sr_star_3": {
 		"advancement": "Increase headshot damage by <shuzhi>30%</>.",
@@ -350,7 +381,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_3"
 	},
 	"bow_physic_sr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>20%</>.",
@@ -361,7 +393,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_4"
 	},
 	"bow_physic_sr_star_5": {
 		"advancement": "Dodge skills inflict a grievous effect on targets for <shuzhi>7</> seconds.",
@@ -372,7 +405,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_5"
 	},
 	"bow_physic_sr_star_6": {
 		"advancement": "Increase crit rate to grievous targets by <shuzhi>30%</> and crit damage by <shuzhi>50%</>.",
@@ -383,7 +417,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_6"
 	},
 	"spear_thunder_sr_star_0": {
 		"numbers": [],
@@ -393,7 +428,8 @@
 		"stats": {
 			"shatter": 11,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_0"
 	},
 	"spear_thunder_sr_star_1": {
 		"advancement": "Increase shatter by <shuzhi>15%</>. After shattering the target's shield, increase all teammates' ATK by <shuzhi>15%</> for <shuzhi>30</> seconds. This cannot be stacked.",
@@ -404,7 +440,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_1"
 	},
 	"spear_thunder_sr_star_2": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>10%</>.",
@@ -415,7 +452,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_2"
 	},
 	"spear_thunder_sr_star_3": {
 		"advancement": "After hitting a target with <ComLblGreen>Moonchaser</>, reduce their ATK by <shuzhi>5%</> and increase the user's ATK by <shuzhi>5%</> for <shuzhi>15</> seconds (effect can be stacked up to <shuzhi>3</> times by hitting multiple targets). Effect is doubled to grievous targets.",
@@ -426,7 +464,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_3"
 	},
 	"spear_thunder_sr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>20%</>.",
@@ -437,7 +476,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_4"
 	},
 	"spear_thunder_sr_star_5": {
 		"advancement": "Double stun duration from dodge skills.",
@@ -448,7 +488,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_5"
 	},
 	"spear_thunder_sr_star_6": {
 		"advancement": "Discharge skill deals more damage the further it travels, up to <shuzhi>100%</> more damage.",
@@ -459,7 +500,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_6"
 	},
 	"digger_thunder_ssr_star_0": {
 		"numbers": [],
@@ -469,7 +511,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_0"
 	},
 	"digger_thunder_ssr_star_1": {
 		"advancement": "Attacking targets from behind increases crit rate of all dual blade attacks by <shuzhi>40%</>. Backstabbing an electrified target increases crit rate by <shuzhi>100%</> and crit damage by <shuzhi>30%</>.",
@@ -480,7 +523,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_1"
 	},
 	"digger_thunder_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -491,7 +535,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_2"
 	},
 	"digger_thunder_ssr_star_3": {
 		"advancement": "Increase damage by <shuzhi>30%</> to targets with less than <shuzhi>60%</> HP.",
@@ -502,7 +547,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_3"
 	},
 	"digger_thunder_ssr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
@@ -513,7 +559,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_4"
 	},
 	"digger_thunder_ssr_star_5": {
 		"advancement": "Triggering a Back Attack grants a 100% crit chance for the next <shuzhi>4</> seconds and increases crit damage by <shuzhi>50%</>. Cooldown: <shuzhi>10</> seconds.",
@@ -524,7 +571,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_5"
 	},
 	"digger_thunder_ssr_star_6": {
 		"advancement": "After using a skill, increase volt damage dealt to the target by <shuzhi>20%</> for <shuzhi>20</> seconds.",
@@ -535,7 +583,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_6"
 	},
 	"bigsword_ice_ssr_star_0": {
 		"numbers": [],
@@ -545,7 +594,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_0"
 	},
 	"bigsword_ice_ssr_star_1": {
 		"advancement": "Increase shatter by <shuzhi>15%</> and restore <shuzhi>10%</> of HP after shattering the target's shield.",
@@ -556,7 +606,8 @@
 		"stats": {
 			"shatter": 13.8,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_1"
 	},
 	"bigsword_ice_ssr_star_2": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
@@ -567,7 +618,8 @@
 		"stats": {
 			"shatter": 13.8,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_2"
 	},
 	"bigsword_ice_ssr_star_3": {
 		"advancement": "Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>10%</> of Max HP. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.",
@@ -578,7 +630,8 @@
 		"stats": {
 			"shatter": 13.8,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_3"
 	},
 	"bigsword_ice_ssr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
@@ -589,7 +642,8 @@
 		"stats": {
 			"shatter": 13.8,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_4"
 	},
 	"bigsword_ice_ssr_star_5": {
 		"advancement": "Increase damage and shatter by <shuzhi>50%</> while the shield is active.",
@@ -600,7 +654,8 @@
 		"stats": {
 			"shatter": 16.1,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_5"
 	},
 	"bigsword_ice_ssr_star_6": {
 		"advancement": "Upon switching to the weapon, gain an Ice Shield equal to <shuzhi>20%</> of Max HP and immunity to being controlled when shield is active. Cooldown: <shuzhi>20</> seconds. The Ice Shield lasts up to <shuzhi>10</> seconds.",
@@ -611,7 +666,8 @@
 		"stats": {
 			"shatter": 16.1,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_6"
 	},
 	"bow_ice_ssr_star_0": {
 		"numbers": [],
@@ -621,7 +677,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_0"
 	},
 	"bow_ice_ssr_star_1": {
 		"advancement": "Grant a stack of Sharp Arrow each time the arrow fired by a Dodge attack hits a target. Each stack increases damage by <shuzhi>5%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times.",
@@ -632,7 +689,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_1"
 	},
 	"bow_ice_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -643,7 +701,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_2"
 	},
 	"bow_ice_ssr_star_3": {
 		"advancement": "Launching a Dodge attack fires <shuzhi>3</> Charged Arrows.",
@@ -654,7 +713,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_3"
 	},
 	"bow_ice_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -665,7 +725,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_4"
 	},
 	"bow_ice_ssr_star_5": {
 		"advancement": "Double duration of Arrow Rain and slow targets by <shuzhi>25%</>.",
@@ -676,7 +737,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_5"
 	},
 	"bow_ice_ssr_star_6": {
 		"advancement": "Sharp Arrow stacks up to <shuzhi>5</> times. Hitting a target with a Charged Arrow immediately grants <shuzhi>3</> stacks. Headshots grant <shuzhi>5</> stacks.",
@@ -687,7 +749,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_6"
 	},
 	"stave_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Frost Benediction</>: Increase the entire team's frost ATK by <shuzhi>5%</> when Benediction Resonance is active.",
@@ -698,7 +761,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_0"
 	},
 	"stave_ice_ssr_star_1": {
 		"advancement": "After dodging, summon a healing bee that follows the user and heals the ally with the lowest percentage of HP within <shuzhi>15</> meters. Heal for <shuzhi>25%</> of ATK and restore <shuzhi>50</> weapon charge points each time, lasts for <shuzhi>25</> seconds. Cooldown: <shuzhi>25</> seconds.",
@@ -709,7 +773,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_1"
 	},
 	"stave_ice_ssr_star_2": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
@@ -720,7 +785,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_2"
 	},
 	"stave_ice_ssr_star_3": {
 		"advancement": "Use <yellow_lbl_15_1>Sanctuary</> or discharge skills to remove debuffs from targets, can be used while being affected by control effects. Increase shatter and damage dealt for all teammates within range by <shuzhi>20%</>, and grant them immunity to control effects and shatter.",
@@ -731,7 +797,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_3"
 	},
 	"stave_ice_ssr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
@@ -742,7 +809,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_4"
 	},
 	"stave_ice_ssr_star_5": {
 		"advancement": "Increase healing effect by <shuzhi>15%</>, plus an additional <shuzhi>20%</> when healing targets with less than <shuzhi>60%</> HP.",
@@ -753,7 +821,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_5"
 	},
 	"stave_ice_ssr_star_6": {
 		"advancement": "Whenever a healing bee is summoned or disappears from battle, heal all allies for <shuzhi>100%</> of the user's ATK. All allies within <shuzhi>10</> meters of the healing bee also gain <shuzhi>15%</> all damage and healing boost (cannot stack).",
@@ -764,7 +833,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_6"
 	},
 	"sickle_fire_ssr_star_0": {
 		"numbers": [],
@@ -774,7 +844,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_0"
 	},
 	"sickle_fire_ssr_star_1": {
 		"advancement": "Increase shatter by <shuzhi>15%</>. After shattering the target's shield, deal burn damage equal to <shuzhi>120%</> of ATK to the target every second for <shuzhi>15</> seconds.",
@@ -785,7 +856,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_1"
 	},
 	"sickle_fire_ssr_star_2": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
@@ -796,7 +868,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_2"
 	},
 	"sickle_fire_ssr_star_3": {
 		"advancement": "Increase damage dealt by <shuzhi>15%</> for each enemy target within <shuzhi>6</> meters, up to <shuzhi>30%</>.",
@@ -807,7 +880,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_3"
 	},
 	"sickle_fire_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -818,7 +892,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_4"
 	},
 	"sickle_fire_ssr_star_5": {
 		"advancement": "Increase damage dealt against HP shields or shielded enemies by <shuzhi>100%</>.",
@@ -829,7 +904,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_5"
 	},
 	"sickle_fire_ssr_star_6": {
 		"advancement": "Increase damage dealt by <shuzhi>10%</> for each enemy slain for <shuzhi>30</> seconds. Stack up to <shuzhi>3</> times.",
@@ -840,7 +916,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_6"
 	},
 	"gun_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
@@ -851,7 +928,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_0"
 	},
 	"gun_fire_ssr_star_1": {
 		"advancement": "Each round of Barrage deals additional damage equal to <shuzhi>{0}%</> of the target's current HP (cannot exceed <shuzhi>{1}%</> of ATK).",
@@ -866,7 +944,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_1"
 	},
 	"gun_fire_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -877,7 +956,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_2"
 	},
 	"gun_fire_ssr_star_3": {
 		"advancement": "Heavy Bombardment branch skill and Close Quarters dodge attack inflict <ComLblGreen>Ion Scorch</> on targets that are already burned, dealing flame damage equal to <shuzhi>40%</> of ATK every second for <shuzhi>10</> seconds.",
@@ -888,7 +968,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_3"
 	},
 	"gun_fire_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -899,7 +980,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_4"
 	},
 	"gun_fire_ssr_star_5": {
 		"advancement": "The damage from <ComLblGreen>Ion Scorch</> increases to <shuzhi>60%</> of ATK. Successful attacks with any weapon's dodge skill will refresh the duration of <ComLblGreen>Ion Scorch</>.",
@@ -910,7 +992,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_5"
 	},
 	"gun_fire_ssr_star_6": {
 		"advancement": "<ComLblGreen>Barrage</> has a <shuzhi>15</>-second burning effect. Successful attacks with any weapon's dodge skill reduces the cooldown of <ComLblGreen>Barrage</> by <shuzhi>4</> seconds. The cooldown of the effect: <shuzhi>1.5</> seconds. The DoT burn from the dodge skill also triggers a cooldown reduction effect.",
@@ -921,7 +1004,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_6"
 	},
 	"sword_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>15%</> and physical resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
@@ -932,7 +1016,8 @@
 		"stats": {
 			"shatter": 7.5,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_0"
 	},
 	"sword_physic_ssr_star_1": {
 		"advancement": "After hitting a target with a skill or discharge skill, gain 1 stack of the following buff: Increase damage dealt by <shuzhi>8%</> for <shuzhi>25</> seconds, stacking up to <shuzhi>3</> times, for a maximum of 1 stack per skill use.",
@@ -947,7 +1032,8 @@
 		"stats": {
 			"shatter": 7.5,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_1"
 	},
 	"sword_physic_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -958,7 +1044,8 @@
 		"stats": {
 			"shatter": 7.5,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_2"
 	},
 	"sword_physic_ssr_star_3": {
 		"advancement": "When hitting a target with a skill or discharge skill, apply 1 stack of War Wounds to the target: Increase incoming physical damage and shatter from physical weapons by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>. Stack up to <shuzhi>1</> time.",
@@ -973,7 +1060,8 @@
 		"stats": {
 			"shatter": 8.2,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_3"
 	},
 	"sword_physic_ssr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
@@ -984,7 +1072,8 @@
 		"stats": {
 			"shatter": 8.2,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_4"
 	},
 	"sword_physic_ssr_star_5": {
 		"advancement": "Hitting targets with skills or discharge skills grants Skill Damage Boost, which increases all weapon skill damage by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>. This effect cannot be stacked.",
@@ -999,7 +1088,8 @@
 		"stats": {
 			"shatter": 8.2,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_5"
 	},
 	"sword_physic_ssr_star_6": {
 		"advancement": "Skills hitting the same target no longer have reduced damage. After using Guren Blade's skills or discharge skill, all targets with War Wounds within 8 meters gain another <shuzhi>1</> stack of War Wounds.",
@@ -1010,7 +1100,8 @@
 		"stats": {
 			"shatter": 8.2,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_6"
 	},
 	"darts_physic_ssr_star_0": {
 		"numbers": [],
@@ -1020,7 +1111,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_0"
 	},
 	"darts_physic_ssr_star_1": {
 		"advancement": "Increase damage dealt to and all elemental shattering effects on targets within <ComLblGreen>Full Bloom</>'s range by <shuzhi>30%</>.",
@@ -1031,7 +1123,8 @@
 		"stats": {
 			"shatter": 11.4,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_1"
 	},
 	"darts_physic_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -1042,7 +1135,8 @@
 		"stats": {
 			"shatter": 11.4,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_2"
 	},
 	"darts_physic_ssr_star_3": {
 		"advancement": "Increase shatter by <shuzhi>15%</> and reset all weapon skill cooldowns upon shattering the target's shield. Can only be triggered once every <shuzhi>30</> seconds.",
@@ -1053,7 +1147,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_3"
 	},
 	"darts_physic_ssr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
@@ -1064,7 +1159,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_4"
 	},
 	"darts_physic_ssr_star_5": {
 		"advancement": "Attacking a grievous target extends the duration of grievous by an additional <shuzhi>7</> seconds (only takes effect once for the same effect).",
@@ -1075,7 +1171,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_5"
 	},
 	"darts_physic_ssr_star_6": {
 		"advancement": "After using <ComLblGreen>Full Bloom</>, grant a 100% crit chance for the next <shuzhi>8</> seconds.",
@@ -1086,7 +1183,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_6"
 	},
 	"cube_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flame Reaction</>: Increase flame ATK by <shuzhi>20%</> and flame resistance by <shuzhi>40%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance or Flame Reaction effects, with Flame Resonance taking precedence.\r\n<shuzhi>Flame Benediction</>: Increase entire team's flame ATK by <shuzhi>5%</> when Benediction Resonance is activated.",
@@ -1097,7 +1195,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_0"
 	},
 	"cube_fire_ssr_star_1": {
 		"advancement": "Deal damage and produce a healing orb which lasts for <shuzhi>20</> seconds and restores the HP of any teammate who picks it up. The HP restored is equal to <shuzhi>60%</> of ATK. <shuzhi>2</>-second cooldown.",
@@ -1108,7 +1207,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_1"
 	},
 	"cube_fire_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -1119,7 +1219,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_2"
 	},
 	"cube_fire_ssr_star_3": {
 		"advancement": "Reduce skill cooldown from <shuzhi>60</> seconds to <shuzhi>30</> seconds. Restore HP equal to <shuzhi>30%</> of ATK every second while the shield is active.",
@@ -1130,7 +1231,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_3"
 	},
 	"cube_fire_ssr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
@@ -1141,7 +1243,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_4"
 	},
 	"cube_fire_ssr_star_5": {
 		"advancement": "Damaging a target also produces a damage orb, which lasts for <shuzhi>20</> seconds and increases all damage and healing of any teammate who picks it up by <shuzhi>2%</> for <shuzhi>30</> seconds. Stack up to <shuzhi>10</> times. Skill cooldown is <shuzhi>2.5</> seconds.",
@@ -1152,7 +1255,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_5"
 	},
 	"cube_fire_ssr_star_6": {
 		"advancement": "Using a Skill grants allies healing orbs and damage orbs equal to the number of Omnium Cubes.",
@@ -1163,7 +1267,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_6"
 	},
 	"dgun_thunder_ssr_star_0": {
 		"numbers": [],
@@ -1173,7 +1278,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_0"
 	},
 	"dgun_thunder_ssr_star_1": {
 		"advancement": "Trigger an electrical explosion on the target after landing a critical hit, dealing additional damage equal to <shuzhi>30%</> of ATK to the target and nearby enemies. Cooldown: <shuzhi>0.2</> seconds.",
@@ -1184,7 +1290,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_1"
 	},
 	"dgun_thunder_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -1195,7 +1302,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_2"
 	},
 	"dgun_thunder_ssr_star_3": {
 		"advancement": "Increase crit rate to electrified targets by <shuzhi>40%</>. Electrical explosions extend the duration of electrified effects by <shuzhi>0.5</> seconds, up to a maximum of <shuzhi>5</> seconds.",
@@ -1206,7 +1314,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_3"
 	},
 	"dgun_thunder_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -1217,7 +1326,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_4"
 	},
 	"dgun_thunder_ssr_star_5": {
 		"advancement": "Double the duration of Electro Field and pull targets into the center of the attack.",
@@ -1228,7 +1338,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_5"
 	},
 	"dgun_thunder_ssr_star_6": {
 		"advancement": "Triggering an electrical explosion reduces skill cooldowns by <shuzhi>1</> second.",
@@ -1239,7 +1350,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_6"
 	},
 	"ShieldAxe_Fire_ssr_star_0": {
 		"numbers": [],
@@ -1249,7 +1361,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_0"
 	},
 	"ShieldAxe_Fire_ssr_star_1": {
 		"advancement": "Gain a stack of Strong Shield upon using discharge: Seething Rage. Using a dodge skill or branch skill while in shield form grants a stack of Strong Shield, which grants <shuzhi>10%</> damage reduction for <shuzhi>15</> seconds and stacks up to <shuzhi>3</> times. Switching to axe form converts all Strong Shield stacks to Sharp Axe stacks, each of which increases damage by <shuzhi>15%</> for <shuzhi>15</> seconds. Switching to a different weapon cancels this effect.",
@@ -1260,7 +1373,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_1"
 	},
 	"ShieldAxe_Fire_ssr_star_2": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
@@ -1271,7 +1385,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_2"
 	},
 	"ShieldAxe_Fire_ssr_star_3": {
 		"advancement": "While in shield form, branch/dodge attacks deal additional damage to targets equal to <shuzhi>4%</> of the user's current HP.",
@@ -1282,7 +1397,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_3"
 	},
 	"ShieldAxe_Fire_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -1293,7 +1409,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_4"
 	},
 	"ShieldAxe_Fire_ssr_star_5": {
 		"advancement": "After switching to a shield axe, immediately grant <shuzhi>30%</> damage reduction that diminishes by <shuzhi>10%</> every <shuzhi>3</> seconds, down to a minimum of <shuzhi>10%</>. Switching weapons cancels this effect. Cooldown: <shuzhi>30</> seconds.",
@@ -1304,7 +1421,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_5"
 	},
 	"ShieldAxe_Fire_ssr_star_6": {
 		"advancement": "Enhance conversion skills.\r\nShield Conversion Enhancement: Increases skill damage dealt by <shuzhi>60%</> and expands the radius of the flame zone by <shuzhi>30%</>.\r\nAxe Conversion Enhancement: Does not share cooldown with Shield Conversion. For the next <shuzhi>5</> seconds after using this skill, turns all damage received into HP (up to a maximum of <shuzhi>15%</> of the user's Max HP).",
@@ -1315,7 +1433,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_6"
 	},
 	"Mark_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Guard when playing on a team</>: Unleashing Heavy System Strike, Form Switch, or Maximum Firepower, receive <shuzhi>40%</> of all damage dealt to the allied Wanderer with the lowest HP for <shuzhi>10</> seconds in their stead. After the effect ends, recover <shuzhi>10%</> of lost HP. Trigger only when you have <shuzhi>Fortitude Resonance</>. Cannot remove or trigger the effect again until its duration ends.\r\n<shuzhi>Amplification when playing solo</>: Gain <shuzhi>50%</> physical damage reduction in Heavy System Form\r\n<shuzhi>Heavy System Shield</>: Gain <shuzhi>1</> Heavy System Energy Point when Heavy System Attack, Flailing Cleave, or Crashing Slash hits the target. Upon reaching <shuzhi>20</> points, turn <shuzhi>20%</> of your current HP into <shuzhi>1.5</> times of the Heavy System Shield (no more than 1.5 times the maximum HP, during which healing is reduced by 50%). The shield lasts <shuzhi>15</> seconds. Cannot obtain Heavy System Shield when HP is below <shuzhi>10%</>. <shuzhi>66.7%</> of the remaining shield value is converted to HP when the shield ends. Gain <shuzhi>2</> Heavy System Energy Points upon hitting a vulnerable target. While Heavy System Shield is activated, other HP shields can be converted to Heavy System Shield and are immune to the addition of HP shields.",
@@ -1326,7 +1445,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_0"
 	},
 	"Mark_physic_ssr_star_1": {
 		"advancement": "Gain Heavy System Shield immediately when you release Heavy System Strike, Form Switch, or Maximum Firepower.",
@@ -1337,7 +1457,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_1"
 	},
 	"Mark_physic_ssr_star_2": {
 		"advancement": "Increase the current weapon's HP growth by <shuzhi>16%</>.",
@@ -1348,7 +1469,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_2"
 	},
 	"Mark_physic_ssr_star_3": {
 		"advancement": "Gain 1 stack of <shuzhi>35%</> final damage boost when the Heavy System Shield ends, breaks or refreshes, for <shuzhi>20</> seconds. Not stackable.",
@@ -1359,7 +1481,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_3"
 	},
 	"Mark_physic_ssr_star_4": {
 		"advancement": "Increase the current weapon's HP growth by <shuzhi>32%</>.",
@@ -1370,7 +1493,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_4"
 	},
 	"Mark_physic_ssr_star_5": {
 		"advancement": "When Heavy System Shield ends, breaks, or refreshes, deal damage equal to <shuzhi>160%</> of current ATK plus <shuzhi>5%</> of lost HP to nearby targets. Gain <shuzhi>50</> points of weapon charges by hitting targets.",
@@ -1381,7 +1505,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_5"
 	},
 	"Mark_physic_ssr_star_6": {
 		"advancement": "During Heavy System Shield, physical resistance <shuzhi>doubles</> with a hyperbody effect. Additionally, gain another Heavy System Shield when the skill of other weapons hits the target or when using a discharge skill during Heavy System Shield.",
@@ -1392,7 +1517,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_6"
 	},
 	"queen_superpower_ssr_star_0": {
 		"advancement": "<shuzhi>Altered Resonance</>: Increase ATK by <shuzhi>20%</> and altered resistance by <shuzhi>30%</>. Activate by equipping <shuzhi>2</> or more altered weapons. This set effect works in the off-hand slot. Cannot stack with other Altered Resonance or Altered Reaction effects, with Altered Resonance taking precedence.",
@@ -1403,7 +1529,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_0"
 	},
 	"queen_superpower_ssr_star_1": {
 		"advancement": "Using any weapon or discharge skill grants <shuzhi>1</> elemental crystal, up to <shuzhi>5</> crystals. Elemental crystals are lost at a rate of <shuzhi>1</> crystal every <shuzhi>6</> seconds.\r\nElemental crystals provide a final damage boost equal to <shuzhi>4%</> of [(<shuzhi>crystal count</> plus <shuzhi>1</>)/<shuzhi>2</>] and an increased healing effect equal to <shuzhi>6%</> of [(<shuzhi>crystal count</> plus <shuzhi>1</>)/<shuzhi>2</>].",
@@ -1418,7 +1545,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_1"
 	},
 	"queen_superpower_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -1429,7 +1557,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_2"
 	},
 	"queen_superpower_ssr_star_3": {
 		"advancement": "While Benediction Resonance is not active, when the target's HP is below (<shuzhi>crystal count</> plus <shuzhi>2</>)<shuzhi>%</>, using <shuzhi>Moonstar Bracelet</> can instantly execute the target (doesn't work against Wanderers).\r\nWhile Benediction Resonance is active, when the target's HP is below (<shuzhi>crystal count</> times <shuzhi>2</> plus <shuzhi>2</>)<shuzhi>%</>, using <shuzhi>Moonstar Bracelet</> can instantly execute the target (doesn't work against Wanderers).",
@@ -1440,7 +1569,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_3"
 	},
 	"queen_superpower_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -1451,7 +1581,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_4"
 	},
 	"queen_superpower_ssr_star_5": {
 		"advancement": "Obtain <shuzhi>1</> elemental crystal every time Scatter Technique is used. Elemental crystals are lost at a rate of <shuzhi>1</> crystal every <shuzhi>20</> seconds.\r\nWhen receiving lethal damage, consume <shuzhi>3</> elemental crystals to prevent death 1 time and gain damage immunity for a short time. Can be activated <shuzhi>1</> time every <shuzhi>25</> seconds.",
@@ -1465,7 +1596,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_5"
 	},
 	"queen_superpower_ssr_star_6": {
 		"advancement": "Increase final damage by <shuzhi>7%</> of [(<shuzhi>crystal count </>plus <shuzhi>3</>)/<shuzhi>2</>].",
@@ -1479,7 +1611,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_6"
 	},
 	"Rubilia_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with other Volt Resonance or Volt Reaction effects, with Volt Resonance taking precedence.",
@@ -1495,7 +1628,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_0"
 	},
 	"Rubilia_thunder_ssr_star_1": {
 		"advancement": "After triggering <shuzhi>Feedback</>, every Crystamax thorn will deal damage to nearby targets equal to <shuzhi>66.7%</> of ATK every <shuzhi>2</> seconds for <shuzhi>{0}</> seconds.",
@@ -1509,7 +1643,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_1"
 	},
 	"Rubilia_thunder_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -1520,7 +1655,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_2"
 	},
 	"Rubilia_thunder_ssr_star_3": {
 		"advancement": "Using the weapon skill or the discharge skill of any other weapon will generate <shuzhi>1</> Crystamax thorn.",
@@ -1535,7 +1671,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_3"
 	},
 	"Rubilia_thunder_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -1546,7 +1683,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_4"
 	},
 	"Rubilia_thunder_ssr_star_5": {
 		"advancement": "Increase <shuzhi>Feedback's</> Max HP recovery of Crystamax thorns to <shuzhi>{0}%</>.",
@@ -1560,7 +1698,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_5"
 	},
 	"Rubilia_thunder_ssr_star_6": {
 		"advancement": "After successfully using Harrah's Embrace, increase volt damage by an additional <shuzhi>{0}%</> for <shuzhi>{1}</> seconds.",
@@ -1575,7 +1714,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_6"
 	},
 	"Immortal_thunder_ssr_star_0": {
 		"advancement": "Activate Fighting Spirit upon entering battle, increasing final damage by <shuzhi>15%</> while accelerating Cellular Decay (lose <shuzhi>1%</> of current HP every <shuzhi>5</> seconds). The effect, \"switching weapons cancels the effect,\" ends upon leaving battle.\r\nCellular Decay is halted when HP drops below <shuzhi>50%</>, but effects of Fighting Spirit are retained. Switching weapons cancels the effect.",
@@ -1586,7 +1726,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_0"
 	},
 	"Immortal_thunder_ssr_star_1": {
 		"advancement": "<shuzhi>Blade Slash</> deals additional damage equal to <shuzhi>80%</> of ATK plus <shuzhi>2.5%</> of missing HP.\r\n<shuzhi>Cupping Dragon</>'s explosion deals additional damage equal to <shuzhi>160%</> of ATK plus <shuzhi>5%</> of missing HP.\r\n<shuzhi>Force Field</> deals additional damage equal to <shuzhi>160%</> of ATK plus <shuzhi>5%</> of missing HP. Damage over time does not trigger this effect.",
@@ -1597,7 +1738,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_1"
 	},
 	"Immortal_thunder_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -1608,7 +1750,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_2"
 	},
 	"Immortal_thunder_ssr_star_3": {
 		"advancement": "Increase shatter by <shuzhi>15%</>. Upon shattering the target's shield, place a Cupping Bomb at the target's location, instantly dealing damage equal to <shuzhi>680%</> of ATK to targets within the area. If there is only one enemy in the target area, deal damage equal to <shuzhi>1,500%</> of ATK.",
@@ -1619,7 +1762,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_3"
 	},
 	"Immortal_thunder_ssr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
@@ -1630,7 +1774,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_4"
 	},
 	"Immortal_thunder_ssr_star_5": {
 		"advancement": "Automatically block for <shuzhi>1</> second upon being attacked. Dispel any control effects immediately when activated. Negate the next incoming attack that deals less than <shuzhi>20%</> of the Max HP. While blocking, tapping the normal attack button unleashes a <shuzhi>Counter Slash</> on the target, dealing damage equal to <shuzhi>240%</> of ATK and <shuzhi>strongly suspends them</>. Cooldown: <shuzhi>18</> seconds.",
@@ -1641,7 +1786,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_5"
 	},
 	"Immortal_thunder_ssr_star_6": {
 		"advancement": "Upon entering the effective range of <shuzhi>Force Field</> or <shuzhi>Phantasia</>, boost the effects of Fighting Spirit for <shuzhi>7</> seconds, increasing final damage by <shuzhi>40%</> and halting Cellular Decay. Switching weapons cancels the effect.",
@@ -1652,7 +1798,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_6"
 	},
 	"Linghan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Extreme Cold: Unload</>: After using <shuzhi>Sword Art: Shadowy Ice</>, every second, deal damage equal to <shuzhi>{0}%</> of frost ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit for <shuzhi>{4}</> seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is <shuzhi>1</> volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by <shuzhi>{5}</> times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
@@ -1671,7 +1818,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_0"
 	},
 	"Linghan_ice_ssr_star_1": {
 		"advancement": "After launching <shuzhi>Frost Blades</>, the Wanderer's frost ATK is increased by <shuzhi>{0}%</> and nearby targets will be dealt damage equal to <shuzhi>80%</> of ATK every second for <shuzhi>{1}</> seconds.",
@@ -1686,7 +1834,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_1"
 	},
 	"Linghan_ice_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -1697,7 +1846,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_2"
 	},
 	"Linghan_ice_ssr_star_3": {
 		"advancement": "The Wanderer can produce up to <shuzhi>4</> <shuzhi>Frost Blades</> and <shuzhi>Temperature Reduction's</> damage's base multiplier is increased to <shuzhi>360%</>.\r\nIf the target is the only one affected by <shuzhi>Temperature Reduction</> within <shuzhi>{0}</> seconds, additionally apply <shuzhi>Vein Seal</> to the target, reducing their speed by <shuzhi>{1}%</> (unavailable in Apex League and against bosses). If the target receives <shuzhi>Frost Blade</> damage again during <shuzhi>Vein Seal's</> duration, trigger Icy Burst, dealing skill damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}%</> of the target's already-lost HP at that point (Icy Burst damage will be no lower than <shuzhi>{4}%</> of the Wanderer's frost ATK and no higher than <shuzhi>{5}%</> of the Wanderer's frost ATK). Then, remove the <shuzhi>Vein Seal</> and <shuzhi>Temperature Reduction</> effects on the target.",
@@ -1716,7 +1866,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_3"
 	},
 	"Linghan_ice_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -1727,7 +1878,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_4"
 	},
 	"Linghan_ice_ssr_star_5": {
 		"advancement": "The damage dealt by <shuzhi>Crystalline Crack</> and <shuzhi>Cold Air</> is additionally increased by <shuzhi>50%</>. <shuzhi>Light Steps'</> use attempts is increased to <shuzhi>{1}</> and recovery rate is increased to <shuzhi>1</> attempt every <shuzhi>{0}</> seconds.",
@@ -1742,7 +1894,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_5"
 	},
 	"Linghan_ice_ssr_star_6": {
 		"advancement": "The <shuzhi>Temperature Reduction</> effect inflicted after firing <shuzhi>Frost Blades</> is now applied to an area and also deals additional damage equal to <shuzhi>990%</> of ATK to nearby targets.",
@@ -1753,7 +1906,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_6"
 	},
 	"Suspension_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Volt Benediction</>: Increase the entire team's volt ATK by <shuzhi>5%</> when Benediction Resonance is active.",
@@ -1764,7 +1918,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_0"
 	},
 	"Suspension_thunder_ssr_star_1": {
 		"advancement": "After using <shuzhi>Pulse Lock</> or <shuzhi>Particle Beam Burst</>, creates <shuzhi>1</> Electrode that immediately grants the user <shuzhi>5</> stacks of Healing Chain Enhance. In addition, unleash a Healing Chain that heals nearby allies by <shuzhi>135%</> of the Wanderer's ATK.",
@@ -1775,7 +1930,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_1"
 	},
 	"Suspension_thunder_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -1786,7 +1942,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_2"
 	},
 	"Suspension_thunder_ssr_star_3": {
 		"advancement": "Every <shuzhi>6</> seconds, the Electrode will unleash <shuzhi>Ring Lightning</>, which deals area damage equal to a maximum of <shuzhi>230%</> of ATK.",
@@ -1797,7 +1954,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_3"
 	},
 	"Suspension_thunder_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -1808,7 +1966,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_4"
 	},
 	"Suspension_thunder_ssr_star_5": {
 		"advancement": "After using <shuzhi>Pulse Lock</>, increase the Wanderer's ATK by (<shuzhi>5</> + (Number of Electrodes ×<shuzhi>5</>))% for <shuzhi>25</> seconds.",
@@ -1819,7 +1978,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_5"
 	},
 	"Suspension_thunder_ssr_star_6": {
 		"advancement": "Up to <shuzhi>2</> Electrodes can be active at the same time. Summoning more Electrodes will replace the ones furthest from the user.",
@@ -1830,7 +1990,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 11
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_6"
 	},
 	"Frigg_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
@@ -1841,7 +2002,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_0"
 	},
 	"Frigg_ice_ssr_star_1": {
 		"advancement": "Gain <shuzhi>1</> frostiness point every time you deal any elemental damage equal to <shuzhi>550%</> × frost ATK in the Frost Domain. Up to <shuzhi>10</> frostiness points can be accumulated.\r\nWhen the Frost Domain ends, frostiness points × frost ATK × <shuzhi>95%</> of blast damage will be dealt to all enemies in the Frost Domain. After leaving the Frost Domain, lose <shuzhi>1</> frostiness point every <shuzhi>3</> seconds.",
@@ -1852,7 +2014,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_1"
 	},
 	"Frigg_ice_ssr_star_2": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
@@ -1863,7 +2026,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_2"
 	},
 	"Frigg_ice_ssr_star_3": {
 		"advancement": "Increase frostiness limit to <shuzhi>15</>. When using discharge skills of frost weapons in the Frost Domain, deal damage equal to <shuzhi>25%</> of frost ATK × (current frostiness + 5) to all the targets in the Frost Domain.",
@@ -1874,7 +2038,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_3"
 	},
 	"Frigg_ice_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -1885,7 +2050,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_4"
 	},
 	"Frigg_ice_ssr_star_5": {
 		"advancement": "When shattering a shield with a frost weapon in the Frost Domain, freeze the target for <shuzhi>2</> seconds and deal additional damage equal to frostiness × <shuzhi>35%</> of frost ATK. If the target cannot be frozen, the additional damage dealt is doubled.",
@@ -1896,7 +2062,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_5"
 	},
 	"Frigg_ice_ssr_star_6": {
 		"advancement": "When frostiness reaches <shuzhi>15</> points and you are in the Frost Domain, you will get an additional \"Domain of Frost II\" that increases frost ATK by <shuzhi>25%</> when frost weapons are used.",
@@ -1907,7 +2074,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_6"
 	},
 	"funnel_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
@@ -1918,7 +2086,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_0"
 	},
 	"funnel_fire_ssr_star_1": {
 		"advancement": "Emblazen increases the damage of Spark Attack to <shuzhi>{0}%</>. Skill cooldown drops to <shuzhi>24</> seconds.",
@@ -1932,7 +2101,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_1"
 	},
 	"funnel_fire_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -1943,7 +2113,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_2"
 	},
 	"funnel_fire_ssr_star_3": {
 		"advancement": "Emblazen increases flame boost by <shuzhi>{0}%</> and the burn tally multiplier to <shuzhi>75%</>.",
@@ -1957,7 +2128,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_3"
 	},
 	"funnel_fire_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -1968,7 +2140,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_4"
 	},
 	"funnel_fire_ssr_star_5": {
 		"advancement": "Restore an additional <shuzhi>75</> points of weapon charge each time Spark Attack hits an enemy. Cooldown: 0.9 seconds. Shatter increases by <shuzhi>25%</> when Ultimate Heat is active.",
@@ -1979,7 +2152,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_5"
 	},
 	"funnel_fire_ssr_star_6": {
 		"advancement": "Emblazen boosts the damage of Spark Attack to <shuzhi>{0}%</> and doubles Heat acquisition efficiency. Skill cooldown drops to <shuzhi>16</> seconds.",
@@ -1993,7 +2167,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_6"
 	},
 	"dkatana_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>{0}%</> and frost resistance by <shuzhi>{1}%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
@@ -2008,7 +2183,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_0"
 	},
 	"dkatana_ice_ssr_star_1": {
 		"advancement": "When Frost Resonance is activated, all weapon skill cooldowns are cleared every <shuzhi>5</> times weapon skills are used, and the damage of Flow and Counterattack is increased by <shuzhi>1</> time for the next <shuzhi>{0}</> seconds.",
@@ -2022,7 +2198,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_1"
 	},
 	"dkatana_ice_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -2033,7 +2210,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_2"
 	},
 	"dkatana_ice_ssr_star_3": {
 		"advancement": "Excited Flow: Increase the damage of Sword Shadow: Surge to <shuzhi>350%</> of frost ATK.\r\nSilent Flow: The cooldown of Sword Shadow: Surge becomes <shuzhi>{0}</> seconds.",
@@ -2047,7 +2225,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_3"
 	},
 	"dkatana_ice_ssr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
@@ -2058,7 +2237,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_4"
 	},
 	"dkatana_ice_ssr_star_5": {
 		"advancement": "Freeze time and trigger Phantasia upon Surge hitting the target. Share cooldown with the Phantasia triggered by dodging.",
@@ -2069,7 +2249,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_5"
 	},
 	"dkatana_ice_ssr_star_6": {
 		"advancement": "Upon hitting a target with Surge, increase frost damage by <shuzhi>{0}%</> for <shuzhi>{1}</> seconds.\r\nUpon triggering block with Sword Shadow, reduce the frost damage dealt by nearby enemy targets by <shuzhi>{2}%</> for <shuzhi>{3}</> seconds.",
@@ -2086,7 +2267,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_6"
 	},
 	"fan_superpower_ssr_star_0": {
 		"advancement": "When pairing Shadoweave with other weapons, the <shuzhi>Weapons Master</> effect can be created.\r\nEpiphyllum will appear around the target randomly and explode within <shuzhi>1–3</> seconds, dealing <shuzhi>37.5%</> area damage.",
@@ -2097,7 +2279,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_0"
 	},
 	"fan_superpower_ssr_star_1": {
 		"advancement": "Normal attacks now deal area damage upon hit.\r\nWhen there is another epiphyllum within the epiphyllum explosion area, increase the damage of each of the subsequent epiphyllum explosions by <shuzhi>{0}%</>, up to a maximum of <shuzhi>{1}%</>.\r\nThe epiphyllum generation interval from <shuzhi>Moonlight Realm</> is now reduced to <shuzhi>0.5</> seconds.",
@@ -2112,7 +2295,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_1"
 	},
 	"fan_superpower_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -2123,7 +2307,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_2"
 	},
 	"fan_superpower_ssr_star_3": {
 		"advancement": "The epiphyllum generation interval from <shuzhi>Moonlight Realm</> is now reduced to <shuzhi>0.3</> seconds.\r\nEpiphyllums will attach to the enemy.\r\nThe duration of <shuzhi>Moonlight Realm</> is now increased to <shuzhi>20</> seconds.",
@@ -2134,7 +2319,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_3"
 	},
 	"fan_superpower_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -2145,7 +2331,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_4"
 	},
 	"fan_superpower_ssr_star_5": {
 		"advancement": "When under the effect of <shuzhi>Moonlight Realm</>, gain <shuzhi>30</> weapon charge every second and increase the damage of discharge skill by <shuzhi>{0}%</>.",
@@ -2159,7 +2346,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_5"
 	},
 	"fan_superpower_ssr_star_6": {
 		"advancement": "Switch modes on <shuzhi>Moonlight Realm</> up to <shuzhi>2</> times. Gain <shuzhi>1</> attempt after skill cooldown and another <shuzhi>1</> attempt by charging discharge.\r\nUse any weapon discharge <shuzhi>3</> times to gain <shuzhi>+1</> on the <shuzhi>Moonlight Realm</> count. Effective even when Shadoweave is in the off-hand slot.\r\nWhen under the effect of <shuzhi>Moonlight Realm</>, increase attack by <shuzhi>{0}%</>.",
@@ -2173,7 +2361,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_6"
 	},
 	"arm_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>{0}%</> and physical resistance by <shuzhi>{1}%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Physical Benediction</>: Increase the entire team's physical ATK by <shuzhi>5%</> when Benediction Resonance is active.",
@@ -2188,7 +2377,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_0"
 	},
 	"arm_physic_ssr_star_1": {
 		"advancement": "When releasing any weapon skill or discharge, if your Guards are at the maximum, the Guard duration will be refreshed, dealing physical damage equal to <shuzhi>{0}%</> of physical ATK × number of Guards to the enemy. Up to 8 Guards when under the effect of Benediction, and up to 6 when without it.",
@@ -2202,7 +2392,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_1"
 	},
 	"arm_physic_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -2213,7 +2404,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_2"
 	},
 	"arm_physic_ssr_star_3": {
 		"advancement": "Increase all damage dealt by Guards by <shuzhi>20%</>, and increase the guarded target's final damage by <shuzhi>{0}%</> for <shuzhi>{1} seconds</> when releasing any weapon skill or discharge under the effect of Benediction Resonance.",
@@ -2228,7 +2420,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_3"
 	},
 	"arm_physic_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -2239,7 +2432,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_4"
 	},
 	"arm_physic_ssr_star_5": {
 		"advancement": "Forgiveness Guard: After releasing Resonance 5 times, receive <shuzhi>1</> chance to negate lethal damage for the wielder and the guarded target. After a teammate negates lethal damage, they will consume Forgiveness Guard and recover <shuzhi>{0}%</> of Max HP. Unavailable in Apex League.\r\nEnlightenment Guard: After releasing Resonance 5 times and when having Enlightenment Guard, the wielder receives <shuzhi>2</> chances to negate lethal damage. Stack up to <shuzhi>5</> times. After the wielder negates lethal damage, they will consume 1 stack of Enlightenment Guard and recover <shuzhi>{0}%</> of Max HP. Unavailable in Apex League.",
@@ -2253,7 +2447,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_5"
 	},
 	"arm_physic_ssr_star_6": {
 		"advancement": "When unleashing any weapon skill or discharge, the increase of final damage and healing depends on the number of Guards. Each Guard increases final damage and healing by <shuzhi>{0}%</>, up to <shuzhi>{1}%</> for <shuzhi>{2} seconds</>.",
@@ -2269,7 +2464,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_6"
 	},
 	"tianlang_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activated by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Same type of effect does not stack.",
@@ -2280,7 +2476,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_0"
 	},
 	"tianlang_thunder_ssr_star_1": {
 		"advancement": "Gain 1 stack of Superconductor per charge: Increase Max HP by <shuzhi>{0}%</> but increase damage received by <shuzhi>{1}%</> (except when the current HP is lower than {2} times of volt ATK and no HP Shield is equipped), stacking up to <shuzhi>8</> times. Lose 1 stack if no Superconductor gets refreshed within <shuzhi>{3}</> seconds.",
@@ -2297,7 +2494,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_1"
 	},
 	"tianlang_thunder_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -2308,7 +2506,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_2"
 	},
 	"tianlang_thunder_ssr_star_3": {
 		"advancement": "Release any volt weapon skill or discharge skill to get <shuzhi>2</> charges. Gain hyperbody at <shuzhi>8</> Superconductor stacks.",
@@ -2319,7 +2518,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_3"
 	},
 	"tianlang_thunder_ssr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>32%</>.",
@@ -2330,7 +2530,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_4"
 	},
 	"tianlang_thunder_ssr_star_5": {
 		"advancement": "Each Superconductor stack increases final damage by <shuzhi>{0}%</>.",
@@ -2344,7 +2545,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_5"
 	},
 	"tianlang_thunder_ssr_star_6": {
 		"advancement": "Boost Dubhe's Volt Sense: For every 1 other volt weapon sensed, gain <shuzhi>{0}%</> volt damage boost for <shuzhi>{1}</> seconds.",
@@ -2359,7 +2561,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_6"
 	},
 	"umbrella_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
@@ -2373,7 +2576,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_0"
 	},
 	"umbrella_fire_ssr_star_1": {
 		"advancement": "<shuzhi>Vermilion Strength</>: When equipping Vermilion Bird, the <red>ammo costs</>, damage, charge, and shatter effects of other weapons are multiplied by <shuzhi>Polyfeather Parasol</>.\r\n<shuzhi>Glowing Fire</>: When nearby targets trigger burn tally or take damage from Fiery Crash, <shuzhi>30%</> of the damage is transferred to the <shuzhi>3</> highest HP percentage units near the target (including the target itself).",
@@ -2384,7 +2588,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_1"
 	},
 	"umbrella_fire_ssr_star_2": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>16%</>.",
@@ -2395,7 +2600,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_2"
 	},
 	"umbrella_fire_ssr_star_3": {
 		"advancement": "Passive 1: When using any weapon discharge attack or shatter, all parasols in the vicinity trigger <shuzhi>1</> Fiery Crash at <shuzhi>30%</> effectiveness. Reduce the ATK of enemies near the parasols by <shuzhi>15%</>. When in combat, spawn <shuzhi>3</> parasols near the target immediately after dealing damage for the first time.",
@@ -2406,7 +2612,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_3"
 	},
 	"umbrella_fire_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -2417,7 +2624,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_4"
 	},
 	"umbrella_fire_ssr_star_5": {
 		"advancement": "Fiery Crash and the transferred damage ignore <shuzhi>60%</> of the target's flame resistance.\r\nFlame damage dealt by Corrosion is increased by <shuzhi>{0}%</>.",
@@ -2431,7 +2639,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_5"
 	},
 	"umbrella_fire_ssr_star_6": {
 		"advancement": "Increase the damage dealt by Dancing Flames and Soaring Strike by <shuzhi>{0}%</>.\r\nThe multiplier for rapidly spinning parasols, Phoenix Sweep, and Fiery Crash is now Polyfeather Parasol plus <shuzhi>2</>.",
@@ -2445,7 +2654,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_6"
 	},
 	"snipe_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
@@ -2456,7 +2666,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_0"
 	},
 	"snipe_fire_ssr_star_1": {
 		"advancement": "Hitting a target <shuzhi>2</> times with Cross Snipe creates an <shuzhi>Optical Space</> for <shuzhi>12</> seconds at the target location. After an enemy in the Optical Space triggers burn tally, burn tally will be triggered an additional <shuzhi>2</> times. When an enemy leaves the Optical Space, their speed is reduced by <shuzhi>80%</> for <shuzhi>2.5</> seconds. Cooldown: <shuzhi>12</> seconds.\r\nTargets of Cross Snipe will be terrified (speed is slowed by <shuzhi>80%</>) for <shuzhi>1.5</> seconds. Cooldown: <shuzhi>4</> seconds.",
@@ -2467,7 +2678,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_1"
 	},
 	"snipe_fire_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -2478,7 +2690,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_2"
 	},
 	"snipe_fire_ssr_star_3": {
 		"advancement": "After Cross Snipe lands a critical hit, recover HP equal to <shuzhi>50%</> of the damage dealt (not exceeding <shuzhi>15%</> of own Max HP, Gas Explosion damage not included) and <shuzhi>50</> weapon charge.\r\nEach stack of Tranquil Heart increases the final crit rate to <shuzhi>{0}%</>, up to <shuzhi>{1}%</>, converting up to <shuzhi>{2}%</> of crit damage.",
@@ -2494,7 +2707,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_3"
 	},
 	"snipe_fire_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -2505,7 +2719,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_4"
 	},
 	"snipe_fire_ssr_star_5": {
 		"advancement": "<shuzhi>Ruthless Bomb</> Enhancement: While in the Burn Enhancement state, burn damage dealt to targets is increased to <shuzhi>30%</>.\r\n<shuzhi>Deceitful Bomb</> Enhancement: Gas explosion damage ignores <shuzhi>30%</> of the target's flame resistance.",
@@ -2516,7 +2731,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_5"
 	},
 	"snipe_fire_ssr_star_6": {
 		"advancement": "Increase damage dealt by Cross Snipe by an additional <shuzhi>{0}%</>.",
@@ -2530,7 +2746,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_6"
 	},
 	"iceblade_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
@@ -2541,7 +2758,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_0"
 	},
 	"iceblade_ice_ssr_star_1": {
 		"advancement": "Receive Alyss's support when using any frost weapon skill in the Chilling Field, summoning Alyss to cast a discharge skill on the field, which is the equivalent of Wanderer casting a discharge skill. The skill that triggers the discharge skill will then be used again afterward. Alyss's supporting discharge skill and skill damage is equal to <shuzhi>70%</> of her skill's original damage.",
@@ -2552,7 +2770,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_1"
 	},
 	"iceblade_ice_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -2563,7 +2782,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_2"
 	},
 	"iceblade_ice_ssr_star_3": {
 		"advancement": "Receive Alyss's Support every time Starry Night is triggered and increase Starry Night and Hoarfrost Damage by <shuzhi>{0}%</> for <shuzhi>{1}</> seconds. Stack up to <shuzhi>3</> times.",
@@ -2578,7 +2798,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_3"
 	},
 	"iceblade_ice_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -2589,7 +2810,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_4"
 	},
 	"iceblade_ice_ssr_star_5": {
 		"advancement": "Increase the damage of Unyielding Wing's normal attack and Spatial Slice by <shuzhi>{0}%</>. The Wanderer receives Alyss's Protection upon taking lethal damage, protecting the Wanderer from death 1 time and making the Wanderer immune to damage for a short time. Cooldown: <shuzhi>{1}</> seconds.",
@@ -2604,7 +2826,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_5"
 	},
 	"iceblade_ice_ssr_star_6": {
 		"advancement": "Increase frost damage by <shuzhi>{0}%</> when Alyss's Support reaches 3 stacks.",
@@ -2618,7 +2841,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_6"
 	},
 	"Whip_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>15%</> and physical resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
@@ -2635,7 +2859,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_0"
 	},
 	"Whip_physic_ssr_star_1": {
 		"advancement": "When switching to Mobius, immediately gain <shuzhi>{0}</> warmup points. Cooldown: <shuzhi>{1}</> seconds. Upon entering Magic Trick, deal area damage equal to <shuzhi>{2}%</> of ATK to nearby targets and reduce their physical resistance by <shuzhi>{3}%</> for <shuzhi>{4}</> seconds.",
@@ -2653,7 +2878,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_1"
 	},
 	"Whip_physic_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -2664,7 +2890,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_2"
 	},
 	"Whip_physic_ssr_star_3": {
 		"advancement": "When ending Magic Trick early, deal wide-area damage over <shuzhi>{3}</> seconds. The current cooldown of Mobius's skill is reduced, and physical damage is increased by <shuzhi>{0}%</> for a period of time (this effect does not apply to Mobius). If Magic Trick has more than <shuzhi>13</> seconds remaining, gain an additional <shuzhi>200</> weapon charge. The more time remaining when Magic Trick ends, the higher the area damage, the greater the skill cooldown reduction, and the longer the physical damage boost lasts. The area damage dealt is capped at <shuzhi>{1}%</> of ATK (the maximum damage is dealt when the remaining time is more than <shuzhi>{5}</> seconds). The maximum cooldown reduction is <shuzhi>{4}</> seconds, and the physical damage boost can last up to <shuzhi>{2}</> seconds.",
@@ -2683,7 +2910,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_3"
 	},
 	"Whip_physic_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -2694,7 +2922,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_4"
 	},
 	"Whip_physic_ssr_star_5": {
 		"advancement": "Gain the Psychic Puppet effect upon entering Magic Trick, increasing Mobius's physical damage boost to <shuzhi>{0}%</>. During Magic Trick, recover <shuzhi>{1}%</> of Max HP and <shuzhi>{2}</> weapon charge every second.",
@@ -2710,7 +2939,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_5"
 	},
 	"Whip_physic_ssr_star_6": {
 		"advancement": "During Magic Trick, Mobius has an additional whip that is automatically swung whenever the Wanderer uses Mobius to deal normal attacks or dodge attacks, dealing damage equal to <shuzhi>{0}%</> of Mobius's ATK (this damage is not counted as dealing normal attacks).",
@@ -2725,7 +2955,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_6"
 	},
 	"yoyo_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Elementalist</>: Increase final damage by <shuzhi>{2}%</> for every <shuzhi>1</> type of weapon element equipped. This set effect also works with weapons in the off-hand slot.",
@@ -2741,7 +2972,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_0"
 	},
 	"yoyo_ice_ssr_star_1": {
 		"advancement": "When any weapon skill is used, Speedy Yo-yo can trigger <shuzhi>harmony</>, dealing damage to nearby targets equal to <shuzhi>{0}%</> of the Wanderer's lost HP. The damage dealt shall be no less than <shuzhi>{1}%</> of the Wanderer's Max ATK, and no more than <shuzhi>{2}%</> of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.\r\nWhen any weapon discharge is used, Speedy Yo-yo can trigger <shuzhi>tuning</>, dealing damage to nearby targets equal to <shuzhi>{3}%</> of the Wanderer's Max HP. The damage dealt shall be no more than <shuzhi>{4}%</> of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.",
@@ -2759,7 +2991,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_1"
 	},
 	"yoyo_ice_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -2770,7 +3003,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_2"
 	},
 	"yoyo_ice_ssr_star_3": {
 		"advancement": "When using Desolate Day, Speedy Yo-yo can trigger <shuzhi>{0}</> seconds of <shuzhi>swiftness</>: Speedy Yo-yo's speed is increased by <shuzhi>{1}%</>, damage is increased by <shuzhi>160%</>, and damage caused by passing through the target is converted to small-area damage.",
@@ -2785,7 +3019,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_3"
 	},
 	"yoyo_ice_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -2796,7 +3031,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_4"
 	},
 	"yoyo_ice_ssr_star_5": {
 		"advancement": "Increases the damage of Speedy Yo-yo and Return to Loneliness by <shuzhi>{0}%</>.",
@@ -2810,7 +3046,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_5"
 	},
 	"yoyo_ice_ssr_star_6": {
 		"advancement": "Increase final damage by <shuzhi>{0}%</> while Speedy Yo-yo is active.",
@@ -2824,7 +3061,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_6"
 	},
 	"fenrir_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Elemental Balancing</>: Increase all ATK by <shuzhi>15%</>. Activate by equipping <shuzhi>3</> weapons of different elements. This set effect works in the off-hand slot.",
@@ -2835,7 +3073,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_0"
 	},
 	"fenrir_thunder_ssr_star_1": {
 		"advancement": "When <shuzhi>Su-Paw-Star</> summons a consciousness and is on cooldown, gain the <shuzhi>Aural Fever</> skill. Rush to the target and attack multiple times, dealing damage up to <shuzhi>720%</> of ATK. Each hit landed slows the enemy for a brief period and restores HP equal to <shuzhi>100%</> of ATK. The last hit places <shuzhi>2</> musical notes on the target. Aural Fever cooldown: <shuzhi>15</> seconds.\r\nWhen <shuzhi>3</> or more notes are detonated and the cooldown of Aural Fever is greater than <shuzhi>5</> seconds, clear the cooldown of Aural Fever. This effect can only trigger 1 time every <shuzhi>15</> seconds.",
@@ -2846,7 +3085,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_1"
 	},
 	"fenrir_thunder_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -2857,7 +3097,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_2"
 	},
 	"fenrir_thunder_ssr_star_3": {
 		"advancement": "While Songworld is active:\r\nFor every <shuzhi>45%</> of Max HP lost or when using the skill <shuzhi>Aural Fever</>, trigger a <shuzhi>Songworld Quake</> which deals damage equal to <shuzhi>650%</> of ATK to targets in the Songworld.\r\nFor every <shuzhi>99%</> of Max HP lost, gain <shuzhi>1</> escape death for <shuzhi>45</> seconds (block a lethal effect and become immune to damage for a short time), stacking up to <shuzhi>1</> time.",
@@ -2868,7 +3109,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_3"
 	},
 	"fenrir_thunder_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -2879,7 +3121,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_4"
 	},
 	"fenrir_thunder_ssr_star_5": {
 		"advancement": "Increase the damage multiplier of musical notes' detonation to <shuzhi>40%</>, and the DoT caused by intoxication to <shuzhi>1.5%</> of Max HP every second.\r\nWhile Songworld is active, <shuzhi>Songworld Quake</> is triggered automatically if it doesn't trigger for <shuzhi>12</> seconds while in combat.",
@@ -2890,7 +3133,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_5"
 	},
 	"fenrir_thunder_ssr_star_6": {
 		"advancement": "Increase crit rate by <shuzhi>18%</> while wielding <shuzhi>Gleipnir</>. The crit rate increase lasts another <shuzhi>5</> seconds after switching to other weapons.",
@@ -2901,7 +3145,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_6"
 	},
 	"bigsword_fire_r_star_0": {
 		"numbers": [],
@@ -2911,7 +3156,8 @@
 		"stats": {
 			"shatter": 7.2,
 			"charge": 3.2
-		}
+		},
+		"id": "bigsword_fire_r_star_0"
 	},
 	"spear_ice_r_star_0": {
 		"numbers": [],
@@ -2921,7 +3167,8 @@
 		"stats": {
 			"shatter": 6.9,
 			"charge": 5.6
-		}
+		},
+		"id": "spear_ice_r_star_0"
 	},
 	"digger_physic_r_star_0": {
 		"numbers": [],
@@ -2931,7 +3178,8 @@
 		"stats": {
 			"shatter": 3.2,
 			"charge": 9.6
-		}
+		},
+		"id": "digger_physic_r_star_0"
 	},
 	"bow_fire_r_star_0": {
 		"numbers": [],
@@ -2941,7 +3189,8 @@
 		"stats": {
 			"shatter": 4.8,
 			"charge": 8
-		}
+		},
+		"id": "bow_fire_r_star_0"
 	},
 	"sword_thunder_r_star_0": {
 		"numbers": [],
@@ -2951,7 +3200,8 @@
 		"stats": {
 			"shatter": 3.6,
 			"charge": 8.8
-		}
+		},
+		"id": "sword_thunder_r_star_0"
 	},
 	"Gun_thunder_sr_star_0": {
 		"numbers": [],
@@ -2961,7 +3211,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_0"
 	},
 	"Gun_thunder_sr_star_1": {
 		"advancement": "Enemies caught in the Tempest Round's area of effect are slowed by 30% for 1 second.",
@@ -2972,7 +3223,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_1"
 	},
 	"Gun_thunder_sr_star_2": {
 		"advancement": "Increase activation range and blast radius of landmines.",
@@ -2983,7 +3235,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_2"
 	},
 	"Gun_thunder_sr_star_3": {
 		"advancement": "Restore 1 dodge attempt after hitting any enemy with a landmine.",
@@ -2994,7 +3247,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_3"
 	},
 	"Gun_thunder_sr_star_4": {
 		"advancement": "Increase Tempest Round's area of effect and duration.",
@@ -3005,7 +3259,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_4"
 	},
 	"Gun_thunder_sr_star_5": {
 		"advancement": "Placing a landmine within Tempest Round's area of effect immediately detonates it, generating another Tempest Round and expanding its area of effect.",
@@ -3016,7 +3271,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_5"
 	},
 	"bigsword_physic_sr_star_0": {
 		"numbers": [],
@@ -3026,7 +3282,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_0"
 	},
 	"bigsword_physic_sr_star_1": {
 		"advancement": "Switching to this weapon grants a shield equal to <shuzhi>7.5%</> of Max HP that lasts up to <shuzhi>10</> seconds. Cooldown: <shuzhi>60</> seconds.",
@@ -3037,7 +3294,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_1"
 	},
 	"bigsword_physic_sr_star_2": {
 		"advancement": "When equipped with 2 or more defense-type weapons, reduce damage received by <shuzhi>3%</>. Take effect immediately and stack with multiple weapons. Effect and aggro are both increased when playing in a team.",
@@ -3048,7 +3306,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_2"
 	},
 	"bigsword_physic_sr_star_3": {
 		"advancement": "Upon switching to the weapon, gain a shield equal to <shuzhi>15%</> of Max HP for <shuzhi>10</> seconds and immunity to hitstun. Cooldown: <shuzhi>60</> seconds.",
@@ -3059,7 +3318,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_3"
 	},
 	"bigsword_physic_sr_star_4": {
 		"advancement": "Reduce physical damage received by <shuzhi>10%</>.",
@@ -3070,7 +3330,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_4"
 	},
 	"bigsword_physic_sr_star_5": {
 		"advancement": "Targets hit by discharge skills take an additional <shuzhi>15%</> physical damage for the next <shuzhi>10</> seconds.",
@@ -3081,7 +3342,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_5"
 	},
 	"bigsword_physic_sr_star_6": {
 		"numbers": [],
@@ -3091,7 +3353,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_6"
 	},
 	"spear_physic_sr_star_0": {
 		"numbers": [],
@@ -3101,7 +3364,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_0"
 	},
 	"spear_physic_sr_star_1": {
 		"advancement": "While airborne, each successful attack increases the user's final damage dealt by <shuzhi>4%</>, up to a maximum of <shuzhi>20%</>.",
@@ -3112,7 +3376,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_1"
 	},
 	"spear_physic_sr_star_2": {
 		"advancement": "When equipped with 2 or more DPS-type weapons, deal an additional <shuzhi>7.5%</> final damage to targets with less than <shuzhi>50%</> HP. Take effect immediately and stack with multiple weapons. Effect is boosted when playing in a team.",
@@ -3123,7 +3388,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_2"
 	},
 	"spear_physic_sr_star_3": {
 		"advancement": "Hitting targets while airborne has a <shuzhi>30%</> chance to reduce all weapon skill cooldowns by <shuzhi>2</> seconds.",
@@ -3134,7 +3400,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_3"
 	},
 	"spear_physic_sr_star_4": {
 		"advancement": "After landing, the damage boost persists for the next <shuzhi>10</> seconds.",
@@ -3145,7 +3412,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_4"
 	},
 	"spear_physic_sr_star_5": {
 		"advancement": "Deal an additional <shuzhi>30%</> Final Damage to airborne/stunned/frozen/electrified targets.",
@@ -3156,7 +3424,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_5"
 	},
 	"spear_physic_sr_star_6": {
 		"numbers": [],
@@ -3166,7 +3435,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_6"
 	},
 	"sickle_physic_ssr_star_0": {
 		"numbers": [],
@@ -3176,7 +3446,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_0"
 	},
 	"sickle_physic_ssr_star_1": {
 		"advancement": "When equipped with 2 or more defense-type weapons, reduce damage received by an additional <shuzhi>5%</> whenever HP is less than <shuzhi>70%</>. Take effect immediately and stack with multiple weapons. Effect and aggro are both increased when playing in a team.",
@@ -3187,7 +3458,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_1"
 	},
 	"sickle_physic_ssr_star_2": {
 		"advancement": "When hyperbody is activated, increase its duration by <shuzhi>0.5</> seconds for every <shuzhi>5%</> HP lost.",
@@ -3198,7 +3470,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_2"
 	},
 	"sickle_physic_ssr_star_3": {
 		"advancement": "Reduce physical damage received by <shuzhi>10%</>.",
@@ -3209,7 +3482,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_3"
 	},
 	"sickle_physic_ssr_star_4": {
 		"advancement": "Using skills increases the user's physical defense by (<shuzhi>20% + 200</>) for <shuzhi>15</> seconds (cannot stack, duration can be refreshed).",
@@ -3220,7 +3494,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_4"
 	},
 	"sickle_physic_ssr_star_5": {
 		"advancement": "Discharge skills deal an additional <shuzhi>20%</> physical damage to targets for <shuzhi>15</> seconds.",
@@ -3231,7 +3506,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_5"
 	},
 	"sickle_physic_ssr_star_6": {
 		"numbers": [],
@@ -3241,7 +3517,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_6"
 	},
 	"sword_fire_sr_star_0": {
 		"numbers": [],
@@ -3251,7 +3528,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_0"
 	},
 	"sword_fire_sr_star_1": {
 		"advancement": "Normal attacks generate explosions, dealing flame damage equal to 90% of ATK in a small radius. Cooldown: 5 seconds.",
@@ -3262,7 +3540,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_1"
 	},
 	"sword_fire_sr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>10%</>.",
@@ -3273,7 +3552,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_2"
 	},
 	"sword_fire_sr_star_3": {
 		"advancement": "Increase damage dealt by 40% when a normal attack hits the target on its side or back.",
@@ -3284,7 +3564,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_3"
 	},
 	"sword_fire_sr_star_4": {
 		"advancement": "Increase the current weapon's base HP growth by <shuzhi>20%</>.",
@@ -3295,7 +3576,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_4"
 	},
 	"sword_fire_sr_star_5": {
 		"advancement": "Grant 50% lifesteal during Phantasia.",
@@ -3306,7 +3588,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_5"
 	},
 	"sword_fire_sr_star_6": {
 		"advancement": "Increase damage dealt by 80% when a normal attack hits the target on its side or back.",
@@ -3317,7 +3600,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_6"
 	},
 	"bow_fire_sr_star_0": {
 		"numbers": [],
@@ -3327,7 +3611,8 @@
 		"stats": {
 			"shatter": 4.8,
 			"charge": 8
-		}
+		},
+		"id": "bow_fire_sr_star_0"
 	},
 	"bow_fire_sr_star_1": {
 		"advancement": "Grant <yellow_lbl_15_1>Sharp Arrow I</> each time the user hits a target with a Charged Arrow. Sharp Arrow I: Increase final damage by <shuzhi>4%</> for <shuzhi>10</> seconds. The effect can be stacked up to <shuzhi>3</> times.",
@@ -3338,7 +3623,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_1"
 	},
 	"bow_fire_sr_star_2": {
 		"advancement": "When equipped with 2 or more DPS-type weapons, deal an additional <shuzhi>5%</> final damage to targets that are further than 6 meters away. Take effect immediately and stack with multiple weapons. Effect is boosted when playing in a team.",
@@ -3349,7 +3635,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_2"
 	},
 	"bow_fire_sr_star_3": {
 		"advancement": "Launching a Dodge attack fires <shuzhi>3</> piercing shots.",
@@ -3360,7 +3647,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_3"
 	},
 	"bow_fire_sr_star_4": {
 		"advancement": "Extend Arrow Rain duration by 100%.",
@@ -3371,7 +3659,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_4"
 	},
 	"bow_fire_sr_star_5": {
 		"advancement": "Grant <yellow_lbl_15_1>Sharp Arrow I</> each time the user hits a target with a Charged Arrow. Sharp Arrow I: Increase final damage by <shuzhi>4%</> for <shuzhi>15</> seconds. The effect can be stacked up to <shuzhi>5</> times.",
@@ -3382,7 +3671,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_5"
 	},
 	"bow_fire_sr_star_6": {
 		"numbers": [],
@@ -3392,7 +3682,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_6"
 	},
 	"hammer_thunder_ssr_star_0": {
 		"numbers": [],
@@ -3402,7 +3693,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_0"
 	},
 	"hammer_thunder_ssr_star_1": {
 		"advancement": "When equipped with 2 or more defense-type weapons, reduce damage received by <shuzhi>5%</>. Take effect immediately and stack with multiple weapons. Increase aggro by <shuzhi>200%</> when playing in a team. Taunt all enemies in an <shuzhi>8</>-meter radius for <shuzhi>5</> seconds after switching to this weapon. Cooldown: <shuzhi>15</> seconds.",
@@ -3413,7 +3705,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_1"
 	},
 	"hammer_thunder_ssr_star_2": {
 		"advancement": "After switching to this weapon, the next hit <shuzhi>stuns</> the target for <shuzhi>2</> seconds. Cooldown: <shuzhi>15</> seconds.",
@@ -3424,7 +3717,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_2"
 	},
 	"hammer_thunder_ssr_star_3": {
 		"advancement": "Increase volt damage reduction by <shuzhi>10%</>.",
@@ -3435,7 +3729,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_3"
 	},
 	"hammer_thunder_ssr_star_4": {
 		"advancement": "Reduce damage received by <shuzhi>10%</> for <shuzhi>30</> seconds after switching to this weapon. When equipped with 2 or more defense-type weapons, teammates also gain <shuzhi>10%</> damage reduction for <shuzhi>30</> seconds. Cooldown: <shuzhi>30</> seconds. Cannot stack with effects of the same type.",
@@ -3446,7 +3741,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_4"
 	},
 	"hammer_thunder_ssr_star_5": {
 		"advancement": "Targets hit by discharge skills take an additional <shuzhi>20%</> volt damage for the next <shuzhi>15</> seconds.",
@@ -3457,7 +3753,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_5"
 	},
 	"hammer_thunder_ssr_star_6": {
 		"numbers": [],
@@ -3467,7 +3764,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_6"
 	},
 	"brush_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Fiery Explosion: On-Field</>: When landing any hit with <shuzhi>Pine Comet</>, it deals damage to nearby targets equal to <shuzhi>{0}%</> of flame ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit. This effect can be triggered once every <shuzhi>1.5</> seconds. The Fiery Explosion damage is counted as normal attack damage. If there is <shuzhi>1</> volt/frost/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by <shuzhi>{4}</>. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
@@ -3485,7 +3783,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_0"
 	},
 	"brush_fire_ssr_star_1": {
 		"advancement": "When a <shuzhi>Sparrow Feather</> hits a target, it triggers a spreading effect, dealing an additional area damage equal to <shuzhi>{0}%</> of the total burn and incendiary damage. It also spreads the affected target's <shuzhi>Sparroburn</> to nearby targets, refreshing the <shuzhi>Sparroburn</> duration. The spread effect can be triggered 1 time every <shuzhi>5</> seconds.",
@@ -3499,7 +3798,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_1"
 	},
 	"brush_fire_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -3510,7 +3810,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_2"
 	},
 	"brush_fire_ssr_star_3": {
 		"advancement": "When the Wanderer's HP is below <shuzhi>50%</> of Max HP, every <shuzhi>0.5</> seconds, consume <shuzhi>1</> <shuzhi>Sparrow Feather</> and recover <shuzhi>{0}%</> of Max HP (increases to <shuzhi>{1}%</> of Max HP in solo play) until the Wanderer's HP is full or all <shuzhi>Sparrow Feathers</> are consumed. This effect works in the off-hand slot.",
@@ -3525,7 +3826,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_3"
 	},
 	"brush_fire_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -3536,7 +3838,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_4"
 	},
 	"brush_fire_ssr_star_5": {
 		"advancement": "When receiving lethal damage, prevent lethal damage 1 time and gain damage immunity for a short duration, and instantly gain <shuzhi>60</> <shuzhi>Sparrow Feathers</> and <shuzhi>{0}</> weapon charge. Can be triggered 1 time every <shuzhi>{1}</> seconds. This set effect works in the off-hand slot.",
@@ -3551,7 +3854,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_5"
 	},
 	"brush_fire_ssr_star_6": {
 		"advancement": "Increase flame damage by an additional <shuzhi>{0}%</> when you are under <shuzhi>Pinnacle</> state.",
@@ -3565,7 +3869,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_6"
 	},
 	"yulan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Icecrush: Swift Cut</>: When <shuzhi>Unity</> is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to <shuzhi>{0}%</> of frost ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit. While in combat state, after every <shuzhi>0.5</> seconds, the next Swift Cut damage will be increased by an additional <shuzhi>1</> time, up to a maximum of <shuzhi>30</> times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Swift Cut damage is counted as discharge skill damage. If there is <shuzhi>1</> volt/physical/flame weapon of any kind equipped, Icecrush damage is increased <shuzhi>{4}</> times. In addition, Icecrush damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
@@ -3583,7 +3888,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_0"
 	},
 	"yulan_ice_ssr_star_1": {
 		"advancement": "While in the <shuzhi>Martial Artist</> form, after consuming <shuzhi>3</> or more <shuzhi>Internal Strength</>, <shuzhi>Unity</> restores <shuzhi>{0}</> <shuzhi>Internal Strength</>. Subsequently, the Wanderer's final damage is increased by <shuzhi>{1}%</>, and <shuzhi>Unity's</> dodge attack/normal attack damage is increased by <shuzhi>{2}%</> for <shuzhi>{3}</> seconds.\r\nWhile in the <shuzhi>Sweeping Force</> form, after consuming <shuzhi>3</> or more <shuzhi>Fighting Spirit</>, <shuzhi>Unity</> restores <shuzhi>{4}</> <shuzhi>Fighting Spirit</>. Subsequently, the Wanderer's final damage is increased by <shuzhi>{5}%</> for <shuzhi>{6}</> seconds.",
@@ -3603,7 +3909,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_1"
 	},
 	"yulan_ice_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -3614,7 +3921,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_2"
 	},
 	"yulan_ice_ssr_star_3": {
 		"advancement": "In the <shuzhi>Martial Artist</> form, if <shuzhi>Internal Strength</> is not obtained within <shuzhi>{0}</> seconds, the next acquisition of <shuzhi>Internal Strength</> will grant <shuzhi>2</> counts.\r\nIn any form, when <shuzhi>Unity</> consumes <shuzhi>3</> or more <shuzhi>Internal Strength</> or <shuzhi>Fighting Spirit</>, restore <shuzhi>{1}%</> of the Wanderer's Max HP. In solo play, the HP recovery is increased to <shuzhi>{2}%</>. This effect can only trigger 1 time every <shuzhi>8</> seconds in <shuzhi>Sweeping Force</> form. In <shuzhi>Martial Artist</> form, there are no limitations.",
@@ -3631,7 +3939,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_3"
 	},
 	"yulan_ice_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -3642,7 +3951,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_4"
 	},
 	"yulan_ice_ssr_star_5": {
 		"advancement": "After <shuzhi>Unity</> consumes <shuzhi>Internal Strength</> or <shuzhi>Fighting Spirit</>, when receiving lethal damage, prevent lethal damage 1 time and recover <shuzhi>{0}%</> of the Wanderer's Max HP (Unavailable in Apex League). In solo play, the HP recovery is increased to <shuzhi>{1}%</>. Both effects can only trigger 1 time every <shuzhi>{2}</> seconds.",
@@ -3658,7 +3968,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_5"
 	},
 	"yulan_ice_ssr_star_6": {
 		"advancement": "While in the <shuzhi>Martial Artist</> form, <shuzhi>Unity's</> dodge attack / normal attack damage is further increased by <shuzhi>{0}%</>. After consuming <shuzhi>Internal Strength</>, the Wanderer's final damage is increased by <shuzhi>{1}%</> for <shuzhi>{2}</> seconds.\r\nWhile in the <shuzhi>Sweeping Force</> form, after <shuzhi>Unity</> consumes <shuzhi>Fighting Spirit</>, the Wanderer's final damage is increased by <shuzhi>{3}%</> for <shuzhi>{4}</> seconds.",
@@ -3676,7 +3987,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_6"
 	},
 	"Zeke_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>15%</> and physical resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with other Physical Resonance effects, with Physical Resonance taking precedence.\r\n<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance effects, with Flame Resonance taking precedence.\r\n\r\n<shuzhi>Shield Break: Detachment</>: After using <shuzhi>Absolute Ravine</>, every second, deal damage equal to <shuzhi>{1}%</> of physical ATK plus <shuzhi>{2}%</> of the Wanderer's Max HP plus <shuzhi>{3}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{4}%</> of crit for <shuzhi>{0}</> seconds to targets hit. Multiple Detachment damage will not stack and shield break damage will be counted as skill damage. If there is <shuzhi>1</> volt/flame/frost weapon equipped, shield break damage is multiplied by <shuzhi>{5}</>. In addition, shield break damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
@@ -3695,7 +4007,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_0"
 	},
 	"Zeke_physic_ssr_star_1": {
 		"advancement": "Every time <shuzhi>grievous</> is applied, deal <shuzhi>devouring</> damage equal to <shuzhi>50%</> of ATK to the target. This effect can only be triggered 1 time every <shuzhi>0.5</> seconds.\r\nEvery time the weapon's <shuzhi>ignite</> trait is applied to a <shuzhi>non-grievous target</>, the target becomes <shuzhi>grievous</> for <shuzhi>7</> seconds.",
@@ -3706,7 +4019,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_1"
 	},
 	"Zeke_physic_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -3717,7 +4031,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_2"
 	},
 	"Zeke_physic_ssr_star_3": {
 		"advancement": "After triggering <shuzhi>Mighty Wind</>, turn targets hit into members of the <shuzhi>Serpent Chain</>.",
@@ -3728,7 +4043,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_3"
 	},
 	"Zeke_physic_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -3739,7 +4055,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_4"
 	},
 	"Zeke_physic_ssr_star_5": {
 		"advancement": "After using <shuzhi>Absolute Ravine</>, reduce the Wanderer's damage taken by <shuzhi>{0}%</> (<shuzhi>{1}%</> in solo play) for <shuzhi>{2}</> seconds.",
@@ -3755,7 +4072,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_5"
 	},
 	"Zeke_physic_ssr_star_6": {
 		"advancement": "When there is <shuzhi>1</> <shuzhi>Serpent Chain</> member, increase <shuzhi>conduction</> damage's conduction rate to <shuzhi>50%</>.",
@@ -3769,7 +4087,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_6"
 	},
 	"mimi_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n\r\n<shuzhi>Thunderboom: On-Field</>: When landing any hit with <shuzhi>Azure Dragon</>, it deals damage to nearby targets equal to <shuzhi>{0}%</> of volt ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit. This effect can be triggered up to 1 time every <shuzhi>1.5</> seconds. The Thunderboom damage is counted as normal attack damage. If there is <shuzhi>1</> flame/frost/physical weapon of any kind equipped, Thunderboom damage is multiplied by <shuzhi>{4}</> times. Additionally, Thunderboom damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
@@ -3787,7 +4106,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_0"
 	},
 	"mimi_thunder_ssr_star_1": {
 		"advancement": "Each time after <shuzhi>Thunder Burst</> charges, <shuzhi>2</> Azuras will appear. Each Azura will restore <shuzhi>20%</> Max HP to other summons.\r\nIncrease <shuzhi>Thunder Burst</>'s charged attack and shockwave damage by <shuzhi>30%</>.\r\nAfter using <shuzhi>Azure Moon</>, immediately gain <shuzhi>3</> stacks of Qinglong's Might. Using other volt weapons' skills will grant <shuzhi>1</> stack of Qinglong's Might instead.",
@@ -3798,7 +4118,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_1"
 	},
 	"mimi_thunder_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -3809,7 +4130,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_2"
 	},
 	"mimi_thunder_ssr_star_3": {
 		"advancement": "When <shuzhi>Azure Dragon</> is equipped, reduce all volt weapon base skill cooldowns by <shuzhi>20%</>. This is not affected by other cooldown clearing, resetting, or changing effects.\r\nAdditionally, increase the Wanderer's volt damage by <shuzhi>15%</>. This effect works in the off-hand slot.",
@@ -3820,7 +4142,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_3"
 	},
 	"mimi_thunder_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -3831,7 +4154,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_4"
 	},
 	"mimi_thunder_ssr_star_5": {
 		"advancement": "When the Wanderer receives lethal damage, prevent lethal damage 1 time and gain damage immunity for a short duration. This effect can only trigger 1 time every <shuzhi>60</> seconds and works in the off-hand slot.\r\nAfter activating Fortitude Resonance:\r\nUsing <shuzhi>Soaring Dragon</> draws in nearby targets, ignoring hyperbody (ineffective against bosses).\r\nIn team play, <shuzhi>Thunder Burst</> will produce <shuzhi>1</> volt timestamp every <shuzhi>6</> seconds while charging, which will link up in the order they are produced to form a power grid. The power grid can block enemies' movements and their projectile damage. Each volt timestamp lasts for up to <shuzhi>20</> seconds.",
@@ -3842,7 +4166,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_5"
 	},
 	"mimi_thunder_ssr_star_6": {
 		"advancement": "After using <shuzhi>Azure Moon</>, increase the Wanderer's volt damage by <shuzhi>10%</> and final damage by <shuzhi>10%</> for <shuzhi>30</> seconds.",
@@ -3853,7 +4178,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_6"
 	},
 	"feise_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>20%</> and flame resistance by <shuzhi>40%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance or Flame Reaction effects, with Flame Resonance taking precedence.\r\n<shuzhi>Fiery Explosion: Swift Cut</>: When <shuzhi>Endless Bloom</> is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to <shuzhi>{0}%</> of flame ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit. While in combat, after every <shuzhi>0.5</> seconds, the next Swift Cut damage will be increased by an additional <shuzhi>1</> time, up to a maximum of <shuzhi>30</> times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is <shuzhi>1</> frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by <shuzhi>{4}</> times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
@@ -3871,7 +4197,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_0"
 	},
 	"feise_fire_ssr_star_1": {
 		"advancement": "<shuzhi>Blazing Heart</> damage's base multiplier is increased to <shuzhi>120%</> of ATK. While in the combat state, if the Wanderer inflicts multiple burn effects, <shuzhi>Blazing Heart</> damage's base multiplier is additionally increased to that of the highest multiplier effect.",
@@ -3882,7 +4209,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_1"
 	},
 	"feise_fire_ssr_star_2": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>16%</>.",
@@ -3893,7 +4221,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_2"
 	},
 	"feise_fire_ssr_star_3": {
 		"advancement": "The maximum number of <shuzhi>Fei Se's Phantasia</> is increased to <shuzhi>2</>. After <shuzhi>Whirling</> lands a hit, additionally create <shuzhi>1</> <shuzhi>Fei Se's Phantasia</>.",
@@ -3904,7 +4233,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_3"
 	},
 	"feise_fire_ssr_star_4": {
 		"advancement": "Increase the current weapon's base ATK growth by <shuzhi>32%</>.",
@@ -3915,7 +4245,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_4"
 	},
 	"feise_fire_ssr_star_5": {
 		"advancement": "For every <shuzhi>1</> <shuzhi>Fei Se's Phantasia</> or <shuzhi>Lotus Petal</> in the <shuzhi>Mirage</>, <shuzhi>Blazing Heart's</> damage is additionally increased by <shuzhi>15%</>.\r\n<shuzhi>Lotus Aspara's</> endurance consumption is reduced by <shuzhi>75%</>.",
@@ -3926,7 +4257,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_5"
 	},
 	"feise_fire_ssr_star_6": {
 		"advancement": "<shuzhi>Soulwear</> damage's base multiplier is increased to <shuzhi>900%</> of ATK, shatter is doubled, and there is a <shuzhi>15%</> chance to inflict a <shuzhi>65%</> delay for <shuzhi>2</> seconds after landing a hit (ineffective against bosses in team play and unavailable in Apex League).",
@@ -3937,6 +4269,7 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_6"
 	}
 }

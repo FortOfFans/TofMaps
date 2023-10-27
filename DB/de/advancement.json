@@ -7,7 +7,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 10
-		}
+		},
+		"id": "stave_thunder_sr_star_0"
 	},
 	"stave_thunder_sr_star_1": {
 		"advancement": "Heilt alle Teammitglieder innerhalb von <shuzhi>10</> Metern nach Einsetzen einer Ausweichfähigkeit um <shuzhi>100%</> des ANG.",
@@ -18,7 +19,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 10
-		}
+		},
+		"id": "stave_thunder_sr_star_1"
 	},
 	"stave_thunder_sr_star_2": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>10%</>.",
@@ -29,7 +31,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 10
-		}
+		},
+		"id": "stave_thunder_sr_star_2"
 	},
 	"stave_thunder_sr_star_3": {
 		"advancement": "Normale Angriffe feuern zusätzlich zwei Raketen ab, die dem Ziel Schaden in Höhe von <shuzhi>5%</> des ANG zufügen und <shuzhi>5</> Waffenladungspunkte wiederherstellen.",
@@ -40,7 +43,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.2
-		}
+		},
+		"id": "stave_thunder_sr_star_3"
 	},
 	"stave_thunder_sr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>20%</>.",
@@ -51,7 +55,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.2
-		}
+		},
+		"id": "stave_thunder_sr_star_4"
 	},
 	"stave_thunder_sr_star_5": {
 		"advancement": "Erhöht die Auffüllgeschwindigkeit der Waffenladung um <shuzhi>20%</> (gilt nicht für Raketenangriffe).",
@@ -62,7 +67,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 13.2
-		}
+		},
+		"id": "stave_thunder_sr_star_5"
 	},
 	"stave_thunder_sr_star_6": {
 		"advancement": "Gewährt allen Teammitgliedern in Reichweite <shuzhi>60%</> Schadensreduktion, wenn eine Fähigkeit Kontrolleffekte vom Ziel entfernt.",
@@ -73,7 +79,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 13.2
-		}
+		},
+		"id": "stave_thunder_sr_star_6"
 	},
 	"cannon_ice_sr_star_0": {
 		"numbers": [],
@@ -83,7 +90,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_0"
 	},
 	"cannon_ice_sr_star_1": {
 		"advancement": "Erhöht mit jedem Treffer eines normalen Angriffs den Schaden um <shuzhi>1%</>. Der Effekt hält <shuzhi>2</> Sek. an. Kann bis zu <shuzhi>15</>-mal gestapelt werden. Erhöht die Munition auf <shuzhi>60</>.",
@@ -94,7 +102,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_1"
 	},
 	"cannon_ice_sr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>10%</>.",
@@ -105,7 +114,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_2"
 	},
 	"cannon_ice_sr_star_3": {
 		"advancement": "Erhöht beim Wechsel zu dieser Waffe innerhalb von <shuzhi>10</> Sek. den Schaden von normalen Angriffen sowie von „Zertrümmern“ um <shuzhi>30%</>. Abklingzeit: <shuzhi>25</> Sek. Erhöht die Munition auf <shuzhi>80</>.",
@@ -116,7 +126,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_3"
 	},
 	"cannon_ice_sr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>20%</>.",
@@ -127,7 +138,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_4"
 	},
 	"cannon_ice_sr_star_5": {
 		"advancement": "Verringert die Abklingzeit von normalen Angriffen im Geschützturm-Modus um <shuzhi>2</> Sek.",
@@ -138,7 +150,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_5"
 	},
 	"cannon_ice_sr_star_6": {
 		"advancement": "Erhöht beim Wechsel zu dieser Waffe innerhalb von <shuzhi>10</> Sek. den Schaden von normalen Angriffen sowie von „Zertrümmern“ um <shuzhi>60%</>. Abklingzeit: <shuzhi>25</> Sek.",
@@ -149,7 +162,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 10
-		}
+		},
+		"id": "cannon_ice_sr_star_6"
 	},
 	"Chainsaw_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physische Resonanz</>: Erhöht den physischen ANG um <shuzhi>{0}%</> und den physischen Widerstand um <shuzhi>{1}%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen physischen Resonanz- oder Reaktionseffekten gestapelt werden, wobei physische Resonanz priorisiert wird.\r\n<shuzhi>Allgemeine Resonanz</>: Erhöht den Endschaden um <shuzhi>{2}%</>. Wird durch Ausrüsten von <shuzhi>2</> Waffen desselben Elements aktiviert (physisch ausgenommen). Der Set-Effekt funktioniert auch im Nebenhand-Slot.",
@@ -165,7 +179,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_0"
 	},
 	"Chainsaw_physic_ssr_star_1": {
 		"advancement": "Erhöht Zertrümmern von „Wildes Scharren“, „Takoyaki-Angriff“ und „Pippas Angriff!“ um <shuzhi>80%</>.\r\nGewährt bei Verwendung dieser Fähigkeiten für <shuzhi>8</> Sek. einen um <shuzhi>50%</> erhöhten Schild, wenn der Schild des Wanderers weniger als <shuzhi>50%</> beträgt. Dieser Effekt kann nur <shuzhi>1</>-mal alle <shuzhi>5</> Sek. ausgelöst werden (nicht in der Apex-Liga verfügbar).",
@@ -176,7 +191,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_1"
 	},
 	"Chainsaw_physic_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -187,7 +203,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_2"
 	},
 	"Chainsaw_physic_ssr_star_3": {
 		"advancement": "Erhöht das Limit für <shuzhi>Pippa-Oktopeitsche</> auf <shuzhi>45</>.\r\nErhöht nach Verwendung von „Ultimative Pippa“ den physischen Schaden für <shuzhi>30</> Sek. um <shuzhi>12%</>.",
@@ -198,7 +215,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_3"
 	},
 	"Chainsaw_physic_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -209,7 +227,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_4"
 	},
 	"Chainsaw_physic_ssr_star_5": {
 		"advancement": "Die Explosion von <shuzhi>Schatzmal</> erneuert den <shuzhi>Verwunden</>-Status der Ziele.\r\nErhöht den verursachten physischen Schaden gegen Ziele mit weniger als <shuzhi>80%</> LP um <shuzhi>10%</>. Der Set-Effekt funktioniert auch im Nebenhand-Slot.",
@@ -220,7 +239,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_5"
 	},
 	"Chainsaw_physic_ssr_star_6": {
 		"advancement": "Erhöht den durch explodierende <shuzhi>Schatzmale</> verursachten Schaden auf <shuzhi>90%</> des ANG.",
@@ -231,7 +251,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 14
-		}
+		},
+		"id": "Chainsaw_physic_ssr_star_6"
 	},
 	"hammer_ice_sr_star_0": {
 		"numbers": [],
@@ -241,7 +262,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_0"
 	},
 	"hammer_ice_sr_star_1": {
 		"advancement": "Verspottet Ziele in der Nähe nach dem Wechsel zu dieser Waffe, verhindert innerhalb der nächsten <shuzhi>8</> Sek. <shuzhi>1</>-mal eingehenden Schaden und gewährt Hyperkörper für die nächsten <shuzhi>8</> Sek. Abklingzeit: <shuzhi>15</> Sek.",
@@ -252,7 +274,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_1"
 	},
 	"hammer_ice_sr_star_2": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>10%</>.",
@@ -263,7 +286,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_2"
 	},
 	"hammer_ice_sr_star_3": {
 		"advancement": "Reduziert nach erlittenem Schaden für die nächsten <shuzhi>6</> Sek. allen erlittenen Schaden um <shuzhi>50%</>. Abklingzeit: <shuzhi>20</> Sek.",
@@ -274,7 +298,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_3"
 	},
 	"hammer_ice_sr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>20%</>.",
@@ -285,7 +310,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_4"
 	},
 	"hammer_ice_sr_star_5": {
 		"advancement": "Normale Angriffe <shuzhi>betäuben</> Ziele für <shuzhi>2,5</> Sek. Abklingzeit: <shuzhi>20</> Sek.",
@@ -296,7 +322,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_5"
 	},
 	"hammer_ice_sr_star_6": {
 		"advancement": "Entladungsfähigkeiten fügen Zielen für <shuzhi>25</> Sek. <shuzhi>10%</> zusätzlichen Schaden zu und erhöhen den Frostschaden zusätzlich um <shuzhi>10%</>.",
@@ -307,7 +334,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "hammer_ice_sr_star_6"
 	},
 	"bow_physic_sr_star_0": {
 		"numbers": [],
@@ -317,7 +345,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_0"
 	},
 	"bow_physic_sr_star_1": {
 		"advancement": "Nach jedem fünften normalen Angriff oder der Verwendung von <ComLblGreen>Durchdringender Schuss</> wird 1 Ausweichversuch wiederhergestellt.",
@@ -328,7 +357,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_1"
 	},
 	"bow_physic_sr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>10%</>.",
@@ -339,7 +369,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_2"
 	},
 	"bow_physic_sr_star_3": {
 		"advancement": "Erhöht den Kopfschussschaden um <shuzhi>30%</>.",
@@ -350,7 +381,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_3"
 	},
 	"bow_physic_sr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>20%</>.",
@@ -361,7 +393,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_4"
 	},
 	"bow_physic_sr_star_5": {
 		"advancement": "Ausweichfähigkeiten belegen Ziele für <shuzhi>7</> Sek. mit einem „Verwunden“-Effekt.",
@@ -372,7 +405,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_5"
 	},
 	"bow_physic_sr_star_6": {
 		"advancement": "Erhöht die kritische Trefferrate bei Zielen mit „Verwunden“ um <shuzhi>30%</> und den kritischen Schaden um <shuzhi>50%</>.",
@@ -383,7 +417,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10
-		}
+		},
+		"id": "bow_physic_sr_star_6"
 	},
 	"spear_thunder_sr_star_0": {
 		"numbers": [],
@@ -393,7 +428,8 @@
 		"stats": {
 			"shatter": 11,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_0"
 	},
 	"spear_thunder_sr_star_1": {
 		"advancement": "Erhöht Zertrümmern um <shuzhi>15%</>. Wenn der Schild des Ziels zertrümmert wurde, wird der ANG aller Teammitglieder für <shuzhi>30 Sek.</> um <shuzhi>15%</> erhöht. Kann nicht gestapelt werden.",
@@ -404,7 +440,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_1"
 	},
 	"spear_thunder_sr_star_2": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>10%</>.",
@@ -415,7 +452,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_2"
 	},
 	"spear_thunder_sr_star_3": {
 		"advancement": "Nachdem ein Ziel mit <ComLblGreen>Mondjäger</> getroffen wurde, wird sein ANG für <shuzhi>15</> Sek. um <shuzhi>5%</> verringert und der ANG des Anwenders um <shuzhi>5%</> erhöht (Effekt bis zu <shuzhi>3</>-mal stapelbar, indem mehrere Ziele getroffen werden). Der Effekt wird gegen Ziele mit Verwunden verdoppelt.",
@@ -426,7 +464,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_3"
 	},
 	"spear_thunder_sr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>20%</>.",
@@ -437,7 +476,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_4"
 	},
 	"spear_thunder_sr_star_5": {
 		"advancement": "Verdoppelt die Betäubungsdauer von Ausweichfähigkeiten.",
@@ -448,7 +488,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_5"
 	},
 	"spear_thunder_sr_star_6": {
 		"advancement": "Je höher die zurückgelegte Entfernung der Entladungsfähigkeit ist, desto mehr Schaden verursacht sie (bis zu <shuzhi>100%</> mehr Schaden).",
@@ -459,7 +500,8 @@
 		"stats": {
 			"shatter": 12.6,
 			"charge": 7
-		}
+		},
+		"id": "spear_thunder_sr_star_6"
 	},
 	"digger_thunder_ssr_star_0": {
 		"numbers": [],
@@ -469,7 +511,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_0"
 	},
 	"digger_thunder_ssr_star_1": {
 		"advancement": "Der Angriff auf Ziele von hinten erhöht die kritische Trefferrate aller Zwillingsklingen um <shuzhi>40%</>. Verrat auf elektrisierte Ziele erhöht die kritische Trefferrate um <shuzhi>100%</> und den kritischen Schaden um <shuzhi>30%</>.",
@@ -480,7 +523,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_1"
 	},
 	"digger_thunder_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -491,7 +535,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_2"
 	},
 	"digger_thunder_ssr_star_3": {
 		"advancement": "Erhöht den kritischen Schaden gegen Ziele mit weniger als <shuzhi>60%</> LP um <shuzhi>30%</>.",
@@ -502,7 +547,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_3"
 	},
 	"digger_thunder_ssr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -513,7 +559,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_4"
 	},
 	"digger_thunder_ssr_star_5": {
 		"advancement": "Das Auslösen eines Angriffs von hinten gewährt für die nächsten <shuzhi>4</> Sek. 100% kritische Trefferchance und erhöht den kritischen Schaden um <shuzhi>50%</>. Abklingzeit: <shuzhi>10</> Sek.",
@@ -524,7 +571,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_5"
 	},
 	"digger_thunder_ssr_star_6": {
 		"advancement": "Erhöht nach Verwendung einer Fähigkeit den verursachten Voltschaden für <shuzhi>20</> Sek. um <shuzhi>20%</>.",
@@ -535,7 +583,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "digger_thunder_ssr_star_6"
 	},
 	"bigsword_ice_ssr_star_0": {
 		"numbers": [],
@@ -545,7 +594,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_0"
 	},
 	"bigsword_ice_ssr_star_1": {
 		"advancement": "Erhöht „Zertrümmern“ um <shuzhi>15%</> und stellt <shuzhi>10%</> der LP wieder her, wenn der Schild des Ziels zertrümmert wurde.",
@@ -556,7 +606,8 @@
 		"stats": {
 			"shatter": 13.8,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_1"
 	},
 	"bigsword_ice_ssr_star_2": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -567,7 +618,8 @@
 		"stats": {
 			"shatter": 13.8,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_2"
 	},
 	"bigsword_ice_ssr_star_3": {
 		"advancement": "Gewährt beim Wechsel zu dieser Waffe einen Eisschild in Höhe von <shuzhi>10%</> der max. LP. Abklingzeit: <shuzhi>20</> Sek. Der Eisschild hält bis zu <shuzhi>10</> Sek. lang an.",
@@ -578,7 +630,8 @@
 		"stats": {
 			"shatter": 13.8,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_3"
 	},
 	"bigsword_ice_ssr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -589,7 +642,8 @@
 		"stats": {
 			"shatter": 13.8,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_4"
 	},
 	"bigsword_ice_ssr_star_5": {
 		"advancement": "Erhöht den Schaden und „Zertrümmern“ um <shuzhi>50%</>, während der Schild aktiv ist.",
@@ -600,7 +654,8 @@
 		"stats": {
 			"shatter": 16.1,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_5"
 	},
 	"bigsword_ice_ssr_star_6": {
 		"advancement": "Gewährt beim Wechsel zu dieser Waffe einen Eisschild in Höhe von <shuzhi>20%</> der max. LP sowie Immunität gegen Kontrolleffekte, während der Schild aktiv ist. Abklingzeit: <shuzhi>20</> Sek. Der Eisschild hält bis zu <shuzhi>10</> Sek. lang an.",
@@ -611,7 +666,8 @@
 		"stats": {
 			"shatter": 16.1,
 			"charge": 4
-		}
+		},
+		"id": "bigsword_ice_ssr_star_6"
 	},
 	"bow_ice_ssr_star_0": {
 		"numbers": [],
@@ -621,7 +677,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_0"
 	},
 	"bow_ice_ssr_star_1": {
 		"advancement": "Gewährt jedes Mal, wenn der durch einen Ausweichangriff abgeschossene Pfeil ein Ziel trifft, einen Stapel von „Spitzer Pfeil“. Jeder Stapel erhöht den Schaden für <shuzhi>15</> Sek. um <shuzhi>5%</>. Der Effekt kann bis zu <shuzhi>3</>-mal gestapelt werden.",
@@ -632,7 +689,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_1"
 	},
 	"bow_ice_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -643,7 +701,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_2"
 	},
 	"bow_ice_ssr_star_3": {
 		"advancement": "Bei Ausweichangriffen werden <shuzhi>3</> aufgeladene Pfeile abgeschossen.",
@@ -654,7 +713,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_3"
 	},
 	"bow_ice_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -665,7 +725,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_4"
 	},
 	"bow_ice_ssr_star_5": {
 		"advancement": "„Pfeilhagel“ hält doppelt so lang an und verlangsamt Ziele um <shuzhi>25%</>.",
@@ -676,7 +737,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_5"
 	},
 	"bow_ice_ssr_star_6": {
 		"advancement": "„Spitzer Pfeil“ kann bis zu <shuzhi>5</>-mal gestapelt werden. Treffer mit „Aufgeladener Pfeil“ gewähren sofort <shuzhi>3</> und Kopfschüsse <shuzhi>5</> Stapel.",
@@ -687,7 +749,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 11.5
-		}
+		},
+		"id": "bow_ice_ssr_star_6"
 	},
 	"stave_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht den Frost-ANG um <shuzhi>15%</> und den Frostwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Frostsegnung</>: Wenn „Segnungsresonanz“ aktiv ist, wird der Frost-ANG des gesamten Teams um <shuzhi>5%</> erhöht.",
@@ -698,7 +761,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_0"
 	},
 	"stave_ice_ssr_star_1": {
 		"advancement": "Beschwört nach dem Ausweichen eine heilende Biene, die dem Anwender folgt und den Verbündeten mit den prozentual niedrigsten LP innerhalb von <shuzhi>15</> Metern heilt. Heilt jedes Mal um <shuzhi>25%</> des ANG und stellt <shuzhi>50</> Waffenladungspunkte wieder her. Hält <shuzhi>25</> Sek. an. Abklingzeit: <shuzhi>25</> Sek.",
@@ -709,7 +773,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_1"
 	},
 	"stave_ice_ssr_star_2": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -720,7 +785,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_2"
 	},
 	"stave_ice_ssr_star_3": {
 		"advancement": "Entfernt mit <yellow_lbl_15_1>Heiligtum</> oder Entladungsfähigkeiten Debuffs von Zielen. Kann trotz Kontrolleffekten verwendet werden. Erhöht Zertrümmern und den verursachten Schaden von allen Teammitgliedern in Reichweite um <shuzhi>20%</> und gewährt ihnen Immunität gegen Kontrolleffekte und Zertrümmern.",
@@ -731,7 +797,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_3"
 	},
 	"stave_ice_ssr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -742,7 +809,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_4"
 	},
 	"stave_ice_ssr_star_5": {
 		"advancement": "Erhöht den Heilungseffekt um <shuzhi>15%</> und zusätzlich um <shuzhi>20%</>, wenn Ziele mit weniger als <shuzhi>60%</> LP geheilt werden.",
@@ -753,7 +821,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_5"
 	},
 	"stave_ice_ssr_star_6": {
 		"advancement": "Wenn eine heilende Biene beschworen wird oder den Kampf verlässt, heilt der Anwender alle Verbündeten um <shuzhi>100%</> des eigenen ANG. Alle Verbündeten im Umkreis von <shuzhi>10</> Metern um die Biene erhalten außerdem einen Schadens- sowie einen Heilungsbonus in Höhe von <shuzhi>15%</> (nicht stapelbar).",
@@ -764,7 +833,8 @@
 		"stats": {
 			"shatter": 4,
 			"charge": 12.5
-		}
+		},
+		"id": "stave_ice_ssr_star_6"
 	},
 	"sickle_fire_ssr_star_0": {
 		"numbers": [],
@@ -774,7 +844,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_0"
 	},
 	"sickle_fire_ssr_star_1": {
 		"advancement": "Erhöht Zertrümmern um <shuzhi>15%</>. Wenn der Schild des Ziels zertrümmert wurde, erleidet das Ziel <shuzhi>15</> Sek. lang pro Sek. Flammenschaden in Höhe von <shuzhi>120%</> des ANG.",
@@ -785,7 +856,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_1"
 	},
 	"sickle_fire_ssr_star_2": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -796,7 +868,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_2"
 	},
 	"sickle_fire_ssr_star_3": {
 		"advancement": "Erhöht den verursachten Schaden für jedes gegnerische Ziel innerhalb von <shuzhi>6</> Metern um <shuzhi>15%</> (bis zu <shuzhi>30%</>).",
@@ -807,7 +880,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_3"
 	},
 	"sickle_fire_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -818,7 +892,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_4"
 	},
 	"sickle_fire_ssr_star_5": {
 		"advancement": "Erhöht den Schaden gegen LP-Schilde oder Gegner mit Schild um <shuzhi>100%</>.",
@@ -829,7 +904,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_5"
 	},
 	"sickle_fire_ssr_star_6": {
 		"advancement": "Erhöht den verursachten Schaden für jeden getöteten Gegner <shuzhi>30</> Sek. lang um <shuzhi>10%</>. Kann bis zu <shuzhi>3</>-mal gestapelt werden.",
@@ -840,7 +916,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 5
-		}
+		},
+		"id": "sickle_fire_ssr_star_6"
 	},
 	"gun_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht Flammen-ANG um <shuzhi>15%</> und Flammenwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
@@ -851,7 +928,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_0"
 	},
 	"gun_fire_ssr_star_1": {
 		"advancement": "Jede Runde Sperrfeuer fügt zusätzlichen Schaden in Höhe von <shuzhi>{0}%</> der aktuellen LP des Ziels zu. Kann max. <shuzhi>{1}%</> des ANG betragen.",
@@ -866,7 +944,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_1"
 	},
 	"gun_fire_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -877,7 +956,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_2"
 	},
 	"gun_fire_ssr_star_3": {
 		"advancement": "Die Variantenfähigkeit „Schweres Sperrfeuer“ und der Ausweichangriff „Nahkampf“ verursachen <ComLblGreen>Ionenversengung</> bei Zielen, die bereits verbrannt wurden, und fügen ihnen für <shuzhi>10</> Sek. pro Sek. Flammenschaden in Höhe von <shuzhi>40%</> des ANG zu.",
@@ -888,7 +968,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_3"
 	},
 	"gun_fire_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -899,7 +980,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_4"
 	},
 	"gun_fire_ssr_star_5": {
 		"advancement": "Der von <ComLblGreen>Ionenversengung</> verursachte Schaden wird auf <shuzhi>60%</> des ANG erhöht. Erfolgreiche Angriffe mit der Ausweichfähigkeit einer beliebigen Waffe setzen die Dauer von <ComLblGreen>Ionenversengung</> zurück.",
@@ -910,7 +992,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_5"
 	},
 	"gun_fire_ssr_star_6": {
 		"advancement": "<ComLblGreen>Sperrfeuer</> verfügt über einen <shuzhi>15</> Sek. anhaltenden Verbrenneneffekt. Erfolgreiche Angriffe mit den Ausweichfähigkeiten von Waffen verringern die Abklingzeit von <ComLblGreen>Sperrfeuer</> um <shuzhi>4</> Sek. Abklingzeit dieses Effekts: <shuzhi>1,5</> Sek. Der DoT durch Verbrennungen der Ausweichfähigkeiten löst ebenfalls einen Effekt für Abklingzeitverringerung aus.",
@@ -921,7 +1004,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 10
-		}
+		},
+		"id": "gun_fire_ssr_star_6"
 	},
 	"sword_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physische Resonanz</>: Erhöht den physischen ANG um <shuzhi>15%</> und den physischen Widerstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
@@ -932,7 +1016,8 @@
 		"stats": {
 			"shatter": 7.5,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_0"
 	},
 	"sword_physic_ssr_star_1": {
 		"advancement": "Nachdem ein Ziel mit einer Fähigkeit oder Entladungsfähigkeit getroffen wurde, wird 1 Stapel des folgenden Buffs gewährt: Erhöht den verursachten Schaden <shuzhi>25</> Sek. lang um <shuzhi>8%</>. Der Effekt kann bis zu <shuzhi>3</>-mal gestapelt werden (max. 1 Stapel pro Verwendung der Fähigkeit).",
@@ -947,7 +1032,8 @@
 		"stats": {
 			"shatter": 7.5,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_1"
 	},
 	"sword_physic_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -958,7 +1044,8 @@
 		"stats": {
 			"shatter": 7.5,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_2"
 	},
 	"sword_physic_ssr_star_3": {
 		"advancement": "Wenn ein Ziel mit Fähigkeiten oder Entladungsfähigkeiten getroffen wird, wird dem Ziel ein Stapel „Kriegswunden“ zugefügt: Erhöht den erlittenen physischen Schaden und Zertrümmern von physischen Waffen <shuzhi>{1}</> Sek. lang um <shuzhi>{0}%</>. Kann bis zu <shuzhi>1</>-mal gestapelt werden.",
@@ -973,7 +1060,8 @@
 		"stats": {
 			"shatter": 8.2,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_3"
 	},
 	"sword_physic_ssr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -984,7 +1072,8 @@
 		"stats": {
 			"shatter": 8.2,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_4"
 	},
 	"sword_physic_ssr_star_5": {
 		"advancement": "Werden Ziele mit Fähigkeiten oder Entladungsfähigkeiten getroffen, gewährt dies einen Fähigkeitsschadensbonus, der den Schaden aller Waffenfähigkeiten <shuzhi>{1}</> Sek. lang um <shuzhi>{0}%</> erhöht. Dieser Effekt kann nicht gestapelt werden.",
@@ -999,7 +1088,8 @@
 		"stats": {
 			"shatter": 8.2,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_5"
 	},
 	"sword_physic_ssr_star_6": {
 		"advancement": "Fähigkeiten, die das gleiche Ziel treffen, haben keinen verringerten Schaden mehr. Der Einsatz von „Guren-Klinge“ oder einer Entladungsfähigkeit fügt allen Zielen mit Kriegswunden im Umkreis von 8 Metern <shuzhi>1</> weiteren Stapel „Kriegswunde“ zu.",
@@ -1010,7 +1100,8 @@
 		"stats": {
 			"shatter": 8.2,
 			"charge": 12
-		}
+		},
+		"id": "sword_physic_ssr_star_6"
 	},
 	"darts_physic_ssr_star_0": {
 		"numbers": [],
@@ -1020,7 +1111,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_0"
 	},
 	"darts_physic_ssr_star_1": {
 		"advancement": "Erhöht den verursachten Schaden und alle elementaren Zertrümmern-Effekte auf Zielen innerhalb der Reichweite von <ComLblGreen>Der blühende Tod</> um <shuzhi>30%</>.",
@@ -1031,7 +1123,8 @@
 		"stats": {
 			"shatter": 11.4,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_1"
 	},
 	"darts_physic_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1042,7 +1135,8 @@
 		"stats": {
 			"shatter": 11.4,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_2"
 	},
 	"darts_physic_ssr_star_3": {
 		"advancement": "Erhöht „Zertrümmern“ um <shuzhi>15%</> und setzt alle Waffenfähigkeit-Abklingzeiten zurück, wenn der Schild des Ziels zertrümmert wird. Kann nur einmal pro <shuzhi>30</> Sek. ausgelöst werden.",
@@ -1053,7 +1147,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_3"
 	},
 	"darts_physic_ssr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1064,7 +1159,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_4"
 	},
 	"darts_physic_ssr_star_5": {
 		"advancement": "Der Angriff auf ein Ziel mit „Verwunden“ verlängert dessen Dauer um zusätzliche <shuzhi>7</> Sek. Dieser Effekt kann nur einmal ausgelöst werden.",
@@ -1075,7 +1171,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_5"
 	},
 	"darts_physic_ssr_star_6": {
 		"advancement": "Gewährt nach der Verwendung von <ComLblGreen>Der blühende Tod</> für die nächsten <shuzhi>8</> Sek. eine kritische Trefferchance von 100%.",
@@ -1086,7 +1183,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 6
-		}
+		},
+		"id": "darts_physic_ssr_star_6"
 	},
 	"cube_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flammenreaktion</>: Erhöht den Flammen-ANG um <shuzhi>20%</> und den Flammenwiderstand um <shuzhi>40%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n<shuzhi>Flammensegnung</>: Wenn „Segnungsresonanz“ aktiv ist, wird der Flammen-ANG des gesamten Teams um <shuzhi>5%</> erhöht.",
@@ -1097,7 +1195,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_0"
 	},
 	"cube_fire_ssr_star_1": {
 		"advancement": "Verursacht Schaden und bringt eine Heilkugel hervor, die <shuzhi>20</> Sek. anhält und LP in Höhe von <shuzhi>60%</> des ANG des Teammitglieds wiederherstellt, das sie aufhebt. Abklingzeit: <shuzhi>2</> Sek.",
@@ -1108,7 +1207,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_1"
 	},
 	"cube_fire_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1119,7 +1219,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_2"
 	},
 	"cube_fire_ssr_star_3": {
 		"advancement": "Verringert die Abklingzeit von Fähigkeiten von <shuzhi>60</> auf <shuzhi>30</> Sek. Stellt pro Sek. LP in Höhe von <shuzhi>30%</> des ANG wieder her, solange der Schild aktiv ist.",
@@ -1130,7 +1231,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_3"
 	},
 	"cube_fire_ssr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1141,7 +1243,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_4"
 	},
 	"cube_fire_ssr_star_5": {
 		"advancement": "Wenn der Anwender einem Ziel Schaden zufügt, wird eine Schadenskugel hervorgebracht, die <shuzhi>20</> Sek. lang anhält und allen Schaden und alle Heilung, die von dem Teammitglied verursacht werden, das sie aufhebt, für <shuzhi>30</> Sek. um <shuzhi>2%</> erhöht. Kann bis zu <shuzhi>10</>-mal gestapelt werden. Die Abklingzeit der Fähigkeit beträgt <shuzhi>2,5</> Sek.",
@@ -1152,7 +1255,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_5"
 	},
 	"cube_fire_ssr_star_6": {
 		"advancement": "Die Verwendung einer Fähigkeit bringt Heilkugeln und Schadenskugeln in der Menge der Omnium-Würfel hervor.",
@@ -1163,7 +1267,8 @@
 		"stats": {
 			"shatter": 5,
 			"charge": 13
-		}
+		},
+		"id": "cube_fire_ssr_star_6"
 	},
 	"dgun_thunder_ssr_star_0": {
 		"numbers": [],
@@ -1173,7 +1278,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_0"
 	},
 	"dgun_thunder_ssr_star_1": {
 		"advancement": "Löst eine elektrische Explosion auf dem Ziel aus, wenn es kritisch getroffen wird, die dem Ziel und Gegnern in der Nähe zusätzlichen Schaden in Höhe von <shuzhi>30%</> des ANG zufügt. Abklingzeit: <shuzhi>0,2</> Sek.",
@@ -1184,7 +1290,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_1"
 	},
 	"dgun_thunder_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1195,7 +1302,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_2"
 	},
 	"dgun_thunder_ssr_star_3": {
 		"advancement": "Erhöht die kritische Trefferrate gegen elektrisierte Ziele um <shuzhi>40%</>. Elektrische Explosionen verlängern die Dauer der Elektrisierung um <shuzhi>0,5</> Sek., bis max. <shuzhi>5</> Sek.",
@@ -1206,7 +1314,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_3"
 	},
 	"dgun_thunder_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1217,7 +1326,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_4"
 	},
 	"dgun_thunder_ssr_star_5": {
 		"advancement": "„Elektrofeld“ hält doppelt so lang an und zieht Ziele in die Mitte des Angriffs.",
@@ -1228,7 +1338,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_5"
 	},
 	"dgun_thunder_ssr_star_6": {
 		"advancement": "Das Auslösen einer elektrischen Explosion verringert die Abklingzeiten von Fähigkeiten um <shuzhi>1</> Sek.",
@@ -1239,7 +1350,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 10.7
-		}
+		},
+		"id": "dgun_thunder_ssr_star_6"
 	},
 	"ShieldAxe_Fire_ssr_star_0": {
 		"numbers": [],
@@ -1249,7 +1361,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_0"
 	},
 	"ShieldAxe_Fire_ssr_star_1": {
 		"advancement": "Erhalte nach Einsatz von Entladung einen Stapel „Starker Schild“: „Brodelnder Zorn“ gewährt einen Stapel „Starker Schild“. In Schildform gewähren Ausweich- und Variantenfähigkeiten einen Stapel „Starker Schild“, der <shuzhi>15</> Sek. lang die Schadensreduktion um je <shuzhi>10%</> erhöht. Kann bis zu <shuzhi>3</>-mal gestapelt werden. Beim Wechsel zur Axtform werden alle Stapel von „Starker Schild“ in „Scharfe Axt“ umgewandelt; diese Stapel erhöhen <shuzhi>15</> Sek. lang den verursachten Schaden um jeweils <shuzhi>15%</>. Ein Waffenwechsel beendet den Effekt.",
@@ -1260,7 +1373,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_1"
 	},
 	"ShieldAxe_Fire_ssr_star_2": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1271,7 +1385,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_2"
 	},
 	"ShieldAxe_Fire_ssr_star_3": {
 		"advancement": "In Schildform fügen Varianten-/Ausweichangriffe Zielen zusätzlichen Schaden in Höhe von <shuzhi>4%</> der aktuellen LP des Anwenders zu.",
@@ -1282,7 +1397,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_3"
 	},
 	"ShieldAxe_Fire_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1293,7 +1409,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_4"
 	},
 	"ShieldAxe_Fire_ssr_star_5": {
 		"advancement": "Gewährt nach dem Wechsel zur Schildaxt <shuzhi>30%</> Schadensreduktion, die alle <shuzhi>3</> Sek. um <shuzhi>10%</> abnimmt (Minimum: <shuzhi>10%</>). Beim Waffenwechsel wird der Effekt beendet. Abklingzeit: <shuzhi>30</> Sek.",
@@ -1304,7 +1421,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_5"
 	},
 	"ShieldAxe_Fire_ssr_star_6": {
 		"advancement": "Verbessert Wechselfähigkeiten.\r\nVerbessert Schildumwandlung: Erhöht den verursachten Fähigkeitsschaden um <shuzhi>60%</> und erweitert den Radius der Flammenzone um <shuzhi>30%</>.\r\nVerbessert Axtumwandlung: Verfügt über keine gemeinsame Abklingzeit mit Schildumwandlung. Wandelt nach Einsetzen dieser Fähigkeit <shuzhi>5</> Sek. lang erlittenen Schaden in LP um (bis maximal <shuzhi>15%</> der max. LP des Anwenders).",
@@ -1315,7 +1433,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 10
-		}
+		},
+		"id": "ShieldAxe_Fire_ssr_star_6"
 	},
 	"Mark_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Wächter im Teamspiel</>: Wenn der Anwender „Schweres-System-Schlag“, „Formwechsel“ oder „Maximale Feuerkraft“ auslöst, erleidet er für <shuzhi>10</> Sek. <shuzhi>40%</> des erlittenen Schadens des verbündeten Wanderers mit den niedrigsten LP. Danach stellt der Anwender <shuzhi>10%</> der verlorenen LP wieder her. Wird nur ausgelöst, wenn <shuzhi>Standhaftigkeit-Resonanz</> aktiv ist. Der Effekt kann nicht beendet oder erneut ausgelöst werden, bis er geendet hat.\r\n<shuzhi>Effekte im Solospiel</>: Gewährt <shuzhi>50%</> physische Schadensreduktion in „Schweres-System“-Form.\r\n<shuzhi>„Schweres-System-Schild“</>: Gewährt <shuzhi>1</> „Schweres-System-Energiepunkt“, wenn „Schweres-System-Angriff“, „Dreschende Klinge“ oder „Spaltender Schnitt“ das Ziel treffen. Bei <shuzhi>20</> Punkten werden LP in Höhe von <shuzhi>20%</> in „Schweres-System-Schild“ umgewandelt (nicht mehr als das <shuzhi>1,5</>fache der max. LP, die Heilung wird währenddessen um 50% verringert). Der Schild hält <shuzhi>15</> Sek. an. „Schweres-System-Schild“ kann nicht unter <shuzhi>10%</> LP ausgelöst werden. Wenn der Schild endet, werden <shuzhi>66,7%</> des verbleibenden Schildwerts in LP umgewandelt. Treffer gegen verwundbare Ziele gewähren <shuzhi>2</> „Schweres-System-Energiepunkte“. Während „Schweres-System-Schild“ aktiv ist, werden andere LP-Schilde zu „Schweres-System-Schild“ umgewandelt und weitere LP-Schilde können nicht erhalten werden.",
@@ -1326,7 +1445,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_0"
 	},
 	"Mark_physic_ssr_star_1": {
 		"advancement": "Gewährt beim Auslösen von „Schweres-System-Schlag“, „Formwechsel“ oder „Maximale Feuerkraft“ sofort „Schweres-System-Schild“.",
@@ -1337,7 +1457,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_1"
 	},
 	"Mark_physic_ssr_star_2": {
 		"advancement": "Erhöht das LP-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1348,7 +1469,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_2"
 	},
 	"Mark_physic_ssr_star_3": {
 		"advancement": "Gewährt für <shuzhi>20</> Sek. 1 Stapel Endschaden-Bonus in Höhe von <shuzhi>35%</>, wenn „Schweres-System-Schild“ endet, durchbrochen oder erneuert wird. Nicht stapelbar.",
@@ -1359,7 +1481,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_3"
 	},
 	"Mark_physic_ssr_star_4": {
 		"advancement": "Erhöht das LP-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1370,7 +1493,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_4"
 	},
 	"Mark_physic_ssr_star_5": {
 		"advancement": "Wenn „Schweres-System-Schild“ endet, durchbrochen oder erneuert wird, erleiden Ziele in der Nähe Schaden in Höhe von <shuzhi>160%</> des aktuellen ANG +<shuzhi>5%</> der verlorenen LP. Gewährt <shuzhi>50</> Punkte Waffenladung pro Treffer.",
@@ -1381,7 +1505,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_5"
 	},
 	"Mark_physic_ssr_star_6": {
 		"advancement": "Während „Schweres-System-Schild“ wird der physische Widerstand <shuzhi>verdoppelt</> und ein „Hyperkörper“-Effekt gewährt. Wenn während „Schweres-System-Schild“ eine Entladungsfähigkeit eingesetzt wird oder die Fähigkeit einer anderen Waffe das Ziel trifft, wird ein weiterer „Schweres-System-Schild“ gewährt.",
@@ -1392,7 +1517,8 @@
 		"stats": {
 			"shatter": 9,
 			"charge": 12
-		}
+		},
+		"id": "Mark_physic_ssr_star_6"
 	},
 	"queen_superpower_ssr_star_0": {
 		"advancement": "<shuzhi>Veränderte Resonanz</>: Erhöht den ANG um <shuzhi>20%</> und den Veränderungswiderstand um <shuzhi>30%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr veränderten Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen veränderten Resonanz- oder Reaktionseffekten gestapelt werden, wobei veränderte Resonanz priorisiert wird.",
@@ -1403,7 +1529,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_0"
 	},
 	"queen_superpower_ssr_star_1": {
 		"advancement": "Die Verwendung einer beliebigen Waffe oder Entladungsfähigkeit gewährt <shuzhi>1</> Elementarkristall (maximal <shuzhi>5</> Kristalle). Alle <shuzhi>6</> Sek. geht <shuzhi>1</> Elementarkristall verloren.\r\nElementarkristalle gewähren einen Endschadensbonus in Höhe von <shuzhi>4%</> der [(<shuzhi>Kristallanzahl</> + <shuzhi>1</>) / <shuzhi>2</>] und zusätzliche Heilung in Höhe von <shuzhi>6%</> der [(<shuzhi>Kristallanzahl</> + <shuzhi>1</>) / <shuzhi>2</>].",
@@ -1418,7 +1545,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_1"
 	},
 	"queen_superpower_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1429,7 +1557,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_2"
 	},
 	"queen_superpower_ssr_star_3": {
 		"advancement": "Wenn „Segnungsresonanz“ nicht aktiv ist und wenn die LP des Ziels unter (<shuzhi>Kristallanzahl</> + <shuzhi>2</>)<shuzhi>%</> sind, kann der Einsatz des <shuzhi>Mondstern-Armbands</> das Ziel sofort hinrichten (funktioniert nicht gegen Wanderer).\r\nWährend „Segnungsresonanz“ aktiv ist und wenn die LP des Ziels unter (<shuzhi>Kristallanzahl</> × <shuzhi>2</> + <shuzhi>2</>)<shuzhi>%</> sind, kann der Einsatz des <shuzhi>Mondstern-Armbands</> das Ziel sofort hinrichten (funktioniert nicht gegen Wanderer).",
@@ -1440,7 +1569,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_3"
 	},
 	"queen_superpower_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1451,7 +1581,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_4"
 	},
 	"queen_superpower_ssr_star_5": {
 		"advancement": "Jede Verwendung von „Streutechnik“ gewährt <shuzhi>1</> Elementarkristall. Alle <shuzhi>20</> Sek. geht <shuzhi>1</> Elementarkristall verloren.\r\nWenn der Anwender tödlichen Schaden erleidet, werden <shuzhi>3</> Elementarkristalle verbraucht, um 1-mal seinen Tod zu verhindern sowie für kurze Zeit Schadensimmunität zu erhalten. Kann <shuzhi>1</>-mal alle <shuzhi>25</> Sek. ausgelöst werden.",
@@ -1465,7 +1596,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_5"
 	},
 	"queen_superpower_ssr_star_6": {
 		"advancement": "Erhöht den Endschaden um <shuzhi>7%</> der [(<shuzhi>Kristallanzahl</> + <shuzhi>3</>) / <shuzhi>2</>].",
@@ -1479,7 +1611,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "queen_superpower_ssr_star_6"
 	},
 	"Rubilia_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Voltresonanz</>: Erhöht den Volt-ANG um <shuzhi>15%</> und den Voltwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Voltresonanz- oder Voltreaktion-Effekten gestapelt werden, wobei Voltresonanz priorisiert wird.",
@@ -1495,7 +1628,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_0"
 	},
 	"Rubilia_thunder_ssr_star_1": {
 		"advancement": "Nachdem <shuzhi>Feedback</> ausgelöst wurde, fügt jeder Krystamax-Dorn für <shuzhi>{0}</> Sek. alle <shuzhi>2</> Sek. Zielen in der Nähe Schaden in Höhe von <shuzhi>66,7%</> des ANG zu.",
@@ -1509,7 +1643,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_1"
 	},
 	"Rubilia_thunder_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1520,7 +1655,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_2"
 	},
 	"Rubilia_thunder_ssr_star_3": {
 		"advancement": "Der Einsatz einer Waffenfähigkeit oder einer Entladungsfähigkeit generiert <shuzhi>1</> Krystamax-Dorn.",
@@ -1535,7 +1671,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_3"
 	},
 	"Rubilia_thunder_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1546,7 +1683,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_4"
 	},
 	"Rubilia_thunder_ssr_star_5": {
 		"advancement": "Erhöht die Wiederherstellung der max. LP von Krystamax-Dornen von <shuzhi>Feedback</> auf <shuzhi>{0}%</>.",
@@ -1560,7 +1698,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_5"
 	},
 	"Rubilia_thunder_ssr_star_6": {
 		"advancement": "Erhöht Voltschaden <shuzhi>{1}</> Sek. lang um zusätzliche <shuzhi>{0}%</>, nachdem Harrahs Umarmung erfolgreich eingesetzt wurde.",
@@ -1575,7 +1714,8 @@
 		"stats": {
 			"shatter": 10,
 			"charge": 12
-		}
+		},
+		"id": "Rubilia_thunder_ssr_star_6"
 	},
 	"Immortal_thunder_ssr_star_0": {
 		"advancement": "Zu Beginn des Kampfes wird „Kampfgeist“ aktiviert, was den Endschaden um <shuzhi>15%</> erhöht und „Zellverfall“ beschleunigt (Ziel verliert alle <shuzhi>5</> Sek. <shuzhi>1%</> der aktuellen LP). Der Effekt „ein Waffenwechsel hebt den Effekt auf“ endet beim Verlassen des Kampfes.\r\n„Zellverfall“ wird angehalten, wenn die LP unter <shuzhi>50%</> sinken, aber die Effekte von „Kampfgeist“ bleiben bestehen. Ein Waffenwechsel hebt den Effekt auf.",
@@ -1586,7 +1726,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_0"
 	},
 	"Immortal_thunder_ssr_star_1": {
 		"advancement": "<shuzhi>Klingenhieb</> fügt zusätzlichen Schaden in Höhe von <shuzhi>80%</> des ANG +<shuzhi>2,5%</> der fehlenden LP zu.\r\nDie Explosion von <shuzhi>Schröpfender Drache</> fügt zusätzlichen Schaden in Höhe von <shuzhi>160%</> des ANG +<shuzhi>5%</> der fehlenden LP zu.\r\n<shuzhi>Kraftfeld</> fügt zusätzlichen Schaden in Höhe von <shuzhi>160%</> des ANG +<shuzhi>5%</> der fehlenden LP zu. Kein DoT kann diesen Effekt auslösen.",
@@ -1597,7 +1738,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_1"
 	},
 	"Immortal_thunder_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1608,7 +1750,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_2"
 	},
 	"Immortal_thunder_ssr_star_3": {
 		"advancement": "Erhöht „Zertrümmern“ um <shuzhi>15%</>. Wenn der Schild des Ziels zertrümmert wird, wird an dessen Standort eine Schröpfbombe platziert, die allen Zielen im umliegenden Bereich sofort Schaden in Höhe von <shuzhi>680%</> des ANG zufügt. Wenn sich nur ein Gegner im Zielgebiet befindet, wird diesem Schaden in Höhe von <shuzhi>1500%</> des ANG zugefügt.",
@@ -1619,7 +1762,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_3"
 	},
 	"Immortal_thunder_ssr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1630,7 +1774,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_4"
 	},
 	"Immortal_thunder_ssr_star_5": {
 		"advancement": "Der Anwender blockt bei einem eingehenden Angriff automatisch für <shuzhi>1</> Sek. Bei Aktivierung werden sofort sämtliche Kontrolleffekte aufgelöst. Der nächste eingehende Angriff, der weniger Schaden als <shuzhi>20%</> der max. LP zufügen würde, wird neutralisiert. Die Verwendung des normalen Angriffs während des Blockens entfesselt einen <shuzhi>Gegenschlag</> auf das Ziel, der Schaden in Höhe von <shuzhi>240%</> des ANG verursacht und es <shuzhi>länger schweben lässt</>. Abklingzeit: <shuzhi>18</> Sek.",
@@ -1641,7 +1786,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_5"
 	},
 	"Immortal_thunder_ssr_star_6": {
 		"advancement": "Beim Betreten des Wirkungsbereichs von <shuzhi>Kraftfeld</> oder <shuzhi>Trugbild</> werden die Effekte von „Kampfgeist“ für <shuzhi>7</> Sek. verstärkt, was den Endschaden um <shuzhi>40%</> erhöht und „Zellverfall“ anhält. Ein Waffenwechsel hebt den Effekt auf.",
@@ -1652,7 +1798,8 @@
 		"stats": {
 			"shatter": 14.3,
 			"charge": 8
-		}
+		},
+		"id": "Immortal_thunder_ssr_star_6"
 	},
 	"Linghan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht den Frost-ANG um <shuzhi>15%</> und den Frostwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Extreme Kälte: Entladen</>: Nach Verwendung von <shuzhi>Schwertkunst: Schatteneis</> wird <shuzhi>{4}</> Sek. lang jede Sekunde Schaden in Höhe von <shuzhi>{0}%</> des Frost-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens verursacht. Mehrfacher Entladungsschaden wird nicht gestapelt und Schaden von „Extreme Kälte“ zählt als Fähigkeitsschaden. Wenn <shuzhi>1</> Volt-/Flammen-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Extreme Kälte“ um das <shuzhi>{5}</>-fache multipliziert. Außerdem wird der Schaden von „Extreme Kälte“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
@@ -1671,7 +1818,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_0"
 	},
 	"Linghan_ice_ssr_star_1": {
 		"advancement": "Nach dem Abfeuern von <shuzhi>Frostklingen</> wird der Frost-ANG des Wanderers um <shuzhi>{0}%</> erhöht und Zielen in der Nähe wird für <shuzhi>{1}</> Sek. jede Sekunde Schaden in Höhe von <shuzhi>104%</> des ANG zugefügt.",
@@ -1686,7 +1834,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_1"
 	},
 	"Linghan_ice_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1697,7 +1846,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_2"
 	},
 	"Linghan_ice_ssr_star_3": {
 		"advancement": "Der Wanderer kann bis zu <shuzhi>4</> <shuzhi>Frostklingen</> erzeugen und der Basismultiplikator des Schadens von <shuzhi>Temperaturabfall</> wird auf <shuzhi>468%</> erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von <shuzhi>{0}</> Sek. von <shuzhi>Temperaturabfall</> betroffen ist, wird dem Ziel zusätzlich ein <shuzhi>Adersiegel</> zugefügt, wodurch es um <shuzhi>{1}%</> verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von <shuzhi>Adersiegel</> erneut Schaden durch <shuzhi>Frostklinge</> erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von <shuzhi>{2}%</> des ANG + <shuzhi>{3}%</> der zu diesem Zeitpunkt verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als <shuzhi>{4}%</> und nicht höher als <shuzhi>{5}%</> des Frost-ANG des Wanderers). Anschließend werden die Effekte von <shuzhi>Adersiegel</> und <shuzhi>Temperaturabfall</> vom Ziel entfernt.",
@@ -1716,7 +1866,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_3"
 	},
 	"Linghan_ice_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1727,7 +1878,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_4"
 	},
 	"Linghan_ice_ssr_star_5": {
 		"advancement": "Der von <shuzhi>Kristallriss</> und <shuzhi>Kalte Luft</> verursachte Schaden wird zusätzlich um <shuzhi>50%</> erhöht. Die Einsatzversuche von <shuzhi>Leichte Schritte</> werden auf <shuzhi>{1}</> erhöht und die Wiederherstellungsrate wird alle <shuzhi>{0}</> Sek. auf <shuzhi>1</> Versuch erhöht.",
@@ -1742,7 +1894,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_5"
 	},
 	"Linghan_ice_ssr_star_6": {
 		"advancement": "Nach dem Einsatz von <shuzhi>Frostklingen</> wird der Effekt von <shuzhi>Temperaturabfall</> auf ein Gebiet angewendet. Zudem fügt er Zielen in der Nähe zusätzlichen Schaden in Höhe von <shuzhi>1170%</> des ANG zu.",
@@ -1753,7 +1906,8 @@
 		"stats": {
 			"shatter": 16,
 			"charge": 8
-		}
+		},
+		"id": "Linghan_ice_ssr_star_6"
 	},
 	"Suspension_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Voltresonanz</>: Erhöht den Volt-ANG um <shuzhi>15%</> und den Voltwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Voltsegnung</>: Erhöht den Volt-ANG des gesamten Teams um <shuzhi>5%</>, wenn Segnungsresonanz aktiv ist.",
@@ -1764,7 +1918,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_0"
 	},
 	"Suspension_thunder_ssr_star_1": {
 		"advancement": "<shuzhi>Impulsverschluss</> und <shuzhi>Teilchenstrahl-Explosion</> erzeugen <shuzhi>1</> Elektrode, die dem Anwender sofort <shuzhi>5</> Stapel „Heilketten-Verbesserung“ gewährt. Außerdem wird eine „Heilkette“ ausgelöst, die Verbündete in der Nähe um <shuzhi>135%</> des ANG des Wanderers heilt.",
@@ -1775,7 +1930,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_1"
 	},
 	"Suspension_thunder_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1786,7 +1942,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_2"
 	},
 	"Suspension_thunder_ssr_star_3": {
 		"advancement": "Alle <shuzhi>6</> Sekunden entfesselt die Elektrode einen <shuzhi>Blitzring</>, der Flächenschaden in Höhe von bis zu <shuzhi>230%</> des ANG verursacht.",
@@ -1797,7 +1954,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_3"
 	},
 	"Suspension_thunder_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1808,7 +1966,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_4"
 	},
 	"Suspension_thunder_ssr_star_5": {
 		"advancement": "Nach dem Einsatz von <shuzhi>Impulsverschluss</> werden der ANG des Wanderers <shuzhi>25</> Sek. lang um (<shuzhi>5</> + (Anzahl der Elektroden × <shuzhi>5</>))% erhöht.",
@@ -1819,7 +1978,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 8
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_5"
 	},
 	"Suspension_thunder_ssr_star_6": {
 		"advancement": "Es können bis zu <shuzhi>2</> Elektroden gleichzeitig aktiv sein. Das Herbeirufen neuer Elektroden ersetzt die am weitesten entfernte.",
@@ -1830,7 +1990,8 @@
 		"stats": {
 			"shatter": 6,
 			"charge": 11
-		}
+		},
+		"id": "Suspension_thunder_ssr_star_6"
 	},
 	"Frigg_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht Frost-ANG um <shuzhi>15%</> und den Frostwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
@@ -1841,7 +2002,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_0"
 	},
 	"Frigg_ice_ssr_star_1": {
 		"advancement": "Erhalte jedes Mal, wenn du innerhalb des Froststurms beliebigen Elementarschaden in Höhe von <shuzhi>550%</> × Frost-ANG zufügst, <shuzhi>1</> Frostigkeitspunkt. Es können bis zu <shuzhi>10</> Frostigkeitspunkte angesammelt werden.\r\nWenn der Froststurm endet, erleiden Gegner innerhalb des Froststurms Bombenschaden in Höhe von Frostigkeitspunkte × Frost-ANG × <shuzhi>95%</>. Nach Verlassen des Froststurms geht alle <shuzhi>3</> Sek. <shuzhi>1</> Frostigkeitspunkt verloren.",
@@ -1852,7 +2014,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_1"
 	},
 	"Frigg_ice_ssr_star_2": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1863,7 +2026,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_2"
 	},
 	"Frigg_ice_ssr_star_3": {
 		"advancement": "Erhöht das Frostigkeit-Limit auf <shuzhi>15</>. Der Einsatz von Entladungsfähigkeit von Frostwaffen innerhalb des Froststurms fügt Gegnern darin Schaden in Höhe von <shuzhi>25%</> des Frost-ANG × (aktuelle Frostigkeit +5) zu.",
@@ -1874,7 +2038,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_3"
 	},
 	"Frigg_ice_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1885,7 +2050,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_4"
 	},
 	"Frigg_ice_ssr_star_5": {
 		"advancement": "Das durch Frostwaffen verursachte „Zertrümmern“ von Schilden innerhalb des Froststurms friert das Ziel für <shuzhi>2</> Sek. ein und fügt ihm zusätzlichen Schaden in Höhe von Frostigkeit × <shuzhi>35%</> des Frost-ANG zu. Der zusätzliche Schaden wird verdoppelt, falls das Ziel nicht eingefroren werden kann.",
@@ -1896,7 +2062,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_5"
 	},
 	"Frigg_ice_ssr_star_6": {
 		"advancement": "Wenn die Frostigkeit <shuzhi>15</> Punkte erreicht und der Anwender sich innerhalb eines Froststurms befindet, erhält er zusätzlich „Froststurm II“, wodurch beim Verwenden von Frostwaffen der Frost-ANG um <shuzhi>25%</> erhöht wird.",
@@ -1907,7 +2074,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 8
-		}
+		},
+		"id": "Frigg_ice_ssr_star_6"
 	},
 	"funnel_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht Flammen-ANG um <shuzhi>15%</> und Flammenwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
@@ -1918,7 +2086,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_0"
 	},
 	"funnel_fire_ssr_star_1": {
 		"advancement": "„Lodern“ erhöht den Schaden von „Spark-Angriff“ um <shuzhi>{0}%</>. Die Fähigkeits-Abklingzeit wird auf <shuzhi>24</> Sek. verringert.",
@@ -1932,7 +2101,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_1"
 	},
 	"funnel_fire_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -1943,7 +2113,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_2"
 	},
 	"funnel_fire_ssr_star_3": {
 		"advancement": "„Lodern“ erhöht den Flammenbonus um <shuzhi>{0}%</> und den Verbrennen-Multiplikator auf <shuzhi>75%</>.",
@@ -1957,7 +2128,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_3"
 	},
 	"funnel_fire_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -1968,7 +2140,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_4"
 	},
 	"funnel_fire_ssr_star_5": {
 		"advancement": "Wenn „Spark-Angriff“ einen Gegner trifft, werden zusätzlich <shuzhi>75</> Waffenladungspunkte wiederhergestellt. Abklingzeit: 0,9 Sek. Wenn „Ultimative Hitze“ aktiv ist, wird „Zertrümmern“ um <shuzhi>25%</> erhöht.",
@@ -1979,7 +2152,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_5"
 	},
 	"funnel_fire_ssr_star_6": {
 		"advancement": "„Lodern“ erhöht den Schaden von Spark-Angriff um <shuzhi>{0}%</> und die Effizienz bei der Hitzegewinnung wird verdoppelt. Die Fähigkeits-Abklingzeit wird auf <shuzhi>16</> Sek. verringert.",
@@ -1993,7 +2167,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 8
-		}
+		},
+		"id": "funnel_fire_ssr_star_6"
 	},
 	"dkatana_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht den Frost-ANG um <shuzhi>{0}%</> und den Frostwiderstand um <shuzhi>{1}%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
@@ -2008,7 +2183,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_0"
 	},
 	"dkatana_ice_ssr_star_1": {
 		"advancement": "Wenn Frostresonanz aktiviert ist, werden pro <shuzhi>5</> eingesetzter Waffenfähigkeiten jeweils die Abklingzeiten aller Waffenfähigkeiten zurückgesetzt. Außerdem wird der Schaden von Flow und Gegenangriff für <shuzhi>{0}</> Sek. <shuzhi>1</>-fach erhöht.",
@@ -2022,7 +2198,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_1"
 	},
 	"dkatana_ice_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -2033,7 +2210,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_2"
 	},
 	"dkatana_ice_ssr_star_3": {
 		"advancement": "Aufgeregter Flow: Erhöht den Schaden des „Schwertschatten: Volt-Welle“ auf <shuzhi>350%</> des Frost-ANG.\r\nStiller Flow: Die Abklingzeit des Schwertschattens „Volt-Welle“ beträgt jetzt <shuzhi>{0}</> Sek.",
@@ -2047,7 +2225,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_3"
 	},
 	"dkatana_ice_ssr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -2058,7 +2237,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_4"
 	},
 	"dkatana_ice_ssr_star_5": {
 		"advancement": "Halte die Zeit an und löse „Trugbild“ aus, wenn „Volt-Welle“ das Ziel trifft. Teilt sich die Abklingzeit mit dem durch Ausweichen ausgelösten „Trugbild“.",
@@ -2069,7 +2249,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_5"
 	},
 	"dkatana_ice_ssr_star_6": {
 		"advancement": "Treffer mit „Volt-Welle“ gegen ein Ziel erhöhen den Frostschaden für <shuzhi>{1}</> Sek. um <shuzhi>{0}%</>.\r\nDurch „Schwertschatten“ ausgelöste Blocks verringern den von gegnerischen Zielen in der Nähe verursachten Frostschaden für <shuzhi>{3}</> Sek. um <shuzhi>{2}%</>.",
@@ -2086,7 +2267,8 @@
 		"stats": {
 			"shatter": 13.9,
 			"charge": 8
-		}
+		},
+		"id": "dkatana_ice_ssr_star_6"
 	},
 	"fan_superpower_ssr_star_0": {
 		"advancement": "Die Kombination von „Schattenweben“ mit anderen Waffen kann den Effekt <shuzhi>Waffenmeister</> erzeugen.\r\nEpiphyllum erscheint zufällig beim Ziel und explodiert innerhalb von <shuzhi>1–3</> Sek. und verursacht dabei <shuzhi>37.5%</> Flächenschaden.",
@@ -2097,7 +2279,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_0"
 	},
 	"fan_superpower_ssr_star_1": {
 		"advancement": "Normale Angriffe verursachen jetzt bei Treffern Flächenschaden.\r\nWenn es ein weiteres Epiphyllum im Explosionsbereich des Epiphyllums gibt, erhöht sich der Schaden jeder der folgenden Epiphyllum-Explosionen um <shuzhi>{0}%</>, bis zu maximal <shuzhi>{1}%</>.\r\nDas Intervall, in dem Epiphyllum durch <shuzhi>Reich des Mondlichts</> entsteht, ist jetzt auf <shuzhi>0,5</> Sek. reduziert.",
@@ -2112,7 +2295,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_1"
 	},
 	"fan_superpower_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -2123,7 +2307,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_2"
 	},
 	"fan_superpower_ssr_star_3": {
 		"advancement": "Das Intervall, in dem Epiphyllum durch <shuzhi>Reich des Mondlichts</> entsteht, ist jetzt auf <shuzhi>0,3</> Sek. reduziert.\r\nEpiphyllen binden sich an Gegner.\r\nDie Dauer von <shuzhi>Reich des Mondlichts</> wurde auf <shuzhi>20</> Sek. erhöht.",
@@ -2134,7 +2319,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_3"
 	},
 	"fan_superpower_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -2145,7 +2331,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_4"
 	},
 	"fan_superpower_ssr_star_5": {
 		"advancement": "Erhalte, während du unter dem Effekt von <shuzhi>Reich des Mondlichts</> stehst, jede Sek. <shuzhi>30</> Waffenladung und erhöhe den durch Entladungsfähigkeiten verursachten Schaden um <shuzhi>{0}%</>.",
@@ -2159,7 +2346,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_5"
 	},
 	"fan_superpower_ssr_star_6": {
 		"advancement": "Wechsle die Modi vom <shuzhi>Reich des Mondlichtes</> bis zu <shuzhi>2</>-mal. Erhalte <shuzhi>1</> Versuch nach der Fähigkeiten-Abklingzeit und <shuzhi>1</> weiteren Versuch durch Ladungsentladung.\r\nVerwende eine beliebige Waffenentladung <shuzhi>3</>-mal, um <shuzhi>+1</> auf die <shuzhi>Reich des Mondlichtes</>-Anzahl zu erhalten. Wirkt auch, wenn sich „Schattenweben“ im Nebenhand-Slot befindet.\r\nUnter dem Effekt von <shuzhi>Reich des Mondlichts</> erhöht sich der Angriff um <shuzhi>{0}%</>.",
@@ -2173,7 +2361,8 @@
 		"stats": {
 			"shatter": 11.5,
 			"charge": 11.5
-		}
+		},
+		"id": "fan_superpower_ssr_star_6"
 	},
 	"arm_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physische Resonanz</>: Erhöht den physischen ANG um <shuzhi>{0}%</> und den physischen Widerstand um <shuzhi>{1}%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Physische Segnung</>: Erhöht den physischen ANG des gesamten Teams um <shuzhi>5%</>, wenn Segnungsresonanz aktiv ist.",
@@ -2188,7 +2377,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_0"
 	},
 	"arm_physic_ssr_star_1": {
 		"advancement": "Beim Auslösen einer beliebigen Waffenfähigkeit oder Entladung wird die Wächterdauer erneuert, wenn du die maximale Anzahl an Wächtern besitzt. Der Gegner erleidet physischen Schaden in Höhe von <shuzhi>{0}%</> des physischen ANG × Anzahl der Wächter zugefügt. Bis zu 8 Wächter, wenn der Effekt von „Segnung“ aktiv ist, und bis zu 6 Wächter ohne „Segnung“.",
@@ -2202,7 +2392,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_1"
 	},
 	"arm_physic_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -2213,7 +2404,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_2"
 	},
 	"arm_physic_ssr_star_3": {
 		"advancement": "Erhöht den gesamten durch Wächter verursachten Schaden um <shuzhi>20%</> und den Endschaden des bewachten Ziels für <shuzhi>{1} Sek.</> um <shuzhi>{0}%</>, wenn der Anwender unter dem Effekt von „Segnungsresonanz“ eine beliebige Waffenfähigkeit oder Entladung auslöst.",
@@ -2228,7 +2420,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_3"
 	},
 	"arm_physic_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -2239,7 +2432,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_4"
 	},
 	"arm_physic_ssr_star_5": {
 		"advancement": "Vergebungswächter: Nachdem du 5-mal „Resonanz“ ausgelöst hast, erhältst du <shuzhi>1</> Chance, tödlichen Schaden für den Anwender und das bewachte Ziel zu negieren. Nachdem ein Teammitglied tödlichen Schaden negiert hat, verbraucht es Vergebungswächter und stellt <shuzhi>{0}%</> der max. LP wieder her. Nicht in der Apex-Liga verfügbar.\r\nErleuchtungswächter: Nachdem der Anwender 5-mal „Resonanz“ ausgelöst hat und wenn er Erleuchtungswächter besitzt, erhält er <shuzhi>2</> Chancen, tödlichen Schaden zu negieren. Kann bis zu <shuzhi>5</>-mal gestapelt werden. Nachdem der Anwender tödlichen Schaden negiert hat, wird 1 Stapel Erleuchtungswächter verbraucht und <shuzhi>{0}%</> der max. LP werden wiederhergestellt. Nicht in der Apex-Liga verfügbar.",
@@ -2253,7 +2447,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_5"
 	},
 	"arm_physic_ssr_star_6": {
 		"advancement": "Wenn du eine beliebige Waffenfähigkeit oder Entladung auslöst, hängt die Erhöhung des Endschadens und der Heilung von der Anzahl der Wächter ab. Jeder Wächter erhöht den endgültigen Schaden und Heilung um <shuzhi>{0}%</>, bis zu <shuzhi>{1}%</> für <shuzhi>{2} Sek.</>",
@@ -2269,7 +2464,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 10
-		}
+		},
+		"id": "arm_physic_ssr_star_6"
 	},
 	"tianlang_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Voltresonanz</>: Erhöht den Volt-ANG um <shuzhi>15%</> und den Voltwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Effekte desselben Typs können nicht gestapelt werden.",
@@ -2280,7 +2476,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_0"
 	},
 	"tianlang_thunder_ssr_star_1": {
 		"advancement": "Erhalte 1 Stapel Superleiter pro Ladung: Erhöht die maximalen LP um <shuzhi>{0}%</> und den erlittenen Schaden um <shuzhi>{1}%</> – es sei denn, der Wert der aktuellen LP ist niedriger als das {2}fache des Volt-ANG und es ist kein LP-Schild ausgerüstet. Bis zu <shuzhi>8</>-mal stapelbar. 1 Stapel wird abgezogen, wenn innerhalb von <shuzhi>{3}</> Sekunden kein Superleiter aktualisiert wird.",
@@ -2297,7 +2494,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_1"
 	},
 	"tianlang_thunder_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -2308,7 +2506,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_2"
 	},
 	"tianlang_thunder_ssr_star_3": {
 		"advancement": "Entlade eine beliebige Entladungs- oder Volt-Waffenfähigkeit, um <shuzhi>2</> Ladungen zu erhalten. Gewährt Hyperkörper, wenn Superleiter <shuzhi>8</>-fach gestapelt wurde.",
@@ -2319,7 +2518,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_3"
 	},
 	"tianlang_thunder_ssr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -2330,7 +2530,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_4"
 	},
 	"tianlang_thunder_ssr_star_5": {
 		"advancement": "Jeder Superleiter-Stapel erhöht den Endschaden um <shuzhi>{0}%</>.",
@@ -2344,7 +2545,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_5"
 	},
 	"tianlang_thunder_ssr_star_6": {
 		"advancement": "Verstärke Dubhes Voltsinn: Erhalte für jede weitere erspürte Voltwaffe <shuzhi>{1}</> Sek. lang <shuzhi>{0}%</> Volt-Schadensbonus.",
@@ -2359,7 +2561,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 8
-		}
+		},
+		"id": "tianlang_thunder_ssr_star_6"
 	},
 	"umbrella_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht Flammen-ANG um <shuzhi>15%</> und Flammenwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
@@ -2373,7 +2576,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_0"
 	},
 	"umbrella_fire_ssr_star_1": {
 		"advancement": "<shuzhi>Purpurstärke</>: Wenn Purpurköpfchen ausgerüstet ist, werden <red>Munitionskosten</>, Schaden, Ladung und Zertrümmern-Effekte anderer Waffen mit <shuzhi>Vielfeder-Sonnenschirm</> multipliziert.\r\n<shuzhi>Glühendes Feuer</>: Wenn Ziele in der Nähe „Verbrennen“ auslösen oder Schaden durch „Gleißender Aufprall“ erleiden, werden <shuzhi>30%</> des Schadens an die <shuzhi>3</> Einheiten mit dem höchsten LP-Prozentsatz übertragen (das Ziel eingeschlossen).",
@@ -2384,7 +2588,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_1"
 	},
 	"umbrella_fire_ssr_star_2": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -2395,7 +2600,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_2"
 	},
 	"umbrella_fire_ssr_star_3": {
 		"advancement": "Passiv 1: Bei Verwendung eines beliebigen Entladungsangriffs einer Waffe oder beim Zertrümmern lösen alle Sonnenschirme in der Nähe <shuzhi>1</>-mal „Gleißender Aufprall“ in Höhe von <shuzhi>30%</> aus. Verringert den ANG von Gegnern in der Nähe der Sonnenschirme um <shuzhi>15%</>. Im Kampf erscheinen in der Nähe des Ziels sofort <shuzhi>3</> Sonnenschirme, nachdem das erste Mal Schaden verursacht wird.",
@@ -2406,7 +2612,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_3"
 	},
 	"umbrella_fire_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -2417,7 +2624,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_4"
 	},
 	"umbrella_fire_ssr_star_5": {
 		"advancement": "„Gleißender Aufprall“ und der übertragene Schaden ignorieren <shuzhi>60%</> des Flammenwiderstands des Ziels.\r\nDer von „Korrosion“ verursachte Flammenschaden wird um <shuzhi>{0}%</> erhöht.",
@@ -2431,7 +2639,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_5"
 	},
 	"umbrella_fire_ssr_star_6": {
 		"advancement": "Erhöht den von „Tanzende Flammen“ und „Schwungschlag“ verursachten Schaden um <shuzhi>{0}%</>.\r\nDer Multiplikator für schnell rotierende Sonnenschirme, „Phönixhieb“ und „Gleißender Aufprall“ beträgt jetzt „Vielfeder-Sonnenschirm“ + <shuzhi>2</>.",
@@ -2445,7 +2654,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 8
-		}
+		},
+		"id": "umbrella_fire_ssr_star_6"
 	},
 	"snipe_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht Flammen-ANG um <shuzhi>15%</> und Flammenwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
@@ -2456,7 +2666,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_0"
 	},
 	"snipe_fire_ssr_star_1": {
 		"advancement": "Wird ein Ziel <shuzhi>2</>-mal mit „Kreuzschuss“ getroffen, wird ein <shuzhi>optischer Raum</> erschaffen, der für <shuzhi>12</> Sek. am Zielort besteht. Hat ein Gegner im optischen Raum die Verbrennen-Mechanik ausgelöst, werden <shuzhi>2</> weitere Instanzen der Verbrennen-Mechanik ausgelöst. Wenn ein Gegner den optischen Raum verlässt, wird seine Geschwindigkeit <shuzhi>2,5</> Sek. lang um <shuzhi>80%</> verringert. Abklingzeit: <shuzhi>12</> Sek.\r\nZiele von „Kreuzschuss“ geraten <shuzhi>1,5</> Sek. lang in Panik (reduziert die Geschwindigkeit um <shuzhi>80%</>). Abklingzeit: <shuzhi>4</> Sek.",
@@ -2467,7 +2678,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_1"
 	},
 	"snipe_fire_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -2478,7 +2690,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_2"
 	},
 	"snipe_fire_ssr_star_3": {
 		"advancement": "Wenn „Kreuzschuss“ einen krit. Treffer landet, werden LP in Höhe von <shuzhi>50%</> des verursachten Schadens (kann <shuzhi>15%</> der eigenen max. LP nicht überschreiten, Schaden von „Gasexplosion“ nicht eingerechnet) und <shuzhi>50</> Waffenladung wiederhergestellt.\r\nJeder Stapel von „Ruhiges Herz“ erhöht die endgültige krit. Trefferrate auf <shuzhi>{0}%</>, bis zu maximal <shuzhi>{1}%</>, und wandelt bis zu <shuzhi>{2}%</> des krit. Schadens um.",
@@ -2494,7 +2707,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_3"
 	},
 	"snipe_fire_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -2505,7 +2719,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_4"
 	},
 	"snipe_fire_ssr_star_5": {
 		"advancement": "<shuzhi>Rücksichtslose Bombe</> Verbesserung: Im Brandverbesserungszustand wird der Brandschaden an Zielen auf <shuzhi>30%</> erhöht.\r\n<shuzhi>Hinterlistige Bombe</> Verbesserung: Schaden durch eine Gasexplosion ignoriert <shuzhi>30%</> des Flammenwiderstands des Ziels.",
@@ -2516,7 +2731,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_5"
 	},
 	"snipe_fire_ssr_star_6": {
 		"advancement": "Erhöht den von „Kreuzschuss“ verursachten Schaden um zusätzliche <shuzhi>{0}%</>.",
@@ -2530,7 +2746,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 9
-		}
+		},
+		"id": "snipe_fire_ssr_star_6"
 	},
 	"iceblade_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht Frost-ANG um <shuzhi>15%</> und den Frostwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
@@ -2541,7 +2758,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_0"
 	},
 	"iceblade_ice_ssr_star_1": {
 		"advancement": "Der Wanderer erhält durch Verwendung einer beliebigen Frost-Waffenfähigkeit im „Kältefeld“ „Alyss’ Unterstützung“, was sie herbeiruft, um eine Entladungsfähigkeit einzusetzen, die einer Entladungsfähigkeit des Wanderers entspricht. Die Fähigkeit, die die Entladungsfähigkeit auslöst, wird im Anschluss erneut verwendet. Der Schaden von Alyss’ unterstützender Entladungsfähigkeit sowie des Fähigkeitsschadens entspricht <shuzhi>70%</> des ursprünglichen Schadens ihrer Fähigkeit.",
@@ -2552,7 +2770,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_1"
 	},
 	"iceblade_ice_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -2563,7 +2782,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_2"
 	},
 	"iceblade_ice_ssr_star_3": {
 		"advancement": "Erhalte jedes Mal „Alyss’ Unterstützung“, wenn „Sternennacht“ ausgelöst wird, wobei der Schaden von „Sternennacht“ und „Raureif“ für <shuzhi>{1}</> Sek. um <shuzhi>{0}%</> erhöht wird. Kann bis zu <shuzhi>3</>-mal gestapelt werden.",
@@ -2578,7 +2798,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_3"
 	},
 	"iceblade_ice_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -2589,7 +2810,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_4"
 	},
 	"iceblade_ice_ssr_star_5": {
 		"advancement": "Erhöht den Schaden von normalen Angriffen und „Raumschlitzer“ von Unnachgiebiger Flügel um <shuzhi>{0}%</>. Wenn tödlicher Schaden erlitten wird, erhält der Wanderer „Alyss’ Schutz“, welcher den Wanderer 1-mal vor dem Tod bewahrt und ihn für kurze Zeit immun gegen Schaden macht. Abklingzeit: <shuzhi>{1}</> Sek.",
@@ -2604,7 +2826,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_5"
 	},
 	"iceblade_ice_ssr_star_6": {
 		"advancement": "Bei 3 Stapeln von „Alyss’ Unterstützung“ wird der Frostschaden um <shuzhi>{0}%</> erhöht.",
@@ -2618,7 +2841,8 @@
 		"stats": {
 			"shatter": 8,
 			"charge": 12
-		}
+		},
+		"id": "iceblade_ice_ssr_star_6"
 	},
 	"Whip_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physische Resonanz</>: Erhöht den physischen ANG um <shuzhi>15%</> und den physischen Widerstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
@@ -2635,7 +2859,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_0"
 	},
 	"Whip_physic_ssr_star_1": {
 		"advancement": "Gewährt beim Wechsel zu Möbius sofort <shuzhi>{0}</> Aufwärmpunkte. Abklingzeit: <shuzhi>{1}</> Sek. Fügt Zielen in der Nähe beim Einsatz von „Zaubertrick“ Flächenschaden in Höhe von <shuzhi>{2}%</> des ANG zu und reduziert ihren physischen Widerstand für <shuzhi>{4}</> Sek. um <shuzhi>{3}%</>.",
@@ -2653,7 +2878,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_1"
 	},
 	"Whip_physic_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -2664,7 +2890,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_2"
 	},
 	"Whip_physic_ssr_star_3": {
 		"advancement": "Wenn „Zaubertrick“ frühzeitig beendet wird, wird über <shuzhi>{3}</> Sek. großflächig Schaden verursacht. Die aktuelle Abklingzeit von Möbius’ Fähigkeit wird verringert und der physische Schaden wird für eine gewisse Zeit um <shuzhi>{0}%</> erhöht (dieser Effekt gilt nicht für Möbius). Wenn von „Zaubertrick“ mehr als <shuzhi>13</> Sek. verbleiben, erhält der Anwender zusätzlich <shuzhi>200</> Waffenladung. Je mehr Zeit verbleibt, wenn „Zaubertrick“ endet, desto höher der Flächenschaden, desto größer die Abklingzeitverringerung der Fähigkeit und desto länger hält der physische Schadensbonus an. Der verursachte Flächenschaden ist auf <shuzhi>{1}%</> des ANG begrenzt (der maximale Schaden wird verursacht, wenn die verbleibende Zeit mehr als <shuzhi>{5}</> Sek. beträgt). Die maximale Abklingzeitverringerung beträgt <shuzhi>{4}</> Sek., und der physische Schadensbonus kann bis zu <shuzhi>{2}</> Sek. andauern.",
@@ -2683,7 +2910,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_3"
 	},
 	"Whip_physic_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -2694,7 +2922,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_4"
 	},
 	"Whip_physic_ssr_star_5": {
 		"advancement": "Erhalte den Effekt „Psychische Puppe“ während des Zaubertricks und erhöhe Möbius’ physischen Schadensbonus auf <shuzhi>{0}%</>. Während des Zaubertricks stellst du jede Sekunde <shuzhi>{1}%</> der max. LP und <shuzhi>{2}</> Waffenladung wieder her.",
@@ -2710,7 +2939,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_5"
 	},
 	"Whip_physic_ssr_star_6": {
 		"advancement": "Während „Zaubertrick“ aktiv ist, erhält Möbius eine zusätzliche Peitsche, die jedes Mal automatisch geschwungen wird, wenn der Wanderer mit Möbius normale Angriffe oder Ausweichangriffe ausführt. Diese verursachen Schaden in Höhe von <shuzhi>{0}%</> des ANG von Möbius (dieser Schaden wird nicht als normaler Angriffsschaden gezählt).",
@@ -2725,7 +2955,8 @@
 		"stats": {
 			"shatter": 12,
 			"charge": 9
-		}
+		},
+		"id": "Whip_physic_ssr_star_6"
 	},
 	"yoyo_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht den Frost-ANG um <shuzhi>15%</> und den Frostwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Elementarist</>: Der Endschaden wird für <shuzhi>jede</> Art von ausgerüstetem Waffenelement um <shuzhi>{2}%</> erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot.",
@@ -2741,7 +2972,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_0"
 	},
 	"yoyo_ice_ssr_star_1": {
 		"advancement": "Wenn eine beliebige Waffenfähigkeit eingesetzt wird, kann „Rasantes Jo-Jo“ <shuzhi>Harmonie</> auslösen, was Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> ihrer verlorenen LP zufügt. Der verursachte Schaden beträgt mindestens <shuzhi>{1}%</> und höchstens <shuzhi>{2}%</> des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.\r\nWenn eine beliebige Waffenentladung eingesetzt wird, kann „Rasantes Jo-Jo“ <shuzhi>Tuning</> auslösen, was Zielen in der Nähe Schaden in Höhe von <shuzhi>{3}%</> der max. LP des Wanderers zufügt. Der verursachte Schaden beträgt höchstens <shuzhi>{4}%</> des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.",
@@ -2759,7 +2991,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_1"
 	},
 	"yoyo_ice_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -2770,7 +3003,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_2"
 	},
 	"yoyo_ice_ssr_star_3": {
 		"advancement": "Wenn „Trostloser Tag“ verwendet wird, kann „Rasantes Jo-Jo“ für <shuzhi>{0}</> Sek. <shuzhi>Schnelligkeit</> auslösen: Die Geschwindigkeit von „Rasantes Jo-Jo“ wird um <shuzhi>{1}%</> erhöht, der Schaden wird um <shuzhi>160%</> erhöht und der Schaden, der beim Passieren des Ziels entsteht, wird in geringfügigen Flächenschaden umgewandelt.",
@@ -2785,7 +3019,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_3"
 	},
 	"yoyo_ice_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -2796,7 +3031,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_4"
 	},
 	"yoyo_ice_ssr_star_5": {
 		"advancement": "Erhöht den Schaden von „Rasantes Jo-Jo“ und „Rückkehr zur Einsamkeit“ um <shuzhi>{0}%</>.",
@@ -2810,7 +3046,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_5"
 	},
 	"yoyo_ice_ssr_star_6": {
 		"advancement": "Erhöht den Endschaden um <shuzhi>{0}%</>, während „Rasantes Jo-Jo“ aktiv ist.",
@@ -2824,7 +3061,8 @@
 		"stats": {
 			"shatter": 9.5,
 			"charge": 8
-		}
+		},
+		"id": "yoyo_ice_ssr_star_6"
 	},
 	"fenrir_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Voltresonanz</>: Erhöht Volt-ANG um <shuzhi>15%</> und Voltwiderstand um <shuzhi>25%</>. Wird durch das Ausrüsten von <shuzhi>2</> oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Elementares Gleichgewicht</>: Erhöht alle ANG um <shuzhi>15%</>. Wird durch das Ausrüsten von <shuzhi>3</> Waffen unterschiedlichen Elements aktiviert. Dieser Set-Effekt funktioniert auch im Nebenhand-Slot.",
@@ -2835,7 +3073,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_0"
 	},
 	"fenrir_thunder_ssr_star_1": {
 		"advancement": "Wenn <shuzhi>Wolfsgeheul</> ein Bewusstsein herbeiruft und die Fähigkeit noch abklingt, wird die Fähigkeit <shuzhi>Hörfieber</> gewährt. Stürmt auf das Ziel zu und führt mehrere Angriffe aus, die Schaden in Höhe von bis zu <shuzhi>720%</> des ANG verursachen. Jeder Treffer verlangsamt den Gegner für kurze Zeit und stellt LP in Höhe von <shuzhi>100%</> des ANG wieder her. Der letzte Treffer belegt das Ziel mit <shuzhi>2</> Musiknoten. Abklingzeit von „Hörfieber“: <shuzhi>15</> Sek.\r\nWenn <shuzhi>3</> oder mehr Noten gleichzeitig explodieren und die Abklingzeit von „Hörfieber“ mehr als <shuzhi>5</> Sek. beträgt, wird die Abklingzeit von „Hörfieber“ zurückgesetzt. Dieser Effekt kann nur 1-mal alle <shuzhi>15</> Sek. ausgelöst werden.",
@@ -2846,7 +3085,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_1"
 	},
 	"fenrir_thunder_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -2857,7 +3097,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_2"
 	},
 	"fenrir_thunder_ssr_star_3": {
 		"advancement": "Während „Klangwelt“ aktiv ist:\r\nFür jeweils <shuzhi>45%</> der verlorenen max. LP oder beim Einsatz der Fähigkeit <shuzhi>Hörfieber</> wird <shuzhi>Klangweltbeben</> ausgelöst, das Zielen innerhalb der „Klangwelt“ Schaden in Höhe von <shuzhi>650%</> des ANG zufügt.\r\nGewährt für jeweils <shuzhi>99%</> der verlorenen max. LP <shuzhi>1</>-mal für <shuzhi>45</> Sek. „dem Tod entkommen“ (verhindert einen tödlichen Effekt und gewährt für kurze Zeit Schadensimmunität). Kann bis zu <shuzhi>1</>-mal gestapelt werden.",
@@ -2868,7 +3109,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_3"
 	},
 	"fenrir_thunder_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -2879,7 +3121,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_4"
 	},
 	"fenrir_thunder_ssr_star_5": {
 		"advancement": "Erhöht den Schadensmultiplikator von explodierenden Musiknoten auf <shuzhi>40%</> und den vom Rausch verursachten DoT auf <shuzhi>1,5%</> der max. LP pro Sek.\r\nWährend „Klangwelt“ aktiv ist, wird <shuzhi>Klangweltbeben</> automatisch ausgelöst, wenn es nicht nach <shuzhi>12</> Sek. im Kampf ausgelöst wird.",
@@ -2890,7 +3133,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_5"
 	},
 	"fenrir_thunder_ssr_star_6": {
 		"advancement": "Erhöht bei Verwendung von <shuzhi>Gleipnir</> die krit. Trefferrate um <shuzhi>18%</>. Die Erhöhung der krit. Trefferrate hält nach dem Wechsel zu einer anderen Waffe weitere <shuzhi>5</> Sek. an.",
@@ -2901,7 +3145,8 @@
 		"stats": {
 			"shatter": 13.5,
 			"charge": 10.5
-		}
+		},
+		"id": "fenrir_thunder_ssr_star_6"
 	},
 	"bigsword_fire_r_star_0": {
 		"numbers": [],
@@ -2911,7 +3156,8 @@
 		"stats": {
 			"shatter": 7.2,
 			"charge": 3.2
-		}
+		},
+		"id": "bigsword_fire_r_star_0"
 	},
 	"spear_ice_r_star_0": {
 		"numbers": [],
@@ -2921,7 +3167,8 @@
 		"stats": {
 			"shatter": 6.9,
 			"charge": 5.6
-		}
+		},
+		"id": "spear_ice_r_star_0"
 	},
 	"digger_physic_r_star_0": {
 		"numbers": [],
@@ -2931,7 +3178,8 @@
 		"stats": {
 			"shatter": 3.2,
 			"charge": 9.6
-		}
+		},
+		"id": "digger_physic_r_star_0"
 	},
 	"bow_fire_r_star_0": {
 		"numbers": [],
@@ -2941,7 +3189,8 @@
 		"stats": {
 			"shatter": 4.8,
 			"charge": 8
-		}
+		},
+		"id": "bow_fire_r_star_0"
 	},
 	"sword_thunder_r_star_0": {
 		"numbers": [],
@@ -2951,7 +3200,8 @@
 		"stats": {
 			"shatter": 3.6,
 			"charge": 8.8
-		}
+		},
+		"id": "sword_thunder_r_star_0"
 	},
 	"Gun_thunder_sr_star_0": {
 		"numbers": [],
@@ -2961,7 +3211,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_0"
 	},
 	"Gun_thunder_sr_star_1": {
 		"advancement": "Gegner, die in den Wirkungsbereich von „Sturmladung“ geraten, werden für 1 Sek. um 30% verlangsamt.",
@@ -2972,7 +3223,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_1"
 	},
 	"Gun_thunder_sr_star_2": {
 		"advancement": "Vergrößert den Aktivierungsbereich und den Explosionsradius von Landminen.",
@@ -2983,7 +3235,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_2"
 	},
 	"Gun_thunder_sr_star_3": {
 		"advancement": "Stellt 1 Ausweichversuch wieder her, nachdem ein Gegner von einer Landmine getroffen wurde.",
@@ -2994,7 +3247,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_3"
 	},
 	"Gun_thunder_sr_star_4": {
 		"advancement": "Vergrößert den Wirkungsbereich und die Dauer von „Sturmladung“.",
@@ -3005,7 +3259,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_4"
 	},
 	"Gun_thunder_sr_star_5": {
 		"advancement": "Die Platzierung einer Landmine im Wirkungsbereich von „Sturmladung“ lässt diese sofort explodieren, was eine weitere „Sturmladung“ erzeugt und ihren Wirkungsbereich vergrößert.",
@@ -3016,7 +3271,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "Gun_thunder_sr_star_5"
 	},
 	"bigsword_physic_sr_star_0": {
 		"numbers": [],
@@ -3026,7 +3282,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_0"
 	},
 	"bigsword_physic_sr_star_1": {
 		"advancement": "Der Wechsel zu dieser Waffe gewährt einen Schild in Höhe von <shuzhi>7,5%</> der max. LP, der bis zu <shuzhi>10</> Sek. anhält. Abklingzeit: <shuzhi>60</> Sek.",
@@ -3037,7 +3294,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_1"
 	},
 	"bigsword_physic_sr_star_2": {
 		"advancement": "Verringert den erlittenen Schaden um <shuzhi>3%</>, wenn 2 oder mehr Verteidigungswaffen angelegt sind. Wirkt sofort und stapelt sich bei mehreren Waffen. Der Effekt und die Aggro werden im Teamspiel erhöht.",
@@ -3048,7 +3306,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_2"
 	},
 	"bigsword_physic_sr_star_3": {
 		"advancement": "Gewährt beim Wechsel zu dieser Waffe für <shuzhi>10</> Sek. einen Schild in Höhe von <shuzhi>15%</> der max. LP sowie Trefferlähmung-Immunität. Abklingzeit: <shuzhi>60</> Sek.",
@@ -3059,7 +3318,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_3"
 	},
 	"bigsword_physic_sr_star_4": {
 		"advancement": "Verringert den erlittenen physischen Schaden um <shuzhi>10%</>.",
@@ -3070,7 +3330,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_4"
 	},
 	"bigsword_physic_sr_star_5": {
 		"advancement": "Von Entladungsfähigkeiten getroffenen Zielen wird für die nächsten <shuzhi>10</> Sek. zusätzlich <shuzhi>15%</> physischer Schaden zugefügt.",
@@ -3081,7 +3342,8 @@
 		"stats": {
 			"shatter": 1,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_5"
 	},
 	"bigsword_physic_sr_star_6": {
 		"numbers": [],
@@ -3091,7 +3353,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 1
-		}
+		},
+		"id": "bigsword_physic_sr_star_6"
 	},
 	"spear_physic_sr_star_0": {
 		"numbers": [],
@@ -3101,7 +3364,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_0"
 	},
 	"spear_physic_sr_star_1": {
 		"advancement": "Während der Anwender in der Luft ist, erhöht jeder erfolgreiche Angriff den verursachten Endschaden um <shuzhi>4%</> (bis max. <shuzhi>20%</>).",
@@ -3112,7 +3376,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_1"
 	},
 	"spear_physic_sr_star_2": {
 		"advancement": "Wenn 2 oder mehr Offensivwaffen vom Typ „Schaden pro Sekunde“ angelegt sind, wird Zielen mit weniger als <shuzhi>50%</> LP <shuzhi>7,5%</> zusätzlicher Endschaden zugefügt. Wirkt sofort und wird bei Verwendung mehrerer Waffen gestapelt. Der Effekt wird im Teamspiel erhöht.",
@@ -3123,7 +3388,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_2"
 	},
 	"spear_physic_sr_star_3": {
 		"advancement": "Wenn Ziele in der Luft getroffen werden, besteht eine Chance von <shuzhi>30%</>, die Abklingzeiten sämtlicher Waffenfähigkeiten um <shuzhi>2</> Sek. zu verringern.",
@@ -3134,7 +3400,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_3"
 	},
 	"spear_physic_sr_star_4": {
 		"advancement": "Nach der Landung hält der Schadensbonus für <shuzhi>10</> Sek. an.",
@@ -3145,7 +3412,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_4"
 	},
 	"spear_physic_sr_star_5": {
 		"advancement": "Fügt betäubten/erstarrten/elektrisierten Zielen und Zielen in der Luft <shuzhi>30%</> zusätzlichen Endschaden zu.",
@@ -3156,7 +3424,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_5"
 	},
 	"spear_physic_sr_star_6": {
 		"numbers": [],
@@ -3166,7 +3435,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "spear_physic_sr_star_6"
 	},
 	"sickle_physic_ssr_star_0": {
 		"numbers": [],
@@ -3176,7 +3446,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_0"
 	},
 	"sickle_physic_ssr_star_1": {
 		"advancement": "Wenn 2 oder mehr Verteidigungswaffen angelegt sind, wird der erlittene Schaden zusätzlich um <shuzhi>5%</> verringert, während die LP unter <shuzhi>70%</> liegen. Wirkt sofort und wird bei Verwendung mehrerer Waffen gestapelt. Erhöht Effekt und Aggro, wenn der Anwender in einem Team ist.",
@@ -3187,7 +3458,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_1"
 	},
 	"sickle_physic_ssr_star_2": {
 		"advancement": "Wenn „Hyperkörper“ aktiv ist, wird die Dauer pro <shuzhi>5%</> verlorene LP um <shuzhi>0,5</> Sek. verlängert.",
@@ -3198,7 +3470,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_2"
 	},
 	"sickle_physic_ssr_star_3": {
 		"advancement": "Verringert den erlittenen physischen Schaden um <shuzhi>10%</>.",
@@ -3209,7 +3482,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_3"
 	},
 	"sickle_physic_ssr_star_4": {
 		"advancement": "Beim Einsetzen von Fähigkeiten wird die physische Verteidigung des Anwenders für <shuzhi>15</> Sek. um (<shuzhi>20% + 200</>) erhöht (nicht stapelbar, Dauer kann zurückgesetzt werden).",
@@ -3220,7 +3494,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_4"
 	},
 	"sickle_physic_ssr_star_5": {
 		"advancement": "Entladungsfähigkeiten fügen Zielen für <shuzhi>15</> Sek. <shuzhi>20%</> zusätzlichen physischen Schaden zu.",
@@ -3231,7 +3506,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_5"
 	},
 	"sickle_physic_ssr_star_6": {
 		"numbers": [],
@@ -3241,7 +3517,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sickle_physic_ssr_star_6"
 	},
 	"sword_fire_sr_star_0": {
 		"numbers": [],
@@ -3251,7 +3528,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_0"
 	},
 	"sword_fire_sr_star_1": {
 		"advancement": "Normale Angriffe erzeugen Explosionen, die in einem kleinen Radius 90% des ANG als Flammenschaden verursachen. Abklingzeit: 5 Sek.",
@@ -3262,7 +3540,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_1"
 	},
 	"sword_fire_sr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>10%</>.",
@@ -3273,7 +3552,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_2"
 	},
 	"sword_fire_sr_star_3": {
 		"advancement": "Erhöht den verursachten Schaden um 40%, wenn ein normaler Angriff das Ziel seitlich oder von hinten trifft.",
@@ -3284,7 +3564,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_3"
 	},
 	"sword_fire_sr_star_4": {
 		"advancement": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um <shuzhi>20%</>.",
@@ -3295,7 +3576,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_4"
 	},
 	"sword_fire_sr_star_5": {
 		"advancement": "Gewährt während „Trugbild“ 50% Lebensraub.",
@@ -3306,7 +3588,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_5"
 	},
 	"sword_fire_sr_star_6": {
 		"advancement": "Erhöht den verursachten Schaden um 80%, wenn ein normaler Angriff das Ziel seitlich oder von hinten trifft.",
@@ -3317,7 +3600,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "sword_fire_sr_star_6"
 	},
 	"bow_fire_sr_star_0": {
 		"numbers": [],
@@ -3327,7 +3611,8 @@
 		"stats": {
 			"shatter": 4.8,
 			"charge": 8
-		}
+		},
+		"id": "bow_fire_sr_star_0"
 	},
 	"bow_fire_sr_star_1": {
 		"advancement": "Gewährt jedes Mal, wenn der Anwender ein Ziel mit „Aufgeladener Pfeil“ trifft, <yellow_lbl_15_1>Spitzer Pfeil I</>. Spitzer Pfeil I: Erhöht den Endschaden für <shuzhi>10</> Sek. um <shuzhi>4%</>. Der Effekt kann bis zu <shuzhi>3</>-mal gestapelt werden.",
@@ -3338,7 +3623,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_1"
 	},
 	"bow_fire_sr_star_2": {
 		"advancement": "Wenn 2 oder mehr Waffen vom Typ „Schaden pro Sekunde“ angelegt sind, wird Zielen mit mehr als 6 Meter Entfernung zusätzlich <shuzhi>5%</> Endschaden zugefügt. Wirkt sofort und wird bei Verwendung mehrerer Waffen gestapelt. Der Effekt wird im Teamspiel erhöht.",
@@ -3349,7 +3635,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_2"
 	},
 	"bow_fire_sr_star_3": {
 		"advancement": "Ausweichangriffe lösen <shuzhi>3</>-mal „Durchdringender Schuss“ aus.",
@@ -3360,7 +3647,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_3"
 	},
 	"bow_fire_sr_star_4": {
 		"advancement": "Die Dauer von „Pfeilhagel“ wird um 100% verlängert.",
@@ -3371,7 +3659,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_4"
 	},
 	"bow_fire_sr_star_5": {
 		"advancement": "Gewährt jedes Mal, wenn der Anwender ein Ziel mit „Aufgeladener Pfeil“ trifft, <yellow_lbl_15_1>Spitzer Pfeil I</>. Spitzer Pfeil I: Erhöht den Endschaden für <shuzhi>15</> Sek. um <shuzhi>4%</>. Der Effekt kann bis zu <shuzhi>5</>-mal gestapelt werden.",
@@ -3382,7 +3671,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_5"
 	},
 	"bow_fire_sr_star_6": {
 		"numbers": [],
@@ -3392,7 +3682,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "bow_fire_sr_star_6"
 	},
 	"hammer_thunder_ssr_star_0": {
 		"numbers": [],
@@ -3402,7 +3693,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_0"
 	},
 	"hammer_thunder_ssr_star_1": {
 		"advancement": "Verringert den erlittenen Schaden um <shuzhi>5%</>, wenn 2 oder mehr Verteidigungswaffen angelegt sind. Wirkt sofort und stapelt sich bei mehreren Waffen. Die Aggro wird im Teamspiel um <shuzhi>200%</> erhöht. Verspottet nach dem Wechsel zu dieser Waffe für <shuzhi>5</> Sek. alle Gegner in einem Radius von <shuzhi>8</> Metern. Abklingzeit: <shuzhi>15</> Sek.",
@@ -3413,7 +3705,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_1"
 	},
 	"hammer_thunder_ssr_star_2": {
 		"advancement": "Der nächste Treffer nach dem Wechsel zu dieser Waffe <shuzhi>betäubt</> das Ziel für <shuzhi>2</> Sek. Abklingzeit: <shuzhi>15</> Sek.",
@@ -3424,7 +3717,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_2"
 	},
 	"hammer_thunder_ssr_star_3": {
 		"advancement": "Erhöht die Voltschadensreduktion um <shuzhi>10%</>.",
@@ -3435,7 +3729,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_3"
 	},
 	"hammer_thunder_ssr_star_4": {
 		"advancement": "Verringert nach dem Wechsel zu dieser Waffe den erlittenen Schaden für <shuzhi>30</> Sek. um <shuzhi>10%</>. Teammitglieder erhalten zusätzlich für <shuzhi>30</> Sek. <shuzhi>10%</> Schadensreduktion, wenn 2 oder mehr Verteidigungswaffen angelegt sind. Abklingzeit: <shuzhi>30</> Sek. Kann nicht mit Effekten desselben Typs gestapelt werden.",
@@ -3446,7 +3741,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_4"
 	},
 	"hammer_thunder_ssr_star_5": {
 		"advancement": "Von Entladungsfähigkeiten getroffenen Zielen wird für die nächsten <shuzhi>15</> Sek. zusätzlich <shuzhi>20%</> Voltschaden zugefügt.",
@@ -3457,7 +3753,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_5"
 	},
 	"hammer_thunder_ssr_star_6": {
 		"numbers": [],
@@ -3467,7 +3764,8 @@
 		"stats": {
 			"shatter": 0,
 			"charge": 0
-		}
+		},
+		"id": "hammer_thunder_ssr_star_6"
 	},
 	"brush_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht den Flammen-ANG um <shuzhi>15%</> und den Flammenwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Flammenexplosion: Auf dem Feld</>: Beim Landen jedes Treffers mit <shuzhi>Kienkomet</> wird Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> des Flammen-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens zugefügt. Dieser Effekt kann einmal alle <shuzhi>1,5</> Sek. ausgelöst werden. Der Flammenexplosionsschaden zählt als normaler Angriffsschaden. Wenn <shuzhi>1</> Volt-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Flammenexplosionsschaden um das <shuzhi>{4}</>-fache multipliziert. Außerdem wird der Flammenexplosionsschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
@@ -3485,7 +3783,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_0"
 	},
 	"brush_fire_ssr_star_1": {
 		"advancement": "Wenn eine <shuzhi>Sperlingsfeder</> ein Ziel trifft, wird ein Ausbreitungseffekt ausgelöst, der zusätzlichen Flächenschaden in Höhe von <shuzhi>{0}%</> des gesamten Brand- und Entzündungsschadens verursacht. Zudem breitet sich der <shuzhi>Sperlingsbrand</> des betroffenen Ziels auf Ziele in der Nähe aus, wodurch die Dauer von <shuzhi>Sperlingsbrand</> zurückgesetzt wird. Der Ausbreitungseffekt kann einmal alle <shuzhi>5</> Sek. ausgelöst werden.",
@@ -3499,7 +3798,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_1"
 	},
 	"brush_fire_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -3510,7 +3810,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_2"
 	},
 	"brush_fire_ssr_star_3": {
 		"advancement": "Sind die LP des Wanderers unter <shuzhi>50%</> der max. LP gefallen, werden alle <shuzhi>0,5</> Sek. <shuzhi>1</> <shuzhi>Sperlingsfeder</> verbraucht und <shuzhi>{0}%</> der max. LP wiederhergestellt, (erhöht sich im Solospiel auf <shuzhi>{1}%</> der max. LP), bis die LP des Wanderers voll oder alle <shuzhi>Sperlingsfedern</> verbraucht sind. Der Effekt funktioniert auch im Nebenhand-Slot.",
@@ -3525,7 +3826,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_3"
 	},
 	"brush_fire_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -3536,7 +3838,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_4"
 	},
 	"brush_fire_ssr_star_5": {
 		"advancement": "Wenn der Anwender tödlichen Schaden erleidet, wird der tödliche Schaden 1-mal verhindert, und er erhält für kurze Zeit Schadensimmunität. Zudem erhält er sofort <shuzhi>60</> <shuzhi>Sperlingsfedern</> und <shuzhi>{0}</> Waffenladung. Kann 1-mal alle <shuzhi>{1}</> Sek. ausgelöst werden. Der Set-Effekt funktioniert auch im Nebenhand-Slot.",
@@ -3551,7 +3854,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_5"
 	},
 	"brush_fire_ssr_star_6": {
 		"advancement": "Erhöht den Flammenschaden um zusätzliche <shuzhi>{0}%</>, wenn du dich im <shuzhi>Gipfel</>-Zustand befindest.",
@@ -3565,7 +3869,8 @@
 		"stats": {
 			"shatter": 12.5,
 			"charge": 15
-		}
+		},
+		"id": "brush_fire_ssr_star_6"
 	},
 	"yulan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht den Frost-ANG um <shuzhi>15%</> und den Frostwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Eisvernichtung: Schneller Hieb</>: Wenn <shuzhi>Eintracht</> ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von <shuzhi>{0}%</> des Frost-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens zu. Im Kampfstatus wird alle <shuzhi>0,5</> Sek. der Schaden des nächsten schnellen Hiebs zusätzlich um das <shuzhi>1</>-fache erhöht, bis zum Maximum des <shuzhi>30</>-fachen. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn <shuzhi>1</> Volt-/physische/Flammenwaffe jeglicher Art ausgerüstet ist, wird der Schaden von „Eisvernichtung“ um das <shuzhi>{4}</>-fache erhöht. Außerdem wird der Schaden von „Eisvernichtung“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
@@ -3583,7 +3888,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_0"
 	},
 	"yulan_ice_ssr_star_1": {
 		"advancement": "Wenn in der <shuzhi>Kampfkünstler</>-Form <shuzhi>3</> oder mehr <shuzhi>Innere Stärke</> verbraucht wurden, regeneriert <shuzhi>Eintracht</> <shuzhi>{0}</> <shuzhi>Innere Stärke</>. Anschließend wird der Endschaden des Wanderers um <shuzhi>{1}%</> erhöht, und der Schaden des Ausweichangriffs/normalen Angriffs von <shuzhi>Eintracht</> wird <shuzhi>{3}</> Sekunden lang um <shuzhi>{2}%</> erhöht.\r\nWenn in der <shuzhi>Rohe Kraft</>-Form <shuzhi>3</> oder mehr <shuzhi>Kampfgeist</> verbraucht wurden, regeneriert <shuzhi>Eintracht</> <shuzhi>{4}</> <shuzhi>Kampfgeist</>. Anschließend wird der Endschaden des Wanderers <shuzhi>{6}</> Sekunden lang um <shuzhi>{5}%</> erhöht.",
@@ -3603,7 +3909,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_1"
 	},
 	"yulan_ice_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -3614,7 +3921,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_2"
 	},
 	"yulan_ice_ssr_star_3": {
 		"advancement": "Wenn in der <shuzhi>Kampfkünstler</>-Form innerhalb von <shuzhi>{0}</> Sekunden keine <shuzhi>Innere Stärke</> generiert wird, werden beim nächsten Erhalt von <shuzhi>Innerer Stärke</> stattdessen <shuzhi>2</> Einheiten verliehen.\r\nWenn <shuzhi>Eintracht</> in einer beliebigen Form <shuzhi>3</> oder mehr <shuzhi>Innere Stärke</> oder <shuzhi>Kampfgeist</> verbraucht, werden <shuzhi>{1}%</> der max. LP des Wanderers wiederhergestellt. Im Einzelspiel wird die LP-Wiederherstellung auf <shuzhi>{2}%</> erhöht. Dieser Effekt in der <shuzhi>Rohe Kraft</>-Form nur 1-mal alle <shuzhi>8</> Sekunden auftreten. In der <shuzhi>Kampfkünstler</>-Form gibt es keine Beschränkung.",
@@ -3631,7 +3939,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_3"
 	},
 	"yulan_ice_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -3642,7 +3951,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_4"
 	},
 	"yulan_ice_ssr_star_5": {
 		"advancement": "Wenn <shuzhi>Eintracht</> <shuzhi>Innere Stärke</> oder <shuzhi>Kampfgeist</> verbraucht wird, wird tödlicher Schaden 1-mal verhindert und der Wanderer stellt <shuzhi>{0}%</> der max. LP wieder her (nicht in der Apex-Liga verfügbar). Im Einzelspiel wird die LP-Wiederherstellung auf <shuzhi>{1}%</> erhöht. Beide Effekte können nur 1-mal alle <shuzhi>{2}</> Sek. ausgelöst werden.",
@@ -3658,7 +3968,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_5"
 	},
 	"yulan_ice_ssr_star_6": {
 		"advancement": "In der <shuzhi>Kampfkünstler</>-Form wird der Schaden des Ausweichangriffs/normalen Angriffs von <shuzhi>Eintracht</> um weitere <shuzhi>{0}%</> erhöht. Wenn <shuzhi>innere Stärke</> verbraucht wird, wird der Endschaden des Wanderers <shuzhi>{2}</> Sek. lang um <shuzhi>{1}%</> erhöht.\r\nWenn <shuzhi>Eintracht</> in der <shuzhi>Rohe Kraft</>-Form <shuzhi>Kampfgeist</> verbraucht, wird der Endschaden des Wanderers <shuzhi>{4}</> Sek. lang um <shuzhi>{3}%</> erhöht.",
@@ -3676,7 +3987,8 @@
 		"stats": {
 			"shatter": 13,
 			"charge": 11
-		}
+		},
+		"id": "yulan_ice_ssr_star_6"
 	},
 	"Zeke_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physische Resonanz</>: Erhöht den physischen ANG um <shuzhi>15%</> und den physischen Widerstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen physischen Resonanz- oder Reaktionseffekten gestapelt werden, wobei physische Resonanz priorisiert wird.\r\n<shuzhi>Flammenresonanz</>: Erhöht den Flammen-ANG um <shuzhi>15%</> und den Flammenwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n\r\n<shuzhi>Schildbruch: Distanzierung</>: Nach Verwendung von <shuzhi>Bodenlose Schlucht</> wird bei getroffenen Zielen <shuzhi>{0}</> Sek. lang pro Sekunde Schaden in Höhe von <shuzhi>{1}%</> des physischen ANG + <shuzhi>{2}%</> der max. LP des Wanderers + <shuzhi>{3}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{4}%</> des krit. Schadens verursacht. Mehrfacher Distanzierungsschaden wird nicht gestapelt und Schildbruchschaden zählt als Fähigkeitsschaden. Wenn <shuzhi>1</> Volt-/Flammen-/Frostwaffe ausgerüstet ist, wird der Schildbruchschaden um das <shuzhi>{5}</>-fache multipliziert. Außerdem wird der Schildbruchschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
@@ -3695,7 +4007,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_0"
 	},
 	"Zeke_physic_ssr_star_1": {
 		"advancement": "Immer wenn <shuzhi>Verwunden</> verursacht wird, wird dem Ziel <shuzhi>Verschlingungs</>schaden in Höhe von <shuzhi>50%</> des ANG zugefügt. Dieser Effekt kann nur 1-mal alle <shuzhi>0,5</> Sek. ausgelöst werden.\r\nImmer wenn die <shuzhi>Entzünden</>-Eigenschaft der Waffe bei einem Ziel ausgelöst wird, das <shuzhi>nicht verwundet</> ist, wird es für <shuzhi>7</> Sek. <shuzhi>verwundet</>.",
@@ -3706,7 +4019,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_1"
 	},
 	"Zeke_physic_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -3717,7 +4031,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_2"
 	},
 	"Zeke_physic_ssr_star_3": {
 		"advancement": "Nach dem Auslösen von <shuzhi>Mächtiger Wind</> werden getroffene Ziele in Glieder der <shuzhi>Schlangenkette</> verwandelt.",
@@ -3728,7 +4043,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_3"
 	},
 	"Zeke_physic_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -3739,7 +4055,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_4"
 	},
 	"Zeke_physic_ssr_star_5": {
 		"advancement": "Nach der Verwendung von <shuzhi>Bodenlose Schlucht</> wird der vom Wanderer erlittene Schaden für <shuzhi>{2}</> Sek. um <shuzhi>{0}%</> verringert (<shuzhi>{1}%</> im Einzelspiel).",
@@ -3755,7 +4072,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_5"
 	},
 	"Zeke_physic_ssr_star_6": {
 		"advancement": "Wenn <shuzhi>1</> Glied der <shuzhi>Schlangenkette</> besteht, wird die Übertragungsrate des <shuzhi>Übertragungs</>schadens um <shuzhi>50%</> erhöht.",
@@ -3769,7 +4087,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "Zeke_physic_ssr_star_6"
 	},
 	"mimi_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Voltresonanz</>: Erhöht den Volt-ANG um <shuzhi>15%</> und den Voltwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n\r\n<shuzhi>Donnergroll: Auf dem Feld</>: Bei jedem Treffer mit <shuzhi>Azurdrache</> wird Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> des Volt-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens zugefügt. Dieser Effekt kann einmal alle <shuzhi>1,5</> Sek. ausgelöst werden. Der Schaden von „Donnergroll“ zählt als normaler Angriffsschaden. Wenn <shuzhi>1</> Flammen-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Donnergroll“ um das <shuzhi>{4}</>-fache multipliziert. Außerdem wird der Schaden von „Donnergroll“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
@@ -3787,7 +4106,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_0"
 	},
 	"mimi_thunder_ssr_star_1": {
 		"advancement": "Jedes Mal, wenn <shuzhi>Donnerausbruch</> auflädt, erscheinen <shuzhi>2</> Azuras. Jedes Azura stellt bei anderen Beschwörungen <shuzhi>20%</> ihrer max. LP wieder her.\r\nErhöht den Schaden vom aufgeladenen Angriff und von der Schockwelle von <shuzhi>Donnerausbruch</> um <shuzhi>30%</>.\r\nNach der Verwendung von <shuzhi>Azurmond</> werden sofort <shuzhi>3</> Stapel von „Macht von Qinglong“ erzeugt. Das Verwenden von anderen Voltwaffenfähigkeiten erzeugt stattdessen <shuzhi>1</> Stapel von „Macht von Qinglong“.",
@@ -3798,7 +4118,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_1"
 	},
 	"mimi_thunder_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -3809,7 +4130,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_2"
 	},
 	"mimi_thunder_ssr_star_3": {
 		"advancement": "Wenn <shuzhi>Azurdrache</> ausgerüstet ist, wird die Abklingzeit von allen Basisfähigeiten aller Voltwaffen um <shuzhi>20%</> verringert. Dies wird von anderen Effekten, die die Abklingzeit zurücksetzen, verringern oder anpassen, nicht beeinflusst.\r\nZusätzlich wird der Voltschaden des Wanderers um <shuzhi>15%</> erhöht. Der Effekt funktioniert auch im Nebenhand-Slot.",
@@ -3820,7 +4142,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_3"
 	},
 	"mimi_thunder_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -3831,7 +4154,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_4"
 	},
 	"mimi_thunder_ssr_star_5": {
 		"advancement": "Wenn der Wanderer tödlichen Schaden erleidet, wird der tödliche Schaden 1-mal verhindert, und er erhält für kurze Zeit Schadensimmunität. Kann 1-mal alle <shuzhi>60</> Sek. ausgelöst werden. Der Set-Effekt funktioniert auch im Nebenhand-Slot.\r\nNach Aktivierung von Standhaftigkeit-Resonanz:\r\nDas Verwenden von <shuzhi>Aufsteigender Drache</> zieht Ziele in der Nähe heran und ignoriert dabei „Hyperkörper“ (unwirksam gegen Bosse).\r\nIm Teamspiel erzeugt <shuzhi>Donnerausbruch</> beim Aufladen alle <shuzhi>6</> Sek. <shuzhi>1</> Volt-Zeitstempel, die in der Reihenfolge verbunden werden, in der sie auftauchen und so ein Stromnetz erzeugen. Das Stromnetz hindert Gegner, sich zu bewegen und blockt ihren Projektilschaden. Jeder Volt-Zeitstempel bleibt für bis zu <shuzhi>20</> Sek. aktiv.",
@@ -3842,7 +4166,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_5"
 	},
 	"mimi_thunder_ssr_star_6": {
 		"advancement": "Das Verwenden von <shuzhi>Azurmond</> erhöht den Volt- und Endschaden des Wanderers für <shuzhi>30</> Sek. um jeweils <shuzhi>10%</> und <shuzhi>10%</>.",
@@ -3853,7 +4178,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 15
-		}
+		},
+		"id": "mimi_thunder_ssr_star_6"
 	},
 	"feise_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht den Flammen-ANG um <shuzhi>20%</> und den Flammenwiderstand um <shuzhi>40%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n<shuzhi>Flammenexplosion: Schneller Hieb</>: Wenn <shuzhi>Endlose Blüte</> ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von <shuzhi>{0}%</> des Flammen-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle <shuzhi>0,5</> Sekunden zusätzlich um das <shuzhi>1</>-fache erhöht, bis zu einem Maximum von <shuzhi>30</>-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn <shuzhi>1</> Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das <shuzhi>{4}</>-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
@@ -3871,7 +4197,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_0"
 	},
 	"feise_fire_ssr_star_1": {
 		"advancement": "Der Basismultiplikator des Schadens von <shuzhi>Flammendes Herz</> wird auf <shuzhi>120%</> des ANG erhöht. Wenn der Wanderer im Kampfstatus mehrere „Verbrennen“-Effekte auslöst, wird der Basismultiplikator des Schadens von <shuzhi>Flammendes Herz</> zusätzlich auf den höchsten Multiplikatoreffekt erhöht.",
@@ -3882,7 +4209,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_1"
 	},
 	"feise_fire_ssr_star_2": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>16%</>.",
@@ -3893,7 +4221,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_2"
 	},
 	"feise_fire_ssr_star_3": {
 		"advancement": "Die maximale Anzahl von <shuzhi>Fei Ses Trugbild</> wird auf <shuzhi>2</> erhöht. Nach einem Treffer mit <shuzhi>Wirbelwind</> wird <shuzhi>1</> zusätzliches <shuzhi>Fei Ses Trugbild</> erzeugt.",
@@ -3904,7 +4233,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_3"
 	},
 	"feise_fire_ssr_star_4": {
 		"advancement": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um <shuzhi>32%</>.",
@@ -3915,7 +4245,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_4"
 	},
 	"feise_fire_ssr_star_5": {
 		"advancement": "Pro <shuzhi>1</> <shuzhi>Fei Ses Trugbild</> oder <shuzhi>Lotusblütenblatt</> im <shuzhi>Wunderwerk</> wird der Schaden von <shuzhi>Flammendes Herz</> zusätzlich um <shuzhi>15%</> erhöht.\r\nDer Ausdauerverbrauch von <shuzhi>Lotus-Apsara</> wird um <shuzhi>75%</> gesenkt.",
@@ -3926,7 +4257,8 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_5"
 	},
 	"feise_fire_ssr_star_6": {
 		"advancement": "Der Basismultiplikator für den Schaden durch <shuzhi>Seelenschwere</> wird auf <shuzhi>900%</> des ANG erhöht, Zertrümmern wird verdoppelt und es besteht eine Chance von <shuzhi>15%</>, nach einem Treffer für <shuzhi>2</> Sek. eine Verzögerung von <shuzhi>65%</> zuzufügen (gegen Bosse im Teamspiel unwirksam und nicht in der Apex-Liga verfügbar).",
@@ -3937,6 +4269,7 @@
 		"stats": {
 			"shatter": 14,
 			"charge": 12
-		}
+		},
+		"id": "feise_fire_ssr_star_6"
 	}
 }
