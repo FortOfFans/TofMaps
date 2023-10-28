@@ -1822,7 +1822,7 @@
 		"id": "Linghan_ice_ssr_star_0"
 	},
 	"Linghan_ice_ssr_star_1": {
-		"advancement": "Nach dem Abfeuern von <shuzhi>Frostklingen</> wird der Frost-ANG des Wanderers um <shuzhi>{0}%</> erhöht und Zielen in der Nähe wird für <shuzhi>{1}</> Sek. jede Sekunde Schaden in Höhe von <shuzhi>104%</> des ANG zugefügt.",
+		"advancement": "Nach dem Abfeuern von <shuzhi>Frostklingen</> wird der Frost-ANG des Wanderers um <shuzhi>{0}%</> erhöht und Zielen in der Nähe wird für <shuzhi>{1}</> Sek. jede Sekunde Schaden in Höhe von <shuzhi>80%</> des ANG zugefügt.",
 		"numbermap": "CurveTable'LinghanEffectFigure'",
 		"numbers": [
 			"Buff_Linghan_Effect_L1_IceAtkUp",
@@ -1850,7 +1850,7 @@
 		"id": "Linghan_ice_ssr_star_2"
 	},
 	"Linghan_ice_ssr_star_3": {
-		"advancement": "Der Wanderer kann bis zu <shuzhi>4</> <shuzhi>Frostklingen</> erzeugen und der Basismultiplikator des Schadens von <shuzhi>Temperaturabfall</> wird auf <shuzhi>468%</> erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von <shuzhi>{0}</> Sek. von <shuzhi>Temperaturabfall</> betroffen ist, wird dem Ziel zusätzlich ein <shuzhi>Adersiegel</> zugefügt, wodurch es um <shuzhi>{1}%</> verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von <shuzhi>Adersiegel</> erneut Schaden durch <shuzhi>Frostklinge</> erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von <shuzhi>{2}%</> des ANG + <shuzhi>{3}%</> der zu diesem Zeitpunkt verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als <shuzhi>{4}%</> und nicht höher als <shuzhi>{5}%</> des Frost-ANG des Wanderers). Anschließend werden die Effekte von <shuzhi>Adersiegel</> und <shuzhi>Temperaturabfall</> vom Ziel entfernt.",
+		"advancement": "Der Wanderer kann bis zu <shuzhi>4</> <shuzhi>Frostklingen</> erzeugen und der Basismultiplikator des Schadens von <shuzhi>Temperaturabfall</> wird auf <shuzhi>360%</> erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von <shuzhi>{0}</> Sek. von <shuzhi>Temperaturabfall</> betroffen ist, wird dem Ziel zusätzlich ein <shuzhi>Adersiegel</> zugefügt, wodurch es um <shuzhi>{1}%</> verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von <shuzhi>Adersiegel</> erneut Schaden durch <shuzhi>Frostklinge</> erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von <shuzhi>{2}%</> des ANG + <shuzhi>{3}%</> der zu diesem Zeitpunkt bereits verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als <shuzhi>{4}%</> und nicht höher als <shuzhi>{5}%</> des Frost-ANG des Wanderers). Anschließend werden die Effekte von <shuzhi>Adersiegel</> und <shuzhi>Temperaturabfall</> vom Ziel entfernt.",
 		"numbermap": "CurveTable'LinghanEffectFigure'",
 		"numbers": [
 			"Buff_Linghan_Frostbite_DelayAdd_Period",
@@ -1898,7 +1898,7 @@
 		"id": "Linghan_ice_ssr_star_5"
 	},
 	"Linghan_ice_ssr_star_6": {
-		"advancement": "Nach dem Einsatz von <shuzhi>Frostklingen</> wird der Effekt von <shuzhi>Temperaturabfall</> auf ein Gebiet angewendet. Zudem fügt er Zielen in der Nähe zusätzlichen Schaden in Höhe von <shuzhi>1170%</> des ANG zu.",
+		"advancement": "Nach dem Einsatz von <shuzhi>Frostklingen</> wird der Effekt von <shuzhi>Temperaturabfall</> auf ein Gebiet angewendet. Zudem fügt er Zielen in der Nähe zusätzlichen Schaden in Höhe von <shuzhi>990%</> des ANG zu.",
 		"numbers": [],
 		"cost": 13500,
 		"need": "Linghan_ice_plasm",

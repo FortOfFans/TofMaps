@@ -9376,10 +9376,10 @@
 		"id": "choose_Mount_006_skin_medium"
 	},
 	"choose_newbpfinal_linye": {
-		"name": "影織セレクトボックス",
+		"name": "シャドーウィーブ選択宝箱",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "選択宝箱",
-		"source": "開くと次のいずれかの報酬を選択できます：影織、闇市鋳金*120",
+		"source": "次の報酬の中から1つ選択可能：シャドーウィーブ、闇市コイン×10",
 		"icon": "/Game/Resources/Icon/item/gift_newbplinye.png",
 		"shortIcon": "gift_newbplinye",
 		"rarity": "LEGENDRY",
@@ -17551,10 +17551,10 @@
 		"id": "fragment_Hat_70_4_4"
 	},
 	"fragment_Hat_29_4_4": {
-		"name": "Shard Labu Permen",
+		"name": "お菓子のかぼちゃの欠片",
 		"type": "ITEM_TYPE_FRAGMENT",
-		"description": "Khawatir tidak bisa memasukkan lebih banyak permen ke dalam sakumu? Inilah saatnya kamu membawa-bawa toples permen portabel!",
-		"source": "Kumpulkan 70 shard Labu Permen untuk disatukan menjadi Labu Permen.",
+		"description": "ポケットからお菓子があふれちゃう？お菓子箱を持ち歩けばOK！",
+		"source": "70個集めるとお菓子のかぼちゃを合成できる",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101.png",
 		"shortIcon": "fashion_icon_shipin_101",
 		"rarity": "LEGENDRY",
@@ -17621,10 +17621,10 @@
 		"id": "fragment_fashion_decoration_86_4"
 	},
 	"fragment_fashion_decoration_91_4": {
-		"name": "Shard Iblis Cilik",
+		"name": "リトルデビルの欠片",
 		"type": "ITEM_TYPE_FRAGMENT",
-		"description": "Hati-hati, kalau malam suka ada Iblis Cilik yang mengincar lehermu! Hiiii!",
-		"source": "Kumpulkan 4 shard Iblis Cilik untuk disatukan menjadi Iblis Cilik.",
+		"description": "闇夜に潜む小悪魔にご用心。ほらほら、首元に気をつけて！",
+		"source": "リトルデビルの欠片を4つ集めるとリトルデビルを合成できる",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
 		"rarity": "LEGENDRY",
@@ -17974,7 +17974,7 @@
 		"id": "Hat_28_4_4"
 	},
 	"Hat_29_4_4": {
-		"name": "お菓子のカボチャ",
+		"name": "お菓子のかぼちゃ",
 		"type": "ITEM_TYPE_CONSUMABLE",
 		"description": "ポケットからお菓子があふれちゃう？お菓子箱を持ち歩けばOK！",
 		"source": "獲得後に開放",
@@ -29359,7 +29359,7 @@
 		"name": "アイダコイン",
 		"type": "ITEM_TYPE_CURRENCY",
 		"description": "争いの道イベント通貨",
-		"source": "イベント「明星の道」参加で獲得、イベント商店で報酬と交換できる",
+		"source": "イベント「明星の道」に参加すると獲得、イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/UI/Activity/AstralPortal/UI_icon_huobi_xingli.png",
 		"shortIcon": "UI_icon_huobi_xingli",
 		"rarity": "EPIC",
@@ -29369,7 +29369,7 @@
 		"name": "レアスター",
 		"type": "ITEM_TYPE_CURRENCY",
 		"description": "細かく砕けた星の欠片。異空間から届いた光を反射している",
-		"source": "イベント「星空の交わり」参加で獲得、イベント商店で報酬と交換できる",
+		"source": "イベント「星空の交わり」に参加すると獲得、イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/Icon/huobi/Enlightenment_02.png",
 		"shortIcon": "Enlightenment_02",
 		"rarity": "EPIC",
@@ -29389,27 +29389,27 @@
 		"name": "迷路勲章",
 		"type": "ITEM_TYPE_CURRENCY",
 		"description": "HOTTAスタジオが開催するイベント「ブロック迷路」で獲得できる勲章。チャレンジしよう！",
-		"source": "イベント「ブロック迷路」参加で獲得、イベント商店で報酬と交換できる",
+		"source": "イベント「ブロック迷路」に参加すると獲得、イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/Icon/item/HiveJumpCoin.png",
 		"shortIcon": "HiveJumpCoin",
 		"rarity": "EPIC",
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
-		"name": "Koin Master",
+		"name": "マスターコイン",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Emblem berdesain mewah. Emblem ini mencerminkan kehormatan besar bagi para pejuang.",
-		"source": "Berpartisipasilah dalam event Arena Mega Master untuk mendapatkannya, yang bisa ditukarkan dengan hadiah di Toko.",
+		"description": "巧みなデザインが施された勲章。戦士にとってこの上ない栄誉",
+		"source": "イベント「MEGAマスター戦」に参加すると獲得、イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
 		"id": "Item_TowerDefenceCoin_01"
 	},
 	"Item_MegaGuruCoin": {
-		"name": "Koin Master",
+		"name": "マスターコイン",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Emblem berdesain mewah. Emblem ini mencerminkan kehormatan besar bagi para pejuang.",
-		"source": "Berpartisipasilah dalam event Arena Mega Master untuk mendapatkannya, yang bisa ditukarkan dengan hadiah di Toko.",
+		"description": "巧みなデザインが施された勲章。戦士にとってこの上ない栄誉",
+		"source": "イベント「MEGAマスター戦」に参加すると獲得、イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
@@ -29476,20 +29476,20 @@
 		"id": "Item_MowingCoin"
 	},
 	"Item_MidAutumnCoin_01": {
-		"name": "星の砂",
+		"name": "ジュース",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "小瓶には子ども時代の夢が詰まっている",
-		"source": "イベント「エコープロトコル」、「空飛ぶエクスプレス「、「星の砂リサイクル」参加で獲得、イベント商店で報酬と交換できる",
+		"description": "瓶の中に甘いジュースがたっぷりと入っている",
+		"source": "イベント「果物注意報」に参加すると獲得、イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
 		"id": "Item_MidAutumnCoin_01"
 	},
 	"Item_JuiceCoin": {
-		"name": "星の砂",
+		"name": "ジュース",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "小瓶には子ども時代の夢が詰まっている",
-		"source": "イベント「エコープロトコル」、「空飛ぶエクスプレス「、「星の砂リサイクル」参加で獲得、イベント商店で報酬と交換できる",
+		"description": "瓶の中に甘いジュースがたっぷりと入っている",
+		"source": "イベント「果物注意報」に参加すると獲得、イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/Icon/item/Item_Drink_003.png",
 		"shortIcon": "Item_Drink_003",
 		"rarity": "EPIC",
@@ -29656,10 +29656,10 @@
 		"id": "Item_HalloweenCoin_04"
 	},
 	"Item_FollowGhostCoin": {
-		"name": "Permen Apel",
+		"name": "リンゴ飴",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Apel yang baru dipanen, dilapisi oleh sirup dan ditaburi kacang, cocok untuk anak-anak yang datang untuk trick-or-treat.",
-		"source": "Dapat ditukarkan dengan hadiah di Toko.",
+		"description": "採れたてのリンゴをシロップでコーティングし、ナッツでトッピングしたもの。トリックオアトリートのお返しにピッタリ",
+		"source": "イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin.png",
 		"shortIcon": "FollowGhostCoin",
 		"rarity": "RARE",
@@ -30298,7 +30298,7 @@
 	"BreakFate_InnerCoin": {
 		"name": "運命の包囲網突破コイン",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Emblem berdesain mewah. Emblem ini mencerminkan kehormatan besar bagi para pejuang.",
+		"description": "巧みなデザインが施された勲章。戦士にとってこの上ない栄誉",
 		"source": "戦闘物資の購入が可能",
 		"icon": "/Game/Resources/Icon/item/BreakFate_InnerCoin.png",
 		"shortIcon": "BreakFate_InnerCoin",
@@ -36987,9 +36987,9 @@
 		"id": "Title_1_4_8_4"
 	},
 	"Title_1_4_8_5": {
-		"name": "Pembersihan Mengukir Labirin",
+		"name": "蝕刻の迷域の掃討",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Kalahkan Boss Akhir Stage 2 Level 5 di Rekonstruksi Kabut.",
+		"description": "「霧の再構築」2ndシーズンの5階最終ボスを撃破",
 		"source": "名誉称号",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
 		"shortIcon": "pet_chip_0101",
@@ -37329,9 +37329,9 @@
 		"id": "chat_qipao_98"
 	},
 	"chat_qipao_99": {
-		"name": "Petualangan Seru",
+		"name": "旅路・祝福",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Yuk, mengobrol dengan Shirli!",
+		"description": "さあ、シャーリーとおしゃべりしよう！",
 		"source": "チャット吹き出し",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_99.png",
 		"shortIcon": "icon_qipao_99",
@@ -37339,9 +37339,9 @@
 		"id": "chat_qipao_99"
 	},
 	"chat_qipao_100": {
-		"name": "Awal Mula Kehidupan",
+		"name": "新生・萌芽",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Aku sibuk menguraikan pesan yang kamu kirim...",
+		"description": "あなたが送ってくれたメッセージを、頑張って解読中よ…",
 		"source": "チャット吹き出し",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_100.png",
 		"shortIcon": "icon_qipao_100",
@@ -37349,9 +37349,9 @@
 		"id": "chat_qipao_100"
 	},
 	"chat_qipao_101": {
-		"name": "Jalanan Dingin",
+		"name": "雪歩",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Jalan-jalan santai di pantai, telapak kaki terasa dingin.",
+		"description": "ビーチを軽やかに歩き、その足で氷の感触を味わおう",
 		"source": "チャット吹き出し",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_101.png",
 		"shortIcon": "icon_qipao_101",
@@ -37359,9 +37359,9 @@
 		"id": "chat_qipao_101"
 	},
 	"chat_qipao_102": {
-		"name": "Saluran Komunikasi Ignisville",
+		"name": "火州通信チャンネル",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Saluran ini khusus komunikasi internal Sparrotail. Siapa pun dilarang membocorkan isinya. Kalau masih nekat, akan kena tuntut!",
+		"description": "このチャンネルは「雀尾」同士の連絡目的に限定し使用されている。無断での開示は禁止されており、違反すれは法的措置の対象となる",
 		"source": "チャット吹き出し",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_102.png",
 		"shortIcon": "icon_qipao_102",
@@ -37369,9 +37369,9 @@
 		"id": "chat_qipao_102"
 	},
 	"chat_qipao_103": {
-		"name": "Dengarkan Raunganku",
+		"name": "我が咆哮を聞け",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "\"Rawr...\" \"Rawrrr...\" Ingat aku?",
+		"description": "「アオーン」「アオォーン」さあ、これで覚えたか？",
 		"source": "チャット吹き出し",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_103.png",
 		"shortIcon": "icon_qipao_103",
@@ -37395,9 +37395,9 @@
 		"id": "chat_qipao_105"
 	},
 	"animated_qipao_1": {
-		"name": "Inspirasi Puisi",
+		"name": "詩のひらめき",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Senang dan sedih dalam hati, pertemuan dan perpisahan tak bisa dipungkiri, siang dan malam silih berganti. Kutipan puisi ini bisa dibacakan ke siapa, ya?",
+		"description": "喜びと悲しみ、出会いと別れ、月と太陽の満ち欠け。これらの詩を分かち合える相手は、どこにいるのだろうか？",
 		"source": "チャット吹き出し",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_animated_qipao_1.png",
 		"shortIcon": "icon_animated_qipao_1",
@@ -37599,19 +37599,19 @@
 		"id": "TicketCard06"
 	},
 	"HXXK_clue": {
-		"name": "Cari petunjuk",
+		"name": "手がかりを調べる",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Petunjuk khusus yang disediakan oleh Departemen Editorial Bulanan Comet. Petunjuk ini membantu pembaca untuk menyelesaikan misi dan menukarnya dengan Stamp secara lebih efisien.",
-		"source": "Bisa digunakan untuk menginvestigasi.",
+		"description": "月刊「彗星」の編集部が提供する特別なヒント。読者がより効率的にミッションをクリアし、スタンプと交換できるようサポートする",
+		"source": "調査に用いることができる",
 		"icon": "/Game/Resources/UI/Activity/item_xiansuo.png",
 		"shortIcon": "item_xiansuo",
 		"rarity": "RARE",
 		"id": "HXXK_clue"
 	},
 	"Avatar_107": {
-		"name": "Topeng Malam",
+		"name": "闇夜の仮面",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Coba... tebak siapa aku!",
+		"description": "ふふ…さてさて、私は誰でしょう？",
 		"source": "獲得後に開放",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_107.png",
 		"shortIcon": "Item_Avatar_107",
@@ -37619,9 +37619,9 @@
 		"id": "Avatar_107"
 	},
 	"AvatarFrame_107": {
-		"name": "Gumpalan Sutra",
+		"name": "錦の羽珠",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "Dengar! Dalam keheningan malam, kelelawar menari dan burung gagak menyanyikan lagu yang menyeramkan. Bulu-bulu berbayang melayang turun tanpa suara—apakah itu cuma angin, atau suara bisikan?",
+		"description": "よく聞け！夜の静寂の中、コウモリは舞い、カラスは不気味な歌を奏でる。黒影の如き羽毛が静かに落ち、風のように踊るだろう",
 		"source": "獲得後に開放",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107.png",
 		"shortIcon": "icon_AvatarFrame_107",
@@ -37629,9 +37629,9 @@
 		"id": "AvatarFrame_107"
 	},
 	"chat_qipao_107": {
-		"name": "Gulungan Hias",
+		"name": "錦の巻物",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Buka gulungan untuk menyingkap tulisan-tulisan misterius. Hati-hati, huruf-huruf yang tidak terbaca itu mungkin berisi rahasia sang malam.",
+		"description": "巻物を広げると、謎めいた文字が現れた。気をつけて。この読めない文字には、夜の秘密が隠されているかもしれないよ？",
 		"source": "チャット吹き出し",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107.png",
 		"shortIcon": "icon_qipao_107",
@@ -37639,19 +37639,19 @@
 		"id": "chat_qipao_107"
 	},
 	"bag_chat_qipao107": {
-		"name": "Giftbox Topeng Malam",
+		"name": "「闇夜の仮面」ギフトボックス",
 		"type": "ITEM_TYPE_GIFT",
-		"description": "Dengar! Dalam keheningan malam, kelelawar menari dan burung gagak menyanyikan lagu yang menyeramkan. Bulu-bulu berbayang melayang turun tanpa suara—apakah itu cuma angin, atau suara bisikan?",
-		"source": "Pakai untuk mendapatkan Avatar Topeng Malam, Bingkai Avatar Gumpalan Sutra, dan Gelembung Obrolan Gulungan Hias.",
+		"description": "よく聞け！夜の静寂の中、コウモリは舞い、カラスは不気味な歌を奏でる。黒影の如き羽毛が静かに落ち、風のように踊るだろう",
+		"source": "使用するとアイコン「闇夜の仮面」、アイコンフレーム「錦の羽珠」、チャット吹き出し「錦の巻物」を獲得できる",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107.png",
 		"shortIcon": "bag_chat_qipao107",
 		"rarity": "LEGENDRY",
 		"id": "bag_chat_qipao107"
 	},
 	"fashion_dress_58_4": {
-		"name": "Kilau Sutra",
+		"name": "瑠璃錦彩",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Boneka labu menjerit yang mengenakan topeng yang meriah. Pakai untuk bersinar di bawah sorotan lampu di atas panggung atau lenyap di malam hari, dengan hanya meninggalkan jejak warna merah tua dan angin yang berbisik.",
+		"description": "賑やかな仮面舞踏会に現れた、悲鳴を上げるカボチャの人形。ステージでスポットライトを浴びて輝くも良し、真紅と風の音だけを残して闇夜に消えるも良し",
 		"source": "獲得後に開放",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58.png",
 		"shortIcon": "fashion_f58",
@@ -37659,9 +37659,9 @@
 		"id": "fashion_dress_58_4"
 	},
 	"Hat_73_4_4": {
-		"name": "Kelelawar Crimson",
+		"name": "クリムゾンバット",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Kelelawar Crimson menemanimu berdansa di malam yang sunyi. Jangan sampai ketakutan, ya.",
+		"description": "静かな夜に、真紅のコウモリがあなたと踊る。そこの通行人さん、ビックリしないようにね！",
 		"source": "獲得後に開放",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157.png",
 		"shortIcon": "fashion_icon_shipin_157",
@@ -37669,9 +37669,9 @@
 		"id": "Hat_73_4_4"
 	},
 	"fashion_decoration_91_4": {
-		"name": "Iblis Cilik",
+		"name": "リトルデビル",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Hati-hati, kalau malam suka ada Iblis Cilik yang mengincar lehermu! Hiiii!",
+		"description": "闇夜に潜む小悪魔にご用心。ほらほら、首元に気をつけて！",
 		"source": "獲得後に開放",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
@@ -39848,7 +39848,7 @@
 		"id": "WeaponFragment_DoubleUP10_OS"
 	},
 	"WeaponFragment_ALLUP_OS": {
-		"name": "Flame Gold (Journey)",
+		"name": "逆火のコイン・出発",
 		"type": "ITEM_TYPE_BARTER",
 		"description": "武器職人が特定のオムニアム武器を回収して鋳造したコイン。特殊なルートでしか流通していない。それ自体が工芸品のようになっている。武器と交換可能",
 		"source": "期間限定武器交換<Red>(限定ガチャ終了時に同等数の闇市コインと交換されます)</>",
@@ -40058,7 +40058,7 @@
 		"id": "EquipFragment_DoubleUP10_OS"
 	},
 	"EquipFragment_ALLUP_OS": {
-		"name": "Overclocking Chip (Journey)",
+		"name": "オーバークロックチップ・出発",
 		"type": "ITEM_TYPE_BARTER",
 		"description": "特別なチップを製造する時に用いる原料。複雑な工程で処理され、性能も一般的なチップと異なる。交換に使用できる限定ボリションチップ",
 		"source": "期間限定ボリション交換<Red>(限定ガチャ終了時に同等数のチップ原型と交換されます)</>",
@@ -40576,10 +40576,10 @@
 		"id": "Title_epic_os01"
 	},
 	"Item_MidAutumnCoin_OS": {
-		"name": "星の砂",
+		"name": "ジュース",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "小瓶には子ども時代の夢が詰まっている",
-		"source": "イベント「星砂リサイクル」参加で獲得、イベント商店で報酬と交換できる",
+		"description": "瓶の中に甘いジュースがたっぷりと入っている",
+		"source": "イベント「果物注意報」に参加すると獲得、イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
@@ -40806,10 +40806,10 @@
 		"id": "choose_weapon_ssr_init_OS2"
 	},
 	"choose_weapon_ssr_init_OS3": {
-		"name": "Box Senjata SSR Bebas Pilih IV",
+		"name": "SSR選択武器箱Ⅳ",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "選択武器箱",
-		"source": "Buka kotak dan pilih salah satu Senjata <orange>SSR</> di dalamnya: Vesper, Thunderbreaker, Heartstream, Spark, Venus, Balmung, Guren Blade, Flaming Revolver, Thunderblades, Rosy Edge, Icewind Arrow, Absolute Zero, Scythe of the Crow, Chakram of the Seas, Negating Cube, Dual EM Stars, atau Molten Shield V2.",
+		"source": "次の<orange>SSR</>武器から1つ選択可能：夕べの祈り、破重雷槍、水流の徹心、スパーク、明けの明星、バルムンク、紅蓮刀、フレイムリボルバー、迅雷の双刃、薔薇の頂、氷風の矢、零度の指針、レイヴンの大鎌、海の戦輪、ネガティブキューブ、超電磁二重星、V2メルトシールド",
 		"icon": "/Game/ResourcesOverSea/Icon/item/choose_weapon_ssr_init_OS2.png",
 		"shortIcon": "choose_weapon_ssr_init_OS2",
 		"rarity": "LEGENDRY",
@@ -41108,7 +41108,7 @@
 	"choose_Imitation_PS_DeluxeEdition_OS": {
 		"name": "アバターデラックス選択箱",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
-		"description": "選択宝箱",
+		"description": " ",
 		"source": "次の<orange>SSR</>武器から1つ選択可能：バルムンク、明けの明星、迅雷の双刃、薔薇の頂、氷風の矢、零度の指針、レイヴンの大鎌、海の戦輪、ネガティブキューブ、超電磁二重星、V2メルトシールド",
 		"icon": "/Game/Resources/Icon/item/gift_weapon_ssr.png",
 		"shortIcon": "gift_weapon_ssr",
@@ -41596,7 +41596,7 @@
 		"id": "AvatarFrame_txshikuang_01"
 	},
 	"Title_txshikuang_01": {
-		"name": "『Tower of Fantasy』公認実況者第1期",
+		"name": "公認実況者第1期",
 		"type": "ITEM_TYPE_CONSUMABLE",
 		"description": "公認実況者限定獲得",
 		"source": "名誉称号",
@@ -41956,9 +41956,9 @@
 		"id": "AvatarFrame_PlayStation33_os02"
 	},
 	"Avatar_Overseas_28": {
-		"name": "Ling Han: T Pose",
+		"name": "凌寒・Tポーズ",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Aku Ling Han, pemimpin Paviliun Longjian. Aku biasa dipanggil Baihu di Domain 9.",
+		"description": "私は凌寒、竜剣閣の主よ。皆「白虎様」と呼んでいるわ。",
 		"source": "獲得後に開放",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_28i.png",
 		"shortIcon": "Avatar_Overseas_28i",
@@ -41966,9 +41966,9 @@
 		"id": "Avatar_Overseas_28"
 	},
 	"Avatar_tongyong33_os01": {
-		"name": "Mister Dracula",
+		"name": "ドラキュラ伯爵",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Ha-ha-ha-ha, kamu kebangetan ya! Aku hampir enggak sanggup menahan gigi palsuku supaya enggak lepas waktu ketawa. Semoga enggak lepas, deh, soalnya gigi palsu itu susah dicari di sini.",
+		"description": "ハハハ、まったく大したもんだ！おっと、笑うと差し歯が抜け落ちそうになるんだ、生態緑化センターでこういう小道具を見つけるのは簡単じゃなくてな…",
 		"source": "獲得後に開放",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os01i.png",
 		"shortIcon": "Avatar_tongyong33_os01i",
@@ -41976,9 +41976,9 @@
 		"id": "Avatar_tongyong33_os01"
 	},
 	"Avatar_tongyong33_os02": {
-		"name": "Princess Woodley",
+		"name": "ミイラプリンセス",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Ini adalah isyarat yang baru saja kupelajari, dan sepertinya sangat cocok untuk situasi saat ini.",
+		"description": "これは最近習ったばかりのジェスチャーなの、今こそ披露するのに最適なタイミングかと思って…",
 		"source": "獲得後に開放",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os02i.png",
 		"shortIcon": "Avatar_tongyong33_os02i",
@@ -41986,9 +41986,9 @@
 		"id": "Avatar_tongyong33_os02"
 	},
 	"Avatar_tongyong33_os03": {
-		"name": "Little Spirit",
+		"name": "幽霊ちゃん",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Kamu akan menyesal sudah melihat diriku yang ini!!!",
+		"description": "わ、私のこの姿を見たら、きっと後悔するからね！",
 		"source": "獲得後に開放",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os03i.png",
 		"shortIcon": "Avatar_tongyong33_os03i",
@@ -41996,9 +41996,9 @@
 		"id": "Avatar_tongyong33_os03"
 	},
 	"Avatar_tongyong33_os04": {
-		"name": "Nona Jumpy",
+		"name": "ぴょんぴょん娘",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Apa kamu berniat menakut-nakuti Ruby seperti ini...?",
+		"description": "あなたたちも、ラビィを驚かせるつもり…？",
 		"source": "獲得後に開放",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os04i.png",
 		"shortIcon": "Avatar_tongyong33_os04i",
@@ -42006,9 +42006,9 @@
 		"id": "Avatar_tongyong33_os04"
 	},
 	"AvatarFrame_txcreatos_07": {
-		"name": "Hutan Azure",
+		"name": "青龍の森",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "Sekelumit kabut keraguan di hijaunya hutan.",
+		"description": "緑の森に漂う疑念の雲",
 		"source": "獲得後に開放",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_07i.png",
 		"shortIcon": "AvatarFrame_txcreatos_07i",
@@ -42018,7 +42018,7 @@
 	"Avatar_Koreatongyong33_01": {
 		"name": "Firerat",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Domain 9 adalah tempat yang sangat indah.",
+		"description": "九域の景色…なかなか悪くないかも",
 		"source": "獲得後に開放",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Koreatongyong33_01i.png",
 		"shortIcon": "Avatar_Koreatongyong33_01i",
@@ -42026,9 +42026,9 @@
 		"id": "Avatar_Koreatongyong33_01"
 	},
 	"AvatarFrame_Koreatongyong33_01": {
-		"name": "Cincin Api",
+		"name": "炎輪",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "Rasakan semangatku!",
+		"description": "この情熱を感じて",
 		"source": "獲得後に開放",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Koreatongyong33_01i.png",
 		"shortIcon": "AvatarFrame_Koreatongyong33_01i",
@@ -42036,9 +42036,9 @@
 		"id": "AvatarFrame_Koreatongyong33_01"
 	},
 	"chat_qipao_Koreatongyong33_01": {
-		"name": "Emblazen",
+		"name": "ブレイズ",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Ayo Chattingan!",
+		"description": "さあ、おしゃべりしよう！",
 		"source": "チャット吹き出し",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01.png",
 		"shortIcon": "icon_qipao_Koreatongyong33_01",
@@ -42228,7 +42228,7 @@
 		"name": "トリプルマスク",
 		"type": "ITEM_TYPE_ARTIFACT",
 		"description": "顔に傷のある人物によって作られた、装飾的なアシストアルケーのセット。装飾としての価値はともかく、一般的な機能性は備えている。マスクは本来自分を隠すためのものだが、そこに含まれる技術は新たな発見を促してくれる",
-		"source": "トリプルマスクの中から「隠密マスク」を装着し、かつワールド探索をしているとき、ボス以外の敵から攻撃を受けなくなる。なお、特定の敵に発見された場合は探知が発動する。また、隠密マスクの装着中、マスクの効果対象である敵に攻撃を仕掛けても他の敵からの攻撃を誘発しなくなる。再度トリプルマスクを使用するとこのマスクは解除され、クールダウンに入る。クールダウン<shuzhi>20</>秒",
+		"source": "トリプルマスク発動時に「隠密マスク」を選択し、かつワールド探索をしているとき、ボス以外の敵から攻撃を受けなくなる。なお、特定の敵に発見された場合は探知が発動する。また、隠密マスクの装着中、マスクの効果対象である敵に攻撃を仕掛けても他の敵からの攻撃を誘発しなくなる。再度トリプルマスクを使用するとこのマスクは解除され、クールダウンに入る。クールダウン<shuzhi>20</>秒",
 		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_021.png",
 		"shortIcon": "artifact_ssr_021",
 		"rarity": "LEGENDRY",

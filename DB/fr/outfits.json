@@ -7,10 +7,10 @@
 		"id": "fashion_dress_27"
 	},
 	"fashion_dress_58": {
-		"name": "Parure de soie",
-		"description": "Des marionnettes en forme de citrouille hurlent au cœur d'une mascarade survoltée. À porter pour briller sous les feux de la rampe ou pour disparaître dans les ténèbres, en ne laissant derrière soi qu'une traînée pourpre et une brise emplie de murmures.",
+		"name": "Adorno de Seda",
+		"description": "Marionetas de calabaza gritan vestidas con una mascarada colorida. Úsala para convertirte en el centro de atención sobre el escenario o para desaparecer en la noche. Solo dejarás un rastro carmesí y una briza que susurra.",
 		"type": "Dress",
-		"source": "S'obtient lors de l'événement Parure de soie",
+		"source": "Se obtiene del evento Adorno de Seda",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
 		"id": "fashion_dress_58"
 	},
@@ -865,8 +865,8 @@
 		"id": "fashion_decoration_88"
 	},
 	"fashion_decoration_91": {
-		"name": "Petit diable",
-		"description": "Méfiez-vous des petits diables qui rôdent dans les ténèbres. Attention à votre cou !",
+		"name": "Minidemonio",
+		"description": "Cuidado con los pequeños Demonios que acechan en la noche. ¡Cuidado con el cuello!",
 		"type": "Headwear",
 		"source": "À partir des événements",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",

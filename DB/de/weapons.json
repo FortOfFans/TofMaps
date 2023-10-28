@@ -385,6 +385,7 @@
 			"icon": "imitation_14",
 			"avatarID": "peipei",
 			"age": "9. Juli",
+			"height": "160 cm",
 			"gender": "Weiblich",
 			"state": "Hykros’ Medizinische Abteilung",
 			"city": "Banges",
@@ -563,6 +564,7 @@
 			"icon": "imitation_15",
 			"avatarID": "hida",
 			"age": "11. April",
+			"height": "165 cm",
 			"gender": "Weiblich",
 			"state": "Banges",
 			"city": "Unbekannt",
@@ -712,6 +714,7 @@
 			"icon": "imitation_27",
 			"avatarID": "genuonuo",
 			"age": "6. März",
+			"height": "134 cm",
 			"gender": "Weiblich",
 			"state": "Unbekannt",
 			"city": "Innars",
@@ -903,6 +906,7 @@
 			"icon": "imitation_2",
 			"avatarID": "xi",
 			"age": "17. August",
+			"height": "145 cm",
 			"gender": "Weiblich",
 			"state": "Victoria Security",
 			"city": "Krone",
@@ -1087,6 +1091,7 @@
 			"icon": "imitation_16",
 			"avatarID": "bailing",
 			"age": "8. Mai",
+			"height": "163 cm",
 			"gender": "Weiblich",
 			"state": "HT201-Zuflucht",
 			"city": "HT201-Zuflucht",
@@ -1259,6 +1264,7 @@
 			"icon": "imitation_4",
 			"avatarID": "aige",
 			"age": "14. August",
+			"height": "162 cm",
 			"gender": "Weiblich",
 			"state": "Unbekannt",
 			"city": "Warren",
@@ -1444,6 +1450,7 @@
 			"icon": "imitation_13",
 			"avatarID": "wuwan",
 			"age": "17. Dezember",
+			"height": "162 cm",
 			"gender": "Männlich",
 			"state": "Unbekannt",
 			"city": "Astra",
@@ -1623,6 +1630,7 @@
 			"icon": "imitation_3",
 			"avatarID": "meilier",
 			"age": "10. Oktober",
+			"height": "170 cm",
 			"gender": "Weiblich",
 			"state": "Hykros",
 			"city": "Unbekannt",
@@ -1813,6 +1821,7 @@
 			"icon": "imitation_7",
 			"avatarID": "sifengyuanyu",
 			"age": "24. März",
+			"height": "169 cm",
 			"gender": "Weiblich",
 			"state": "Erben von Aida",
 			"city": "Astra",
@@ -1986,6 +1995,7 @@
 			"icon": "imitation_11",
 			"avatarID": "kekelite",
 			"age": "1. Juni",
+			"height": "147 cm",
 			"gender": "Weiblich",
 			"state": "Hykros’ Medizinische Abteilung",
 			"city": "Hykros",
@@ -2166,6 +2176,7 @@
 			"icon": "imitation_9",
 			"avatarID": "KING",
 			"age": "3. November",
+			"height": "190 cm",
 			"gender": "Männlich",
 			"state": "Ravager",
 			"city": "Krone",
@@ -2351,6 +2362,7 @@
 			"icon": "imitation_10",
 			"avatarID": "gulan",
 			"age": "26. Juni",
+			"height": "157 cm",
 			"gender": "Weiblich",
 			"state": "Banges-Technik",
 			"city": "Krone",
@@ -2531,6 +2543,7 @@
 			"icon": "imitation_12",
 			"avatarID": "kelaodiya",
 			"age": "16. Januar",
+			"height": "170 cm",
 			"gender": "Weiblich",
 			"state": "Hykros",
 			"city": "Hykros",
@@ -2711,6 +2724,7 @@
 			"icon": "imitation_8",
 			"avatarID": "xiluo",
 			"age": "22. September",
+			"height": "163 cm",
 			"gender": "Weiblich",
 			"state": "Unbekannt",
 			"city": "Warren",
@@ -2890,6 +2904,7 @@
 			"icon": "imitation_1",
 			"avatarID": "ling",
 			"age": "6. Juni",
+			"height": "155 cm",
 			"gender": "Männlich",
 			"state": "Unbekannt",
 			"city": "Banges",
@@ -3069,6 +3084,7 @@
 			"icon": "imitation_5",
 			"avatarID": "saimier",
 			"age": "20. Mai",
+			"height": "171 cm",
 			"gender": "Weiblich",
 			"state": "Hykros",
 			"city": "Unbekannt",
@@ -3241,6 +3257,7 @@
 			"icon": "imitation_6",
 			"avatarID": "xiuma",
 			"age": "12. Januar",
+			"height": "167 cm",
 			"gender": "Weiblich",
 			"state": "Hykros",
 			"city": "Unbekannt",
@@ -3414,6 +3431,7 @@
 			"icon": "imitation_41",
 			"avatarID": "mimi",
 			"age": "23. Juli",
+			"height": "135 cm",
 			"gender": "Weiblich",
 			"state": "Tianzhang-Pavillon",
 			"city": "Donnerstadt",
@@ -3600,6 +3618,7 @@
 			"icon": "imitation_43",
 			"avatarID": "linghan",
 			"age": "7. Juni",
+			"height": "181 cm",
 			"gender": "Weiblich",
 			"state": "Longjian-Pavillon",
 			"city": "Sumpfstadt",
@@ -3669,13 +3688,13 @@
 				},
 				{
 					"name": "Schwertkunst: Eisregen",
-					"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Gegner anvisiert wurde), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Schwertkunst: Eisregen“ auszulösen.\r\nWährend des Fallens wird pro Treffer Schaden in Höhe von **75%** des ANG + **450** verursacht. Fügt Zielen in der Nähe beim Landen Schaden in Höhe von **366.7%** des ANG + **2200** zu.",
+					"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel verfügbar ist, oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Schwertkunst: Eisregen“ auszulösen.\r\nWährend des Fallens wird pro Treffer Schaden in Höhe von **75%** des ANG + **450** verursacht. Fügt Zielen in der Nähe beim Landen Schaden in Höhe von **366.7%** des ANG + **2200** zu.",
 					"icon": "skill_linghan_jumpattack",
 					"id": "GA_FPlayerLinghanMelee_JumpAttack"
 				},
 				{
 					"name": "Leichte Schritte",
-					"description": "Tippe auf „Springen“ während der Wanderer nach einem Doppelsprung in der Luft ist, um „Leichte Schritte“ auszulösen. Rast kurz nach oben und gleitet dann nach unten. In der Luft kann „Leichte Schritte“ bis zu **2**-mal verwendet werden.\r\nAm Boden stellt „Leichte Schritte“ alle **10**Sek. **1** Einsatzversuch wieder her (ein Gebietswechsel oder das Ablegen von **Alabastertiger** setzt die Einsatzversuche zurück).",
+					"description": "Tippe auf „Springen“ während der Wanderer nach einem Doppelsprung in der Luft ist, um „Leichte Schritte“ auszulösen. Rast kurz nach oben und gleitet dann weiter. In der Luft kann „Leichte Schritte“ bis zu **2**-mal verwendet werden.\r\nAm Boden stellt „Leichte Schritte“ alle **10**Sek. **1** Einsatzversuch wieder her (ein Gebietswechsel, Waffenwechsel oder das Ablegen von **Alabastertiger** setzt die Einsatzversuche zurück).",
 					"icon": "skill_linghan_qinggong",
 					"id": "GA_FPlayerLinghanMelee_QingGong"
 				}
@@ -3689,7 +3708,7 @@
 				},
 				{
 					"name": "Schwertkunst: Wolkenschauer",
-					"description": "Verwende zum Auslösen von „Schwertkunst: Wolkenschauer“ während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste). Dies fügt getroffenen Zielen Schaden in Höhe von bis zu **305%** des ANG + **1830** zu.",
+					"description": "Verwende zum Auslösen von „Schwertkunst: Wolkenschauer“ während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Pfeiltaste). Dies fügt getroffenen Zielen Schaden in Höhe von bis zu **305%** des ANG + **1830** zu.",
 					"icon": "skill_linghan_fevadeattack",
 					"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
 				},
@@ -3703,7 +3722,7 @@
 			"skill": [
 				{
 					"name": "Schwertkunst: Schatteneis",
-					"description": "Fügt Zielen in der Nähe Schaden in Höhe von **370.2%** des ANG + **2221** zu und zieht sie heran. Erzeugt dann ein Schwertfeld, um einen starken Regen von Schwertern herbeizurufen und Zielen für **4**Sek. einen **starken Einfrieren-Effekt** zuzufügen (nicht in der Apex-Liga oder gegen Bosse verfügbar). Abklingzeit: **30**Sek.\r\nNach dem erfolgreichen Einsatz von „Schwertkunst: Schatteneis“ stößt der Wanderer **Kalte Luft** aus, die Zielen in der Nähe jede Sekunde Schaden in Höhe von **68%** des ANG zufügt und sie um **30%** verlangsamt (nicht in der Apex-Liga oder gegen Bosse verfügbar). Gleichzeitig wird der Frostschaden des Wanderers für **35**Sek. um **8%** erhöht.\r\nNach dem vollständigen Ausführen von „Schwertkunst: Schatteneis“ erzeugt der Wanderer eine große Anzahl von **Frostklingen**, von denen er alle **7,5**Sek. **1** Klinge auf das aktuell anvisierte Ziel abfeuert, dabei Schaden in Höhe von **360%** des ANG verursacht und dem Ziel **Temperaturabfall** zufügt. Anfangs können bis zu **3** **Frostklingen** erzeugt werden und alle Klingen werden außerhalb des Kampfes entfernt.\r\n**Temperaturabfall**: Fügt Zielen in der Nähe für **12**Sek. alle **3**Sek. Schaden in Höhe von **240%** des ANG zu.",
+					"description": "Fügt Zielen in der Nähe Schaden in Höhe von **370.2%** des ANG + **2221** zu und zieht sie heran. Erzeugt dann ein Schwertfeld, um einen heftigen Regen von Schwertern herbeizurufen und Zielen für **4**Sek. einen **starken Einfrieren-Effekt** zuzufügen (nicht in der Apex-Liga oder gegen Bosse verfügbar). Abklingzeit: **30**Sek.\r\nNach dem erfolgreichen Einsatz von „Schwertkunst: Schatteneis“ stößt der Wanderer **Kalte Luft** aus, die Zielen in der Nähe jede Sekunde Schaden in Höhe von **68%** des ANG zufügt und sie um **30%** verlangsamt (nicht in der Apex-Liga oder gegen Bosse verfügbar).\r\nNach dem vollständigen Ausführen von „Schwertkunst: Schatteneis“ erzeugt der Wanderer eine große Anzahl von **Frostklingen**, von denen er alle **7,5**Sek. **1** Klinge auf das aktuell anvisierte Ziel abfeuert, dabei Schaden in Höhe von **360%** des ANG verursacht und dem Ziel **Temperaturabfall** zufügt. Anfangs können bis zu **3** **Frostklingen** erzeugt werden und alle Klingen werden außerhalb des Kampfes entfernt.\r\n**Temperaturabfall**: Fügt Zielen in der Nähe für **12**Sek. alle **3**Sek. Schaden in Höhe von **240%** des ANG zu.",
 					"icon": "skill_linghan_skill",
 					"id": "GA_FPlayerLinghanSkill_Skill"
 				}
@@ -3727,7 +3746,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Nach dem Abfeuern von **Frostklingen** wird der Frost-ANG des Wanderers um **0.1%** erhöht und Zielen in der Nähe wird für **30**Sek. jede Sekunde Schaden in Höhe von **104%** des ANG zugefügt.",
+				"description": "Nach dem Abfeuern von **Frostklingen** wird der Frost-ANG des Wanderers um **0.1%** erhöht und Zielen in der Nähe wird für **30**Sek. jede Sekunde Schaden in Höhe von **80%** des ANG zugefügt.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3743,7 +3762,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "Der Wanderer kann bis zu **4** **Frostklingen** erzeugen und der Basismultiplikator des Schadens von **Temperaturabfall** wird auf **468%** erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von **600**Sek. von **Temperaturabfall** betroffen ist, wird dem Ziel zusätzlich ein **Adersiegel** zugefügt, wodurch es um **30%** verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von **Adersiegel** erneut Schaden durch **Frostklinge** erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von **1700%** des ANG + **2%** der zu diesem Zeitpunkt verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als **2000%** und nicht höher als **2200%** des Frost-ANG des Wanderers). Anschließend werden die Effekte von **Adersiegel** und **Temperaturabfall** vom Ziel entfernt.",
+				"description": "Der Wanderer kann bis zu **4** **Frostklingen** erzeugen und der Basismultiplikator des Schadens von **Temperaturabfall** wird auf **360%** erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von **600**Sek. von **Temperaturabfall** betroffen ist, wird dem Ziel zusätzlich ein **Adersiegel** zugefügt, wodurch es um **30%** verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von **Adersiegel** erneut Schaden durch **Frostklinge** erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von **1700%** des ANG + **2%** der zu diesem Zeitpunkt bereits verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als **2000%** und nicht höher als **2200%** des Frost-ANG des Wanderers). Anschließend werden die Effekte von **Adersiegel** und **Temperaturabfall** vom Ziel entfernt.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3767,7 +3786,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "Nach dem Einsatz von **Frostklingen** wird der Effekt von **Temperaturabfall** auf ein Gebiet angewendet. Zudem fügt er Zielen in der Nähe zusätzlichen Schaden in Höhe von **1170%** des ANG zu.",
+				"description": "Nach dem Einsatz von **Frostklingen** wird der Effekt von **Temperaturabfall** auf ein Gebiet angewendet. Zudem fügt er Zielen in der Nähe zusätzlichen Schaden in Höhe von **990%** des ANG zu.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3786,6 +3805,7 @@
 			"icon": "imitation_17",
 			"avatarID": "Avatar06",
 			"age": "23. Mai",
+			"height": "165 cm",
 			"gender": "Weiblich",
 			"state": "Engel der Gnade",
 			"city": "Unbekannt",
@@ -3966,6 +3986,7 @@
 			"icon": "imitation_28",
 			"avatarID": "Avatar12",
 			"age": "1. Februar",
+			"height": "190 cm",
 			"gender": "Weiblich",
 			"state": "Engel der Gnade",
 			"city": "Unbekannt",
@@ -4139,6 +4160,7 @@
 			"icon": "imitation_21",
 			"avatarID": "leibei",
 			"age": "15. Juli",
+			"height": "140 cm",
 			"gender": "Weiblich",
 			"state": "Unbekannt",
 			"city": "Unbekannt",
@@ -4319,6 +4341,7 @@
 			"icon": "imitation_22",
 			"avatarID": "bupoxiao",
 			"age": "11. Oktober",
+			"height": "157 cm",
 			"gender": "Weiblich",
 			"state": "Spezialkräfte des Sicherheitsdiensts von Mirroria",
 			"city": "Mirroria",
@@ -4505,6 +4528,7 @@
 			"icon": "imitation_23",
 			"avatarID": "linye",
 			"age": "3. September",
+			"height": "175 cm",
 			"gender": "Weiblich",
 			"state": "Hykros – Distrikt 7",
 			"city": "Mirroria",
@@ -4689,6 +4713,7 @@
 			"icon": "imitation_29",
 			"avatarID": "tianlang",
 			"age": "23. März",
+			"height": "185cm",
 			"gender": "Männlich",
 			"state": "Zuchtstation von Mirroria",
 			"city": "Mirroria",
@@ -4869,6 +4894,7 @@
 			"icon": "imitation_24",
 			"avatarID": "xinghuan",
 			"age": "23. Juni",
+			"height": "174 cm",
 			"gender": "Weiblich",
 			"state": "Maidelin Fund",
 			"city": "Unbekannt",
@@ -5066,6 +5092,7 @@
 			"icon": "imitation_48",
 			"avatarID": "leibiliya",
 			"age": "24. April",
+			"height": "195 cm",
 			"gender": "Weiblich",
 			"state": "Mirroria",
 			"city": "Mirroria",
@@ -5257,6 +5284,7 @@
 			"icon": "imitation_30",
 			"avatarID": "ailisi",
 			"age": "28. Mai",
+			"height": "177 cm",
 			"gender": "Weiblich",
 			"state": "Spezialkräfte des Sicherheitsdiensts von Mirroria",
 			"city": "Mirroria",
@@ -5443,6 +5471,7 @@
 			"icon": "imitation_26",
 			"avatarID": "annabeila",
 			"age": "28. April",
+			"height": "166 cm",
 			"gender": "Weiblich",
 			"state": "Unbekannt",
 			"city": "Unbekannt",
@@ -5618,6 +5647,7 @@
 			"icon": "imitation_37",
 			"avatarID": "liuhuo",
 			"age": "19. August",
+			"height": "153 cm",
 			"gender": "Weiblich",
 			"state": "Flammenstadt-Villa",
 			"city": "Flammenstadt",
@@ -5822,6 +5852,7 @@
 			"icon": "imitation_31",
 			"avatarID": "wumi",
 			"age": "20. Oktober",
+			"height": "162 cm",
 			"gender": "Weiblich",
 			"state": "Hykros – Distrikt 7",
 			"city": "Mirroria",
@@ -6019,6 +6050,7 @@
 			"icon": "imitation_51",
 			"avatarID": "feise",
 			"age": "23. August",
+			"height": "175 cm",
 			"gender": "Weiblich",
 			"state": "Phantompalast",
 			"city": "Flammenstadt",
@@ -6114,7 +6146,7 @@
 				},
 				{
 					"name": "Verstreuen",
-					"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste), um „Blütenwind“ auszulösen, was Zielen in der Nähe Schaden in Höhe von **209%** des ANG + **1254** zufügt.\r\n\r\nWährend das durch **Wirbelwind** erzeugte **Wunderwerk: Fantasie** aktiv ist, wird nach dem ersten Treffer mit einer beliebigen Waffe durch den ersten Ausweichangriff „Blumenspross“ ausgelöst, was „Fei Ses Trugbild“ und „Lotusblütenblatt“ auslöst.\r\n**Fei Ses Trugbild**: „Fei Ses Trugbild“ kopiert bei der Erzeugung **25%** des max. ANG des Ziels und wandelt ihn in **Basis-Flammen-ANG** des Wanderers um (nicht geringer als **6500** und nicht höher als **10.000**; dieser Flammen-ANG ist nicht in den Werten des Wanderers sichtbar und nicht in der Apex-Liga verfügbar), bis „Fei Ses Trugbild“ verschwindet. Wird für jede Einheit von „Fei Ses Trugbild“ einzeln berechnet. Es kann nur **1**„Fei Ses Trugbild“ gleichzeitig erzeugt werden.\r\n**Lotusblütenblatt**: Bei der Erzeugung entspricht die Anzahl an Lotusblütenblättern der Anzahl an Herbeirufungen durch die Waffen des Wanderers (Endlose Blüte ausgenommen). Nach der Erzeugung verändert sich die Anzahl an Lotusblütenblättern nicht entsprechend der Anzahl an Herbeirufungen. Lotusblütenblätter gelten als Herbeirufungen.",
+					"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Pfeiltaste), um „Blütenwind“ auszulösen, was Zielen in der Nähe Schaden in Höhe von **209%** des ANG + **1254** zufügt.\r\n\r\nWährend das durch **Wirbelwind** erzeugte **Wunderwerk: Fantasie** aktiv ist, wird nach dem ersten Treffer eines Ausweichangriffs mit einer beliebigen Waffe „Blumenspross“ ausgelöst, was „Fei Ses Trugbild“ und „Lotusblütenblatt“ auslöst.\r\n**Fei Ses Trugbild**: „Fei Ses Trugbild“ kopiert bei der Erzeugung **25%** des max. ANG des Ziels und wandelt ihn in **Basis-Flammen-ANG** des Wanderers um (nicht geringer als **3300** und nicht höher als **3450**; dieser Flammen-ANG ist nicht in den Werten des Wanderers sichtbar und nicht in der Apex-Liga verfügbar), bis „Fei Ses Trugbild“ verschwindet. Wird für jede Einheit von „Fei Ses Trugbild“ einzeln berechnet. Es kann nur **1**„Fei Ses Trugbild“ gleichzeitig erzeugt werden.\r\n**Lotusblütenblatt**: Bei der Erzeugung entspricht die Anzahl an Lotusblütenblättern der Anzahl an Herbeirufungen durch die Waffen des Wanderers (Endlose Blüte ausgenommen). Nach der Erzeugung verändert sich die Anzahl an Lotusblütenblättern nicht entsprechend der Anzahl an Herbeirufungen. Lotusblütenblätter gelten als Herbeirufungen.",
 					"icon": "feise_evadefront",
 					"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 				},
@@ -6128,7 +6160,7 @@
 			"skill": [
 				{
 					"name": "Wirbelwind",
-					"description": "Verursacht bei Zielen in der Nähe Schaden in Höhe von **1008** des ANG + **6047** und erzeugt ein „Wunderwerk: Fantasie“, das bis zu **25**Sek. anhält.\r\nGewährt während der Abklingzeit von „Wirbelwind“ die Fähigkeit „Wendigkeit“. „Wendigkeit“ kann verwendet werden, nachdem „Wunderwerk“ **20**Sek. aktiv ist.\r\nSetzt die Abklingzeit von „Wirbelwind“ sofort nach dem Verschwinden von „Wunderwerk“ zurück. Dies wird von anderen Effekten, die die Abklingzeit zurücksetzen, verringern oder anpassen, nicht beeinflusst.\r\n\r\nWährend „Wunderwerk“:\r\nPro Sekunde wird Seelenschwere-Schaden in Höhe von **135%** des ANG verursacht. Seelenschwere-Schaden zählt als Schaden von normalen Angriffen.\r\nVerursacht bei Zielen in Reichweite alle **5**Sek. „Flammendes Herz“ und fügt ihnen **5**Sek. lang Brandschaden in Höhe von **20%** des ANG zu. Pro **1****Fei Ses Trugbild** oder vom Wanderer erzeugtem **Lotusblütenblatt** im Wunderwerk wird der Schaden durch „Flammendes Herz“ zusätzlich um **15%** erhöht.",
+					"description": "Verursacht bei Zielen in der Nähe Schaden in Höhe von **1008%** des ANG + **6047** und erzeugt ein „Wunderwerk: Fantasie“, das bis zu **25**Sek. lang anhält.\r\nGewährt während der Abklingzeit von „Wirbelwind“ die Fähigkeit „Wendigkeit“. „Wendigkeit“ kann verwendet werden, nachdem „Wunderwerk“ **20**Sek. aktiv ist.\r\nSetzt die Abklingzeit von „Wirbelwind“ sofort nach dem Verschwinden von „Wunderwerk“ zurück. Dies wird von anderen Effekten, die die Abklingzeit zurücksetzen, verringern oder anpassen, nicht beeinflusst.\r\n\r\nWährend „Wunderwerk“:\r\nPro Sekunde wird Seelenschwere-Schaden in Höhe von **135%** des ANG im Wunderwerk verursacht. Seelenschwere-Schaden zählt als Schaden von normalen Angriffen.\r\nVerursacht bei Zielen im Wunderwerk alle **5**Sek. „Flammendes Herz“ und fügt ihnen **5**Sek. lang Brandschaden in Höhe von **20%** des ANG zu. Pro **1****Fei Ses Trugbild** oder vom Wanderer erzeugtem **Lotusblütenblatt** im Wunderwerk wird der Schaden durch „Flammendes Herz“ zusätzlich um **6%** erhöht.",
 					"icon": "feise_skill1",
 					"id": "GA_FPlayerFeiseSkill_Skill1"
 				},
@@ -6142,7 +6174,7 @@
 			"discharge": [
 				{
 					"name": "Ewiger Jadesee",
-					"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Dies verursacht Schaden in Höhe von **1090%** des ANG + **6539**. Währenddessen erhältst du für **2,6**Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).",
+					"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Dies verursacht Schaden in Höhe von **1090%** des ANG + **6539**. Währenddessen erhältst du für **1,5**Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).",
 					"icon": "feise_changeskill",
 					"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 				}
@@ -6217,6 +6249,7 @@
 			"icon": "imitation_32",
 			"avatarID": "fenlier",
 			"age": "13. Februar",
+			"height": "160 cm",
 			"gender": "Weiblich",
 			"state": "Oasenclub",
 			"city": "Unbekannt",
@@ -6409,6 +6442,7 @@
 			"icon": "imitation_34",
 			"avatarID": "lan",
 			"age": "5. Mai",
+			"height": "172 cm",
 			"gender": "Weiblich",
 			"state": "Die Schattenwächter",
 			"city": "Unbekannt",
@@ -6602,6 +6636,7 @@
 			"icon": "imitation_35",
 			"avatarID": "yikaluosi",
 			"age": "24. Oktober",
+			"height": "161cm",
 			"gender": "Männlich",
 			"state": "Mookes Team",
 			"city": "Hykros",
@@ -6789,6 +6824,7 @@
 			"icon": "imitation_38",
 			"avatarID": "yulan",
 			"age": "9. Februar",
+			"height": "175 cm",
 			"gender": "Weiblich",
 			"state": "Wächterin der Sonnenuhr",
 			"city": "Gebiet 9",
@@ -7005,6 +7041,7 @@
 			"icon": "imitation_50",
 			"avatarID": "mingjing",
 			"age": "12. November",
+			"height": "191cm",
 			"gender": "Männlich",
 			"state": "Gebiet 9",
 			"city": "Unbekannt",
@@ -7198,6 +7235,7 @@
 			"icon": "imitation_36",
 			"avatarID": "feiouna",
 			"age": "17. April",
+			"height": "185cm",
 			"gender": "Weiblich",
 			"state": "Innars",
 			"city": "Innars",

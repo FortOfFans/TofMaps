@@ -385,6 +385,7 @@
 			"icon": "imitation_14",
 			"avatarID": "peipei",
 			"age": "9 juillet",
+			"height": "160cm",
 			"gender": "Féminin",
 			"state": "Service médical d'Hykros",
 			"city": "Banges",
@@ -563,6 +564,7 @@
 			"icon": "imitation_15",
 			"avatarID": "hida",
 			"age": "11 avril",
+			"height": "165cm",
 			"gender": "Féminin",
 			"state": "Banges",
 			"city": "Inconnu",
@@ -712,6 +714,7 @@
 			"icon": "imitation_27",
 			"avatarID": "genuonuo",
 			"age": "6 mars",
+			"height": "134 cm",
 			"gender": "Féminin",
 			"state": "Inconnu",
 			"city": "Innars",
@@ -903,6 +906,7 @@
 			"icon": "imitation_2",
 			"avatarID": "xi",
 			"age": "17 août",
+			"height": "145cm",
 			"gender": "Féminin",
 			"state": "Victoria Security",
 			"city": "Crown",
@@ -1087,6 +1091,7 @@
 			"icon": "imitation_16",
 			"avatarID": "bailing",
 			"age": "8 mai",
+			"height": "163cm",
 			"gender": "Féminin",
 			"state": "Refuge HT201",
 			"city": "Refuge HT201",
@@ -1259,6 +1264,7 @@
 			"icon": "imitation_4",
 			"avatarID": "aige",
 			"age": "14 août",
+			"height": "162cm",
 			"gender": "Féminin",
 			"state": "Inconnu",
 			"city": "Warren",
@@ -1444,6 +1450,7 @@
 			"icon": "imitation_13",
 			"avatarID": "wuwan",
 			"age": "17décembre",
+			"height": "162cm",
 			"gender": "Masculin",
 			"state": "Inconnu",
 			"city": "Astra",
@@ -1623,6 +1630,7 @@
 			"icon": "imitation_3",
 			"avatarID": "meilier",
 			"age": "10octobre",
+			"height": "170cm",
 			"gender": "Féminin",
 			"state": "Hykros",
 			"city": "Inconnu",
@@ -1813,6 +1821,7 @@
 			"icon": "imitation_7",
 			"avatarID": "sifengyuanyu",
 			"age": "24 mars",
+			"height": "169cm",
 			"gender": "Féminin",
 			"state": "Héritiers d'Aida",
 			"city": "Astra",
@@ -1986,6 +1995,7 @@
 			"icon": "imitation_11",
 			"avatarID": "kekelite",
 			"age": "1er juin",
+			"height": "147cm",
 			"gender": "Féminin",
 			"state": "Service médical d'Hykros",
 			"city": "Hykros",
@@ -2166,6 +2176,7 @@
 			"icon": "imitation_9",
 			"avatarID": "KING",
 			"age": "3 novembre",
+			"height": "190cm",
 			"gender": "Masculin",
 			"state": "Ravageurs",
 			"city": "Crown",
@@ -2351,6 +2362,7 @@
 			"icon": "imitation_10",
 			"avatarID": "gulan",
 			"age": "26 juin",
+			"height": "157cm",
 			"gender": "Féminin",
 			"state": "Banges Tech",
 			"city": "Crown",
@@ -2531,6 +2543,7 @@
 			"icon": "imitation_12",
 			"avatarID": "kelaodiya",
 			"age": "16janvier",
+			"height": "170cm",
 			"gender": "Féminin",
 			"state": "Hykros",
 			"city": "Hykros",
@@ -2711,6 +2724,7 @@
 			"icon": "imitation_8",
 			"avatarID": "xiluo",
 			"age": "22 septembre",
+			"height": "163cm",
 			"gender": "Féminin",
 			"state": "Inconnu",
 			"city": "Warren",
@@ -2890,6 +2904,7 @@
 			"icon": "imitation_1",
 			"avatarID": "ling",
 			"age": "6 juin",
+			"height": "155cm",
 			"gender": "Masculin",
 			"state": "Inconnu",
 			"city": "Banges",
@@ -3069,6 +3084,7 @@
 			"icon": "imitation_5",
 			"avatarID": "saimier",
 			"age": "20 mai",
+			"height": "171cm",
 			"gender": "Féminin",
 			"state": "Hykros",
 			"city": "Inconnu",
@@ -3241,6 +3257,7 @@
 			"icon": "imitation_6",
 			"avatarID": "xiuma",
 			"age": "12janvier",
+			"height": "167cm",
 			"gender": "Féminin",
 			"state": "Hykros",
 			"city": "Inconnu",
@@ -3414,6 +3431,7 @@
 			"icon": "imitation_41",
 			"avatarID": "mimi",
 			"age": "23juillet",
+			"height": "135cm",
 			"gender": "Féminin",
 			"state": "Pavillon de Tianzhang",
 			"city": "Tonnerreville",
@@ -3600,6 +3618,7 @@
 			"icon": "imitation_43",
 			"avatarID": "linghan",
 			"age": "7juin",
+			"height": "181cm",
 			"gender": "Féminin",
 			"state": "Pavillonde Longjian",
 			"city": "Villemarais",
@@ -3669,13 +3688,13 @@
 				},
 				{
 					"name": "Technique de l'épée : Chute de givre",
-					"description": "Appuyez et maintenez Attaque normale dans les airs (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Technique de l'épée: Chute de givre.\r\nEn descendant, vous infligez des dégâts équivalant à **75%** de l'ATQ + **450** chaque fois que la cible est touchée. À l'atterrissage, vous infligez des dégâts équivalant à **366.7%** de l'ATQ + **2200** aux cibles proches.",
+					"description": "Appuyez et maintenez Attaque normale en l'air (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Technique de l'épée: Chute de givre.\r\nEn descendant, vous infligez des dégâts équivalant à **75%** de l'ATQ + **450** chaque fois qu'une cible est touchée. À l'atterrissage, vous infligez des dégâts équivalant à **366.7%** de l'ATQ + **2200** aux cibles proches.",
 					"icon": "skill_linghan_jumpattack",
 					"id": "GA_FPlayerLinghanMelee_JumpAttack"
 				},
 				{
 					"name": "Pas léger",
-					"description": "Pendant que l'Explorateur est dans les airs après un double saut, appuyez sur Sauter pour déclencher Pas léger. Effectuez une brève ruée vers le haut avant de redescendre en glissant en continu. Dans les airs, Pas léger peut être utilisé jusqu'à **2**fois.\r\nAu sol, Pas léger récupère **1**tentative d'utilisation toutes les **10**secondes (changer de zone, changer d'arme ou déséquiper **Tigre d'albâtre** réinitialise les tentatives d'utilisation).",
+					"description": "Pendant que l'Explorateur est dans les airs après un double saut, appuyez sur Sauter pour déclencher Pas léger. Effectuez une brève ruée vers le haut avant de redescendre en glissant. Dans les airs, Pas léger peut être utilisé jusqu'à **2**fois.\r\nAu sol, Pas léger récupère **1**tentative d'utilisation toutes les **10**secondes (changer de zone ou déséquiper **Tigre d'albâtre** réinitialise les tentatives d'utilisation).",
 					"icon": "skill_linghan_qinggong",
 					"id": "GA_FPlayerLinghanMelee_QingGong"
 				}
@@ -3703,7 +3722,7 @@
 			"skill": [
 				{
 					"name": "Technique de l'épée: Glace ombrée",
-					"description": "Inflige des dégâts équivalant à **370.2%** de l'ATQ + **2221** aux cibles proches et les attire. Forme ensuite un Réseau d'épées qui fait s'abattre une pluie d'épées et **gèle longuement** les cibles (non disponible en Ligue ultime et contre les boss) pendant **4**secondes. Temps de recharge: **30**secondes.\r\nAprès avoir réussi Technique de l'épée: Glace ombrée, l'Explorateur diffuse de l'**Air froid**, infligeant des dégâts équivalant à **68%** de l'ATQ aux cibles proches chaque seconde et réduisant leur vitesse de **30%** (non disponible en Ligue ultime et contre les boss).\r\nAprès avoir exécuté Technique de l'épée: Glace ombrée jusqu'au bout, l'Explorateur crée un grand nombre de **Lames de givre** et lance **1**lame toutes les **7,5**secondes à la cible verrouillée, lui infligeant des dégâts équivalant à **360%** de l'ATQ ainsi que l'effet **Réduction de température**. Jusqu'à **3****Lames de givre** peuvent être créées au début, et toutes les lames disparaissent en état hors combat.\r\n**Réduction de température**: inflige des dégâts aux cibles proches équivalant à **240%** de l'ATQ toutes les **3**secondes pendant **12**secondes.",
+					"description": "Inflige des dégâts équivalant à **370.2%** de l'ATQ + **2221** aux cibles proches et les attire. Forme ensuite un Réseau d'épées qui fait s'abattre une pluie d'épées et **gèle longuement** les cibles (non disponible en Ligue ultime et contre les boss) pendant **4**secondes. Temps de recharge: **30**secondes.\r\nAprès avoir réussi Technique de l'épée: Glace ombrée, l'Explorateur diffuse de l'**Air froid**, infligeant des dégâts équivalant à **68%** de l'ATQ aux cibles proches chaque seconde et réduisant leur vitesse de **30%** (non disponible en Ligue ultime et contre les boss). Accroît simultanément les dégâts de givre de l'Explorateur de **8%** pendant **35**secondes.\r\nAprès avoir exécuté Technique de l'épée: Glace ombrée jusqu'au bout, l'Explorateur crée un grand nombre de **Lames de givre** et lance **1**lame toutes les **7,5**secondes à la cible verrouillée, lui infligeant des dégâts équivalant à **360%** de l'ATQ ainsi que l'effet **Réduction de température**. Jusqu'à **3****Lames de givre** peuvent être créées au début, et toutes les lames disparaissent en état hors combat.\r\n**Réduction de température**: inflige des dégâts aux cibles proches équivalant à **240%** de l'ATQ toutes les **3**secondes pendant **12**secondes.",
 					"icon": "skill_linghan_skill",
 					"id": "GA_FPlayerLinghanSkill_Skill"
 				}
@@ -3727,7 +3746,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Après avoir lancé **Lames de givre**, accroît l'ATQ de givre de l'Explorateur de **0.1%** et inflige aux cibles proches des dégâts équivalant à **80%** de l'ATQ chaque seconde pendant **30** secondes.",
+				"description": "Après avoir lancé des **Lames de givre**, accroît les dégâts de givre de l'Explorateur de **0.1%** et inflige aux cibles proches des dégâts équivalant à **104%** de l'ATQ chaque seconde pendant **30**secondes.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3743,7 +3762,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "L'Explorateur peut faire apparaître jusqu'à **4****Lames de givre** et le multiplicateur de base des dégâts de **Réduction de température** passe à **360%**.\r\nSi une seule cible est affectée par **Réduction de température** dans un délai de **600**secondes, inflige également l'effet **Veine scellée** à la cible, réduisant sa vitesse de **30%** (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de **Lame de givre** pendant la durée de **Veine scellée**, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à **1700%** de l'ATQ + **2%** des PV déjà perdus par la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à **2000%** ni supérieurs à **2200%** de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets **Veine scellée** et **Réduction de température** de la cible.",
+				"description": "L'Explorateur peut faire apparaître jusqu'à **4****Lames de givre** et le multiplicateur de base des dégâts de **Réduction de température** passe à **468%**.\r\nSi une seule cible est affectée par **Réduction de température** dans un délai de **600**secondes, inflige également l'effet **Veine scellée** à la cible, réduisant sa vitesse de **30%** (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de **Lame de givre** pendant la durée de **Veine scellée**, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à **1700%** de l'ATQ + **2%** des PV perdus de la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à **2000%** ni supérieurs à **2200%** de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets **Veine scellée** et **Réduction de température** de la cible.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3767,7 +3786,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "L'effet **Réduction de température** infligé après avoir lancé **Lames de givre** s'applique désormais à une zone et inflige aux cibles proches des dégâts supplémentaires équivalant à **990%** de l'ATQ.",
+				"description": "L'effet **Réduction de température** infligé après avoir lancé **Lames de givre** s'applique désormais à une zone et inflige aux cibles proches des dégâts supplémentaires équivalant à **1170%** de l'ATQ.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3786,6 +3805,7 @@
 			"icon": "imitation_17",
 			"avatarID": "Avatar06",
 			"age": "23 mai",
+			"height": "165cm",
 			"gender": "Féminin",
 			"state": "Ange de la clémence",
 			"city": "Inconnu",
@@ -3966,6 +3986,7 @@
 			"icon": "imitation_28",
 			"avatarID": "Avatar12",
 			"age": "1er février",
+			"height": "190cm",
 			"gender": "Féminin",
 			"state": "Ange de la clémence",
 			"city": "Inconnu",
@@ -4139,6 +4160,7 @@
 			"icon": "imitation_21",
 			"avatarID": "leibei",
 			"age": "15 juillet",
+			"height": "140cm",
 			"gender": "Féminin",
 			"state": "Inconnu",
 			"city": "Inconnu",
@@ -4319,6 +4341,7 @@
 			"icon": "imitation_22",
 			"avatarID": "bupoxiao",
 			"age": "11 octobre",
+			"height": "157cm",
 			"gender": "Féminin",
 			"state": "Forces spéciales de sécurité de Mirroria",
 			"city": "Mirroria",
@@ -4505,6 +4528,7 @@
 			"icon": "imitation_23",
 			"avatarID": "linye",
 			"age": "3 septembre",
+			"height": "175cm",
 			"gender": "Féminin",
 			"state": "District7 d'Hykros",
 			"city": "Mirroria",
@@ -4689,6 +4713,7 @@
 			"icon": "imitation_29",
 			"avatarID": "tianlang",
 			"age": "23 mars",
+			"height": "185cm",
 			"gender": "Masculin",
 			"state": "Éco-centre de Mirroria",
 			"city": "Mirroria",
@@ -4869,6 +4894,7 @@
 			"icon": "imitation_24",
 			"avatarID": "xinghuan",
 			"age": "23 juin",
+			"height": "174cm",
 			"gender": "Féminin",
 			"state": "Fonds de Maidelin",
 			"city": "Inconnu",
@@ -5066,6 +5092,7 @@
 			"icon": "imitation_48",
 			"avatarID": "leibiliya",
 			"age": "24 avril",
+			"height": "195 cm",
 			"gender": "Féminin",
 			"state": "Mirroria",
 			"city": "Mirroria",
@@ -5257,6 +5284,7 @@
 			"icon": "imitation_30",
 			"avatarID": "ailisi",
 			"age": "28 mai",
+			"height": "177cm",
 			"gender": "Féminin",
 			"state": "Forces spéciales de sécurité de Mirroria",
 			"city": "Mirroria",
@@ -5443,6 +5471,7 @@
 			"icon": "imitation_26",
 			"avatarID": "annabeila",
 			"age": "28 avril",
+			"height": "166cm",
 			"gender": "Féminin",
 			"state": "Inconnu",
 			"city": "Inconnu",
@@ -5618,6 +5647,7 @@
 			"icon": "imitation_37",
 			"avatarID": "liuhuo",
 			"age": "19 août",
+			"height": "153 cm",
 			"gender": "Féminin",
 			"state": "Manoir de Flammeville",
 			"city": "Flammeville",
@@ -5822,6 +5852,7 @@
 			"icon": "imitation_31",
 			"avatarID": "wumi",
 			"age": "20 octobre",
+			"height": "162cm",
 			"gender": "Féminin",
 			"state": "District7 d'Hykros",
 			"city": "Mirroria",
@@ -6019,6 +6050,7 @@
 			"icon": "imitation_51",
 			"avatarID": "feise",
 			"age": "23août",
+			"height": "175cm",
 			"gender": "Féminin",
 			"state": "Palais fantôme",
 			"city": "Flammeville",
@@ -6114,7 +6146,7 @@
 				},
 				{
 					"name": "Dispersion",
-					"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez sur un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent infligeant des dégâts équivalant à **209%** de l'ATQ + **1254** aux cibles proches.\r\n\r\nPendant le **Mirage fantastique** de **Tourbillon**, lorsque la première attaque d'esquive infligée avec n'importe quelle arme touche sa cible, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n**Fantaisie de Fei Se**: À sa création, la Fantaisie de Fei Se copie **25%** de l'ATQ max de la cible et les ajoute à l'**ATQ de feu de base** de l'Explorateur (pas moins de **6500** et pas plus de **10000**; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'**une** Fantaisie de Fei Se à la fois.\r\n**Pétale de lotus**: À leur création, les Pétales de lotus sont égaux au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après leur création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
+					"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez un bouton directionnel avant d'esquiver) pour déclencher Pétales au vent, infligeant des dégâts équivalant à **209%** de l'ATQ + **1254** aux cibles proches.\r\n\r\nPendant le **Mirage fantastique** de **Tourbillon**, lorsque l'attaque d'esquive infligée avec n'importe quelle arme touche sa cible pour la première fois, déclenche Greffe de fleurs et crée une Fantaisie de Fei Se et des Pétales de lotus.\r\n**Fantaisie de Fei Se**: à sa création, la Fantaisie de Fei Se copie **25%** de l'ATQ max de la cible et les convertit en **ATQ de feu de base** de l'Explorateur (pas moins de **3300** et pas plus de **3450**; cette ATQ de feu ne sera pas reflétée dans les statistiques de l'Explorateur et n'est pas disponible en Ligue ultime) jusqu'à ce que la Fantaisie de Fei Se disparaisse. Ce montant est calculé indépendamment pour chaque Fantaisie de Fei Se. Il ne peut y avoir qu'**une** Fantaisie de Fei Se à la fois.\r\n**Pétale de lotus**: à sa création, le nombre de Pétales de lotus est égal au nombre d'invocations créées par les armes de l'Explorateur, autres que Floraison éternelle. Après création, le nombre de Pétales de lotus ne change pas en fonction du nombre d'invocations. Les Pétales de lotus sont considérés comme des invocations.",
 					"icon": "feise_evadefront",
 					"id": "GA_FPlayerFeiseEvade_ForwardAttack"
 				},
@@ -6128,7 +6160,7 @@
 			"skill": [
 				{
 					"name": "Tourbillon",
-					"description": "Inflige des dégâts équivalant à **1008%** de l'ATQ + **6047** aux cibles proches et crée un Mirage fantastique, d'une durée maximale de **25**secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de **20**secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage:\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à **135%** de l'ATQ. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les **5**secondes, inflige Cœur flamboyant aux cibles à portée, leur infligeant des dégâts de brûlure équivalant à **20%** de l'ATQ pendant **5**secondes. Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de **15%** supplémentaires.",
+					"description": "Inflige des dégâts équivalant à **1008%** de l'ATQ + **6047** aux cibles proches et crée un Mirage fantastique, d'une durée maximale de **25**secondes.\r\nLorsque Tourbillon est en cours de recharge, confère la nouvelle compétence Agilité. Agilité peut être utilisée lorsque le Mirage est actif depuis plus de **20**secondes.\r\nQuand le Mirage disparaît, le temps de recharge de Tourbillon est réinitialisé immédiatement. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\n\r\nPendant le Mirage:\r\nToutes les secondes, inflige des dégâts d'Usure d'âme équivalant à **135%** de l'ATQ aux cibles dans le Mirage. Les dégâts d'Usure d'âme comptent comme des dégâts d'attaque normale.\r\nToutes les **5**secondes, inflige Cœur flamboyant aux cibles dans le Mirage, leur infligeant des dégâts de brûlure équivalant à **20%** de l'ATQ pendant **5**secondes. Pour **chaque** **Fantaisie de Fei Se** ou **Pétale de lotus** créé par l'Explorateur dans le Mirage, les dégâts de Cœur flamboyant sont accrus de **6%** supplémentaires.",
 					"icon": "feise_skill1",
 					"id": "GA_FPlayerFeiseSkill_Skill1"
 				},
@@ -6142,7 +6174,7 @@
 			"discharge": [
 				{
 					"name": "Bassin de jade incomparable",
-					"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, **élimine toutes les altérations sur l'Explorateur** au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à **1090%** de l'ATQ + **6539**. Durant cette période, accorde une immunité aux dégâts pendant **2,6**secondes (non disponible en Ligue ultime).",
+					"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, **élimine toutes les altérations sur l'Explorateur** au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à **1090%** de l'ATQ + **6539**. Durant cette période, accorde une immunité aux dégâts pendant **1,5**seconde (non disponible en Ligue ultime).",
 					"icon": "feise_changeskill",
 					"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
 				}
@@ -6217,6 +6249,7 @@
 			"icon": "imitation_32",
 			"avatarID": "fenlier",
 			"age": "13 février",
+			"height": "160cm",
 			"gender": "Féminin",
 			"state": "Club Oasis",
 			"city": "Inconnu",
@@ -6409,6 +6442,7 @@
 			"icon": "imitation_34",
 			"avatarID": "lan",
 			"age": "5 mai",
+			"height": "172cm",
 			"gender": "Féminin",
 			"state": "Les gardes de l'ombre",
 			"city": "Inconnu",
@@ -6602,6 +6636,7 @@
 			"icon": "imitation_35",
 			"avatarID": "yikaluosi",
 			"age": "24 octobre",
+			"height": "161cm",
 			"gender": "Masculin",
 			"state": "Brigade de Mooke",
 			"city": "Hykros",
@@ -6789,6 +6824,7 @@
 			"icon": "imitation_38",
 			"avatarID": "yulan",
 			"age": "9février",
+			"height": "175cm",
 			"gender": "Féminin",
 			"state": "Garde du Cadran solaire",
 			"city": "Domaine9",
@@ -7005,6 +7041,7 @@
 			"icon": "imitation_50",
 			"avatarID": "mingjing",
 			"age": "12novembre",
+			"height": "191cm",
 			"gender": "Masculin",
 			"state": "Domaine9",
 			"city": "Inconnu",
@@ -7198,6 +7235,7 @@
 			"icon": "imitation_36",
 			"avatarID": "feiouna",
 			"age": "17 avril",
+			"height": "185cm",
 			"gender": "Féminin",
 			"state": "Innars",
 			"city": "Innars",

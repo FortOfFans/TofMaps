@@ -909,22 +909,22 @@
 	},
 	"suit_SSR37_0": {
 		"twopc": "Erhöht allen Elementarschaden um **7%**/8%/9%/10%. Fügt Zielen in der Nähe beim Abfeuern von „Frostklingen“ zusätzlichen Schaden in Höhe von **416%** des ANG zu. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
-		"fourpc": "Nach der Verwendung einer Entladungsfähigkeit einer Frostwaffe wird der Endschaden für **3000**Sek. um **12%**/15%/19%/23% erhöht. Wenn **Alabastertiger** ausgerüstet ist, werden alle Angriffe um **12%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
+		"fourpc": "Nach der Verwendung einer Entladungsfähigkeit einer Frostwaffe wird der Endschaden für **3000**Sek. um **12%**/15%/19%/23% erhöht. Wenn **Alabastertiger** ausgerüstet ist, werden alle Angriffe um **12%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
 		"id": "suit_SSR37_0"
 	},
 	"suit_SSR37_1": {
 		"twopc": "Erhöht allen Elementarschaden um 7%/**8%**/9%/10%. Fügt Zielen in der Nähe beim Abfeuern von „Frostklingen“ zusätzlichen Schaden in Höhe von **416%** des ANG zu. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
-		"fourpc": "Nach der Verwendung einer Entladungsfähigkeit einer Frostwaffe wird der Endschaden für **3000**Sek. um 12%/**15%**/19%/23% erhöht. Wenn **Alabastertiger** ausgerüstet ist, werden alle Angriffe um **12%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
+		"fourpc": "Nach der Verwendung einer Entladungsfähigkeit einer Frostwaffe wird der Endschaden für **3000**Sek. um 12%/**15%**/19%/23% erhöht. Wenn **Alabastertiger** ausgerüstet ist, werden alle Angriffe um **12%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
 		"id": "suit_SSR37_1"
 	},
 	"suit_SSR37_2": {
 		"twopc": "Erhöht allen Elementarschaden um 7%/8%/**9%**/10%. Fügt Zielen in der Nähe beim Abfeuern von „Frostklingen“ zusätzlichen Schaden in Höhe von **416%** des ANG zu. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
-		"fourpc": "Nach der Verwendung einer Entladungsfähigkeit einer Frostwaffe wird der Endschaden für **3000**Sek. um 12%/15%/**19%**/23% erhöht. Wenn **Alabastertiger** ausgerüstet ist, werden alle Angriffe um **12%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
+		"fourpc": "Nach der Verwendung einer Entladungsfähigkeit einer Frostwaffe wird der Endschaden für **3000**Sek. um 12%/15%/**19%**/23% erhöht. Wenn **Alabastertiger** ausgerüstet ist, werden alle Angriffe um **12%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
 		"id": "suit_SSR37_2"
 	},
 	"suit_SSR37_3": {
 		"twopc": "Erhöht allen Elementarschaden um 7%/8%/9%/**10%**. Fügt Zielen in der Nähe beim Abfeuern von „Frostklingen“ zusätzlichen Schaden in Höhe von **416%** des ANG zu. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
-		"fourpc": "Nach der Verwendung einer Entladungsfähigkeit einer Frostwaffe wird der Endschaden für **3000**Sek. um 12%/15%/19%/**23%** erhöht. Wenn **Alabastertiger** ausgerüstet ist, werden alle Angriffe um **12%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
+		"fourpc": "Nach der Verwendung einer Entladungsfähigkeit einer Frostwaffe wird der Endschaden für **3000**Sek. um 12%/15%/19%/**23%** erhöht. Wenn **Alabastertiger** ausgerüstet ist, werden alle Angriffe um **12%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot und nur das Set mit der höchsten Sternenbewertung tritt in Kraft.",
 		"id": "suit_SSR37_3"
 	}
 }

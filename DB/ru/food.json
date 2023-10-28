@@ -3,7 +3,8 @@
 		"name": "Собачья мята",
 		"type": "ITEM_TYPE_QUEST",
 		"description": "Любимая еда дрессированных собак.",
-		"source": "Предмет, отвлекающий гончих",
+		"satiety": "Предмет, отвлекающий гончих",
+		"buff": "Закуска",
 		"icon": "/Game/Resources/Icon/caiyao/Task_Area2Cooking",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR"
@@ -12,29 +13,30 @@
 		"name": "Ужасное жаркое",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Куча неизвестных ингредиентов грубо тушится в большой кастрюле. Большая часть питательных веществ в процессе теряется.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/Item_Cooking_901",
 		"stars": 0,
 		"quality": "ITEM_QUALITY_POOR",
-		"ingredients": [],
-		"ingredientsraw": []
+		"ingredients": []
 	},
 	"Item_Cooking_0902": {
 		"name": "Так себе жаркое",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Кажется, что это успех... но выбор продуктов для блюда в конечном итоге приводит к фиаско.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/Item_Cooking_902",
 		"stars": 0,
 		"quality": "ITEM_QUALITY_POOR",
-		"ingredients": [],
-		"ingredientsraw": []
+		"ingredients": []
 	},
 	"Item_Cooking_1001": {
 		"name": "Жареные грибы",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Вкуc так себе, но, по крайней мере, они приготовленные, а не сырые.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1001",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
@@ -45,15 +47,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Mushroom_001, 2, 2"
+		"mods": [
+			1,
+			0.1,
+			1500
 		]
 	},
 	"Item_Cooking_1002": {
 		"name": "Суп с водорослями и яйцом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Суп со свежей морской капустой богат белком и хорошо утоляет голод.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1002",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -69,16 +74,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Greens007, 2, 2",
-			"Item_Egg_001, 1, 1"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_1003": {
 		"name": "Хрустящая рыба на гриле",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Одно из популярных блюд в портовом городе Бэнджи. Дешево и вкусно.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1003",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
@@ -88,16 +95,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Fishes_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1004": {
 		"name": "Цельнозерновой хлеб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Хлеб выпечен из обработанного зерна. Он питательный и легко хранится. У каждого странника должен быть с собой такой хлеб в дорогу.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1004",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
@@ -107,16 +112,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Staples_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1005": {
 		"name": "Хлопья для завтрака",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Когда-то такой порции хватало, чтобы спасти от голодной смерти пять-шесть человек. Сейчас жизнь куда легче, и люди даже добавляют в хлопья молоко вместо воды.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1005",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -131,17 +134,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Staples_001, 2, 2",
-			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"Item_Cooking_1006": {
 		"name": "Мясо на гриле",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Какую степень прожарки предпочитаете? Настоящие мужчины едят мясо, брошенное на несколько секунд на раскаленные камни под жарким солнцем.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1006",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
@@ -151,16 +151,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Meat_001, 2, 2"
 		]
 	},
 	"Item_Cooking_1007": {
 		"name": "Суп с морепродуктами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Говорят, что первая ложка вас взбодрит, а вторая — оздоровит... хоть вкус и так себе.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1007",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -180,18 +178,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Shell_001, 3, 3",
-			"Item_Shell_002, 2, 2",
-			"Item_Greens_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1008": {
 		"name": "Хрустящий куриный бургер",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Куриные бургеры, которые можно встретить в забегаловках с фастфудом. Ничто не сравнится с сочетанием горячей курицы в панировке и хрустящего салата.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1008",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -212,17 +206,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Staples_001, 1, 1",
-			"Item_Meat_002, 1, 1",
-			"Item_Greens_001, 1, 1"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_1009": {
 		"name": "Острый бургер",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Сколько бы времени ни прошло, он не перестает возбуждать аппетит.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1009",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -242,18 +237,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Staples_001, 3, 3",
-			"Item_Meat_003, 2, 2",
-			"Item_Greens_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1010": {
 		"name": "Жареный рис с яйцом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Именно то блюдо, которое нужно, когда вы устали есть простой белый рис.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1010",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -268,17 +259,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Condiment_06, 2, 2",
-			"Item_Egg_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1011": {
 		"name": "Краб на пару",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Морепродукты лучше всего подавать свежими. Проблема в том, с чего начать...",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1011",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -294,16 +282,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shells006, 2, 2",
-			"Item_Greens_001, 2, 2"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"Item_Cooking_1012": {
 		"name": "Ледяная клубничная газировка",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Смешайте пюре из земляники с газированной водой, затем добавьте лед. Идеальный летний напиток.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1012",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -323,18 +313,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Fruit_002, 2, 2",
-			"Item_Honey_001, 2, 2",
-			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_1013": {
 		"name": "Огнедышащая газировка",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Время вечернего чая!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1013",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE"
@@ -343,7 +329,8 @@
 		"name": "Грозовая черничная газировка",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Черника темная, как грозовая туча. Будьте осторожны, не пролейте ее на себя, ведь ее очень трудно отстирать.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1014",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -363,18 +350,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Drugs_005, 1, 1",
-			"Item_Honey_001, 2, 2",
-			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"Item_Cooking_1015": {
 		"name": "Золотое яйцо с помидорами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нет, я взболтал яйца не случайно...",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1015",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -390,16 +373,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruits006, 2, 2",
-			"Item_Egg_001, 2, 2"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_1016": {
 		"name": "Простой сытный салат",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Самый простой салат для удовлетворения суточной потребности в питательных веществах. Подходит для низкокалорийной диеты.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1016",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -429,20 +414,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Greens_003, 1, 1",
-			"Item_Fruits006, 1, 1",
-			"Item_Greens_001, 1, 1",
-			"Item_Egg_001, 1, 1",
-			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_1017": {
 		"name": "Салат с латуком",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отличный салат с простыми ингредиентами и насыщенным вкусом.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1017",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
@@ -458,16 +437,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Greens_001, 2, 2",
-			"Item_Condiment_03, 1, 1"
+		"mods": [
+			1,
+			0.1,
+			1500
 		]
 	},
 	"Item_Cooking_1018": {
 		"name": "Грибной суп",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Прекрасное сочетание свежих грибов и хрустящего салата.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1018",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -483,16 +464,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Mushroom_001, 2, 2",
-			"Item_Greens_001, 2, 2"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_1019": {
 		"name": "Яичница",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Начните чудесный день с жареных яиц!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1019",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
@@ -503,15 +486,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Egg_001, 2, 2"
+		"mods": [
+			1,
+			0.1,
+			1500
 		]
 	},
 	"Item_Cooking_1020": {
 		"name": "Витая ракушка на пару",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "В этом блюде остался весь первоначальный вкус ракушек! Хотя если посыпать его зеленым луком, оно стало бы еще лучше.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1020",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -527,16 +513,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shell_001, 2, 2",
-			"Item_Greens_001, 1, 1"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_1021": {
 		"name": "Яйцо на пару с морским ежом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Морской еж с нежным яйцом на пару — вкусное и радующее душу блюдо, особенно популярное в снежных полях.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1021",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -552,16 +540,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shells007, 2, 2",
-			"Item_Egg_001, 2, 2"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"Item_Cooking_1022": {
 		"name": "Двойной тост с ягодным джемом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Смешение двух ягод создает кисло-сладкую симфонию во рту.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1022",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -581,18 +571,14 @@
 				"min": " 3",
 				"max": " 3"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Drugs_005, 1, 1",
-			"Item_Fruit_002, 1, 1",
-			"Item_Staples_001, 3, 3"
 		]
 	},
 	"Item_Cooking_1023": {
 		"name": "Паста с помидором и яичницей",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Идеально кислое и простое в приготовлении блюдо — вкусное низкокалорийное лакомство.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1023",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -612,18 +598,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Fruits006, 4, 4",
-			"Item_Staples_001, 3, 3",
-			"Item_Egg_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1024": {
 		"name": "Мясное жаркое с картофелем",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Мясо впитало в себя все питательные вещества, поэтому чрезвычайно полезно!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1024",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -638,17 +620,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Staples_003, 1, 1",
-			"Item_Meat_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1025": {
 		"name": "Картофель фри",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нездоровая пища? Нет, это чистое счастье!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1025",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -663,17 +642,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Staples_003, 1, 1",
-			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"Item_Cooking_1026": {
 		"name": "Салат из овощей",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отборный салат, отлично подходит для пикников.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1026",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -699,18 +675,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruit_001, 1, 1",
-			"Item_Fruits006, 1, 1",
-			"Item_Greens_001, 1, 1",
-			"Item_Condiment_03, 1, 1"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_1027": {
 		"name": "Жареная курица",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Простое и быстрое блюдо. От хрустящей золотистой корочки у всех слюнки текут.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1027",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -726,16 +702,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Meat_002, 2, 2",
-			"Item_Staples_001, 1, 1"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_1028": {
 		"name": "Фруктовый сок с медом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Свежий сок с капельками меда, слегка взболтанный. Оттенок сладости среди кислого.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1028",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -756,17 +734,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruit_001, 2, 2",
-			"Item_Honey_001, 1, 1",
-			"Item_Condiment_01, 1, 1"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_1029": {
 		"name": "Фруктовый торт",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нет такого огорчения, которое не прогнал бы кусочек вкусного торта. А если один кусочек все же не помогает, возьмите второй!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1029",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -792,18 +771,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruit_002, 2, 2",
-			"Item_Staples_001, 1, 1",
-			"Item_Fruit_001, 1, 1",
-			"Item_Egg_001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"Item_Cooking_1030": {
 		"name": "Ледяной орхидейный сюрприз",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Замечательная летняя еда. Настоящий морской праздник у вас во рту!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1030",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -824,17 +803,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Mushroom_007, 2, 2",
-			"Item_Condiment_07, 1, 1",
-			"Item_Condiment_01, 1, 1"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_1031": {
 		"name": "Жареная брокколи",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Здоровая низкокалорийная пища, хоть и не все ее любят.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1031",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -844,16 +824,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Greens_003, 2, 2"
 		]
 	},
 	"Item_Cooking_1032": {
 		"name": "Вареные гребешки",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Простое и вкусное блюдо, не требующее никаких приправ.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1032",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -869,16 +847,18 @@
 				"max": " 3"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shell_002, 2, 2",
-			"Item_Greens_001, 3, 3"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"Item_Cooking_1033": {
 		"name": "Мясная булочка",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Кусайте на здоровье, только не забрызгайтесь восхитительно вкусным соком!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1033",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -893,17 +873,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Staples_001, 2, 2",
-			"Item_Meat_001, 1, 1"
 		]
 	},
 	"Item_Cooking_1034": {
 		"name": "Ломтики рыбы с грибами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Прекрасное сочетание нарезанной рыбы и грибов.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1034",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -919,16 +896,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Mushroom_001, 2, 2",
-			"Item_Fishes_001, 1, 1"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_1035": {
 		"name": "Печеный крестец",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Разожгите гриль и устраивайтесь в кресле. Ах, какой запах...",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1035",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -939,15 +918,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Meat_003, 2, 2"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"Item_Cooking_1036": {
 		"name": "Грибной суп с одуванчиками",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Вы когда-нибудь пробовали одуванчик с грибами? От такого словно крылья вырастают за спиной.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/1036",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -963,16 +945,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Dandelion_zhongzi, 1, 1",
-			"Item_Mushroom_001, 2, 2"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"Item_Cooking_2001": {
 		"name": "Жаркое из морепродуктов и мяса",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Домашняя кухня Бэнджи — это вкус родного города.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2001",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -988,16 +972,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fishes006, 1, 1",
-			"Item_Egg_001, 2, 2"
+		"mods": [
+			1,
+			0.13,
+			10000
 		]
 	},
 	"Item_Cooking_2002": {
 		"name": "Хлеб из красной пшеницы",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Самая распространенная еда среди жителей Аиды, которая отражает их простую жизнь.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2002",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -1007,16 +993,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Staples_002, 2, 2"
 		]
 	},
 	"Item_Cooking_2003": {
 		"name": "Пирог с побегами папоротника",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Полезная выпечка с начинкой из побегов папоротника, правда, не слишком популярная среди детей.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2003",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1032,16 +1016,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Greens008, 2, 2",
-			"Item_Staples_002, 2, 2"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"Item_Cooking_2004": {
 		"name": "Шоколадный хлеб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Целая гора шоколада! Придется на денек отложить диету...",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2004",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1057,16 +1043,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Nuts002, 2, 2",
-			"Item_Staples_002, 2, 2"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"Item_Cooking_2005": {
 		"name": "Суп из огненных шляпок",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Что может быть приятнее, чем дымящийся суп из огненных шляпок, когда вы покоряете снежные вершины?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2005",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -1082,16 +1070,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Mushroom_004, 2, 2",
-			"Item_Greens_001, 2, 2"
+		"mods": [
+			1,
+			0.13,
+			10000
 		]
 	},
 	"Item_Cooking_2006": {
 		"name": "Суп из черного мха",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Годится, чтобы набить живот, пока ищете чего-нибудь получше....",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2006",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -1107,16 +1097,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Greens011, 2, 2",
-			"Item_Greens_001, 2, 2"
+		"mods": [
+			1,
+			0.13,
+			10000
 		]
 	},
 	"Item_Cooking_2007": {
 		"name": "Суп из халикакаба",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Салат из отборных ингредиентов. Кисло-сладкий, любимый всеми детьми!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2007",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1137,17 +1129,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruits009, 2, 2",
-			"Item_Fruits006, 2, 2",
-			"Item_Condiment_03, 1, 1"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"Item_Cooking_2008": {
 		"name": "Суп из побегов папоротника",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Похоже, сегодня очередной день травоядных...",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2008",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1163,16 +1156,18 @@
 				"max": " 4"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Greens008, 2, 2",
-			"Item_Greens_001, 4, 4"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"Item_Cooking_2009": {
 		"name": "Острый угорь",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "А электрический угорь полностью приготовлен? Почему у меня язык покалывает?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2009",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1182,16 +1177,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Fishes_002, 1, 1"
 		]
 	},
 	"Item_Cooking_2010": {
 		"name": "Грибной суп с угрем",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Острое испытание для вкусовых рецепторов. Выпейте его одним глотком, если осмелитесь! И никакой воды!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/Item_Cooking_0221",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1206,17 +1199,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Fishes_002, 1, 1",
-			"Item_Mushroom_004, 2, 2"
 		]
 	},
 	"Item_Cooking_2011": {
 		"name": "Суп из морских крабов",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Все самое вкусное из краба попало в рагу.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2011",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1231,17 +1221,14 @@
 				"min": " 4",
 				"max": " 4"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Shells_005, 2, 2",
-			"Item_Mushroom_001, 4, 4"
 		]
 	},
 	"Item_Cooking_2012": {
 		"name": "Гранатовый сок",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Мне кажется, или сок действительно светится?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2012",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1262,17 +1249,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruit_003, 2, 2",
-			"Item_Honey_001, 2, 2",
-			"Item_Condiment_01, 1, 1"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"Item_Cooking_2013": {
 		"name": "Кокосовое молоко",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Выпейте чашку перед сном, и сладких вам снов!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2013",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1292,18 +1280,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Nuts002, 2, 2",
-			"Item_Honey_001, 2, 2",
-			"Item_Condiment_07, 1, 1"
 		]
 	},
 	"Item_Cooking_2014": {
 		"name": "Чай с драконьим огнефруктом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Добавить пирожное — и идеальный послеобеденный чай готов!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2014",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1318,17 +1302,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Fruit_004, 2, 2",
-			"Item_Honey_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2015": {
 		"name": "Жаркое из морских желудей",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Вкус, которым вы будете наслаждаться!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2015",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1343,17 +1324,14 @@
 				"min": " 4",
 				"max": " 4"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Shells009, 2, 2",
-			"Item_Greens_001, 4, 4"
 		]
 	},
 	"Item_Cooking_2016": {
 		"name": "Пицца с морскими желудями",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Дайте мне двойную порцию!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2016",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1374,17 +1352,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shells009, 2, 1",
-			"Item_Staples_002, 2, 2",
-			"Item_Condiment_05, 1, 1"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"Item_Cooking_2017": {
 		"name": "Чай со снежной азалией",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Выпейте немного чая, сидя у костра холодной зимой.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2017",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1404,18 +1383,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Follows002, 2, 1",
-			"Item_Condiment_07, 1, 1",
-			"Item_Honey_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2018": {
 		"name": "Какао с шишками",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Какао-молоко с ореховым вкусом. Любители орехов могут добавить в него больше орехов.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2018",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1436,17 +1411,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Nuts003, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Condiment_07, 2, 2"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"Item_Cooking_2019": {
 		"name": "Ореховый чай",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Понюхайте, какие свежие орехи...",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2019",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1467,17 +1443,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Nuts001, 1, 1",
-			"Item_Nuts003, 2, 2",
-			"Item_Honey_001, 2, 2"
+		"mods": [
+			1,
+			0.2,
+			60000
 		]
 	},
 	"Item_Cooking_2020": {
 		"name": "Пирог с фиолетовым ямсом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Пирог с начинкой, который легко взять с собой в дальний поход.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2020",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1492,17 +1469,14 @@
 				"min": " 3",
 				"max": " 3"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Staples_005, 1, 1",
-			"Item_Staples_002, 3, 3"
 		]
 	},
 	"Item_Cooking_2021": {
 		"name": "Суп из снежного лотоса",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Снежный лотос почти безвкусен, поэтому в него добавляют сахар, и получается популярный десерт.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2021",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1518,16 +1492,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Follows001, 1, 1",
-			"Item_Honey_001, 2, 2"
+		"mods": [
+			1,
+			0.2,
+			60000
 		]
 	},
 	"Item_Cooking_2022": {
 		"name": "Жареный рис с трюфелями",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Обжарьте трюфели, затем смешайте с жареным рисом.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2022",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1547,18 +1523,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Mushroom_006, 1, 1",
-			"Item_Condiment_05, 1, 1",
-			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"Item_Cooking_2023": {
 		"name": "Лапша с гусеничными грибами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Я уже в том возрасте, когда нужно следить за своим питанием?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2023",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1574,16 +1546,18 @@
 				"max": " 3"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Greens012, 1, 1",
-			"Item_Staples_002, 3, 3"
+		"mods": [
+			1,
+			0.2,
+			60000
 		]
 	},
 	"Item_Cooking_2024": {
 		"name": "Суши с икрой",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Стильное блюдо, приятное на глаз. Если не получается скатать красивые колобки, то лучше просто смешайте все в миске.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2024",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1604,17 +1578,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Drugs_007, 1, 1",
-			"Item_Condiment_06, 2, 2",
-			"Item_Greens007, 2, 2"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"Item_Cooking_2025": {
 		"name": "Картофельные шарики с икрой",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Мягкие картофельные шарики с первоклассной икрой. Вы наверняка захотите добавки.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2025",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1629,17 +1604,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Drugs_007, 1, 1",
-			"Item_Staples_003, 2, 2"
 		]
 	},
 	"Item_Cooking_2026": {
 		"name": "Стейк на гриле",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Средней прожарки, пожалуйста!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2026",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1649,16 +1621,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Meat_004, 1, 1"
 		]
 	},
 	"Item_Cooking_2027": {
 		"name": "Стейк с грибным соусом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Мне кажется, я вижу, как по небу летят стейки...",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2027",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1673,17 +1643,14 @@
 				"min": " 3",
 				"max": " 3"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Meat_004, 1, 1",
-			"Item_Mushroom_004, 3, 3"
 		]
 	},
 	"Item_Cooking_2028": {
 		"name": "Тушеное мясо",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Традиционная классика.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2028",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1693,16 +1660,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Meat_005, 1, 1"
 		]
 	},
 	"Item_Cooking_2029": {
 		"name": "Сочный сэндвич с мясом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Не торопитесь и приготовьте себе хороший завтрак!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2029",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1722,18 +1687,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Meat_005, 1, 1",
-			"Item_Staples_002, 2, 2",
-			"Item_Egg_001, 2, 2"
 		]
 	},
 	"Item_Cooking_2030": {
 		"name": "Сашими с лососем",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Вот какой еда должна быть на вкус!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2030",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1743,16 +1704,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Fishes005, 1, 1"
 		]
 	},
 	"Item_Cooking_2031": {
 		"name": "Вареный рис с улитками",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Выглядит как какая-то странная смесь, но гораздо вкуснее, чем кажется.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2031",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1767,17 +1726,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Shells_003, 1, 1",
-			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"item_Cooking_3001": {
 		"name": "Жареные чили",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Очень остро!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3001",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1792,17 +1748,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_001, 2, 2",
-			"Item_Condiment_05, 2, 2"
 		]
 	},
 	"item_Cooking_3002": {
 		"name": "Жаренный на угле песчаный лук",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Лавка с аппетитным барбекю для странников открыта!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/2031",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
@@ -1812,16 +1765,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_002, 2, 2"
 		]
 	},
 	"item_Cooking_3003": {
 		"name": "Йогурт с алоэ",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Кто не любит кисло-сладкий йогурт?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3003",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1842,17 +1793,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_003, 1, 1",
-			"Item_Honey_001, 1, 1",
-			"Item_Condiment_07, 2, 2"
+		"mods": [
+			1,
+			0.2,
+			60000
 		]
 	},
 	"item_Cooking_3004": {
 		"name": "Розовый чай",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Когда завариваешь розовый чай, даже самый беспокойный ум чудесным образом успокаивается.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3004",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -1868,25 +1820,33 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_004, 1, 1",
-			"Item_Honey_001, 2, 2"
+		"mods": [
+			1,
+			0.2,
+			60000
 		]
 	},
 	"item_Cooking_3005": {
 		"name": "Газировка из ягод терновника",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Для придания вкуса простому соку терновника нужно изрядное количество меда.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3008",
 		"stars": 1,
-		"quality": "ITEM_QUALITY_RARE"
+		"quality": "ITEM_QUALITY_RARE",
+		"mods": [
+			1,
+			0.15,
+			20000
+		]
 	},
 	"item_Cooking_3006": {
 		"name": "Свекольный суп",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Теплый свекольный суп. В холодную погоду такого можно слопать целую кастрюлю.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3006",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -1897,15 +1857,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_006, 2, 2"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"item_Cooking_3007": {
 		"name": "Дынный салат",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Он вкуснее в охлажденном виде, но не жадничайте.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3007",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1920,17 +1883,14 @@
 				"min": " 3",
 				"max": " 3"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_007, 2, 2",
-			"Item_Condiment_03, 3, 3"
 		]
 	},
 	"item_Cooking_3008": {
 		"name": "Газировка из ягод терновника",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Для придания вкуса простому соку терновника нужно изрядное количество меда.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3008",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1951,17 +1911,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_008, 2, 2",
-			"Item_Honey_001, 1, 1",
-			"Item_Condiment_01, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_Cooking_3009": {
 		"name": "Тыквенная каша",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Простая еда, которая может быть очень сытной. Съешьте миску, и вам, скорее всего, уже не захочется ничего другого.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3009",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -1977,16 +1938,18 @@
 				"max": " 3"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_009, 2, 2",
-			"Item_Condiment_06, 3, 3"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_Cooking_3010": {
 		"name": "Жареный тофу",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Золотистая хрустящая жареная закуска. Осторожно, не капните соусом на одежду!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3010",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -1996,16 +1959,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_010, 2, 2"
 		]
 	},
 	"item_Cooking_3011": {
 		"name": "Суп из редьки",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Сытный и вкусный суп. Еще миску, пожалуйста!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3011",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2016,15 +1977,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_011, 1, 1"
+		"mods": [
+			1,
+			0.2,
+			60000
 		]
 	},
 	"item_Cooking_3012": {
 		"name": "Кукуруза с солью и перцем",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Простая и легкая закуска — отличный выбор для позднего вечера.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3012",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -2034,16 +1998,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_012, 2, 2"
 		]
 	},
 	"item_Cooking_3013": {
 		"name": "Кактусовый коктейль",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Что может быть лучше жарким летом, чем освежающий кактусовый коктейль?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3013",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_POOR",
@@ -2054,15 +2016,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_013, 2, 2"
+		"mods": [
+			1,
+			0.1,
+			1500
 		]
 	},
 	"item_Cooking_3014": {
 		"name": "Хвост ящерицы на гриле",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Посыпьте чили, зирой и перцем, а потом подождите немного, прежде чем приступать.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3014",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -2073,15 +2038,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_014, 2, 2"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"item_Cooking_3015": {
 		"name": "Особые ребрышки на гриле",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Единственные и неповторимые — и идеально сочетаются с рисом!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3015",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2097,16 +2065,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_015, 1, 1",
-			"Item_Honey_001, 2, 2"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_Cooking_3016": {
 		"name": "Шоколадное соевое молоко",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Если вам надоело обычное соевое молоко, почему бы не попробовать это?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3016",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2127,17 +2097,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Nuts002, 2, 2",
-			"Item_Vera_Harvest_010, 1, 1",
-			"Item_Honey_001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_Cooking_3017": {
 		"name": "Свекла с папоротником",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Когда продукты сварятся, выньте их из кастрюли, добавьте соус, хорошо перемешайте — и готово.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3017",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2153,16 +2124,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Greens008, 2, 2",
-			"Item_Vera_Harvest_006, 2, 2"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_Cooking_3018": {
 		"name": "Десертный салат",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нарезанный шаровой кактус и ягоды терновника с салатной заправкой. Рекомендуется сначала охладить.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3018",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2183,17 +2156,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_008, 2, 2",
-			"Item_Vera_Harvest_013, 2, 2",
-			"Item_Condiment_03, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_Cooking_3019": {
 		"name": "Розовый хлеб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Приятный полдень начинается с ломтя хлеба с ароматом розы.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3019",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2208,17 +2182,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_004, 1, 1",
-			"Item_Staples_002, 2, 2"
 		]
 	},
 	"item_Cooking_3020": {
 		"name": "Медовый дынный хлеб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Хлеба с начинкой из сладкой дыни вполне достаточно для завтрака.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3020",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2238,18 +2209,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_007, 2, 2",
-			"Item_Honey_001, 1, 1",
-			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3021": {
 		"name": "Зерновая каша",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Эта каша готовится из смеси самых разных зерен. Иногда просто хочется съесть что-то не острое!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3021",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2270,17 +2237,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_009, 2, 2",
-			"Item_Vera_Harvest_012, 1, 1",
-			"Item_Condiment_06, 2, 2"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_Cooking_3022": {
 		"name": "Кукурузная лепешка с морепродуктами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Тако из морепродуктов... вы разоритесь, открыв магазин с такими блюдами!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3022",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2301,17 +2269,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shell_002, 2, 2",
-			"Item_Vera_Harvest_012, 1, 1",
-			"Item_Staples_001, 2, 2"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_Cooking_3023": {
 		"name": "Тыква на пару",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Тыква, приготовленная на пару, мягкая и сладкая. Отличный выбор, если хочешь похудеть.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3023",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2327,16 +2296,18 @@
 				"max": " 3"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_009, 2, 2",
-			"Item_Staples_001, 3, 3"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_Cooking_3024": {
 		"name": "Куриный суп",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Гладкая лапша в горячем курином бульоне. Представьте, что это миска праздничной лапши, и загадайте желание.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3024",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2356,18 +2327,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_011, 1, 1",
-			"Item_Meat_002, 1, 1",
-			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3025": {
 		"name": "Пряная лапша с барбекю",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Определенно может поспорить с лапшой «Куньцзи»!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3025",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2387,18 +2354,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Meat_005, 1, 1",
-			"Item_Vera_Harvest_001, 1, 1",
-			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_3026": {
 		"name": "Острый жареный рис",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Чем острее, тем лучше!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3026",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2423,19 +2386,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_001, 1, 1",
-			"Item_Vera_Harvest_014, 1, 1",
-			"Item_Egg_001, 1, 1",
-			"Item_Condiment_06, 2, 2"
 		]
 	},
 	"item_Cooking_3027": {
 		"name": "Ассорти блюд на гриле",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Это, должно быть, рай для любителей мяса, да?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3027",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2455,18 +2413,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Meat_004, 1, 1",
-			"Item_Vera_Harvest_001, 1, 1",
-			"Item_Vera_Harvest_014, 1, 1"
 		]
 	},
 	"item_Cooking_3028": {
 		"name": "Суп из редиса и свиной отбивной",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Суп из редиса и свиной отбивной, которая медленно тушилась в течение целого дня. Редис на самом деле даже вкуснее, чем ребрышки.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3028",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2481,17 +2435,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_011, 1, 1",
-			"Item_Vera_Harvest_015, 1, 1"
 		]
 	},
 	"item_Cooking_3029": {
 		"name": "Кукурузный суп-пюре",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Сливочный, сладкий и терпкий суп. Самое время полакомиться им с хлебом!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3029",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -2512,17 +2463,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_012, 2, 2",
-			"Item_Condiment_07, 1, 1",
-			"Item_Mushroom_001, 2, 2"
+		"mods": [
+			1,
+			0.12,
+			3300
 		]
 	},
 	"item_Cooking_3030": {
 		"name": "Хрустящая жирная горлянка",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Обмакнуть в панировку, две минуты обжарить во фритюре — и готово!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3030",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2533,15 +2485,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruits008, 1, 1"
+		"mods": [
+			1,
+			0.2,
+			60000
 		]
 	},
 	"item_Cooking_3031": {
 		"name": "Устрица на гриле",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Трудно решить — съесть ее сырой с лимонным соком или приготовить на гриле.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3031",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2552,15 +2507,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shells008, 2, 2"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"item_Cooking_3032": {
 		"name": "Холодная хауттюйния",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Попробуйте хауттюйнию, и вы с самого первого раза влюбитесь в ее вкус!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3032",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2571,15 +2529,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Greens009, 2, 2"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"item_Cooking_3033": {
 		"name": "Острые полоски жирной горлянки",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Аппетитное холодное блюдо — похоже, подойдет и в качестве основного.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3033",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2595,16 +2556,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruits008, 1, 1",
-			"Item_Vera_Harvest_001, 2, 2"
+		"mods": [
+			1,
+			0.2,
+			60000
 		]
 	},
 	"item_Cooking_3034": {
 		"name": "Суп из устриц с тофу",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Считается, что многие дети не любят есть рыбу. Поэтому этот суп приготовлен особым образом.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3034",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2620,16 +2583,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shells008, 2, 2",
-			"Item_Vera_Harvest_010, 2, 2"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"item_Cooking_3035": {
 		"name": "Яичница-глазунья с хауттюйнией",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Яичницу можно приготовить с чем угодно! Мой любимый рецепт...",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. выносливости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/3035",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2645,16 +2610,18 @@
 				"max": " 3"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Greens009, 2, 2",
-			"Item_Egg_001, 3, 3"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"item_Cooking_4001": {
 		"name": "Драконы и звезды",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "На самом деле это просто вареное мясо драконовой черепахи с икрой морской звезды, но в ресторане придумали причудливое название.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4001",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2674,18 +2641,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_007, 3, 3",
-			"Item_Ocean_Harvest_001, 3, 3",
-			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4002": {
 		"name": "Океаническое яйцо на пару",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Яйца драконовой черепахи добывают в океане, так что вполне естественно, что у них вкус морепродуктов.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4002",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2701,16 +2664,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_008, 1, 1",
-			"Item_Ocean_Harvest_001, 2, 2"
+		"mods": [
+			1,
+			0.2,
+			60000
 		]
 	},
 	"item_Cooking_4003": {
 		"name": "Салат из иглобрюха",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Вкусный салат из иглобрюха. Стоит попробовать!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4003",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2725,17 +2690,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_002, 2, 2",
-			"Item_Condiment_03, 1, 1"
 		]
 	},
 	"item_Cooking_4004": {
 		"name": "Свежий иглобрюх",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Блюдо из иглобрюха, в котором умело используются все до единой части этой дорогой рыбы.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4004",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -2755,18 +2717,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_002, 3, 3",
-			"Item_Ocean_Harvest_001, 3, 3",
-			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4005": {
 		"name": "Иглобрюх на гриле",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Это сочное мясо иглобрюха будет таять у вас во рту... По крайней мере, так написано в меню.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4005",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2782,16 +2740,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_002, 2, 2",
-			"Item_Ocean_Harvest_018, 1, 1"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"item_Cooking_4006": {
 		"name": "Белый лотос",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Тонко нарезанные и выложенные кусочки сырого иглобрюха похожи на цветок лотоса.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4006",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2806,17 +2766,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_002, 2, 2",
-			"Item_Ocean_Harvest_019, 1, 1"
 		]
 	},
 	"item_Cooking_4007": {
 		"name": "Вареный осьминог",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Свежий и есть, что пожевать. Рекомендуется каждому.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4007",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -2837,17 +2794,20 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_003, 2, 2",
-			"Item_Ocean_Harvest_019, 1, 1",
-			"Item_Ocean_Harvest_020, 1, 1"
+		"mods": [
+			1,
+			15,
+			3,
+			0.04,
+			3340
 		]
 	},
 	"item_Cooking_4008": {
 		"name": "Шарики из осьминога",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Вкусное традиционное блюдо, вкус которого во многом зависит от размера кусочков осьминога.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4008",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2872,19 +2832,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_003, 2, 2",
-			"Item_Staples_001, 1, 1",
-			"Item_Condiment_03, 1, 1",
-			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4009": {
 		"name": "Лакомства на гриле",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Популярное блюдо среди детей, но слишком дорогое, чтобы покупать его на карманные деньги.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4009",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -2900,16 +2855,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_003, 2, 2",
-			"Item_Ocean_Harvest_018, 1, 1"
+		"mods": [
+			1,
+			0.13,
+			10000
 		]
 	},
 	"item_Cooking_4010": {
 		"name": "Аппетитная соленая рыба на пару",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Морская рыба сама по себе соленая, и приготовление на пару сохраняет ее вкус умами.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4010",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -2925,16 +2882,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_004, 2, 2",
-			"Item_Ocean_Harvest_020, 1, 1"
+		"mods": [
+			1,
+			0.13,
+			10000
 		]
 	},
 	"item_Cooking_4011": {
 		"name": "Соте из морской рыбы",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Над этим блюдом приходится потрудиться, но с должными стараниями оно становится еще вкуснее.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4011",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2955,17 +2914,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shells008, 2, 2",
-			"Item_Ocean_Harvest_004, 2, 2",
-			"Item_Ocean_Harvest_021, 1, 1"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"item_Cooking_4012": {
 		"name": "Роскошное сашими",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Блюдо, которое станет испытанием для мастерства повара. Не кладите слишком много васаби.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4012",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -2990,19 +2950,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_004, 2, 2",
-			"Item_Ocean_Harvest_011, 2, 2",
-			"Item_Condiment_04, 1, 1",
-			"Item_Ocean_Harvest_019, 1, 1"
 		]
 	},
 	"item_Cooking_4013": {
 		"name": "Звездный пирог",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Смотрит ли рыба на звезды, пока она жива?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4013",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3023,17 +2978,20 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_004, 2, 2",
-			"Item_Staples_001, 2, 2",
-			"Item_Ocean_Harvest_001, 1, 1"
+		"mods": [
+			1,
+			15,
+			3,
+			0.05,
+			11400
 		]
 	},
 	"item_Cooking_4014": {
 		"name": "Тушеные морепродукты",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Обычно готовится с мясом дичи, чтобы уменьшить количество используемых редких ингредиентов.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4014",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3053,18 +3011,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_005, 2, 2",
-			"Item_Meat_001, 2, 2",
-			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4015": {
 		"name": "Актиния на гриле",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Если чили слишком много, получается чрезвычайно остро.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4015",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3084,18 +3038,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_006, 2, 2",
-			"Item_Vera_Harvest_001, 1, 1",
-			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4016": {
 		"name": "Цветущая актиния",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Добавьте актинию в приготовленное на пару яйцо для богатой текстуры.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4016",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -3111,16 +3061,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_006, 2, 2",
-			"Item_Egg_001, 1, 1"
+		"mods": [
+			1,
+			0.13,
+			10000
 		]
 	},
 	"item_Cooking_4017": {
 		"name": "Долголетие",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Говорят, что драконовая черепаха приносит удачу, поэтому в ресторанах ее обычно называют как-то иначе.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4017",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3135,17 +3087,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_007, 2, 2",
-			"Item_Ocean_Harvest_018, 1, 1"
 		]
 	},
 	"item_Cooking_4018": {
 		"name": "Счастливое яйцо",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Просто вареное яйцо драконовой черепахи, но окрашенное оно лучше продается.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4018",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3165,18 +3114,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_008, 1, 1",
-			"Item_Shells007, 2, 2",
-			"Item_Condiment_04, 1, 1"
 		]
 	},
 	"item_Cooking_4019": {
 		"name": "Счастливое яйцо (розовое)",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Просто вареное яйцо драконовой черепахи, но окрашенное оно лучше продается.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4019",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3197,17 +3142,20 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_008, 1, 1",
-			"Item_Ocean_Harvest_016, 2, 2",
-			"Item_Condiment_04, 1, 1"
+		"mods": [
+			1,
+			15,
+			3,
+			0.07,
+			20000
 		]
 	},
 	"item_Cooking_4020": {
 		"name": "Счастливое яйцо (красное)",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Просто вареное яйцо драконовой черепахи, но окрашенное оно лучше продается.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4020",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3227,18 +3175,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_008, 1, 1",
-			"Item_Ocean_Harvest_015, 2, 2",
-			"Item_Condiment_04, 1, 1"
 		]
 	},
 	"item_Cooking_4021": {
 		"name": "Охлажденная медуза",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Хрустящая и освежающая. Один раз попробовав, невозможно остановиться!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4021",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -3254,16 +3198,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_009, 2, 2",
-			"Item_Ocean_Harvest_019, 1, 1"
+		"mods": [
+			1,
+			0.13,
+			10000
 		]
 	},
 	"item_Cooking_4022": {
 		"name": "Жареная медуза с грибами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Эта смесь грибов и медуз просто божественна, и лучше всего она сочетается с рисом. Вы и сами не заметите, как съедите целую тарелку.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4022",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -3279,16 +3225,20 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_009, 2, 2",
-			"Item_Mushroom_001, 2, 2"
+		"mods": [
+			1,
+			15,
+			3,
+			0.04,
+			3340
 		]
 	},
 	"item_Cooking_4023": {
 		"name": "Сочный кальмар",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Не стоит есть сочные и пухлые пирожки прилюдно, если вы не знаете, как это делать правильно.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4023",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3309,17 +3259,20 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_010, 2, 2",
-			"Item_Ocean_Harvest_012, 2, 2",
-			"Item_Ocean_Harvest_021, 1, 1"
+		"mods": [
+			1,
+			15,
+			3,
+			0.05,
+			11400
 		]
 	},
 	"item_Cooking_4024": {
 		"name": "Рагу из кальмаров",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Вкусное блюдо, которое могло бы быть более популярным, если бы цвета выглядели аппетитнее.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4024",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3339,18 +3292,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Shells008, 2, 2",
-			"Item_Ocean_Harvest_012, 2, 2",
-			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4025": {
 		"name": "Каша из отварной рыбы",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Полезная каша для тех, у кого нет аппетита.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4025",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -3366,16 +3315,20 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_011, 2, 2",
-			"Item_Condiment_06, 1, 1"
+		"mods": [
+			1,
+			15,
+			3,
+			0.04,
+			3340
 		]
 	},
 	"item_Cooking_4026": {
 		"name": "Маринованная рыба",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Не подходит для людей, но определенно подходит для кошек!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4026",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3400,19 +3353,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_001, 1, 1",
-			"Item_Ocean_Harvest_011, 2, 2",
-			"Item_Ocean_Harvest_018, 1, 1",
-			"Item_Condiment_05, 1, 1"
 		]
 	},
 	"item_Cooking_4027": {
 		"name": "Омар с рисом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Омар, омар и еще раз омар! Блюдо, которым можно насладиться только на берегу моря.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4027",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3432,18 +3380,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_013, 2, 2",
-			"Item_Condiment_06, 1, 1",
-			"Item_Ocean_Harvest_020, 1, 1"
 		]
 	},
 	"item_Cooking_4028": {
 		"name": "Рак с пряностями",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Маленькими кусочками вкус ничуть не хуже!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4028",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3459,16 +3403,20 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_013, 2, 2",
-			"Item_Vera_Harvest_001, 1, 1"
+		"mods": [
+			1,
+			15,
+			3,
+			0.05,
+			11400
 		]
 	},
 	"item_Cooking_4029": {
 		"name": "Яйцо на пару с крабом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Вкус хороший... Но что это, краб или имитация краба?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4029",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3489,17 +3437,20 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_014, 2, 2",
-			"Item_Shells008, 2, 2",
-			"Item_Egg_001, 2, 2"
+		"mods": [
+			1,
+			15,
+			3,
+			0.07,
+			20000
 		]
 	},
 	"item_Cooking_4030": {
 		"name": "Роскошный жареный рис с крабом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Это блюдо настолько роскошно во всех смыслах слова, что никто не сможет от него отказаться.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4030",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3519,18 +3470,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_014, 2, 2",
-			"Item_Condiment_06, 1, 1",
-			"Item_Condiment_05, 1, 1"
 		]
 	},
 	"item_Cooking_4031": {
 		"name": "Императорский краб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Даже короля запросто могут съесть.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4031",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3546,16 +3493,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_014, 2, 2",
-			"Item_Ocean_Harvest_020, 1, 1"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"item_Cooking_4032": {
 		"name": "Пирожок из риса с крабом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Свежий аппетитный краб и тягучие рисовые лепешки складываются в невероятно вкусное блюдо.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4032",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3575,18 +3524,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_014, 2, 2",
-			"Item_Staples_001, 1, 1",
-			"Item_Ocean_Harvest_021, 1, 1"
 		]
 	},
 	"item_Cooking_4033": {
 		"name": "Золотая лапша с крабом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "С каждым добавленным ингредиентом и процессом ее цена становится все выше и выше.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4033",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3602,16 +3547,20 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_014, 2, 2",
-			"Item_Staples_001, 2, 2"
+		"mods": [
+			1,
+			15,
+			3,
+			0.05,
+			11400
 		]
 	},
 	"item_Cooking_4034": {
 		"name": "Морепродукты на пару с чесноком",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Классическое блюдо и сочетание свежих морепродуктов с острым чесноком.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4034",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3631,18 +3580,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_013, 2, 2",
-			"Item_Ocean_Harvest_014, 2, 2",
-			"Item_Vera_Harvest_002, 2, 2"
 		]
 	},
 	"item_Cooking_4035": {
 		"name": "Вермишель с морепродуктами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Ароматное блюдо, которое никогда не получается слишком насыщенным или жирным.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4035",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3667,19 +3612,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_013, 2, 2",
-			"Item_Ocean_Harvest_012, 2, 2",
-			"Item_Ocean_Harvest_021, 1, 1",
-			"Item_Staples_001, 1, 1"
 		]
 	},
 	"item_Cooking_4036": {
 		"name": "Запеченный омар с сыром",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Сырный, и пожевать приятно.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4036",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_RARE",
@@ -3695,16 +3635,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_013, 2, 2",
-			"Item_Condiment_07, 1, 1"
+		"mods": [
+			1,
+			0.16,
+			34000
 		]
 	},
 	"item_Cooking_4037": {
 		"name": "Омар с лапшой в чернилах кальмара",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Творческое блюдо, окрашенное натуральными чернилами кальмара, вкусное и стильное.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4037",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3724,18 +3666,14 @@
 				"min": " 2",
 				"max": " 2"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_013, 2, 2",
-			"Item_Ocean_Harvest_010, 2, 2",
-			"Item_Staples_001, 2, 2"
 		]
 	},
 	"item_Cooking_4038": {
 		"name": "Жареные витые ракушки",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Эта пряная и вкусная еда идеально подходит для ночного перекуса.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/4038",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_COMMON",
@@ -3751,16 +3689,20 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Ocean_Harvest_038, 1, 1",
-			"Item_Ocean_Harvest_018, 2, 2"
+		"mods": [
+			1,
+			15,
+			3,
+			0.04,
+			3340
 		]
 	},
 	"item_Cooking_5001": {
 		"name": "Рагу с побегами бамбука",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Смесь жирного и постного мяса, которое в течение нескольких часов тушится с побегами бамбука и небольшим количеством острой приправы. Вы и сами не заметите, как съедите три миски.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/5001",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3780,18 +3722,14 @@
 				"min": " 4",
 				"max": " 4"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Jiuyu_Harvest_004, 2, 2",
-			"Item_Meat_005, 1, 1",
-			"Item_Meat_001, 4, 4"
 		]
 	},
 	"item_Cooking_5007": {
 		"name": "Нефритовая бегония",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Холодное блюдо из бегонии и нефритника.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/5007",
 		"stars": 2,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3806,17 +3744,14 @@
 				"min": " 4",
 				"max": " 4"
 			}
-		],
-		"ingredientsraw": [
-			"Item_Jiuyu_Harvest_012, 2, 2",
-			"Item_Jiuyu_Harvest_001, 4, 4"
 		]
 	},
 	"item_activity_cooking_001": {
 		"name": "Жареный молочный поросёнок",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Приготовленный хорошим поваром жареный молочный поросенок может удовлетворить самых взыскательных гостей.\r\n\r\nПосле победы над Апофисом и Королевой роз выпадает из сундука паролей во время события «Кафе „Аида”». Также можно получить, собирая ингредиенты и готовя еду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_001",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3841,19 +3776,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"item_activity_cooking_RM_2, 1, 1",
-			"item_activity_cooking_RM_5, 1, 1",
-			"Item_Honey_001, 1, 1",
-			"Item_Greens_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_002": {
 		"name": "Тушеная индейка с яблоками",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Фирменное блюдо Астры. Торговцы и путешественники разрекламировали его по всему континенту.\r\n\r\nПосле победы над Апофисом и Королевой роз выпадает из сундука паролей во время события «Кафе „Аида”». Также можно получить, собирая ингредиенты и готовя еду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_002",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3878,19 +3808,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"item_activity_cooking_RM_3, 1, 1",
-			"item_activity_cooking_RM_1, 1, 1",
-			"Item_Staples_003, 1, 1",
-			"Item_Greens_003, 1, 1"
 		]
 	},
 	"item_activity_cooking_003": {
 		"name": "Жареные окорочка с овощами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Сначала порадуйте свои вкусовые сосочки, откусив от жареной куриной ножки, а потом закусите освежающим салатом. Ням-ням!\r\n\r\nПосле победы над Апофисом и Королевой роз выпадает из сундука паролей во время события «Кафе „Аида”». Также можно получить, собирая ингредиенты и готовя еду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_003",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3910,18 +3835,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"item_activity_cooking_RM_3, 1, 1",
-			"Item_Greens_001, 1, 1",
-			"Item_Mushroom_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_004": {
 		"name": "Жареный лосось",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нежный лосось подается со сладким медом, который оставляет во рту приятное послевкусие.\r\n\r\nПосле победы над Робарг и Собеком выпадает из сундука паролей во время события «Кафе „Аида”». Также можно получить, собирая ингредиенты и готовя еду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_004",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3941,18 +3862,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"item_activity_cooking_RM_7, 1, 1",
-			"Item_Honey_001, 1, 1",
-			"Item_Greens_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_005": {
 		"name": "Рисовые клецки с кунжутом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Традиционное блюдо из порта Бэнджи, которое очень любят и старики, и молодые.\r\n\r\nПосле победы над Робарг и Собеком выпадает из сундука паролей во время события «Кафе \"Аида\"». Также можно получить, собирая ингредиенты и готовя еду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_005",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -3972,18 +3889,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"item_activity_cooking_RM_4, 1, 1",
-			"Item_Staples_002, 1, 1",
-			"Item_Mushroom_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_006": {
 		"name": "Свекольник с индейкой",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Миска теплого супа, способного прогнать всю дневную усталость.\r\nПосле победы над Робарг и Собеком выпадает из сундука паролей во время события «Кафе „Аида”». Также можно получить, собирая ингредиенты и готовя еду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_006",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4003,18 +3916,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"item_activity_cooking_RM_3, 1, 1",
-			"Item_Staples_003, 1, 1",
-			"Item_Mushroom_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_007": {
 		"name": "Имбирный пряник",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Популярный праздничный десерт со сладостью сахара и меда и приятным ароматом пшеничных зерен.\r\n\r\nПосле победы над Робарг, Апофисом, Морозным ботом, Собеком, Королевой роз и Барбароссой выпадает из сундука паролей во время события «Кафе „Аида”». Также можно получить, собирая ингредиенты и готовя еду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_007",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4034,18 +3943,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"item_activity_cooking_RM_5, 1, 1",
-			"Item_Staples_002, 1, 1",
-			"Item_Honey_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_008": {
 		"name": "Яблочный пирог",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Пышный фруктовый пирог. Один укус — и вас ждет райское наслаждение. \r\n\r\nПосле победы над Морозным ботом и Барбароссой выпадает из сундука паролей во время события «Кафе „Аида”». Также можно получить, собирая ингредиенты и готовя еду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_008",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4070,19 +3975,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"item_activity_cooking_RM_1, 1, 1",
-			"item_activity_cooking_RM_6, 1, 1",
-			"Item_Staples_002, 1, 1",
-			"Item_Egg_001, 1, 1"
 		]
 	},
 	"item_activity_cooking_009": {
 		"name": "Фруктовый пунш",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Напиток с фруктовым ароматом и легким запахом спиртного. \r\n\r\nПосле победы над Морозным ботом и Барбароссой выпадает из сундука паролей во время события «Кафе „Аида”». Также можно получить, собирая ингредиенты и готовя еду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_009",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4107,19 +4007,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"item_activity_cooking_RM_6, 1, 1",
-			"item_activity_cooking_RM_1, 1, 1",
-			"Item_Fruits009, 1, 1",
-			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"item_activity_cooking_010": {
 		"name": "Яблочный сок",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Кисло-сладкий напиток, который любят и стар и млад. Замечательно утоляет жажду жарким летом. \r\n\r\nПосле победы над Морозным ботом и Барбароссой выпадает из сундука паролей во время события «Кафе „Аида”». Также можно получить, собирая ингредиенты и готовя еду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/item_activity_cooking_010",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4139,18 +4034,14 @@
 				"min": " 1",
 				"max": " 1"
 			}
-		],
-		"ingredientsraw": [
-			"item_activity_cooking_RM_1, 1, 1",
-			"item_activity_cooking_RM_5, 1, 1",
-			"Item_Condiment_01, 1, 1"
 		]
 	},
 	"item_activity2_cooking_101": {
 		"name": "Конфета-сердечко с халикакабом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отправляйтесь на халикакабе в мир шоколада!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_101",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4171,17 +4062,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_1, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Fruits009, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_102": {
 		"name": "Конфета-сердечко с кедровыми орехами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Шоколад с кедровыми орешками — идеальный подарок.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_102",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4202,17 +4094,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_1, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Nuts003, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_103": {
 		"name": "Конфета-сердечко с клубникой",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Сочетание сладковатой клубники и нежного шоколада — это чарующий вкус первой любви.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_103",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4233,17 +4126,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_1, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Fruit_002, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_104": {
 		"name": "Конфета-сердечко с лесными орехами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Покрытое шоколадом сердце как предвкушение любви.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_104",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4264,17 +4158,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_1, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Nuts001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_105": {
 		"name": "Конфета-сердечко с трюфелем",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Ощутите любовь в выборе ингредиентов.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_105",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4295,17 +4190,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_1, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Mushroom_006, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_106": {
 		"name": "Конфета-сердечко с черникой",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Откусите кусочек и насладитесь кисло-сладким вкусом черничного джема.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_106",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4326,17 +4222,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_1, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Drugs_005, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_107": {
 		"name": "Конфета-сердечко с медом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Величественная симфония шоколада и меда.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_107",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4357,17 +4254,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_1, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Honey_001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_108": {
 		"name": "Конфета-сердечко с падалицей",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отдать тебе то, что для меня дороже всего.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_108",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4388,17 +4286,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_1, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Fruit_001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_109": {
 		"name": "Конфета-сердечко с какао",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нежный и мягкий темный шоколад, сдобренный сладкими с ноткой горечи грезами.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_109",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4414,16 +4313,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_1, 1, 1",
-			"Item_Nuts002, 2, 2"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_110": {
 		"name": "Конфета-сердечко с молоком",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Молоко и шоколад — это союз, созданный на небесах!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_110",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4444,17 +4345,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_1, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Condiment_07, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_201": {
 		"name": "Воздушная конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отправляйтесь на халикакабе в мир шоколада!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_201",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4475,17 +4377,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_2, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Fruits009, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_202": {
 		"name": "Конфета-купол с кедровыми орехами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Шоколад с кедровыми орешками — идеальный подарок.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_202",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4506,17 +4409,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_2, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Nuts003, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_203": {
 		"name": "Клубничная конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Сочетание сладковатой клубники и нежного шоколада — это чарующий вкус первой любви.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_203",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4537,17 +4441,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_2, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Fruit_002, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_204": {
 		"name": "Конфета-купол с лесными орехами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Покрытое шоколадом сердце как предвкушение любви.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_204",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4568,17 +4473,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_2, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Nuts001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_205": {
 		"name": "Трюфельная конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Ощутите любовь в выборе ингредиентов.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_205",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4599,17 +4505,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_2, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Mushroom_006, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_206": {
 		"name": "Черничная конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Откусите кусочек и насладитесь кисло-сладким вкусом черничного джема.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_206",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4630,17 +4537,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_2, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Drugs_005, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_207": {
 		"name": "Медовая конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Величественная симфония шоколада и меда.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_207",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4661,17 +4569,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_2, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Honey_001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_208": {
 		"name": "Конфета-купол с падалицей",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отдать тебе то, что для меня дороже всего.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_208",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4692,17 +4601,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_2, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Fruit_001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_209": {
 		"name": "Конфета-купол с какао",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нежный и мягкий темный шоколад, сдобренный сладкими с ноткой горечи грезами.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_209",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4718,16 +4628,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_2, 1, 1",
-			"Item_Nuts002, 2, 2"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_210": {
 		"name": "Молочная конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Молоко и шоколад — это союз, созданный на небесах!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_210",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4748,17 +4660,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_2, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Condiment_07, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_301": {
 		"name": "Парящий куб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отправляйтесь на халикакабе в мир шоколада!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_301",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4779,17 +4692,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_3, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Fruits009, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_302": {
 		"name": "Куб из кедровых орехов",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Шоколад с кедровыми орешками — идеальный подарок.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_302",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4810,17 +4724,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_3, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Nuts003, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_303": {
 		"name": "Клубничный куб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Сочетание сладковатой клубники и нежного шоколада — это чарующий вкус первой любви.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_303",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4841,17 +4756,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_3, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Fruit_002, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_304": {
 		"name": "Ореховый куб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Покрытое шоколадом сердце как предвкушение любви.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_304",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4872,17 +4788,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_3, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Nuts001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_305": {
 		"name": "Трюфельный куб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Ощутите любовь в выборе ингредиентов.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_305",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4903,17 +4820,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_3, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Mushroom_006, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_306": {
 		"name": "Черничный куб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Откусите кусочек и насладитесь кисло-сладким вкусом черничного джема.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_306",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4934,17 +4852,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_3, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Drugs_005, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_307": {
 		"name": "Медовый куб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Величественная симфония шоколада и меда.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_307",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4965,17 +4884,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_3, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Honey_001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_308": {
 		"name": "Куб из упавших фруктов",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отдать тебе то, что для меня дороже всего.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_308",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -4996,17 +4916,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_3, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Fruit_001, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_309": {
 		"name": "Куб из какао",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нежный и мягкий темный шоколад, сдобренный сладкими с ноткой горечи грезами.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_309",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5022,16 +4943,18 @@
 				"max": " 2"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_3, 1, 1",
-			"Item_Nuts002, 2, 2"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_310": {
 		"name": "Молочный куб",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Молоко и шоколад — это союз, созданный на небесах!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_310",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5052,53 +4975,78 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity2_mould_3, 1, 1",
-			"Item_Nuts002, 1, 1",
-			"Item_Condiment_07, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity2_cooking_001": {
 		"name": "Сувенир Кита",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Подарочная коробка шоколада в тематике электромантии, гордость Ханны.\r\nДоктор говорит, что самым сладким нужно делиться с дорогими людьми!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_box_thunder",
 		"stars": 1,
-		"quality": "ITEM_QUALITY_EPIC"
+		"quality": "ITEM_QUALITY_EPIC",
+		"mods": [
+			1,
+			0.15,
+			20000
+		]
 	},
 	"item_activity2_cooking_002": {
 		"name": "Сувенир Кита",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Подарочная коробка шоколада в тематике физического элемента, гордость Ханны.\nДоктор говорит, что самым сладким нужно делиться с дорогими людьми!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_box_physics",
 		"stars": 1,
-		"quality": "ITEM_QUALITY_EPIC"
+		"quality": "ITEM_QUALITY_EPIC",
+		"mods": [
+			1,
+			0.15,
+			20000
+		]
 	},
 	"item_activity2_cooking_003": {
 		"name": "Сувенир Кита",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Подарочная коробка шоколада в тематике пиромантии, гордость Ханны.\nДоктор говорит, что самым сладким нужно делиться с дорогими людьми!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_box_fire",
 		"stars": 1,
-		"quality": "ITEM_QUALITY_EPIC"
+		"quality": "ITEM_QUALITY_EPIC",
+		"mods": [
+			1,
+			0.15,
+			20000
+		]
 	},
 	"item_activity2_cooking_004": {
 		"name": "Сувенир Кита",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Подарочная коробка шоколада в тематике криомантии, гордость Ханны.\nДоктор говорит, что самым сладким нужно делиться с дорогими людьми!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_box_ice",
 		"stars": 1,
-		"quality": "ITEM_QUALITY_EPIC"
+		"quality": "ITEM_QUALITY_EPIC",
+		"mods": [
+			1,
+			0.15,
+			20000
+		]
 	},
 	"item_activity2_cooking_005": {
 		"name": "Хрустящий рисовый пирог",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Лакомство, невероятно популярное на планете Аида. Говорят, что за один-единственный кусок такого торта подрались бандиты из Гиен и Опустошителей.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_cooking_1",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC"
@@ -5107,25 +5055,38 @@
 		"name": "Подарочная коробка шоколада",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Вкусным нужно делиться с важными людьми!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/Cafe/cafe_2/item_activity2_box_thunder",
 		"stars": 1,
-		"quality": "ITEM_QUALITY_EPIC"
+		"quality": "ITEM_QUALITY_EPIC",
+		"mods": [
+			1,
+			0.15,
+			20000
+		]
 	},
 	"HealPotion_01": {
 		"name": "Весенний блинчик",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Самая популярная закуска на весеннем рынке.\r\nПо внешнему виду невозможно определить ее вкус...",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/HealPotion_01",
 		"stars": 1,
-		"quality": "ITEM_QUALITY_EPIC"
+		"quality": "ITEM_QUALITY_EPIC",
+		"mods": [
+			1,
+			0.22,
+			75000
+		]
 	},
 	"BuffPotion_01": {
 		"name": "Сосновый бриз",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Напиток, который можно найти на весеннем рынке.\r\nВсего один глоток – и вы почувствуете себя в сосновом лесу, когда весенний ветерок нежно обдувает щеки.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/Resources/Icon/caiyao/BuffPotion_01",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC"
@@ -5134,7 +5095,8 @@
 		"name": "Конфета-кубик классическая",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Кто может устоять перед насыщенным ароматом шоколада?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_311_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5160,18 +5122,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity3_food2, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"Item_Honey_001, 1, 1",
-			"item_activity3_mould_1, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_102": {
 		"name": "Конфета-кубик с орехами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Шоколад с ореховым ассорти — это удивительно вкусно!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_312_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5192,17 +5154,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity3_food6, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_1, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_103": {
 		"name": "Конфета-кубик с лесными орехами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Шелковистая гладкость и изумительный аромат лесного ореха сочетаются с шоколадом, добавляя совершенно новый слой вкуса.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_313_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5223,17 +5186,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Nuts001, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_1, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_104": {
 		"name": "Конфета-кубик с огнефруктом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Кому какое дело до семян, когда есть шоколад, которым можно наслаждаться?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_314_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5254,17 +5218,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruit_004, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_1, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_105": {
 		"name": "Куб из какао",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нежный и мягкий темный шоколад, сдобренный сладкими с ноткой горечи грезами.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_320_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5285,17 +5250,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Nuts002, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_1, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_106": {
 		"name": "Конфета-кубик с хвостом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Новейшая шоколадка с причудливым вкусом. Осмелитесь попробовать?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_315_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5316,17 +5282,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_014, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_1, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_107": {
 		"name": "Конфета-кубик с жоусуном",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Жоусун со вкусом шоколада: прекрасный образец темного мира андеграундной кулинарии.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_316_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5347,17 +5314,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Meat_004, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_1, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_108": {
 		"name": "Конфета-кубик с грибами",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Шоколадные пралине — это всегда прекрасный сюрприз.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_317_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5378,17 +5346,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Mushroom_001, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_1, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_109": {
 		"name": "Конфета-кубик с соленым яйцом",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Яичный желток зернистый и сочный, с характерным вкусом.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_318_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5409,17 +5378,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Egg_001, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_1, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_110": {
 		"name": "Конфета-кубик с крабовыми палочками",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Интенсивный ароматы морепродуктов задает тон этому шоколаду.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_319_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5440,17 +5410,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shells006, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_1, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_201": {
 		"name": "Кофейная конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Я хочу вкусить все горечи и сладости путешествия вместе с тобой.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_211_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5476,18 +5447,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity3_food3, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"Item_Meat_001, 1, 1",
-			"item_activity3_mould_2, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_202": {
 		"name": "Конфета-купол с ликером",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нежные ароматы вина и шоколада соединяются вместе, создавая успокаивающую мелодию.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_212_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5508,17 +5479,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity3_food7, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_2, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_203": {
 		"name": "Цветочная конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Откусив кусочек, Вы почувствуете захватывающий дух аромат цветов, напоминающий о розах в день святого Валентина.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_213_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5539,17 +5511,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_004, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_2, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_204": {
 		"name": "Клубничная конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Сочетание сладковатой клубники и нежного шоколада — это чарующий вкус первой любви.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_217_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5570,17 +5543,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruit_002, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_2, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_205": {
 		"name": "Конфета-купол с какао",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нежный и мягкий темный шоколад, сдобренный сладкими с ноткой горечи грезами.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_218_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5601,17 +5575,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Nuts002, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_2, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_206": {
 		"name": "Воздушная конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отправляйтесь на халикакабе в мир шоколада!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_219_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5632,17 +5607,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Vera_Harvest_015, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_2, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_207": {
 		"name": "Конфета-купол с жоусуном",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Гладкий шоколад и пушистая начинка работают вместе, чтобы подарить совершенно новый вкус.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_214_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5663,17 +5639,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Meat_004, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_2, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_208": {
 		"name": "Конфета-купол с морской солью",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Устали от сладкого? Попробуйте соленое!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_215_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5694,17 +5671,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shell_002, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_2, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_209": {
 		"name": "Трюфельная конфета-купол",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Ощутите любовь в выборе ингредиентов.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_220_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5725,17 +5703,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Mushroom_006, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_2, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_210": {
 		"name": "Конфета-купол с крабовыми палочками",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Есть много способов приготовить хорошую ногу краба-плавунца.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_216_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5756,17 +5735,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shells006, 1, 1",
-			"Item_Staples_001, 1, 1",
-			"item_activity3_mould_2, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_301": {
 		"name": "Конфета-сердечко c мятой",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Холодный и бесконечно освежающий вкус.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_111_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5787,17 +5767,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity3_food4, 1, 1",
-			"item_activity3_food1, 1, 1",
-			"item_activity3_mould_3, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_302": {
 		"name": "Конфета-сердечко со сливками",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Когда речь идет о сладостях, есть ли что-то, что может соперничать со сливками?",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_112_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5818,17 +5799,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"item_activity3_food5, 1, 1",
-			"item_activity3_food1, 1, 1",
-			"item_activity3_mould_3, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_303": {
 		"name": "Конфета-сердечко с падалицей",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отдать тебе то, что для меня дороже всего.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_118_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5849,17 +5831,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fruit_001, 1, 1",
-			"item_activity3_food1, 1, 1",
-			"item_activity3_mould_3, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_304": {
 		"name": "Конфета-сердечко с черникой",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Откусите кусочек и насладитесь кисло-сладким вкусом черничного джема.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_119_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5880,17 +5863,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Drugs_005, 1, 1",
-			"item_activity3_food1, 1, 1",
-			"item_activity3_mould_3, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_305": {
 		"name": "Конфета-сердечко с какао",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Нежный и мягкий темный шоколад, сдобренный сладкими с ноткой горечи грезами.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_120_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5911,17 +5895,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Nuts002, 1, 1",
-			"item_activity3_food1, 1, 1",
-			"item_activity3_mould_3, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_306": {
 		"name": "Конфета-сердечко с рыбьим жиром",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Шоколад, богатый питательными веществами. Идеально для тех, кто следит за здоровьем.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_113_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5942,17 +5927,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Fishes006, 1, 1",
-			"item_activity3_food1, 1, 1",
-			"item_activity3_mould_3, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_307": {
 		"name": "Конфета-сердечко с пряностями",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Орех c весьма сильным вкусом.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_114_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -5973,17 +5959,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Nuts003, 1, 1",
-			"item_activity3_food1, 1, 1",
-			"item_activity3_mould_3, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_308": {
 		"name": "Конфета-сердечко с жоусуном",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Ледяная оболочка с шелковистой начинкой.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_115_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -6004,17 +5991,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Meat_004, 1, 1",
-			"item_activity3_food1, 1, 1",
-			"item_activity3_mould_3, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_309": {
 		"name": "Конфета-сердечко с икрой",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Одни только ингредиенты указывают, насколько это дорого!",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_116_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -6035,17 +6023,18 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Drugs_007, 1, 1",
-			"item_activity3_food1, 1, 1",
-			"item_activity3_mould_3, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	},
 	"item_activity3_cooking_310": {
 		"name": "Конфета-сердечко с крабовыми палочками",
 		"type": "ITEM_TYPE_COOKING",
 		"description": "Отзывы об этом шоколаде либо крайне положительные, либо резко отрицательные.",
-		"source": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"satiety": "Восстанавливает <ComLblGreen>{0}</> ед. сытости.",
+		"buff": "Блюдо",
 		"icon": "/Game/ResourcesOverSea/Icon/item/item_activity2_cooking_117_os",
 		"stars": 1,
 		"quality": "ITEM_QUALITY_EPIC",
@@ -6066,10 +6055,10 @@
 				"max": " 1"
 			}
 		],
-		"ingredientsraw": [
-			"Item_Shells006, 1, 1",
-			"item_activity3_food1, 1, 1",
-			"item_activity3_mould_3, 1, 1"
+		"mods": [
+			1,
+			0.15,
+			20000
 		]
 	}
 }

@@ -17551,10 +17551,10 @@
 		"id": "fragment_Hat_70_4_4"
 	},
 	"fragment_Hat_29_4_4": {
-		"name": "Shard Labu Permen",
+		"name": "お菓子のかぼちゃの欠片",
 		"type": "ITEM_TYPE_FRAGMENT",
 		"description": "Está com medo de não caberem mais doces nos seus bolsos? Está na hora de andar com um pote!",
-		"source": "Kumpulkan 70 shard Labu Permen untuk disatukan menjadi Labu Permen.",
+		"source": "70個集めるとお菓子のかぼちゃを合成できる",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101.png",
 		"shortIcon": "fashion_icon_shipin_101",
 		"rarity": "LEGENDRY",
@@ -17621,10 +17621,10 @@
 		"id": "fragment_fashion_decoration_86_4"
 	},
 	"fragment_fashion_decoration_91_4": {
-		"name": "Shard Iblis Cilik",
+		"name": "リトルデビルの欠片",
 		"type": "ITEM_TYPE_FRAGMENT",
-		"description": "Hati-hati, kalau malam suka ada Iblis Cilik yang mengincar lehermu! Hiiii!",
-		"source": "Kumpulkan 4 shard Iblis Cilik untuk disatukan menjadi Iblis Cilik.",
+		"description": "闇夜に潜む小悪魔にご用心。ほらほら、首元に気をつけて！",
+		"source": "リトルデビルの欠片を4つ集めるとリトルデビルを合成できる",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
 		"rarity": "LEGENDRY",
@@ -29396,20 +29396,20 @@
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
-		"name": "Koin Master",
+		"name": "マスターコイン",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Emblem berdesain mewah. Emblem ini mencerminkan kehormatan besar bagi para pejuang.",
-		"source": "Berpartisipasilah dalam event Arena Mega Master untuk mendapatkannya, yang bisa ditukarkan dengan hadiah di Toko.",
+		"description": "巧みなデザインが施された勲章。戦士にとってこの上ない栄誉",
+		"source": "イベント「MEGAマスター戦」に参加すると獲得、イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
 		"id": "Item_TowerDefenceCoin_01"
 	},
 	"Item_MegaGuruCoin": {
-		"name": "Koin Master",
+		"name": "マスターコイン",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Emblem berdesain mewah. Emblem ini mencerminkan kehormatan besar bagi para pejuang.",
-		"source": "Berpartisipasilah dalam event Arena Mega Master untuk mendapatkannya, yang bisa ditukarkan dengan hadiah di Toko.",
+		"description": "巧みなデザインが施された勲章。戦士にとってこの上ない栄誉",
+		"source": "イベント「MEGAマスター戦」に参加すると獲得、イベント商店で報酬と交換できる",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
@@ -29656,9 +29656,9 @@
 		"id": "Item_HalloweenCoin_04"
 	},
 	"Item_FollowGhostCoin": {
-		"name": "Permen Apel",
+		"name": "リンゴ飴",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Apel yang baru dipanen, dilapisi oleh sirup dan ditaburi kacang, cocok untuk anak-anak yang datang untuk trick-or-treat.",
+		"description": "採れたてのリンゴをシロップでコーティングし、ナッツでトッピングしたもの。トリックオアトリートのお返しにピッタリ",
 		"source": "Troque por recompensas na Loja.",
 		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin.png",
 		"shortIcon": "FollowGhostCoin",
@@ -30298,7 +30298,7 @@
 	"BreakFate_InnerCoin": {
 		"name": "Moeda de Libertação do Destino",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Emblem berdesain mewah. Emblem ini mencerminkan kehormatan besar bagi para pejuang.",
+		"description": "巧みなデザインが施された勲章。戦士にとってこの上ない栄誉",
 		"source": "Utilizado para comprar suprimentos de combate.",
 		"icon": "/Game/Resources/Icon/item/BreakFate_InnerCoin.png",
 		"shortIcon": "BreakFate_InnerCoin",
@@ -37601,17 +37601,17 @@
 	"HXXK_clue": {
 		"name": "Procurar pistas",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Petunjuk khusus yang disediakan oleh Departemen Editorial Bulanan Comet. Petunjuk ini membantu pembaca untuk menyelesaikan misi dan menukarnya dengan Stamp secara lebih efisien.",
-		"source": "Bisa digunakan untuk menginvestigasi.",
+		"description": "月刊「彗星」の編集部が提供する特別なヒント。読者がより効率的にミッションをクリアし、スタンプと交換できるようサポートする",
+		"source": "調査に用いることができる",
 		"icon": "/Game/Resources/UI/Activity/item_xiansuo.png",
 		"shortIcon": "item_xiansuo",
 		"rarity": "RARE",
 		"id": "HXXK_clue"
 	},
 	"Avatar_107": {
-		"name": "Topeng Malam",
+		"name": "闇夜の仮面",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Coba... tebak siapa aku!",
+		"description": "ふふ…さてさて、私は誰でしょう？",
 		"source": "Desbloqueia o avatar correspondente.",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_107.png",
 		"shortIcon": "Item_Avatar_107",
@@ -37619,9 +37619,9 @@
 		"id": "Avatar_107"
 	},
 	"AvatarFrame_107": {
-		"name": "Gumpalan Sutra",
+		"name": "錦の羽珠",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "Dengar! Dalam keheningan malam, kelelawar menari dan burung gagak menyanyikan lagu yang menyeramkan. Bulu-bulu berbayang melayang turun tanpa suara—apakah itu cuma angin, atau suara bisikan?",
+		"description": "よく聞け！夜の静寂の中、コウモリは舞い、カラスは不気味な歌を奏でる。黒影の如き羽毛が静かに落ち、風のように踊るだろう",
 		"source": "Desbloqueia a moldura de avatar correspondente.",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107.png",
 		"shortIcon": "icon_AvatarFrame_107",
@@ -37629,9 +37629,9 @@
 		"id": "AvatarFrame_107"
 	},
 	"chat_qipao_107": {
-		"name": "Gulungan Hias",
+		"name": "錦の巻物",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Buka gulungan untuk menyingkap tulisan-tulisan misterius. Hati-hati, huruf-huruf yang tidak terbaca itu mungkin berisi rahasia sang malam.",
+		"description": "巻物を広げると、謎めいた文字が現れた。気をつけて。この読めない文字には、夜の秘密が隠されているかもしれないよ？",
 		"source": "Caixa de bate-papo.",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107.png",
 		"shortIcon": "icon_qipao_107",
@@ -37639,19 +37639,19 @@
 		"id": "chat_qipao_107"
 	},
 	"bag_chat_qipao107": {
-		"name": "Giftbox Topeng Malam",
+		"name": "「闇夜の仮面」ギフトボックス",
 		"type": "ITEM_TYPE_GIFT",
-		"description": "Dengar! Dalam keheningan malam, kelelawar menari dan burung gagak menyanyikan lagu yang menyeramkan. Bulu-bulu berbayang melayang turun tanpa suara—apakah itu cuma angin, atau suara bisikan?",
-		"source": "Pakai untuk mendapatkan Avatar Topeng Malam, Bingkai Avatar Gumpalan Sutra, dan Gelembung Obrolan Gulungan Hias.",
+		"description": "よく聞け！夜の静寂の中、コウモリは舞い、カラスは不気味な歌を奏でる。黒影の如き羽毛が静かに落ち、風のように踊るだろう",
+		"source": "使用するとアイコン「闇夜の仮面」、アイコンフレーム「錦の羽珠」、チャット吹き出し「錦の巻物」を獲得できる",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107.png",
 		"shortIcon": "bag_chat_qipao107",
 		"rarity": "LEGENDRY",
 		"id": "bag_chat_qipao107"
 	},
 	"fashion_dress_58_4": {
-		"name": "Kilau Sutra",
+		"name": "瑠璃錦彩",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Boneka labu menjerit yang mengenakan topeng yang meriah. Pakai untuk bersinar di bawah sorotan lampu di atas panggung atau lenyap di malam hari, dengan hanya meninggalkan jejak warna merah tua dan angin yang berbisik.",
+		"description": "賑やかな仮面舞踏会に現れた、悲鳴を上げるカボチャの人形。ステージでスポットライトを浴びて輝くも良し、真紅と風の音だけを残して闇夜に消えるも良し",
 		"source": "Desbloqueia a roupa correspondente.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58.png",
 		"shortIcon": "fashion_f58",
@@ -37659,9 +37659,9 @@
 		"id": "fashion_dress_58_4"
 	},
 	"Hat_73_4_4": {
-		"name": "Kelelawar Crimson",
+		"name": "クリムゾンバット",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Kelelawar Crimson menemanimu berdansa di malam yang sunyi. Jangan sampai ketakutan, ya.",
+		"description": "静かな夜に、真紅のコウモリがあなたと踊る。そこの通行人さん、ビックリしないようにね！",
 		"source": "Desbloqueia o acessório correspondente.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157.png",
 		"shortIcon": "fashion_icon_shipin_157",
@@ -37669,9 +37669,9 @@
 		"id": "Hat_73_4_4"
 	},
 	"fashion_decoration_91_4": {
-		"name": "Iblis Cilik",
+		"name": "リトルデビル",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Hati-hati, kalau malam suka ada Iblis Cilik yang mengincar lehermu! Hiiii!",
+		"description": "闇夜に潜む小悪魔にご用心。ほらほら、首元に気をつけて！",
 		"source": "Desbloqueia o acessório correspondente.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
@@ -40810,7 +40810,7 @@
 		"name": "Caixa de escolha de arma SSR IV",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "Kit de seleção de arma grátis",
-		"source": "Buka kotak dan pilih salah satu Senjata <orange>SSR</> di dalamnya: Vesper, Thunderbreaker, Heartstream, Spark, Venus, Balmung, Guren Blade, Flaming Revolver, Thunderblades, Rosy Edge, Icewind Arrow, Absolute Zero, Scythe of the Crow, Chakram of the Seas, Negating Cube, Dual EM Stars, atau Molten Shield V2.",
+		"source": "次の<orange>SSR</>武器から1つ選択可能：夕べの祈り、破重雷槍、水流の徹心、スパーク、明けの明星、バルムンク、紅蓮刀、フレイムリボルバー、迅雷の双刃、薔薇の頂、氷風の矢、零度の指針、レイヴンの大鎌、海の戦輪、ネガティブキューブ、超電磁二重星、V2メルトシールド",
 		"icon": "/Game/ResourcesOverSea/Icon/item/choose_weapon_ssr_init_OS2.png",
 		"shortIcon": "choose_weapon_ssr_init_OS2",
 		"rarity": "LEGENDRY",
@@ -41987,7 +41987,7 @@
 		"id": "Avatar_tongyong33_os02"
 	},
 	"Avatar_tongyong33_os03": {
-		"name": "Little Spirit",
+		"name": "幽霊ちゃん",
 		"type": "ITEM_TYPE_AVATAR",
 		"description": "Você vai se arrepender de conhecer este lado meu!!!",
 		"source": "Desbloqueia o avatar correspondente.",
@@ -42019,7 +42019,7 @@
 	"Avatar_Koreatongyong33_01": {
 		"name": "Ratocha",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Domain 9 adalah tempat yang sangat indah.",
+		"description": "九域の景色…なかなか悪くないかも",
 		"source": "Desbloqueia o avatar correspondente.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Koreatongyong33_01i.png",
 		"shortIcon": "Avatar_Koreatongyong33_01i",
@@ -42027,9 +42027,9 @@
 		"id": "Avatar_Koreatongyong33_01"
 	},
 	"AvatarFrame_Koreatongyong33_01": {
-		"name": "Cincin Api",
+		"name": "炎輪",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "Rasakan semangatku!",
+		"description": "この情熱を感じて",
 		"source": "Desbloqueia a moldura de avatar correspondente.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Koreatongyong33_01i.png",
 		"shortIcon": "AvatarFrame_Koreatongyong33_01i",
@@ -42039,7 +42039,7 @@
 	"chat_qipao_Koreatongyong33_01": {
 		"name": "Esbrasear",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Ayo Chattingan!",
+		"description": "さあ、おしゃべりしよう！",
 		"source": "Caixa de bate-papo.",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01.png",
 		"shortIcon": "icon_qipao_Koreatongyong33_01",

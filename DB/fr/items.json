@@ -9376,10 +9376,10 @@
 		"id": "choose_Mount_006_skin_medium"
 	},
 	"choose_newbpfinal_linye": {
-		"name": "Boîte de Tissombre",
+		"name": "Shadow tissé boîte de sélection",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "Boîte commune",
-		"source": "Choisissez parmi les récompenses suivantes : Tissombre, or noir ×120.",
+		"source": "N'hésitez pas à choisir l'un des bonus suivants après ouverture: Shadow WEAVE, Black Market Cast Gold * 120",
 		"icon": "/Game/Resources/Icon/item/gift_newbplinye.png",
 		"shortIcon": "gift_newbplinye",
 		"rarity": "LEGENDRY",
@@ -17551,10 +17551,10 @@
 		"id": "fragment_Hat_70_4_4"
 	},
 	"fragment_Hat_29_4_4": {
-		"name": "Éclat de Bonbon citrouille",
+		"name": "Fragmento de Dulce de Calabaza",
 		"type": "ITEM_TYPE_FRAGMENT",
 		"description": "Vous avez peur de ne plus avoir assez de place dans vos poches? Ce seau à bonbons est fait pour vous!",
-		"source": "Rassemblez 70 éclats de Bonbon citrouille pour créer Bonbon citrouille.",
+		"source": "Obtén 70 fragmentos de Dulce de Calabaza para fusionar Dulce de Calabaza.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101.png",
 		"shortIcon": "fashion_icon_shipin_101",
 		"rarity": "LEGENDRY",
@@ -17621,10 +17621,10 @@
 		"id": "fragment_fashion_decoration_86_4"
 	},
 	"fragment_fashion_decoration_91_4": {
-		"name": "Éclat de Petit diable",
+		"name": "Fragmento de Minidemonio",
 		"type": "ITEM_TYPE_FRAGMENT",
-		"description": "Méfiez-vous des petits diables qui rôdent dans les ténèbres. Attention à votre cou!",
-		"source": "Rassemblez 4 éclats de Petit diable pour créer Petit diable.",
+		"description": "Cuidado con los pequeños Demonios que acechan en la noche. ¡Cuidado con el cuello!",
+		"source": "Obtén 4 fragmentos de Minidemonio para fusionar a Minidemonio.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
 		"rarity": "LEGENDRY",
@@ -29395,20 +29395,20 @@
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
-		"name": "Pièce maîtresse",
+		"name": "Maestre de la Moneda",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Un badge magnifiquement conçu. C'est un grand honneur pour les guerriers que de l'obtenir.",
-		"source": "Participez à l'événement Arène des méga-maîtres pour l'obtenir. S'échange contre des récompenses à la boutique.",
+		"description": "Una insignia exquisitamente diseñada. Representa un gran honor para los combatientes.",
+		"source": "Participa en el evento Arena Suprema para recibirlo; se puede canjear por recompensas en la tienda.",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
 		"id": "Item_TowerDefenceCoin_01"
 	},
 	"Item_MegaGuruCoin": {
-		"name": "Pièce maîtresse",
+		"name": "Maestre de la Moneda",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Un badge magnifiquement conçu. C'est un grand honneur pour les guerriers que de l'obtenir.",
-		"source": "Participez à l'événement Arène des méga-maîtres pour l'obtenir. S'échange contre des récompenses à la boutique.",
+		"description": "Una insignia exquisitamente diseñada. Representa un gran honor para los combatientes.",
+		"source": "Participa en el evento Arena Suprema para recibirlo; se puede canjear por recompensas en la tienda.",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
@@ -29475,20 +29475,20 @@
 		"id": "Item_MowingCoin"
 	},
 	"Item_MidAutumnCoin_01": {
-		"name": "Jus",
+		"name": "Sable étoilé",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "La bouteille est remplie de jus sucré.",
-		"source": "S'obtient en participant à l'événement Chute de fruits. Peut être échangé contre des récompenses dans la boutique de l'événement.",
+		"description": "La bouteille est remplie de rêves d'enfance.",
+		"source": "S'obtient lors des événements Protocole d'Echo, Circuit de Mirroria ou Recyclage de sable étoilé. Peut s'échanger contre des récompenses à la boutique de l'événement.",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
 		"id": "Item_MidAutumnCoin_01"
 	},
 	"Item_JuiceCoin": {
-		"name": "Jus",
+		"name": "Sable étoilé",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "La bouteille est remplie de jus sucré.",
-		"source": "S'obtient en participant à l'événement Chute de fruits. Peut être échangé contre des récompenses dans la boutique de l'événement.",
+		"description": "La bouteille est remplie de rêves d'enfance.",
+		"source": "S'obtient lors des événements Protocole d'Echo, Circuit de Mirroria ou Recyclage de sable étoilé. Peut s'échanger contre des récompenses à la boutique de l'événement.",
 		"icon": "/Game/Resources/Icon/item/Item_Drink_003.png",
 		"shortIcon": "Item_Drink_003",
 		"rarity": "EPIC",
@@ -29655,9 +29655,9 @@
 		"id": "Item_HalloweenCoin_04"
 	},
 	"Item_FollowGhostCoin": {
-		"name": "Pomme d'amour",
+		"name": "Manzana Caramelada",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Des pommes tout juste ramassées, nappées de sirop et agrémentées de noix, parfaites pour les enfants venus chercher des friandises pour Halloween.",
+		"description": "Manzanas recién cosechadas recubiertas de jarabe y nueces, perfectas para los niños que vienen a pedir caramelos.",
 		"source": "Permet d'obtenir des récompenses dans la boutique.",
 		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin.png",
 		"shortIcon": "FollowGhostCoin",
@@ -30297,7 +30297,7 @@
 	"BreakFate_InnerCoin": {
 		"name": "pièce Échapper au destin",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Un badge magnifiquement conçu. C'est un grand honneur pour les guerriers que de l'obtenir.",
+		"description": "Una insignia exquisitamente diseñada. Representa un gran honor para los combatientes.",
 		"source": "Peut être utilisé pour acheter des fournitures de combat.",
 		"icon": "/Game/Resources/Icon/item/BreakFate_InnerCoin.png",
 		"shortIcon": "BreakFate_InnerCoin",
@@ -37600,17 +37600,17 @@
 	"HXXK_clue": {
 		"name": "Recherche d'indices",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Un indice spécial offert par la rédaction de la Comète mensuelle. Il aide les lecteurs à accomplir les missions et à les échanger contre des sceaux plus efficacement.",
-		"source": "Peut être utilisé pour enquêter.",
+		"description": "Una pista especial que otorga el Departamento Editorial de Cometa Mensual. Facilita a que los lectores completen misiones y las puedan intercambiar por estampillas.",
+		"source": "Sirve para investigar.",
 		"icon": "/Game/Resources/UI/Activity/item_xiansuo.png",
 		"shortIcon": "item_xiansuo",
 		"rarity": "RARE",
 		"id": "HXXK_clue"
 	},
 	"Avatar_107": {
-		"name": "Masque nocturne",
+		"name": "Máscara Nocturna",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Devinez… qui je suis?",
+		"description": "¿Adivinas quién soy...?",
 		"source": "Débloque l'avatar correspondant.",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_107.png",
 		"shortIcon": "Item_Avatar_107",
@@ -37618,9 +37618,9 @@
 		"id": "Avatar_107"
 	},
 	"AvatarFrame_107": {
-		"name": "Plume de soie",
+		"name": "Pluma de Seda",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "Écoutez! Au cœur de la nuit, les chauves-souris dansent et les corbeaux nocturnes entonnent leur sinistre chant. De sombres plumes flottent en silence: était-ce une simple brise ou le murmure d'autre chose?",
+		"description": "¡Escucha! En el silencio de la noche, se oyen murciélagos que bailan y cuervos que cantan su espeluznante canción. Las plumas negras se mueven en las sombras. ¿Eso fue el viento o algo más que me susurra?",
 		"source": "Débloque le cadre d'avatar correspondant.",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107.png",
 		"shortIcon": "icon_AvatarFrame_107",
@@ -37628,9 +37628,9 @@
 		"id": "AvatarFrame_107"
 	},
 	"chat_qipao_107": {
-		"name": "Parchemin d'ornement",
+		"name": "Pergamino de Adorno",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Déroulez le parchemin pour dévoiler ses mystérieux écrits. Méfiez-vous, ces caractères indéchiffrables pourraient receler les secrets de la nuit.",
+		"description": "Despliega el pergamino para revelar misteriosos escritos. Cuidado, esos sinogramas ilegibles podrían contener los secretos de la noche.",
 		"source": "Bulle de chat",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107.png",
 		"shortIcon": "icon_qipao_107",
@@ -37638,19 +37638,19 @@
 		"id": "chat_qipao_107"
 	},
 	"bag_chat_qipao107": {
-		"name": "Coffret-cadeau Masque nocturne",
+		"name": "Regalo de Máscara Nocturna",
 		"type": "ITEM_TYPE_GIFT",
-		"description": "Écoutez! Au cœur de la nuit, les chauves-souris dansent et les corbeaux nocturnes entonnent leur sinistre chant. De sombres plumes flottent en silence: était-ce une simple brise ou le murmure d'autre chose?",
-		"source": "À utiliser pour obtenir l'avatar Masque nocturne, le cadre d'avatar Plume de soie et la bulle de chat Parchemin d'ornement.",
+		"description": "¡Escucha! En el silencio de la noche, se oyen murciélagos que bailan y cuervos que cantan su espeluznante canción. Las plumas negras se mueven en las sombras. ¿Eso fue el viento o algo más que me susurra?",
+		"source": "Sirve para conseguir el avatar Máscara Nocturna, el marco de avatar Pluma de Seda y la burbuja de chat Pergamino de Adorno.",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107.png",
 		"shortIcon": "bag_chat_qipao107",
 		"rarity": "LEGENDRY",
 		"id": "bag_chat_qipao107"
 	},
 	"fashion_dress_58_4": {
-		"name": "Parure de soie",
+		"name": "Adorno de Seda",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Des marionnettes en forme de citrouille hurlent au cœur d'une mascarade survoltée. À porter pour briller sous les feux de la rampe ou pour disparaître dans les ténèbres, en ne laissant derrière soi qu'une traînée pourpre et une brise emplie de murmures.",
+		"description": "Marionetas de calabaza gritan vestidas con una mascarada colorida. Úsala para convertirte en el centro de atención sobre el escenario o para desaparecer en la noche. Solo dejarás un rastro carmesí y una briza que susurra.",
 		"source": "Débloque la tenue correspondante.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58.png",
 		"shortIcon": "fashion_f58",
@@ -37658,9 +37658,9 @@
 		"id": "fashion_dress_58_4"
 	},
 	"Hat_73_4_4": {
-		"name": "Chauve-souris pourpre",
+		"name": "Murciélago Carmesí",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Une chauve-souris pourpre danse en votre compagnie au cœur d'une nuit paisible. Attention à ne pas vous laisser effrayer!",
+		"description": "Un murciélago carmesí baila contigo en la tranquila noche. Que no te asuste.",
 		"source": "Débloque l'accessoire correspondant.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157.png",
 		"shortIcon": "fashion_icon_shipin_157",
@@ -37668,9 +37668,9 @@
 		"id": "Hat_73_4_4"
 	},
 	"fashion_decoration_91_4": {
-		"name": "Petit diable",
+		"name": "Minidemonio",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Méfiez-vous des petits diables qui rôdent dans les ténèbres. Attention à votre cou!",
+		"description": "Cuidado con los pequeños Demonios que acechan en la noche. ¡Cuidado con el cuello!",
 		"source": "Débloque l'accessoire correspondant.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
@@ -39847,7 +39847,7 @@
 		"id": "WeaponFragment_DoubleUP10_OS"
 	},
 	"WeaponFragment_ALLUP_OS": {
-		"name": "Or ardent : Voyage",
+		"name": "Oro Llameante (Viaje)",
 		"type": "ITEM_TYPE_BARTER",
 		"description": "Jeton forgé à partir de certaines armes à omnium recyclées. S'apparente davantage à un artefact qu'à une monnaie en circulation dans une filière spéciale.",
 		"source": "À échanger contre des armes en édition limitée <Red>(converties en or noir de valeur égale après la fin de la commande limitée)</>.",
@@ -40057,7 +40057,7 @@
 		"id": "EquipFragment_DoubleUP10_OS"
 	},
 	"EquipFragment_ALLUP_OS": {
-		"name": "Puce de surcadençage : Voyage",
+		"name": "Chip de Overclocking (Viaje)",
 		"type": "ITEM_TYPE_BARTER",
 		"description": "Matière première transformée au moyen de procédés complexes pour la production de puces spécifiques. Échangeable contre des puces matricielles.",
 		"source": "À échanger contre des matrices en édition limitée <Red>(converties en puces de base de valeur égale après la fin de la commande limitée)</>.",
@@ -40575,10 +40575,10 @@
 		"id": "Title_epic_os01"
 	},
 	"Item_MidAutumnCoin_OS": {
-		"name": "Jus",
+		"name": "Sable étoilé",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "La bouteille est remplie de jus sucré.",
-		"source": "S'obtient en participant à l'événement Chute de fruits. Peut être échangé contre des récompenses dans la boutique de l'événement.",
+		"description": "La bouteille est remplie de rêves d'enfance.",
+		"source": "S'obtient en participant à l'événement Recyclage de sable étoilé. À échanger contre des récompenses dans la boutique de l'événement.",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
@@ -40808,7 +40808,7 @@
 		"name": "Choix libre de boîte d'armes SSR IV",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "Kit d'armement à choix libre",
-		"source": "Ouvrez la boîte et sélectionnez une des armes <orange>SSR</> qu'elle contient : Vesper, Brise-tonnerre, Flux de cœur, Étincelle, Venus, Balmung, Lame Guren, Revolver flamboyant, Lames de tonnerre, Lame de la rose, Flèche de vent glacé, Zéro absolu, Faux du corbeau, Chakram des mers, Cube du néant, Étoiles EM doubles ou Bouclier fournaise V2.",
+		"source": "Abre la caja y selecciona una de las armas <orange>SSR</> que contiene: Vesper, Rompetruenos, Corriente del Corazón, Chispa, Venus, Balmung, Espada Guren, Revólver Ardiente, Cuchillas Relampagueantes, Filo Rosado, Flecha Helada, Cero Absoluto, Guadaña del Cuervo, Chakram de los Mares, Cubo Negador, Estrellas Magnéticas Dobles o Escudo Fundido V2.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/choose_weapon_ssr_init_OS2.png",
 		"shortIcon": "choose_weapon_ssr_init_OS2",
 		"rarity": "LEGENDRY",
@@ -41025,10 +41025,10 @@
 		"id": "mimi_thunder_trial_OS"
 	},
 	"linghan_ice_trial_OS": {
-		"name": "Tigre d'albâtre (24 h)",
+		"name": "Tigre d'albâtre (24 h)",
 		"type": "ITEM_TYPE_TRIAL_WEAPON",
 		"description": "Derrière la danse divine de mon épée et mes manches virevoltantes, qui peut sonder le fond de mon cœur?",
-		"source": "Débloquez l'arme Tigre d'albâtre pendant 24 heures. En obtenir plusieurs prolongera la validité.",
+		"source": "Desbloquea el arma Tigre de Alabastro por 24 horas. Si se obtiene varias veces, aumenta la duración.",
 		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01.png",
 		"shortIcon": "item_Weapon_SSR_Linghan_Ice01",
 		"rarity": "LEGENDRY",
@@ -41117,7 +41117,7 @@
 	"choose_Imitation_PS_UltimateEdition_OS": {
 		"name": "Boîte premium de simulacre",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
-		"description": " ",
+		"description": "Boîte commune",
 		"source": "Ouvrez la boîte et sélectionnez une des armes <orange>SSR</> qu'elle contient : Vesper, Brise-tonnerre, Flux de cœur, Étincelle, Venus, Balmung, Lame Guren, Revolver flamboyant, Lames de tonnerre, Lame de la rose, Flèche de vent glacé, Zéro absolu, Faux du corbeau, Chakram des mers, Cube du néant, Étoiles EM doubles ou Bouclier fournaise V2.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/icon_choose_weapon_ssr_UP1_OS.png",
 		"shortIcon": "icon_choose_weapon_ssr_UP1_OS",
@@ -41955,7 +41955,7 @@
 		"id": "AvatarFrame_PlayStation33_os02"
 	},
 	"Avatar_Overseas_28": {
-		"name": "Ling Han : Pose en T",
+		"name": "Ling Han: Postura T",
 		"type": "ITEM_TYPE_AVATAR",
 		"description": "Je suis Ling Han, maître du pavillon de Longjian. Au domaine9, on m'appelle aussi Baihu.",
 		"source": "Débloque l'avatar correspondant.",
@@ -41965,9 +41965,9 @@
 		"id": "Avatar_Overseas_28"
 	},
 	"Avatar_tongyong33_os01": {
-		"name": "Comte Dracula",
+		"name": "Conde Drácula",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Ha ha ha ha, vous êtes un sacré numéro! Je ris tellement que j'en ai presque perdu mon dentier. J'espère que ça n'arrivera pas, parce qu'il serait dur à retrouver dans l'Éco-centre.",
+		"description": "Ja, ja, ja, ¡eres increíble! Apenas puedo evitar que se me caigan los dientes postizos de la risa. Esperemos que no, ya que no es fácil encontrarlos en el vivero.",
 		"source": "Débloque l'avatar correspondant.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os01i.png",
 		"shortIcon": "Avatar_tongyong33_os01i",
@@ -41975,9 +41975,9 @@
 		"id": "Avatar_tongyong33_os01"
 	},
 	"Avatar_tongyong33_os02": {
-		"name": "Princesse Woodley",
+		"name": "Princesa Woodley",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Je viens d'apprendre ce geste, il me semble parfaitement adapté à cette situation.",
+		"description": "Es un gesto que acabo de aprender, y parece muy adecuado para la situación actual.",
 		"source": "Débloque l'avatar correspondant.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os02i.png",
 		"shortIcon": "Avatar_tongyong33_os02i",
@@ -41985,9 +41985,9 @@
 		"id": "Avatar_tongyong33_os02"
 	},
 	"Avatar_tongyong33_os03": {
-		"name": "Petit esprit",
+		"name": "Pequeño Espíritu",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Vous allez regretter d'avoir découvert cette facette de ma personnalité!!!",
+		"description": "¡¡¡Te arrepentirás de ver esta faceta mía!!!",
 		"source": "Débloque l'avatar correspondant.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os03i.png",
 		"shortIcon": "Avatar_tongyong33_os03i",
@@ -41995,9 +41995,9 @@
 		"id": "Avatar_tongyong33_os03"
 	},
 	"Avatar_tongyong33_os04": {
-		"name": "Mlle Sautillante",
+		"name": "Sra. Saltina",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Vous voulez effrayer Ruby…?",
+		"description": "¿Pretendes asustar a Ruby así?...",
 		"source": "Débloque l'avatar correspondant.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os04i.png",
 		"shortIcon": "Avatar_tongyong33_os04i",
@@ -42005,9 +42005,9 @@
 		"id": "Avatar_tongyong33_os04"
 	},
 	"AvatarFrame_txcreatos_07": {
-		"name": "La forêt azur",
+		"name": "El Bosque Azur",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "Une nuée de doutes dans une forêt verdoyante.",
+		"description": "Una bruma de dudas en el bosque verde.",
 		"source": "Débloque le cadre d'avatar correspondant.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_07i.png",
 		"shortIcon": "AvatarFrame_txcreatos_07i",
@@ -42017,7 +42017,7 @@
 	"Avatar_Koreatongyong33_01": {
 		"name": "Raflammèche",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Le domaine9 est un endroit magnifique.",
+		"description": "El Dominio 9 es un lugar muy bonito.",
 		"source": "Débloque l'avatar correspondant.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Koreatongyong33_01i.png",
 		"shortIcon": "Avatar_Koreatongyong33_01i",
@@ -42025,9 +42025,9 @@
 		"id": "Avatar_Koreatongyong33_01"
 	},
 	"AvatarFrame_Koreatongyong33_01": {
-		"name": "Anneau de feu",
+		"name": "Anillo de Fuego",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "Ressentez ma passion!",
+		"description": "¡Siente mi pasión!",
 		"source": "Débloque le cadre d'avatar correspondant.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Koreatongyong33_01i.png",
 		"shortIcon": "AvatarFrame_Koreatongyong33_01i",
@@ -42037,7 +42037,7 @@
 	"chat_qipao_Koreatongyong33_01": {
 		"name": "Inflammation",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Discutons un peu!",
+		"description": "¡Charlemos!",
 		"source": "Bulle de chat",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01.png",
 		"shortIcon": "icon_qipao_Koreatongyong33_01",

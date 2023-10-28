@@ -1802,7 +1802,7 @@
 		"id": "Immortal_thunder_ssr_star_6"
 	},
 	"Linghan_ice_ssr_star_0": {
-		"advancement": "<shuzhi>氷共鳴</>：氷属性武器を<shuzhi>2</>つ以上装備すると発動。氷攻撃力+<shuzhi>15%</>、氷耐性+<shuzhi>25%</>。装備すると常時有効(複数の物理共鳴/物理反応はスタック不可、物理共鳴が優先して発動)。\r\n<shuzhi>極寒・脱手</>：<shuzhi>剣訣・凌玄影</>の発動後、攻撃が命中したターゲットに対し氷攻撃力×<shuzhi>{0}%</>+自身の最大HP×<shuzhi>{1}%</>+各属性耐性の合計値×<shuzhi>{2}%</>+会心の値×<shuzhi>{3}%</>のダメージを毎秒与える。<shuzhi>{4}</>秒間持続。脱手ダメージはスタック不可。極寒ダメージはスキルダメージと見なされる。雷/炎/物理属性武器のいずれかを<shuzhi>1</>つ装備している場合、極寒ダメージが<shuzhi>{5}</>倍まで UPする。なお、極寒ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+		"advancement": "<shuzhi>氷共鳴</>：氷属性武器を<shuzhi>2</>つ以上装備すると発動。氷攻撃力+<shuzhi>15%</>、氷耐性+<shuzhi>25%</>。装備すると常時有効、同系統の効果はスタック不可。\r\n<shuzhi>極寒・脱手</>：<shuzhi>剣訣・凌玄影</>の発動後、攻撃が命中したターゲットに対し氷攻撃力×<shuzhi>{0}%</>+自身の最大HP×<shuzhi>{1}%</>+各属性耐性の合計値×<shuzhi>{2}%</>+会心の値×<shuzhi>{3}%</>のダメージを毎秒与える。<shuzhi>{4}</>秒間持続。脱手ダメージはスタック不可。極寒ダメージはスキルダメージと見なされる。雷/炎/物理属性武器のいずれかを<shuzhi>1</>つ装備している場合、極寒ダメージが<shuzhi>{5}</>倍まで UPする。なお、極寒ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 		"numbermap": "CurveTable'LinghanEffectFigure'",
 		"numbers": [
 			"LinghanJiHanDamageCoeffIceATK",
@@ -1822,7 +1822,7 @@
 		"id": "Linghan_ice_ssr_star_0"
 	},
 	"Linghan_ice_ssr_star_1": {
-		"advancement": "<shuzhi>氷刃</>の発射後、自身の氷攻撃力+<shuzhi>{0}%</>。さらに付近のターゲットに攻撃力×<shuzhi>104%</>のダメージを毎秒与える。両効果は<shuzhi>{1}</>秒間持続。",
+		"advancement": "<shuzhi>氷刃</>の発射後、自身の氷攻撃力+<shuzhi>{0}%</>。さらに付近のターゲットに攻撃力×<shuzhi>80%</>のダメージを毎秒与える。両効果は<shuzhi>{1}</>秒間持続。",
 		"numbermap": "CurveTable'LinghanEffectFigure'",
 		"numbers": [
 			"Buff_Linghan_Effect_L1_IceAtkUp",
@@ -1850,7 +1850,7 @@
 		"id": "Linghan_ice_ssr_star_2"
 	},
 	"Linghan_ice_ssr_star_3": {
-		"advancement": "<shuzhi>氷刃</>の生成数上限が<shuzhi>4</>まで UPし、<shuzhi>温度低下</>によるダメージの基本倍率が<shuzhi>468%</>まで UPする。\r\n<shuzhi>{0}</>秒の間、<shuzhi>温度低下</>効果を受けているのがターゲットのみの場合、ターゲットに追加で<shuzhi>封脈</>効果を付与し移動速度-<shuzhi>{1}%</>(トップリーグ及びボスには無効)。<shuzhi>封脈</>の持続中に再び<shuzhi>氷刃</>で当該ターゲットにダメージを与えると氷爆が発動し、攻撃力×<shuzhi>{2}%</>+ターゲットが失っているHPの<shuzhi>{3}%</>のスキルダメージを与える(氷爆ダメージはプレイヤーの氷攻撃力×<shuzhi>{4}%</>～プレイヤーの氷攻撃力×<shuzhi>{5}%</>以内に収まる)。さらに、ターゲットの<shuzhi>封脈</>と<shuzhi>温度低下</>効果を解除する。",
+		"advancement": "<shuzhi>氷刃</>の生成数上限が<shuzhi>4</>まで UPし、<shuzhi>温度低下</>によるダメージの基本倍率が<shuzhi>360%</>まで UPする。\r\n<shuzhi>{0}</>秒の間、<shuzhi>温度低下</>効果を受けているのがターゲットのみの場合、ターゲットに追加で<shuzhi>封脈</>効果を付与し移動速度-<shuzhi>{1}%</>(トップリーグ及びボスには無効)。<shuzhi>封脈</>の持続中に再び<shuzhi>氷刃</>で当該ターゲットにダメージを与えると氷爆が発動し、攻撃力×<shuzhi>{2}%</>+ターゲットが失っているHPの<shuzhi>{3}%</>のスキルダメージを与える(氷爆ダメージはプレイヤーの氷攻撃力×<shuzhi>{4}%</>～プレイヤーの氷攻撃力×<shuzhi>{5}%</>以内に収まる)。さらに、ターゲットの<shuzhi>封脈</>と<shuzhi>温度低下</>効果を解除する。",
 		"numbermap": "CurveTable'LinghanEffectFigure'",
 		"numbers": [
 			"Buff_Linghan_Frostbite_DelayAdd_Period",
@@ -1882,7 +1882,7 @@
 		"id": "Linghan_ice_ssr_star_4"
 	},
 	"Linghan_ice_ssr_star_5": {
-		"advancement": "<shuzhi>晶裂</>と<shuzhi>氷気</>によるダメージが追加で+<shuzhi>50%</>。また、<shuzhi>飛舞落</>の使用上限が<shuzhi>{1}</>回までに UPし、使用回数の回復効率が<shuzhi>{0}</>秒ごとに<shuzhi>1</>まで UPする。",
+		"advancement": "<shuzhi>晶裂</>と<shuzhi>氷気</>によるダメージが追加で+<shuzhi>50%</>。また、<shuzhi>飛舞落</>の使用上限が<shuzhi>{1}</>回までに UPし、使用回数の回復効率が<shuzhi>{0}</>秒ごとに<shuzhi>1</>回まで UPする。",
 		"numbermap": "CurveTable'LinghanEffectFigure'",
 		"numbers": [
 			"LinghanQinggongPeriodL5",
@@ -1898,7 +1898,7 @@
 		"id": "Linghan_ice_ssr_star_5"
 	},
 	"Linghan_ice_ssr_star_6": {
-		"advancement": "<shuzhi>氷刃</>の発射後に付与する<shuzhi>温度低下</>効果が範囲効果に変化する。また、付近のターゲットに追加で攻撃力×<shuzhi>1170%</>のダメージを与える。",
+		"advancement": "<shuzhi>氷刃</>の発射後に付与する<shuzhi>温度低下</>効果が範囲効果に変化する。また、付近のターゲットに追加で攻撃力×<shuzhi>990%</>のダメージを与える。",
 		"numbers": [],
 		"cost": 13500,
 		"need": "Linghan_ice_plasm",

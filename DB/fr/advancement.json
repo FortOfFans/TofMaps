@@ -1822,7 +1822,7 @@
 		"id": "Linghan_ice_ssr_star_0"
 	},
 	"Linghan_ice_ssr_star_1": {
-		"advancement": "Après avoir lancé <shuzhi>Lames de givre</>, accroît l'ATQ de givre de l'Explorateur de <shuzhi>{0}%</> et inflige aux cibles proches des dégâts équivalant à <shuzhi>80%</> de l'ATQ chaque seconde pendant <shuzhi>{1}</> secondes.",
+		"advancement": "Après avoir lancé des <shuzhi>Lames de givre</>, accroît les dégâts de givre de l'Explorateur de <shuzhi>{0}%</> et inflige aux cibles proches des dégâts équivalant à <shuzhi>104%</> de l'ATQ chaque seconde pendant <shuzhi>{1}</> secondes.",
 		"numbermap": "CurveTable'LinghanEffectFigure'",
 		"numbers": [
 			"Buff_Linghan_Effect_L1_IceAtkUp",
@@ -1850,7 +1850,7 @@
 		"id": "Linghan_ice_ssr_star_2"
 	},
 	"Linghan_ice_ssr_star_3": {
-		"advancement": "L'Explorateur peut faire apparaître jusqu'à <shuzhi>4</> <shuzhi>Lames de givre</> et le multiplicateur de base des dégâts de <shuzhi>Réduction de température</> passe à <shuzhi>360%</>.\r\nSi une seule cible est affectée par <shuzhi>Réduction de température</> dans un délai de <shuzhi>{0}</> secondes, inflige également l'effet <shuzhi>Veine scellée</> à la cible, réduisant sa vitesse de <shuzhi>{1}%</> (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de <shuzhi>Lame de givre</> pendant la durée de <shuzhi>Veine scellée</>, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}%</> des PV déjà perdus par la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à <shuzhi>{4}%</> ni supérieurs à <shuzhi>{5}%</> de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets <shuzhi>Veine scellée</> et <shuzhi>Réduction de température</> de la cible.",
+		"advancement": "L'Explorateur peut faire apparaître jusqu'à <shuzhi>4</> <shuzhi>Lames de givre</> et le multiplicateur de base des dégâts de <shuzhi>Réduction de température</> passe à <shuzhi>468%</>.\r\nSi une seule cible est affectée par <shuzhi>Réduction de température</> dans un délai de <shuzhi>{0}</> secondes, inflige également l'effet <shuzhi>Veine scellée</> à la cible, réduisant sa vitesse de <shuzhi>{1}%</> (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de <shuzhi>Lame de givre</> pendant la durée de <shuzhi>Veine scellée</>, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}%</> des PV perdus de la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à <shuzhi>{4}%</> ni supérieurs à <shuzhi>{5}%</> de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets <shuzhi>Veine scellée</> et <shuzhi>Réduction de température</> de la cible.",
 		"numbermap": "CurveTable'LinghanEffectFigure'",
 		"numbers": [
 			"Buff_Linghan_Frostbite_DelayAdd_Period",
@@ -1898,7 +1898,7 @@
 		"id": "Linghan_ice_ssr_star_5"
 	},
 	"Linghan_ice_ssr_star_6": {
-		"advancement": "L'effet <shuzhi>Réduction de température</> infligé après avoir lancé <shuzhi>Lames de givre</> s'applique désormais à une zone et inflige aux cibles proches des dégâts supplémentaires équivalant à <shuzhi>990%</> de l'ATQ.",
+		"advancement": "L'effet <shuzhi>Réduction de température</> infligé après avoir lancé <shuzhi>Lames de givre</> s'applique désormais à une zone et inflige aux cibles proches des dégâts supplémentaires équivalant à <shuzhi>1 170%</> de l'ATQ.",
 		"numbers": [],
 		"cost": 13500,
 		"need": "Linghan_ice_plasm",

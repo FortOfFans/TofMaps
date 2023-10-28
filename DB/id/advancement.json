@@ -1822,7 +1822,7 @@
 		"id": "Linghan_ice_ssr_star_0"
 	},
 	"Linghan_ice_ssr_star_1": {
-		"advancement": "Setelah mengaktifkan <shuzhi>Frost Blade</>, Frost ATK Wanderer akan meningkat <shuzhi>{0}%</> dan target di sekitarnya akan menerima DMG sebesar <shuzhi>80%</> ATK setiap detik selama <shuzhi>{1}</> detik.",
+		"advancement": "Setelah mengaktifkan <shuzhi>Frost Blade</>, Frost ATK Wanderer akan meningkat <shuzhi>{0}%</> dan target di sekitarnya akan menerima DMG sebesar <shuzhi>104%</> ATK setiap detik selama <shuzhi>{1}</> detik.",
 		"numbermap": "CurveTable'LinghanEffectFigure'",
 		"numbers": [
 			"Buff_Linghan_Effect_L1_IceAtkUp",
@@ -1850,7 +1850,7 @@
 		"id": "Linghan_ice_ssr_star_2"
 	},
 	"Linghan_ice_ssr_star_3": {
-		"advancement": "Wanderer dapat menghasilkan hingga <shuzhi>4</> <shuzhi>Frost Blade</> dan pengali dasar DMG <shuzhi>Temperature Reduction</> meningkat menjadi <shuzhi>360%</>.\r\nJika target adalah satu-satunya yang terkena <shuzhi>Temperature Reduction</> dalam jangka waktu <shuzhi>{0}</> detik, Wanderer akan menimpakan <shuzhi>Vein Seal</> pada target, yang akan mengurangi kecepatan mereka sebesar <shuzhi>{1}%</> (tidak berlaku di Apex League dan saat melawan Boss). Jika target menerima DMG <shuzhi>Frost Blade</> lagi selama durasi <shuzhi>Vein Seal</>, Icy Burst akan terpicu, menimpakan DMG Skill sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}%</> HP target yang sudah hilang pada saat itu (DMG Icy Burst tidak akan lebih rendah dari <shuzhi>{4}%</> Frost ATK Wanderer dan tidak lebih tinggi dari <shuzhi>{5}%</> Frost ATK Wanderer). Kemudian, efek <shuzhi>Vein Seal</> dan <shuzhi>Temperature Reduction</> pada target akan hilang.",
+		"advancement": "Wanderer dapat menghasilkan hingga <shuzhi>4</> <shuzhi>Frost Blade</> dan pengali dasar DMG <shuzhi>Temperature Reduction</> meningkat menjadi <shuzhi>468%</>.\r\nJika target adalah satu-satunya yang terkena <shuzhi>Temperature Reduction</> dalam jangka waktu <shuzhi>{0}</> detik, Wanderer akan menimpakan <shuzhi>Vein Seal</> pada target, yang akan mengurangi kecepatan mereka sebesar <shuzhi>{1}%</> (tidak berlaku di Apex League dan saat melawan Boss). Jika target menerima DMG <shuzhi>Frost Blade</> lagi selama durasi <shuzhi>Vein Seal</>, Icy Burst akan terpicu, menimpakan DMG Skill sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}%</> HP target yang hilang pada saat itu (DMG Icy Burst tidak akan lebih rendah dari <shuzhi>{4}%</> Frost ATK Wanderer dan tidak lebih tinggi dari <shuzhi>{5}%</> Frost ATK Wanderer). Kemudian, efek <shuzhi>Vein Seal</> dan <shuzhi>Temperature Reduction</> pada target akan hilang.",
 		"numbermap": "CurveTable'LinghanEffectFigure'",
 		"numbers": [
 			"Buff_Linghan_Frostbite_DelayAdd_Period",
@@ -1898,7 +1898,7 @@
 		"id": "Linghan_ice_ssr_star_5"
 	},
 	"Linghan_ice_ssr_star_6": {
-		"advancement": "Efek <shuzhi>Temperature Reduction</> yang ditimpakan setelah mengaktifkan <shuzhi>Frost Blade</> sekarang diterapkan ke suatu area, dan juga memberikan DMG tambahan sebesar <shuzhi>990%</> ATK pada target di sekitar.",
+		"advancement": "Efek <shuzhi>Temperature Reduction</> yang ditimpakan setelah mengaktifkan <shuzhi>Frost Blade</> sekarang diterapkan ke suatu area, dan juga memberikan DMG tambahan sebesar <shuzhi>1.170%</> ATK pada target di sekitar.",
 		"numbers": [],
 		"cost": 13500,
 		"need": "Linghan_ice_plasm",

@@ -9376,10 +9376,10 @@
 		"id": "choose_Mount_006_skin_medium"
 	},
 	"choose_newbpfinal_linye": {
-		"name": "Kotak Shadoweave",
+		"name": "Kotak pilihan pembuat bayangan",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "General Box",
-		"source": "Pilih salah satu dari hadiah berikut: Shadoweave, Black Gold ×120.",
+		"source": "Setelah terbuka, Anda dapat memilih salah satu hadiah berikut: Shadow Weaving, Black Market Gold Casting * 120",
 		"icon": "/Game/Resources/Icon/item/gift_newbplinye.png",
 		"shortIcon": "gift_newbplinye",
 		"rarity": "LEGENDRY",
@@ -17551,10 +17551,10 @@
 		"id": "fragment_Hat_70_4_4"
 	},
 	"fragment_Hat_29_4_4": {
-		"name": "Shard Labu Permen",
+		"name": "Fragmento de Dulce de Calabaza",
 		"type": "ITEM_TYPE_FRAGMENT",
 		"description": "Khawatir tidak bisa memasukkan lebih banyak permen ke dalam sakumu? Inilah saatnya kamu membawa-bawa toples permen portabel!",
-		"source": "Kumpulkan 70 shard Labu Permen untuk disatukan menjadi Labu Permen.",
+		"source": "Obtén 70 fragmentos de Dulce de Calabaza para fusionar Dulce de Calabaza.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101.png",
 		"shortIcon": "fashion_icon_shipin_101",
 		"rarity": "LEGENDRY",
@@ -17621,10 +17621,10 @@
 		"id": "fragment_fashion_decoration_86_4"
 	},
 	"fragment_fashion_decoration_91_4": {
-		"name": "Shard Iblis Cilik",
+		"name": "Fragmento de Minidemonio",
 		"type": "ITEM_TYPE_FRAGMENT",
-		"description": "Hati-hati, kalau malam suka ada Iblis Cilik yang mengincar lehermu! Hiiii!",
-		"source": "Kumpulkan 4 shard Iblis Cilik untuk disatukan menjadi Iblis Cilik.",
+		"description": "Cuidado con los pequeños Demonios que acechan en la noche. ¡Cuidado con el cuello!",
+		"source": "Obtén 4 fragmentos de Minidemonio para fusionar a Minidemonio.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
 		"rarity": "LEGENDRY",
@@ -29395,20 +29395,20 @@
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
-		"name": "Koin Master",
+		"name": "Maestre de la Moneda",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Emblem berdesain mewah. Emblem ini mencerminkan kehormatan besar bagi para pejuang.",
-		"source": "Berpartisipasilah dalam event Arena Mega Master untuk mendapatkannya, yang bisa ditukarkan dengan hadiah di Toko.",
+		"description": "Una insignia exquisitamente diseñada. Representa un gran honor para los combatientes.",
+		"source": "Participa en el evento Arena Suprema para recibirlo; se puede canjear por recompensas en la tienda.",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
 		"id": "Item_TowerDefenceCoin_01"
 	},
 	"Item_MegaGuruCoin": {
-		"name": "Koin Master",
+		"name": "Maestre de la Moneda",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Emblem berdesain mewah. Emblem ini mencerminkan kehormatan besar bagi para pejuang.",
-		"source": "Berpartisipasilah dalam event Arena Mega Master untuk mendapatkannya, yang bisa ditukarkan dengan hadiah di Toko.",
+		"description": "Una insignia exquisitamente diseñada. Representa un gran honor para los combatientes.",
+		"source": "Participa en el evento Arena Suprema para recibirlo; se puede canjear por recompensas en la tienda.",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
@@ -29475,20 +29475,20 @@
 		"id": "Item_MowingCoin"
 	},
 	"Item_MidAutumnCoin_01": {
-		"name": "Jus",
+		"name": "Pasir Bintang",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Botol ini berisi jus yang manis menyegarkan.",
-		"source": "Diperoleh dengan cara mengikuti event Buah Runtuh. Bisa ditukarkan dengan hadiah di Toko Event.",
+		"description": "Botol ini dipenuhi oleh mimpi masa kecil.",
+		"source": "Dapat diperoleh dari event Protokol Echo, Jalur Cepat Mirroria, atau Kembalinya Pasir Bintang. Bisa ditukar dengan hadiah di Toko Event.",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
 		"id": "Item_MidAutumnCoin_01"
 	},
 	"Item_JuiceCoin": {
-		"name": "Jus",
+		"name": "Pasir Bintang",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Botol ini berisi jus yang manis menyegarkan.",
-		"source": "Diperoleh dengan cara mengikuti event Buah Runtuh. Bisa ditukarkan dengan hadiah di Toko Event.",
+		"description": "Botol ini dipenuhi oleh mimpi masa kecil.",
+		"source": "Dapat diperoleh dari event Protokol Echo, Jalur Cepat Mirroria, atau Kembalinya Pasir Bintang. Bisa ditukar dengan hadiah di Toko Event.",
 		"icon": "/Game/Resources/Icon/item/Item_Drink_003.png",
 		"shortIcon": "Item_Drink_003",
 		"rarity": "EPIC",
@@ -29655,9 +29655,9 @@
 		"id": "Item_HalloweenCoin_04"
 	},
 	"Item_FollowGhostCoin": {
-		"name": "Permen Apel",
+		"name": "Manzana Caramelada",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Apel yang baru dipanen, dilapisi oleh sirup dan ditaburi kacang, cocok untuk anak-anak yang datang untuk trick-or-treat.",
+		"description": "Manzanas recién cosechadas recubiertas de jarabe y nueces, perfectas para los niños que vienen a pedir caramelos.",
 		"source": "Dapat ditukarkan dengan hadiah di Toko.",
 		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin.png",
 		"shortIcon": "FollowGhostCoin",
@@ -30297,7 +30297,7 @@
 	"BreakFate_InnerCoin": {
 		"name": "Break From Destiny Coin",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Emblem berdesain mewah. Emblem ini mencerminkan kehormatan besar bagi para pejuang.",
+		"description": "Una insignia exquisitamente diseñada. Representa un gran honor para los combatientes.",
 		"source": "Bisa digunakan untuk membeli suplai pertempuran.",
 		"icon": "/Game/Resources/Icon/item/BreakFate_InnerCoin.png",
 		"shortIcon": "BreakFate_InnerCoin",
@@ -37600,17 +37600,17 @@
 	"HXXK_clue": {
 		"name": "Cari petunjuk",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Petunjuk khusus yang disediakan oleh Departemen Editorial Bulanan Comet. Petunjuk ini membantu pembaca untuk menyelesaikan misi dan menukarnya dengan Stamp secara lebih efisien.",
-		"source": "Bisa digunakan untuk menginvestigasi.",
+		"description": "Una pista especial que otorga el Departamento Editorial de Cometa Mensual. Facilita a que los lectores completen misiones y las puedan intercambiar por estampillas.",
+		"source": "Sirve para investigar.",
 		"icon": "/Game/Resources/UI/Activity/item_xiansuo.png",
 		"shortIcon": "item_xiansuo",
 		"rarity": "RARE",
 		"id": "HXXK_clue"
 	},
 	"Avatar_107": {
-		"name": "Topeng Malam",
+		"name": "Máscara Nocturna",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Coba... tebak siapa aku!",
+		"description": "¿Adivinas quién soy...?",
 		"source": "Buka avatar yang sesuai.",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_107.png",
 		"shortIcon": "Item_Avatar_107",
@@ -37618,9 +37618,9 @@
 		"id": "Avatar_107"
 	},
 	"AvatarFrame_107": {
-		"name": "Gumpalan Sutra",
+		"name": "Pluma de Seda",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "Dengar! Dalam keheningan malam, kelelawar menari dan burung gagak menyanyikan lagu yang menyeramkan. Bulu-bulu berbayang melayang turun tanpa suara—apakah itu cuma angin, atau suara bisikan?",
+		"description": "¡Escucha! En el silencio de la noche, se oyen murciélagos que bailan y cuervos que cantan su espeluznante canción. Las plumas negras se mueven en las sombras. ¿Eso fue el viento o algo más que me susurra?",
 		"source": "Buka bingkai avatar yang sesuai.",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107.png",
 		"shortIcon": "icon_AvatarFrame_107",
@@ -37628,9 +37628,9 @@
 		"id": "AvatarFrame_107"
 	},
 	"chat_qipao_107": {
-		"name": "Gulungan Hias",
+		"name": "Pergamino de Adorno",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Buka gulungan untuk menyingkap tulisan-tulisan misterius. Hati-hati, huruf-huruf yang tidak terbaca itu mungkin berisi rahasia sang malam.",
+		"description": "Despliega el pergamino para revelar misteriosos escritos. Cuidado, esos sinogramas ilegibles podrían contener los secretos de la noche.",
 		"source": "Chat Bubble",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107.png",
 		"shortIcon": "icon_qipao_107",
@@ -37638,19 +37638,19 @@
 		"id": "chat_qipao_107"
 	},
 	"bag_chat_qipao107": {
-		"name": "Giftbox Topeng Malam",
+		"name": "Regalo de Máscara Nocturna",
 		"type": "ITEM_TYPE_GIFT",
-		"description": "Dengar! Dalam keheningan malam, kelelawar menari dan burung gagak menyanyikan lagu yang menyeramkan. Bulu-bulu berbayang melayang turun tanpa suara—apakah itu cuma angin, atau suara bisikan?",
-		"source": "Pakai untuk mendapatkan Avatar Topeng Malam, Bingkai Avatar Gumpalan Sutra, dan Gelembung Obrolan Gulungan Hias.",
+		"description": "¡Escucha! En el silencio de la noche, se oyen murciélagos que bailan y cuervos que cantan su espeluznante canción. Las plumas negras se mueven en las sombras. ¿Eso fue el viento o algo más que me susurra?",
+		"source": "Sirve para conseguir el avatar Máscara Nocturna, el marco de avatar Pluma de Seda y la burbuja de chat Pergamino de Adorno.",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107.png",
 		"shortIcon": "bag_chat_qipao107",
 		"rarity": "LEGENDRY",
 		"id": "bag_chat_qipao107"
 	},
 	"fashion_dress_58_4": {
-		"name": "Kilau Sutra",
+		"name": "Adorno de Seda",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Boneka labu menjerit yang mengenakan topeng yang meriah. Pakai untuk bersinar di bawah sorotan lampu di atas panggung atau lenyap di malam hari, dengan hanya meninggalkan jejak warna merah tua dan angin yang berbisik.",
+		"description": "Marionetas de calabaza gritan vestidas con una mascarada colorida. Úsala para convertirte en el centro de atención sobre el escenario o para desaparecer en la noche. Solo dejarás un rastro carmesí y una briza que susurra.",
 		"source": "Buka Outfit yang sesuai.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58.png",
 		"shortIcon": "fashion_f58",
@@ -37658,9 +37658,9 @@
 		"id": "fashion_dress_58_4"
 	},
 	"Hat_73_4_4": {
-		"name": "Kelelawar Crimson",
+		"name": "Murciélago Carmesí",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Kelelawar Crimson menemanimu berdansa di malam yang sunyi. Jangan sampai ketakutan, ya.",
+		"description": "Un murciélago carmesí baila contigo en la tranquila noche. Que no te asuste.",
 		"source": "Buka aksesori yang sesuai.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157.png",
 		"shortIcon": "fashion_icon_shipin_157",
@@ -37668,9 +37668,9 @@
 		"id": "Hat_73_4_4"
 	},
 	"fashion_decoration_91_4": {
-		"name": "Iblis Cilik",
+		"name": "Minidemonio",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Hati-hati, kalau malam suka ada Iblis Cilik yang mengincar lehermu! Hiiii!",
+		"description": "Cuidado con los pequeños Demonios que acechan en la noche. ¡Cuidado con el cuello!",
 		"source": "Buka aksesori yang sesuai.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
@@ -40575,10 +40575,10 @@
 		"id": "Title_epic_os01"
 	},
 	"Item_MidAutumnCoin_OS": {
-		"name": "Jus",
+		"name": "Pasir Bintang",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Botol ini berisi jus yang manis menyegarkan.",
-		"source": "Diperoleh dengan cara mengikuti event Buah Runtuh. Bisa ditukarkan dengan hadiah di Toko Event.",
+		"description": "Botol ini dipenuhi oleh mimpi masa kecil.",
+		"source": "Diperoleh dari partisipasi dalam event Kembalinya Pasir Bintang. Dapat ditukar dengan hadiah di toko event.",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
@@ -40775,7 +40775,7 @@
 		"id": "Title_Koreah5_os01"
 	},
 	"Title_Koreah5_os02": {
-		"name": "Pengembara Domain 9",
+		"name": "ผู้ท่องอาณาเขตที่ 9",
 		"type": "ITEM_TYPE_CONSUMABLE",
 		"description": "Didapatkan dari event",
 		"source": "Title Kehormatan",
@@ -40808,7 +40808,7 @@
 		"name": "Box Senjata SSR Bebas Pilih IV",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "Kit Senjata Bebas Pilih",
-		"source": "Buka kotak dan pilih salah satu Senjata <orange>SSR</> di dalamnya: Vesper, Thunderbreaker, Heartstream, Spark, Venus, Balmung, Guren Blade, Flaming Revolver, Thunderblades, Rosy Edge, Icewind Arrow, Absolute Zero, Scythe of the Crow, Chakram of the Seas, Negating Cube, Dual EM Stars, atau Molten Shield V2.",
+		"source": "Abre la caja y selecciona una de las armas <orange>SSR</> que contiene: Vesper, Rompetruenos, Corriente del Corazón, Chispa, Venus, Balmung, Espada Guren, Revólver Ardiente, Cuchillas Relampagueantes, Filo Rosado, Flecha Helada, Cero Absoluto, Guadaña del Cuervo, Chakram de los Mares, Cubo Negador, Estrellas Magnéticas Dobles o Escudo Fundido V2.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/choose_weapon_ssr_init_OS2.png",
 		"shortIcon": "choose_weapon_ssr_init_OS2",
 		"rarity": "LEGENDRY",
@@ -41025,10 +41025,10 @@
 		"id": "mimi_thunder_trial_OS"
 	},
 	"linghan_ice_trial_OS": {
-		"name": "Alabaster Tiger (24j)",
+		"name": "Alabaster Tiger(24 jam)",
 		"type": "ITEM_TYPE_TRIAL_WEAPON",
 		"description": "Dengan anggunnya gerakan tangan menyertai tarian pedang, siapa yang bisa memahami isi hati terdalamku ini?",
-		"source": "Buka senjata Alabaster Tiger selama 24 jam. Masa berlaku akan bertambah jika didapatkan beberapa kali.",
+		"source": "Desbloquea el arma Tigre de Alabastro por 24 horas. Si se obtiene varias veces, aumenta la duración.",
 		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01.png",
 		"shortIcon": "item_Weapon_SSR_Linghan_Ice01",
 		"rarity": "LEGENDRY",
@@ -41117,7 +41117,7 @@
 	"choose_Imitation_PS_UltimateEdition_OS": {
 		"name": "Simulacrum Premium Box",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
-		"description": " ",
+		"description": "General Box",
 		"source": "Buka kotak dan pilih salah satu Senjata <orange>SSR</> di dalamnya: Vesper, Thunderbreaker, Heartstream, Spark, Venus, Balmung, Guren Blade, Flaming Revolver, Thunderblades, Rosy Edge, Icewind Arrow, Absolute Zero, Scythe of the Crow, Chakram of the Seas, Negating Cube, Dual EM Stars, atau Molten Shield V2.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/icon_choose_weapon_ssr_UP1_OS.png",
 		"shortIcon": "icon_choose_weapon_ssr_UP1_OS",
@@ -41967,7 +41967,7 @@
 	"Avatar_tongyong33_os01": {
 		"name": "Mister Dracula",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Ha-ha-ha-ha, kamu kebangetan ya! Aku hampir enggak sanggup menahan gigi palsuku supaya enggak lepas waktu ketawa. Semoga enggak lepas, deh, soalnya gigi palsu itu susah dicari di sini.",
+		"description": "Ha-ha-ha-ha, kamu kebangetan ya! Aku hampir enggak sanggup menahan gigi palsuku supaya enggak lepas waktu ketawa. Semoga enggak lepas, deh, soalnya gigi palsu itu bukan hal yang mudah ditemukan di sini.",
 		"source": "Buka avatar yang sesuai.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os01i.png",
 		"shortIcon": "Avatar_tongyong33_os01i",
@@ -41985,7 +41985,7 @@
 		"id": "Avatar_tongyong33_os02"
 	},
 	"Avatar_tongyong33_os03": {
-		"name": "Little Spirit",
+		"name": "Pequeño Espíritu",
 		"type": "ITEM_TYPE_AVATAR",
 		"description": "Kamu akan menyesal sudah melihat diriku yang ini!!!",
 		"source": "Buka avatar yang sesuai.",
@@ -42017,7 +42017,7 @@
 	"Avatar_Koreatongyong33_01": {
 		"name": "Firerat",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "Domain 9 adalah tempat yang sangat indah.",
+		"description": "El Dominio 9 es un lugar muy bonito.",
 		"source": "Buka avatar yang sesuai.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Koreatongyong33_01i.png",
 		"shortIcon": "Avatar_Koreatongyong33_01i",
@@ -42025,9 +42025,9 @@
 		"id": "Avatar_Koreatongyong33_01"
 	},
 	"AvatarFrame_Koreatongyong33_01": {
-		"name": "Cincin Api",
+		"name": "Anillo de Fuego",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "Rasakan semangatku!",
+		"description": "¡Siente mi pasión!",
 		"source": "Buka bingkai avatar yang sesuai.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Koreatongyong33_01i.png",
 		"shortIcon": "AvatarFrame_Koreatongyong33_01i",
@@ -42037,7 +42037,7 @@
 	"chat_qipao_Koreatongyong33_01": {
 		"name": "Emblazen",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "Ayo Chattingan!",
+		"description": "¡Charlemos!",
 		"source": "Chat Bubble",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01.png",
 		"shortIcon": "icon_qipao_Koreatongyong33_01",

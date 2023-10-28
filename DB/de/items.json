@@ -9376,10 +9376,10 @@
 		"id": "choose_Mount_006_skin_medium"
 	},
 	"choose_newbpfinal_linye": {
-		"name": "Optionales Feld Schattenweben",
+		"name": "Schattenweben-Truhe",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "Standardtruhe",
-		"source": "Nach dem Öffnen kannst du eine der folgenden Belohnungen frei wählen: Schattenweben, Schwarzmarkt-Goldguss bis 120",
+		"source": "Wähle eine der folgenden Belohnungen: Schattenweben, 120 × Schwarzgold.",
 		"icon": "/Game/Resources/Icon/item/gift_newbplinye.png",
 		"shortIcon": "gift_newbplinye",
 		"rarity": "LEGENDRY",
@@ -17551,8 +17551,10 @@
 		"id": "fragment_Hat_70_4_4"
 	},
 	"fragment_Hat_29_4_4": {
+		"name": "Süßigkeitenkürbis-Scherbe",
 		"type": "ITEM_TYPE_FRAGMENT",
 		"description": "Sind deine Taschen nicht groß genug für den ganzen Süßkram? Dann wird es Zeit für den tragbaren Süßigkeitenbehälter!",
+		"source": "Sammle 70 Süßigkeitenkürbis-Scherben, um Süßigkeitenkürbis zu fusionieren.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101.png",
 		"shortIcon": "fashion_icon_shipin_101",
 		"rarity": "LEGENDRY",
@@ -17619,7 +17621,10 @@
 		"id": "fragment_fashion_decoration_86_4"
 	},
 	"fragment_fashion_decoration_91_4": {
+		"name": "Kleiner-Teufel-Scherbe",
 		"type": "ITEM_TYPE_FRAGMENT",
+		"description": "Hüte dich vor den kleinen Teufeln, die in der Nacht lauern. Pass auf deinen Hals auf!",
+		"source": "Sammle 4 Kleiner-Teufel-Scherben, um kleiner Teufel zu fusionieren.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
 		"rarity": "LEGENDRY",
@@ -29390,14 +29395,20 @@
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
+		"name": "Meister-Münze",
 		"type": "ITEM_TYPE_BARTER",
+		"description": "Ein edel gestaltetes Abzeichen. Es symbolisiert große Ehre für die Krieger.",
+		"source": "Nimm an der „Mega-Meister-Arena“ teil, um ihn zu erhalten. Du kannst ihn im Shop gegen reiche Belohnungen eintauschen.",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
 		"id": "Item_TowerDefenceCoin_01"
 	},
 	"Item_MegaGuruCoin": {
+		"name": "Meister-Münze",
 		"type": "ITEM_TYPE_BARTER",
+		"description": "Ein edel gestaltetes Abzeichen. Es symbolisiert große Ehre für die Krieger.",
+		"source": "Nimm an der „Mega-Meister-Arena“ teil, um ihn zu erhalten. Du kannst ihn im Shop gegen reiche Belohnungen eintauschen.",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
@@ -29464,20 +29475,20 @@
 		"id": "Item_MowingCoin"
 	},
 	"Item_MidAutumnCoin_01": {
-		"name": "Sternensand",
+		"name": "Saft",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Die Flasche ist mit Kindheitsträumen gefüllt.",
-		"source": "Kann bei den Events Echoprotokoll, Mirroria-Überholspur oder Sandrecycling erhalten werden. Kann im Event-Shop gegen Belohnungen eingelöst werden.",
+		"description": "Die Flasche ist voll mit süßem Saft.",
+		"source": "Erhältlich durch die Teilnahme am Event „Früchteflucht“. Kann im Event-Shop gegen Belohnungen eingelöst werden.",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
 		"id": "Item_MidAutumnCoin_01"
 	},
 	"Item_JuiceCoin": {
-		"name": "Sternensand",
+		"name": "Saft",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Die Flasche ist mit Kindheitsträumen gefüllt.",
-		"source": "Kann bei den Events Echoprotokoll, Mirroria-Überholspur oder Sandrecycling erhalten werden. Kann im Event-Shop gegen Belohnungen eingelöst werden.",
+		"description": "Die Flasche ist voll mit süßem Saft.",
+		"source": "Erhältlich durch die Teilnahme am Event „Früchteflucht“. Kann im Event-Shop gegen Belohnungen eingelöst werden.",
 		"icon": "/Game/Resources/Icon/item/Item_Drink_003.png",
 		"shortIcon": "Item_Drink_003",
 		"rarity": "EPIC",
@@ -29644,7 +29655,9 @@
 		"id": "Item_HalloweenCoin_04"
 	},
 	"Item_FollowGhostCoin": {
+		"name": "Kandisapfel",
 		"type": "ITEM_TYPE_BARTER",
+		"description": "Frisch geerntete Äpfel, die mit Sirup übergossen und mit Nüssen bestreut werden, sind perfekt für Kinder, die für „Süßes oder Saures!“ vorbeikommen.",
 		"source": "Kann im Shop gegen Belohnungen eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin.png",
 		"shortIcon": "FollowGhostCoin",
@@ -30284,6 +30297,7 @@
 	"BreakFate_InnerCoin": {
 		"name": "Schicksalsbruch-Münze",
 		"type": "ITEM_TYPE_BARTER",
+		"description": "Ein edel gestaltetes Abzeichen. Es symbolisiert große Ehre für die Krieger.",
 		"source": "Kann verwendet werden, um Kampfvorräte zu kaufen.",
 		"icon": "/Game/Resources/Icon/item/BreakFate_InnerCoin.png",
 		"shortIcon": "BreakFate_InnerCoin",
@@ -37586,13 +37600,17 @@
 	"HXXK_clue": {
 		"name": "Suche nach Hinweisen.",
 		"type": "ITEM_TYPE_BARTER",
+		"description": "Ein besonderer Hinweis, der von der Monatskomet-Redaktion bereitgestellt wird. Er hilft den Lesern, Missionen zu erfüllen und sie effizienter gegen Stempel einzutauschen.",
+		"source": "Kann zum Untersuchen verwendet werden.",
 		"icon": "/Game/Resources/UI/Activity/item_xiansuo.png",
 		"shortIcon": "item_xiansuo",
 		"rarity": "RARE",
 		"id": "HXXK_clue"
 	},
 	"Avatar_107": {
+		"name": "Nachtmaske",
 		"type": "ITEM_TYPE_AVATAR",
+		"description": "Rate… rate, wer ich bin?",
 		"source": "Schalte den entsprechenden Avatar frei.",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_107.png",
 		"shortIcon": "Item_Avatar_107",
@@ -37600,7 +37618,9 @@
 		"id": "Avatar_107"
 	},
 	"AvatarFrame_107": {
+		"name": "Seidenfeder",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "Hör zu! In der Stille der Nacht tanzen Fledermäuse und Nacht-Raben singen ihr schauriges Lied. Schattenhafte Federn schweben leise herab – war es nur der Wind oder doch etwas anderes, das da flüsterte?",
 		"source": "Schalte den entsprechenden Avatarrahmen frei.",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107.png",
 		"shortIcon": "icon_AvatarFrame_107",
@@ -37608,7 +37628,9 @@
 		"id": "AvatarFrame_107"
 	},
 	"chat_qipao_107": {
+		"name": "Schmuckschriftrolle",
 		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "Entfalte die Schriftrolle, um geheimnisvolle Schriftzeichen zu enthüllen. Aber Vorsicht, diese unlesbaren Zeichen könnten die Geheimnisse der Nacht enthalten.",
 		"source": "Chat-Blase",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107.png",
 		"shortIcon": "icon_qipao_107",
@@ -37616,14 +37638,19 @@
 		"id": "chat_qipao_107"
 	},
 	"bag_chat_qipao107": {
+		"name": "Nachtmaske-Geschenktruhe",
 		"type": "ITEM_TYPE_GIFT",
+		"description": "Hör zu! In der Stille der Nacht tanzen Fledermäuse und Nacht-Raben singen ihr schauriges Lied. Schattenhafte Federn schweben leise herab – war es nur der Wind oder doch etwas anderes, das da flüsterte?",
+		"source": "Benutzen, um die Avatar-Nachtmaske, den Avatar-Rahmen Seidenfeder und die Chat-Blase-Schmuckschriftrolle zu erhalten.",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107.png",
 		"shortIcon": "bag_chat_qipao107",
 		"rarity": "LEGENDRY",
 		"id": "bag_chat_qipao107"
 	},
 	"fashion_dress_58_4": {
+		"name": "Seidenschmuck",
 		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "Schreiende Kürbispuppen in einer lebhaften Maskerade. Trage sie, um auf der Bühne im Rampenlicht zu glänzen oder in der Nacht zu verschwinden und nur eine blutrote Spur und eine leise Brise zu hinterlassen.",
 		"source": "Schalte das entsprechende Outfit frei.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58.png",
 		"shortIcon": "fashion_f58",
@@ -37631,7 +37658,9 @@
 		"id": "fashion_dress_58_4"
 	},
 	"Hat_73_4_4": {
+		"name": "Blutrote Fledermaus",
 		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "Eine blutrote Fledermaus tanzt mit dir in der stillen Nacht. Lass dich nicht erschrecken.",
 		"source": "Schalte das entsprechende Zubehör frei.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157.png",
 		"shortIcon": "fashion_icon_shipin_157",
@@ -37639,7 +37668,9 @@
 		"id": "Hat_73_4_4"
 	},
 	"fashion_decoration_91_4": {
+		"name": "Kleiner Teufel",
 		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "Hüte dich vor den kleinen Teufeln, die in der Nacht lauern. Pass auf deinen Hals auf!",
 		"source": "Schalte das entsprechende Zubehör frei.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
@@ -40538,10 +40569,10 @@
 		"id": "Title_epic_os01"
 	},
 	"Item_MidAutumnCoin_OS": {
-		"name": "Sternensand",
+		"name": "Saft",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "Die Flasche ist mit Kindheitsträumen gefüllt.",
-		"source": "Erhältlich durch die Teilnahme am Event „Sandrecycling“. Kann im Event-Shop gegen Belohnungen eingelöst werden.",
+		"description": "Die Flasche ist voll mit süßem Saft.",
+		"source": "Erhältlich durch die Teilnahme am Event „Früchteflucht“. Kann im Event-Shop gegen Belohnungen eingelöst werden.",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
@@ -40738,7 +40769,7 @@
 		"id": "Title_Koreah5_os01"
 	},
 	"Title_Koreah5_os02": {
-		"name": "Gebiet 9-Voyager",
+		"name": "Gebiet-9-Voyager",
 		"type": "ITEM_TYPE_CONSUMABLE",
 		"description": "Erhältlich von einem Event.",
 		"source": "Ehrentitel",
@@ -40771,6 +40802,7 @@
 		"name": "SSR-Waffentruhe mit freier Auswahl IV",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "Auswahl-Waffenset",
+		"source": "Öffne die Truhe und wähle eines der darin enthaltenen <orange>SSR</>-Waffen aus: Vesper, Donnerbrecher, Herzstrom, Spark, Venus, Balmung, Guren-Klinge, Flammenchaos, Donnerklingen, Rosenklinge, Eiswind-Pfeil, Gefrierpunkt, Sense der Krähe, Chakram der Meere, Negierungswürfel, Doppel-EM-Sterne oder Magmaschild V2.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/choose_weapon_ssr_init_OS2.png",
 		"shortIcon": "choose_weapon_ssr_init_OS2",
 		"rarity": "LEGENDRY",
@@ -40987,9 +41019,10 @@
 		"id": "mimi_thunder_trial_OS"
 	},
 	"linghan_ice_trial_OS": {
-		"name": "Alabastertiger (24 Std.)",
+		"name": "Alabastertiger (24 Std.)",
 		"type": "ITEM_TYPE_TRIAL_WEAPON",
 		"description": "Mit einem Ärmelschwung und des Schwertes göttlichem Tanz, wer ergründet dieses Herzens Glanz?",
+		"source": "Schalte für 24 Stunden die Waffe „Alabastertiger“ frei. Wenn du sie mehrfach erhältst, verlängert sich die Gültigkeit.",
 		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01.png",
 		"shortIcon": "item_Weapon_SSR_Linghan_Ice01",
 		"rarity": "LEGENDRY",
@@ -41078,7 +41111,7 @@
 	"choose_Imitation_PS_UltimateEdition_OS": {
 		"name": "Simulacrum Premium Box",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
-		"description": "Standardtruhe",
+		"description": " ",
 		"source": "Öffne die Truhe und wähle eines der darin enthaltenen <orange>SSR</>-Waffen aus: Vesper, Donnerbrecher, Herzstrom, Spark, Venus, Balmung, Guren-Klinge, Flammenchaos, Donnerklingen, Rosenklinge, Eiswind-Pfeil, Gefrierpunkt, Sense der Krähe, Chakram der Meere, Negierungswürfel, Doppel-EM-Sterne oder Magmaschild V2.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/icon_choose_weapon_ssr_UP1_OS.png",
 		"shortIcon": "icon_choose_weapon_ssr_UP1_OS",
@@ -41946,6 +41979,7 @@
 		"id": "Avatar_tongyong33_os02"
 	},
 	"Avatar_tongyong33_os03": {
+		"name": "Kleiner Geist",
 		"type": "ITEM_TYPE_AVATAR",
 		"description": "Dir wird es noch leid tun, dass du mich von dieser Seite gesehen hast!",
 		"source": "Schalte den entsprechenden Avatar frei.",
@@ -41977,6 +42011,7 @@
 	"Avatar_Koreatongyong33_01": {
 		"name": "Flammenratte",
 		"type": "ITEM_TYPE_AVATAR",
+		"description": "Gebiet 9 ist ein sehr schöner Ort.",
 		"source": "Schalte den entsprechenden Avatar frei.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Koreatongyong33_01i.png",
 		"shortIcon": "Avatar_Koreatongyong33_01i",
@@ -41984,7 +42019,9 @@
 		"id": "Avatar_Koreatongyong33_01"
 	},
 	"AvatarFrame_Koreatongyong33_01": {
+		"name": "Feuerring",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "Spüre meine Leidenschaft!",
 		"source": "Schalte den entsprechenden Avatarrahmen frei.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Koreatongyong33_01i.png",
 		"shortIcon": "AvatarFrame_Koreatongyong33_01i",
@@ -41994,6 +42031,7 @@
 	"chat_qipao_Koreatongyong33_01": {
 		"name": "Lodern",
 		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "Lass uns Plaudern!",
 		"source": "Chat-Blase",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01.png",
 		"shortIcon": "icon_qipao_Koreatongyong33_01",
