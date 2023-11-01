@@ -1,42 +1,42 @@
 {
 	"1002": {
-		"description": "Feuert mit jedem Angriff <shuzhi>2</> Raketen ab, die dem Ziel Schaden zufügen. Jede Rakete verursacht Schaden in Höhe von <shuzhi>34,8%</> des ANG.",
+		"description": "Feuert mit jedem Angriff **2** Raketen ab, die dem Ziel Schaden zufügen. Jede Rakete verursacht Schaden in Höhe von **34,8%** des ANG.",
 		"id": "artifact_adv_030"
 	},
 	"1004": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>200</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **200** Sekunden.",
 		"id": "artifact_adv_030"
 	},
 	"1005": {
-		"description": "Feuert mit jedem Angriff <shuzhi>4</> Raketen ab, die dem Ziel Schaden zufügen. Jede Rakete verursacht Schaden in Höhe von <shuzhi>34,8%</> des ANG.",
+		"description": "Feuert mit jedem Angriff **4** Raketen ab, die dem Ziel Schaden zufügen. Jede Rakete verursacht Schaden in Höhe von **34,8%** des ANG.",
 		"id": "artifact_adv_030"
 	},
 	"1006": {
-		"description": "Verringert erlittenen physischen Schaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Verringert erlittenen physischen Schaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_030"
 	},
 	"1007": {
-		"description": "„Arm des Kolosses“ hält für <shuzhi>30</> Sekunden an. Während dieser Dauer wird der gesamte erlittene Schaden um <shuzhi>20%</> reduziert.",
+		"description": "„Arm des Kolosses“ hält für **30** Sekunden an. Während dieser Dauer wird der gesamte erlittene Schaden um **20%** reduziert.",
 		"id": "artifact_adv_030"
 	},
 	"1008": {
-		"description": "Verlangsamt Gegner, die den Schild durchdringen, um <shuzhi>50%</> für <shuzhi>2</> Sekunden.",
+		"description": "Verlangsamt Gegner, die den Schild durchdringen, um **50%** für **2** Sekunden.",
 		"id": "artifact_adv_029"
 	},
 	"1011": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>60</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **60** Sekunden.",
 		"id": "artifact_adv_029"
 	},
 	"1012": {
-		"description": "Verlängert die Dauer auf <shuzhi>20</> Sekunden.",
+		"description": "Verlängert die Dauer auf **20** Sekunden.",
 		"id": "artifact_adv_029"
 	},
 	"1013": {
-		"description": "Verringert erlittenen Frostschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Verringert erlittenen Frostschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_029"
 	},
 	"1014": {
-		"description": "Wenn Wanderer oder Verbündete den Omnium-Schild durchdringen, erhöht sich der verursachte Schaden <shuzhi>7</> Sekunden lang um <shuzhi>25%</>.",
+		"description": "Wenn Wanderer oder Verbündete den Omnium-Schild durchdringen, erhöht sich der verursachte Schaden **7** Sekunden lang um **25%**.",
 		"id": "artifact_adv_029"
 	},
 	"1015": {
@@ -65,7 +65,7 @@
 		"id": "artifact_adv_027"
 	},
 	"1023": {
-		"description": "Gewährt die Fähigkeit <yellow_lbl_14_1>Artilleriefeuer</>.\r\n<yellow_lbl_14_1>Artilleriefeuer</>: Feuert <shuzhi>6</>-mal auf das anvisierte Ziel. Jeder Treffer verursacht Schaden in Höhe von <shuzhi>155,2%</> des ANG.",
+		"description": "Gewährt die Fähigkeit **Artilleriefeuer**.\r\n**Artilleriefeuer**: Feuert **6**-mal auf das anvisierte Ziel. Jeder Treffer verursacht Schaden in Höhe von **155,2%** des ANG.",
 		"id": "artifact_adv_027"
 	},
 	"1026": {
@@ -73,27 +73,27 @@
 		"id": "artifact_adv_027"
 	},
 	"1027": {
-		"description": "Erhöht Flammenschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Flammenschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_027"
 	},
 	"1028": {
-		"description": "Gewährt die Fähigkeit <yellow_lbl_14_1>Flammenwand</>.\r\n<yellow_lbl_14_1>Flammenwand</>: Errichtet eine weitreichende Flammenwand an der aktuellen Position, die Schaden in Höhe von maximal <shuzhi>1146,8%</> des ANG verursacht.",
+		"description": "Gewährt die Fähigkeit **Flammenwand**.\r\n**Flammenwand**: Errichtet eine weitreichende Flammenwand an der aktuellen Position, die Schaden in Höhe von maximal **1146,8%** des ANG verursacht.",
 		"id": "artifact_adv_027"
 	},
 	"1029": {
-		"description": "Gegner, die im Riss gefangen und nah am Boden sind, können nicht mehr ausweichen, und die Dauer des Vakuums steigt auf <shuzhi>15</> Sek. ",
+		"description": "Gegner, die im Riss gefangen und nah am Boden sind, können nicht mehr ausweichen, und die Dauer des Vakuums steigt auf **15** Sek. ",
 		"id": "artifact_adv_026"
 	},
 	"1030": {
-		"description": "Vergrößert den Zielbereich um <shuzhi>100%</>.",
+		"description": "Vergrößert den Zielbereich um **100%**.",
 		"id": "artifact_adv_026"
 	},
 	"1032": {
-		"description": "Erhöht den Schaden, der Zielen im Bereich zugefügt wird, um <shuzhi>20%</>.",
+		"description": "Erhöht den Schaden, der Zielen im Bereich zugefügt wird, um **20%**.",
 		"id": "artifact_adv_026"
 	},
 	"1034": {
-		"description": "Verringert erlittenen Flammenschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Verringert erlittenen Flammenschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_026"
 	},
 	"1035": {
@@ -101,23 +101,23 @@
 		"id": "artifact_adv_026"
 	},
 	"1036": {
-		"description": "Betäubt Ziele für <shuzhi>3</> Sek. Abklingzeit: <shuzhi>180</> Sek. ",
+		"description": "Betäubt Ziele für **3** Sek. Abklingzeit: **180** Sek. ",
 		"id": "artifact_adv_025"
 	},
 	"1037": {
-		"description": "Erhöht den von Energieimpulsen verursachten Schaden um <shuzhi>30%</>.",
+		"description": "Erhöht den von Energieimpulsen verursachten Schaden um **30%**.",
 		"id": "artifact_adv_025"
 	},
 	"1039": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>120</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **120** Sekunden.",
 		"id": "artifact_adv_025"
 	},
 	"1041": {
-		"description": "Erhöht physischen Schaden um <shuzhi>2%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht physischen Schaden um **2%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_025"
 	},
 	"1042": {
-		"description": "Löst alle <shuzhi>3</> Sek. eine Stoßwelle aus, <shuzhi>die Ziele schweben lässt</>. Den Wellen kann durch Springen ausgewichen werden.",
+		"description": "Löst alle **3**Sek. eine Stoßwelle aus, **die Ziele schweben lässt**. Den Wellen kann durch Springen ausgewichen werden.",
 		"id": "artifact_adv_025"
 	},
 	"1043": {
@@ -142,23 +142,23 @@
 		"id": "artifact_adv_024"
 	},
 	"1050": {
-		"description": "Entfernt alle Kontrolleffekte und gewährt für <shuzhi>5</> Sek. Immunität gegen Kontrolleffekte. ",
+		"description": "Entfernt alle Kontrolleffekte und gewährt für **5**Sek. Immunität gegen Kontrolleffekte. ",
 		"id": "artifact_adv_023"
 	},
 	"1053": {
-		"description": "Verlängert die Dauer auf <shuzhi>25</> Sekunden.",
+		"description": "Verlängert die Dauer auf **25** Sekunden.",
 		"id": "artifact_adv_023"
 	},
 	"1054": {
-		"description": "Gewährt Wanderern alle <shuzhi>5</> Sekunden zusätzlich einen Stapel Inspiration, der den verursachten Schaden um <shuzhi>5%</> pro Stapel erhöht.",
+		"description": "Gewährt Wanderern alle **5** Sekunden zusätzlich einen Stapel Inspiration, der den verursachten Schaden um **5%** pro Stapel erhöht.",
 		"id": "artifact_adv_023"
 	},
 	"1055": {
-		"description": "Verringert erlittenen Voltschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Verringert erlittenen Voltschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_023"
 	},
 	"1056": {
-		"description": "Während die Drohne aktiv ist, wandelt der Wanderer <shuzhi>20%</> des verursachten Schadens in LP um.",
+		"description": "Während die Drohne aktiv ist, wandelt der Wanderer **20%** des verursachten Schadens in LP um.",
 		"id": "artifact_adv_023"
 	},
 	"1057": {
@@ -183,11 +183,11 @@
 		"id": "artifact_adv_022"
 	},
 	"1064": {
-		"description": "Verlängert die Dauer auf <shuzhi>20</> Sekunden.",
+		"description": "Verlängert die Dauer auf **20** Sekunden.",
 		"id": "artifact_adv_021"
 	},
 	"1067": {
-		"description": "Erhöht den von Hologrammen verursachten Schaden auf <shuzhi>75%</> des Schadens des Wanderers.",
+		"description": "Erhöht den von Hologrammen verursachten Schaden auf **75%** des Schadens des Wanderers.",
 		"id": "artifact_adv_021"
 	},
 	"1068": {
@@ -195,11 +195,11 @@
 		"id": "artifact_adv_021"
 	},
 	"1069": {
-		"description": "Erhöht Voltschaden um <shuzhi>2%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Voltschaden um **2%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_021"
 	},
 	"1070": {
-		"description": "Erhöht den von Hologrammen verursachten Schaden auf <shuzhi>100%</> des Schadens des Wanderers. Transponieren entfernt die Kontrolleffekte.",
+		"description": "Erhöht den von Hologrammen verursachten Schaden auf **100%** des Schadens des Wanderers. Transponieren entfernt die Kontrolleffekte.",
 		"id": "artifact_adv_021"
 	},
 	"1071": {
@@ -245,23 +245,23 @@
 		"id": "artifact_adv_019"
 	},
 	"1085": {
-		"description": "„Schwebende Kanone“ hält <shuzhi>24</> Sek. an.   ",
+		"description": "„Schwebende Kanone“ hält **24** Sek. an.   ",
 		"id": "artifact_adv_018"
 	},
 	"1088": {
-		"description": "Gewährt die Fähigkeit <yellow_lbl_14_1>Lasermatrix</>: Friert Ziele ein, nachdem sie <shuzhi>4</>-mal in Folge Schaden erlitten haben. Fügt dem Ziel Schaden in Höhe von bis zu <shuzhi>93,2%</> des ANG zu.",
+		"description": "Gewährt die Fähigkeit **Lasermatrix**: Friert Ziele ein, nachdem sie **4**-mal in Folge Schaden erlitten haben. Fügt dem Ziel Schaden in Höhe von bis zu **93,2%** des ANG zu.",
 		"id": "artifact_adv_018"
 	},
 	"1089": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>150</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **150** Sekunden.",
 		"id": "artifact_adv_018"
 	},
 	"1090": {
-		"description": "Erhöht Frostschaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Frostschaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_018"
 	},
 	"1091": {
-		"description": "Gewährt die Fähigkeit <yellow_lbl_14_1>Zerschmettern</>: Fügt dem Ziel Schaden in Höhe von <shuzhi>55,9%</> des ANG zu und betäubt sie für <shuzhi>0,5</> Sek.",
+		"description": "Gewährt die Fähigkeit **Zerschmettern**: Fügt dem Ziel Schaden in Höhe von **55,9%** des ANG zu und betäubt sie für **0,5** Sek.",
 		"id": "artifact_adv_018"
 	},
 	"1092": {
@@ -307,83 +307,83 @@
 		"id": "artifact_adv_016"
 	},
 	"1107": {
-		"description": "Gewährt alle <shuzhi>100</> Sek. 1 Aufladung. Gleiten verbraucht keine Ausdauer mehr.",
+		"description": "Gewährt alle **100** Sek. 1 Aufladung. Gleiten verbraucht keine Ausdauer mehr.",
 		"id": "artifact_adv_015"
 	},
 	"1109": {
-		"description": "Eine Gleitdauer von mehr als 3 Sek. verstärkt den nächsten Stampfangriff und betäubt das Ziel für 2 Sek.",
+		"description": "Eine Gleitdauer von mehr als 3Sek. verstärkt den nächsten Stampfangriff und betäubt das Ziel für 2Sek.",
 		"id": "artifact_adv_015"
 	},
 	"1110": {
-		"description": "Gewährt alle 60 Sek. <shuzhi>1</> Aufladung.",
+		"description": "Gewährt alle 60 Sek. **1** Aufladung.",
 		"id": "artifact_adv_015"
 	},
 	"1111": {
-		"description": "Verringert erlittenen physischen Schaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Verringert erlittenen physischen Schaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_015"
 	},
 	"1112": {
-		"description": "Speichert bis zu <shuzhi>3</> Ladungen.",
+		"description": "Speichert bis zu **3** Ladungen.",
 		"id": "artifact_adv_015"
 	},
 	"1114": {
-		"description": "Getroffene Ziele werden für <shuzhi>2</> Sek. <shuzhi>betäubt</> und erleiden „Verbrennen“.  ",
+		"description": "Getroffene Ziele werden für **2** Sek. **betäubt** und erleiden „Verbrennen“.  ",
 		"id": "artifact_adv_014"
 	},
 	"1116": {
-		"description": "Erhöht den Explosionsradius um <shuzhi>50%</>.",
+		"description": "Erhöht den Explosionsradius um **50%**.",
 		"id": "artifact_adv_014"
 	},
 	"1117": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>30</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **30** Sekunden.",
 		"id": "artifact_adv_014"
 	},
 	"1118": {
-		"description": "Erhöht Flammenschaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Flammenschaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_014"
 	},
 	"1119": {
-		"description": "Getroffene Ziele werden für <shuzhi>3</> Sek. <shuzhi>betäubt</> und ermüden, wodurch sie im Verlauf von <shuzhi>10 Sek.</> jedes Mal <shuzhi>100</> Ausdauer verlieren, wenn sie eine Fähigkeit benutzen.",
+		"description": "Getroffene Ziele werden für **3** Sek. **betäubt** und ermüden, wodurch sie im Verlauf von **10 Sek.** jedes Mal **100** Ausdauer verlieren, wenn sie eine Fähigkeit benutzen.",
 		"id": "artifact_adv_014"
 	},
 	"1121": {
-		"description": "Erhalte während des Gleitens <shuzhi>10</> Waffenladungspunkte pro Sek.",
+		"description": "Erhalte während des Gleitens **10** Waffenladungspunkte pro Sek.",
 		"id": "artifact_adv_013"
 	},
 	"1123": {
-		"description": "Verringert die Ladezeit auf <shuzhi>60</> Sek.     ",
+		"description": "Verringert die Ladezeit auf **60** Sek.     ",
 		"id": "artifact_adv_013"
 	},
 	"1124": {
-		"description": "Der Kollisionsschaden von „Jetboard“ wird um <shuzhi>100%</> erhöht und die Ladezeit auf <shuzhi>45</> Sek. verringert.     ",
+		"description": "Der Kollisionsschaden von „Jetboard“ wird um **100%** erhöht und die Ladezeit auf **45** Sek. verringert.     ",
 		"id": "artifact_adv_013"
 	},
 	"1125": {
-		"description": "Verringert erlittenen Frostschaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Verringert erlittenen Frostschaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_013"
 	},
 	"1126": {
-		"description": "Gewährt Immunität gegen Kontrolleffekte während der Verwendung des Jetboards. Mit dem Jetboard getroffene Ziele werden für <shuzhi>5</> Sek. <shuzhi>betäubt</>. Die Ladezeit wird auf <shuzhi>30</> Sek. verringert.",
+		"description": "Gewährt Immunität gegen Kontrolleffekte während der Verwendung des Jetboards. Mit dem Jetboard getroffene Ziele werden für **5**Sek. **betäubt**. Die Ladezeit wird auf **30**Sek. verringert.",
 		"id": "artifact_adv_013"
 	},
 	"1127": {
-		"description": "Entfesselt <shuzhi>2</> elektrische Tornados.",
+		"description": "Entfesselt **2** elektrische Tornados.",
 		"id": "artifact_adv_012"
 	},
 	"1128": {
-		"description": "Erhöht den Tornadoschaden um <shuzhi>20%</>.",
+		"description": "Erhöht den Tornadoschaden um **20%**.",
 		"id": "artifact_adv_012"
 	},
 	"1131": {
-		"description": "Entfesselt <shuzhi>3</> elektrische Tornados.",
+		"description": "Entfesselt **3** elektrische Tornados.",
 		"id": "artifact_adv_012"
 	},
 	"1132": {
-		"description": "Erhöht Voltschaden um <shuzhi>1,5%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Voltschaden um **1,5%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_012"
 	},
 	"1133": {
-		"description": "Diejenigen, die von Tornados erfasst werden, haben eine <shuzhi>50%</> Chance, für <shuzhi>3</> Sekunden desorientiert zu sein, wenn sie Schaden erleiden. Die Bewegungsrichtung wird ebenfalls vertauscht.",
+		"description": "Diejenigen, die von Tornados erfasst werden, haben eine **50%** Chance, für **3** Sekunden desorientiert zu sein, wenn sie Schaden erleiden. Die Bewegungsrichtung wird ebenfalls vertauscht.",
 		"id": "artifact_adv_012"
 	},
 	"1134": {
@@ -408,23 +408,23 @@
 		"id": "artifact_adv_011"
 	},
 	"1141": {
-		"description": "Der Quantenzustand hält für <shuzhi>20</> Sekunden an.",
+		"description": "Der Quantenzustand hält für **20** Sekunden an.",
 		"id": "artifact_adv_010"
 	},
 	"1142": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>80</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **80** Sekunden.",
 		"id": "artifact_adv_010"
 	},
 	"1144": {
-		"description": "+<shuzhi>100%</> Schaden im Quantenzustand. Geht nach <shuzhi>1</> erfolgreichen Angriff verloren.",
+		"description": "+**100%** Schaden im Quantenzustand. Geht nach **1** erfolgreichen Angriff verloren.",
 		"id": "artifact_adv_010"
 	},
 	"1146": {
-		"description": "Erhöht Voltschaden um <shuzhi>1,5%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Voltschaden um **1,5%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_010"
 	},
 	"1147": {
-		"description": "+<shuzhi>100%</> Schaden im Quantenzustand. Geht nach <shuzhi>3</> erfolgreichen Angriffen verloren.",
+		"description": "+**100%** Schaden im Quantenzustand. Geht nach **3** erfolgreichen Angriffen verloren.",
 		"id": "artifact_adv_010"
 	},
 	"1148": {
@@ -432,15 +432,15 @@
 		"id": "artifact_adv_009"
 	},
 	"1151": {
-		"description": "Erhöht den von „Raketensperrfeuer“ verursachten Schaden um <shuzhi>20%</>.     ",
+		"description": "Erhöht den von „Raketensperrfeuer“ verursachten Schaden um **20%**.     ",
 		"id": "artifact_adv_009"
 	},
 	"1152": {
-		"description": "Das Raketensperrfeuer hält für <shuzhi>12</> Sekunden an.     ",
+		"description": "Das Raketensperrfeuer hält für **12** Sekunden an.     ",
 		"id": "artifact_adv_009"
 	},
 	"1153": {
-		"description": "Erhöht physischen Schaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht physischen Schaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_009"
 	},
 	"1154": {
@@ -448,23 +448,23 @@
 		"id": "artifact_adv_009"
 	},
 	"1155": {
-		"description": "Erzeugt einen EM-Schild, der <shuzhi>7</> Sek. lang den erlittenen Schaden um <shuzhi>20%</> verringert.",
+		"description": "Erzeugt einen EM-Schild, der **7** Sek. lang den erlittenen Schaden um **20%** verringert.",
 		"id": "artifact_adv_008"
 	},
 	"1156": {
-		"description": "Gewährt <shuzhi>1</> Aufladung alle <shuzhi>15</> Sek.  ",
+		"description": "Gewährt **1** Aufladung alle **15** Sek.  ",
 		"id": "artifact_adv_008"
 	},
 	"1159": {
-		"description": "Speichert bis zu <shuzhi>3</> Ladungen.",
+		"description": "Speichert bis zu **3** Ladungen.",
 		"id": "artifact_adv_008"
 	},
 	"1160": {
-		"description": "Erhöht Frostschaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Frostschaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_008"
 	},
 	"1161": {
-		"description": "Verringert den Endschaden an getroffene Ziele um <shuzhi>30%</> für <shuzhi>7</> Sekunden.",
+		"description": "Verringert den Endschaden an getroffene Ziele um **30%** für **7** Sekunden.",
 		"id": "artifact_adv_008"
 	},
 	"1162": {
@@ -472,15 +472,15 @@
 		"id": "artifact_adv_007"
 	},
 	"1165": {
-		"description": "Gewährt für <shuzhi>5</> Sek. Immunität gegen Kontrolleffekte.",
+		"description": "Gewährt für **5** Sek. Immunität gegen Kontrolleffekte.",
 		"id": "artifact_adv_007"
 	},
 	"1166": {
-		"description": "Bringt bei einem Treffer auf dem Ziel für <shuzhi>7</> Sek. eine Magnetbombe an. Die Bombe explodiert, wenn das Ziel normale Angriffe/Ausweichen/Fähigkeiten benutzt oder ausweicht und verlangsamt es für <shuzhi>5</> Sek. um <shuzhi>40%</>. Verschwindet nach der Explosion.",
+		"description": "Bringt bei einem Treffer auf dem Ziel für **7** Sek. eine Magnetbombe an. Die Bombe explodiert, wenn das Ziel normale Angriffe/Ausweichen/Fähigkeiten benutzt oder ausweicht und verlangsamt es für **5** Sek. um **40%**. Verschwindet nach der Explosion.",
 		"id": "artifact_adv_007"
 	},
 	"1167": {
-		"description": "Verringert erlittenen Voltschaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Verringert erlittenen Voltschaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_007"
 	},
 	"1168": {
@@ -542,31 +542,31 @@
 		"id": "artifact_adv_001"
 	},
 	"1188": {
-		"description": "Wenn der Schild kaputt ist, sinkt die Geschwindigkeit des Angreifers und die von Gegnern in der Nähe für <shuzhi>6</> Sek. um <shuzhi>35%</>.",
+		"description": "Wenn der Schild kaputt ist, sinkt die Geschwindigkeit des Angreifers und die von Gegnern in der Nähe für **6**Sek. um **35%**.",
 		"id": "artifact_adv_031"
 	},
 	"1190": {
-		"description": "Erhöht nach Durchbruch oder Ablauf des Schilds den Endschaden um einen Betrag, der dem Prozentsatz der verlorenen LP entspricht. Dies hält für <shuzhi>10</> Sek. an. Erhöht den Schaden um mindestens <shuzhi>30%</>.",
+		"description": "Erhöht nach Durchbruch oder Ablauf des Schilds den Endschaden um einen Betrag, der dem Prozentsatz der verlorenen LP entspricht. Dies hält für **10**Sek. an. Erhöht den Schaden um mindestens **30%**.",
 		"id": "artifact_adv_031"
 	},
 	"1191": {
-		"description": "Erhöht nach Durchbruch oder Ablauf des Schilds die Geschwindigkeit für <shuzhi>6</> Sek. um <shuzhi>30%</>.",
+		"description": "Erhöht nach Durchbruch oder Ablauf des Schilds die Geschwindigkeit für **6**Sek. um **30%**.",
 		"id": "artifact_adv_031"
 	},
 	"1192": {
-		"description": "Verringert erlittenen Flammenschaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Verringert erlittenen Flammenschaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_031"
 	},
 	"1193": {
-		"description": "Wenn der Schild durchbrochen wird, wird für <shuzhi>5</> Sek. ein Schadensreflexion-Effekt gewährt, der das <shuzhi>0,6</>-fache des erlittenen Schadens auf den Angreifer zurückwirft.",
+		"description": "Wenn der Schild durchbrochen wird, wird für **5**Sek. ein Schadensreflexion-Effekt gewährt, der das **0,6**-fache des erlittenen Schadens auf den Angreifer zurückwirft.",
 		"id": "artifact_adv_031"
 	},
 	"1195": {
-		"description": "Verbündete Wanderer in der Dimension erhalten <shuzhi>8</> Sek. später <shuzhi>15%</> LP.",
+		"description": "Verbündete Wanderer in der Dimension erhalten **8** Sek. später **15%** LP.",
 		"id": "artifact_adv_032"
 	},
 	"1196": {
-		"description": "Verbündete Einheiten in der Dimension erhalten <shuzhi>25%</> Lebensraub.",
+		"description": "Verbündete Einheiten in der Dimension erhalten **25%** Lebensraub.",
 		"id": "artifact_adv_032"
 	},
 	"1199": {
@@ -574,51 +574,51 @@
 		"id": "artifact_adv_032"
 	},
 	"1200": {
-		"description": "Erhöht Frostschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Frostschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_032"
 	},
 	"1201": {
-		"description": "Bis das Relikt verschwindet, verdoppeln sich für verbündete Wanderer in der Dimension alle Lebensraubeffekte, wenn die LP auf <shuzhi>40%</> oder niedriger fallen.",
+		"description": "Bis das Relikt verschwindet, verdoppeln sich für verbündete Wanderer in der Dimension alle Lebensraubeffekte, wenn die LP auf **40%** oder niedriger fallen.",
 		"id": "artifact_adv_032"
 	},
 	"1202": {
-		"description": "Die Aktivierung des seltsamen Würfels erhöht den verursachten Schaden <shuzhi>10</> Sek. lang um <shuzhi>10%</>.",
+		"description": "Die Aktivierung des seltsamen Würfels erhöht den verursachten Schaden **10**Sek. lang um **10%**.",
 		"id": "artifact_adv_033"
 	},
 	"1205": {
-		"description": "Nach der Aktivierung von „Seltsamer Würfel“ wird die Waffenladung von Gegnern in der Nähe um <shuzhi>200</> verringert.",
+		"description": "Nach der Aktivierung von „Seltsamer Würfel“ wird die Waffenladung von Gegnern in der Nähe um **200** verringert.",
 		"id": "artifact_adv_033"
 	},
 	"1206": {
-		"description": "Erhöht die Aufladungen von „Seltsamer Würfel“ auf <shuzhi>2</>.",
+		"description": "Erhöht die Aufladungen von „Seltsamer Würfel“ auf **2**.",
 		"id": "artifact_adv_033"
 	},
 	"1207": {
-		"description": "Erhöht Voltschaden um <shuzhi>1,5%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Voltschaden um **1,5%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_033"
 	},
 	"1208": {
-		"description": "Nach der Aktivierung des seltsamen Würfels erhältst du Waffenladung basierend auf den verlorenen LP. Für jede <shuzhi>1%</> der verlorenen LP erhältst du <shuzhi>10</> Waffenladung.",
+		"description": "Nach der Aktivierung des seltsamen Würfels erhältst du Waffenladung basierend auf den verlorenen LP. Für jede **1%** der verlorenen LP erhältst du **10** Waffenladung.",
 		"id": "artifact_adv_033"
 	},
 	"1209": {
-		"description": "Erhöht die Dauer von Energiesäulen auf <shuzhi>30</> Sek.",
+		"description": "Erhöht die Dauer von Energiesäulen auf **30** Sek.",
 		"id": "artifact_adv_035"
 	},
 	"1212": {
-		"description": "Beschleunigt die Ausdauerwiederherstellung nach dem Wechsel zur Omnium-Handkanone für <shuzhi>20</> Sek. um 30%.",
+		"description": "Beschleunigt die Ausdauerwiederherstellung nach dem Wechsel zur Omnium-Handkanone für **20** Sek. um 30%.",
 		"id": "artifact_adv_035"
 	},
 	"1213": {
-		"description": "Speichert bis zu <shuzhi>3</> Ladungen.",
+		"description": "Speichert bis zu **3** Ladungen.",
 		"id": "artifact_adv_035"
 	},
 	"1214": {
-		"description": "Erhöht Flammenschaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Flammenschaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_035"
 	},
 	"1215": {
-		"description": "Reduziert die Ladezeit auf <shuzhi>40</> Sek.",
+		"description": "Reduziert die Ladezeit auf **40** Sek.",
 		"id": "artifact_adv_035"
 	},
 	"1216": {
@@ -682,83 +682,83 @@
 		"id": "breakfate_artifact_sr_015_star"
 	},
 	"1236": {
-		"description": "Gewährt bei mehr als <shuzhi>90%</> LP sofort <shuzhi>100</> Energie. Gewährt bei weniger als <shuzhi>90%</> sofort <shuzhi>50</> Energie und weitere <shuzhi>50</> Energie, sobald der Schadensbonus abläuft.",
+		"description": "Gewährt bei mehr als **90%** LP sofort **100** Energie. Gewährt bei weniger als **90%** sofort **50** Energie und weitere **50** Energie, sobald der Schadensbonus abläuft.",
 		"id": "artifact_adv_036"
 	},
 	"1237": {
-		"description": "Erhöht die Dauer Schadensbonus von „Typ-II-Couant“ auf <shuzhi>12</> Sek.",
+		"description": "Erhöht die Dauer Schadensbonus von „Typ-II-Couant“ auf **12** Sek.",
 		"id": "artifact_adv_036"
 	},
 	"1238": {
-		"description": "Erhöht das Schadensbonus-Limit von „Typ-II-Couant“ auf <shuzhi>70%</>.",
+		"description": "Erhöht das Schadensbonus-Limit von „Typ-II-Couant“ auf **70%**.",
 		"id": "artifact_adv_036"
 	},
 	"1239": {
-		"description": "Erhöht Flammenschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Flammenschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_036"
 	},
 	"1240": {
-		"description": "Wenn die Menge der fehlenden LP größer ist als die aktuellen LP, erhält der Anwender einen Schadensbonus basierend auf den verlorenen LP (bis zu <shuzhi>70%</>).",
+		"description": "Wenn die Menge der fehlenden LP größer ist als die aktuellen LP, erhält der Anwender einen Schadensbonus basierend auf den verlorenen LP (bis zu **70%**).",
 		"id": "artifact_adv_036"
 	},
 	"1241": {
-		"description": "Wenn der Schild kaputt ist, sinkt die Geschwindigkeit des Angreifers und die von Gegnern in der Nähe für <shuzhi>6</> Sek. um <shuzhi>35%</>.",
+		"description": "Wenn der Schild kaputt ist, sinkt die Geschwindigkeit des Angreifers und die von Gegnern in der Nähe für **6**Sek. um **35%**.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1242": {
-		"description": "Erhöht nach Durchbruch oder Ablauf des Schilds den Endschaden für <shuzhi>10</> Sek. um <shuzhi>20%</>.",
+		"description": "Erhöht nach Durchbruch oder Ablauf des Schilds den Endschaden für **10**Sek. um **20%**.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1243": {
-		"description": "Erhöht nach Durchbruch oder Ablauf des Schilds die Geschwindigkeit für <shuzhi>6</> Sek. um <shuzhi>30%</>.",
+		"description": "Erhöht nach Durchbruch oder Ablauf des Schilds die Geschwindigkeit für **6**Sek. um **30%**.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1244": {
-		"description": "Verringert erlittenen Flammenschaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Verringert erlittenen Flammenschaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1245": {
-		"description": "Wenn der Schild durchbrochen wird, wird für <shuzhi>5</> Sek. ein Schadensreflexion-Effekt gewährt, der das <shuzhi>0,6</>-fache des erlittenen Schadens auf den Angreifer zurückwirft.",
+		"description": "Wenn der Schild durchbrochen wird, wird für **5**Sek. ein Schadensreflexion-Effekt gewährt, der das **0,6**-fache des erlittenen Schadens auf den Angreifer zurückwirft.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1246": {
-		"description": "Entfesselt <shuzhi>2</> elektrische Tornados.",
+		"description": "Entfesselt **2** elektrische Tornados.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1247": {
-		"description": "Erhöht den Tornadoschaden um <shuzhi>20%</>.",
+		"description": "Erhöht den Tornadoschaden um **20%**.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1248": {
-		"description": "Entfesselt <shuzhi>3</> elektrische Tornados.",
+		"description": "Entfesselt **3** elektrische Tornados.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1249": {
-		"description": "Erhöht Voltschaden um <shuzhi>1,5%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Voltschaden um **1,5%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1250": {
-		"description": "Diejenigen, die von Tornados erfasst werden, haben eine <shuzhi>50%</> Chance, für <shuzhi>3</> Sekunden desorientiert zu sein, wenn sie Schaden erleiden. Die Bewegungsrichtung wird ebenfalls vertauscht.",
+		"description": "Diejenigen, die von Tornados erfasst werden, haben eine **50%** Chance, für **3** Sekunden desorientiert zu sein, wenn sie Schaden erleiden. Die Bewegungsrichtung wird ebenfalls vertauscht.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1251": {
-		"description": "Getroffene Ziele werden für <shuzhi>2</> Sek. <shuzhi>betäubt</> und erleiden „Verbrennen“.  ",
+		"description": "Getroffene Ziele werden für **2** Sek. **betäubt** und erleiden „Verbrennen“.  ",
 		"id": "artifact_adv_014_OS"
 	},
 	"1252": {
-		"description": "Erhöht den Explosionsradius um <shuzhi>50%</>.",
+		"description": "Erhöht den Explosionsradius um **50%**.",
 		"id": "artifact_adv_014_OS"
 	},
 	"1253": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>30</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **30** Sekunden.",
 		"id": "artifact_adv_014_OS"
 	},
 	"1254": {
-		"description": "Erhöht Flammenschaden um <shuzhi>1,5%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Flammenschaden um **1,5%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_014_OS"
 	},
 	"1255": {
-		"description": "Getroffene Ziele werden für <shuzhi>3</> Sek. <shuzhi>betäubt</> und ermüden, wodurch sie im Verlauf von <shuzhi>10 Sek.</> jedes Mal <shuzhi>100</> Ausdauer verlieren, wenn sie eine Fähigkeit benutzen.",
+		"description": "Getroffene Ziele werden für **3** Sek. **betäubt** und ermüden, wodurch sie im Verlauf von **10 Sek.** jedes Mal **100** Ausdauer verlieren, wenn sie eine Fähigkeit benutzen.",
 		"id": "artifact_adv_014_OS"
 	},
 	"1256": {
@@ -774,7 +774,7 @@
 		"id": "artifact_adv_037"
 	},
 	"1259": {
-		"description": "Erhöht Flammenschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Flammenschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_037"
 	},
 	"1260": {
@@ -786,31 +786,31 @@
 		"id": "breakfate_artifact_sr_017_star"
 	},
 	"1262": {
-		"description": "Verringert die Verfügbarkeit für jeden Würfel auf <shuzhi>20</> Sek.",
+		"description": "Verringert die Verfügbarkeit für jeden Würfel auf **20** Sek.",
 		"id": "artifact_adv_038"
 	},
 	"1263": {
-		"description": "<shuzhi>Thermonuklearer</> Schadensbonus: Der Anwender erhält für <shuzhi>45</> Sek. einen <shuzhi>25%</> Schadensbonus.",
+		"description": "**Thermonuklearer** Schadensbonus: Der Anwender erhält für **45** Sek. einen **25%** Schadensbonus.",
 		"id": "artifact_adv_038"
 	},
 	"1264": {
-		"description": "Nach jedem Wurf besteht eine <shuzhi>50%</>ige Chance, 1 Würfel zu erhalten. Abklingzeit: <shuzhi>15 Sekunden</>.",
+		"description": "Nach jedem Wurf besteht eine **50%**ige Chance, 1 Würfel zu erhalten. Abklingzeit: **15 Sekunden**.",
 		"id": "artifact_adv_038"
 	},
 	"1265": {
-		"description": "Erhöht Frostschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Frostschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_038"
 	},
 	"1266": {
-		"description": "<shuzhi>3</> Würfel zu werfen, gewährt alle Elementarschadensboni. Wenn ihre Summe <shuzhi>14</> oder mehr beträgt, erhältt man den <shuzhi>Übertaktungs</> Effekt.",
+		"description": "**3** Würfel zu werfen, gewährt alle Elementarschadensboni. Wenn ihre Summe **14** oder mehr beträgt, erhältt man den **Übertaktungs** Effekt.",
 		"id": "artifact_adv_038"
 	},
 	"1267": {
-		"description": "Verlängert die Dauer auf <shuzhi>20</> Sekunden.",
+		"description": "Verlängert die Dauer auf **20** Sekunden.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1268": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>120</> Sek.",
+		"description": "Verringert die Abklingzeit auf **120**Sek.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1269": {
@@ -818,15 +818,15 @@
 		"id": "artifact_adv_021_OS"
 	},
 	"1270": {
-		"description": "Erhöht Voltschaden um <shuzhi>2%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Voltschaden um **2%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1271": {
-		"description": "Erhöht den von Hologrammen verursachten Schaden auf <shuzhi>50%</> des Schadens des Wanderers. Transponieren entfernt die Kontrolleffekte.",
+		"description": "Erhöht den von Hologrammen verursachten Schaden auf **50%** des Schadens des Wanderers. Transponieren entfernt die Kontrolleffekte.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1272": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>60</> Sekunden.   ",
+		"description": "Verringert die Abklingzeit auf **60**Sekunden.   ",
 		"id": "artifact_adv_039"
 	},
 	"1273": {
@@ -834,131 +834,131 @@
 		"id": "artifact_adv_039"
 	},
 	"1274": {
-		"description": "Der Zwergpelikan verfügt über bis zu <shuzhi>3</> Ladungen.",
+		"description": "Der Zwergpelikan verfügt über bis zu **3** Ladungen.",
 		"id": "artifact_adv_039"
 	},
 	"1275": {
-		"description": "Erhöht Voltschaden um <shuzhi>2%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Voltschaden um **2%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_039"
 	},
 	"1276": {
-		"description": "Reduziert die Abklingzeit auf <shuzhi>30</> Sekunden und schaltet die Farbe des Zwergpelikans frei: <shuzhi>Pigmentierung</>.",
+		"description": "Reduziert die Abklingzeit auf **30** Sekunden und schaltet die Farbe des Zwergpelikans frei: **Pigmentierung**.",
 		"id": "artifact_adv_039"
 	},
 	"1277": {
-		"description": "Gewährt jedes Mal <shuzhi>5</> Dosen.",
+		"description": "Gewährt jedes Mal **5**Dosen.",
 		"id": "artifact_adv_040"
 	},
 	"1278": {
-		"description": "Erhöht den verursachten Schaden gegen verwundete Ziele um <shuzhi>20%</>, während <shuzhi>Mikroangriff</> aktiv ist.",
+		"description": "Erhöht den verursachten Schaden gegen verwundete Ziele um **20%**, während **Mikroangriff** aktiv ist.",
 		"id": "artifact_adv_040"
 	},
 	"1279": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>150</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **150**Sekunden.",
 		"id": "artifact_adv_040"
 	},
 	"1280": {
-		"description": "Erhöht physischen Schaden um <shuzhi>2%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht physischen Schaden um **2%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_040"
 	},
 	"1281": {
-		"description": "Stellt 100% der LP wieder her, wenn eine Waffe mit „Turboinjektion“ markiert wird (<shuzhi>20%</> der max. LP in der Apex-Liga).",
+		"description": "Stellt 100% der LP wieder her, wenn eine Waffe mit „Turboinjektion“ markiert wird (**20%** der max. LP in der Apex-Liga).",
 		"id": "artifact_adv_040"
 	},
 	"1282": {
-		"description": "Gewährt bei mehr als <shuzhi>90%</> LP sofort <shuzhi>100</> Energie. Gewährt bei weniger als <shuzhi>90%</> sofort <shuzhi>50</> Energie und weitere <shuzhi>50</> Energie, sobald der Schadensbonus abläuft.",
+		"description": "Gewährt bei mehr als **90%** LP sofort **100** Energie. Gewährt bei weniger als **90%** sofort **50** Energie und weitere **50** Energie, sobald der Schadensbonus abläuft.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1283": {
-		"description": "Erhöht die Dauer des Schadensbonus auf <shuzhi>12</> Sek.",
+		"description": "Erhöht die Dauer des Schadensbonus auf **12**Sek.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1284": {
-		"description": "Jeder Stapel des Segens erhöht den Endschaden für <shuzhi>12</> Sek. um zusätzlich <shuzhi>1%</>.",
+		"description": "Jeder Stapel des Segens erhöht den Endschaden für **12**Sek. um zusätzlich **1%**.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1285": {
-		"description": "Erhöht Flammenschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Flammenschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1286": {
-		"description": "Bei 5 Stapeln von „Segen“ wird für <shuzhi>12</> Sek. der Endschaden um <shuzhi>2,5%</> erhöht und der erlittene Schaden um <shuzhi>5%</> verringert.",
+		"description": "Bei 5Stapeln von „Segen“ wird für **12**Sek. der Endschaden um **2,5%** erhöht und der erlittene Schaden um **5%** verringert.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1287": {
-		"description": "Gewährt jedes Mal <shuzhi>5</> Dosen.",
+		"description": "Gewährt jedes Mal **5**Dosen.",
 		"id": "artifact_adv_041"
 	},
 	"1288": {
-		"description": "Erhöht den verursachten Schaden gegen verwundete Ziele um <shuzhi>20%</>, während <shuzhi>Mikroangriff</> aktiv ist.",
+		"description": "Erhöht den verursachten Schaden gegen verwundete Ziele um **20%**, während **Mikroangriff** aktiv ist.",
 		"id": "artifact_adv_041"
 	},
 	"1289": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>150</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **150**Sekunden.",
 		"id": "artifact_adv_041"
 	},
 	"1290": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>150</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **150**Sekunden.",
 		"id": "artifact_adv_041"
 	},
 	"1291": {
-		"description": "Stellt 100% der LP wieder her, wenn eine Waffe mit „Turboinjektion“ markiert wird (<shuzhi>20%</> der max. LP in der Apex-Liga).",
+		"description": "Stellt 100% der LP wieder her, wenn eine Waffe mit „Turboinjektion“ markiert wird (**20%** der max. LP in der Apex-Liga).",
 		"id": "artifact_adv_041"
 	},
 	"1292": {
-		"description": "Thalassoherz erhöht <shuzhi>1</>-mal alle <shuzhi>15</> Sekunden den Schaden, der Zielen in der Nähe <shuzhi>15%</> (<shuzhi>1,5%</> in der Apex-Liga) der max. LP des Wanderers zufügt.",
+		"description": "Thalassoherz erhöht **1**-mal alle **15** Sekunden den Schaden, der Zielen in der Nähe **15%** (**1,5%** in der Apex-Liga) der max. LP des Wanderers zufügt.",
 		"id": "artifact_adv_042"
 	},
 	"1293": {
-		"description": "Die Dauer von Thalassoherz wird auf <shuzhi>90</> Sekunden verlängert.",
+		"description": "Die Dauer von Thalassoherz wird auf **90** Sekunden verlängert.",
 		"id": "artifact_adv_042"
 	},
 	"1294": {
-		"description": "Der Schaden an Zielen, die von Thalassoherz getroffen werden, wird zusätzlich um <shuzhi>5,5%</> erhöht.",
+		"description": "Der Schaden an Zielen, die von Thalassoherz getroffen werden, wird zusätzlich um **5,5%** erhöht.",
 		"id": "artifact_adv_042"
 	},
 	"1295": {
-		"description": "Erhöht Voltschaden um <shuzhi>2%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Voltschaden um **2%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_042"
 	},
 	"1296": {
-		"description": "Wenn der Wanderer untertaucht, verwandelt er sich mit Thalassoherz für bis zu <shuzhi>45</> Sek. in einen Delfin. Gegner greifen <shuzhi>15</> Sek. lang nicht an und die Bewegungsgeschwindigkeit wird erhöht.\r\nWährend der Verwandlung wühlt der nächste Angriff das Meerwasser auf und fügt Zielen in der Nähe Schaden in Höhe von <shuzhi>25%</> (<shuzhi>2,5%</> in der Apex-Liga) deiner max. LP zu. Außerdem wird die Verwandlung beendet.",
+		"description": "Wenn der Wanderer untertaucht, verwandelt er sich mit Thalassoherz für bis zu **45**Sek. in einen Delfin. Gegner greifen **15**Sek. lang nicht an und die Bewegungsgeschwindigkeit wird erhöht.\r\nWährend der Verwandlung wühlt der nächste Angriff das Meerwasser auf und fügt Zielen in der Nähe Schaden in Höhe von **25%** (**2,5%** in der Apex-Liga) deiner max. LP zu. Außerdem wird die Verwandlung beendet.",
 		"id": "artifact_adv_042"
 	},
 	"1297": {
-		"description": "Gewährt jedes Mal <shuzhi>5</> Dosen.",
+		"description": "Gewährt jedes Mal **5**Dosen.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1298": {
-		"description": "Stellt 100% der LP wieder her, wenn eine Waffe mit „Turboinjektion“ markiert wird (<shuzhi>20%</> der max. LP in der Apex-Liga).",
+		"description": "Stellt 100% der LP wieder her, wenn eine Waffe mit „Turboinjektion“ markiert wird (**20%** der max. LP in der Apex-Liga).",
 		"id": "artifact_adv_040_OS"
 	},
 	"1299": {
-		"description": "Verringert die Abklingzeit auf <shuzhi>150</> Sekunden.",
+		"description": "Verringert die Abklingzeit auf **150**Sekunden.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1300": {
-		"description": "Erhöht physischen Schaden um <shuzhi>2%</>, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht physischen Schaden um **2%**, auch wenn er nicht eingesetzt wird. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1301": {
-		"description": "Erhöht den verursachten Schaden gegen verwundete Ziele um <shuzhi>4%</>, während <shuzhi>Mikroangriff</> aktiv ist.",
+		"description": "Erhöht den verursachten Schaden gegen verwundete Ziele um **4%**, während **Mikroangriff** aktiv ist.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1302": {
-		"description": "Die Dauer von Zephyr wird auf <shuzhi>30</> Sekunden verlängert.",
+		"description": "Die Dauer von Zephyr wird auf **30** Sekunden verlängert.",
 		"id": "artifact_adv_043"
 	},
 	"1303": {
-		"description": "Im Zephyr-Zustand ist die Geschwindigkeit am Boden und an der Wand um <shuzhi>15%</> erhöht und die Sprunghöhe ist verbessert.",
+		"description": "Im Zephyr-Zustand ist die Geschwindigkeit am Boden und an der Wand um **15%** erhöht und die Sprunghöhe ist verbessert.",
 		"id": "artifact_adv_043"
 	},
 	"1304": {
-		"description": "Windeseile verfügt über bis zu <shuzhi>2</> Ladungen.",
+		"description": "Windeseile verfügt über bis zu **2** Ladungen.",
 		"id": "artifact_adv_043"
 	},
 	"1305": {
-		"description": "Verringert erlittenen physischen Schaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Verringert erlittenen physischen Schaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_043"
 	},
 	"1306": {
@@ -966,23 +966,23 @@
 		"id": "artifact_adv_043"
 	},
 	"1307": {
-		"description": "Erhöht die Menge an abgefeuerten kleinen Blasen. Der Träger bewegt sich beim Abfeuern kleiner Blasen auch rückwärts. Nach dem Abfeuern des Relikts wird die Geschwindigkeit für <shuzhi>30</> Sekunden um <shuzhi>10%</> erhöht.",
+		"description": "Erhöht die Menge an abgefeuerten kleinen Blasen. Der Träger bewegt sich beim Abfeuern kleiner Blasen auch rückwärts. Nach dem Abfeuern des Relikts wird die Geschwindigkeit für **30** Sekunden um **10%** erhöht.",
 		"id": "artifact_adv_044"
 	},
 	"1308": {
-		"description": "Erhalte <shuzhi>1</>/<shuzhi>3</> Stapel „Gute Zeit“, nachdem du kleine bzw. große Blasen abgefeuert hast. Jeder Stapel erhöht den verursachten Schaden des Wanderers für <shuzhi>60</> Sek. um <shuzhi>1,8%</> und kann bis zu <shuzhi>5</>-mal gestapelt werden.",
+		"description": "Erhalte **1**/**3**Stapel „Gute Zeit“, nachdem du kleine bzw. große Blasen abgefeuert hast. Jeder Stapel erhöht den verursachten Schaden des Wanderers für **60**Sek. um **1,8%** und kann bis zu **5**-mal gestapelt werden.",
 		"id": "artifact_adv_044"
 	},
 	"1309": {
-		"description": "Verwende die Blasenwaffe, um einen Blasengeist herbeizurufen, der Blasen abfeuert und die Dauer der guten Zeit erneuert. Der Geist ist für <shuzhi>150</> Sekunden aktiv.",
+		"description": "Verwende die Blasenwaffe, um einen Blasengeist herbeizurufen, der Blasen abfeuert und die Dauer der guten Zeit erneuert. Der Geist ist für **150** Sekunden aktiv.",
 		"id": "artifact_adv_044"
 	},
 	"1310": {
-		"description": "Erhöht Flammenschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Flammenschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_044"
 	},
 	"1311": {
-		"description": "Erhöht den „Gute Zeit“-Schadensbonus um zusätzliche <shuzhi>0,6%</> pro Stapel.",
+		"description": "Erhöht den „Gute Zeit“-Schadensbonus um zusätzliche **0,6%** pro Stapel.",
 		"id": "artifact_adv_044"
 	},
 	"1312": {
@@ -990,7 +990,7 @@
 		"id": "artifact_adv_045"
 	},
 	"1313": {
-		"description": "Während die dreifache Maske im Einsatz ist, werden die Geschwindigkeit um <shuzhi>8%</> und der Elementarschaden um <shuzhi>8%</> erhöht.",
+		"description": "Während die dreifache Maske im Einsatz ist, werden die Geschwindigkeit um **8%** und der Elementarschaden um **8%** erhöht.",
 		"id": "artifact_adv_045"
 	},
 	"1314": {
@@ -998,11 +998,11 @@
 		"id": "artifact_adv_045"
 	},
 	"1315": {
-		"description": "Erhöht Frostschaden um <shuzhi>2%</>. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
+		"description": "Erhöht Frostschaden um **2%**. Effekt wirkt auch ohne Einsatz. In der Apex-Liga nicht verfügbar.",
 		"id": "artifact_adv_045"
 	},
 	"1316": {
-		"description": "Während die dreifache Maske im Einsatz ist, wird der Elementarschaden zusätzlich um <shuzhi>8%</> erhöht.",
+		"description": "Während die dreifache Maske im Einsatz ist, wird der Elementarschaden zusätzlich um **8%** erhöht.",
 		"id": "artifact_adv_045"
 	}
 }

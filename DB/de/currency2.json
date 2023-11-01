@@ -5,6 +5,7 @@
 		"description": "Erhält man durch die Teilnahme an Gruppenrennen.",
 		"source": "Wird verwendet, um einige Rennwagen freizuschalten",
 		"icon": "/Game/Resources/Icon/item/RaceToken",
+		"shortIcon": "RaceToken",
 		"rarity": "EPIC",
 		"id": "Item_Vera_RaceToken"
 	},
@@ -14,6 +15,7 @@
 		"description": "Diese aus Zinn und Gold geprägte Münze ist derzeit die beliebteste Währung im ganzen Land.",
 		"source": "Eine universelle Währung.",
 		"icon": "/Game/Resources/Icon/huobi/jinbi",
+		"shortIcon": "jinbi",
 		"rarity": "RARE",
 		"id": "Item_Gold"
 	},
@@ -23,6 +25,7 @@
 		"description": "Ein edles Abzeichen, das Tapferkeit, Geschicklichkeit und Ehre symbolisiert – und zwar von der Sorte, die man nicht kaufen kann.",
 		"source": "Erhältlich in Apophis-Bosstruhen und Passworttruhen oder als Beute von Erben von Aida. Kann im Krieger-Shop gegen Belohnungen eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/medal01",
+		"shortIcon": "medal01",
 		"rarity": "RARE",
 		"id": "Item_MedalofValor_1"
 	},
@@ -32,6 +35,7 @@
 		"description": "Ein edles Abzeichen, das Tapferkeit, Geschicklichkeit und Ehre symbolisiert – und zwar von der Sorte, die man nicht kaufen kann.",
 		"source": "Erhältlich in Frost-Bot-Bosstruhen und Passworttruhen oder als Beute von Ravagern. Kann im Krieger-Shop gegen Belohnungen eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/medal02",
+		"shortIcon": "medal02",
 		"rarity": "RARE",
 		"id": "Item_MedalofValor_2"
 	},
@@ -41,6 +45,7 @@
 		"description": "Stempel werden mit der Geschenktruhe „Sonnenwärme“ geliefert. Es ist immer ein Ritual, die Stempel zu sammeln und zu verwenden.",
 		"source": "Kaufe Geheimnistruhen, um den Frühlingsstempel zu erhalten. Der Stempel kann auf dem Frühlingsmarkt gegen Waren eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/Blindbox_coin_01",
+		"shortIcon": "Blindbox_coin_01",
 		"rarity": "RARE",
 		"id": "Blindbox_coin_01"
 	},
@@ -50,6 +55,7 @@
 		"description": "Erinnerungscoupons für die Liuguang-Autoaustellung. Hoffentlich findest du dort die begehrtesten Schätze.",
 		"source": "Wird jedes Mal verschenkt, wenn du die Geschenktruhe „Lichtrad“ öffnest. Kann zum Einlösen von Gegenständen im Ausstellungsshop verwendet werden.",
 		"icon": "/Game/Resources/Icon/huobi/liuguanghuobi01",
+		"shortIcon": "liuguanghuobi01",
 		"rarity": "RARE",
 		"id": "Blindbox_coin_02"
 	},
@@ -59,6 +65,7 @@
 		"description": "Ein Coupon für Besucher der Liuguang-Autoaustellung. Alle Erlebnisse sind es wert, sich daran zu erinnern.",
 		"source": "Ein Gutschein, der gegen Fahrzeuge der Meteor-Serie eingetauscht werden kann. Sammle eine bestimmte Menge davon, um sie gegen Meteor-Fahrzeuge einzutauschen.",
 		"icon": "/Game/Resources/Icon/huobi/liuguanghuobi02",
+		"shortIcon": "liuguanghuobi02",
 		"rarity": "EPIC",
 		"id": "mount_006_coin"
 	},
@@ -68,6 +75,7 @@
 		"description": "Wurde aus speziellem Metall hergestellt und repräsentiert die Beiträge der Wanderer von Aida für diesen Planeten. Ist der Mühe wert.",
 		"source": "Erhalte Kopfgeld-EP, um deine Kopfgeldstufe zu erhöhen und lohnendere Kopfgeld-Missionen zu erhalten.",
 		"icon": "/Game/Resources/Icon/huobi/shangjin_1",
+		"shortIcon": "shangjin_1",
 		"rarity": "RARE",
 		"id": "Item_Reputation1"
 	},
@@ -77,6 +85,7 @@
 		"description": "Geprägt mit einzigartiger Handwerkskunst; das Relief zeigt einen Anker. Kann gegen Spezialgegenstände getauscht werden.",
 		"source": "Eine Belohnung für Kopfgeldjäger, die Kopfgeld-Missionen im Hafen von Banges abgeschlossen haben. Kann bei Händlern zum Kauf von Spezialgegenständen verwendet werden.",
 		"icon": "/Game/Resources/Icon/huobi/shangjin_2",
+		"shortIcon": "shangjin_2",
 		"rarity": "RARE",
 		"id": "Item_Reputation2"
 	},
@@ -86,6 +95,7 @@
 		"description": "Geprägt mit einzigartiger Handwerkskunst und mit einem mechanischen Windmühlen-Relief verziert. Kann bei Händlern zum Kauf von Spezialgegenständen verwendet werden.",
 		"source": "Eine Belohnung für Kopfgeldjäger, die Kopfgeld-Missionen in Navia abgeschlossen haben. Kann bei Händlern zum Kauf von Spezialgegenständen verwendet werden.",
 		"icon": "/Game/Resources/Icon/huobi/shangjin_3",
+		"shortIcon": "shangjin_3",
 		"rarity": "RARE",
 		"id": "Item_Reputation3"
 	},
@@ -95,6 +105,7 @@
 		"description": "Geprägt mit einzigartiger Handwerkskunst; das Relief zeigt einen Anker. Kann gegen Spezialgegenstände getauscht werden.",
 		"source": "Eine Belohnung für Kopfgeldjäger, die Kopfgeld-Missionen im Hafen von Banges abgeschlossen haben. Kann bei Händlern zum Kauf von Spezialgegenständen verwendet werden.",
 		"icon": "/Game/Resources/Icon/huobi/shangjin_2",
+		"shortIcon": "shangjin_2",
 		"rarity": "RARE",
 		"id": "Item_Reputation4"
 	},
@@ -104,6 +115,7 @@
 		"description": "Geprägt mit einzigartiger Handwerkskunst; das Relief zeigt einen Anker. Kann gegen Spezialgegenstände getauscht werden.",
 		"source": "Eine Belohnung für Kopfgeldjäger, die Kopfgeld-Missionen im Hafen von Banges abgeschlossen haben. Kann bei Händlern zum Kauf von Spezialgegenständen verwendet werden.",
 		"icon": "/Game/Resources/Icon/huobi/shangjin_2",
+		"shortIcon": "shangjin_2",
 		"rarity": "RARE",
 		"id": "Item_Reputation5"
 	},
@@ -111,6 +123,7 @@
 		"name": "Crew-Beitrag",
 		"type": "ITEM_TYPE_CURRENCY",
 		"icon": "/Game/Resources/Icon/huobi/gongxian",
+		"shortIcon": "gongxian",
 		"rarity": "RARE",
 		"id": "Item_Guildcontribution"
 	},
@@ -120,6 +133,7 @@
 		"description": "Kann durch Crew-Events erhalten werden, um Gegenstände im Crew-Shop einzulösen.",
 		"source": "Crew-Shop-Währung.",
 		"icon": "/Game/Resources/Icon/huobi/gongxian",
+		"shortIcon": "gongxian",
 		"rarity": "RARE",
 		"id": "item_GuildMeritorious"
 	},
@@ -129,6 +143,7 @@
 		"description": "Können durch tägliche Crew-Aktivitäten und Spenden erhalten werden.",
 		"source": "Für die Verbesserung von Crew-Strukturen.",
 		"icon": "/Game/Resources/Icon/huobi/gonghui",
+		"shortIcon": "gonghui",
 		"rarity": "RARE",
 		"id": "Item_Guildcapital"
 	},
@@ -138,6 +153,7 @@
 		"description": "Stabile Kristalle, die am häufigsten für die Energieversorgung verwendet werden. Eine der Währungen, die im Shop gegen Gegenstände eingetauscht werden können.",
 		"source": "Kann im Shop gegen Gegenstände eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/diamonds",
+		"shortIcon": "diamonds",
 		"rarity": "LEGENDRY",
 		"id": "Item_Diamond"
 	},
@@ -147,6 +163,7 @@
 		"description": "Enthält instabile Energie und wird manchmal als Energiequelle verwendet. Eine der Währungen, die im Shop gegen Gegenstände eingetauscht werden können.",
 		"source": "Kann im Shop gegen Gegenstände eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/fakediamonds",
+		"shortIcon": "fakediamonds",
 		"rarity": "LEGENDRY",
 		"id": "Item_FakeDiamond"
 	},
@@ -156,6 +173,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Kann im Matrix-Shop gegen Matrix-Chips eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment",
+		"shortIcon": "matrixfragment",
 		"rarity": "EPIC",
 		"id": "EquipFragment"
 	},
@@ -165,6 +183,7 @@
 		"description": "Wertmarke, die aus alten Omnium-Waffen geschmiedet wurde. Wird nur auf speziellen Märkten gehandelt. Kann gegen Waffen getauscht werden.",
 		"source": "Kann im Waffen-Shop gegen Waffen getauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment",
+		"shortIcon": "weaponfragment",
 		"rarity": "EPIC",
 		"id": "WeaponFragment"
 	},
@@ -174,6 +193,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP1"
 	},
@@ -183,6 +203,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP2"
 	},
@@ -192,6 +213,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP3"
 	},
@@ -201,6 +223,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP4"
 	},
@@ -210,6 +233,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP5"
 	},
@@ -219,6 +243,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP6"
 	},
@@ -228,6 +253,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP7"
 	},
@@ -237,6 +263,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP8"
 	},
@@ -246,6 +273,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen limitierte Matrix-Chips eingetauscht werden.\r\n– So dass ich die ganze klare Nacht voller Sterne mit allen teilen kann …",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP9"
 	},
@@ -255,6 +283,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP10"
 	},
@@ -264,6 +293,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP11"
 	},
@@ -273,6 +303,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP12"
 	},
@@ -282,6 +313,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP13"
 	},
@@ -291,6 +323,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP14"
 	},
@@ -300,6 +333,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP15"
 	},
@@ -309,6 +343,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP16"
 	},
@@ -318,6 +353,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP17"
 	},
@@ -327,6 +363,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP18"
 	},
@@ -336,6 +373,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP19"
 	},
@@ -345,6 +383,7 @@
 		"description": "Durch komplexe Verfahren verarbeiteter Rohstoff für die spezielle Chipherstellung. Kann gegen Matrix-Chips eingetauscht werden.",
 		"source": "Tausch gegen limitierte Matrizen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Basis-Chips umgewandelt)</>.",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"shortIcon": "matrixfragment_up",
 		"rarity": "EPIC",
 		"id": "EquipFragment_UP20"
 	},
@@ -354,6 +393,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP1"
 	},
@@ -363,6 +403,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP2"
 	},
@@ -372,6 +413,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP3"
 	},
@@ -381,6 +423,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP4"
 	},
@@ -390,6 +433,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP5"
 	},
@@ -399,6 +443,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP6"
 	},
@@ -408,6 +453,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP7"
 	},
@@ -417,6 +463,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP8"
 	},
@@ -426,6 +473,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen. Einlösbar für limitierte Waffen.\r\nSchillernde, endlos brechende Lichter, die aber erschreckenderweise nie vergehen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP9"
 	},
@@ -435,6 +483,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP10"
 	},
@@ -444,6 +493,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP11"
 	},
@@ -453,6 +503,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP12"
 	},
@@ -462,6 +513,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP13"
 	},
@@ -471,6 +523,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP14"
 	},
@@ -480,6 +533,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP15"
 	},
@@ -489,6 +543,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP16"
 	},
@@ -498,6 +553,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP17"
 	},
@@ -507,6 +563,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP18"
 	},
@@ -516,6 +573,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP19"
 	},
@@ -525,6 +583,7 @@
 		"description": "Eine Wertmarke, die von Schmieden aus speziell wiederverwerteten Omnium-Waffen hergestellt wurde. Mehr Artefakt als Währung. Sie zirkuliert nur in spezifischen Kanälen.",
 		"source": "Tausch gegen limitierte Waffen <Red>(wird nach Ende der begrenzten Bestellung in dieselbe Menge Schwarzgold umgewandelt)</>",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"shortIcon": "weaponfragment_up",
 		"rarity": "EPIC",
 		"id": "WeaponFragment_UP20"
 	},
@@ -534,6 +593,7 @@
 		"description": "Ein seltsames Nebenprodukt der Omnium-Strahlungsforschung, das die Entwicklung von Lebewesen zielgerichtet beeinflussen kann. Nach jahrelanger Forschung und Optimierung kann es nun sicher am menschlichen Körper eingesetzt werden.",
 		"source": "Wird benötigt, um verbesserte Flairs zu aktivieren. Wenn ein Relikt voll entwickelt ist, können Relikte und Scherben mit dem gleichen Namen zu Originum zerlegt werden.",
 		"icon": "/Game/Resources/Icon/item/jysicon",
+		"shortIcon": "jysicon",
 		"rarity": "EPIC",
 		"id": "GenePointItem_Attack"
 	},
@@ -543,6 +603,7 @@
 		"description": "Ein seltsames Nebenprodukt der Omnium-Strahlungsforschung, das die Entwicklung von Lebewesen zielgerichtet beeinflussen kann. Nach jahrelanger Forschung und Optimierung kann es nun sicher am menschlichen Körper eingesetzt werden.",
 		"source": "Wird benötigt, um verbesserte Flairs zu aktivieren. Wenn ein Relikt voll entwickelt ist, können Relikte und Scherben mit dem gleichen Namen zu Originum zerlegt werden.",
 		"icon": "/Game/Resources/Icon/item/jysicon",
+		"shortIcon": "jysicon",
 		"rarity": "EPIC",
 		"id": "GenePointItem_Assist"
 	},
@@ -552,6 +613,7 @@
 		"description": "Ein seltsames Nebenprodukt der Omnium-Strahlungsforschung, das die Entwicklung von Lebewesen zielgerichtet beeinflussen kann. Nach jahrelanger Forschung und Optimierung kann es nun sicher am menschlichen Körper eingesetzt werden.",
 		"source": "Wird benötigt, um verbesserte Flairs zu aktivieren. Wenn ein Relikt voll entwickelt ist, können Relikte und Scherben mit dem gleichen Namen zu Originum zerlegt werden.",
 		"icon": "/Game/Resources/Icon/item/jysicon",
+		"shortIcon": "jysicon",
 		"rarity": "EPIC",
 		"id": "GenePointItem_Def"
 	},
@@ -561,6 +623,7 @@
 		"description": "Die derzeitige Währung von Mirroria. Dient als Zahlungsmittel für Verkaufsautomaten, Service-Stationen, Restaurants und andere Einrichtungen in Mirroria.",
 		"source": "Kann verwendet werden, um in Mirroria Gegenstände zu kaufen.",
 		"icon": "/Game/Resources/Icon/huobi/vera_coin1",
+		"shortIcon": "vera_coin1",
 		"rarity": "EPIC",
 		"id": "Item_VeraCoin"
 	},
@@ -570,6 +633,7 @@
 		"description": "Die alte Währung von Mirroria, die nicht mehr im Umlauf ist. Angeblich kann man diese Münzen noch für einige Gashapon-Maschinen benutzen.",
 		"source": "Kann für ausrangierte Gashapon-Maschinen benutzt werden.",
 		"icon": "/Game/Resources/Icon/huobi/vera_coin2",
+		"shortIcon": "vera_coin2",
 		"rarity": "LEGENDRY",
 		"id": "Item_VeraCoinRare"
 	},
@@ -578,6 +642,7 @@
 		"type": "ITEM_TYPE_CURRENCY",
 		"source": "Diese Punkte werden nach dem Erreichen einer Errungenschaft vergeben. Sammle Errungenschaften und hole Belohnungen auf der Errungenschaftsseite ab.",
 		"icon": "/Game/Resources/Icon/huobi/chengjiudian",
+		"shortIcon": "chengjiudian",
 		"rarity": "POOR",
 		"id": "Item_Achievement"
 	},
@@ -587,6 +652,7 @@
 		"description": "Geprägt mit einzigartiger Handwerkskunst und mit einem mechanischen Windmühlen-Relief verziert. ",
 		"source": "Kann im Rückkehr-Shop gegen Gegenstände eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/shangjin_3",
+		"shortIcon": "shangjin_3",
 		"rarity": "RARE",
 		"id": "Item_RegressionCoin"
 	},
@@ -596,6 +662,7 @@
 		"description": "Primäre Produkte im Energiesammler, Baumaterial in der Region der künstlichen Insel.",
 		"source": "Künstliche-Insel-Baumaterial",
 		"icon": "/Game/Resources/Icon/huobi/juhe",
+		"shortIcon": "juhe",
 		"rarity": "RARE",
 		"id": "Item_PrimaryEnergy_1"
 	},
@@ -605,6 +672,7 @@
 		"description": "Miniatur-Energiekristalle, die bei der Verwendung eines Suppressors entstehen. Verfügen über geringen Wiederherstellungswert.",
 		"source": "Kann im Kristallstaub-Shop gegen Waren getauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/Energy",
+		"shortIcon": "Energy",
 		"rarity": "RARE",
 		"id": "Item_PrimaryEnergy_2"
 	},
@@ -614,6 +682,7 @@
 		"description": "Miniatur-Energiekristalle, die bei der Verwendung eines Suppressors entstehen. Verfügen über geringen Wiederherstellungswert.",
 		"source": "Kann im Kristallstaub-Shop gegen Waren getauscht werden, nachdem Wanderer-Stufe 40 erreicht wurde.",
 		"icon": "/Game/Resources/Icon/huobi/Energy_2",
+		"shortIcon": "Energy_2",
 		"rarity": "EPIC",
 		"id": "Item_PrimaryEnergy_3"
 	},
@@ -623,6 +692,7 @@
 		"description": "Miniatur-Energiekristalle, die bei der Verwendung eines Suppressors entstehen. Verfügen über geringen Wiederherstellungswert.",
 		"source": "Kann im Kristallstaub-Shop gegen Waren getauscht werden, nachdem Wanderer-St. 50 erreicht wurde.",
 		"icon": "/Game/Resources/Icon/huobi/Energy_3",
+		"shortIcon": "Energy_3",
 		"rarity": "LEGENDRY",
 		"id": "Item_PrimaryEnergy_4"
 	},
@@ -632,6 +702,7 @@
 		"description": "Kristallstaub, der aus dem Raumzeitverlauf austrat. Scheint die Stabilität der Raumzeitfragmente beeinflussen zu können.",
 		"source": "Kann zum Tausch gegen Waren im Raumzeit-Shop eingesetzt werden.",
 		"icon": "/Game/Resources/Icon/huobi/Energy_4",
+		"shortIcon": "Energy_4",
 		"rarity": "EPIC",
 		"id": "Item_PrimaryEnergy_5"
 	},
@@ -641,6 +712,7 @@
 		"description": "Diese Fragmente, die in der Raumzeit herumfliegen, entstehen durch den Zusammenbruch zersplitterter Raumzeit.",
 		"source": "Kann zum Tausch gegen Waren im Raumzeit-Shop eingesetzt werden.",
 		"icon": "/Game/Resources/Icon/huobi/Energy_5",
+		"shortIcon": "Energy_5",
 		"rarity": "LEGENDRY",
 		"id": "Item_PrimaryEnergy_6"
 	},
@@ -650,6 +722,7 @@
 		"description": "Wird von Wesen auf der künstlichen Insel hinterlassen.",
 		"source": "Von den Verkaufsautomaten auf der künstlichen Insel.",
 		"icon": "/Game/Resources/Icon/huobi/shengming",
+		"shortIcon": "shengming",
 		"rarity": "RARE",
 		"id": "Item_LifeCrystal"
 	},
@@ -659,6 +732,7 @@
 		"description": "Werden an diejenigen verliehen, die neuen Wanderern geholfen haben. Mit einem Bild bedruckt, das gegenseitige Unterstützung darstellen soll. Tritt dem Team „Unterstützungssystem“ bei, um sie zu erhalten.",
 		"source": "Kann im Unterstützungs-Shop gegen Waren getauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/zhulidian",
+		"shortIcon": "zhulidian",
 		"rarity": "RARE",
 		"id": "Item_AssistContribution"
 	},
@@ -668,6 +742,7 @@
 		"description": "Belohnung für jene, die den Vollstreckern bei der Rückkehr halfen. Du kannst sie erhalten, indem du mit zurückkehrenden Vollstreckern ein Team bildest und am Spiel teilnimmst.",
 		"source": "Kann im Shop gegen Belohnungen eingetauscht werden.",
 		"icon": "/Game/Resources/UI/regression/30/huiguizhulidian",
+		"shortIcon": "huiguizhulidian",
 		"rarity": "RARE",
 		"id": "item_Regression_AssistContribution"
 	},
@@ -677,6 +752,7 @@
 		"description": "Ein Baumaterial, das du in Maschinenkapseln und von den Kreaturen außerhalb des Lagers erhalten kannst.",
 		"source": "Wird verwendet, um Gebäude zu verbessern, Gegenstände im Tausch-Shop einzutauschen und als Material für die Werkstatt.",
 		"icon": "/Game/Resources/Icon/huobi/HomeOre",
+		"shortIcon": "HomeOre",
 		"rarity": "RARE",
 		"id": "HomeOre"
 	},
@@ -686,6 +762,7 @@
 		"description": "Ein Baumaterial, das du im Papau-Haus und von den Kreaturen außerhalb des Lagers erhalten kannst.",
 		"source": "Wird verwendet, um Gebäude zu verbessern, Gegenstände im Tausch-Shop einzutauschen und als Material für die Werkstatt.",
 		"icon": "/Game/Resources/Icon/huobi/HomeMeat",
+		"shortIcon": "HomeMeat",
 		"rarity": "RARE",
 		"id": "HomeRattan"
 	},
@@ -695,6 +772,7 @@
 		"description": "Ein Baumaterial, das du im Schildkrötenhaus und von den Kreaturen außerhalb des Lagers erhalten kannst.",
 		"source": "Wird verwendet, um Gebäude zu verbessern, Gegenstände im Tausch-Shop einzutauschen und als Material für die Werkstatt.",
 		"icon": "/Game/Resources/Icon/huobi/HomeShell",
+		"shortIcon": "HomeShell",
 		"rarity": "RARE",
 		"id": "HomeTwigs"
 	},
@@ -704,6 +782,7 @@
 		"description": "Ein seltenes Baumaterial, das vom Boss der künstlichen Insel fallengelassen wurde.",
 		"source": "Wird verwendet, um Gebäude zu verbessern, Gegenstände im Tausch-Shop einzutauschen und als Material für die Werkstatt.",
 		"icon": "/Game/Resources/Icon/huobi/HomeRattan",
+		"shortIcon": "HomeRattan",
 		"rarity": "RARE",
 		"id": "HomeFishBones"
 	},
@@ -713,6 +792,7 @@
 		"description": "Baumaterial von der künstlichen Insel – Schildkrötenhaus",
 		"source": "Wird verwendet, um Gebäude zu verbessern, Gegenstände im Tausch-Shop einzutauschen und als Material für die Werkstatt.",
 		"icon": "/Game/Resources/Icon/huobi/HomeShell",
+		"shortIcon": "HomeShell",
 		"rarity": "RARE",
 		"id": "HomeShell"
 	},
@@ -722,6 +802,7 @@
 		"description": "Ein Baumaterial, das du im Kürbishaus und von den Kreaturen außerhalb des Lagers erhalten kannst.",
 		"source": "Wird verwendet, um Gebäude zu verbessern, Gegenstände im Tausch-Shop einzutauschen und als Material für die Werkstatt.",
 		"icon": "/Game/Resources/Icon/huobi/HomePumpkin",
+		"shortIcon": "HomePumpkin",
 		"rarity": "RARE",
 		"id": "HomePumpkin"
 	},
@@ -731,6 +812,7 @@
 		"description": "Ein Baumaterial, das du im Kätzchenhaus und von den Kreaturen außerhalb des Lagers erhalten kannst.",
 		"source": "Wird verwendet, um Gebäude zu verbessern, Gegenstände im Tausch-Shop einzutauschen und als Material für die Werkstatt.",
 		"icon": "/Game/Resources/Icon/huobi/HomeFishBones",
+		"shortIcon": "HomeFishBones",
 		"rarity": "RARE",
 		"id": "HomeMeat"
 	},
@@ -740,6 +822,7 @@
 		"description": "Ein seltenes Baumaterial, das vom Boss der künstlichen Insel fallengelassen wurde.",
 		"source": "Wird verwendet, um Gebäude zu verbessern, Gegenstände im Tausch-Shop einzutauschen und als Material für die Werkstatt.",
 		"icon": "/Game/Resources/Icon/huobi/HomeTwigs",
+		"shortIcon": "HomeTwigs",
 		"rarity": "RARE",
 		"id": "HomeFish"
 	},
@@ -749,6 +832,7 @@
 		"description": "Eine universelle Marke von Banges Tech. Tausche im Tausch-Shop Materialien, um sie zu erhalten.",
 		"source": "Wird im Tausch-Shop gegen seltene Gegenstände eingetauscht.",
 		"icon": "/Game/Resources/Icon/huobi/HomeShellfish",
+		"shortIcon": "HomeShellfish",
 		"rarity": "RARE",
 		"id": "HomeShellfish"
 	},
@@ -758,6 +842,7 @@
 		"description": "Universelle Trainingspunkte.",
 		"source": "Zum Einlösen für Trainingsbelohnungen.",
 		"icon": "/Game/Resources/Icon/huobi/xunliandu",
+		"shortIcon": "xunliandu",
 		"rarity": "RARE",
 		"id": "item_minigamecoin"
 	},
@@ -767,6 +852,7 @@
 		"description": "Durch das Benutzen der Freizeitpark-Attraktionen auf der Cetus-Insel erhältlich. Kann bei Enfi auf der Insel gegen exklusive Cetus-Insel-Belohnungen eingetauscht werden.",
 		"source": "Eintauschbar gegen exklusive Cetus-Insel-Belohnungen",
 		"icon": "/Game/Resources/Icon/park/Item_ticket_baijingdao",
+		"shortIcon": "Item_ticket_baijingdao",
 		"rarity": "RARE",
 		"id": "item_sharephotocoin"
 	},
@@ -776,6 +862,7 @@
 		"description": "Spezialmarken, die von Hykros geprägt wurden, um zum Sammeln von Mana-Bioproben zu ermutigen.",
 		"source": "Tausche Mana-Bioproben gegen Gabenpunkte ein, die wiederum für Belohnungen im Lager eingetauscht werden können.",
 		"icon": "/Game/Resources/Icon/huobi/Incarnation_01",
+		"shortIcon": "Incarnation_01",
 		"rarity": "LEGENDRY",
 		"id": "Item_Incarnation_01"
 	},
@@ -785,6 +872,7 @@
 		"description": "Event-Währung für „Weg des Konflikts“",
 		"source": "Nimm am Event „Pfad der Erleuchtung“ teil, um ihn zu erhalten. Du kannst es im Event-Shop gegen reiche Belohnungen eintauschen.",
 		"icon": "/Game/Resources/UI/Activity/AstralPortal/UI_icon_huobi_xingli",
+		"shortIcon": "UI_icon_huobi_xingli",
 		"rarity": "EPIC",
 		"id": "Item_Enlightenment"
 	},
@@ -794,6 +882,7 @@
 		"description": "Feine Sternensplitter, die das Licht des Kosmos brechen.",
 		"source": "Nimm am „Sternenhimmel“-Event teil, um ihn zu erhalten. Du kannst ihn im Event-Shop gegen reiche Belohnungen eintauschen.",
 		"icon": "/Game/Resources/Icon/huobi/Enlightenment_02",
+		"shortIcon": "Enlightenment_02",
 		"rarity": "EPIC",
 		"id": "Item_Enlightenment_02"
 	},
@@ -803,6 +892,7 @@
 		"description": "Peng! Peng! Peng!",
 		"source": "Kann im Event-Shop gegen Belohnungen eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/item/ChildrensDayCoin",
+		"shortIcon": "ChildrensDayCoin",
 		"rarity": "EPIC",
 		"id": "Item_ChildrensDayCoin"
 	},
@@ -812,6 +902,7 @@
 		"description": "Das Abzeichen, das die Teilnehmer des HOTTA-Studio-Events „Rätselhaftes Raster“ erhalten. Hereinspaziert!",
 		"source": "Nimm am Event „Rätselhaftes Raster“ teil, um ihn zu erhalten. Du kannst ihn im Shop gegen reiche Belohnungen eintauschen.",
 		"icon": "/Game/Resources/Icon/item/HiveJumpCoin",
+		"shortIcon": "HiveJumpCoin",
 		"rarity": "EPIC",
 		"id": "Item_HiveJumpCoin_01"
 	},
@@ -821,6 +912,7 @@
 		"description": "Eine Wertmarke des Gnadentagfests im Hafen von Banges. Die Leidenschaft der Bewohner von Banges, die sie mit ihren eigenen Händen hergestellt haben, steckt noch immer in ihnen. Als offizielle Währung des Gnadentags können sie für Belohnungen an den Ständen aller großen Märkte eingetauscht werden.",
 		"source": "Kann im Event-Shop gegen Belohnungen eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/item/SummerCoin_01",
+		"shortIcon": "SummerCoin_01",
 		"rarity": "EPIC",
 		"id": "Item_SummerCoin_01"
 	},
@@ -830,6 +922,7 @@
 		"description": "Eine Wertmarke des Gnadentagfests im Hafen von Banges. Die Leidenschaft der Bewohner von Banges, die sie mit ihren eigenen Händen hergestellt haben, steckt noch immer in ihnen. Als offizielle Währung des Gnadentags können sie für Belohnungen an den Ständen aller großen Märkte eingetauscht werden.",
 		"source": "Kann im Event-Shop gegen Belohnungen eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/item/SummerCoin_01",
+		"shortIcon": "SummerCoin_01",
 		"rarity": "EPIC",
 		"id": "Item_SummerCoin_02"
 	},
@@ -839,6 +932,7 @@
 		"description": "Ist die aktuelle ökologische Umwelt wieder im Gleichgewicht?",
 		"source": "Ein Event-Gegenstand. Kann während des Events im Event-Shop gegen Waren eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/item/HJDEcoin",
+		"shortIcon": "HJDEcoin",
 		"rarity": "EPIC",
 		"id": "Item_Aida_token"
 	},
@@ -848,6 +942,7 @@
 		"description": "Ist die aktuelle ökologische Umwelt wieder im Gleichgewicht?",
 		"source": "Ein Event-Gegenstand. Kann während des Events im Event-Shop gegen Waren eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/item/HJDEcoin",
+		"shortIcon": "HJDEcoin",
 		"rarity": "EPIC",
 		"id": "Item_Aida_token_02"
 	},
@@ -857,6 +952,7 @@
 		"description": "Eine stark verschlüsselte Disc mit wichtigen Daten. Vielleicht kann jemand in Hykros sie knacken?",
 		"source": "Aktivitätsgegenstand, der verwendet werden kann, um während des Events Waren im Andenken-Shop einzutauschen.",
 		"icon": "/Game/Resources/Icon/item/Aida_photo_token",
+		"shortIcon": "Aida_photo_token",
 		"rarity": "EPIC",
 		"id": "Item_Aida_photo_token"
 	},
@@ -866,6 +962,7 @@
 		"description": "Eine seltene Lebendprobe von großem wissenschaftlichem Wert.",
 		"source": "Kann im Event-Shop gegen Belohnungen eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/yongzhehuodong01",
+		"shortIcon": "yongzhehuodong01",
 		"rarity": "RARE",
 		"id": "activation1"
 	},
@@ -875,6 +972,7 @@
 		"description": "Wiederbelebter Energiekörper des besiegten Überfallziels. Er könnte für die Forscher in Hykros von großem Interesse sein.",
 		"source": "Kann im Event-Shop gegen Belohnungen eingetauscht werden.",
 		"icon": "/Game/Resources/Icon/huobi/yongzhehuodong02",
+		"shortIcon": "yongzhehuodong02",
 		"rarity": "RARE",
 		"id": "activation2"
 	},
@@ -884,6 +982,7 @@
 		"description": "Dieses Emblem bekommen alle Teilnehmer des Mirroria-Tour-Events von HOTTA-Studio. Bestaune Mirrorias Pracht aus einem ganz neuen Blickwinkel.",
 		"source": "Kann zum Tausch gegen Waren im Event-Shop der Mirroria-Tour eingesetzt werden.",
 		"icon": "/Game/Resources/Icon/huobi/OrienteeringCoin_01",
+		"shortIcon": "OrienteeringCoin_01",
 		"rarity": "RARE",
 		"id": "Item_OrienteeringCoin_01"
 	},
@@ -893,6 +992,7 @@
 		"description": "Von der Pause zurückgekehrte Vollstrecker, ich hoffe, ihr habt nicht vergessen, wie man kämpft, und wisst, dass all eure Bemühungen belohnt werden.",
 		"source": "Kann im Sternenweg-Shop gegen Waren getauscht werden.",
 		"icon": "/Game/Resources/UI/regression/30/UI_30Day_Icon",
+		"shortIcon": "UI_30Day_Icon",
 		"rarity": "LEGENDRY",
 		"id": "item_GreatRegression_coin"
 	},
@@ -902,6 +1002,7 @@
 		"description": "Wird scheinbar auf dem Schwarzmarkt von Banges als Währung akzeptiert.",
 		"source": "Erhältst du, indem du dem Hopkins-Auftrag-Event beitrittst.",
 		"icon": "/Game/Resources/Icon/huobi/huohuahexin2",
+		"shortIcon": "huohuahexin2",
 		"rarity": "RARE",
 		"id": "hopkins1"
 	},
@@ -911,6 +1012,7 @@
 		"description": "Wenn du die besten Waren von seinem Schwarzmarkt haben willst, musst du Hopkins’ Vertrauen gewinnen. Erweise dich als wertvoller Kunde.",
 		"source": "Erhältst du, indem du dem Hopkins-Auftrag-Event beitrittst.",
 		"icon": "/Game/Resources/Icon/huobi/icon_hopkins",
+		"shortIcon": "icon_hopkins",
 		"rarity": "RARE",
 		"id": "hopkins2"
 	},
@@ -920,6 +1022,7 @@
 		"description": "Ein von der Logistikabteilung von Hykros ausgestelltes Zertifikat, das die Bemühungen und Beiträge des Vollstreckers aufzeichnet.",
 		"source": "Ein Event-Gegenstand. Kann während des Events zum Tausch gegen Waren im Reise-Shop eingesetzt werden.",
 		"icon": "/Game/Resources/Icon/item/Item_Incarnation_02",
+		"shortIcon": "Item_Incarnation_02",
 		"rarity": "LEGENDRY",
 		"id": "Item_Incarnation_02"
 	}

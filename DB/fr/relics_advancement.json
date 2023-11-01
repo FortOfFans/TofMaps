@@ -1,42 +1,42 @@
 {
 	"1002": {
-		"description": "Tire <shuzhi>2</> missiles à chaque attaque et inflige des dégâts à la cible. Chaque missile inflige des dégâts correspondant à <shuzhi>34,8%</> de l'ATQ.",
+		"description": "Tire **2** missiles à chaque attaque et inflige des dégâts à la cible. Chaque missile inflige des dégâts correspondant à **34,8%** de l'ATQ.",
 		"id": "artifact_adv_030"
 	},
 	"1004": {
-		"description": "Réduit le temps de recharge à <shuzhi>200</> secondes.",
+		"description": "Réduit le temps de recharge à **200** secondes.",
 		"id": "artifact_adv_030"
 	},
 	"1005": {
-		"description": "Tire <shuzhi>4</> missiles à chaque attaque et inflige des dégâts à la cible. Chaque missile inflige des dégâts correspondant à <shuzhi>34,8%</> de l'ATQ.",
+		"description": "Tire **4** missiles à chaque attaque et inflige des dégâts à la cible. Chaque missile inflige des dégâts correspondant à **34,8%** de l'ATQ.",
 		"id": "artifact_adv_030"
 	},
 	"1006": {
-		"description": "Réduit de <shuzhi>2%</> les dégâts physiques reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Réduit de **2%** les dégâts physiques reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_030"
 	},
 	"1007": {
-		"description": "Bras de colosse dure <shuzhi>30</> secondes. Réduit les dégâts subis de <shuzhi>20%</> pendant cette durée.",
+		"description": "Bras de colosse dure **30** secondes. Réduit les dégâts subis de **20%** pendant cette durée.",
 		"id": "artifact_adv_030"
 	},
 	"1008": {
-		"description": "Les ennemis qui traversent le bouclier sont ralentis de <shuzhi>50%</> pendant <shuzhi>2</> secondes.",
+		"description": "Les ennemis qui traversent le bouclier sont ralentis de **50%** pendant **2** secondes.",
 		"id": "artifact_adv_029"
 	},
 	"1011": {
-		"description": "Réduit le temps de recharge à <shuzhi>60</> secondes.",
+		"description": "Réduit le temps de recharge à **60** secondes.",
 		"id": "artifact_adv_029"
 	},
 	"1012": {
-		"description": "Prolonge la durée à <shuzhi>20</> secondes.",
+		"description": "Prolonge la durée à **20** secondes.",
 		"id": "artifact_adv_029"
 	},
 	"1013": {
-		"description": "Réduit de <shuzhi>2%</> les dégâts de givre reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Réduit de **2%** les dégâts de givre reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_029"
 	},
 	"1014": {
-		"description": "Lorsque des Explorateurs ou des alliés traversent le Bouclier à omnium, les dégâts infligés accroissent de <shuzhi>25%</> pendant <shuzhi>7</> secondes.",
+		"description": "Lorsque des Explorateurs ou des alliés traversent le Bouclier à omnium, les dégâts infligés accroissent de **25%** pendant **7** secondes.",
 		"id": "artifact_adv_029"
 	},
 	"1015": {
@@ -65,7 +65,7 @@
 		"id": "artifact_adv_027"
 	},
 	"1023": {
-		"description": "Confère la compétence <yellow_lbl_14_1>Tirs d'artillerie</>.\r\n<yellow_lbl_14_1>Tirs d'artillerie :</> tire <shuzhi>6</> fois sur la cible verrouillée. Chaque coup inflige des dégâts correspondant à <shuzhi>155,2%</> de l'ATQ.",
+		"description": "Confère la compétence **Tirs d'artillerie**.\r\n**Tirs d'artillerie:** tire **6** fois sur la cible verrouillée. Chaque coup inflige des dégâts correspondant à **155,2%** de l'ATQ.",
 		"id": "artifact_adv_027"
 	},
 	"1026": {
@@ -73,27 +73,27 @@
 		"id": "artifact_adv_027"
 	},
 	"1027": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_027"
 	},
 	"1028": {
-		"description": "Confère la compétence <yellow_lbl_14_1>Domaine de flamme</>.\r\n<yellow_lbl_14_1>Domaine de flamme</> : érige une vaste étendue de flammes à l'emplacement actuel infligeant des dégâts correspondant à un maximum de <shuzhi>1 146,8%</> de l'ATQ.",
+		"description": "Confère la compétence **Domaine de flamme**.\r\n**Domaine de flamme**: érige une vaste étendue de flammes à l'emplacement actuel infligeant des dégâts correspondant à un maximum de **1146,8%** de l'ATQ.",
 		"id": "artifact_adv_027"
 	},
 	"1029": {
-		"description": "Les ennemis pris dans la faille qui sont proches du sol sont incapables d'esquiver ; la durée de la zone de vide augmente à <shuzhi>15</> secondes. ",
+		"description": "Les ennemis pris dans la faille qui sont proches du sol sont incapables d'esquiver; la durée de la zone de vide augmente à **15**secondes. ",
 		"id": "artifact_adv_026"
 	},
 	"1030": {
-		"description": "Accroît la zone de cible de <shuzhi>100%</>.",
+		"description": "Accroît la zone de cible de **100%**.",
 		"id": "artifact_adv_026"
 	},
 	"1032": {
-		"description": "Accroît de <shuzhi>20%</> les dégâts infligés aux cibles situées dans la zone.",
+		"description": "Accroît de **20%** les dégâts infligés aux cibles situées dans la zone.",
 		"id": "artifact_adv_026"
 	},
 	"1034": {
-		"description": "Réduit de <shuzhi>2%</> les dégâts de feu reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Réduit de **2%** les dégâts de feu reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_026"
 	},
 	"1035": {
@@ -101,23 +101,23 @@
 		"id": "artifact_adv_026"
 	},
 	"1036": {
-		"description": "Étourdit les cibles pendant <shuzhi>3</> secondes. Temps de recharge : <shuzhi>180</> secondes. ",
+		"description": "Étourdit les cibles pendant **3**secondes. Temps de recharge: **180**secondes. ",
 		"id": "artifact_adv_025"
 	},
 	"1037": {
-		"description": "Accroît les dégâts infligés par les impulsions d'énergie de <shuzhi>30%</>.",
+		"description": "Accroît les dégâts infligés par les impulsions d'énergie de **30%**.",
 		"id": "artifact_adv_025"
 	},
 	"1039": {
-		"description": "Réduit le temps de recharge à <shuzhi>120</> secondes.",
+		"description": "Réduit le temps de recharge à **120** secondes.",
 		"id": "artifact_adv_025"
 	},
 	"1041": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts physiques, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts physiques, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_025"
 	},
 	"1042": {
-		"description": "Provoque une secousse sismique toutes les <shuzhi>3</> secondes, <shuzhi>suspendant les cibles</>. Possibilité d'esquiver les vagues en sautant.",
+		"description": "Provoque une secousse sismique toutes les **3**secondes, **suspendant les cibles**. Possibilité d'esquiver les vagues en sautant.",
 		"id": "artifact_adv_025"
 	},
 	"1043": {
@@ -142,23 +142,23 @@
 		"id": "artifact_adv_024"
 	},
 	"1050": {
-		"description": "Supprime tous les effets de contrôle et immunise contre les effets de contrôle pendant les <shuzhi>5</> prochaines secondes. ",
+		"description": "Supprime tous les effets de contrôle et immunise contre les effets de contrôle pendant les **5**prochaines secondes. ",
 		"id": "artifact_adv_023"
 	},
 	"1053": {
-		"description": "Prolonge la durée à <shuzhi>25</> secondes.",
+		"description": "Prolonge la durée à **25** secondes.",
 		"id": "artifact_adv_023"
 	},
 	"1054": {
-		"description": "Confère un cumul d'inspiration aux Explorateurs toutes les <shuzhi>5</> secondes. Accroît les dégâts infligés de <shuzhi>5%</> par cumul.",
+		"description": "Confère un cumul d'inspiration aux Explorateurs toutes les **5** secondes. Accroît les dégâts infligés de **5%** par cumul.",
 		"id": "artifact_adv_023"
 	},
 	"1055": {
-		"description": "Réduit de <shuzhi>2%</> les dégâts de foudre reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Réduit de **2%** les dégâts de foudre reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_023"
 	},
 	"1056": {
-		"description": "Les attaques de l'Explorateur convertissent <shuzhi>20%</> des dégâts infligés en PV pendant la durée du drone.",
+		"description": "Les attaques de l'Explorateur convertissent **20%** des dégâts infligés en PV pendant la durée du drone.",
 		"id": "artifact_adv_023"
 	},
 	"1057": {
@@ -183,11 +183,11 @@
 		"id": "artifact_adv_022"
 	},
 	"1064": {
-		"description": "Prolonge la durée à <shuzhi>20</> secondes.",
+		"description": "Prolonge la durée à **20** secondes.",
 		"id": "artifact_adv_021"
 	},
 	"1067": {
-		"description": "Accroît les dégâts infligés par les hologrammes à hauteur de <shuzhi>75%</> des dégâts de l'Explorateur.",
+		"description": "Accroît les dégâts infligés par les hologrammes à hauteur de **75%** des dégâts de l'Explorateur.",
 		"id": "artifact_adv_021"
 	},
 	"1068": {
@@ -195,11 +195,11 @@
 		"id": "artifact_adv_021"
 	},
 	"1069": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_021"
 	},
 	"1070": {
-		"description": "Accroît les dégâts infligés par les hologrammes à hauteur de <shuzhi>100%</> des dégâts de l'Explorateur. La transposition annule les effets de contrôle.",
+		"description": "Accroît les dégâts infligés par les hologrammes à hauteur de **100%** des dégâts de l'Explorateur. La transposition annule les effets de contrôle.",
 		"id": "artifact_adv_021"
 	},
 	"1071": {
@@ -245,23 +245,23 @@
 		"id": "artifact_adv_019"
 	},
 	"1085": {
-		"description": "Le canon stationnaire dure <shuzhi>24</> secondes.   ",
+		"description": "Le canon stationnaire dure **24**secondes.   ",
 		"id": "artifact_adv_018"
 	},
 	"1088": {
-		"description": "Gagne la compétence <yellow_lbl_14_1>Matrice laser</> : gèle la cible après lui avoir infligé des dégâts <shuzhi>4</> fois d'affilée et équivalant au maximum à <shuzhi>93,2%</> de l'ATQ.",
+		"description": "Gagne la compétence **Matrice laser**: gèle la cible après lui avoir infligé des dégâts **4**fois d'affilée et équivalant au maximum à **93,2%** de l'ATQ.",
 		"id": "artifact_adv_018"
 	},
 	"1089": {
-		"description": "Réduit le temps de recharge à <shuzhi>150</> secondes.",
+		"description": "Réduit le temps de recharge à **150** secondes.",
 		"id": "artifact_adv_018"
 	},
 	"1090": {
-		"description": "Accroît de <shuzhi>1,5%</> les dégâts de givre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **1,5%** les dégâts de givre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_018"
 	},
 	"1091": {
-		"description": "Gagne la compétence <yellow_lbl_14_1>Impact</> : inflige à la cible des dégâts équivalant à <shuzhi>55,9%</> de l'ATQ et l'<shuzhi>étourdit</> pendant 0,5 seconde.",
+		"description": "Gagne la compétence **Impact**: inflige à la cible des dégâts équivalant à **55,9%** de l'ATQ et l'**étourdit** pendant 0,5seconde.",
 		"id": "artifact_adv_018"
 	},
 	"1092": {
@@ -307,83 +307,83 @@
 		"id": "artifact_adv_016"
 	},
 	"1107": {
-		"description": "Régénère 1 recharge toutes les <shuzhi>100</> secondes. La glisse ne vous coûte plus d'endurance.",
+		"description": "Régénère 1recharge toutes les **100**secondes. La glisse ne vous coûte plus d'endurance.",
 		"id": "artifact_adv_015"
 	},
 	"1109": {
-		"description": "La glisse pendant plus de 3 secondes renforce la prochaine attaque Pilonner de l'utilisateur, laquelle étourdit la cible pendant 2 secondes.",
+		"description": "La glisse pendant plus de 3secondes renforce la prochaine attaque Pilonner de l'utilisateur, laquelle étourdit la cible pendant 2secondes.",
 		"id": "artifact_adv_015"
 	},
 	"1110": {
-		"description": "Régénère 1 recharge toutes les <shuzhi>60</> secondes.",
+		"description": "Régénère 1recharge toutes les **60**secondes.",
 		"id": "artifact_adv_015"
 	},
 	"1111": {
-		"description": "Réduit de <shuzhi>1,5%</> les dégâts physiques reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Réduit de **1,5%** les dégâts physiques reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_015"
 	},
 	"1112": {
-		"description": "Permet de stocker jusqu'à <shuzhi>3</> recharges.",
+		"description": "Permet de stocker jusqu'à **3** recharges.",
 		"id": "artifact_adv_015"
 	},
 	"1114": {
-		"description": "<shuzhi>Étourdit</> les cibles pendant <shuzhi>2</> secondes lorsqu'elles sont touchées et les brûle.  ",
+		"description": "**Étourdit** les cibles pendant **2**secondes lorsqu'elles sont touchées et les brûle.  ",
 		"id": "artifact_adv_014"
 	},
 	"1116": {
-		"description": "Accroît le rayon d'explosion de <shuzhi>50%</>.",
+		"description": "Accroît le rayon d'explosion de **50%**.",
 		"id": "artifact_adv_014"
 	},
 	"1117": {
-		"description": "Réduit le temps de recharge à <shuzhi>30</> secondes.",
+		"description": "Réduit le temps de recharge à **30** secondes.",
 		"id": "artifact_adv_014"
 	},
 	"1118": {
-		"description": "Accroît de <shuzhi>1,5%</> les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **1,5%** les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_014"
 	},
 	"1119": {
-		"description": "<shuzhi>Étourdit</> les cibles pendant <shuzhi>3</> secondes lorsqu'elles sont touchées et les épuise pendant <shuzhi>10</> secondes, leur faisant perdre <shuzhi>100</> d'endurance après chaque utilisation de capacité.",
+		"description": "**Étourdit** les cibles pendant **3**secondes lorsqu'elles sont touchées et les épuise pendant **10**secondes, leur faisant perdre **100**d'endurance après chaque utilisation de capacité.",
 		"id": "artifact_adv_014"
 	},
 	"1121": {
-		"description": "Lorsque vous flottez, gagnez <shuzhi>10</> points de recharge d'arme chaque seconde.",
+		"description": "Lorsque vous flottez, gagnez **10** points de recharge d'arme chaque seconde.",
 		"id": "artifact_adv_013"
 	},
 	"1123": {
-		"description": "Réduit le temps de recharge de <shuzhi>60</> secondes.     ",
+		"description": "Réduit le temps de recharge de **60**secondes.     ",
 		"id": "artifact_adv_013"
 	},
 	"1124": {
-		"description": "Les dégâts de collision du jetboard augmentent de <shuzhi>100%</> et le temps de recharge est réduit à <shuzhi>45</> secondes.     ",
+		"description": "Les dégâts de collision du jetboard augmentent de **100%** et le temps de recharge est réduit à **45**secondes.     ",
 		"id": "artifact_adv_013"
 	},
 	"1125": {
-		"description": "Réduit de <shuzhi>1,5%</> les dégâts de givre reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Réduit de **1,5%** les dégâts de givre reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_013"
 	},
 	"1126": {
-		"description": "Immunise contre les effets de contrôle lors de l'utilisation du jetboard. Frapper les cibles à l'aide du jetboard les <shuzhi>étourdit</> pendant <shuzhi>5</> secondes. Réduit le temps de recharge à <shuzhi>30</> secondes.",
+		"description": "Immunise contre les effets de contrôle lors de l'utilisation du jetboard. Frapper les cibles à l'aide du jetboard les **étourdit** pendant **5**secondes. Réduit le temps de recharge à **30**secondes.",
 		"id": "artifact_adv_013"
 	},
 	"1127": {
-		"description": "Déclenche <shuzhi>2</> tornades électriques.",
+		"description": "Déclenche **2** tornades électriques.",
 		"id": "artifact_adv_012"
 	},
 	"1128": {
-		"description": "Accroît les dégâts de tornade de <shuzhi>20%</>.",
+		"description": "Accroît les dégâts de tornade de **20%**.",
 		"id": "artifact_adv_012"
 	},
 	"1131": {
-		"description": "Déclenche <shuzhi>3</> tornades électriques.",
+		"description": "Déclenche **3** tornades électriques.",
 		"id": "artifact_adv_012"
 	},
 	"1132": {
-		"description": "Accroît de <shuzhi>1,5%</> les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **1,5%** les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_012"
 	},
 	"1133": {
-		"description": "Les unités prises dans la tornade ont <shuzhi>50%</> de chances d'être désorientées pendant <shuzhi>3</> secondes à chaque coup subi. Les commandes de déplacement sont également inversées.",
+		"description": "Les unités prises dans la tornade ont **50%** de chances d'être désorientées pendant **3** secondes à chaque coup subi. Les commandes de déplacement sont également inversées.",
 		"id": "artifact_adv_012"
 	},
 	"1134": {
@@ -408,23 +408,23 @@
 		"id": "artifact_adv_011"
 	},
 	"1141": {
-		"description": "L'état quantique dure <shuzhi>20</> secondes.",
+		"description": "L'état quantique dure **20** secondes.",
 		"id": "artifact_adv_010"
 	},
 	"1142": {
-		"description": "Réduit le temps de recharge à <shuzhi>80</> secondes.",
+		"description": "Réduit le temps de recharge à **80** secondes.",
 		"id": "artifact_adv_010"
 	},
 	"1144": {
-		"description": "+<shuzhi>100%</> de dégâts à l'état quantique, annulés après <shuzhi>1</> attaque réussie.",
+		"description": "+**100%**de dégâts à l'état quantique, annulés après **1** attaque réussie.",
 		"id": "artifact_adv_010"
 	},
 	"1146": {
-		"description": "Accroît de <shuzhi>1,5%</> les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **1,5%** les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_010"
 	},
 	"1147": {
-		"description": "+<shuzhi>100%</> de dégâts à l'état quantique, annulés après <shuzhi>3</> attaques réussies.",
+		"description": "+**100%**de dégâts à l'état quantique, annulés après **3**attaques réussies.",
 		"id": "artifact_adv_010"
 	},
 	"1148": {
@@ -432,15 +432,15 @@
 		"id": "artifact_adv_009"
 	},
 	"1151": {
-		"description": "Augmente de <shuzhi>20%</> les dégâts de Barrage de missiles.     ",
+		"description": "Augmente de **20%** les dégâts de Barrage de missiles.     ",
 		"id": "artifact_adv_009"
 	},
 	"1152": {
-		"description": "Barrage de missiles dure <shuzhi>12</> secondes.",
+		"description": "Barrage de missiles dure **12** secondes.",
 		"id": "artifact_adv_009"
 	},
 	"1153": {
-		"description": "Accroît de <shuzhi>1,5%</> les dégâts physiques, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **1,5%** les dégâts physiques, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_009"
 	},
 	"1154": {
@@ -448,23 +448,23 @@
 		"id": "artifact_adv_009"
 	},
 	"1155": {
-		"description": "Produit un bouclier EM qui réduit les dégâts reçus de <shuzhi>20%</> pendant <shuzhi>7</> secondes.",
+		"description": "Produit un bouclierEM qui réduit les dégâts reçus de **20%** pendant **7**secondes.",
 		"id": "artifact_adv_008"
 	},
 	"1156": {
-		"description": "Regagne <shuzhi>1</> recharge toutes les <shuzhi>15</> secondes.  ",
+		"description": "Regagne **1**recharge toutes les **15**secondes.  ",
 		"id": "artifact_adv_008"
 	},
 	"1159": {
-		"description": "Permet de stocker jusqu'à <shuzhi>3</> recharges.",
+		"description": "Permet de stocker jusqu'à **3** recharges.",
 		"id": "artifact_adv_008"
 	},
 	"1160": {
-		"description": "Accroît de <shuzhi>1,5%</> les dégâts de givre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **1,5%** les dégâts de givre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_008"
 	},
 	"1161": {
-		"description": "Réduit les dégâts finaux des cibles touchées de <shuzhi>30%</> pendant <shuzhi>7</> secondes.",
+		"description": "Réduit les dégâts finaux des cibles touchées de **30%** pendant **7** secondes.",
 		"id": "artifact_adv_008"
 	},
 	"1162": {
@@ -472,15 +472,15 @@
 		"id": "artifact_adv_007"
 	},
 	"1165": {
-		"description": "Confère une immunité contre les effets de contrôle pendant les <shuzhi>5</> prochaines secondes.",
+		"description": "Confère une immunité contre les effets de contrôle pendant les **5**prochaines secondes.",
 		"id": "artifact_adv_007"
 	},
 	"1166": {
-		"description": "Au contact de la cible, place une Bombe magnétique de <shuzhi>7</> secondes qui détonne si la cible utilise une attaque normale, une esquive ou une compétence ; la bombe cause un effet de ralentissement de <shuzhi>40%</> pendant <shuzhi>5</> secondes, et disparaît après la détonation.",
+		"description": "Au contact de la cible, place une Bombe magnétique de **7**secondes qui détonne si la cible utilise une attaque normale, une esquive ou une compétence; la bombe cause un effet de ralentissement de **40%** pendant **5**secondes, et disparaît après la détonation.",
 		"id": "artifact_adv_007"
 	},
 	"1167": {
-		"description": "Réduit de <shuzhi>1,5%</> les dégâts de foudre reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Réduit de **1,5%** les dégâts de foudre reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_007"
 	},
 	"1168": {
@@ -542,31 +542,31 @@
 		"id": "artifact_adv_001"
 	},
 	"1188": {
-		"description": "Lorsque le bouclier est brisé, réduit la vitesse de l'attaquant et des ennemis à proximité de <shuzhi>35%</> pendant <shuzhi>6</> secondes.",
+		"description": "Lorsque le bouclier est brisé, réduit la vitesse de l'attaquant et des ennemis à proximité de **35%** pendant **6**secondes.",
 		"id": "artifact_adv_031"
 	},
 	"1190": {
-		"description": "Lorsque le bouclier est brisé ou se termine, accroît les dégâts finaux d'une quantité équivalente au pourcentage de PV perdus. Dure <shuzhi>10</> secondes. Augmente les dégâts d'au moins <shuzhi>30%</>.",
+		"description": "Lorsque le bouclier est brisé ou se termine, accroît les dégâts finaux d'une quantité équivalente au pourcentage de PV perdus. Dure **10** secondes. Augmente les dégâts d'au moins **30%**.",
 		"id": "artifact_adv_031"
 	},
 	"1191": {
-		"description": "Lorsque le bouclier est brisé ou se termine, accroît la vitesse de <shuzhi>30%</> pendant <shuzhi>6</> secondes.",
+		"description": "Lorsque le bouclier est brisé ou se termine, accroît la vitesse de **30%** pendant **6** secondes.",
 		"id": "artifact_adv_031"
 	},
 	"1192": {
-		"description": "Réduit de <shuzhi>1,5%</> les dégâts de feu reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Réduit de **1,5%** les dégâts de feu reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_031"
 	},
 	"1193": {
-		"description": "Lorsque le bouclier se brise, gagnez un effet de renvoi des dégâts pendant <shuzhi>5</> secondes, qui renvoie à l'attaquant <shuzhi>0,6</>× les dégâts subis.",
+		"description": "Lorsque le bouclier se brise, gagnez un effet de renvoi des dégâts pendant **5**secondes, qui renvoie à l'attaquant **0,6**× les dégâts subis.",
 		"id": "artifact_adv_031"
 	},
 	"1195": {
-		"description": "Les Explorateurs alliés dans la dimension régénèrent <shuzhi>15%</> de leurs PV <shuzhi>8</> secondes plus tard.",
+		"description": "Les Explorateurs alliés dans la dimension régénèrent **15%** de leurs PV **8**secondes plus tard.",
 		"id": "artifact_adv_032"
 	},
 	"1196": {
-		"description": "Les unités alliées dans la dimension gagnent <shuzhi>25%</> de vol de vie.",
+		"description": "Les unités alliées dans la dimension gagnent **25%** de vol de vie.",
 		"id": "artifact_adv_032"
 	},
 	"1199": {
@@ -574,51 +574,51 @@
 		"id": "artifact_adv_032"
 	},
 	"1200": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de givre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de givre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_032"
 	},
 	"1201": {
-		"description": "Jusqu'à ce que la relique disparaisse, les Explorateurs alliés dans la dimension doublent tous leurs effets de vol de vie lorsque leurs PV tombent à <shuzhi>40%</> ou moins.",
+		"description": "Jusqu'à ce que la relique disparaisse, les Explorateurs alliés dans la dimension doublent tous leurs effets de vol de vie lorsque leurs PV tombent à **40%** ou moins.",
 		"id": "artifact_adv_032"
 	},
 	"1202": {
-		"description": "Après avoir activé le Cube étrange, accroît les dégâts infligés de <shuzhi>10%</> pendant <shuzhi>10</> secondes.",
+		"description": "Après avoir activé le Cube étrange, accroît les dégâts infligés de **10%** pendant **10** secondes.",
 		"id": "artifact_adv_033"
 	},
 	"1205": {
-		"description": "Après avoir activé le Cube étrange, réduit de <shuzhi>200</> la recharge d'arme des ennemis proches.",
+		"description": "Après avoir activé le Cube étrange, réduit de **200** la recharge d'arme des ennemis proches.",
 		"id": "artifact_adv_033"
 	},
 	"1206": {
-		"description": "Augmente à <shuzhi>2</> le nombre d'utilisations du Cube étrange.",
+		"description": "Augmente à **2** le nombre d'utilisations du Cube étrange.",
 		"id": "artifact_adv_033"
 	},
 	"1207": {
-		"description": "Accroît de <shuzhi>1,5%</> les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **1,5%** les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_033"
 	},
 	"1208": {
-		"description": "Après l'activation du Cube étrange, vous obtenez une recharge d'arme basée sur les PV perdus. Pour chaque <shuzhi>1%</> de PV perdus, vous gagnez <shuzhi>10</> recharges d'arme.",
+		"description": "Après l'activation du Cube étrange, vous obtenez une recharge d'arme basée sur les PV perdus. Pour chaque **1%** de PV perdus, vous gagnez **10** recharges d'arme.",
 		"id": "artifact_adv_033"
 	},
 	"1209": {
-		"description": "Augmente la durée des colonnes d'énergies à <shuzhi>30</> secondes.",
+		"description": "Augmente la durée des colonnes d'énergies à **30**secondes.",
 		"id": "artifact_adv_035"
 	},
 	"1212": {
-		"description": "Augmente de 30% la vitesse de régénération d'endurance pendant <shuzhi>20</> secondes après avoir changé d'arme pour utiliser le Minicanon à omnium.",
+		"description": "Augmente de 30% la vitesse de régénération d'endurance pendant **20**secondes après avoir changé d'arme pour utiliser le Minicanon à omnium.",
 		"id": "artifact_adv_035"
 	},
 	"1213": {
-		"description": "Stocke jusqu'à <shuzhi>3</> recharges",
+		"description": "Stocke jusqu'à **3**recharges",
 		"id": "artifact_adv_035"
 	},
 	"1214": {
-		"description": "Accroît de <shuzhi>1,5%</> les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **1,5%** les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_035"
 	},
 	"1215": {
-		"description": "Réduit le temps de recharge à <shuzhi>40</> secondes.",
+		"description": "Réduit le temps de recharge à **40**secondes.",
 		"id": "artifact_adv_035"
 	},
 	"1216": {
@@ -682,83 +682,83 @@
 		"id": "breakfate_artifact_sr_015_star"
 	},
 	"1236": {
-		"description": "Si les PV sont supérieurs à <shuzhi>90%</>, confère <shuzhi>100</> d'énergie immédiatement après l'utilisation. Si les PV sont inférieurs à <shuzhi>90%</>, confère immédiatement <shuzhi>50</> d'énergie, puis <shuzhi>50</> d'énergie supplémentaire une fois le bonus de dégâts terminé.",
+		"description": "Si les PV sont supérieurs à **90%**, confère **100** d'énergie immédiatement après l'utilisation. Si les PV sont inférieurs à **90%**, confère immédiatement **50** d'énergie, puis **50** d'énergie supplémentaire une fois le bonus de dégâts terminé.",
 		"id": "artifact_adv_036"
 	},
 	"1237": {
-		"description": "Augmente la durée du bonus de dégâts du Couant de type II jusqu'à <shuzhi>12</> secondes.",
+		"description": "Augmente la durée du bonus de dégâts du Couant de type II jusqu'à **12**secondes.",
 		"id": "artifact_adv_036"
 	},
 	"1238": {
-		"description": "Repousse la limite du bonus de dégâts du Couant de type II jusqu'à <shuzhi>70%</>.",
+		"description": "Repousse la limite du bonus de dégâts du Couant de type II jusqu'à **70%**.",
 		"id": "artifact_adv_036"
 	},
 	"1239": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_036"
 	},
 	"1240": {
-		"description": "Si les PV manquants sont supérieurs aux PV actuels, confère un bonus de dégâts en fonction du pourcentage de PV manquants (jusqu'à <shuzhi>70%</>).",
+		"description": "Si les PV manquants sont supérieurs aux PV actuels, confère un bonus de dégâts en fonction du pourcentage de PV manquants (jusqu'à **70%**).",
 		"id": "artifact_adv_036"
 	},
 	"1241": {
-		"description": "Lorsque le bouclier est brisé, réduit la vitesse de l'attaquant et des ennemis à proximité de <shuzhi>35%</> pendant <shuzhi>6</> secondes.",
+		"description": "Lorsque le bouclier est brisé, réduit la vitesse de l'attaquant et des ennemis à proximité de **35%** pendant **6**secondes.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1242": {
-		"description": "Lorsque le bouclier est brisé ou se termine, accroît les dégâts finaux de <shuzhi>20%</> pendant <shuzhi>10</> secondes.",
+		"description": "Lorsque le bouclier est brisé ou se termine, accroît les dégâts finaux de **20%** pendant **10** secondes.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1243": {
-		"description": "Lorsque le bouclier est brisé ou se termine, accroît la vitesse de <shuzhi>30%</> pendant <shuzhi>6</> secondes.",
+		"description": "Lorsque le bouclier est brisé ou se termine, accroît la vitesse de **30%** pendant **6** secondes.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1244": {
-		"description": "Réduit de <shuzhi>1,5%</> les dégâts de feu reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Réduit de **1,5%** les dégâts de feu reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1245": {
-		"description": "Lorsque le bouclier se brise, gagnez un effet de renvoi des dégâts pendant <shuzhi>5</> secondes, qui renvoie à l'attaquant <shuzhi>0,6</>× les dégâts subis.",
+		"description": "Lorsque le bouclier se brise, gagnez un effet de renvoi des dégâts pendant **5**secondes, qui renvoie à l'attaquant **0,6**× les dégâts subis.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1246": {
-		"description": "Déclenche <shuzhi>2</> tornades électriques.",
+		"description": "Déclenche **2** tornades électriques.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1247": {
-		"description": "Accroît les dégâts de tornade de <shuzhi>20%</>.",
+		"description": "Accroît les dégâts de tornade de **20%**.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1248": {
-		"description": "Déclenche <shuzhi>3</> tornades électriques.",
+		"description": "Déclenche **3** tornades électriques.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1249": {
-		"description": "Accroît de <shuzhi>1,5%</> les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **1,5%** les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1250": {
-		"description": "Les unités prises dans la tornade ont <shuzhi>50%</> de chances d'être désorientées pendant <shuzhi>3</> secondes à chaque coup subi. Les commandes de déplacement sont également inversées.",
+		"description": "Les unités prises dans la tornade ont **50%** de chances d'être désorientées pendant **3** secondes à chaque coup subi. Les commandes de déplacement sont également inversées.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1251": {
-		"description": "<shuzhi>Étourdit</> les cibles pendant <shuzhi>2</> secondes lorsqu'elles sont touchées et les brûle.  ",
+		"description": "**Étourdit** les cibles pendant **2**secondes lorsqu'elles sont touchées et les brûle.  ",
 		"id": "artifact_adv_014_OS"
 	},
 	"1252": {
-		"description": "Accroît le rayon d'explosion de <shuzhi>50%</>.",
+		"description": "Accroît le rayon d'explosion de **50%**.",
 		"id": "artifact_adv_014_OS"
 	},
 	"1253": {
-		"description": "Réduit le temps de recharge à <shuzhi>30</> secondes.",
+		"description": "Réduit le temps de recharge à **30** secondes.",
 		"id": "artifact_adv_014_OS"
 	},
 	"1254": {
-		"description": "Accroît de <shuzhi>1,5%</> les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **1,5%** les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_014_OS"
 	},
 	"1255": {
-		"description": "<shuzhi>Étourdit</> les cibles pendant <shuzhi>3</> secondes lorsqu'elles sont touchées et les épuise pendant <shuzhi>10</> secondes, leur faisant perdre <shuzhi>100</> d'endurance après chaque utilisation de capacité.",
+		"description": "**Étourdit** les cibles pendant **3**secondes lorsqu'elles sont touchées et les épuise pendant **10**secondes, leur faisant perdre **100**d'endurance après chaque utilisation de capacité.",
 		"id": "artifact_adv_014_OS"
 	},
 	"1256": {
@@ -774,7 +774,7 @@
 		"id": "artifact_adv_037"
 	},
 	"1259": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_037"
 	},
 	"1260": {
@@ -786,31 +786,31 @@
 		"id": "breakfate_artifact_sr_017_star"
 	},
 	"1262": {
-		"description": "Réduit le temps de recharge de chaque dé à <shuzhi>20</> secondes.",
+		"description": "Réduit le temps de recharge de chaque dé à **20**secondes.",
 		"id": "artifact_adv_038"
 	},
 	"1263": {
-		"description": "Bonus <shuzhi>Thermonucléaire</> : confère un bonus de dégâts de <shuzhi>25%</> pendant <shuzhi>45</> secondes.",
+		"description": "Bonus **Thermonucléaire**: confère un bonus de dégâts de **25%** pendant **45**secondes.",
 		"id": "artifact_adv_038"
 	},
 	"1264": {
-		"description": "Après chaque lancer de dé, vous avez <shuzhi>50%</> de chance de récupérer 1 dé. Temps de recharge : <shuzhi>15 secondes</>.",
+		"description": "Après chaque lancer de dé, vous avez **50%** de chance de récupérer 1dé. Temps de recharge: **15secondes**.",
 		"id": "artifact_adv_038"
 	},
 	"1265": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de givre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de givre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_038"
 	},
 	"1266": {
-		"description": "Lancer <shuzhi>3</> dés octroie tous les bonus de dégâts élémentaires. Si la somme des dés est égale à <shuzhi>14</> ou plus, confère l'effet <shuzhi>Surcadençage</>.",
+		"description": "Lancer **3**dés octroie tous les bonus de dégâts élémentaires. Si la somme des dés est égale à **14** ou plus, confère l'effet **Surcadençage**.",
 		"id": "artifact_adv_038"
 	},
 	"1267": {
-		"description": "Prolonge la durée à <shuzhi>20</> secondes.",
+		"description": "Prolonge la durée à **20** secondes.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1268": {
-		"description": "Réduit le temps de recharge à <shuzhi>120</> secondes.",
+		"description": "Réduit le temps de recharge à **120**secondes.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1269": {
@@ -818,15 +818,15 @@
 		"id": "artifact_adv_021_OS"
 	},
 	"1270": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1271": {
-		"description": "Accroît les dégâts infligés par les hologrammes à hauteur de <shuzhi>50%</> des dégâts de l'Explorateur. La transposition annule les effets de contrôle.",
+		"description": "Accroît les dégâts infligés par les hologrammes à hauteur de **50%** des dégâts de l'Explorateur. La transposition annule les effets de contrôle.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1272": {
-		"description": "Réduit le temps de recharge à <shuzhi>60</> secondes.   ",
+		"description": "Réduit le temps de recharge à **60**secondes.   ",
 		"id": "artifact_adv_039"
 	},
 	"1273": {
@@ -834,131 +834,131 @@
 		"id": "artifact_adv_039"
 	},
 	"1274": {
-		"description": "Le mini-pélican permet de stocker jusqu'à <shuzhi>3</> charges.",
+		"description": "Le mini-pélican permet de stocker jusqu'à **3**charges.",
 		"id": "artifact_adv_039"
 	},
 	"1275": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_039"
 	},
 	"1276": {
-		"description": "Réduit le temps de recharge à <shuzhi>30</> secondes et débloque la peinture du mini-pélican : <shuzhi>Pigmentation</>.",
+		"description": "Réduit le temps de recharge à **30**secondes et débloque la peinture du mini-pélican: **Pigmentation**.",
 		"id": "artifact_adv_039"
 	},
 	"1277": {
-		"description": "Confère <shuzhi>5</> doses à chaque fois.",
+		"description": "Confère **5**doses à chaque fois.",
 		"id": "artifact_adv_040"
 	},
 	"1278": {
-		"description": "Lorsque <shuzhi>Microattaque</> est active, accroît les dégâts infligés aux cibles gravement blessées de <shuzhi>20%</>.",
+		"description": "Lorsque **Microattaque** est active, accroît les dégâts infligés aux cibles gravement blessées de **20%**.",
 		"id": "artifact_adv_040"
 	},
 	"1279": {
-		"description": "Réduit le temps de recharge à <shuzhi>150</> secondes.",
+		"description": "Réduit le temps de recharge à **150**secondes.",
 		"id": "artifact_adv_040"
 	},
 	"1280": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts physiques, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts physiques, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_040"
 	},
 	"1281": {
-		"description": "Restaure entièrement les PV lorsque vous marquez une arme avec Tir surmultiplié. Restaure un nombre de PV équivalant à <shuzhi>20%</> des PV max à la place dans la Ligue ultime.",
+		"description": "Restaure entièrement les PV lorsque vous marquez une arme avec Tir surmultiplié. Restaure un nombre de PV équivalant à **20%** des PV max à la place dans la Ligue ultime.",
 		"id": "artifact_adv_040"
 	},
 	"1282": {
-		"description": "Si les PV sont supérieurs à <shuzhi>90%</>, confère <shuzhi>100</> d'énergie immédiatement après l'utilisation. Si les PV sont inférieurs à <shuzhi>90%</>, confère immédiatement <shuzhi>50</> d'énergie, puis <shuzhi>50</> d'énergie supplémentaire une fois le bonus de dégâts terminé.",
+		"description": "Si les PV sont supérieurs à **90%**, confère **100** d'énergie immédiatement après l'utilisation. Si les PV sont inférieurs à **90%**, confère immédiatement **50** d'énergie, puis **50** d'énergie supplémentaire une fois le bonus de dégâts terminé.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1283": {
-		"description": "Augmente la durée du bonus de dégâts jusqu'à <shuzhi>12</> secondes.",
+		"description": "Augmente la durée du bonus de dégâts jusqu'à **12**secondes.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1284": {
-		"description": "Chaque cumul de bénédiction augmente en plus les dégâts finaux de <shuzhi>1%</> pendant <shuzhi>12</> secondes.",
+		"description": "Chaque cumul de bénédiction augmente en plus les dégâts finaux de **1%** pendant **12**secondes.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1285": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1286": {
-		"description": "À 5 cumuls de bénédiction, augmente en plus les dégâts finaux de <shuzhi>2,5%</> et réduit les dégâts subis de <shuzhi>5%</> pendant <shuzhi>12</> secondes.",
+		"description": "À 5cumuls de bénédiction, augmente en plus les dégâts finaux de **2,5%** et réduit les dégâts subis de **5%** pendant **12**secondes.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1287": {
-		"description": "Confère <shuzhi>5</> doses à chaque fois.",
+		"description": "Confère **5**doses à chaque fois.",
 		"id": "artifact_adv_041"
 	},
 	"1288": {
-		"description": "Lorsque <shuzhi>Microattaque</> est active, accroît les dégâts infligés aux cibles gravement blessées de <shuzhi>20%</>.",
+		"description": "Lorsque **Microattaque** est active, accroît les dégâts infligés aux cibles gravement blessées de **20%**.",
 		"id": "artifact_adv_041"
 	},
 	"1289": {
-		"description": "Réduit le temps de recharge à <shuzhi>150</> secondes.",
+		"description": "Réduit le temps de recharge à **150**secondes.",
 		"id": "artifact_adv_041"
 	},
 	"1290": {
-		"description": "Réduit le temps de recharge à <shuzhi>150</> secondes.",
+		"description": "Réduit le temps de recharge à **150**secondes.",
 		"id": "artifact_adv_041"
 	},
 	"1291": {
-		"description": "Restaure entièrement les PV lorsque vous marquez une arme avec Tir surmultiplié. Restaure un nombre de PV équivalant à <shuzhi>20%</> des PV max à la place dans la Ligue ultime.",
+		"description": "Restaure entièrement les PV lorsque vous marquez une arme avec Tir surmultiplié. Restaure un nombre de PV équivalant à **20%** des PV max à la place dans la Ligue ultime.",
 		"id": "artifact_adv_041"
 	},
 	"1292": {
-		"description": "Le Cœur maritime fait monter la marée <shuzhi>1</> fois toutes les <shuzhi>15</> secondes, infligeant des dégâts équivalant à <shuzhi>15%</> (<shuzhi>1,5%</> en Ligue ultime) des PV max de l'Explorateur aux cibles proches.",
+		"description": "Le Cœur maritime fait monter la marée **1**fois toutes les **15**secondes, infligeant des dégâts équivalant à **15%** (**1,5%** en Ligue ultime) des PV max de l'Explorateur aux cibles proches.",
 		"id": "artifact_adv_042"
 	},
 	"1293": {
-		"description": "La durée de Cœur maritime passe à <shuzhi>90</> secondes.",
+		"description": "La durée de Cœur maritime passe à **90**secondes.",
 		"id": "artifact_adv_042"
 	},
 	"1294": {
-		"description": "Accroît les dégâts infligés aux cibles touchées par Cœur maritime de <shuzhi>5,5%</> supplémentaires.",
+		"description": "Accroît les dégâts infligés aux cibles touchées par Cœur maritime de **5,5%** supplémentaires.",
 		"id": "artifact_adv_042"
 	},
 	"1295": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de foudre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_042"
 	},
 	"1296": {
-		"description": "Lorsque vous plongez, utilisez Cœur maritime pour vous transformer en dauphin pendant <shuzhi>45</> secondes maximum. Durant cet effet, les ennemis n'attaquent plus pendant <shuzhi>15</> secondes et votre vitesse de déplacement augmente.\r\nPendant la transformation, la prochaine attaque fouettera l'eau, infligeant des dégâts équivalant à <shuzhi>25%</> (<shuzhi>2,5%</> en Ligue ultime) de vos PV max aux cibles proches, ce qui mettra fin à la transformation.",
+		"description": "Lorsque vous plongez, utilisez Cœur maritime pour vous transformer en dauphin pendant **45**secondes maximum. Durant cet effet, les ennemis n'attaquent plus pendant **15**secondes et votre vitesse de déplacement augmente.\r\nPendant la transformation, la prochaine attaque fouettera l'eau, infligeant des dégâts équivalant à **25%** (**2,5%** en Ligue ultime) de vos PV max aux cibles proches, ce qui mettra fin à la transformation.",
 		"id": "artifact_adv_042"
 	},
 	"1297": {
-		"description": "Confère <shuzhi>5</> doses à chaque fois.",
+		"description": "Confère **5**doses à chaque fois.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1298": {
-		"description": "Restaure entièrement les PV lorsque vous marquez une arme avec Tir surmultiplié. Restaure un nombre de PV équivalant à <shuzhi>20%</> des PV max à la place dans la Ligue ultime.",
+		"description": "Restaure entièrement les PV lorsque vous marquez une arme avec Tir surmultiplié. Restaure un nombre de PV équivalant à **20%** des PV max à la place dans la Ligue ultime.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1299": {
-		"description": "Réduit le temps de recharge à <shuzhi>150</> secondes.",
+		"description": "Réduit le temps de recharge à **150**secondes.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1300": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts physiques, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts physiques, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1301": {
-		"description": "Lorsque <shuzhi>Microattaque</> est actif, accroît les dégâts infligés aux cibles gravement blessées de <shuzhi>4%</>.",
+		"description": "Lorsque **Microattaque** est actif, accroît les dégâts infligés aux cibles gravement blessées de **4%**.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1302": {
-		"description": "La durée de zéphyr est étendue à <shuzhi>30</> secondes.",
+		"description": "La durée de zéphyr est étendue à **30** secondes.",
 		"id": "artifact_adv_043"
 	},
 	"1303": {
-		"description": "Dans l'état de zéphyr, la vitesse au sol et sur les murs est augmentée de <shuzhi>15%</> et la hauteur des sauts est augmentée.",
+		"description": "Dans l'état de zéphyr, la vitesse au sol et sur les murs est augmentée de **15%** et la hauteur des sauts est augmentée.",
 		"id": "artifact_adv_043"
 	},
 	"1304": {
-		"description": "Les marche-vites peuvent stocker jusqu'à <shuzhi>2</> charges.",
+		"description": "Les marche-vites peuvent stocker jusqu'à **2** charges.",
 		"id": "artifact_adv_043"
 	},
 	"1305": {
-		"description": "Réduit de <shuzhi>2%</> les dégâts physiques reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Réduit de **2%** les dégâts physiques reçus, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_043"
 	},
 	"1306": {
@@ -966,23 +966,23 @@
 		"id": "artifact_adv_043"
 	},
 	"1307": {
-		"description": "Accroît le nombre de petites bulles tirées et fait reculer le porteur pendant qu'il les tire. Après avoir utilisé la relique, accroît la vitesse de <shuzhi>10%</> pendant <shuzhi>30</> secondes.",
+		"description": "Accroît le nombre de petites bulles tirées et fait reculer le porteur pendant qu'il les tire. Après avoir utilisé la relique, accroît la vitesse de **10%** pendant **30**secondes.",
 		"id": "artifact_adv_044"
 	},
 	"1308": {
-		"description": "Confère <shuzhi>1</>/<shuzhi>3</> cumuls de Partie de plaisir chaque fois que vous tirez des petites et grosses bulles. Chaque cumul accroît les dégâts infligés par l'Explorateur de <shuzhi>1,8%</> pendant <shuzhi>60</> secondes. Cumulable jusqu'à <shuzhi>5</> fois.",
+		"description": "Confère **1**/**3**cumuls de Partie de plaisir chaque fois que vous tirez des petites et grosses bulles. Chaque cumul accroît les dégâts infligés par l'Explorateur de **1,8%** pendant **60**secondes. Cumulable jusqu'à **5**fois.",
 		"id": "artifact_adv_044"
 	},
 	"1309": {
-		"description": "Utilisez le Pistolet à bulles pour invoquer un Esprit des bulles qui tire des bulles et actualise la durée de Partie de plaisir. L'Esprit disparaît au bout de <shuzhi>150</> secondes.",
+		"description": "Utilisez le Pistolet à bulles pour invoquer un Esprit des bulles qui tire des bulles et actualise la durée de Partie de plaisir. L'Esprit disparaît au bout de **150**secondes.",
 		"id": "artifact_adv_044"
 	},
 	"1310": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de feu, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_044"
 	},
 	"1311": {
-		"description": "Accroît le bonus de dégâts de Partie de plaisir de <shuzhi>0,6%</> par cumul.",
+		"description": "Accroît le bonus de dégâts de Partie de plaisir de **0,6%** par cumul.",
 		"id": "artifact_adv_044"
 	},
 	"1312": {
@@ -990,7 +990,7 @@
 		"id": "artifact_adv_045"
 	},
 	"1313": {
-		"description": "Lorsque Triple masque est déployé, accroît la vitesse de <shuzhi>8%</> et les dégâts élémentaires de <shuzhi>8%</>.",
+		"description": "Lorsque Triple masque est déployé, accroît la vitesse de **8%** et les dégâts élémentaires de **8%**.",
 		"id": "artifact_adv_045"
 	},
 	"1314": {
@@ -998,11 +998,11 @@
 		"id": "artifact_adv_045"
 	},
 	"1315": {
-		"description": "Accroît de <shuzhi>2%</> les dégâts de givre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
+		"description": "Accroît de **2%** les dégâts de givre, même s'ils ne sont pas déployés. Non disponible en Ligue ultime.",
 		"id": "artifact_adv_045"
 	},
 	"1316": {
-		"description": "Lorsque Triple masque est déployé, accroît les dégâts élémentaires de <shuzhi>8%</> supplémentaires.",
+		"description": "Lorsque Triple masque est déployé, accroît les dégâts élémentaires de **8%** supplémentaires.",
 		"id": "artifact_adv_045"
 	}
 }

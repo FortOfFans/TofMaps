@@ -74,7 +74,7 @@
 	"imitation_33": {
 		"name": "Molinia",
 		"advanceId": "imitation_33L1",
-		"weapon": "None",
+		"weapon": "none",
 		"icon": "imitation_21",
 		"avatarID": "moliniya",
 		"age": "6 de janeiro",
@@ -146,7 +146,7 @@
 	"imitation_50": {
 		"name": "Ming Jing",
 		"advanceId": "imitation_50L1",
-		"weapon": "Zeke_physic",
+		"weapon": "zeke_physic",
 		"icon": "imitation_50",
 		"avatarID": "mingjing",
 		"age": "12 de novembro",
@@ -255,7 +255,7 @@
 	"imitation_48": {
 		"name": "Rubilia",
 		"advanceId": "imitation_48L1",
-		"weapon": "Rubilia_thunder",
+		"weapon": "rubilia_thunder",
 		"icon": "imitation_48",
 		"avatarID": "leibiliya",
 		"age": "24 de abril",
@@ -290,7 +290,7 @@
 	"imitation_27": {
 		"name": "Gnonno",
 		"advanceId": "imitation_27L1",
-		"weapon": "Chainsaw_physic",
+		"weapon": "chainsaw_physic",
 		"icon": "imitation_27",
 		"avatarID": "genuonuo",
 		"age": "6 de março",
@@ -362,7 +362,7 @@
 	"imitation_35": {
 		"name": "Icarus",
 		"advanceId": "imitation_35L1",
-		"weapon": "Yoyo_ice",
+		"weapon": "yoyo_ice",
 		"icon": "imitation_35",
 		"avatarID": "yikaluosi",
 		"age": "24 de outubro",
@@ -472,7 +472,7 @@
 	"imitation_31": {
 		"name": "Umi",
 		"advanceId": "imitation_31L1",
-		"weapon": "Whip_physic",
+		"weapon": "whip_physic",
 		"icon": "imitation_31",
 		"avatarID": "wumi",
 		"age": "20 de outubro",
@@ -687,7 +687,7 @@
 	"imitation_22": {
 		"name": "Saki Fuwa",
 		"advanceId": "imitation_22L1",
-		"weapon": "Dkatana_ice",
+		"weapon": "dkatana_ice",
 		"icon": "imitation_22",
 		"avatarID": "bupoxiao",
 		"age": "11 de outubro",
@@ -759,7 +759,7 @@
 	"imitation_28": {
 		"name": "Frigg",
 		"advanceId": "imitation_28L1",
-		"weapon": "Frigg_ice",
+		"weapon": "frigg_ice",
 		"icon": "imitation_28",
 		"avatarID": "Avatar12",
 		"age": "1.º de fevereiro",
@@ -794,7 +794,7 @@
 	"imitation_17": {
 		"name": "Nêmesis",
 		"advanceId": "imitation_17L1",
-		"weapon": "Suspension_thunder",
+		"weapon": "suspension_thunder",
 		"icon": "imitation_17",
 		"avatarID": "Avatar06",
 		"age": "23 de maio",
@@ -1005,7 +1005,7 @@
 	"imitation_6": {
 		"name": "Huma",
 		"advanceId": "imitation_6L1",
-		"weapon": "ShieldAxe_Fire",
+		"weapon": "shieldaxe_fire",
 		"icon": "imitation_6",
 		"avatarID": "xiuma",
 		"age": "12 de janeiro",
@@ -1443,7 +1443,7 @@
 	},
 	"imitation_6L1": {
 		"name": "Huma",
-		"weapon": "ShieldAxe_Fire",
+		"weapon": "shieldaxe_fire",
 		"icon": "erjie_imitation_6",
 		"avatarID": "None",
 		"age": "Data de nascimento: 14 de agosto",
@@ -1575,7 +1575,7 @@
 	},
 	"imitation_17L1": {
 		"name": "Nêmesis",
-		"weapon": "Suspension_thunder",
+		"weapon": "suspension_thunder",
 		"icon": "erjie_imitation_17",
 		"avatarID": "naimeixisi",
 		"age": "23 de maio",
@@ -1595,7 +1595,7 @@
 	"imitation_28L1": {
 		"name": "Frigg",
 		"advanceId": "None",
-		"weapon": "Frigg_ice",
+		"weapon": "frigg_ice",
 		"icon": "erjie_imitation_28",
 		"avatarID": "fulijia",
 		"age": "1.º de fevereiro",
@@ -1614,7 +1614,7 @@
 	"imitation_22L1": {
 		"name": "Saki Fuwa",
 		"advanceId": "imitation_22L1",
-		"weapon": "Dkatana_ice",
+		"weapon": "dkatana_ice",
 		"icon": "erjie_imitation_22",
 		"avatarID": "bupoxiao",
 		"age": "9 de julho",
@@ -1671,7 +1671,7 @@
 	},
 	"imitation_24L1": {
 		"name": "Lyra",
-		"weapon": "arm_physicLV3",
+		"weapon": "arm_physiclv3",
 		"icon": "imitation_24L1",
 		"avatarID": "xinghuan",
 		"age": "9 de julho",
@@ -1710,7 +1710,7 @@
 	"imitation_29L1": {
 		"name": "Tian Lang",
 		"advanceId": "imitation_29L1",
-		"weapon": "tianlang_thunder_Level3",
+		"weapon": "tianlang_thunder_level3",
 		"icon": "erjie_imitation_29",
 		"avatarID": "tianlang",
 		"age": "23 de março",
@@ -1790,7 +1790,7 @@
 	"imitation_31L1": {
 		"name": "Umi",
 		"advanceId": "imitation_31L1",
-		"weapon": "Whip_physic_lv3",
+		"weapon": "whip_physic_lv3",
 		"icon": "erjie_imitation_31",
 		"avatarID": "wumi",
 		"age": "9 de julho",
@@ -1808,7 +1808,7 @@
 	},
 	"imitation_35L1": {
 		"name": "Icarus",
-		"weapon": "Yoyo_ice_Level3",
+		"weapon": "yoyo_ice_level3",
 		"icon": "erjie_imitation_35",
 		"avatarID": "Icarus",
 		"age": "24 de outubro",
@@ -1847,7 +1847,7 @@
 	},
 	"imitation_27L1": {
 		"name": "Gnonno",
-		"weapon": "Chainsaw_physic_lv3",
+		"weapon": "chainsaw_physic_lv3",
 		"icon": "imitation_27_2",
 		"avatarID": "genuonuo",
 		"age": "8 de maio",
@@ -1886,7 +1886,7 @@
 	},
 	"imitation_48L1": {
 		"name": "Rubilia",
-		"weapon": "Rubilia_thunder_Level3",
+		"weapon": "rubilia_thunder_level3",
 		"icon": "erjie_imitation_48",
 		"avatarID": "leibiliya",
 		"age": "24 de abril",
@@ -1952,7 +1952,7 @@
 	},
 	"imitation_43L1": {
 		"name": "Ling Han",
-		"weapon": "Linghan_ice_Level3",
+		"weapon": "linghan_ice_level3",
 		"icon": "erjie_imitation_43",
 		"avatarID": "linghan",
 		"age": "17 de abril",
@@ -1981,7 +1981,7 @@
 	},
 	"imitation_50L1": {
 		"name": "Ming Jing",
-		"weapon": "Zeke_physic_Level3",
+		"weapon": "zeke_physic_level3",
 		"icon": "erjie_imitation_50",
 		"avatarID": "mingjing",
 		"age": "12 de novembro",

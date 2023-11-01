@@ -705,12 +705,12 @@
 		],
 		"id": "cannon_ice"
 	},
-	"Chainsaw_physic": {
+	"chainsaw_physic": {
 		"name": "プチハリケーン",
 		"avatar": {
 			"name": "グノノ",
 			"advanceId": "imitation_27L1",
-			"weapon": "Chainsaw_physic",
+			"weapon": "chainsaw_physic",
 			"icon": "imitation_27",
 			"avatarID": "genuonuo",
 			"age": "6 Maret",
@@ -896,7 +896,7 @@
 				"need": "Chainsaw_physic_plasm"
 			}
 		],
-		"id": "Chainsaw_physic"
+		"id": "chainsaw_physic"
 	},
 	"hammer_ice": {
 		"name": "初動重撃",
@@ -3248,12 +3248,12 @@
 		],
 		"id": "dgun_thunder"
 	},
-	"ShieldAxe_Fire": {
+	"shieldaxe_fire": {
 		"name": "V2メルトシールド",
 		"avatar": {
 			"name": "シューマー",
 			"advanceId": "imitation_6L1",
-			"weapon": "ShieldAxe_Fire",
+			"weapon": "shieldaxe_fire",
 			"icon": "imitation_6",
 			"avatarID": "xiuma",
 			"age": "12 Januari",
@@ -3420,7 +3420,7 @@
 				"need": "ShieldAxe_Fire_plasm"
 			}
 		],
-		"id": "ShieldAxe_Fire"
+		"id": "shieldaxe_fire"
 	},
 	"mimi_thunder": {
 		"name": "Azure Dragon",
@@ -3609,7 +3609,7 @@
 		],
 		"id": "mimi_thunder"
 	},
-	"Linghan_ice": {
+	"linghan_ice": {
 		"name": "監兵",
 		"avatar": {
 			"name": "Ling Han",
@@ -3794,14 +3794,14 @@
 				"need": "Linghan_ice_plasm"
 			}
 		],
-		"id": "Linghan_ice"
+		"id": "linghan_ice"
 	},
-	"Suspension_thunder": {
+	"suspension_thunder": {
 		"name": "明けの明星",
 		"avatar": {
 			"name": "ネメシス",
 			"advanceId": "imitation_17L1",
-			"weapon": "Suspension_thunder",
+			"weapon": "suspension_thunder",
 			"icon": "imitation_17",
 			"avatarID": "Avatar06",
 			"age": "23 Mei",
@@ -3975,14 +3975,14 @@
 				"need": "Suspension_thunder_plasm"
 			}
 		],
-		"id": "Suspension_thunder"
+		"id": "suspension_thunder"
 	},
-	"Frigg_ice": {
+	"frigg_ice": {
 		"name": "バルムンク",
 		"avatar": {
 			"name": "フレイヤ",
 			"advanceId": "imitation_28L1",
-			"weapon": "Frigg_ice",
+			"weapon": "frigg_ice",
 			"icon": "imitation_28",
 			"avatarID": "Avatar12",
 			"age": "1 Februari",
@@ -4149,7 +4149,7 @@
 				"need": "Frigg_ice_plasm"
 			}
 		],
-		"id": "Frigg_ice"
+		"id": "frigg_ice"
 	},
 	"funnel_fire": {
 		"name": "スパーク",
@@ -4332,12 +4332,12 @@
 		],
 		"id": "funnel_fire"
 	},
-	"Dkatana_ice": {
+	"dkatana_ice": {
 		"name": "水流の徹心",
 		"avatar": {
 			"name": "Saki Fuwa",
 			"advanceId": "imitation_22L1",
-			"weapon": "Dkatana_ice",
+			"weapon": "dkatana_ice",
 			"icon": "imitation_22",
 			"avatarID": "bupoxiao",
 			"age": "11 Oktober",
@@ -4517,7 +4517,7 @@
 				"need": "Dkatana_ice_plasm"
 			}
 		],
-		"id": "Dkatana_ice"
+		"id": "dkatana_ice"
 	},
 	"fan_superpower": {
 		"name": "シャドーウィーブ",
@@ -5083,12 +5083,12 @@
 		],
 		"id": "arm_physic"
 	},
-	"Rubilia_thunder": {
+	"rubilia_thunder": {
 		"name": "絶響",
 		"avatar": {
 			"name": "レビリア",
 			"advanceId": "imitation_48L1",
-			"weapon": "Rubilia_thunder",
+			"weapon": "rubilia_thunder",
 			"icon": "imitation_48",
 			"avatarID": "leibiliya",
 			"age": "24 April",
@@ -5273,7 +5273,7 @@
 				"need": "Rubilia_thunder_plasm"
 			}
 		],
-		"id": "Rubilia_thunder"
+		"id": "rubilia_thunder"
 	},
 	"iceblade_ice": {
 		"name": "不滅の翼",
@@ -5462,7 +5462,7 @@
 		],
 		"id": "iceblade_ice"
 	},
-	"Snipe_fire": {
+	"snipe_fire": {
 		"name": "クローバークロス",
 		"avatar": {
 			"name": "アナベラ",
@@ -5636,7 +5636,7 @@
 				"need": "Snipe_fire_plasm"
 			}
 		],
-		"id": "Snipe_fire"
+		"id": "snipe_fire"
 	},
 	"brush_fire": {
 		"name": "松慧",
@@ -5843,12 +5843,12 @@
 		],
 		"id": "brush_fire"
 	},
-	"Whip_physic": {
+	"whip_physic": {
 		"name": "メビウス",
 		"avatar": {
 			"name": "ウーミィ",
 			"advanceId": "imitation_31L1",
-			"weapon": "Whip_physic",
+			"weapon": "whip_physic",
 			"icon": "imitation_31",
 			"avatarID": "wumi",
 			"age": "20 Oktober",
@@ -6039,7 +6039,7 @@
 				"need": "Whip_physic_plasm"
 			}
 		],
-		"id": "Whip_physic"
+		"id": "whip_physic"
 	},
 	"feise_fire": {
 		"name": "Endless Bloom",
@@ -6627,12 +6627,12 @@
 		],
 		"id": "umbrella_fire"
 	},
-	"Yoyo_ice": {
+	"yoyo_ice": {
 		"name": "グロリアスライト",
 		"avatar": {
 			"name": "イカロス",
 			"advanceId": "imitation_35L1",
-			"weapon": "Yoyo_ice",
+			"weapon": "yoyo_ice",
 			"icon": "imitation_35",
 			"avatarID": "yikaluosi",
 			"age": "24 Oktober",
@@ -6813,7 +6813,7 @@
 				"need": "Yoyo_ice_plasm"
 			}
 		],
-		"id": "Yoyo_ice"
+		"id": "yoyo_ice"
 	},
 	"yulan_ice": {
 		"name": "併輪",
@@ -7032,12 +7032,12 @@
 		],
 		"id": "yulan_ice"
 	},
-	"Zeke_physic": {
+	"zeke_physic": {
 		"name": "執明",
 		"avatar": {
 			"name": "Ming Jing",
 			"advanceId": "imitation_50L1",
-			"weapon": "Zeke_physic",
+			"weapon": "zeke_physic",
 			"icon": "imitation_50",
 			"avatarID": "mingjing",
 			"age": "12 November",
@@ -7224,7 +7224,7 @@
 				"need": "Zeke_physic_plasm"
 			}
 		],
-		"id": "Zeke_physic"
+		"id": "zeke_physic"
 	},
 	"queen_superpower": {
 		"name": "月星の環",

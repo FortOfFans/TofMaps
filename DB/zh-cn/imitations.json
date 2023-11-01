@@ -74,7 +74,7 @@
 	"imitation_33": {
 		"name": "默利尼娅",
 		"advanceId": "imitation_33L1",
-		"weapon": "None",
+		"weapon": "none",
 		"icon": "imitation_21",
 		"avatarID": "moliniya",
 		"age": "1月6日",
@@ -146,7 +146,7 @@
 	"imitation_50": {
 		"name": "明景",
 		"advanceId": "imitation_50L1",
-		"weapon": "Zeke_physic",
+		"weapon": "zeke_physic",
 		"icon": "imitation_50",
 		"avatarID": "mingjing",
 		"age": "11月12日",
@@ -255,7 +255,7 @@
 	"imitation_48": {
 		"name": "蕾比莉亚",
 		"advanceId": "imitation_48L1",
-		"weapon": "Rubilia_thunder",
+		"weapon": "rubilia_thunder",
 		"icon": "imitation_48",
 		"avatarID": "leibiliya",
 		"age": "4月24日",
@@ -290,7 +290,7 @@
 	"imitation_27": {
 		"name": "格诺诺",
 		"advanceId": "imitation_27L1",
-		"weapon": "Chainsaw_physic",
+		"weapon": "chainsaw_physic",
 		"icon": "imitation_27",
 		"avatarID": "genuonuo",
 		"age": "3月6日",
@@ -362,7 +362,7 @@
 	"imitation_35": {
 		"name": "伊卡洛斯",
 		"advanceId": "imitation_35L1",
-		"weapon": "Yoyo_ice",
+		"weapon": "yoyo_ice",
 		"icon": "imitation_35",
 		"avatarID": "yikaluosi",
 		"age": "10月24日",
@@ -472,7 +472,7 @@
 	"imitation_31": {
 		"name": "乌米",
 		"advanceId": "imitation_31L1",
-		"weapon": "Whip_physic",
+		"weapon": "whip_physic",
 		"icon": "imitation_31",
 		"avatarID": "wumi",
 		"age": "10月20日",
@@ -687,7 +687,7 @@
 	"imitation_22": {
 		"name": "不破咲",
 		"advanceId": "imitation_22L1",
-		"weapon": "Dkatana_ice",
+		"weapon": "dkatana_ice",
 		"icon": "imitation_22",
 		"avatarID": "bupoxiao",
 		"age": "10月11日",
@@ -759,7 +759,7 @@
 	"imitation_28": {
 		"name": "弗丽嘉",
 		"advanceId": "imitation_28L1",
-		"weapon": "Frigg_ice",
+		"weapon": "frigg_ice",
 		"icon": "imitation_28",
 		"avatarID": "Avatar12",
 		"age": "2月1日",
@@ -794,7 +794,7 @@
 	"imitation_17": {
 		"name": "奈美西斯",
 		"advanceId": "imitation_17L1",
-		"weapon": "Suspension_thunder",
+		"weapon": "suspension_thunder",
 		"icon": "imitation_17",
 		"avatarID": "Avatar06",
 		"age": "5月23日",
@@ -1005,7 +1005,7 @@
 	"imitation_6": {
 		"name": "修玛",
 		"advanceId": "imitation_6L1",
-		"weapon": "ShieldAxe_Fire",
+		"weapon": "shieldaxe_fire",
 		"icon": "imitation_6",
 		"avatarID": "xiuma",
 		"age": "1月12日",
@@ -1443,7 +1443,7 @@
 	},
 	"imitation_6L1": {
 		"name": "修玛",
-		"weapon": "ShieldAxe_Fire",
+		"weapon": "shieldaxe_fire",
 		"icon": "erjie_imitation_6",
 		"avatarID": "None",
 		"age": "生日:8月14日",
@@ -1575,7 +1575,7 @@
 	},
 	"imitation_17L1": {
 		"name": "奈美西斯",
-		"weapon": "Suspension_thunder",
+		"weapon": "suspension_thunder",
 		"icon": "erjie_imitation_17",
 		"avatarID": "naimeixisi",
 		"age": "5月23日",
@@ -1595,7 +1595,7 @@
 	"imitation_28L1": {
 		"name": "弗丽嘉",
 		"advanceId": "None",
-		"weapon": "Frigg_ice",
+		"weapon": "frigg_ice",
 		"icon": "erjie_imitation_28",
 		"avatarID": "fulijia",
 		"age": "2月1日",
@@ -1614,7 +1614,7 @@
 	"imitation_22L1": {
 		"name": "不破咲",
 		"advanceId": "imitation_22L1",
-		"weapon": "Dkatana_ice",
+		"weapon": "dkatana_ice",
 		"icon": "erjie_imitation_22",
 		"avatarID": "bupoxiao",
 		"age": "7月9日",
@@ -1671,7 +1671,7 @@
 	},
 	"imitation_24L1": {
 		"name": "星寰",
-		"weapon": "arm_physicLV3",
+		"weapon": "arm_physiclv3",
 		"icon": "imitation_24L1",
 		"avatarID": "xinghuan",
 		"age": "7月9日",
@@ -1710,7 +1710,7 @@
 	"imitation_29L1": {
 		"name": "天琅",
 		"advanceId": "imitation_29L1",
-		"weapon": "tianlang_thunder_Level3",
+		"weapon": "tianlang_thunder_level3",
 		"icon": "erjie_imitation_29",
 		"avatarID": "tianlang",
 		"age": "3月23日",
@@ -1790,7 +1790,7 @@
 	"imitation_31L1": {
 		"name": "乌米",
 		"advanceId": "imitation_31L1",
-		"weapon": "Whip_physic_lv3",
+		"weapon": "whip_physic_lv3",
 		"icon": "erjie_imitation_31",
 		"avatarID": "wumi",
 		"age": "7月9日",
@@ -1808,7 +1808,7 @@
 	},
 	"imitation_35L1": {
 		"name": "伊卡洛斯",
-		"weapon": "Yoyo_ice_Level3",
+		"weapon": "yoyo_ice_level3",
 		"icon": "erjie_imitation_35",
 		"avatarID": "Icarus",
 		"age": "10月24日",
@@ -1847,7 +1847,7 @@
 	},
 	"imitation_27L1": {
 		"name": "格诺诺",
-		"weapon": "Chainsaw_physic_lv3",
+		"weapon": "chainsaw_physic_lv3",
 		"icon": "imitation_27_2",
 		"avatarID": "genuonuo",
 		"age": "5月8日",
@@ -1886,7 +1886,7 @@
 	},
 	"imitation_48L1": {
 		"name": "蕾比莉亚",
-		"weapon": "Rubilia_thunder_Level3",
+		"weapon": "rubilia_thunder_level3",
 		"icon": "erjie_imitation_48",
 		"avatarID": "leibiliya",
 		"age": "4月24日",
@@ -1952,7 +1952,7 @@
 	},
 	"imitation_43L1": {
 		"name": "凌寒",
-		"weapon": "Linghan_ice_Level3",
+		"weapon": "linghan_ice_level3",
 		"icon": "erjie_imitation_43",
 		"avatarID": "linghan",
 		"age": "4月17日",
@@ -1981,7 +1981,7 @@
 	},
 	"imitation_50L1": {
 		"name": "明景",
-		"weapon": "Zeke_physic_Level3",
+		"weapon": "zeke_physic_level3",
 		"icon": "erjie_imitation_50",
 		"avatarID": "mingjing",
 		"age": "11月12日",

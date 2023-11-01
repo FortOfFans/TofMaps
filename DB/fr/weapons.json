@@ -705,12 +705,12 @@
 		],
 		"id": "cannon_ice"
 	},
-	"Chainsaw_physic": {
+	"chainsaw_physic": {
 		"name": "Mini ouragan",
 		"avatar": {
 			"name": "Gnonno",
 			"advanceId": "imitation_27L1",
-			"weapon": "Chainsaw_physic",
+			"weapon": "chainsaw_physic",
 			"icon": "imitation_27",
 			"avatarID": "genuonuo",
 			"age": "6 mars",
@@ -896,7 +896,7 @@
 				"need": "Chainsaw_physic_plasm"
 			}
 		],
-		"id": "Chainsaw_physic"
+		"id": "chainsaw_physic"
 	},
 	"hammer_ice": {
 		"name": "Pilon",
@@ -3248,12 +3248,12 @@
 		],
 		"id": "dgun_thunder"
 	},
-	"ShieldAxe_Fire": {
+	"shieldaxe_fire": {
 		"name": "Bouclier fournaise V2",
 		"avatar": {
 			"name": "Huma",
 			"advanceId": "imitation_6L1",
-			"weapon": "ShieldAxe_Fire",
+			"weapon": "shieldaxe_fire",
 			"icon": "imitation_6",
 			"avatarID": "xiuma",
 			"age": "12janvier",
@@ -3420,7 +3420,7 @@
 				"need": "ShieldAxe_Fire_plasm"
 			}
 		],
-		"id": "ShieldAxe_Fire"
+		"id": "shieldaxe_fire"
 	},
 	"mimi_thunder": {
 		"name": "Dragon azur",
@@ -3609,7 +3609,7 @@
 		],
 		"id": "mimi_thunder"
 	},
-	"Linghan_ice": {
+	"linghan_ice": {
 		"name": "Tigre d'albâtre",
 		"avatar": {
 			"name": "Ling Han",
@@ -3794,14 +3794,14 @@
 				"need": "Linghan_ice_plasm"
 			}
 		],
-		"id": "Linghan_ice"
+		"id": "linghan_ice"
 	},
-	"Suspension_thunder": {
+	"suspension_thunder": {
 		"name": "Venus",
 		"avatar": {
 			"name": "Nemesis",
 			"advanceId": "imitation_17L1",
-			"weapon": "Suspension_thunder",
+			"weapon": "suspension_thunder",
 			"icon": "imitation_17",
 			"avatarID": "Avatar06",
 			"age": "23 mai",
@@ -3975,14 +3975,14 @@
 				"need": "Suspension_thunder_plasm"
 			}
 		],
-		"id": "Suspension_thunder"
+		"id": "suspension_thunder"
 	},
-	"Frigg_ice": {
+	"frigg_ice": {
 		"name": "Balmung",
 		"avatar": {
 			"name": "Frigg",
 			"advanceId": "imitation_28L1",
-			"weapon": "Frigg_ice",
+			"weapon": "frigg_ice",
 			"icon": "imitation_28",
 			"avatarID": "Avatar12",
 			"age": "1er février",
@@ -4149,7 +4149,7 @@
 				"need": "Frigg_ice_plasm"
 			}
 		],
-		"id": "Frigg_ice"
+		"id": "frigg_ice"
 	},
 	"funnel_fire": {
 		"name": "Étincelle",
@@ -4332,12 +4332,12 @@
 		],
 		"id": "funnel_fire"
 	},
-	"Dkatana_ice": {
+	"dkatana_ice": {
 		"name": "Flux de cœur",
 		"avatar": {
 			"name": "Saki Fuwa",
 			"advanceId": "imitation_22L1",
-			"weapon": "Dkatana_ice",
+			"weapon": "dkatana_ice",
 			"icon": "imitation_22",
 			"avatarID": "bupoxiao",
 			"age": "11 octobre",
@@ -4517,7 +4517,7 @@
 				"need": "Dkatana_ice_plasm"
 			}
 		],
-		"id": "Dkatana_ice"
+		"id": "dkatana_ice"
 	},
 	"fan_superpower": {
 		"name": "Tissombre",
@@ -5083,12 +5083,12 @@
 		],
 		"id": "arm_physic"
 	},
-	"Rubilia_thunder": {
+	"rubilia_thunder": {
 		"name": "Art perdu",
 		"avatar": {
 			"name": "Rubilia",
 			"advanceId": "imitation_48L1",
-			"weapon": "Rubilia_thunder",
+			"weapon": "rubilia_thunder",
 			"icon": "imitation_48",
 			"avatarID": "leibiliya",
 			"age": "24 avril",
@@ -5273,7 +5273,7 @@
 				"need": "Rubilia_thunder_plasm"
 			}
 		],
-		"id": "Rubilia_thunder"
+		"id": "rubilia_thunder"
 	},
 	"iceblade_ice": {
 		"name": "Aile inflexible",
@@ -5462,7 +5462,7 @@
 		],
 		"id": "iceblade_ice"
 	},
-	"Snipe_fire": {
+	"snipe_fire": {
 		"name": "Croix de trèfle",
 		"avatar": {
 			"name": "Annabella",
@@ -5636,7 +5636,7 @@
 				"need": "Snipe_fire_plasm"
 			}
 		],
-		"id": "Snipe_fire"
+		"id": "snipe_fire"
 	},
 	"brush_fire": {
 		"name": "Comète de pin",
@@ -5843,12 +5843,12 @@
 		],
 		"id": "brush_fire"
 	},
-	"Whip_physic": {
+	"whip_physic": {
 		"name": "Mobius",
 		"avatar": {
 			"name": "Umi",
 			"advanceId": "imitation_31L1",
-			"weapon": "Whip_physic",
+			"weapon": "whip_physic",
 			"icon": "imitation_31",
 			"avatarID": "wumi",
 			"age": "20 octobre",
@@ -6039,7 +6039,7 @@
 				"need": "Whip_physic_plasm"
 			}
 		],
-		"id": "Whip_physic"
+		"id": "whip_physic"
 	},
 	"feise_fire": {
 		"name": "Floraison éternelle",
@@ -6627,12 +6627,12 @@
 		],
 		"id": "umbrella_fire"
 	},
-	"Yoyo_ice": {
+	"yoyo_ice": {
 		"name": "Le Précieux",
 		"avatar": {
 			"name": "Icarus",
 			"advanceId": "imitation_35L1",
-			"weapon": "Yoyo_ice",
+			"weapon": "yoyo_ice",
 			"icon": "imitation_35",
 			"avatarID": "yikaluosi",
 			"age": "24 octobre",
@@ -6813,7 +6813,7 @@
 				"need": "Yoyo_ice_plasm"
 			}
 		],
-		"id": "Yoyo_ice"
+		"id": "yoyo_ice"
 	},
 	"yulan_ice": {
 		"name": "Unité",
@@ -7032,12 +7032,12 @@
 		],
 		"id": "yulan_ice"
 	},
-	"Zeke_physic": {
+	"zeke_physic": {
 		"name": "Tortue d'onyx",
 		"avatar": {
 			"name": "Ming Jing",
 			"advanceId": "imitation_50L1",
-			"weapon": "Zeke_physic",
+			"weapon": "zeke_physic",
 			"icon": "imitation_50",
 			"avatarID": "mingjing",
 			"age": "12novembre",
@@ -7224,7 +7224,7 @@
 				"need": "Zeke_physic_plasm"
 			}
 		],
-		"id": "Zeke_physic"
+		"id": "zeke_physic"
 	},
 	"queen_superpower": {
 		"name": "Bracelet lunétoile",

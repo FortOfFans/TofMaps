@@ -1,42 +1,42 @@
 {
 	"1002": {
-		"description": "Dispara <shuzhi>2</> misiles con cada ataque que infligen daño al objetivo. Cada misil inflige daño igual al <shuzhi>34.8%</> del ATQ.",
+		"description": "Dispara **2** misiles con cada ataque que infligen daño al objetivo. Cada misil inflige daño igual al **34.8%** del ATQ.",
 		"id": "artifact_adv_030"
 	},
 	"1004": {
-		"description": "Reduce el enfriamiento a <shuzhi>200</> segundos.     ",
+		"description": "Reduce el enfriamiento a **200** segundos.     ",
 		"id": "artifact_adv_030"
 	},
 	"1005": {
-		"description": "Dispara <shuzhi>4</> misiles con cada ataque, los que infligen daño al objetivo. Cada misil inflige daño equivalente al <shuzhi>34.8%</> del ATQ.",
+		"description": "Dispara **4** misiles con cada ataque, los que infligen daño al objetivo. Cada misil inflige daño equivalente al **34.8%** del ATQ.",
 		"id": "artifact_adv_030"
 	},
 	"1006": {
-		"description": "Reduce el daño físico recibido en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Reduce el daño físico recibido en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_030"
 	},
 	"1007": {
-		"description": "Brazo de Coloso dura <shuzhi>30</> segundos. Todo el daño recibido durante este periodo se reduce en un <shuzhi>20%</>.",
+		"description": "Brazo de Coloso dura **30** segundos. Todo el daño recibido durante este periodo se reduce en un **20%**.",
 		"id": "artifact_adv_030"
 	},
 	"1008": {
-		"description": "Ralentiza en un <shuzhi>50%</> a los enemigos que atraviesen el escudo durante <shuzhi>2</> segundos.",
+		"description": "Ralentiza en un **50%** a los enemigos que atraviesen el escudo durante **2** segundos.",
 		"id": "artifact_adv_029"
 	},
 	"1011": {
-		"description": "Reduce el enfriamiento a <shuzhi>60</> segundos.     ",
+		"description": "Reduce el enfriamiento a **60** segundos.     ",
 		"id": "artifact_adv_029"
 	},
 	"1012": {
-		"description": "Extiende la duración a <shuzhi>20</> segundos.     ",
+		"description": "Extiende la duración a **20** segundos.     ",
 		"id": "artifact_adv_029"
 	},
 	"1013": {
-		"description": "Reduce el daño de escarcha recibido en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Reduce el daño de escarcha recibido en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_029"
 	},
 	"1014": {
-		"description": "Cuando los nómadas o sus aliados atraviesen el Escudo de Omnio, el daño infligido aumenta en un <shuzhi>25%</> durante <shuzhi>7</> segundos.",
+		"description": "Cuando los nómadas o sus aliados atraviesen el Escudo de Omnio, el daño infligido aumenta en un **25%** durante **7** segundos.",
 		"id": "artifact_adv_029"
 	},
 	"1015": {
@@ -65,7 +65,7 @@
 		"id": "artifact_adv_027"
 	},
 	"1023": {
-		"description": "Otorga la habilidad <yellow_lbl_14_1>Fuego de Artillería</>.\r\n<yellow_lbl_14_1>Fuego de Artillería</>: dispara <shuzhi>6</> veces al objetivo fijado. Cada golpe inflige daño equivalente al <shuzhi>155.2%</> del ATQ.",
+		"description": "Otorga la habilidad **Fuego de Artillería**.\r\n**Fuego de Artillería**: dispara **6** veces al objetivo fijado. Cada golpe inflige daño equivalente al **155.2%** del ATQ.",
 		"id": "artifact_adv_027"
 	},
 	"1026": {
@@ -73,27 +73,27 @@
 		"id": "artifact_adv_027"
 	},
 	"1027": {
-		"description": "Aumenta el daño de fuego en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de fuego en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_027"
 	},
 	"1028": {
-		"description": "Otorga la habilidad de <yellow_lbl_14_1>Dominio de Llama</>.\r\n<yellow_lbl_14_1>Dominio de Llama</>: genera un Dominio de Llama de gran alcance en la ubicación actual, el cual inflige daño equivalente a un máximo del <shuzhi>1146.8%</> del ATQ.",
+		"description": "Otorga la habilidad de **Dominio de Llama**.\r\n**Dominio de Llama**: genera un Dominio de Llama de gran alcance en la ubicación actual, el cual inflige daño equivalente a un máximo del **1146.8%** del ATQ.",
 		"id": "artifact_adv_027"
 	},
 	"1029": {
-		"description": "Los enemigos que estén dentro de la grieta no podrán esquivar, y la duración del vacío aumenta a <shuzhi>15</> segundos. ",
+		"description": "Los enemigos que estén dentro de la grieta no podrán esquivar, y la duración del vacío aumenta a **15** segundos. ",
 		"id": "artifact_adv_026"
 	},
 	"1030": {
-		"description": "Aumenta el área objetivo en un <shuzhi>100%</>.     ",
+		"description": "Aumenta el área objetivo en un **100%**.     ",
 		"id": "artifact_adv_026"
 	},
 	"1032": {
-		"description": "Aumenta el daño infligido a los objetivos en el área en un <shuzhi>20%</>.  ",
+		"description": "Aumenta el daño infligido a los objetivos en el área en un **20%**.  ",
 		"id": "artifact_adv_026"
 	},
 	"1034": {
-		"description": "Reduce el daño de fuego recibido en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Reduce el daño de fuego recibido en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_026"
 	},
 	"1035": {
@@ -101,23 +101,23 @@
 		"id": "artifact_adv_026"
 	},
 	"1036": {
-		"description": "Aturde a los objetivos por <shuzhi>3</> segundos. Enfriamiento: <shuzhi>180</> segundos. ",
+		"description": "Aturde a los objetivos por **3** segundos. Enfriamiento: **180** segundos. ",
 		"id": "artifact_adv_025"
 	},
 	"1037": {
-		"description": "Aumenta el daño infligido por los pulsos de energía en un <shuzhi>30%</>. ",
+		"description": "Aumenta el daño infligido por los pulsos de energía en un **30%**. ",
 		"id": "artifact_adv_025"
 	},
 	"1039": {
-		"description": "Reduce el enfriamiento a <shuzhi>120</> segundos.     ",
+		"description": "Reduce el enfriamiento a **120** segundos.     ",
 		"id": "artifact_adv_025"
 	},
 	"1041": {
-		"description": "Aumenta el daño físico en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño físico en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_025"
 	},
 	"1042": {
-		"description": "Activa una oleada sísmica cada <shuzhi>3</> seg y <shuzhi>suspende al objetivo</>. Las oleadas se pueden evadir saltando.",
+		"description": "Activa una oleada sísmica cada **3**seg y **suspende al objetivo**. Las oleadas se pueden evadir saltando.",
 		"id": "artifact_adv_025"
 	},
 	"1043": {
@@ -142,23 +142,23 @@
 		"id": "artifact_adv_024"
 	},
 	"1050": {
-		"description": "Elimina todos los efectos de control y otorga inmunidad a los efectos de control durante los próximos <shuzhi>5</> seg. ",
+		"description": "Elimina todos los efectos de control y otorga inmunidad a los efectos de control durante los próximos **5**seg. ",
 		"id": "artifact_adv_023"
 	},
 	"1053": {
-		"description": "Extiende la duración a <shuzhi>25</> segundos.   ",
+		"description": "Extiende la duración a **25** segundos.   ",
 		"id": "artifact_adv_023"
 	},
 	"1054": {
-		"description": "Cada <shuzhi>5</> segundos, otorga una acumulación de inspiración a los nómadas, lo que aumenta el daño infligido en un <shuzhi>5%</> por cada acumulación.",
+		"description": "Cada **5** segundos, otorga una acumulación de inspiración a los nómadas, lo que aumenta el daño infligido en un **5%** por cada acumulación.",
 		"id": "artifact_adv_023"
 	},
 	"1055": {
-		"description": "Reduce el daño eléctrico recibido en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Reduce el daño eléctrico recibido en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_023"
 	},
 	"1056": {
-		"description": "Los ataques del nómada convierten <shuzhi>20%</> del daño infligido en PS durante la duración del dron.",
+		"description": "Los ataques del nómada convierten **20%** del daño infligido en PS durante la duración del dron.",
 		"id": "artifact_adv_023"
 	},
 	"1057": {
@@ -183,11 +183,11 @@
 		"id": "artifact_adv_022"
 	},
 	"1064": {
-		"description": "Extiende la duración a <shuzhi>20</> segundos.     ",
+		"description": "Extiende la duración a **20** segundos.     ",
 		"id": "artifact_adv_021"
 	},
 	"1067": {
-		"description": "Aumenta el daño infligido por hologramas a un <shuzhi>75%</> del daño del nómada.",
+		"description": "Aumenta el daño infligido por hologramas a un **75%** del daño del nómada.",
 		"id": "artifact_adv_021"
 	},
 	"1068": {
@@ -195,11 +195,11 @@
 		"id": "artifact_adv_021"
 	},
 	"1069": {
-		"description": "Aumenta el daño eléctrico en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño eléctrico en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_021"
 	},
 	"1070": {
-		"description": "Aumenta el daño infligido por hologramas a un <shuzhi>100%</> del daño del nómada. Transportarse elimina los efectos de control.",
+		"description": "Aumenta el daño infligido por hologramas a un **100%** del daño del nómada. Transportarse elimina los efectos de control.",
 		"id": "artifact_adv_021"
 	},
 	"1071": {
@@ -245,23 +245,23 @@
 		"id": "artifact_adv_019"
 	},
 	"1085": {
-		"description": "El Cañón Flotante dura <shuzhi>24</> segundos.   ",
+		"description": "El Cañón Flotante dura **24** segundos.   ",
 		"id": "artifact_adv_018"
 	},
 	"1088": {
-		"description": "Otorga la habilidad <yellow_lbl_14_1>Matriz de láser</>: congela a los objetivos tras infligirles daño <shuzhi>4</> veces seguidas, e inflige daño equivalente a un máximo del <shuzhi>93.2%</> del ATQ.",
+		"description": "Otorga la habilidad **Matriz de láser**: congela a los objetivos tras infligirles daño **4** veces seguidas, e inflige daño equivalente a un máximo del **93.2%** del ATQ.",
 		"id": "artifact_adv_018"
 	},
 	"1089": {
-		"description": "Reduce el enfriamiento a <shuzhi>150</> segundos.     ",
+		"description": "Reduce el enfriamiento a **150** segundos.     ",
 		"id": "artifact_adv_018"
 	},
 	"1090": {
-		"description": "Aumenta el daño de escarcha en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en un la Liga Ápex.",
+		"description": "Aumenta el daño de escarcha en un **1.5%**, incluso sin despliegue. No está disponible en un la Liga Ápex.",
 		"id": "artifact_adv_018"
 	},
 	"1091": {
-		"description": "Otorga la habilidad <yellow_lbl_14_1>Choque</>: inflige daño equivalente al <shuzhi>55.9%</> del ATQ al objetivo y lo aturde por <shuzhi>0.5</> segundos.",
+		"description": "Otorga la habilidad **Choque**: inflige daño equivalente al **55.9%** del ATQ al objetivo y lo aturde por **0.5** segundos.",
 		"id": "artifact_adv_018"
 	},
 	"1092": {
@@ -307,83 +307,83 @@
 		"id": "artifact_adv_016"
 	},
 	"1107": {
-		"description": "Recupera 1 carga cada <shuzhi>100</> segundos. Planear ya no gasta resistencia.",
+		"description": "Recupera 1 carga cada **100** segundos. Planear ya no gasta resistencia.",
 		"id": "artifact_adv_015"
 	},
 	"1109": {
-		"description": "Planear por más de 3 seg permite que el siguiente ataque de aplastamiento aturda al objetivo por 2 seg.",
+		"description": "Planear por más de 3seg permite que el siguiente ataque de aplastamiento aturda al objetivo por 2seg.",
 		"id": "artifact_adv_015"
 	},
 	"1110": {
-		"description": "Recupera <shuzhi>1</> carga cada 60 segundos.",
+		"description": "Recupera **1** carga cada 60 segundos.",
 		"id": "artifact_adv_015"
 	},
 	"1111": {
-		"description": "Reduce el daño físico recibido en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Reduce el daño físico recibido en un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_015"
 	},
 	"1112": {
-		"description": "Acumula hasta <shuzhi>3</> cargas.   ",
+		"description": "Acumula hasta **3** cargas.   ",
 		"id": "artifact_adv_015"
 	},
 	"1114": {
-		"description": "Los golpes <shuzhi>aturden</> a los objetivos por <shuzhi>2</> segundos y los queman. ",
+		"description": "Los golpes **aturden** a los objetivos por **2** segundos y los queman. ",
 		"id": "artifact_adv_014"
 	},
 	"1116": {
-		"description": "Aumenta el alcance de la explosión en un <shuzhi>50%</>.     ",
+		"description": "Aumenta el alcance de la explosión en un **50%**.     ",
 		"id": "artifact_adv_014"
 	},
 	"1117": {
-		"description": "Reduce el enfriamiento a <shuzhi>30</> segundos.     ",
+		"description": "Reduce el enfriamiento a **30** segundos.     ",
 		"id": "artifact_adv_014"
 	},
 	"1118": {
-		"description": "Aumenta el daño de fuego un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de fuego un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_014"
 	},
 	"1119": {
-		"description": "Los golpes <shuzhi>aturden</> a los objetivos por <shuzhi>3</> segundos y los cansan durante <shuzhi>10</> segundos, lo cual causa que los objetivos pierdan <shuzhi>100</> de resistencia luego de cada uso de habilidad.",
+		"description": "Los golpes **aturden** a los objetivos por **3** segundos y los cansan durante **10** segundos, lo cual causa que los objetivos pierdan **100** de resistencia luego de cada uso de habilidad.",
 		"id": "artifact_adv_014"
 	},
 	"1121": {
-		"description": "Obtén <shuzhi>10</> puntos de carga de arma cada segundo al planear.",
+		"description": "Obtén **10** puntos de carga de arma cada segundo al planear.",
 		"id": "artifact_adv_013"
 	},
 	"1123": {
-		"description": "Reduce el tiempo de carga a <shuzhi>60</> segundos.     ",
+		"description": "Reduce el tiempo de carga a **60** segundos.     ",
 		"id": "artifact_adv_013"
 	},
 	"1124": {
-		"description": "Aumenta el daño de choques con Deslizador en un <shuzhi>100%</>, y el tiempo de carga se reduce a <shuzhi>45</> segundos. ",
+		"description": "Aumenta el daño de choques con Deslizador en un **100%**, y el tiempo de carga se reduce a **45** segundos. ",
 		"id": "artifact_adv_013"
 	},
 	"1125": {
-		"description": "Reduce el daño de escarcha recibido en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Reduce el daño de escarcha recibido en un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_013"
 	},
 	"1126": {
-		"description": "Inmune a los efectos de control mientras utilizas el deslizador. El deslizador sirve para atacar y golpear objetivos, lo que los <shuzhi>aturde</> por <shuzhi>5</> seg. El tiempo de carga se reduce a <shuzhi>30</> seg.",
+		"description": "Inmune a los efectos de control mientras utilizas el deslizador. El deslizador sirve para atacar y golpear objetivos, lo que los **aturde** por **5**seg. El tiempo de carga se reduce a **30**seg.",
 		"id": "artifact_adv_013"
 	},
 	"1127": {
-		"description": "Desata <shuzhi>2</> tornados eléctricos.   ",
+		"description": "Desata **2** tornados eléctricos.   ",
 		"id": "artifact_adv_012"
 	},
 	"1128": {
-		"description": "Aumenta el daño de tornado en un <shuzhi>20%</>.     ",
+		"description": "Aumenta el daño de tornado en un **20%**.     ",
 		"id": "artifact_adv_012"
 	},
 	"1131": {
-		"description": "Desata <shuzhi>3</> tornados eléctricos.  ",
+		"description": "Desata **3** tornados eléctricos.  ",
 		"id": "artifact_adv_012"
 	},
 	"1132": {
-		"description": "Aumenta el daño eléctrico en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño eléctrico en un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_012"
 	},
 	"1133": {
-		"description": "Quienes queden atrapados en tornados tienen una probabilidad del <shuzhi>50%</> de quedar aturdidos durante <shuzhi>3</> segundos cada vez que reciban daño. Además, se intercambiarán los comandos de dirección de movimiento.",
+		"description": "Quienes queden atrapados en tornados tienen una probabilidad del **50%** de quedar aturdidos durante **3** segundos cada vez que reciban daño. Además, se intercambiarán los comandos de dirección de movimiento.",
 		"id": "artifact_adv_012"
 	},
 	"1134": {
@@ -408,23 +408,23 @@
 		"id": "artifact_adv_011"
 	},
 	"1141": {
-		"description": "El estado cuántico dura <shuzhi>20</> segundos.         ",
+		"description": "El estado cuántico dura **20** segundos.         ",
 		"id": "artifact_adv_010"
 	},
 	"1142": {
-		"description": "Reduce el enfriamiento a <shuzhi>80</> segundos.          ",
+		"description": "Reduce el enfriamiento a **80** segundos.          ",
 		"id": "artifact_adv_010"
 	},
 	"1144": {
-		"description": "+<shuzhi>100%</> de daño en estado cuántico, negado luego de <shuzhi>1</> ataque exitoso.",
+		"description": "+**100%** de daño en estado cuántico, negado luego de **1** ataque exitoso.",
 		"id": "artifact_adv_010"
 	},
 	"1146": {
-		"description": "Aumenta el daño eléctrico en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño eléctrico en un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_010"
 	},
 	"1147": {
-		"description": "+<shuzhi>100%</> de daño en estado cuántico, negado luego de <shuzhi>3</> ataques exitosos.",
+		"description": "+**100%** de daño en estado cuántico, negado luego de **3** ataques exitosos.",
 		"id": "artifact_adv_010"
 	},
 	"1148": {
@@ -432,15 +432,15 @@
 		"id": "artifact_adv_009"
 	},
 	"1151": {
-		"description": "Aumenta el daño del Lanzamisiles en un <shuzhi>20%</>.     ",
+		"description": "Aumenta el daño del Lanzamisiles en un **20%**.     ",
 		"id": "artifact_adv_009"
 	},
 	"1152": {
-		"description": "Lanzamisiles dura <shuzhi>12</> segundos.     ",
+		"description": "Lanzamisiles dura **12** segundos.     ",
 		"id": "artifact_adv_009"
 	},
 	"1153": {
-		"description": "Aumenta el daño físico en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño físico en un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_009"
 	},
 	"1154": {
@@ -448,23 +448,23 @@
 		"id": "artifact_adv_009"
 	},
 	"1155": {
-		"description": "Produce un Escudo Magnético que reduce el daño recibido en un <shuzhi>20%</> por <shuzhi>7</> segundos.",
+		"description": "Produce un Escudo Magnético que reduce el daño recibido en un **20%** por **7** segundos.",
 		"id": "artifact_adv_008"
 	},
 	"1156": {
-		"description": "Recupera <shuzhi>1</> carga cada <shuzhi>15</> segundos.  ",
+		"description": "Recupera **1** carga cada **15** segundos.  ",
 		"id": "artifact_adv_008"
 	},
 	"1159": {
-		"description": "Acumula hasta <shuzhi>3</> cargas.",
+		"description": "Acumula hasta **3** cargas.",
 		"id": "artifact_adv_008"
 	},
 	"1160": {
-		"description": "Aumenta el daño de escarcha en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en un la Liga Ápex.",
+		"description": "Aumenta el daño de escarcha en un **1.5%**, incluso sin despliegue. No está disponible en un la Liga Ápex.",
 		"id": "artifact_adv_008"
 	},
 	"1161": {
-		"description": "Reduce el daño final de los objetivos golpeados en un <shuzhi>30%</> durante <shuzhi>7</> segundos.",
+		"description": "Reduce el daño final de los objetivos golpeados en un **30%** durante **7** segundos.",
 		"id": "artifact_adv_008"
 	},
 	"1162": {
@@ -472,15 +472,15 @@
 		"id": "artifact_adv_007"
 	},
 	"1165": {
-		"description": "Otorga inmunidad a los efectos de control por los siguientes <shuzhi>5</> segundos.",
+		"description": "Otorga inmunidad a los efectos de control por los siguientes **5** segundos.",
 		"id": "artifact_adv_007"
 	},
 	"1166": {
-		"description": "Al impactar al objetivo, coloca una Bomba Magnética de <shuzhi>7</> segundos que detona si el objetivo utiliza ataques normales/evasión/habilidades, y ralentiza un <shuzhi>40%</> por <shuzhi>5</> segundos. Desaparece luego de detonar.",
+		"description": "Al impactar al objetivo, coloca una Bomba Magnética de **7** segundos que detona si el objetivo utiliza ataques normales/evasión/habilidades, y ralentiza un **40%** por **5** segundos. Desaparece luego de detonar.",
 		"id": "artifact_adv_007"
 	},
 	"1167": {
-		"description": "Reduce el daño eléctrico recibido en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Reduce el daño eléctrico recibido en un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_007"
 	},
 	"1168": {
@@ -542,31 +542,31 @@
 		"id": "artifact_adv_001"
 	},
 	"1188": {
-		"description": "Al romper el escudo, reduce la velocidad del atacante y de los enemigos cercanos un <shuzhi>35%</> durante <shuzhi>6</> seg.",
+		"description": "Al romper el escudo, reduce la velocidad del atacante y de los enemigos cercanos un **35%** durante **6**seg.",
 		"id": "artifact_adv_031"
 	},
 	"1190": {
-		"description": "Después de que el escudo se rompa o termine, aumenta el daño final en una cantidad igual al porcentaje de PS perdidos. Esto dura <shuzhi>10</> seg. Aumenta el daño un mínimo a <shuzhi>30%</>.",
+		"description": "Después de que el escudo se rompa o termine, aumenta el daño final en una cantidad igual al porcentaje de PS perdidos. Esto dura **10**seg. Aumenta el daño un mínimo a **30%**.",
 		"id": "artifact_adv_031"
 	},
 	"1191": {
-		"description": "Después de que el escudo se rompa o termine, aumenta la velocidad un <shuzhi>30%</> por <shuzhi>6</> seg.",
+		"description": "Después de que el escudo se rompa o termine, aumenta la velocidad un **30%** por **6**seg.",
 		"id": "artifact_adv_031"
 	},
 	"1192": {
-		"description": "Reduce el daño de fuego recibido en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Reduce el daño de fuego recibido en un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_031"
 	},
 	"1193": {
-		"description": "Cuando el escudo se rompe, obtienes un efecto de reflejo de daño de <shuzhi>5</> seg, que refleja ×<shuzhi>0.6</> veces el daño recibido hacia el atacante.",
+		"description": "Cuando el escudo se rompe, obtienes un efecto de reflejo de daño de **5**seg, que refleja ×**0.6** veces el daño recibido hacia el atacante.",
 		"id": "artifact_adv_031"
 	},
 	"1195": {
-		"description": "Los nómadas aliados en la dimensión recuperan un <shuzhi>15%</> de sus PS <shuzhi>8</> segundos después.",
+		"description": "Los nómadas aliados en la dimensión recuperan un **15%** de sus PS **8** segundos después.",
 		"id": "artifact_adv_032"
 	},
 	"1196": {
-		"description": "Las unidades aliadas de la dimensión ganan <shuzhi>25%</> de robo de vida.",
+		"description": "Las unidades aliadas de la dimensión ganan **25%** de robo de vida.",
 		"id": "artifact_adv_032"
 	},
 	"1199": {
@@ -574,51 +574,51 @@
 		"id": "artifact_adv_032"
 	},
 	"1200": {
-		"description": "Aumenta el daño de escarcha un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de escarcha un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_032"
 	},
 	"1201": {
-		"description": "Hasta que la reliquia desaparezca, los Nómadas aliados en la dimensión duplican todos los efectos de robo de vida cuando los PS disminuyen por debajo del <shuzhi>40%</>.",
+		"description": "Hasta que la reliquia desaparezca, los Nómadas aliados en la dimensión duplican todos los efectos de robo de vida cuando los PS disminuyen por debajo del **40%**.",
 		"id": "artifact_adv_032"
 	},
 	"1202": {
-		"description": "Tras activar Cubo Extraño, aumenta el daño infligido un <shuzhi>10%</> por <shuzhi>10</> seg.",
+		"description": "Tras activar Cubo Extraño, aumenta el daño infligido un **10%** por **10**seg.",
 		"id": "artifact_adv_033"
 	},
 	"1205": {
-		"description": "Al activar el Cubo Extraño, reduce la carga de arma de los enemigos cercanos en <shuzhi>200</>.",
+		"description": "Al activar el Cubo Extraño, reduce la carga de arma de los enemigos cercanos en **200**.",
 		"id": "artifact_adv_033"
 	},
 	"1206": {
-		"description": "Aumenta a <shuzhi>2</> los usos del Cubo extraño.",
+		"description": "Aumenta a **2** los usos del Cubo extraño.",
 		"id": "artifact_adv_033"
 	},
 	"1207": {
-		"description": "Aumenta el daño eléctrico en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño eléctrico en un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_033"
 	},
 	"1208": {
-		"description": "Luego de activar el Cubo Extraño, recibe carga de arma según los PS perdidos. Por cada <shuzhi>1%</> de PS perdidos, recibe <shuzhi>10</> de carga de arma.",
+		"description": "Luego de activar el Cubo Extraño, recibe carga de arma según los PS perdidos. Por cada **1%** de PS perdidos, recibe **10** de carga de arma.",
 		"id": "artifact_adv_033"
 	},
 	"1209": {
-		"description": "Aumenta la duración de pilares de energía a <shuzhi>30</> segundos.",
+		"description": "Aumenta la duración de pilares de energía a **30** segundos.",
 		"id": "artifact_adv_035"
 	},
 	"1212": {
-		"description": "Aumenta la velocidad de regeneración de resistencia un 30% por <shuzhi>20</> segundos luego de cambiar a la Cañón de Omnio.",
+		"description": "Aumenta la velocidad de regeneración de resistencia un 30% por **20** segundos luego de cambiar a la Cañón de Omnio.",
 		"id": "artifact_adv_035"
 	},
 	"1213": {
-		"description": "Acumula hasta <shuzhi>3</> cargas",
+		"description": "Acumula hasta **3** cargas",
 		"id": "artifact_adv_035"
 	},
 	"1214": {
-		"description": "Aumenta el daño de fuego un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de fuego un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_035"
 	},
 	"1215": {
-		"description": "Reduce el tiempo de carga a <shuzhi>40</> segundos.",
+		"description": "Reduce el tiempo de carga a **40** segundos.",
 		"id": "artifact_adv_035"
 	},
 	"1216": {
@@ -682,83 +682,83 @@
 		"id": "breakfate_artifact_sr_015_star"
 	},
 	"1236": {
-		"description": "Otorga <shuzhi>100</> de energía inmediatamente al usarlo si los PS son mayores al <shuzhi>90%</>. Si los PS son inferiores al <shuzhi>90%</>, otorga inmediatamente <shuzhi>50</> puntos de energía y luego <shuzhi>50</> más al expirar el aumento de daño.",
+		"description": "Otorga **100** de energía inmediatamente al usarlo si los PS son mayores al **90%**. Si los PS son inferiores al **90%**, otorga inmediatamente **50** puntos de energía y luego **50** más al expirar el aumento de daño.",
 		"id": "artifact_adv_036"
 	},
 	"1237": {
-		"description": "Aumenta a <shuzhi>12</> segundos la duración del refuerzo de daño del Couant Tipo II.",
+		"description": "Aumenta a **12** segundos la duración del refuerzo de daño del Couant Tipo II.",
 		"id": "artifact_adv_036"
 	},
 	"1238": {
-		"description": "Aumenta el límite del refuerzo de daño del Couant Tipo II a un <shuzhi>70%</>.",
+		"description": "Aumenta el límite del refuerzo de daño del Couant Tipo II a un **70%**.",
 		"id": "artifact_adv_036"
 	},
 	"1239": {
-		"description": "Aumenta el daño de fuego en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de fuego en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_036"
 	},
 	"1240": {
-		"description": "Si la cantidad de PS perdidos son mayores a los PS actuales, otorga un refuerzo de daño basado en el porcentaje de PS perdidos (hasta un <shuzhi>70%</>).",
+		"description": "Si la cantidad de PS perdidos son mayores a los PS actuales, otorga un refuerzo de daño basado en el porcentaje de PS perdidos (hasta un **70%**).",
 		"id": "artifact_adv_036"
 	},
 	"1241": {
-		"description": "Al romper el escudo, reduce la velocidad del atacante y de los enemigos cercanos un <shuzhi>35%</> durante <shuzhi>6</> seg.",
+		"description": "Al romper el escudo, reduce la velocidad del atacante y de los enemigos cercanos un **35%** durante **6**seg.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1242": {
-		"description": "Después de que el escudo se rompa o termine, aumenta el daño final un <shuzhi>20%</> por <shuzhi>10</> seg.",
+		"description": "Después de que el escudo se rompa o termine, aumenta el daño final un **20%** por **10**seg.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1243": {
-		"description": "Después de que el escudo se rompa o termine, aumenta la velocidad un <shuzhi>30%</> por <shuzhi>6</> seg.",
+		"description": "Después de que el escudo se rompa o termine, aumenta la velocidad un **30%** por **6**seg.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1244": {
-		"description": "Reduce el daño de fuego recibido en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Reduce el daño de fuego recibido en un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1245": {
-		"description": "Cuando el escudo se rompe, obtienes un efecto de reflejo de daño de <shuzhi>5</> seg, que refleja ×<shuzhi>0.6</> veces el daño recibido hacia el atacante.",
+		"description": "Cuando el escudo se rompe, obtienes un efecto de reflejo de daño de **5**seg, que refleja ×**0.6** veces el daño recibido hacia el atacante.",
 		"id": "artifact_adv_031_OS"
 	},
 	"1246": {
-		"description": "Desata <shuzhi>2</> tornados eléctricos.   ",
+		"description": "Desata **2** tornados eléctricos.   ",
 		"id": "artifact_adv_012_OS"
 	},
 	"1247": {
-		"description": "Aumenta el daño de tornado en un <shuzhi>20%</>.     ",
+		"description": "Aumenta el daño de tornado en un **20%**.     ",
 		"id": "artifact_adv_012_OS"
 	},
 	"1248": {
-		"description": "Desata <shuzhi>3</> tornados eléctricos.  ",
+		"description": "Desata **3** tornados eléctricos.  ",
 		"id": "artifact_adv_012_OS"
 	},
 	"1249": {
-		"description": "Aumenta el daño eléctrico en un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño eléctrico en un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1250": {
-		"description": "Quienes queden atrapados en tornados tienen una probabilidad del <shuzhi>50%</> de quedar aturdidos durante <shuzhi>3</> segundos cada vez que reciban daño. Además, se intercambiarán los comandos de dirección de movimiento.",
+		"description": "Quienes queden atrapados en tornados tienen una probabilidad del **50%** de quedar aturdidos durante **3** segundos cada vez que reciban daño. Además, se intercambiarán los comandos de dirección de movimiento.",
 		"id": "artifact_adv_012_OS"
 	},
 	"1251": {
-		"description": "Los golpes <shuzhi>aturden</> a los objetivos por <shuzhi>2</> segundos y los queman. ",
+		"description": "Los golpes **aturden** a los objetivos por **2** segundos y los queman. ",
 		"id": "artifact_adv_014_OS"
 	},
 	"1252": {
-		"description": "Aumenta el alcance de la explosión en un <shuzhi>50%</>.     ",
+		"description": "Aumenta el alcance de la explosión en un **50%**.     ",
 		"id": "artifact_adv_014_OS"
 	},
 	"1253": {
-		"description": "Reduce el enfriamiento a <shuzhi>30</> segundos.     ",
+		"description": "Reduce el enfriamiento a **30** segundos.     ",
 		"id": "artifact_adv_014_OS"
 	},
 	"1254": {
-		"description": "Aumenta el daño de fuego un <shuzhi>1.5%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de fuego un **1.5%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_014_OS"
 	},
 	"1255": {
-		"description": "Los golpes <shuzhi>aturden</> a los objetivos por <shuzhi>3</> segundos y los cansan durante <shuzhi>10</> segundos, lo cual causa que los objetivos pierdan <shuzhi>100</> de resistencia luego de cada uso de habilidad.",
+		"description": "Los golpes **aturden** a los objetivos por **3** segundos y los cansan durante **10** segundos, lo cual causa que los objetivos pierdan **100** de resistencia luego de cada uso de habilidad.",
 		"id": "artifact_adv_014_OS"
 	},
 	"1256": {
@@ -774,7 +774,7 @@
 		"id": "artifact_adv_037"
 	},
 	"1259": {
-		"description": "Aumenta el daño de fuego en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de fuego en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_037"
 	},
 	"1260": {
@@ -786,31 +786,31 @@
 		"id": "breakfate_artifact_sr_017_star"
 	},
 	"1262": {
-		"description": "Reduce la disponibilidad de cada dado a <shuzhi>20</> segundos.",
+		"description": "Reduce la disponibilidad de cada dado a **20** segundos.",
 		"id": "artifact_adv_038"
 	},
 	"1263": {
-		"description": "Refuerzo de daño de <shuzhi>Termonuclear</>: Obtienes un aumento de daño de <shuzhi>25%</> por <shuzhi>45</> segundos.",
+		"description": "Refuerzo de daño de **Termonuclear**: Obtienes un aumento de daño de **25%** por **45** segundos.",
 		"id": "artifact_adv_038"
 	},
 	"1264": {
-		"description": "Tras cada tirada de dados, hay un <shuzhi>50%</> de probabilidad de obtener 1 dado. Enfriamiento: <shuzhi>15</> segundos.",
+		"description": "Tras cada tirada de dados, hay un **50%** de probabilidad de obtener 1 dado. Enfriamiento: **15** segundos.",
 		"id": "artifact_adv_038"
 	},
 	"1265": {
-		"description": "Aumenta el daño de escarcha un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de escarcha un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_038"
 	},
 	"1266": {
-		"description": "Si tiras <shuzhi>3 dados</>, se otorgarán todos los refuerzos de daño elemental. Si su suma es <shuzhi>14</> o más, obtienes el efecto de <shuzhi>Overclocking</>.",
+		"description": "Si tiras **3 dados**, se otorgarán todos los refuerzos de daño elemental. Si su suma es **14** o más, obtienes el efecto de **Overclocking**.",
 		"id": "artifact_adv_038"
 	},
 	"1267": {
-		"description": "Extiende la duración a <shuzhi>20</> segundos.     ",
+		"description": "Extiende la duración a **20** segundos.     ",
 		"id": "artifact_adv_021_OS"
 	},
 	"1268": {
-		"description": "Reduce el enfriamiento a <shuzhi>120</> seg.",
+		"description": "Reduce el enfriamiento a **120**seg.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1269": {
@@ -818,15 +818,15 @@
 		"id": "artifact_adv_021_OS"
 	},
 	"1270": {
-		"description": "Aumenta el daño eléctrico en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño eléctrico en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1271": {
-		"description": "Aumenta el daño infligido por hologramas a un <shuzhi>50%</> del daño del Nómada. Transportarse elimina los efectos de control.",
+		"description": "Aumenta el daño infligido por hologramas a un **50%** del daño del Nómada. Transportarse elimina los efectos de control.",
 		"id": "artifact_adv_021_OS"
 	},
 	"1272": {
-		"description": "Reduce el enfriamiento a <shuzhi>60</> seg.   ",
+		"description": "Reduce el enfriamiento a **60**seg.   ",
 		"id": "artifact_adv_039"
 	},
 	"1273": {
@@ -834,131 +834,131 @@
 		"id": "artifact_adv_039"
 	},
 	"1274": {
-		"description": "El Minipelícano puede almacenar hasta <shuzhi>3</> cargas.",
+		"description": "El Minipelícano puede almacenar hasta **3** cargas.",
 		"id": "artifact_adv_039"
 	},
 	"1275": {
-		"description": "Aumenta el daño eléctrico en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño eléctrico en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_039"
 	},
 	"1276": {
-		"description": "Reduce el enfriamiento a <shuzhi>30</> seg y desbloquea la pintura de Minipelícano: <shuzhi>Pigmentación</>.",
+		"description": "Reduce el enfriamiento a **30**seg y desbloquea la pintura de Minipelícano: **Pigmentación**.",
 		"id": "artifact_adv_039"
 	},
 	"1277": {
-		"description": "Otorga <shuzhi>5</> dosis cada vez.",
+		"description": "Otorga **5** dosis cada vez.",
 		"id": "artifact_adv_040"
 	},
 	"1278": {
-		"description": "Mientras <shuzhi>Microataque</> está activado, aumenta el daño infligido a los objetivos graves un <shuzhi>20%</>.",
+		"description": "Mientras **Microataque** está activado, aumenta el daño infligido a los objetivos graves un **20%**.",
 		"id": "artifact_adv_040"
 	},
 	"1279": {
-		"description": "Reduce el enfriamiento a <shuzhi>150</> seg.",
+		"description": "Reduce el enfriamiento a **150**seg.",
 		"id": "artifact_adv_040"
 	},
 	"1280": {
-		"description": "Aumenta el daño físico en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño físico en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_040"
 	},
 	"1281": {
-		"description": "Restaura todos los PS al marcar un arma con Disparo Sobrecargado. Restaura PS igual al <shuzhi>20%</> de los PS Máx. en la Liga Ápex.",
+		"description": "Restaura todos los PS al marcar un arma con Disparo Sobrecargado. Restaura PS igual al **20%** de los PS Máx. en la Liga Ápex.",
 		"id": "artifact_adv_040"
 	},
 	"1282": {
-		"description": "Otorga <shuzhi>100</> de energía inmediatamente al usarlo si los PS son mayores al <shuzhi>90%</>. Si los PS son inferiores al <shuzhi>90%</>, otorga inmediatamente <shuzhi>50</> puntos de energía y luego <shuzhi>50</> más al expirar el aumento de daño.",
+		"description": "Otorga **100** de energía inmediatamente al usarlo si los PS son mayores al **90%**. Si los PS son inferiores al **90%**, otorga inmediatamente **50** puntos de energía y luego **50** más al expirar el aumento de daño.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1283": {
-		"description": "Aumenta a <shuzhi>12</> seg la duración del refuerzo de daño.",
+		"description": "Aumenta a **12**seg la duración del refuerzo de daño.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1284": {
-		"description": "Cada acumulación de Bendición aumenta el daño final en <shuzhi>1%</> por <shuzhi>12</> seg.",
+		"description": "Cada acumulación de Bendición aumenta el daño final en **1%** por **12**seg.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1285": {
-		"description": "Aumenta el daño de fuego en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de fuego en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1286": {
-		"description": "Cuando hay 5 acumulaciones completas de bendición, aumenta adicionalmente el daño final un <shuzhi>2.5%</> y reduce el daño recibido un <shuzhi>5%</> por <shuzhi>12</> seg.",
+		"description": "Cuando hay 5 acumulaciones completas de bendición, aumenta adicionalmente el daño final un **2.5%** y reduce el daño recibido un **5%** por **12**seg.",
 		"id": "artifact_adv_036_OS"
 	},
 	"1287": {
-		"description": "Otorga <shuzhi>5</> dosis cada vez.",
+		"description": "Otorga **5** dosis cada vez.",
 		"id": "artifact_adv_041"
 	},
 	"1288": {
-		"description": "Mientras <shuzhi>Microataque</> está activado, aumenta el daño infligido a los objetivos graves un <shuzhi>20%</>.",
+		"description": "Mientras **Microataque** está activado, aumenta el daño infligido a los objetivos graves un **20%**.",
 		"id": "artifact_adv_041"
 	},
 	"1289": {
-		"description": "Reduce el enfriamiento a <shuzhi>150</> seg.",
+		"description": "Reduce el enfriamiento a **150**seg.",
 		"id": "artifact_adv_041"
 	},
 	"1290": {
-		"description": "Reduce el enfriamiento a <shuzhi>150</> seg.",
+		"description": "Reduce el enfriamiento a **150**seg.",
 		"id": "artifact_adv_041"
 	},
 	"1291": {
-		"description": "Restaura todos los PS al marcar un arma con Disparo Sobrecargado. Restaura PS igual al <shuzhi>20%</> de los PS Máx. en la Liga Ápex.",
+		"description": "Restaura todos los PS al marcar un arma con Disparo Sobrecargado. Restaura PS igual al **20%** de los PS Máx. en la Liga Ápex.",
 		"id": "artifact_adv_041"
 	},
 	"1292": {
-		"description": "Corazón Talásico subirá la marea <shuzhi>1</> vez cada <shuzhi>15</> seg, lo que inflige daño igual a un <shuzhi>15%</> (<shuzhi>1.5%</> en la Liga Ápex) de los PS Máx. del nómada a los objetivos cercanos.",
+		"description": "Corazón Talásico subirá la marea **1** vez cada **15**seg, lo que inflige daño igual a un **15%** (**1.5%** en la Liga Ápex) de los PS Máx. del nómada a los objetivos cercanos.",
 		"id": "artifact_adv_042"
 	},
 	"1293": {
-		"description": "La duración del Corazón Talásico se amplía a <shuzhi>90</> seg.",
+		"description": "La duración del Corazón Talásico se amplía a **90**seg.",
 		"id": "artifact_adv_042"
 	},
 	"1294": {
-		"description": "Aumenta el daño infligido a los objetivos impactados por Corazón Talásico un <shuzhi>5.5%</> adicional.",
+		"description": "Aumenta el daño infligido a los objetivos impactados por Corazón Talásico un **5.5%** adicional.",
 		"id": "artifact_adv_042"
 	},
 	"1295": {
-		"description": "Aumenta el daño eléctrico en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño eléctrico en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_042"
 	},
 	"1296": {
-		"description": "Al bucear, utiliza Corazón Talásico para transformarte en delfín durante un máximo de <shuzhi>45</> seg, durante los cuales los enemigos no atacarán durante <shuzhi>15</> seg, y aumenta tu velocidad de movimiento.\r\nDurante tu transformación, tu siguiente ataque azotará el agua del mar, lo que inflige daño igual a un <shuzhi>25%</> (<shuzhi>2.5%</> en la Liga Ápex) de tus PS Máx. a los objetivos cercanos y finalizará la transformación.",
+		"description": "Al bucear, utiliza Corazón Talásico para transformarte en delfín durante un máximo de **45**seg, durante los cuales los enemigos no atacarán durante **15**seg, y aumenta tu velocidad de movimiento.\r\nDurante tu transformación, tu siguiente ataque azotará el agua del mar, lo que inflige daño igual a un **25%** (**2.5%** en la Liga Ápex) de tus PS Máx. a los objetivos cercanos y finalizará la transformación.",
 		"id": "artifact_adv_042"
 	},
 	"1297": {
-		"description": "Otorga <shuzhi>5</> dosis cada vez.",
+		"description": "Otorga **5** dosis cada vez.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1298": {
-		"description": "Restaura todos los PS al marcar un arma con Disparo Sobrecargado. Restaura PS igual al <shuzhi>20%</> de los PS Máx. en la Liga Ápex.",
+		"description": "Restaura todos los PS al marcar un arma con Disparo Sobrecargado. Restaura PS igual al **20%** de los PS Máx. en la Liga Ápex.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1299": {
-		"description": "Reduce el enfriamiento a <shuzhi>150</> seg.",
+		"description": "Reduce el enfriamiento a **150**seg.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1300": {
-		"description": "Aumenta el daño físico en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño físico en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1301": {
-		"description": "Mientras <shuzhi>Microataque</> está activado, aumenta el daño infligido a los objetivos graves en un <shuzhi>4%</>.",
+		"description": "Mientras **Microataque** está activado, aumenta el daño infligido a los objetivos graves en un **4%**.",
 		"id": "artifact_adv_040_OS"
 	},
 	"1302": {
-		"description": "Aumenta la duración de Céfiro a <shuzhi>30</> seg.",
+		"description": "Aumenta la duración de Céfiro a **30**seg.",
 		"id": "artifact_adv_043"
 	},
 	"1303": {
-		"description": "En el estado céfiro, aumenta la velocidad sobre el suelo y las paredes un <shuzhi>15%</> y aumenta la altura de salto.",
+		"description": "En el estado céfiro, aumenta la velocidad sobre el suelo y las paredes un **15%** y aumenta la altura de salto.",
 		"id": "artifact_adv_043"
 	},
 	"1304": {
-		"description": "Los aceleradores pueden almacenar hasta <shuzhi>2</> cargas.",
+		"description": "Los aceleradores pueden almacenar hasta **2** cargas.",
 		"id": "artifact_adv_043"
 	},
 	"1305": {
-		"description": "Reduce el daño físico recibido en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Reduce el daño físico recibido en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_043"
 	},
 	"1306": {
@@ -966,31 +966,31 @@
 		"id": "artifact_adv_043"
 	},
 	"1307": {
-		"description": "Aumenta el número de burbujas pequeñas disparadas. El portador también se desplaza hacia atrás cuando dispara burbujas pequeñas. Tras disparar la reliquia, aumenta la velocidad un <shuzhi>10%</> durante <shuzhi>30</> seg.",
+		"description": "Aumenta el número de burbujas pequeñas disparadas. El portador también se desplaza hacia atrás cuando dispara burbujas pequeñas. Tras disparar la reliquia, aumenta la velocidad un **10%** durante **30**seg.",
 		"id": "artifact_adv_044"
 	},
 	"1308": {
-		"description": "Obtén <shuzhi>1</> / <shuzhi>3</> acumulaciones de Hora Feliz tras disparar burbujas pequeñas y grandes, respectivamente. Cada acumulación inflige al nómada un <shuzhi>1.8%</> del daño infligido durante <shuzhi>60</> seg, se acumula hasta <shuzhi>5</> veces.",
+		"description": "Obtén **1** / **3** acumulaciones de Hora Feliz tras disparar burbujas pequeñas y grandes, respectivamente. Cada acumulación inflige al nómada un **1.8%** del daño infligido durante **60**seg, se acumula hasta **5** veces.",
 		"id": "artifact_adv_044"
 	},
 	"1309": {
-		"description": "Usa la Pistola de Burbujas para invocar un Espíritu de Burbujas que dispara burbujas y restablece la duración de Hora Feliz. El espíritu dura <shuzhi>150</> seg.",
+		"description": "Usa la Pistola de Burbujas para invocar un Espíritu de Burbujas que dispara burbujas y restablece la duración de Hora Feliz. El espíritu dura **150**seg.",
 		"id": "artifact_adv_044"
 	},
 	"1310": {
-		"description": "Aumenta el daño de fuego en un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de fuego en un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_044"
 	},
 	"1311": {
-		"description": "Aumenta el refuerzo de daño de Hora Feliz un <shuzhi>0.6%</> adicional por acumulación.",
+		"description": "Aumenta el refuerzo de daño de Hora Feliz un **0.6%** adicional por acumulación.",
 		"id": "artifact_adv_044"
 	},
 	"1312": {
-		"description": "Desbloquea la Máscara de Acechante. Se selecciona al usar la Máscara Triple y confirma de nuevo para usarla. Cuando lleves puesta la Máscara de Acechante, podrás ver en el mapa la ubicación de los enemigos de élite con logros en el Dominio 9.",
+		"description": "Desbloquea la Máscara de Acechante. Se selecciona al usar la Máscara Triple y confirma de nuevo para usarla. Cuando lleves puesta la Máscara de Acechante, podrás ver en el mapa la ubicación de los enemigos de élite con logros en el Dominio9.",
 		"id": "artifact_adv_045"
 	},
 	"1313": {
-		"description": "Mientras usas la Máscara Triple, aumenta tu velocidad un <shuzhi>8%</> y tu daño elemental un <shuzhi>8%</>.",
+		"description": "Mientras usas la Máscara Triple, aumenta tu velocidad un **8%** y tu daño elemental un **8%**.",
 		"id": "artifact_adv_045"
 	},
 	"1314": {
@@ -998,11 +998,11 @@
 		"id": "artifact_adv_045"
 	},
 	"1315": {
-		"description": "Aumenta el daño de escarcha un <shuzhi>2%</>, incluso sin despliegue. No está disponible en la Liga Ápex.",
+		"description": "Aumenta el daño de escarcha un **2%**, incluso sin despliegue. No está disponible en la Liga Ápex.",
 		"id": "artifact_adv_045"
 	},
 	"1316": {
-		"description": "Mientras usas la Máscara Triple, aumenta tu daño elemental un <shuzhi>8%</> adicional.",
+		"description": "Mientras usas la Máscara Triple, aumenta tu daño elemental un **8%** adicional.",
 		"id": "artifact_adv_045"
 	}
 }
