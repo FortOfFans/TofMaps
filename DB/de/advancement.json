@@ -167,11 +167,20 @@
 	},
 	"Chainsaw_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physische Resonanz</>: Erhöht den physischen ANG um <shuzhi>{0}%</> und den physischen Widerstand um <shuzhi>{1}%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen physischen Resonanz- oder Reaktionseffekten gestapelt werden, wobei physische Resonanz priorisiert wird.\r\n<shuzhi>Allgemeine Resonanz</>: Erhöht den Endschaden um <shuzhi>{2}%</>. Wird durch Ausrüsten von <shuzhi>2</> Waffen desselben Elements aktiviert (physisch ausgenommen). Der Set-Effekt funktioniert auch im Nebenhand-Slot.",
-		"numbermap": "CurveTable'ChainsawEffectFigure'",
+		"numbermap": "ChainsawEffectFigure",
 		"numbers": [
-			"Buff_Chainsaw_Physic_Resonance_Atk",
-			"Buff_Chainsaw_Physic_Resonance_Def",
-			"ChainsawBalanceLevel0DamUP"
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Atk",
+				"value": 1
+			},
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "ChainsawBalanceLevel0DamUP",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -933,10 +942,16 @@
 	},
 	"gun_fire_ssr_star_1": {
 		"advancement": "Jede Runde Sperrfeuer fügt zusätzlichen Schaden in Höhe von <shuzhi>{0}%</> der aktuellen LP des Ziels zu. Kann max. <shuzhi>{1}%</> des ANG betragen.",
-		"numbermap": "CurveTable'Gun_Fire_SSR_EffectFigure'",
+		"numbermap": "Gun_Fire_SSR_EffectFigure",
 		"numbers": [
-			"GunLevel1_1_HP",
-			"GunLevel1_1_DMG"
+			{
+				"key": "GunLevel1_1_HP",
+				"value": 1
+			},
+			{
+				"key": "GunLevel1_1_DMG",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "gun_fire_plasm",
@@ -1021,10 +1036,16 @@
 	},
 	"sword_physic_ssr_star_1": {
 		"advancement": "Nachdem ein Ziel mit einer Fähigkeit oder Entladungsfähigkeit getroffen wurde, wird 1 Stapel des folgenden Buffs gewährt: Erhöht den verursachten Schaden <shuzhi>25</> Sek. lang um <shuzhi>8%</>. Der Effekt kann bis zu <shuzhi>3</>-mal gestapelt werden (max. 1 Stapel pro Verwendung der Fähigkeit).",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level1_DamageUp",
-			"Buff_SwordPhy_SSR_Level1_DamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "sword_physic_plasm",
@@ -1049,10 +1070,16 @@
 	},
 	"sword_physic_ssr_star_3": {
 		"advancement": "Wenn ein Ziel mit Fähigkeiten oder Entladungsfähigkeiten getroffen wird, wird dem Ziel ein Stapel „Kriegswunden“ zugefügt: Erhöht den erlittenen physischen Schaden und Zertrümmern von physischen Waffen <shuzhi>{1}</> Sek. lang um <shuzhi>{0}%</>. Kann bis zu <shuzhi>1</>-mal gestapelt werden.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp",
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "sword_physic_plasm",
@@ -1077,10 +1104,16 @@
 	},
 	"sword_physic_ssr_star_5": {
 		"advancement": "Werden Ziele mit Fähigkeiten oder Entladungsfähigkeiten getroffen, gewährt dies einen Fähigkeitsschadensbonus, der den Schaden aller Waffenfähigkeiten <shuzhi>{1}</> Sek. lang um <shuzhi>{0}%</> erhöht. Dieser Effekt kann nicht gestapelt werden.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp",
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "sword_physic_plasm",
@@ -1534,10 +1567,16 @@
 	},
 	"queen_superpower_ssr_star_1": {
 		"advancement": "Die Verwendung einer beliebigen Waffe oder Entladungsfähigkeit gewährt <shuzhi>1</> Elementarkristall (maximal <shuzhi>5</> Kristalle). Alle <shuzhi>6</> Sek. geht <shuzhi>1</> Elementarkristall verloren.\r\nElementarkristalle gewähren einen Endschadensbonus in Höhe von <shuzhi>4%</> der [(<shuzhi>Kristallanzahl</> + <shuzhi>1</>) / <shuzhi>2</>] und zusätzliche Heilung in Höhe von <shuzhi>6%</> der [(<shuzhi>Kristallanzahl</> + <shuzhi>1</>) / <shuzhi>2</>].",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "queen_superpower_plasm",
@@ -1586,9 +1625,12 @@
 	},
 	"queen_superpower_ssr_star_5": {
 		"advancement": "Jede Verwendung von „Streutechnik“ gewährt <shuzhi>1</> Elementarkristall. Alle <shuzhi>20</> Sek. geht <shuzhi>1</> Elementarkristall verloren.\r\nWenn der Anwender tödlichen Schaden erleidet, werden <shuzhi>3</> Elementarkristalle verbraucht, um 1-mal seinen Tod zu verhindern sowie für kurze Zeit Schadensimmunität zu erhalten. Kann <shuzhi>1</>-mal alle <shuzhi>25</> Sek. ausgelöst werden.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "queen_superpower_plasm",
@@ -1601,9 +1643,12 @@
 	},
 	"queen_superpower_ssr_star_6": {
 		"advancement": "Erhöht den Endschaden um <shuzhi>7%</> der [(<shuzhi>Kristallanzahl</> + <shuzhi>3</>) / <shuzhi>2</>].",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "queen_superpower_plasm",
@@ -1616,11 +1661,20 @@
 	},
 	"Rubilia_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Voltresonanz</>: Erhöht den Volt-ANG um <shuzhi>15%</> und den Voltwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Voltresonanz- oder Voltreaktion-Effekten gestapelt werden, wobei Voltresonanz priorisiert wird.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1633,9 +1687,12 @@
 	},
 	"Rubilia_thunder_ssr_star_1": {
 		"advancement": "Nachdem <shuzhi>Feedback</> ausgelöst wurde, fügt jeder Krystamax-Dorn für <shuzhi>{0}</> Sek. alle <shuzhi>2</> Sek. Zielen in der Nähe Schaden in Höhe von <shuzhi>66,7%</> des ANG zu.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_SummonSkill_Duration"
+			{
+				"key": "Buff_Rubilia_SummonSkill_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Rubilia_thunder_plasm",
@@ -1660,10 +1717,16 @@
 	},
 	"Rubilia_thunder_ssr_star_3": {
 		"advancement": "Der Einsatz einer Waffenfähigkeit oder einer Entladungsfähigkeit generiert <shuzhi>1</> Krystamax-Dorn.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Rubilia_thunder_plasm",
@@ -1688,9 +1751,12 @@
 	},
 	"Rubilia_thunder_ssr_star_5": {
 		"advancement": "Erhöht die Wiederherstellung der max. LP von Krystamax-Dornen von <shuzhi>Feedback</> auf <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"SummonShotRecoverHPL5"
+			{
+				"key": "SummonShotRecoverHPL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Rubilia_thunder_plasm",
@@ -1703,10 +1769,16 @@
 	},
 	"Rubilia_thunder_ssr_star_6": {
 		"advancement": "Erhöht Voltschaden <shuzhi>{1}</> Sek. lang um zusätzliche <shuzhi>{0}%</>, nachdem Harrahs Umarmung erfolgreich eingesetzt wurde.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_AddDamageL6",
-			"Buff_Rubilia_AddDamageL6_Duration"
+			{
+				"key": "Buff_Rubilia_AddDamageL6",
+				"value": 1
+			},
+			{
+				"key": "Buff_Rubilia_AddDamageL6_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Rubilia_thunder_plasm",
@@ -1803,14 +1875,32 @@
 	},
 	"Linghan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht den Frost-ANG um <shuzhi>15%</> und den Frostwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Extreme Kälte: Entladen</>: Nach Verwendung von <shuzhi>Schwertkunst: Schatteneis</> wird <shuzhi>{4}</> Sek. lang jede Sekunde Schaden in Höhe von <shuzhi>{0}%</> des Frost-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens verursacht. Mehrfacher Entladungsschaden wird nicht gestapelt und Schaden von „Extreme Kälte“ zählt als Fähigkeitsschaden. Wenn <shuzhi>1</> Volt-/Flammen-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Extreme Kälte“ um das <shuzhi>{5}</>-fache multipliziert. Außerdem wird der Schaden von „Extreme Kälte“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanJiHanDamageCoeffIceATK",
-			"LinghanJiHanDamageCoeffMaxHP",
-			"LinghanJiHanDamageCoeffDefSum",
-			"LinghanJiHanDamageCoeffCrit",
-			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
-			"LinghanJiHanDamageCoeffAdv"
+			{
+				"key": "LinghanJiHanDamageCoeffIceATK",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_LinghanSkillPoJiaDamageAdd_Duration",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1823,10 +1913,16 @@
 	},
 	"Linghan_ice_ssr_star_1": {
 		"advancement": "Nach dem Abfeuern von <shuzhi>Frostklingen</> wird der Frost-ANG des Wanderers um <shuzhi>{0}%</> erhöht und Zielen in der Nähe wird für <shuzhi>{1}</> Sek. jede Sekunde Schaden in Höhe von <shuzhi>80%</> des ANG zugefügt.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Effect_L1_IceAtkUp",
-			"Buff_Linghan_Effect_L1_Duration"
+			{
+				"key": "Buff_Linghan_Effect_L1_IceAtkUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_Effect_L1_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Linghan_ice_plasm",
@@ -1851,14 +1947,32 @@
 	},
 	"Linghan_ice_ssr_star_3": {
 		"advancement": "Der Wanderer kann bis zu <shuzhi>4</> <shuzhi>Frostklingen</> erzeugen und der Basismultiplikator des Schadens von <shuzhi>Temperaturabfall</> wird auf <shuzhi>360%</> erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von <shuzhi>{0}</> Sek. von <shuzhi>Temperaturabfall</> betroffen ist, wird dem Ziel zusätzlich ein <shuzhi>Adersiegel</> zugefügt, wodurch es um <shuzhi>{1}%</> verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von <shuzhi>Adersiegel</> erneut Schaden durch <shuzhi>Frostklinge</> erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von <shuzhi>{2}%</> des ANG + <shuzhi>{3}%</> der zu diesem Zeitpunkt bereits verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als <shuzhi>{4}%</> und nicht höher als <shuzhi>{5}%</> des Frost-ANG des Wanderers). Anschließend werden die Effekte von <shuzhi>Adersiegel</> und <shuzhi>Temperaturabfall</> vom Ziel entfernt.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Frostbite_DelayAdd_Period",
-			"Buff_Linghan_TargetSpeedDown",
-			"IceBoomAtkCoeff",
-			"IceBoomHPCoeff",
-			"IceBoomMinAtkCoeff",
-			"IceBoomMaxAtkCoeff"
+			{
+				"key": "Buff_Linghan_Frostbite_DelayAdd_Period",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_TargetSpeedDown",
+				"value": 1
+			},
+			{
+				"key": "IceBoomAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomHPCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMinAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMaxAtkCoeff",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Linghan_ice_plasm",
@@ -1883,10 +1997,16 @@
 	},
 	"Linghan_ice_ssr_star_5": {
 		"advancement": "Der von <shuzhi>Kristallriss</> und <shuzhi>Kalte Luft</> verursachte Schaden wird zusätzlich um <shuzhi>50%</> erhöht. Die Einsatzversuche von <shuzhi>Leichte Schritte</> werden auf <shuzhi>{1}</> erhöht und die Wiederherstellungsrate wird alle <shuzhi>{0}</> Sek. auf <shuzhi>1</> Versuch erhöht.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanQinggongPeriodL5",
-			"LinghanQinggongMaxL5"
+			{
+				"key": "LinghanQinggongPeriodL5",
+				"value": 1
+			},
+			{
+				"key": "LinghanQinggongMaxL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Linghan_ice_plasm",
@@ -2091,9 +2211,12 @@
 	},
 	"funnel_fire_ssr_star_1": {
 		"advancement": "„Lodern“ erhöht den Schaden von „Spark-Angriff“ um <shuzhi>{0}%</>. Die Fähigkeits-Abklingzeit wird auf <shuzhi>24</> Sek. verringert.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel1AtkDamUp"
+			{
+				"key": "FunnelLevel1AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "funnel_fire_plasm",
@@ -2118,9 +2241,12 @@
 	},
 	"funnel_fire_ssr_star_3": {
 		"advancement": "„Lodern“ erhöht den Flammenbonus um <shuzhi>{0}%</> und den Verbrennen-Multiplikator auf <shuzhi>75%</>.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel3FireDamBeUp"
+			{
+				"key": "FunnelLevel3FireDamBeUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "funnel_fire_plasm",
@@ -2157,9 +2283,12 @@
 	},
 	"funnel_fire_ssr_star_6": {
 		"advancement": "„Lodern“ erhöht den Schaden von Spark-Angriff um <shuzhi>{0}%</> und die Effizienz bei der Hitzegewinnung wird verdoppelt. Die Fähigkeits-Abklingzeit wird auf <shuzhi>16</> Sek. verringert.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel6AtkDamUp"
+			{
+				"key": "FunnelLevel6AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "funnel_fire_plasm",
@@ -2172,10 +2301,16 @@
 	},
 	"dkatana_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht den Frost-ANG um <shuzhi>{0}%</> und den Frostwiderstand um <shuzhi>{1}%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2188,9 +2323,12 @@
 	},
 	"dkatana_ice_ssr_star_1": {
 		"advancement": "Wenn Frostresonanz aktiviert ist, werden pro <shuzhi>5</> eingesetzter Waffenfähigkeiten jeweils die Abklingzeiten aller Waffenfähigkeiten zurückgesetzt. Außerdem wird der Schaden von Flow und Gegenangriff für <shuzhi>{0}</> Sek. <shuzhi>1</>-fach erhöht.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration"
+			{
+				"key": "Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Dkatana_ice_plasm",
@@ -2215,9 +2353,12 @@
 	},
 	"dkatana_ice_ssr_star_3": {
 		"advancement": "Aufgeregter Flow: Erhöht den Schaden des „Schwertschatten: Volt-Welle“ auf <shuzhi>350%</> des Frost-ANG.\r\nStiller Flow: Die Abklingzeit des Schwertschattens „Volt-Welle“ beträgt jetzt <shuzhi>{0}</> Sek.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_DkatanaSwordSkillCoolDown_5S_Duration"
+			{
+				"key": "Buff_DkatanaSwordSkillCoolDown_5S_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Dkatana_ice_plasm",
@@ -2254,12 +2395,24 @@
 	},
 	"dkatana_ice_ssr_star_6": {
 		"advancement": "Treffer mit „Volt-Welle“ gegen ein Ziel erhöhen den Frostschaden für <shuzhi>{1}</> Sek. um <shuzhi>{0}%</>.\r\nDurch „Schwertschatten“ ausgelöste Blocks verringern den von gegnerischen Zielen in der Nähe verursachten Frostschaden für <shuzhi>{3}</> Sek. um <shuzhi>{2}%</>.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_IceDMG_Add",
-			"Buff_Dkatana_IceDMG_Add_Duration",
-			"Buff_Dkatana_BlockWeakenEffect",
-			"Buff_Dkatana_BlockWeakenEffect_Duration"
+			{
+				"key": "Buff_Dkatana_IceDMG_Add",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_IceDMG_Add_Duration",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Dkatana_ice_plasm",
@@ -2284,10 +2437,16 @@
 	},
 	"fan_superpower_ssr_star_1": {
 		"advancement": "Normale Angriffe verursachen jetzt bei Treffern Flächenschaden.\r\nWenn es ein weiteres Epiphyllum im Explosionsbereich des Epiphyllums gibt, erhöht sich der Schaden jeder der folgenden Epiphyllum-Explosionen um <shuzhi>{0}%</>, bis zu maximal <shuzhi>{1}%</>.\r\nDas Intervall, in dem Epiphyllum durch <shuzhi>Reich des Mondlichts</> entsteht, ist jetzt auf <shuzhi>0,5</> Sek. reduziert.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "fan_superpower_plasm",
@@ -2336,9 +2495,12 @@
 	},
 	"fan_superpower_ssr_star_5": {
 		"advancement": "Erhalte, während du unter dem Effekt von <shuzhi>Reich des Mondlichts</> stehst, jede Sek. <shuzhi>30</> Waffenladung und erhöhe den durch Entladungsfähigkeiten verursachten Schaden um <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "fan_superpower_plasm",
@@ -2351,9 +2513,12 @@
 	},
 	"fan_superpower_ssr_star_6": {
 		"advancement": "Wechsle die Modi vom <shuzhi>Reich des Mondlichtes</> bis zu <shuzhi>2</>-mal. Erhalte <shuzhi>1</> Versuch nach der Fähigkeiten-Abklingzeit und <shuzhi>1</> weiteren Versuch durch Ladungsentladung.\r\nVerwende eine beliebige Waffenentladung <shuzhi>3</>-mal, um <shuzhi>+1</> auf die <shuzhi>Reich des Mondlichtes</>-Anzahl zu erhalten. Wirkt auch, wenn sich „Schattenweben“ im Nebenhand-Slot befindet.\r\nUnter dem Effekt von <shuzhi>Reich des Mondlichts</> erhöht sich der Angriff um <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "fan_superpower_plasm",
@@ -2366,10 +2531,16 @@
 	},
 	"arm_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physische Resonanz</>: Erhöht den physischen ANG um <shuzhi>{0}%</> und den physischen Widerstand um <shuzhi>{1}%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Physische Segnung</>: Erhöht den physischen ANG des gesamten Teams um <shuzhi>5%</>, wenn Segnungsresonanz aktiv ist.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmGMPhyAtkMul",
-			"ArmGMPhyDefMul"
+			{
+				"key": "ArmGMPhyAtkMul",
+				"value": 1
+			},
+			{
+				"key": "ArmGMPhyDefMul",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2382,9 +2553,12 @@
 	},
 	"arm_physic_ssr_star_1": {
 		"advancement": "Beim Auslösen einer beliebigen Waffenfähigkeit oder Entladung wird die Wächterdauer erneuert, wenn du die maximale Anzahl an Wächtern besitzt. Der Gegner erleidet physischen Schaden in Höhe von <shuzhi>{0}%</> des physischen ANG × Anzahl der Wächter zugefügt. Bis zu 8 Wächter, wenn der Effekt von „Segnung“ aktiv ist, und bis zu 6 Wächter ohne „Segnung“.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel1DamMul"
+			{
+				"key": "ArmLevel1DamMul",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "arm_physic_plasm",
@@ -2409,10 +2583,16 @@
 	},
 	"arm_physic_ssr_star_3": {
 		"advancement": "Erhöht den gesamten durch Wächter verursachten Schaden um <shuzhi>20%</> und den Endschaden des bewachten Ziels für <shuzhi>{1} Sek.</> um <shuzhi>{0}%</>, wenn der Anwender unter dem Effekt von „Segnungsresonanz“ eine beliebige Waffenfähigkeit oder Entladung auslöst.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel3FinalDamMul",
-			"ArmLevel3FinalDamDuration"
+			{
+				"key": "ArmLevel3FinalDamMul",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel3FinalDamDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "arm_physic_plasm",
@@ -2437,9 +2617,12 @@
 	},
 	"arm_physic_ssr_star_5": {
 		"advancement": "Vergebungswächter: Nachdem du 5-mal „Resonanz“ ausgelöst hast, erhältst du <shuzhi>1</> Chance, tödlichen Schaden für den Anwender und das bewachte Ziel zu negieren. Nachdem ein Teammitglied tödlichen Schaden negiert hat, verbraucht es Vergebungswächter und stellt <shuzhi>{0}%</> der max. LP wieder her. Nicht in der Apex-Liga verfügbar.\r\nErleuchtungswächter: Nachdem der Anwender 5-mal „Resonanz“ ausgelöst hat und wenn er Erleuchtungswächter besitzt, erhält er <shuzhi>2</> Chancen, tödlichen Schaden zu negieren. Kann bis zu <shuzhi>5</>-mal gestapelt werden. Nachdem der Anwender tödlichen Schaden negiert hat, wird 1 Stapel Erleuchtungswächter verbraucht und <shuzhi>{0}%</> der max. LP werden wiederhergestellt. Nicht in der Apex-Liga verfügbar.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel5HpReply"
+			{
+				"key": "ArmLevel5HpReply",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "arm_physic_plasm",
@@ -2452,11 +2635,20 @@
 	},
 	"arm_physic_ssr_star_6": {
 		"advancement": "Wenn du eine beliebige Waffenfähigkeit oder Entladung auslöst, hängt die Erhöhung des Endschadens und der Heilung von der Anzahl der Wächter ab. Jeder Wächter erhöht den endgültigen Schaden und Heilung um <shuzhi>{0}%</>, bis zu <shuzhi>{1}%</> für <shuzhi>{2} Sek.</>",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel6Add",
-			"ArmLevel6AddMax",
-			"ArmLevel6AddDuration"
+			{
+				"key": "ArmLevel6Add",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddMax",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "arm_physic_plasm",
@@ -2481,12 +2673,24 @@
 	},
 	"tianlang_thunder_ssr_star_1": {
 		"advancement": "Erhalte 1 Stapel Superleiter pro Ladung: Erhöht die maximalen LP um <shuzhi>{0}%</> und den erlittenen Schaden um <shuzhi>{1}%</> – es sei denn, der Wert der aktuellen LP ist niedriger als das {2}fache des Volt-ANG und es ist kein LP-Schild ausgerüstet. Bis zu <shuzhi>8</>-mal stapelbar. 1 Stapel wird abgezogen, wenn innerhalb von <shuzhi>{3}</> Sekunden kein Superleiter aktualisiert wird.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ImproveMaxHP_L3",
-			"Tianlang_BeDMGUp",
-			"Tianlang_BeDMGUp_Con_ATK",
-			"ImproveMaxHpDuration"
+			{
+				"key": "ImproveMaxHP_L3",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp_Con_ATK",
+				"value": 1
+			},
+			{
+				"key": "ImproveMaxHpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "tianlang_thunder_plasm",
@@ -2535,9 +2739,12 @@
 	},
 	"tianlang_thunder_ssr_star_5": {
 		"advancement": "Jeder Superleiter-Stapel erhöht den Endschaden um <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"AddFinalDMG_L5"
+			{
+				"key": "AddFinalDMG_L5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "tianlang_thunder_plasm",
@@ -2550,10 +2757,16 @@
 	},
 	"tianlang_thunder_ssr_star_6": {
 		"advancement": "Verstärke Dubhes Voltsinn: Erhalte für jede weitere erspürte Voltwaffe <shuzhi>{1}</> Sek. lang <shuzhi>{0}%</> Volt-Schadensbonus.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ThuInteractionAddThuDmgL6",
-			"ThuInteractionDuration"
+			{
+				"key": "ThuInteractionAddThuDmgL6",
+				"value": 1
+			},
+			{
+				"key": "ThuInteractionDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "tianlang_thunder_plasm",
@@ -2566,9 +2779,12 @@
 	},
 	"umbrella_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht Flammen-ANG um <shuzhi>15%</> und Flammenwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaCreatCD"
+			{
+				"key": "UmbrellaCreatCD",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2629,9 +2845,12 @@
 	},
 	"umbrella_fire_ssr_star_5": {
 		"advancement": "„Gleißender Aufprall“ und der übertragene Schaden ignorieren <shuzhi>60%</> des Flammenwiderstands des Ziels.\r\nDer von „Korrosion“ verursachte Flammenschaden wird um <shuzhi>{0}%</> erhöht.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillBeFireDamUpMulLevel5"
+			{
+				"key": "UmbrellaSkillBeFireDamUpMulLevel5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "umbrella_fire_plasm",
@@ -2644,9 +2863,12 @@
 	},
 	"umbrella_fire_ssr_star_6": {
 		"advancement": "Erhöht den von „Tanzende Flammen“ und „Schwungschlag“ verursachten Schaden um <shuzhi>{0}%</>.\r\nDer Multiplikator für schnell rotierende Sonnenschirme, „Phönixhieb“ und „Gleißender Aufprall“ beträgt jetzt „Vielfeder-Sonnenschirm“ + <shuzhi>2</>.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillMeleeDamUpMulLevel6"
+			{
+				"key": "UmbrellaSkillMeleeDamUpMulLevel6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "umbrella_fire_plasm",
@@ -2695,11 +2917,20 @@
 	},
 	"snipe_fire_ssr_star_3": {
 		"advancement": "Wenn „Kreuzschuss“ einen krit. Treffer landet, werden LP in Höhe von <shuzhi>50%</> des verursachten Schadens (kann <shuzhi>15%</> der eigenen max. LP nicht überschreiten, Schaden von „Gasexplosion“ nicht eingerechnet) und <shuzhi>50</> Waffenladung wiederhergestellt.\r\nJeder Stapel von „Ruhiges Herz“ erhöht die endgültige krit. Trefferrate auf <shuzhi>{0}%</>, bis zu maximal <shuzhi>{1}%</>, und wandelt bis zu <shuzhi>{2}%</> des krit. Schadens um.",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit"
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 3
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1.5
+			}
 		],
 		"cost": 4000,
 		"need": "Snipe_fire_plasm",
@@ -2736,9 +2967,12 @@
 	},
 	"snipe_fire_ssr_star_6": {
 		"advancement": "Erhöht den von „Kreuzschuss“ verursachten Schaden um zusätzliche <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level6_FinaldamageUP"
+			{
+				"key": "Buff_SnipeFire_SSR_Level6_FinaldamageUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Snipe_fire_plasm",
@@ -2787,10 +3021,16 @@
 	},
 	"iceblade_ice_ssr_star_3": {
 		"advancement": "Erhalte jedes Mal „Alyss’ Unterstützung“, wenn „Sternennacht“ ausgelöst wird, wobei der Schaden von „Sternennacht“ und „Raureif“ für <shuzhi>{1}</> Sek. um <shuzhi>{0}%</> erhöht wird. Kann bis zu <shuzhi>3</>-mal gestapelt werden.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel3DamageUpPer",
-			"IcebladeLevel3DamageUpDuration"
+			{
+				"key": "IcebladeLevel3DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel3DamageUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "iceblade_ice_plasm",
@@ -2815,10 +3055,16 @@
 	},
 	"iceblade_ice_ssr_star_5": {
 		"advancement": "Erhöht den Schaden von normalen Angriffen und „Raumschlitzer“ von Unnachgiebiger Flügel um <shuzhi>{0}%</>. Wenn tödlicher Schaden erlitten wird, erhält der Wanderer „Alyss’ Schutz“, welcher den Wanderer 1-mal vor dem Tod bewahrt und ihn für kurze Zeit immun gegen Schaden macht. Abklingzeit: <shuzhi>{1}</> Sek.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel5DamageUpPer",
-			"IcebladeLevel5ImmLethalCD"
+			{
+				"key": "IcebladeLevel5DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel5ImmLethalCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "iceblade_ice_plasm",
@@ -2831,9 +3077,12 @@
 	},
 	"iceblade_ice_ssr_star_6": {
 		"advancement": "Bei 3 Stapeln von „Alyss’ Unterstützung“ wird der Frostschaden um <shuzhi>{0}%</> erhöht.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel6IceDamageUpPer"
+			{
+				"key": "IcebladeLevel6IceDamageUpPer",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "iceblade_ice_plasm",
@@ -2846,12 +3095,24 @@
 	},
 	"Whip_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physische Resonanz</>: Erhöht den physischen ANG um <shuzhi>15%</> und den physischen Widerstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_Physic_Resonance_ATK",
-			"Buff_Whip_Physic_Resonance_Def",
-			"Buff_Whip_ReviveHP",
-			"Buff_Whip_ReviveCD_L0"
+			{
+				"key": "Buff_Whip_Physic_Resonance_ATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L0",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2864,13 +3125,28 @@
 	},
 	"Whip_physic_ssr_star_1": {
 		"advancement": "Gewährt beim Wechsel zu Möbius sofort <shuzhi>{0}</> Aufwärmpunkte. Abklingzeit: <shuzhi>{1}</> Sek. Fügt Zielen in der Nähe beim Einsatz von „Zaubertrick“ Flächenschaden in Höhe von <shuzhi>{2}%</> des ANG zu und reduziert ihren physischen Widerstand für <shuzhi>{4}</> Sek. um <shuzhi>{3}%</>.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargeGet_L5",
-			"Buff_Whip_ChargeGetCD_L5",
-			"GE_WhipMagicBeginExSkill_Damage",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect_Duration"
+			{
+				"key": "Buff_Whip_ChargeGet_L5",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargeGetCD_L5",
+				"value": 1
+			},
+			{
+				"key": "GE_WhipMagicBeginExSkill_Damage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect",
+				"value": -100
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Whip_physic_plasm",
@@ -2895,14 +3171,32 @@
 	},
 	"Whip_physic_ssr_star_3": {
 		"advancement": "Wenn „Zaubertrick“ frühzeitig beendet wird, wird über <shuzhi>{3}</> Sek. großflächig Schaden verursacht. Die aktuelle Abklingzeit von Möbius’ Fähigkeit wird verringert und der physische Schaden wird für eine gewisse Zeit um <shuzhi>{0}%</> erhöht (dieser Effekt gilt nicht für Möbius). Wenn von „Zaubertrick“ mehr als <shuzhi>13</> Sek. verbleiben, erhält der Anwender zusätzlich <shuzhi>200</> Waffenladung. Je mehr Zeit verbleibt, wenn „Zaubertrick“ endet, desto höher der Flächenschaden, desto größer die Abklingzeitverringerung der Fähigkeit und desto länger hält der physische Schadensbonus an. Der verursachte Flächenschaden ist auf <shuzhi>{1}%</> des ANG begrenzt (der maximale Schaden wird verursacht, wenn die verbleibende Zeit mehr als <shuzhi>{5}</> Sek. beträgt). Die maximale Abklingzeitverringerung beträgt <shuzhi>{4}</> Sek., und der physische Schadensbonus kann bis zu <shuzhi>{2}</> Sek. andauern.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargedEndEffect_L3",
-			"MagicEnd_HighDamage",
-			"Buff_Whip_ChargedEndEffect_L3_DurationMax",
-			"MagicEnd_DamageDuration",
-			"ReduceSkillCDMax",
-			"MagicEnd_HighThreshold"
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighDamage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3_DurationMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_DamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ReduceSkillCDMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighThreshold",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Whip_physic_plasm",
@@ -2927,11 +3221,20 @@
 	},
 	"Whip_physic_ssr_star_5": {
 		"advancement": "Erhalte den Effekt „Psychische Puppe“ während des Zaubertricks und erhöhe Möbius’ physischen Schadensbonus auf <shuzhi>{0}%</>. Während des Zaubertricks stellst du jede Sekunde <shuzhi>{1}%</> der max. LP und <shuzhi>{2}</> Waffenladung wieder her.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_MagicAB_Effect_DmgUp_L1",
-			"Buff_Whip_ChargedRecover_L1_HP",
-			"Buff_Whip_ChargedRecover_L1_Charge"
+			{
+				"key": "Buff_Whip_MagicAB_Effect_DmgUp_L1",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_HP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_Charge",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Whip_physic_plasm",
@@ -2944,10 +3247,16 @@
 	},
 	"Whip_physic_ssr_star_6": {
 		"advancement": "Während „Zaubertrick“ aktiv ist, erhält Möbius eine zusätzliche Peitsche, die jedes Mal automatisch geschwungen wird, wenn der Wanderer mit Möbius normale Angriffe oder Ausweichangriffe ausführt. Diese verursachen Schaden in Höhe von <shuzhi>{0}%</> des ANG von Möbius (dieser Schaden wird nicht als normaler Angriffsschaden gezählt).",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"WhipMagicExWhipSkillDamageVar",
-			"Buff_Whip_ReviveCD_L6"
+			{
+				"key": "WhipMagicExWhipSkillDamageVar",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Whip_physic_plasm",
@@ -2960,11 +3269,20 @@
 	},
 	"yoyo_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht den Frost-ANG um <shuzhi>15%</> und den Frostwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Elementarist</>: Der Endschaden wird für <shuzhi>jede</> Art von ausgerüstetem Waffenelement um <shuzhi>{2}%</> erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2977,13 +3295,28 @@
 	},
 	"yoyo_ice_ssr_star_1": {
 		"advancement": "Wenn eine beliebige Waffenfähigkeit eingesetzt wird, kann „Rasantes Jo-Jo“ <shuzhi>Harmonie</> auslösen, was Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> ihrer verlorenen LP zufügt. Der verursachte Schaden beträgt mindestens <shuzhi>{1}%</> und höchstens <shuzhi>{2}%</> des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.\r\nWenn eine beliebige Waffenentladung eingesetzt wird, kann „Rasantes Jo-Jo“ <shuzhi>Tuning</> auslösen, was Zielen in der Nähe Schaden in Höhe von <shuzhi>{3}%</> der max. LP des Wanderers zufügt. Der verursachte Schaden beträgt höchstens <shuzhi>{4}%</> des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSkillTriggerDamage",
-			"YoyoSkillTriggerDamageMin",
-			"YoyoSkillTriggerDamageMax",
-			"YoyoChangeSkillTriggerDamage",
-			"YoyoChangeSkillTriggerDamageMax"
+			{
+				"key": "YoyoSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMin",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMax",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamageMax",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Yoyo_ice_plasm",
@@ -3008,10 +3341,16 @@
 	},
 	"yoyo_ice_ssr_star_3": {
 		"advancement": "Wenn „Trostloser Tag“ verwendet wird, kann „Rasantes Jo-Jo“ für <shuzhi>{0}</> Sek. <shuzhi>Schnelligkeit</> auslösen: Die Geschwindigkeit von „Rasantes Jo-Jo“ wird um <shuzhi>{1}%</> erhöht, der Schaden wird um <shuzhi>160%</> erhöht und der Schaden, der beim Passieren des Ziels entsteht, wird in geringfügigen Flächenschaden umgewandelt.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Yoyo_ice_plasm",
@@ -3036,9 +3375,12 @@
 	},
 	"yoyo_ice_ssr_star_5": {
 		"advancement": "Erhöht den Schaden von „Rasantes Jo-Jo“ und „Rückkehr zur Einsamkeit“ um <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoBulletDamageFigureL5"
+			{
+				"key": "YoyoBulletDamageFigureL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Yoyo_ice_plasm",
@@ -3051,9 +3393,12 @@
 	},
 	"yoyo_ice_ssr_star_6": {
 		"advancement": "Erhöht den Endschaden um <shuzhi>{0}%</>, während „Rasantes Jo-Jo“ aktiv ist.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"Buff_YoyoIceDmpUpL6"
+			{
+				"key": "Buff_YoyoIceDmpUpL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Yoyo_ice_plasm",
@@ -3769,13 +4114,28 @@
 	},
 	"brush_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht den Flammen-ANG um <shuzhi>15%</> und den Flammenwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Flammenexplosion: Auf dem Feld</>: Beim Landen jedes Treffers mit <shuzhi>Kienkomet</> wird Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> des Flammen-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens zugefügt. Dieser Effekt kann einmal alle <shuzhi>1,5</> Sek. ausgelöst werden. Der Flammenexplosionsschaden zählt als normaler Angriffsschaden. Wenn <shuzhi>1</> Volt-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Flammenexplosionsschaden um das <shuzhi>{4}</>-fache multipliziert. Außerdem wird der Flammenexplosionsschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushFireSpecialFireAtk",
-			"BrushFireSpecialMaxHP",
-			"BrushFireSpecialDef",
-			"BrushFireSpecialCrit",
-			"BrushFireSpecialOtherWeapon"
+			{
+				"key": "BrushFireSpecialFireAtk",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialDef",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3788,9 +4148,12 @@
 	},
 	"brush_fire_ssr_star_1": {
 		"advancement": "Wenn eine <shuzhi>Sperlingsfeder</> ein Ziel trifft, wird ein Ausbreitungseffekt ausgelöst, der zusätzlichen Flächenschaden in Höhe von <shuzhi>{0}%</> des gesamten Brand- und Entzündungsschadens verursacht. Zudem breitet sich der <shuzhi>Sperlingsbrand</> des betroffenen Ziels auf Ziele in der Nähe aus, wodurch die Dauer von <shuzhi>Sperlingsbrand</> zurückgesetzt wird. Der Ausbreitungseffekt kann einmal alle <shuzhi>5</> Sek. ausgelöst werden.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel1FireJieSuan"
+			{
+				"key": "BrushLevel1FireJieSuan",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "brush_fire_plasm",
@@ -3815,10 +4178,16 @@
 	},
 	"brush_fire_ssr_star_3": {
 		"advancement": "Sind die LP des Wanderers unter <shuzhi>50%</> der max. LP gefallen, werden alle <shuzhi>0,5</> Sek. <shuzhi>1</> <shuzhi>Sperlingsfeder</> verbraucht und <shuzhi>{0}%</> der max. LP wiederhergestellt, (erhöht sich im Solospiel auf <shuzhi>{1}%</> der max. LP), bis die LP des Wanderers voll oder alle <shuzhi>Sperlingsfedern</> verbraucht sind. Der Effekt funktioniert auch im Nebenhand-Slot.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel3ReceverHP",
-			"BrushLevel3ReceverHPClient"
+			{
+				"key": "BrushLevel3ReceverHP",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel3ReceverHPClient",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "brush_fire_plasm",
@@ -3843,10 +4212,16 @@
 	},
 	"brush_fire_ssr_star_5": {
 		"advancement": "Wenn der Anwender tödlichen Schaden erleidet, wird der tödliche Schaden 1-mal verhindert, und er erhält für kurze Zeit Schadensimmunität. Zudem erhält er sofort <shuzhi>60</> <shuzhi>Sperlingsfedern</> und <shuzhi>{0}</> Waffenladung. Kann 1-mal alle <shuzhi>{1}</> Sek. ausgelöst werden. Der Set-Effekt funktioniert auch im Nebenhand-Slot.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel5YN",
-			"BrushLevel5MiansiCD"
+			{
+				"key": "BrushLevel5YN",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel5MiansiCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "brush_fire_plasm",
@@ -3859,9 +4234,12 @@
 	},
 	"brush_fire_ssr_star_6": {
 		"advancement": "Erhöht den Flammenschaden um zusätzliche <shuzhi>{0}%</>, wenn du dich im <shuzhi>Gipfel</>-Zustand befindest.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel6FireExtraAtkUP"
+			{
+				"key": "BrushLevel6FireExtraAtkUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "brush_fire_plasm",
@@ -3874,13 +4252,28 @@
 	},
 	"yulan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frostresonanz</>: Erhöht den Frost-ANG um <shuzhi>15%</> und den Frostwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n<shuzhi>Eisvernichtung: Schneller Hieb</>: Wenn <shuzhi>Eintracht</> ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von <shuzhi>{0}%</> des Frost-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens zu. Im Kampfstatus wird alle <shuzhi>0,5</> Sek. der Schaden des nächsten schnellen Hiebs zusätzlich um das <shuzhi>1</>-fache erhöht, bis zum Maximum des <shuzhi>30</>-fachen. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn <shuzhi>1</> Volt-/physische/Flammenwaffe jeglicher Art ausgerüstet ist, wird der Schaden von „Eisvernichtung“ um das <shuzhi>{4}</>-fache erhöht. Außerdem wird der Schaden von „Eisvernichtung“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YuLanEXChangeWeaponCoefficientIceAttack",
-			"YuLanEXChangeWeaponCoefficientMaxHP",
-			"YuLanEXChangeWeaponCoefficientDef",
-			"YuLanEXChangeWeaponCoefficientCrit",
-			"YuLanExChangeWeaponFinCoefficient"
+			{
+				"key": "YuLanEXChangeWeaponCoefficientIceAttack",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientMaxHP",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "YuLanExChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3893,15 +4286,36 @@
 	},
 	"yulan_ice_ssr_star_1": {
 		"advancement": "Wenn in der <shuzhi>Kampfkünstler</>-Form <shuzhi>3</> oder mehr <shuzhi>Innere Stärke</> verbraucht wurden, regeneriert <shuzhi>Eintracht</> <shuzhi>{0}</> <shuzhi>Innere Stärke</>. Anschließend wird der Endschaden des Wanderers um <shuzhi>{1}%</> erhöht, und der Schaden des Ausweichangriffs/normalen Angriffs von <shuzhi>Eintracht</> wird <shuzhi>{3}</> Sekunden lang um <shuzhi>{2}%</> erhöht.\r\nWenn in der <shuzhi>Rohe Kraft</>-Form <shuzhi>3</> oder mehr <shuzhi>Kampfgeist</> verbraucht wurden, regeneriert <shuzhi>Eintracht</> <shuzhi>{4}</> <shuzhi>Kampfgeist</>. Anschließend wird der Endschaden des Wanderers <shuzhi>{6}</> Sekunden lang um <shuzhi>{5}%</> erhöht.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel1RecoverStack",
-			"YulanForceLevel1DamUpMul",
-			"YulanForceLevel1MeleeDamUpMul",
-			"YulanForceLevel1DamUpDuration",
-			"YulanArrayLevel1RecoverStack",
-			"YulanArrayLevel1DamUpMul",
-			"YulanArrayLevel1DamUpDuration"
+			{
+				"key": "YulanForceLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "yulan_ice_plasm",
@@ -3926,12 +4340,24 @@
 	},
 	"yulan_ice_ssr_star_3": {
 		"advancement": "Wenn in der <shuzhi>Kampfkünstler</>-Form innerhalb von <shuzhi>{0}</> Sekunden keine <shuzhi>Innere Stärke</> generiert wird, werden beim nächsten Erhalt von <shuzhi>Innerer Stärke</> stattdessen <shuzhi>2</> Einheiten verliehen.\r\nWenn <shuzhi>Eintracht</> in einer beliebigen Form <shuzhi>3</> oder mehr <shuzhi>Innere Stärke</> oder <shuzhi>Kampfgeist</> verbraucht, werden <shuzhi>{1}%</> der max. LP des Wanderers wiederhergestellt. Im Einzelspiel wird die LP-Wiederherstellung auf <shuzhi>{2}%</> erhöht. Dieser Effekt in der <shuzhi>Rohe Kraft</>-Form nur 1-mal alle <shuzhi>8</> Sekunden auftreten. In der <shuzhi>Kampfkünstler</>-Form gibt es keine Beschränkung.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceCDLevel3",
-			"YulanForceLevel3RecoverHpTeamMul",
-			"YulanForceLevel3RecoverHpSingleMul",
-			"YulanArrayLevel3RecoverHpCDDuration"
+			{
+				"key": "YulanForceCDLevel3",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel3RecoverHpCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "yulan_ice_plasm",
@@ -3956,11 +4382,20 @@
 	},
 	"yulan_ice_ssr_star_5": {
 		"advancement": "Wenn <shuzhi>Eintracht</> <shuzhi>Innere Stärke</> oder <shuzhi>Kampfgeist</> verbraucht wird, wird tödlicher Schaden 1-mal verhindert und der Wanderer stellt <shuzhi>{0}%</> der max. LP wieder her (nicht in der Apex-Liga verfügbar). Im Einzelspiel wird die LP-Wiederherstellung auf <shuzhi>{1}%</> erhöht. Beide Effekte können nur 1-mal alle <shuzhi>{2}</> Sek. ausgelöst werden.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanLevel5ImmunityRecoverHpTeamMul",
-			"YulanLevel5ImmunityRecoverHpSingleMul",
-			"YulanLevel5ImmunityCDDuration"
+			{
+				"key": "YulanLevel5ImmunityRecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityRecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "yulan_ice_plasm",
@@ -3973,13 +4408,28 @@
 	},
 	"yulan_ice_ssr_star_6": {
 		"advancement": "In der <shuzhi>Kampfkünstler</>-Form wird der Schaden des Ausweichangriffs/normalen Angriffs von <shuzhi>Eintracht</> um weitere <shuzhi>{0}%</> erhöht. Wenn <shuzhi>innere Stärke</> verbraucht wird, wird der Endschaden des Wanderers <shuzhi>{2}</> Sek. lang um <shuzhi>{1}%</> erhöht.\r\nWenn <shuzhi>Eintracht</> in der <shuzhi>Rohe Kraft</>-Form <shuzhi>Kampfgeist</> verbraucht, wird der Endschaden des Wanderers <shuzhi>{4}</> Sek. lang um <shuzhi>{3}%</> erhöht.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel6MeleeDamUpMul",
-			"YulanForceLevel6DamUpMul",
-			"YulanForceLevel6DamUpDuration",
-			"YulanArrayLevel6DamUpMul",
-			"YulanArrayLevel6DamUpDuration"
+			{
+				"key": "YulanForceLevel6MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "yulan_ice_plasm",
@@ -3992,14 +4442,32 @@
 	},
 	"Zeke_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physische Resonanz</>: Erhöht den physischen ANG um <shuzhi>15%</> und den physischen Widerstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen physischen Resonanz- oder Reaktionseffekten gestapelt werden, wobei physische Resonanz priorisiert wird.\r\n<shuzhi>Flammenresonanz</>: Erhöht den Flammen-ANG um <shuzhi>15%</> und den Flammenwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n\r\n<shuzhi>Schildbruch: Distanzierung</>: Nach Verwendung von <shuzhi>Bodenlose Schlucht</> wird bei getroffenen Zielen <shuzhi>{0}</> Sek. lang pro Sekunde Schaden in Höhe von <shuzhi>{1}%</> des physischen ANG + <shuzhi>{2}%</> der max. LP des Wanderers + <shuzhi>{3}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{4}%</> des krit. Schadens verursacht. Mehrfacher Distanzierungsschaden wird nicht gestapelt und Schildbruchschaden zählt als Fähigkeitsschaden. Wenn <shuzhi>1</> Volt-/Flammen-/Frostwaffe ausgerüstet ist, wird der Schildbruchschaden um das <shuzhi>{5}</>-fache multipliziert. Außerdem wird der Schildbruchschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"Buff_ZekeSkillPoJiaDamageDuration",
-			"ZekePoJiaDamageCoeffPhyATK",
-			"ZekePoJiaDamageCoeffMaxHP",
-			"ZekePoJiaDamageCoeffDefSum",
-			"ZekePoJiaDamageCoeffCrit",
-			"ZekePoJiaDamageCoeffAdv"
+			{
+				"key": "Buff_ZekeSkillPoJiaDamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffPhyATK",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4060,11 +4528,20 @@
 	},
 	"Zeke_physic_ssr_star_5": {
 		"advancement": "Nach der Verwendung von <shuzhi>Bodenlose Schlucht</> wird der vom Wanderer erlittene Schaden für <shuzhi>{2}</> Sek. um <shuzhi>{0}%</> verringert (<shuzhi>{1}%</> im Einzelspiel).",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ZekeBeDmgDownL5Team",
-			"ZekeBeDmgDownL5Single",
-			"Buff_ZekeSnakeLinkDebuffDuration"
+			{
+				"key": "ZekeBeDmgDownL5Team",
+				"value": 1
+			},
+			{
+				"key": "ZekeBeDmgDownL5Single",
+				"value": 1
+			},
+			{
+				"key": "Buff_ZekeSnakeLinkDebuffDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Zeke_physic_plasm",
@@ -4077,9 +4554,12 @@
 	},
 	"Zeke_physic_ssr_star_6": {
 		"advancement": "Wenn <shuzhi>1</> Glied der <shuzhi>Schlangenkette</> besteht, wird die Übertragungsrate des <shuzhi>Übertragungs</>schadens um <shuzhi>50%</> erhöht.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ConductFactorL6"
+			{
+				"key": "ConductFactorL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Zeke_physic_plasm",
@@ -4092,13 +4572,28 @@
 	},
 	"mimi_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Voltresonanz</>: Erhöht den Volt-ANG um <shuzhi>15%</> und den Voltwiderstand um <shuzhi>25%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n\r\n<shuzhi>Donnergroll: Auf dem Feld</>: Bei jedem Treffer mit <shuzhi>Azurdrache</> wird Zielen in der Nähe Schaden in Höhe von <shuzhi>{0}%</> des Volt-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens zugefügt. Dieser Effekt kann einmal alle <shuzhi>1,5</> Sek. ausgelöst werden. Der Schaden von „Donnergroll“ zählt als normaler Angriffsschaden. Wenn <shuzhi>1</> Flammen-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Donnergroll“ um das <shuzhi>{4}</>-fache multipliziert. Außerdem wird der Schaden von „Donnergroll“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
-		"numbermap": "CurveTable'MiMiEffectFigure'",
+		"numbermap": "MiMiEffectFigure",
 		"numbers": [
-			"Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
-			"Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
-			"Buff_MiMiThu_SSR_Level0_SpecialDef",
-			"Buff_MiMiThu_SSR_Level0_SpecialCrit",
-			"Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon"
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4183,13 +4678,28 @@
 	},
 	"feise_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flammenresonanz</>: Erhöht den Flammen-ANG um <shuzhi>20%</> und den Flammenwiderstand um <shuzhi>40%</>. Wird durch Ausrüsten von <shuzhi>2</> oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n<shuzhi>Flammenexplosion: Schneller Hieb</>: Wenn <shuzhi>Endlose Blüte</> ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von <shuzhi>{0}%</> des Flammen-ANG + <shuzhi>{1}%</> der max. LP des Wanderers + <shuzhi>{2}%</> der Summe aller Widerstandsarten des Wanderers + <shuzhi>{3}%</> des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle <shuzhi>0,5</> Sekunden zusätzlich um das <shuzhi>1</>-fache erhöht, bis zu einem Maximum von <shuzhi>30</>-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn <shuzhi>1</> Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das <shuzhi>{4}</>-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
-		"numbermap": "CurveTable'FeiseEffectFigure'",
+		"numbermap": "FeiseEffectFigure",
 		"numbers": [
-			"FeiSeEXChangeWeaponCoefficientFireAttack",
-			"FeiSeEXChangeWeaponCoefficientMaxHp",
-			"FeiSeEXChangeWeaponCoefficientDef",
-			"FeiSeEXChangeWeaponCoefficientCrit",
-			"FeiSeEXChangeWeaponFinCoefficient"
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientFireAttack",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientMaxHp",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",

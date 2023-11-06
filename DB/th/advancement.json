@@ -167,11 +167,20 @@
 	},
 	"Chainsaw_physic_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์กายภาพ</>: เปิดใช้เมื่อติดตั้งอาวุธกายภาพ <shuzhi>2</> ชิ้นขึ้นไป เพิ่ม ATK กายภาพ <shuzhi>{0}%</> และค่าต้านทานกายภาพ <shuzhi>{1}%</> เอฟเฟกต์เซตนี้ทำงานกับอาวุธในช่องมือรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์กายภาพหรือปฏิกิริยากายภาพอื่นได้ ซึ่งเรโซแนนซ์กายภาพจะมีผลก่อน)\r\n<shuzhi>เรโซแนนซ์สรรพสิ่ง</>: เปิดใช้เมื่อติดตั้งอาวุธที่มีธาตุเดียวกัน <shuzhi>2</> ชิ้นยกเว้นกายภาพ เพิ่มดาเมจสุดท้าย <shuzhi>{2}%</> เอฟเฟกต์เซตนี้ทำงานกับอาวุธในช่องมือรองด้วย",
-		"numbermap": "CurveTable'ChainsawEffectFigure'",
+		"numbermap": "ChainsawEffectFigure",
 		"numbers": [
-			"Buff_Chainsaw_Physic_Resonance_Atk",
-			"Buff_Chainsaw_Physic_Resonance_Def",
-			"ChainsawBalanceLevel0DamUP"
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Atk",
+				"value": 1
+			},
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "ChainsawBalanceLevel0DamUP",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -933,10 +942,16 @@
 	},
 	"gun_fire_ssr_star_1": {
 		"advancement": "การระดมยิงแต่ละรอบจะสร้างดาเมจเพิ่มเติมเท่ากับ <shuzhi>{0}%</> ของค่า HP ของเป้าหมายในปัจจุบัน (ต้องไม่เกิน <shuzhi>{1}%</> ของค่า ATK)",
-		"numbermap": "CurveTable'Gun_Fire_SSR_EffectFigure'",
+		"numbermap": "Gun_Fire_SSR_EffectFigure",
 		"numbers": [
-			"GunLevel1_1_HP",
-			"GunLevel1_1_DMG"
+			{
+				"key": "GunLevel1_1_HP",
+				"value": 1
+			},
+			{
+				"key": "GunLevel1_1_DMG",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "gun_fire_plasm",
@@ -1021,10 +1036,16 @@
 	},
 	"sword_physic_ssr_star_1": {
 		"advancement": "หลังจากโจมตีเป้าหมายด้วยสกิลหรือสกิลคอมโบ จะได้บัฟดังต่อไปนี้ 1 ชั้น: เพิ่มดาเมจที่สร้างขึ้น <shuzhi>8% </> เป็นเวลา <shuzhi>25</> วินาที ซ้อนทับได้สูงสุด <shuzhi>3 </> ชั้น โดยจะได้มามากสุด 1 ชั้นต่อการใช้สกิลครั้งหนึ่ง",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level1_DamageUp",
-			"Buff_SwordPhy_SSR_Level1_DamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "sword_physic_plasm",
@@ -1049,10 +1070,16 @@
 	},
 	"sword_physic_ssr_star_3": {
 		"advancement": "เมื่อโจมตีเป้าหมายด้วยสกิลหรือสกิลคอมโบ จะมอบสถานะบาดแผลจากสงครามให้กับเป้าหมาย 1 สแต็ก: เพิ่มความเสียหายทางกายภาพและทำลายโล่จากอาวุธกายภาพ <shuzhi>{0}%</> เป็นเวลา <shuzhi>{1}</> วินาที ซ้อนทับได้สูงสุด <shuzhi>1</> ชั้น",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp",
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "sword_physic_plasm",
@@ -1077,10 +1104,16 @@
 	},
 	"sword_physic_ssr_star_5": {
 		"advancement": "เมื่อใช้สกิลหรือสกิลคอมโบโจมตีถูกเป้าหมาย จะได้รับการเพิ่มดาเมจสกิล โดยจะเพิ่มดาเมจของสกิลอาวุธทุกประเภท <shuzhi>{0}%</> เป็นเวลา <shuzhi>{1}</> วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp",
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "sword_physic_plasm",
@@ -1534,10 +1567,16 @@
 	},
 	"queen_superpower_ssr_star_1": {
 		"advancement": "เมื่อใช้สกิลอาวุธหรือปลดปล่อยจะได้รับ <shuzhi>1</> คริสตัลธาตุ รับได้สูงสุด <shuzhi>5</> คริสตัล และทุก <shuzhi>6</> วินาทีจะสูญเสียคริสตัลธาตุ <shuzhi>1</> คริสตัล\r\nคริสตัลธาตุจะเพิ่มดาเมจสุดท้ายเท่ากับ <shuzhi>4%</> ของ [(<shuzhi>จำนวนคริสตัล</> + <shuzhi>1</>)/<shuzhi>2</>] และเพิ่มเอฟเฟกต์รักษาเท่ากับ <shuzhi>6%</> ของ [(<shuzhi>จำนวนคริสตัล</> + <shuzhi>1</>)/<shuzhi>2</>]",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "queen_superpower_plasm",
@@ -1586,9 +1625,12 @@
 	},
 	"queen_superpower_ssr_star_5": {
 		"advancement": "ทุกครั้งที่ใช้เทคนิคกระจัดกระจายจะได้รับ <shuzhi>1</> คริสตัลธาตุ โดยในทุก <shuzhi>20</> วินาที คริสตัลธาตุจะหายไปโดยอัตโนมัติ <shuzhi>1</> คริสตัล \r\nเมื่อได้รับดาเมจถึงตาย จะใช้ <shuzhi>3</> คริสตัลธาตุเพื่อต้านดาเมจถึงตาย 1 ครั้ง และไม่โดนดาเมจเป็นช่วงเวลาสั้น ๆ สามารถเปิดใช้งานได้ <shuzhi>1</> ครั้ง ทุก <shuzhi>25</> วินาที",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "queen_superpower_plasm",
@@ -1601,9 +1643,12 @@
 	},
 	"queen_superpower_ssr_star_6": {
 		"advancement": "เพิ่มดาเมจสุดท้าย <shuzhi>7%</> ของ [(<shuzhi>จำนวนคริสตัล</> + <shuzhi>3</>)/<shuzhi>2</>]",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "queen_superpower_plasm",
@@ -1616,11 +1661,20 @@
 	},
 	"Rubilia_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์ไฟฟ้า</>: เพิ่ม ATK ธาตุไฟฟ้า <shuzhi>15%</> และค่าต้านทานไฟฟ้า <shuzhi>25%</> เปิดการใช้งานโดยติดตั้งอาวุธไฟฟ้า <shuzhi>2</> ชิ้นหรือมากกว่า เอฟเฟกต์เซตนี้สามารถใช้งานได้กับอาวุธในช่องมือรอง (ไม่สามารถซ้อนทับกับเอฟเฟกต์เรโซแนนซ์ไฟฟ้าหรือปฏิกิริยาไฟฟ้า ซึ่งเรโซแนนซ์ไฟฟ้าจะมีผลก่อน)",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1633,9 +1687,12 @@
 	},
 	"Rubilia_thunder_ssr_star_1": {
 		"advancement": "หลังจากเรียกใช้<shuzhi>สะท้อนเสียง</> ในทุก <shuzhi>2</> วินาที หนามคริสตาแม็กซ์แต่ละอัน จะสร้างดาเมจใส่เป้าหมายที่อยู่ใกล้เคียงเท่ากับ <shuzhi>66.7%</> ของ ATK เป็นเวลา <shuzhi>{0}</> วินาที",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_SummonSkill_Duration"
+			{
+				"key": "Buff_Rubilia_SummonSkill_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Rubilia_thunder_plasm",
@@ -1660,10 +1717,16 @@
 	},
 	"Rubilia_thunder_ssr_star_3": {
 		"advancement": "เมื่อเรียกใช้สกิลอาวุธ หรือเรียกใช้สกิลคอมโบของอาวุธอื่น จะสร้างหนามคริสตาแม็กซ์ <shuzhi>1</> อัน",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Rubilia_thunder_plasm",
@@ -1688,9 +1751,12 @@
 	},
 	"Rubilia_thunder_ssr_star_5": {
 		"advancement": "การฟื้นฟู HP สูงสุดของ<shuzhi>สะท้อนเสียง</>ที่มีต่อหนามคริสตาแม็กซ์เพิ่มเป็น <shuzhi>{0}%</>",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"SummonShotRecoverHPL5"
+			{
+				"key": "SummonShotRecoverHPL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Rubilia_thunder_plasm",
@@ -1703,10 +1769,16 @@
 	},
 	"Rubilia_thunder_ssr_star_6": {
 		"advancement": "หลังเรียกใช้อ้อมกอดแห่งฮาร์ราห์สำเร็จ ดาเมจไฟฟ้าของตนจะเพิ่มขึ้นอีก <shuzhi>{0}%</> เป็นเวลา <shuzhi>{1}</> วินาที",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_AddDamageL6",
-			"Buff_Rubilia_AddDamageL6_Duration"
+			{
+				"key": "Buff_Rubilia_AddDamageL6",
+				"value": 1
+			},
+			{
+				"key": "Buff_Rubilia_AddDamageL6_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Rubilia_thunder_plasm",
@@ -1803,14 +1875,32 @@
 	},
 	"Linghan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์น้ำแข็ง</>: เปิดใช้งานเมื่อติดตั้งอาวุธน้ำแข็ง <shuzhi>2</> ชิ้นขึ้นไป จะเพิ่ม ATK น้ำแข็ง <shuzhi>15%</> และค่าต้านทานน้ำแข็ง <shuzhi>25%</> จะแสดงผลทันทีเมื่อติดตั้ง เอฟเฟกต์ประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้\r\n<shuzhi>เยือกเย็น: ปล่อยมือ</>: หลังจากปล่อย<shuzhi>ปราณกระบี่: เงาลับน้ำแข็ง</> ทุกวินาทีจะสร้างดาเมจเท่ากับ <shuzhi>{0}%</> ของ ATK น้ำแข็ง + <shuzhi>{1}%</> ของ HP สูงสุดของตัวเอง + <shuzhi>{2}%</> ของผลรวมของค่าต้านทานทุกธาตุ + <shuzhi>{3}%</> ของค่าดาเมจคริติคอลต่อเป้าหมายที่โจมตีโดน เป็นเวลา <shuzhi>{4}</> วินาที ดาเมจปล่อยมือหลายครั้งจะไม่ซ้อนทับกัน และดาเมจเยือกเย็นถือเป็นดาเมจสกิล หากติดตั้งอาวุธธาตุไฟฟ้า/ไฟ/กายภาพ <shuzhi>1</> ชิ้น ดาเมจเยือกเย็นจะเพิ่มขึ้น <shuzhi>{5}</> เท่า นอกจากนี้ ดาเมจเยือกเย็นจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากจากอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanJiHanDamageCoeffIceATK",
-			"LinghanJiHanDamageCoeffMaxHP",
-			"LinghanJiHanDamageCoeffDefSum",
-			"LinghanJiHanDamageCoeffCrit",
-			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
-			"LinghanJiHanDamageCoeffAdv"
+			{
+				"key": "LinghanJiHanDamageCoeffIceATK",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_LinghanSkillPoJiaDamageAdd_Duration",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1823,10 +1913,16 @@
 	},
 	"Linghan_ice_ssr_star_1": {
 		"advancement": "หลังจากเรียกใช้<shuzhi>กระบี่เยือกเย็น</> จะเพิ่ม ATK น้ำแข็ง <shuzhi>{0}%</> ทุกวินาทีจะสร้างดาเมจ <shuzhi>80%</> ของ ATK ใส่เป้าหมายใกล้เคียง เป็นเวลา<shuzhi>{1}</> วินาที",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Effect_L1_IceAtkUp",
-			"Buff_Linghan_Effect_L1_Duration"
+			{
+				"key": "Buff_Linghan_Effect_L1_IceAtkUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_Effect_L1_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Linghan_ice_plasm",
@@ -1851,14 +1947,32 @@
 	},
 	"Linghan_ice_ssr_star_3": {
 		"advancement": "จำนวนสูงสุดของ<shuzhi>กระบี่เยือกเย็น</>ที่สร้างจะเพิ่มขึ้นถึง <shuzhi>4</> ด้าม และตัวคูณพื้นฐานของดาเมจ<shuzhi>ลดอุณหภูมิ</>จะเพิ่มขึ้น <shuzhi>360%</> \r\nหากมีเพียงตัวเป้าหมายเองที่ได้รับผลกระทบจากเอฟเฟกต์<shuzhi>อุณหภูมิลดลง</>ภายใน <shuzhi>{0}</> วินาที จะเพิ่มเอฟเฟกต์<shuzhi>ผนึกชีพจร</>ใส่เป้าหมายเพิ่มเติม ทำให้ความเร็วจะลดลง <shuzhi>{1}%</> (ไม่มีผลในลีกแข่งยอดฝีมือและบอส) หากเป้าหมายได้รับดาเมจ<shuzhi>กระบี่เยือกเย็น</>อีกครั้งในช่วง<shuzhi>ผนึกชีพจร</> จะปล่อยระเบิดน้ำแข็ง เพื่อสร้างดาเมจสกิล <shuzhi>{2}%</> ของ ATK + <shuzhi>{3}%</> ของค่า HP ที่เสียไปของเป้าหมาย (ดาเมจระเบิดน้ำแข็งจะไม่ต่ำกว่า <shuzhi>{4}%</> ของ ATK น้ำแข็งของผู้เล่น และจะไม่สูงกว่า <shuzhi>{5}%</> ของ ATK น้ำแข็งของผู้เล่น) พร้อมทั้งล้าง<shuzhi>ผนึกชีพจร</>และเอฟเฟกต์<shuzhi>ลดอุณหภูมิ</>จากตัวเป้าหมาย",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Frostbite_DelayAdd_Period",
-			"Buff_Linghan_TargetSpeedDown",
-			"IceBoomAtkCoeff",
-			"IceBoomHPCoeff",
-			"IceBoomMinAtkCoeff",
-			"IceBoomMaxAtkCoeff"
+			{
+				"key": "Buff_Linghan_Frostbite_DelayAdd_Period",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_TargetSpeedDown",
+				"value": 1
+			},
+			{
+				"key": "IceBoomAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomHPCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMinAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMaxAtkCoeff",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Linghan_ice_plasm",
@@ -1883,10 +1997,16 @@
 	},
 	"Linghan_ice_ssr_star_5": {
 		"advancement": "ดาเมจสร้างจาก<shuzhi>คริสตัลร้าว</>และ<shuzhi>อากาศหนาวเย็น</>จะเพิ่มขึ้นเพิ่มเติม <shuzhi>50%</> และขีดจำกัดการใช้<shuzhi>ก้าวย่างร่ายรำ</>จะเพิ่มขึ้นถึง <shuzhi>{1}</> ครั้ง ประสิทธิภาพการฟื้นฟูจะเพิ่มขึ้นเป็น <shuzhi>1</> ครั้งในทุก <shuzhi>{0}</> วินาที",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanQinggongPeriodL5",
-			"LinghanQinggongMaxL5"
+			{
+				"key": "LinghanQinggongPeriodL5",
+				"value": 1
+			},
+			{
+				"key": "LinghanQinggongMaxL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Linghan_ice_plasm",
@@ -2091,9 +2211,12 @@
 	},
 	"funnel_fire_ssr_star_1": {
 		"advancement": "ลุกไหม้จะเพิ่มดาเมจการโจมตีของสปาร์ก <shuzhi>{0}%</> เวลาคูลดาวน์สกิลจะลดลงเหลือ <shuzhi>24</> วินาที",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel1AtkDamUp"
+			{
+				"key": "FunnelLevel1AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "funnel_fire_plasm",
@@ -2118,9 +2241,12 @@
 	},
 	"funnel_fire_ssr_star_3": {
 		"advancement": "การลุกไหม้เพิ่มดาเมจไฟ <shuzhi>{0}%</> และคำนวณตัวคูณเผาไหม้เพิ่มขึ้นเป็น <shuzhi>75%</>",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel3FireDamBeUp"
+			{
+				"key": "FunnelLevel3FireDamBeUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "funnel_fire_plasm",
@@ -2157,9 +2283,12 @@
 	},
 	"funnel_fire_ssr_star_6": {
 		"advancement": "การลุกไหม้จะเพิ่มดาเมจการโจมตีปกติของสปาร์ก <shuzhi>{0}%</> และพลังความร้อนจะเพิ่มประสิทธิภาพเป็นสองเท่า เวลาคูลดาวน์สกิลจะลดลงเหลือ <shuzhi>16</> วินาที",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel6AtkDamUp"
+			{
+				"key": "FunnelLevel6AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "funnel_fire_plasm",
@@ -2172,10 +2301,16 @@
 	},
 	"dkatana_ice_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์น้ำแข็ง</>: เพิ่ม ATK น้ำแข็ง <shuzhi>{0}%</> และค่าต้านทานน้ำแข็ง <shuzhi>{1}%</> เปิดการใช้งานโดยติดตั้งอาวุธน้ำแข็ง <shuzhi>2</> ชิ้นหรือมากกว่า เอฟเฟกต์เซตนี้สามารถใช้งานได้กับอาวุธในช่องมือรอง และเอฟเฟกต์ประเภทเดียวกันจะไม่สามารถซ้อนทับได้",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2188,9 +2323,12 @@
 	},
 	"dkatana_ice_ssr_star_1": {
 		"advancement": "เมื่อเปิดใช้งานเรโซแนนซ์น้ำแข็ง ระยะเวลาคูลดาวน์ของสกิลอาวุธทุกชนิดจะรีเซตทุก ๆ การใช้อาวุธ <shuzhi>5</> ครั้ง และจะเพิ่มดาเมจของโฟลว์และโจมตีสวนกลับ <shuzhi>1</> เท่า ในเวลา <shuzhi>{0}</> วินาที ถัดไป",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration"
+			{
+				"key": "Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Dkatana_ice_plasm",
@@ -2215,9 +2353,12 @@
 	},
 	"dkatana_ice_ssr_star_3": {
 		"advancement": "กระแสกระตุ้น: เพิ่มดาเมจของเงาดาบ: คลื่นยักษ์ <shuzhi>350%</> อย่างฉับพลันของ ATK น้ำแข็ง\r\nกระแสสงัด: คูลดาวน์ของเงาดาบ: คลื่นยักษ์ จะกลายเป็น <shuzhi>{0}</> วินาที",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_DkatanaSwordSkillCoolDown_5S_Duration"
+			{
+				"key": "Buff_DkatanaSwordSkillCoolDown_5S_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Dkatana_ice_plasm",
@@ -2254,12 +2395,24 @@
 	},
 	"dkatana_ice_ssr_star_6": {
 		"advancement": "เมื่อโจมตีเป้าหมายด้วยคลื่นยักษ์ จะเพิ่มดาเมจน้ำแข็ง <shuzhi>{0}%</> เป็นเวลา <shuzhi>{1}</> วินาที\r\nเมื่อทำการป้องกันด้วยเงาดาบ จะลดดาเมจน้ำแข็งจากศัตรู <shuzhi>{2}%</> เป็นเวลา <shuzhi>{3}</> วินาที",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_IceDMG_Add",
-			"Buff_Dkatana_IceDMG_Add_Duration",
-			"Buff_Dkatana_BlockWeakenEffect",
-			"Buff_Dkatana_BlockWeakenEffect_Duration"
+			{
+				"key": "Buff_Dkatana_IceDMG_Add",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_IceDMG_Add_Duration",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Dkatana_ice_plasm",
@@ -2284,10 +2437,16 @@
 	},
 	"fan_superpower_ssr_star_1": {
 		"advancement": "การโจมตีปกติจะสร้างดาเมจเมื่อถูกเป้าหมาย\r\nเมื่อมีกระบองเพชรกล้วยไม้ต้นอื่นอยู่ภายในพื้นที่ระเบิดของกระบองเพชรกล้วยไม้ จะเพิ่มดาเมจจากการระเบิดของกระบองเพชรกล้วยไม้ในแต่ละครั้ง ครั้งละ <shuzhi>{0}%</> สูงสุด <shuzhi>{1}%</>\r\n\nช่วงเวลารอการงอกใหม่ของกระบองเพชรกล้วยไม้ที่อยู่ใน <shuzhi>อาณาเขตแสงจันทร์</> จะถูกลดเหลือ <shuzhi>0.5</> วินาที",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "fan_superpower_plasm",
@@ -2336,9 +2495,12 @@
 	},
 	"fan_superpower_ssr_star_5": {
 		"advancement": "เมื่ออยู่ภายใต้เอฟเฟกต์ของ <shuzhi>อาณาเขตแสงจันทร์</> จะได้รับชาร์จอาวุธ <shuzhi>30</> แต้มทุกวินาที และจะเพิ่มดาเมจของสกิลคอมโบ <shuzhi>{0}%</>",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "fan_superpower_plasm",
@@ -2351,9 +2513,12 @@
 	},
 	"fan_superpower_ssr_star_6": {
 		"advancement": "เปลี่ยนโหมดของ <shuzhi>อาณาเขตแสงจันทร์</> ได้สูงสุด <shuzhi>2</> ครั้ง สิทธิ์ในการเปลี่ยน <shuzhi>1</> ครั้งจะได้มาหลังการคูลดาวน์ของสกิล ส่วนอีก <shuzhi>1</> ครั้งจะได้มาจากการชาร์จสกิลคอมโบ\r\nเมื่อใช้สกิลคอมโบของอาวุธชนิดใด ๆ <shuzhi>3</> ครั้ง จะได้สิทธิ์ในการใช้ <shuzhi>อาณาเขตแสงจันทร์</> <shuzhi>+1</> ครั้ง เอฟเฟกต์จะยังคงมีผลแม้ชาโดว์วีฟจะอยู่ในช่องมือรอง\r\nเมื่ออยู่ภายใต้เอฟเฟกต์ของ <shuzhi>อาณาเขตแสงจันทร์</> พลังโจมตีจะเพิ่ม <shuzhi>{0}%</>",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "fan_superpower_plasm",
@@ -2366,10 +2531,16 @@
 	},
 	"arm_physic_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์กายภาพ</>: เพิ่ม ATK กายภาพ <shuzhi>{0}%</> และค่าต้านทานกายภาพ <shuzhi>{1}%</> จะเปิดใช้งานเมื่อติดตั้งอาวุธกายภาพ <shuzhi>2</> ชิ้นหรือมากกว่า เอฟเฟกต์เซตนี้ยังมีผลในช่องมือรองด้วย ไม่สามารถซ้อนทับกับเอฟเฟกต์ประเภทเดียวกันได้\r\n<shuzhi>ประทานพรกายภาพ</>: เมื่อเรโซแนนซ์ประทานพรเปิดใช้งาน จะเพิ่ม ATK กายภาพของทั้งทีม <shuzhi>5%</>",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmGMPhyAtkMul",
-			"ArmGMPhyDefMul"
+			{
+				"key": "ArmGMPhyAtkMul",
+				"value": 1
+			},
+			{
+				"key": "ArmGMPhyDefMul",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2382,9 +2553,12 @@
 	},
 	"arm_physic_ssr_star_1": {
 		"advancement": "ปลดปล่อยสกิลอาวุธชนิดใด ๆ หรือสกิลคอมโบ หากผู้พิทักษ์ของคุณมีจำนวนสูงสุด ระยะเวลาของผู้พิทักษ์จะถูกรีเฟรช จะสร้างดาเมจกายภาพแก่ศัตรูเท่ากับ <shuzhi>{0}%</> ของ ATK กายภาพ × จำนวนของผู้พิทักษ์ เมื่ออยู่ภายใต้เอฟเฟกต์ของประทานพร จะมีผู้พิทักษ์ได้สูงสุด 8 คน แต่ถ้าไม่มีเอฟเฟกต์ดังกล่าว จะมีผู้พิทักษ์ได้สูงสุด 6 คน",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel1DamMul"
+			{
+				"key": "ArmLevel1DamMul",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "arm_physic_plasm",
@@ -2409,10 +2583,16 @@
 	},
 	"arm_physic_ssr_star_3": {
 		"advancement": "เพิ่มดาเมจทั้งหมดที่สร้างขึ้นโดยผู้พิทักษ์ <shuzhi>20%</> และเมื่อใช้สกิลอาวุธหรือปลดปล่อยใด ๆ ภายใต้เอฟเฟกต์เรโซแนนซ์ประทานพร จะเพิ่มดาเมจสุดท้าย <shuzhi>{0}%</> ต่อเป้าหมายที่พิทักษ์ เป็นเวลา <shuzhi>{1}</> วินาที",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel3FinalDamMul",
-			"ArmLevel3FinalDamDuration"
+			{
+				"key": "ArmLevel3FinalDamMul",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel3FinalDamDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "arm_physic_plasm",
@@ -2437,9 +2617,12 @@
 	},
 	"arm_physic_ssr_star_5": {
 		"advancement": "ผู้พิทักษ์อภัยโทษ: หลังปลดปล่อยเรโซแนนซ์ 5 ครั้ง จะได้รับโอกาสในการลบล้างดาเมจระดับถึงตายให้ผู้ใช้และเป้าหมายที่พิทักษ์ <shuzhi>1</> ครั้ง หลังจากที่มีสมาชิกในทีมลบล้างดาเมจระดับถึงตาย สมาชิกนั้นจะใช้ผู้พิทักษ์อภัยโทษและได้รับค่าการฟื้นฟู <shuzhi>{0}%</> ของค่า HP สูงสุด ใช้งานในลีกแข่งยอดฝีมือไม่ได้\r\nผู้พิทักษ์บรรลุปัญญา: หลังปลดปล่อยเรโซแนนซ์ 5 ครั้ง และเมื่อมีผู้พิทักษ์บรรลุปัญญา ผู้ใช้จะได้รับโอกาสในการลบล้างดาเมจระดับถึงตาย <shuzhi>2</> ครั้ง สามารถซ้อนทับสูงสุด <shuzhi>5</> ครั้ง หลังจากที่ผู้ใช้ลบล้างดาเมจระดับถึงตาย ผู้นั้นจะใช้ผู้พิทักษ์บรรลุปัญญาจนหมดไป 1 ชั้น และได้รับค่าการฟื้นฟู <shuzhi>{0}%</> ของค่า HP สูงสุด ใช้งานในลีกแข่งยอดฝีมือไม่ได้",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel5HpReply"
+			{
+				"key": "ArmLevel5HpReply",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "arm_physic_plasm",
@@ -2452,11 +2635,20 @@
 	},
 	"arm_physic_ssr_star_6": {
 		"advancement": "เมื่อปลดปล่อยหรือใช้สกิลอาวุธใด ๆ การเพิ่มขึ้นของดาเมจสุดท้ายและการฟื้นฟูจะขึ้นอยู่กับจำนวนของผู้พิทักษ์ ผู้พิทักษ์แต่ละคน จะเพิ่มดาเมจสุดท้ายและการฟื้นฟูขึ้น <shuzhi>{0}%</> มากสุดถึง <shuzhi>{1}%</> เป็นเวลา <shuzhi>{2}</> วินาที",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel6Add",
-			"ArmLevel6AddMax",
-			"ArmLevel6AddDuration"
+			{
+				"key": "ArmLevel6Add",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddMax",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "arm_physic_plasm",
@@ -2481,12 +2673,24 @@
 	},
 	"tianlang_thunder_ssr_star_1": {
 		"advancement": "ได้รับซูเปอร์คอนดักเตอร์ 1 ชั้น ต่อหนึ่งชาร์จ: เพิ่ม HP สูงสุด <shuzhi>{0}%</> แต่เพิ่มดาเมจที่ได้รับ <shuzhi>{1}%</> (ยกเว้นเมื่อ HP น้อยกว่า {2} ของ ATK ไฟฟ้า และไม่ได้สวมใส่โล่ HP) ซ้อนทับได้สูงสุด <shuzhi>8</> ชั้น และถ้าซูเปอร์คอนดักเตอร์ไม่ได้รีเฟรชภายใน <shuzhi>{3}</> วินาที จะสูญเสีย 1 ชั้น ",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ImproveMaxHP_L3",
-			"Tianlang_BeDMGUp",
-			"Tianlang_BeDMGUp_Con_ATK",
-			"ImproveMaxHpDuration"
+			{
+				"key": "ImproveMaxHP_L3",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp_Con_ATK",
+				"value": 1
+			},
+			{
+				"key": "ImproveMaxHpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "tianlang_thunder_plasm",
@@ -2535,9 +2739,12 @@
 	},
 	"tianlang_thunder_ssr_star_5": {
 		"advancement": "ซูเปอร์คอนดักเตอร์ในแต่ละชั้น จะได้รับดาเมจสุดท้ายเพิ่ม <shuzhi>{0}%</>",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"AddFinalDMG_L5"
+			{
+				"key": "AddFinalDMG_L5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "tianlang_thunder_plasm",
@@ -2550,10 +2757,16 @@
 	},
 	"tianlang_thunder_ssr_star_6": {
 		"advancement": "เพิ่มการเหนี่ยวนำไฟฟ้าของดูเบ: สำหรับอาวุธไฟฟ้าทุก 1 ชิ้นที่ตรวจจับได้ ทำให้เพิ่มดาเมจไฟฟ้า <shuzhi>{0}%</> เป็นเวลา <shuzhi>{1}</> วินาที",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ThuInteractionAddThuDmgL6",
-			"ThuInteractionDuration"
+			{
+				"key": "ThuInteractionAddThuDmgL6",
+				"value": 1
+			},
+			{
+				"key": "ThuInteractionDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "tianlang_thunder_plasm",
@@ -2566,9 +2779,12 @@
 	},
 	"umbrella_fire_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์ไฟ</>: เพิ่ม ATK ไฟ <shuzhi>15%</> และเพิ่มการต้านทานไฟขึ้น <shuzhi>25%</> เปิดใช้งานได้ด้วยการติดตั้งอาวุธไฟ <shuzhi>2</> ชิ้นหรือมากกว่า เอฟเฟกต์เซตนี้ใช้งานได้ในช่องมือรอง และเอฟเฟกต์ประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaCreatCD"
+			{
+				"key": "UmbrellaCreatCD",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2629,9 +2845,12 @@
 	},
 	"umbrella_fire_ssr_star_5": {
 		"advancement": "ไฟเออร์รีแคลชและดาเมจที่ส่งต่อจะเพิกเฉยค่าต้านทานไฟของเป้าหมาย <shuzhi>60%</>\r\nดาเมจธาตุไฟของกัดกร่อนที่สร้างเพิ่มขึ้น <shuzhi>{0}%</>",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillBeFireDamUpMulLevel5"
+			{
+				"key": "UmbrellaSkillBeFireDamUpMulLevel5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "umbrella_fire_plasm",
@@ -2644,9 +2863,12 @@
 	},
 	"umbrella_fire_ssr_star_6": {
 		"advancement": "ดาเมจของแดนซ์ซิงเฟรมและซอริงสไตรก์เพิ่มขึ้น <shuzhi>{0}%</>\r\nตัวคูณของร่มสนามที่หมุนอย่างรวดเร็ว, ฟีนิกซ์สวีป และระยะเวลาเอฟเฟกต์ของไฟเออร์รีแคลชจะเท่ากับร่มสนามโพลีเฟเธอร์ +<shuzhi>2</>",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillMeleeDamUpMulLevel6"
+			{
+				"key": "UmbrellaSkillMeleeDamUpMulLevel6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "umbrella_fire_plasm",
@@ -2695,11 +2917,20 @@
 	},
 	"snipe_fire_ssr_star_3": {
 		"advancement": "หลังจากที่ครอสสไนป์ทำคริติคอล จะฟื้นฟู HP เท่ากับ <shuzhi>50%</> ของดาเมจที่ทำได้ (ไม่เกิน <shuzhi>15%</> ของ HP สูงสุดตัวเอง และไม่รวมดาเมจแก๊สระเบิด) และชาร์จอาวุธ <shuzhi>50</> แต้มชาร์จ\r\nแต่ละการซ้อนทับของแทรงควิลฮาร์ทจะเพิ่มอัตราคริติคอลสุดท้าย <shuzhi>{0}%</> มากสุดถึง <shuzhi>{1}%</> และแปลงเป็นดาเมจคริติคอลมากสูงสุดถึง <shuzhi>{2}%</>",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit"
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 3
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1.5
+			}
 		],
 		"cost": 4000,
 		"need": "Snipe_fire_plasm",
@@ -2736,9 +2967,12 @@
 	},
 	"snipe_fire_ssr_star_6": {
 		"advancement": "เพิ่มดาเมจที่สร้างโดยครอสสไนป์เพิ่มเติม <shuzhi>{0}%</>",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level6_FinaldamageUP"
+			{
+				"key": "Buff_SnipeFire_SSR_Level6_FinaldamageUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Snipe_fire_plasm",
@@ -2787,10 +3021,16 @@
 	},
 	"iceblade_ice_ssr_star_3": {
 		"advancement": "ทุกครั้งที่เรียกใช้สตาร์รี่ไนท์ จะได้รับอลิสซัพพอร์ต และเพิ่มดาเมจของสตาร์รี่ไนท์และน้ำค้างแข็ง <shuzhi>{0}%</> เป็นเวลา <shuzhi>{1}</> วินาที ซ้อนทับได้สูงสุด <shuzhi>3</> ชั้น",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel3DamageUpPer",
-			"IcebladeLevel3DamageUpDuration"
+			{
+				"key": "IcebladeLevel3DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel3DamageUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "iceblade_ice_plasm",
@@ -2815,10 +3055,16 @@
 	},
 	"iceblade_ice_ssr_star_5": {
 		"advancement": "เพิ่มดาเมจการโจมตีปกติของปีกไร้จำนนและสเปเทียลสไลซ์ <shuzhi>{0}%</> นักพเนจรจะได้รับอลิสโพรเทคชันเมื่อได้รับดาเมจถึงตาย ปกป้องนักพเนจรจากความตาย 1 ครั้ง และทำให้นักพเนจรไม่โดนดาเมจเป็นระยะเวลาสั้น ๆ คูลดาวน์: <shuzhi>{1}</> วินาที",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel5DamageUpPer",
-			"IcebladeLevel5ImmLethalCD"
+			{
+				"key": "IcebladeLevel5DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel5ImmLethalCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "iceblade_ice_plasm",
@@ -2831,9 +3077,12 @@
 	},
 	"iceblade_ice_ssr_star_6": {
 		"advancement": "เพิ่มดาเมจน้ำแข็ง <shuzhi>{0}%</> เมื่อการซ้อนทับของอลิสซัพพอร์ตถึง 3 ชั้น",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel6IceDamageUpPer"
+			{
+				"key": "IcebladeLevel6IceDamageUpPer",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "iceblade_ice_plasm",
@@ -2846,12 +3095,24 @@
 	},
 	"Whip_physic_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์กายภาพ</>: เพิ่ม ATK กายภาพ <shuzhi>15%</> และค่าต้านทานกายภาพ <shuzhi>25%</> เปิดการใช้งานโดยติดตั้งอาวุธกายภาพ <shuzhi>2</> ชิ้น หรือมากกว่า เอฟเฟกต์เซตนี้สามารถใช้งานได้กับอาวุธในช่องมือรอง และเอฟเฟกต์ประเภทเดียวกันจะไม่สามารถซ้อนทับได้",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_Physic_Resonance_ATK",
-			"Buff_Whip_Physic_Resonance_Def",
-			"Buff_Whip_ReviveHP",
-			"Buff_Whip_ReviveCD_L0"
+			{
+				"key": "Buff_Whip_Physic_Resonance_ATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L0",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2864,13 +3125,28 @@
 	},
 	"Whip_physic_ssr_star_1": {
 		"advancement": "เมื่อสลับไปใช้โมเบียส จะได้รับค่าอุ่นเครื่องทันที <shuzhi>{0}</> แต้ม คูลดาวน์: <shuzhi>{1}</> วินาที เมื่อเข้าสู่เทคนิคมายากลจะสร้างดาเมจวงกว้างเท่ากับ <shuzhi>{2}%</> ของ ATK ให้กับเป้าหมายใกล้เคียง และลดค่าต้านทานกายภาพเป้าหมาย <shuzhi>{3}%</> เป็นเวลา <shuzhi>{4}</> วินาที",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargeGet_L5",
-			"Buff_Whip_ChargeGetCD_L5",
-			"GE_WhipMagicBeginExSkill_Damage",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect_Duration"
+			{
+				"key": "Buff_Whip_ChargeGet_L5",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargeGetCD_L5",
+				"value": 1
+			},
+			{
+				"key": "GE_WhipMagicBeginExSkill_Damage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect",
+				"value": -100
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Whip_physic_plasm",
@@ -2895,14 +3171,32 @@
 	},
 	"Whip_physic_ssr_star_3": {
 		"advancement": "เมื่อสิ้นสุดเทคนิคมายากลก่อนกำหนด จะสร้างดาเมจวงกว้างเป็นเวลา <shuzhi>{3}</> วินาที จะลดคูลดาวน์ของสกิลโมเบียสในครั้งนี้ และดาเมจกายภาพเพิ่มขึ้น <shuzhi>{0}%</> ในช่วงเวลาหนึ่ง (เอฟเฟกต์นี้ไม่มีผลกับโมเบียส) ถ้าเทคนิคมายากลเหลือมากกว่า <shuzhi>13</> วินาที จะได้รับชาร์จอาวุธเพิ่มเติม <shuzhi>200</> แต้ม เมื่อเวลาของเทคนิคมายากลเหลือยิ่งมาก ดาเมจวงกว้างจะยิ่งสูง คูลดาวน์ของสกิลจะลดลงยิ่งมาก และการเพิ่มดาเมจกายภาพจะยิ่งยาวนานขึ้น สำหรับดาเมจวงกว้างที่ทำจะจำกัดที่ <shuzhi>{1}%</> ของ ATK (ดาเมจสูงสุดนั้นจะสร้างขึ้นเมื่อเวลาเหลือมากกว่า <shuzhi>{5}</> วินาที) การลดคูลดาวน์สูงสุด <shuzhi>{4}</> วินาที และการเพิ่มดาเมจกายภาพคงอยู่นานขึ้นถึง <shuzhi>{2}</> วินาที",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargedEndEffect_L3",
-			"MagicEnd_HighDamage",
-			"Buff_Whip_ChargedEndEffect_L3_DurationMax",
-			"MagicEnd_DamageDuration",
-			"ReduceSkillCDMax",
-			"MagicEnd_HighThreshold"
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighDamage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3_DurationMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_DamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ReduceSkillCDMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighThreshold",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Whip_physic_plasm",
@@ -2927,11 +3221,20 @@
 	},
 	"Whip_physic_ssr_star_5": {
 		"advancement": "เมื่อเข้าสู่สถานะเทคนิคมายากล จะได้รับเอฟเฟกต์หุ่นเชิดกายสิทธิ์ทันที โดยจะเพิ่มดาเมจกายภาพของโมเบียสขึ้น <shuzhi>{0}%</> ในระหว่างที่ใช้เทคนิคมายากลจะฟื้นฟูเท่ากับ <shuzhi>{1}%</> ของ HP สูงสุด และฟื้นฟูการชาร์จอาวุธ <shuzhi>{2}</> แต้มในทุกวินาที",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_MagicAB_Effect_DmgUp_L1",
-			"Buff_Whip_ChargedRecover_L1_HP",
-			"Buff_Whip_ChargedRecover_L1_Charge"
+			{
+				"key": "Buff_Whip_MagicAB_Effect_DmgUp_L1",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_HP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_Charge",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Whip_physic_plasm",
@@ -2944,10 +3247,16 @@
 	},
 	"Whip_physic_ssr_star_6": {
 		"advancement": "ภายใต้สถานะเทคนิคมายากล โมเบียสจะมีแส้เพิ่มเติมที่จะทำการฟาดอัตโนมัติในทุกครั้งที่นักพเนจรใช้โมเบียสในการโจมตีปกติหรือหลบการโจมตี สร้างดาเมจเท่ากับ <shuzhi>{0}%</> ของ ATK ของโมเบียส (ดาเมจนี้ไม่ถือว่าเป็นการโจมตีปกติ)",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"WhipMagicExWhipSkillDamageVar",
-			"Buff_Whip_ReviveCD_L6"
+			{
+				"key": "WhipMagicExWhipSkillDamageVar",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Whip_physic_plasm",
@@ -2960,11 +3269,20 @@
 	},
 	"yoyo_ice_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์น้ำแข็ง</>: เพิ่ม ATK น้ำแข็ง <shuzhi>15%</> และค่าต้านทานน้ำแข็ง <shuzhi>25%</> เปิดใช้เมื่อติดตั้งอาวุธน้ำแข็ง <shuzhi>2</> ชิ้นขึ้นไป เอฟเฟกต์เซตนี้ใช้งานได้ในช่องมือรอง เอฟเฟกต์ประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้\r\n<shuzhi>นักธาตุ</>: เพิ่มดาเมจสุดท้าย <shuzhi>{2}%</> ต่อการติดตั้งอาวุธธาตุทุก <shuzhi>1</> ประเภท เอฟเฟกต์เซตนี้ทำงานกับอาวุธในช่องมือรองด้วย",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2977,13 +3295,28 @@
 	},
 	"yoyo_ice_ssr_star_1": {
 		"advancement": "เมื่อใช้สกิลอาวุธใด ๆ โยโย่ว่องไวจะสามารถเรียกใช้ <shuzhi>การสอดประสาน</> สร้างดาเมจใส่เป้าหมายใกล้เคียงเท่ากับ <shuzhi>{0}%</> ของ HP ที่สูญเสียไป ดาเมจที่สร้างได้จะไม่ต่ำกว่า <shuzhi>{1}%</> ของ ATK สูงสุดของนักพเนจรและไม่มากกว่า <shuzhi>{2}%</> ของ ATK สูงสุดของนักพเนจร ประเภทของดาเมจธาตุที่ทำจะขึ้นอยู่กับอาวุธปัจจุบัน\r\nเมื่อใช้สกิลคอมโบของอาวุธใด ๆ โยโย่ว่องไวจะสามารถเรียกใช้ <shuzhi>ปรับจูน</> สร้างดาเมจใส่เป้าหมายใกล้เคียงเท่ากับ <shuzhi>{3}%</> ของ HP สูงสุดของนักพเนจร ซึ่งดาเมจที่ทำได้จะไม่มากกว่า <shuzhi>{4}%</> ของ ATK สูงสุดของนักพเนจร ประเภทของดาเมจธาตุที่ทำจะขึ้นอยู่กับอาวุธปัจจุบัน",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSkillTriggerDamage",
-			"YoyoSkillTriggerDamageMin",
-			"YoyoSkillTriggerDamageMax",
-			"YoyoChangeSkillTriggerDamage",
-			"YoyoChangeSkillTriggerDamageMax"
+			{
+				"key": "YoyoSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMin",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMax",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamageMax",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Yoyo_ice_plasm",
@@ -3008,10 +3341,16 @@
 	},
 	"yoyo_ice_ssr_star_3": {
 		"advancement": "เมื่อใช้ดีโซเลทเดย์ โยโย่ว่องไวจะสามารถเรียกใช้ <shuzhi>ความรวดเร็ว</> <shuzhi>{0}</> วินาที: ความเร็วของโยโย่ว่องไวจะเพิ่มขึ้น <shuzhi>{1}%</> ดาเมจเพิ่มขึ้น <shuzhi>160%</> และดาเมจที่เกิดจากการทะลุผ่านเป้าหมาย จะถูกแปลงเป็นดาเมจดาเมจวงแคบ",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Yoyo_ice_plasm",
@@ -3036,9 +3375,12 @@
 	},
 	"yoyo_ice_ssr_star_5": {
 		"advancement": "ดาเมจของโยโย่ว่องไว\r\nและกลับสู่ความโดดเดี่ยว\r\nเพิ่มขึ้น <shuzhi>{0}%</>",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoBulletDamageFigureL5"
+			{
+				"key": "YoyoBulletDamageFigureL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Yoyo_ice_plasm",
@@ -3051,9 +3393,12 @@
 	},
 	"yoyo_ice_ssr_star_6": {
 		"advancement": "เมื่อโยโย่ว่องไวถูกเรียกใช้ เพิ่มดาเมจสุดท้าย <shuzhi>{0}%</>",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"Buff_YoyoIceDmpUpL6"
+			{
+				"key": "Buff_YoyoIceDmpUpL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Yoyo_ice_plasm",
@@ -3769,13 +4114,28 @@
 	},
 	"brush_fire_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์ไฟ</>: ติดตั้งอาวุธธาตุไฟ <shuzhi>2</> ชิ้นขึ้นไปเพื่อเปิดใช้งาน จะเพิ่ม ATK ไฟ <shuzhi>15%</> และค่าต้านทานไฟ <shuzhi>25%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องมือรองด้วย และ เอฟเฟกต์ประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้\r\n<shuzhi>เปลวไฟปะทุ: บนสนาม</>: เมื่อการโจมตีใดก็ได้ของ<shuzhi>ไพน์โคเม็ต</>โดนเป้าหมายที่อยู่ใกล้เคียง จะสร้างดาเมจเท่ากับ <shuzhi>{0}%</> ของ ATK ไฟ + <shuzhi>{1}%</> ของ HP สูงสุดของตัวเอง + <shuzhi>{2}%</> ของผลรวมของค่าต้านทานทุกธาตุ + <shuzhi>{3}%</> ของค่าดาเมจคริติคอล จะปล่อยได้สูงสุด 1 ครั้ง ทุก <shuzhi>1.5</> วินาที ดาเมจระเบิดเพลิงถือว่าเป็นดาเมจโจมตีปกติ หากติดตั้งอาวุธธาตุไฟฟ้า/น้ำแข็ง/กายภาพใด ๆ <shuzhi>1</> ชิ้น ดาเมจระเบิดเพลิงจะเพิ่มขึ้น <shuzhi>{4}</> เท่า นอกจากนี้ ดาเมจระเบิดเพลิงจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากของอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushFireSpecialFireAtk",
-			"BrushFireSpecialMaxHP",
-			"BrushFireSpecialDef",
-			"BrushFireSpecialCrit",
-			"BrushFireSpecialOtherWeapon"
+			{
+				"key": "BrushFireSpecialFireAtk",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialDef",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3788,9 +4148,12 @@
 	},
 	"brush_fire_ssr_star_1": {
 		"advancement": "เมื่อ<shuzhi>ขนปักษี</>โดนเป้าหมาย จะสร้างเอฟเฟกต์กระจาย โดยจะปล่อยเผาไหม้และจุดเพลิง 1 ครั้ง สร้างดาเมจวงกว้างเพิ่มเติมเท่ากับ <shuzhi>{0}%</> ของดาเมจรวม และทำให้<shuzhi>ปักษีอัคคีผลาญ</>ที่อยู่ที่เป้าหมายกระจายไปยังเป้าหมายใกล้เคียง พร้อมทั้งรีเฟรชระยะเวลาของ<shuzhi>ปักษีอัคคีผลาญ</> ซึ่งทุก <shuzhi>5</> วินาที เอฟเฟกต์กระจายจะปล่อยสูงสุด 1 ครั้ง",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel1FireJieSuan"
+			{
+				"key": "BrushLevel1FireJieSuan",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "brush_fire_plasm",
@@ -3815,10 +4178,16 @@
 	},
 	"brush_fire_ssr_star_3": {
 		"advancement": "เมื่อ HP ของตนเองต่ำกว่า <shuzhi>50%</> ของ HP สูงสุด ทุก <shuzhi>0.5</> วินาที จะใช้<shuzhi>ขนปักษี</> <shuzhi>1</> อันและฟื้นฟู <shuzhi>{0}%</> ของ HP สูงสุด ในโหมดเล่นคนเดียวเอฟเฟกต์การฟื้นฟู HP จะเพิ่มขึ้นถึง <shuzhi>{1}%</> จนกว่า HP จะกลับมาเต็มหรือ<shuzhi>ขนปักษี</>ถูกใช้จนหมด เอฟเฟกต์เซตนี้ใช้งานได้ในช่องมือรอง",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel3ReceverHP",
-			"BrushLevel3ReceverHPClient"
+			{
+				"key": "BrushLevel3ReceverHP",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel3ReceverHPClient",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "brush_fire_plasm",
@@ -3843,10 +4212,16 @@
 	},
 	"brush_fire_ssr_star_5": {
 		"advancement": "เมื่อตนเองได้รับดาเมจถึงตาย จะต้านทานเอฟเฟกต์ถึงตาย 1 ครั้งและต้านทานดาเมจได้ในช่วงเวลาสั้น ๆ พร้อมรับ<shuzhi>ขนปักษี</> <shuzhi>60</> อันและค่าชาร์จอาวุธ <shuzhi>{0}</> ทันที เอฟเฟกต์นี้จะใช้งานได้สูงสุด 1 ครั้งในทุก <shuzhi>{1}</> วินาที เอฟเฟกต์เซตนี้ทำงานกับอาวุธในช่องมือรองด้วย",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel5YN",
-			"BrushLevel5MiansiCD"
+			{
+				"key": "BrushLevel5YN",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel5MiansiCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "brush_fire_plasm",
@@ -3859,9 +4234,12 @@
 	},
 	"brush_fire_ssr_star_6": {
 		"advancement": "เมื่อตนเองอยู่ในสถานะ \"<shuzhi>สุดขีด</>\" ดาเมจไฟจะเพิ่มขึ้นอีก <shuzhi>{0}%</>",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel6FireExtraAtkUP"
+			{
+				"key": "BrushLevel6FireExtraAtkUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "brush_fire_plasm",
@@ -3874,13 +4252,28 @@
 	},
 	"yulan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์น้ำแข็ง</>: ติดตั้งอาวุธธาตุน้ำแข็ง <shuzhi>2</> ชิ้นขึ้นไปเพื่อเปิดใช้งาน จะเพิ่ม ATK น้ำแข็ง <shuzhi>15%</> และค่าต้านทานน้ำแข็ง <shuzhi>25%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องมือรองด้วย เอฟเฟกต์ประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้\r\n<shuzhi>น้ำแข็งเกล็ด: ตัดฉับพลัน</>: เมื่อติดตั้ง<shuzhi>ยูนิตี้</> หลังจากสกิลคอมโบอาวุธใดโจมตีโดนเป้าหมาย จะสร้างดาเมจแรกต่อเป้าหมายใกล้เคียงเท่ากับ <shuzhi>{0}%</> ของ ATK น้ำแข็ง + <shuzhi>{1}%</> ของ HP สูงสุดของตัวเอง + <shuzhi>{2}%</> ของผลรวมของค่าต้านทานทุกธาตุ + <shuzhi>{3}%</> ของค่าดาเมจคริติคอล เมื่ออยู่ในสถานะต่อสู้ทุก <shuzhi>0.5</> วินาที ดาเมจรวดเร็วครั้งต่อไปจะเพิ่มขึ้น <shuzhi>1</> เท่า สูงสุด <shuzhi>30</> ครั้ง เมื่อมีดาเมจตัดฉับพลันหลายครั้ง จะคำนวณด้วยค่าเริ่มต้นสูงสุด ดาเมจรวดเร็วถือเป็นดาเมจคอมโบ หากติดตั้งอาวุธธาตุไฟฟ้า/กายภาพ/ธาตุไฟ <shuzhi>1</> ชิ้น ดาเมจน้ำแข็งเกล็ดจะเพิ่มขึ้น <shuzhi>{4}</> เท่า นอกจากนี้ ดาเมจน้ำแข็งเกล็ดจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากของอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YuLanEXChangeWeaponCoefficientIceAttack",
-			"YuLanEXChangeWeaponCoefficientMaxHP",
-			"YuLanEXChangeWeaponCoefficientDef",
-			"YuLanEXChangeWeaponCoefficientCrit",
-			"YuLanExChangeWeaponFinCoefficient"
+			{
+				"key": "YuLanEXChangeWeaponCoefficientIceAttack",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientMaxHP",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "YuLanExChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3893,15 +4286,36 @@
 	},
 	"yulan_ice_ssr_star_1": {
 		"advancement": "เมื่ออยู่ในฟอร์ม<shuzhi>จอมยุทธ์</> หลังจากที่<shuzhi>ยูนิตี้</>ใช้<shuzhi>กำลังภายใน</> <shuzhi>3</> แต้มหรือมากกว่า จะคืน<shuzhi>กำลังภายใน</> <shuzhi>{0}</> แต้ม หลังจากนั้นดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น <shuzhi>{1}%</> การโจมตีหลบหลีก/ดาเมจโจมตีปกติของ<shuzhi>ยูนิตี้</>จะเพิ่มขึ้น <shuzhi>{2}%</> เป็นเวลา <shuzhi>{3}</> วินาที\r\nเมื่ออยู่ในฟอร์ม<shuzhi>กวาดล้าง</> หลังจากที่<shuzhi>ยูนิตี้</>ใช้<shuzhi>จิตวิญญาณต่อสู้</> <shuzhi>3</> แต้มหรือมากกว่า จะคืน<shuzhi>จิตวิญญาณต่อสู้</> <shuzhi>{4}</> แต้ม หลังจากนั้นดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น <shuzhi>{5}%</> เป็นเวลา <shuzhi>{6}</> วินาที",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel1RecoverStack",
-			"YulanForceLevel1DamUpMul",
-			"YulanForceLevel1MeleeDamUpMul",
-			"YulanForceLevel1DamUpDuration",
-			"YulanArrayLevel1RecoverStack",
-			"YulanArrayLevel1DamUpMul",
-			"YulanArrayLevel1DamUpDuration"
+			{
+				"key": "YulanForceLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "yulan_ice_plasm",
@@ -3926,12 +4340,24 @@
 	},
 	"yulan_ice_ssr_star_3": {
 		"advancement": "เมื่ออยู่ในฟอร์ม<shuzhi>จอมยุทธ์</> ถ้าภายใน <shuzhi>{0}</> วินาที ไม่ได้รับ<shuzhi>กำลังภายใน</> ในครั้งต่อไปจะได้รับ <shuzhi>2</> แต้ม เมื่อได้รับ<shuzhi>กำลังภายใน</>\r\nเมื่ออยู่ในฟอร์มใดก็ได้ หลังจากที่<shuzhi>ยูนิตี้</>ใช้<shuzhi>กำลังภายใน</>หรือ<shuzhi>จิตวิญญาณต่อสู้</> <shuzhi>3</> แต้มหรือมากกว่า จะฟื้นฟูตนเองเท่ากับ <shuzhi>{1}%</> ของ HP สูงสุด ในโหมดเล่นคนเดียวจะเพิ่มขึ้น <shuzhi>{2}%</> เอฟเฟกต์นี้สามารถเรียกใช้ได้สูงสุด 1 ครั้งภายใน <shuzhi>8</> วินาที เมื่ออยู่ในฟอร์ม<shuzhi>กวาดล้าง</> และไม่มีขีดจำกัดเมื่ออยู่ในฟอร์ม<shuzhi>จอมยุทธ์</>",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceCDLevel3",
-			"YulanForceLevel3RecoverHpTeamMul",
-			"YulanForceLevel3RecoverHpSingleMul",
-			"YulanArrayLevel3RecoverHpCDDuration"
+			{
+				"key": "YulanForceCDLevel3",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel3RecoverHpCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "yulan_ice_plasm",
@@ -3956,11 +4382,20 @@
 	},
 	"yulan_ice_ssr_star_5": {
 		"advancement": "หลังจากที่<shuzhi>ยูนิตี้</>ใช้<shuzhi>กำลังภายใน</>หรือ<shuzhi>จิตวิญญาณต่อสู้</> เมื่อตนเองได้รับดาเมจถึงตาย จะต้านทานเอฟเฟกต์ถึงตาย 1 ครั้ง หลังจากนั้นจะฟื้นฟูตนเองเท่ากับ <shuzhi>{0}%</> ของ HP สูงสุด (ไม่มีผลในลีกแข่งยอดฝีมือ) ในโหมดเล่นคนเดียวจะเพิ่มขึ้นถึง <shuzhi>{1}%</> เอฟเฟกต์นี้จะเรียกใช้ได้สูงสุด 1 ครั้งทุก <shuzhi>{2}</> วินาที",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanLevel5ImmunityRecoverHpTeamMul",
-			"YulanLevel5ImmunityRecoverHpSingleMul",
-			"YulanLevel5ImmunityCDDuration"
+			{
+				"key": "YulanLevel5ImmunityRecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityRecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "yulan_ice_plasm",
@@ -3973,13 +4408,28 @@
 	},
 	"yulan_ice_ssr_star_6": {
 		"advancement": "เมื่ออยู่ในฟอร์ม<shuzhi>จอมยุทธ์</> การโจมตีหลบหลีก/ดาเมจโจมตีปกติของ<shuzhi>ยูนิตี้</>จะเพิ่มขึ้นเพิ่มเติมจากเดิมอีก <shuzhi>{0}%</> หลังจากใช้<shuzhi>กำลังภายใน</> ดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น <shuzhi>{1}%</> เป็นเวลา <shuzhi>{2}</> วินาที\r\nเมื่ออยู่ในฟอร์ม<shuzhi>กวาดล้าง</> หลังจากที่<shuzhi>ยูนิตี้</>ใช้<shuzhi>จิตวิญญาณต่อสู้</>แล้ว ดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น <shuzhi>{3}%</> เป็นเวลา <shuzhi>{4}</> วินาที",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel6MeleeDamUpMul",
-			"YulanForceLevel6DamUpMul",
-			"YulanForceLevel6DamUpDuration",
-			"YulanArrayLevel6DamUpMul",
-			"YulanArrayLevel6DamUpDuration"
+			{
+				"key": "YulanForceLevel6MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "yulan_ice_plasm",
@@ -3992,14 +4442,32 @@
 	},
 	"Zeke_physic_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์กายภาพ</>: เปิดใช้งานเมื่อติดตั้งอาวุธกายภาพ <shuzhi>2</> ชิ้นขึ้นไป จะเพิ่ม ATK กายภาพ <shuzhi>15%</> และค่าต้านทานกายภาพ <shuzhi>25%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องมือรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์กายภาพได้ ซึ่งเรโซแนนซ์กายภาพจะมีผลก่อน)\r\n <shuzhi>เรโซแนนซ์ไฟ</>: เปิดใช้งานเมื่อติดตั้งอาวุธไฟ <shuzhi>2</> ชิ้นขึ้นไป จะเพิ่ม ATK ไฟ <shuzhi>15%</> และค่าต้านทานไฟ <shuzhi>25%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องมือรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์ไฟได้ ซึ่งเรโซแนนซ์ไฟจะมีผลก่อน)\r\n<shuzhi>ทำลายโล่: ปล่อยมือ</>: หลังจากปล่อย<shuzhi>หุบเขาตัดขาด</> ทุกวินาทีจะสร้างดาเมจเท่ากับ <shuzhi>{1}%</> ของ ATK กายภาพ + <shuzhi>{2}%</> ของ HP สูงสุดของตัวเอง + <shuzhi>{3}%</> ของผลรวมของค่าต้านทานทุกธาตุ + <shuzhi>{4}%</> ของค่าดาเมจคริติคอลต่อเป้าหมายที่โจมตีโดน เป็นเวลา <shuzhi>{0}</> วินาที ดาเมจปล่อยมือหลายครั้งไม่สามารถซ้อนทับกันได้ และดาเมจทำลายโล่ถือเป็นดาเมจสกิล หากติดตั้งอาวุธธาตุไฟฟ้า/ไฟ/น้ำแข็ง <shuzhi>1</> ชิ้น ดาเมจทำลายเกราะจะเพิ่มขึ้น <shuzhi>{5}</> เท่า นอกจากนี้ ดาเมจทำลายเกราะจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากจากอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"Buff_ZekeSkillPoJiaDamageDuration",
-			"ZekePoJiaDamageCoeffPhyATK",
-			"ZekePoJiaDamageCoeffMaxHP",
-			"ZekePoJiaDamageCoeffDefSum",
-			"ZekePoJiaDamageCoeffCrit",
-			"ZekePoJiaDamageCoeffAdv"
+			{
+				"key": "Buff_ZekeSkillPoJiaDamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffPhyATK",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4060,11 +4528,20 @@
 	},
 	"Zeke_physic_ssr_star_5": {
 		"advancement": "หลังจากปล่อย<shuzhi>หุบเขาตัดขาด</> ดาเมจที่ตนเองได้รับลดลง <shuzhi>{0}%</> (ในโหมดเล่นคนเดียวจะเพิ่มขึ้นถึง <shuzhi>{1}%</>) เป็นเวลา<shuzhi>{2}</> วินาที",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ZekeBeDmgDownL5Team",
-			"ZekeBeDmgDownL5Single",
-			"Buff_ZekeSnakeLinkDebuffDuration"
+			{
+				"key": "ZekeBeDmgDownL5Team",
+				"value": 1
+			},
+			{
+				"key": "ZekeBeDmgDownL5Single",
+				"value": 1
+			},
+			{
+				"key": "Buff_ZekeSnakeLinkDebuffDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Zeke_physic_plasm",
@@ -4077,9 +4554,12 @@
 	},
 	"Zeke_physic_ssr_star_6": {
 		"advancement": "เมื่อ<shuzhi>โซ่นาคา</>มีสมาชิก <shuzhi>1</> ตัว อัตราส่งต่อของดาเมจ<shuzhi>ส่งต่อ</>จะเพิ่มขึ้นถึง <shuzhi>50%</>",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ConductFactorL6"
+			{
+				"key": "ConductFactorL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Zeke_physic_plasm",
@@ -4092,13 +4572,28 @@
 	},
 	"mimi_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์ไฟฟ้า</>: ติดตั้งอาวุธธาตุไฟฟ้า <shuzhi>2</> ชิ้นขึ้นไปเพื่อเปิดใช้งาน จะเพิ่ม ATK ไฟฟ้า <shuzhi>15%</> และค่าต้านทานไฟฟ้า <shuzhi>25%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องมือรองด้วย เอฟเฟกต์ประเภทเดียวกันจะไม่ซ้อนทับกัน\r\n<shuzhi>สายฟ้าฟาด: บนสนาม</>: เมื่อการโจมตีใดก็ได้ของ<shuzhi>เมิ่งจาง</>โดนเป้าหมาย จะสร้างดาเมจเท่ากับ <shuzhi>{0}%</> ของ ATK ไฟฟ้า + <shuzhi>{1}%</> ของ HP สูงสุดของตัวเอง + <shuzhi>{2}%</> ของผลรวมของค่าต้านทานทุกธาตุ + <shuzhi>{3}%</> ของค่าดาเมจคริติคอลให้กับเป้าหมายใกล้เคียง โดยทุก <shuzhi>1.5</> วินาที จะปล่อยได้สูงสุด 1 ครั้ง ดาเมจสายฟ้าฟาดถือว่าเป็นดาเมจโจมตีปกติ หากติดตั้งอาวุธธาตุไฟ/น้ำแข็ง/กายภาพ <shuzhi>1</> ชิ้น ดาเมจสายฟ้าฟาดจะเพิ่มขึ้น <shuzhi>{4}</> เท่า นอกจากนี้ ดาเมจสายฟ้าฟาดจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากของอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
-		"numbermap": "CurveTable'MiMiEffectFigure'",
+		"numbermap": "MiMiEffectFigure",
 		"numbers": [
-			"Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
-			"Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
-			"Buff_MiMiThu_SSR_Level0_SpecialDef",
-			"Buff_MiMiThu_SSR_Level0_SpecialCrit",
-			"Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon"
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4183,13 +4678,28 @@
 	},
 	"feise_fire_ssr_star_0": {
 		"advancement": "<shuzhi>เรโซแนนซ์ไฟ</>: ติดตั้งอาวุธธาตุไฟ <shuzhi>2</> ชิ้นขึ้นไปเพื่อเปิดใช้งาน จะเพิ่ม ATK ไฟ <shuzhi>20%</> และค่าต้านทานไฟ <shuzhi>40%</> เอฟเฟกต์เซตนี้ยังมีผลในช่องมือรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์ไฟหรือปฏิกิริยาไฟอื่นได้ ซึ่งเรโซแนนซ์ไฟจะมีผลก่อน)\r\n<shuzhi>เปลวไฟปะทุ: ตัดฉับพลัน</>: เมื่อติดตั้ง<shuzhi>เอนเลสบลูม</> หลังจากสกิลคอมโบอาวุธใดโดนเป้าหมาย จะสร้างดาเมจแรกใส่เป้าหมายใกล้เคียงเท่ากับ <shuzhi>{0}%</> ของ ATK ไฟ + <shuzhi>{1}%</> ของ HP สูงสุดของตัวเอง + <shuzhi>{2}%</> ของผลรวมของค่าต้านทานทุกธาตุ + <shuzhi>{3}%</> ของค่าดาเมจคริติคอล เมื่ออยู่ในสถานะต่อสู้ทุก <shuzhi>0.5</> วินาที ดาเมจรวดเร็วครั้งต่อไปจะเพิ่มขึ้น <shuzhi>1</> เท่า สูงสุด <shuzhi>30</> ครั้ง เมื่อมีดาเมจตัดฉับพลันหลายครั้ง จะคำนวณด้วยค่าเริ่มต้นสูงสุด ดาเมจเปลวไฟปะทุ: ตัดฉับพลันถือเป็นดาเมจคอมโบ หากติดตั้งอาวุธธาตุน้ำแข็ง/ไฟฟ้า/กายภาพ <shuzhi>1</> ชิ้น ดาเมจเปลวไฟปะทุจะเพิ่มขึ้น <shuzhi>{4}</> เท่า นอกจากนี้ ดาเมจเปลวไฟปะทุจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากของอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
-		"numbermap": "CurveTable'FeiseEffectFigure'",
+		"numbermap": "FeiseEffectFigure",
 		"numbers": [
-			"FeiSeEXChangeWeaponCoefficientFireAttack",
-			"FeiSeEXChangeWeaponCoefficientMaxHp",
-			"FeiSeEXChangeWeaponCoefficientDef",
-			"FeiSeEXChangeWeaponCoefficientCrit",
-			"FeiSeEXChangeWeaponFinCoefficient"
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientFireAttack",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientMaxHp",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",

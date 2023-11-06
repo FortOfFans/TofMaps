@@ -167,11 +167,20 @@
 	},
 	"Chainsaw_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Physical</>: Physical ATK meningkat <shuzhi>{0}%</> dan Physical Resistance meningkat <shuzhi>{1}%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Physical atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Physical atau Physical Reaction yang lain, di mana Resonansi Physical akan lebih diutamakan.\r\n<shuzhi>Resonansi Universal</>: Final DMG meningkat <shuzhi>{2}%</>. Aktifkan dengan memakai <shuzhi>2</> senjata yang memiliki elemen sama, tapi tidak termasuk senjata Physical. Efek ini juga aktif saat senjata ada di slot sampingan.",
-		"numbermap": "CurveTable'ChainsawEffectFigure'",
+		"numbermap": "ChainsawEffectFigure",
 		"numbers": [
-			"Buff_Chainsaw_Physic_Resonance_Atk",
-			"Buff_Chainsaw_Physic_Resonance_Def",
-			"ChainsawBalanceLevel0DamUP"
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Atk",
+				"value": 1
+			},
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "ChainsawBalanceLevel0DamUP",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -933,10 +942,16 @@
 	},
 	"gun_fire_ssr_star_1": {
 		"advancement": "Setiap serangan Barrage akan menimpakan DMG tambahan sebesar <shuzhi>{0}%</> dari HP target saat ini (tak bisa melebihi <shuzhi>{1}%</> ATK).",
-		"numbermap": "CurveTable'Gun_Fire_SSR_EffectFigure'",
+		"numbermap": "Gun_Fire_SSR_EffectFigure",
 		"numbers": [
-			"GunLevel1_1_HP",
-			"GunLevel1_1_DMG"
+			{
+				"key": "GunLevel1_1_HP",
+				"value": 1
+			},
+			{
+				"key": "GunLevel1_1_DMG",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "gun_fire_plasm",
@@ -1021,10 +1036,16 @@
 	},
 	"sword_physic_ssr_star_1": {
 		"advancement": "Setelah menghantam target dengan Skill Senjata atau Skill Discharge, mendapatkan 1 tumpuk Buff berikut: DMG yang ditimpakan meningkat <shuzhi>8%</> selama <shuzhi>25</> detik, bertumpuk hingga <shuzhi>3</> kali, maks 1 tumpuk per penggunaan Skill.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level1_DamageUp",
-			"Buff_SwordPhy_SSR_Level1_DamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "sword_physic_plasm",
@@ -1049,10 +1070,16 @@
 	},
 	"sword_physic_ssr_star_3": {
 		"advancement": "Memberikan 1 War Wounds saat menghantam target dengan Skill Senjata atau Skill Discharge: Meningkatkan Physical DMG yang diterima dan Shatter dari Senjata Physical sebesar <shuzhi>{0}%</> selama <shuzhi>{1}</> detik. Bertumpuk hingga <shuzhi>1</> kali.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp",
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "sword_physic_plasm",
@@ -1077,10 +1104,16 @@
 	},
 	"sword_physic_ssr_star_5": {
 		"advancement": "Menghantam target dengan Skill Senjata atau Skill Discharge memberikan Skill DMG Boost yang meningkatkan DMG semua Skill Senjata sebesar <shuzhi>{0}%</> selama <shuzhi>{1}</> detik. Efek ini tak bisa bertumpuk.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp",
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "sword_physic_plasm",
@@ -1534,10 +1567,16 @@
 	},
 	"queen_superpower_ssr_star_1": {
 		"advancement": "Menggunakan Skill Senjata atau Skill Discharge akan memberikan <shuzhi>1</> Kristal Elemen, maks <shuzhi>5</> Kristal. Setiap <shuzhi>6</> detik, Kristal Elemen berkurang <shuzhi>1</>.\r\nKristal Elemen meningkatkan Final DMG sebesar <shuzhi>4%</> dari [(<shuzhi>jumlah Kristal</> plus <shuzhi>1</>)/<shuzhi>2</>] dan meningkatkan efek penyembuhan sebesar <shuzhi>6%</> dari [(<shuzhi>jumlah Kristal</> plus <shuzhi>1</>)/<shuzhi>2</>].",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "queen_superpower_plasm",
@@ -1586,9 +1625,12 @@
 	},
 	"queen_superpower_ssr_star_5": {
 		"advancement": "Setiap kali Scatter Technique digunakan, kamu mendapatkan <shuzhi>1</> Kristal Elemen. Kristal Elemen akan berkurang <shuzhi>1</> setiap <shuzhi>20</> detik.\r\nSaat menerima DMG mematikan, <shuzhi>3</> Kristal Elemen akan dikonsumsi untuk menghindari kematian 1 kali dan menjadi kebal terhadap DMG untuk sementara. Dapat diaktifkan <shuzhi>1</> kali setiap <shuzhi>25</> detik.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "queen_superpower_plasm",
@@ -1601,9 +1643,12 @@
 	},
 	"queen_superpower_ssr_star_6": {
 		"advancement": "Meningkatkan Final DMG sebesar <shuzhi>7%</> dari [(<shuzhi>jumlah Kristal</> plus <shuzhi>3</>)/<shuzhi>2</>].",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "queen_superpower_plasm",
@@ -1616,11 +1661,20 @@
 	},
 	"Rubilia_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Volt</>: Volt ATK meningkat <shuzhi>15%</> dan Volt Resistance meningkat <shuzhi>25%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Volt atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Volt atau efek Volt Reaction lain, di mana Resonansi Volt akan diutamakan.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1633,9 +1687,12 @@
 	},
 	"Rubilia_thunder_ssr_star_1": {
 		"advancement": "Setelah memicu <shuzhi>Feedback</>, setiap Crystamax Thorn akan menimpakan DMG sebesar <shuzhi>66,7%</> ATK pada target di sekitar setiap <shuzhi>2</> detik selama <shuzhi>{0}</> detik.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_SummonSkill_Duration"
+			{
+				"key": "Buff_Rubilia_SummonSkill_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Rubilia_thunder_plasm",
@@ -1660,10 +1717,16 @@
 	},
 	"Rubilia_thunder_ssr_star_3": {
 		"advancement": "Menggunakan Skill Senjata atau Skill Discharge dengan senjata lainnya akan menghasilkan <shuzhi>1</> Crystamax Thorn.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Rubilia_thunder_plasm",
@@ -1688,9 +1751,12 @@
 	},
 	"Rubilia_thunder_ssr_star_5": {
 		"advancement": "Pemulihan Max HP dari Crystamax Thorn melalui <shuzhi>Feedback</> meningkat menjadi <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"SummonShotRecoverHPL5"
+			{
+				"key": "SummonShotRecoverHPL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Rubilia_thunder_plasm",
@@ -1703,10 +1769,16 @@
 	},
 	"Rubilia_thunder_ssr_star_6": {
 		"advancement": "Setelah berhasil menggunakan Harrah Embrace, Volt DMG meningkat lagi sebesar <shuzhi>{0}%</> selama <shuzhi>{1}</> detik.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_AddDamageL6",
-			"Buff_Rubilia_AddDamageL6_Duration"
+			{
+				"key": "Buff_Rubilia_AddDamageL6",
+				"value": 1
+			},
+			{
+				"key": "Buff_Rubilia_AddDamageL6_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Rubilia_thunder_plasm",
@@ -1803,14 +1875,32 @@
 	},
 	"Linghan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Frost</>: Frost ATK meningkat <shuzhi>15%</> dan Frost Resistance meningkat <shuzhi>25%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Frost atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan, dan tidak bisa ditumpuk dengan efek yang tipenya sama.\r\n<shuzhi>Extreme Cold: Unload</>: Setelah menggunakan <shuzhi>Sword Art: Shadowy Ice</>, menimpakan DMG tiap detik sebesar <shuzhi>{0}%</> Frost ATK plus <shuzhi>{1}%</> Max HP Wanderer plus <shuzhi>{2}%</> jumlah total semua tipe Resistance Wanderer plus <shuzhi>{3}%</> Crit selama <shuzhi>{4}</> detik. DMG Unload yang ditimpakan beberapa kali tidak akan bertumpuk dan DMG Extreme Cold akan dianggap sebagai DMG dari Skill. Jika ada <shuzhi>1</> Senjata Volt/Flame/Physical yang sedang terpasang, DMG Extreme Cold akan dikalikan <shuzhi>{5}</>. DMG Extreme Cold tidak terpengaruh oleh efek DMG Boost apa pun kecuali dari stat langka Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanJiHanDamageCoeffIceATK",
-			"LinghanJiHanDamageCoeffMaxHP",
-			"LinghanJiHanDamageCoeffDefSum",
-			"LinghanJiHanDamageCoeffCrit",
-			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
-			"LinghanJiHanDamageCoeffAdv"
+			{
+				"key": "LinghanJiHanDamageCoeffIceATK",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_LinghanSkillPoJiaDamageAdd_Duration",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1823,10 +1913,16 @@
 	},
 	"Linghan_ice_ssr_star_1": {
 		"advancement": "Setelah mengaktifkan <shuzhi>Frost Blade</>, Frost ATK Wanderer akan meningkat <shuzhi>{0}%</> dan target di sekitarnya akan menerima DMG sebesar <shuzhi>104%</> ATK setiap detik selama <shuzhi>{1}</> detik.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Effect_L1_IceAtkUp",
-			"Buff_Linghan_Effect_L1_Duration"
+			{
+				"key": "Buff_Linghan_Effect_L1_IceAtkUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_Effect_L1_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Linghan_ice_plasm",
@@ -1851,14 +1947,32 @@
 	},
 	"Linghan_ice_ssr_star_3": {
 		"advancement": "Wanderer dapat menghasilkan hingga <shuzhi>4</> <shuzhi>Frost Blade</> dan pengali dasar DMG <shuzhi>Temperature Reduction</> meningkat menjadi <shuzhi>468%</>.\r\nJika target adalah satu-satunya yang terkena <shuzhi>Temperature Reduction</> dalam jangka waktu <shuzhi>{0}</> detik, Wanderer akan menimpakan <shuzhi>Vein Seal</> pada target, yang akan mengurangi kecepatan mereka sebesar <shuzhi>{1}%</> (tidak berlaku di Apex League dan saat melawan Boss). Jika target menerima DMG <shuzhi>Frost Blade</> lagi selama durasi <shuzhi>Vein Seal</>, Icy Burst akan terpicu, menimpakan DMG Skill sebesar <shuzhi>{2}%</> ATK plus <shuzhi>{3}%</> HP target yang hilang pada saat itu (DMG Icy Burst tidak akan lebih rendah dari <shuzhi>{4}%</> Frost ATK Wanderer dan tidak lebih tinggi dari <shuzhi>{5}%</> Frost ATK Wanderer). Kemudian, efek <shuzhi>Vein Seal</> dan <shuzhi>Temperature Reduction</> pada target akan hilang.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Frostbite_DelayAdd_Period",
-			"Buff_Linghan_TargetSpeedDown",
-			"IceBoomAtkCoeff",
-			"IceBoomHPCoeff",
-			"IceBoomMinAtkCoeff",
-			"IceBoomMaxAtkCoeff"
+			{
+				"key": "Buff_Linghan_Frostbite_DelayAdd_Period",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_TargetSpeedDown",
+				"value": 1
+			},
+			{
+				"key": "IceBoomAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomHPCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMinAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMaxAtkCoeff",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Linghan_ice_plasm",
@@ -1883,10 +1997,16 @@
 	},
 	"Linghan_ice_ssr_star_5": {
 		"advancement": "DMG yang ditimpakan oleh <shuzhi>Crystalline Crack</> dan <shuzhi>Cold Air</> meningkat <shuzhi>50%</> lagi. Maks jatah penggunaan <shuzhi>Light Step</> meningkat menjadi <shuzhi>{1}</> dan tingkat pemulihannya meningkat menjadi <shuzhi>1</> jatah penggunaan setiap <shuzhi>{0}</> detik.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanQinggongPeriodL5",
-			"LinghanQinggongMaxL5"
+			{
+				"key": "LinghanQinggongPeriodL5",
+				"value": 1
+			},
+			{
+				"key": "LinghanQinggongMaxL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Linghan_ice_plasm",
@@ -2091,9 +2211,12 @@
 	},
 	"funnel_fire_ssr_star_1": {
 		"advancement": "Emblazen meningkatkan DMG Spark Attack menjadi <shuzhi>{0}%</>. CD skill dipersingkat menjadi <shuzhi>24</> detik.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel1AtkDamUp"
+			{
+				"key": "FunnelLevel1AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "funnel_fire_plasm",
@@ -2118,9 +2241,12 @@
 	},
 	"funnel_fire_ssr_star_3": {
 		"advancement": "Emblazen meningkatkan Flame Boost sebesar <shuzhi>{0}%</> dan meningkatkan pengganda Burn sebesar <shuzhi>75%</>.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel3FireDamBeUp"
+			{
+				"key": "FunnelLevel3FireDamBeUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "funnel_fire_plasm",
@@ -2157,9 +2283,12 @@
 	},
 	"funnel_fire_ssr_star_6": {
 		"advancement": "Emblazen meningkatkan DMG Spark Attack menjadi <shuzhi>{0}%</> dan melipatgandakan efisiensi akuisisi Heat menjadi dua kali lipat. CD skill turun menjadi <shuzhi>16</> detik.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel6AtkDamUp"
+			{
+				"key": "FunnelLevel6AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "funnel_fire_plasm",
@@ -2172,10 +2301,16 @@
 	},
 	"dkatana_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Frost</>: Meningkatkan Frost ATK sebesar <shuzhi>{0}%</> dan Frost Resistance sebesar <shuzhi>{1}%</>. Aktifkan dengan cara memakai <shuzhi>2</> Senjata Frost atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tak bisa bertumpuk dengan efek dari tipe yang sama.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2188,9 +2323,12 @@
 	},
 	"dkatana_ice_ssr_star_1": {
 		"advancement": "Saat Resonansi Frost diaktifkan, CD semua Skill Senjata ditiadakan setiap <shuzhi>5</> kali Skill Senjata digunakan, dan DMG dari Flow dan Serangan Balasan ditingkatkan <shuzhi>1</> kali untuk <shuzhi>{0}</> detik berikutnya.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration"
+			{
+				"key": "Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Dkatana_ice_plasm",
@@ -2215,9 +2353,12 @@
 	},
 	"dkatana_ice_ssr_star_3": {
 		"advancement": "Excited Flow: Meningkatkan DMG Sword Shadow: Surge menjadi <shuzhi>350%</> Frost ATK.\r\nSilent Flow: CD dari Sword Shadow: Surge menjadi <shuzhi>{0}</> detik.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_DkatanaSwordSkillCoolDown_5S_Duration"
+			{
+				"key": "Buff_DkatanaSwordSkillCoolDown_5S_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Dkatana_ice_plasm",
@@ -2254,12 +2395,24 @@
 	},
 	"dkatana_ice_ssr_star_6": {
 		"advancement": "Saat menyerang target dengan Surge, Frost DMG meningkat <shuzhi>{0}%</> selama <shuzhi>{1}</> detik.\r\nSaat menangkis dengan Sword Shadow, Frost DMG yang ditimpakan musuh di sekitar berkurang <shuzhi>{2}%</> selama <shuzhi>{3}</> detik.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_IceDMG_Add",
-			"Buff_Dkatana_IceDMG_Add_Duration",
-			"Buff_Dkatana_BlockWeakenEffect",
-			"Buff_Dkatana_BlockWeakenEffect_Duration"
+			{
+				"key": "Buff_Dkatana_IceDMG_Add",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_IceDMG_Add_Duration",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Dkatana_ice_plasm",
@@ -2284,10 +2437,16 @@
 	},
 	"fan_superpower_ssr_star_1": {
 		"advancement": "Serangan Biasa kini menimpakan DMG area saat menghantam target.\r\nSaat ada Epiphyllum lain dalam area ledakan Epiphyllum, meningkatkan DMG dari setiap ledakan Epiphyllum berikutnya sebesar <shuzhi>{0}%</>. Maks <shuzhi>{1}%</>.\r\nInterval kemunculan Epiphyllum dari <shuzhi>Moonlight Realm</> kini berkurang menjadi <shuzhi>0,5</> detik.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "fan_superpower_plasm",
@@ -2336,9 +2495,12 @@
 	},
 	"fan_superpower_ssr_star_5": {
 		"advancement": "Saat dalam efek <shuzhi>Moonlight Realm</>, memperoleh <shuzhi>30</> Charge Senjata setiap detik dan meningkatkan DMG Skill Discharge sebesar <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "fan_superpower_plasm",
@@ -2351,9 +2513,12 @@
 	},
 	"fan_superpower_ssr_star_6": {
 		"advancement": "Beralih mode di <shuzhi>Moonlight Realm</> maks <shuzhi>2</> kali. Memperoleh <shuzhi>1</> jatah penggunaan setelah skill memasuki CD dan <shuzhi>1</> lagi dengan mengisi Discharge.\r\nLakukan Skill Discharge dengan senjata apa pun <shuzhi>3</> kali untuk mendapatkan <shuzhi>+1</> pada hitungan <shuzhi>Moonlight Realm</>. Berlaku bahkan saat Shadoweave ada di slot sampingan.\r\nSaat dalam efek <shuzhi>Moonlight Realm</>, Serangan meningkat <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "fan_superpower_plasm",
@@ -2366,10 +2531,16 @@
 	},
 	"arm_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Physical</>: Physical ATK meningkat <shuzhi>{0}%</> dan Physical Resistance meningkat <shuzhi>{1}%</>. Aktifkan dengan cara memakai <shuzhi>2</> Senjata Physical atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.\r\n<shuzhi>Physical Benediction</>: Saat Resonansi Benediction diaktifkan, Physical ATK seluruh anggota tim meningkat <shuzhi>5%</>.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmGMPhyAtkMul",
-			"ArmGMPhyDefMul"
+			{
+				"key": "ArmGMPhyAtkMul",
+				"value": 1
+			},
+			{
+				"key": "ArmGMPhyDefMul",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2382,9 +2553,12 @@
 	},
 	"arm_physic_ssr_star_1": {
 		"advancement": "Saat menggunakan Skill Senjata atau Skill Discharge, jika Guard kamu maksimum, durasi Guard akan direset dan menimpakan Physical DMG kepada musuh sebesar <shuzhi>{0}%</> Physical ATK × jumlah Guard. Dengan Benediction, bisa mengumpulkan hingga 8 Guard. Tanpa Benediction, hanya bisa mengumpulkan 6.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel1DamMul"
+			{
+				"key": "ArmLevel1DamMul",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "arm_physic_plasm",
@@ -2409,10 +2583,16 @@
 	},
 	"arm_physic_ssr_star_3": {
 		"advancement": "Meningkatkan semua DMG yang ditimpakan Guard sebesar <shuzhi>20%</> dan meningkatkan Final DMG target Guard sebesar <shuzhi>{0}%</> selama <shuzhi>{1}</> detik saat menggunakan Skill Senjata atau Skill Discharge dalam efek Resonansi Benediction.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel3FinalDamMul",
-			"ArmLevel3FinalDamDuration"
+			{
+				"key": "ArmLevel3FinalDamMul",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel3FinalDamDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "arm_physic_plasm",
@@ -2437,9 +2617,12 @@
 	},
 	"arm_physic_ssr_star_5": {
 		"advancement": "Forgiveness Guard: Setelah mengeluarkan Resonansi 5 kali, mendapatkan <shuzhi>1</> kesempatan untuk membatalkan DMG mematikan pada penggunanya dan target Guard. Setelah rekan tim membatalkan DMG mematikan, ia akan mengonsumsi Forgiveness Guard dan memulihkan <shuzhi>{0}%</> Max HP. Tak berlaku di Apex League.\r\nEnlightenment Guard: Setelah mengeluarkan Resonansi 5 kali dan saat memiliki Enlightenment Guard, penggunanya menerima <shuzhi>2</> kesempatan untuk membatalkan DMG mematikan. Bisa bertumpuk <shuzhi>5</> kali. Setelah penggunanya membatalkan DMG mematikan, ia akan mengonsumsi 1 tumpuk Enlightenment Guard dan memulihkan <shuzhi>{0}%</> Max HP. Tak berlaku di Apex League.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel5HpReply"
+			{
+				"key": "ArmLevel5HpReply",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "arm_physic_plasm",
@@ -2452,11 +2635,20 @@
 	},
 	"arm_physic_ssr_star_6": {
 		"advancement": "Saat menggunakan Skill Senjata atau Skill Discharge, peningkatan Final DMG dan penyembuhan bergantung pada jumlah Guard. Setiap Guard meningkatkan Final DMG dan penyembuhan sebesar <shuzhi>{0}%</>, maks <shuzhi>{1}%</>, selama <shuzhi>{2}</> detik.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel6Add",
-			"ArmLevel6AddMax",
-			"ArmLevel6AddDuration"
+			{
+				"key": "ArmLevel6Add",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddMax",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "arm_physic_plasm",
@@ -2481,12 +2673,24 @@
 	},
 	"tianlang_thunder_ssr_star_1": {
 		"advancement": "Mendapat 1 tumpuk Superconductor per charge: Meningkatkan Max HP sebesar <shuzhi>{0}%</>, tapi meningkatkan DMG yang diterima sebesar <shuzhi>{1}%</> (kecuali saat HP saat ini lebih rendah dari {2} kali Volt ATK dan saat tidak ada Perisai HP yang dipakai), bertumpuk hingga <shuzhi>8</> kali. Kehilangan 1 tumpuk jika Superconductor tidak diperbarui dalam <shuzhi>{3}</> detik.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ImproveMaxHP_L3",
-			"Tianlang_BeDMGUp",
-			"Tianlang_BeDMGUp_Con_ATK",
-			"ImproveMaxHpDuration"
+			{
+				"key": "ImproveMaxHP_L3",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp_Con_ATK",
+				"value": 1
+			},
+			{
+				"key": "ImproveMaxHpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "tianlang_thunder_plasm",
@@ -2535,9 +2739,12 @@
 	},
 	"tianlang_thunder_ssr_star_5": {
 		"advancement": "Tiap tumpuk Superconductor meningkatkan DMG yang ditimpakan sebesar <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"AddFinalDMG_L5"
+			{
+				"key": "AddFinalDMG_L5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "tianlang_thunder_plasm",
@@ -2550,10 +2757,16 @@
 	},
 	"tianlang_thunder_ssr_star_6": {
 		"advancement": "Meningkatkan Volt Sense dari Dubhe: Untuk setiap 1 Senjata Volt lain yang ditemukan, mendapat <shuzhi>{0}%</> Volt DMG Boost selama <shuzhi>{1}</> detik.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ThuInteractionAddThuDmgL6",
-			"ThuInteractionDuration"
+			{
+				"key": "ThuInteractionAddThuDmgL6",
+				"value": 1
+			},
+			{
+				"key": "ThuInteractionDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "tianlang_thunder_plasm",
@@ -2566,9 +2779,12 @@
 	},
 	"umbrella_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Flame</>: Flame ATK meningkat <shuzhi>15%</> dan Flame Resistance meningkat <shuzhi>25%</>. Aktifkan dengan cara memakai <shuzhi>2</> Senjata Flame atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaCreatCD"
+			{
+				"key": "UmbrellaCreatCD",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2629,9 +2845,12 @@
 	},
 	"umbrella_fire_ssr_star_5": {
 		"advancement": "Fiery Crash dan DMG yang ditransfer mengabaikan <shuzhi>60%</> Flame Resistance target.\r\nFlame DMG yang ditimpakan oleh Corrosion meningkat <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillBeFireDamUpMulLevel5"
+			{
+				"key": "UmbrellaSkillBeFireDamUpMulLevel5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "umbrella_fire_plasm",
@@ -2644,9 +2863,12 @@
 	},
 	"umbrella_fire_ssr_star_6": {
 		"advancement": "DMG Dancing Flames dan Soaring Strike meningkat <shuzhi>{0}%</>.\r\nPengali untuk Parasol yang berputar cepat, Phoenix Sweep, dan Fiery Crash sekarang adalah jumlah Polyfeather Parasol ditambah <shuzhi>2</>.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillMeleeDamUpMulLevel6"
+			{
+				"key": "UmbrellaSkillMeleeDamUpMulLevel6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "umbrella_fire_plasm",
@@ -2695,11 +2917,20 @@
 	},
 	"snipe_fire_ssr_star_3": {
 		"advancement": "Setiap kali Cross Snipe mendaratkan serangan Crit, memulihkan HP sebesar <shuzhi>50%</> DMG yang ditimpakan (tidak lebih dari <shuzhi>15%</> Max HP diri sendiri dan tidak termasuk DMG dari ledakan gas) dan <shuzhi>50</> Charge Senjata.\r\nSetiap tumpuk Tranquil Heart meningkatkan Crit Rate Final sebesar <shuzhi>{0}%</>, maks <shuzhi>{1}%</>, dan mengonversi hingga <shuzhi>{2}%</> Crit DMG.",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit"
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 3
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1.5
+			}
 		],
 		"cost": 4000,
 		"need": "Snipe_fire_plasm",
@@ -2736,9 +2967,12 @@
 	},
 	"snipe_fire_ssr_star_6": {
 		"advancement": "DMG yang ditimpakan oleh Cross Snipe meningkat lagi sebesar <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level6_FinaldamageUP"
+			{
+				"key": "Buff_SnipeFire_SSR_Level6_FinaldamageUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Snipe_fire_plasm",
@@ -2787,10 +3021,16 @@
 	},
 	"iceblade_ice_ssr_star_3": {
 		"advancement": "Setiap kali Starry Night terpicu, mendapatkan Alyss Support yang akan meningkatkan DMG dari Starry Night dan Hoarfrost sebesar <shuzhi>{0}%</> selama <shuzhi>{1}</> detik. Maks <shuzhi>3</> tumpuk.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel3DamageUpPer",
-			"IcebladeLevel3DamageUpDuration"
+			{
+				"key": "IcebladeLevel3DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel3DamageUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "iceblade_ice_plasm",
@@ -2815,10 +3055,16 @@
 	},
 	"iceblade_ice_ssr_star_5": {
 		"advancement": "Meningkatkan DMG dari Serangan Biasa Unyielding Wing dan Spatial Slice sebesar <shuzhi>{0}%</>. Saat menerima DMG mematikan, Wanderer akan mendapatkan Alyss Protection yang akan melindunginya dari kematian sebanyak 1 kali dan membuat Wanderer kebal terhadap DMG untuk sementara. CD: <shuzhi>{1}</> detik.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel5DamageUpPer",
-			"IcebladeLevel5ImmLethalCD"
+			{
+				"key": "IcebladeLevel5DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel5ImmLethalCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "iceblade_ice_plasm",
@@ -2831,9 +3077,12 @@
 	},
 	"iceblade_ice_ssr_star_6": {
 		"advancement": "Meningkatkan Frost DMG sebesar <shuzhi>{0}%</> saat Alyss Support mencapai 3 tumpuk.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel6IceDamageUpPer"
+			{
+				"key": "IcebladeLevel6IceDamageUpPer",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "iceblade_ice_plasm",
@@ -2846,12 +3095,24 @@
 	},
 	"Whip_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Physical</>: Physical ATK meningkat <shuzhi>15%</> dan Physical Resistance meningkat <shuzhi>25%</>. Aktifkan dengan cara memakai <shuzhi>2</> Senjata Physical atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_Physic_Resonance_ATK",
-			"Buff_Whip_Physic_Resonance_Def",
-			"Buff_Whip_ReviveHP",
-			"Buff_Whip_ReviveCD_L0"
+			{
+				"key": "Buff_Whip_Physic_Resonance_ATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L0",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2864,13 +3125,28 @@
 	},
 	"Whip_physic_ssr_star_1": {
 		"advancement": "Saat beralih ke Mobius, langsung mendapatkan <shuzhi>{0}</> Warm-Up Point. CD: <shuzhi>{1}</> detik. Saat memasuki Magic Trick, menimpakan DMG area sebesar <shuzhi>{2}%</> ATK ke target di sekitar dan mengurangi Physical Resistance mereka sebesar <shuzhi>{3}%</> selama <shuzhi>{4}</> detik.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargeGet_L5",
-			"Buff_Whip_ChargeGetCD_L5",
-			"GE_WhipMagicBeginExSkill_Damage",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect_Duration"
+			{
+				"key": "Buff_Whip_ChargeGet_L5",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargeGetCD_L5",
+				"value": 1
+			},
+			{
+				"key": "GE_WhipMagicBeginExSkill_Damage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect",
+				"value": -100
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Whip_physic_plasm",
@@ -2895,14 +3171,32 @@
 	},
 	"Whip_physic_ssr_star_3": {
 		"advancement": "Saat Magic Trick diakhiri lebih awal, menimpakan DMG dalam area yang luas selama <shuzhi>{3}</> detik. CD dari skill Mobius saat ini akan dipersingkat dan Physical DMG meningkat <shuzhi>{0}%</> untuk sementara (efek ini tidak berlaku bagi Mobius). Jika sisa waktu Magic Trick lebih dari <shuzhi>13</> detik, mendapatkan <shuzhi>200</> Charge Senjata. Makin lama sisa waktu saat Magic Trick berakhir, makin besar DMG area yang ditimpakan, makin banyak pengurangan CD skill, dan makin lama durasi peningkatan Physical DMG. DMG area yang ditimpakan tak bisa lebih dari <shuzhi>{1}%</> ATK (DMG maksimumnya akan ditimpakan jika waktu yang tersisa lebih dari <shuzhi>{5}</> detik). Batas maksimum pengurangan CD adalah <shuzhi>{4}</> detik, sedangkan peningkatan Physical DMG memiliki durasi maksimal <shuzhi>{2}</> detik.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargedEndEffect_L3",
-			"MagicEnd_HighDamage",
-			"Buff_Whip_ChargedEndEffect_L3_DurationMax",
-			"MagicEnd_DamageDuration",
-			"ReduceSkillCDMax",
-			"MagicEnd_HighThreshold"
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighDamage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3_DurationMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_DamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ReduceSkillCDMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighThreshold",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Whip_physic_plasm",
@@ -2927,11 +3221,20 @@
 	},
 	"Whip_physic_ssr_star_5": {
 		"advancement": "Saat memasuki Magic Trick, mendapatkan efek Psychic Puppet yang meningkatkan Physical DMG Boost Mobius menjadi <shuzhi>{0}%</>. Selama Magic Trick aktif, memulihkan <shuzhi>{1}%</> Max HP dan <shuzhi>{2}</> Charge Senjata setiap detik.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_MagicAB_Effect_DmgUp_L1",
-			"Buff_Whip_ChargedRecover_L1_HP",
-			"Buff_Whip_ChargedRecover_L1_Charge"
+			{
+				"key": "Buff_Whip_MagicAB_Effect_DmgUp_L1",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_HP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_Charge",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Whip_physic_plasm",
@@ -2944,10 +3247,16 @@
 	},
 	"Whip_physic_ssr_star_6": {
 		"advancement": "Selama durasi Magic Trick, Mobius mendapatkan satu cambuk tambahan yang akan diayunkan secara otomatis setiap kali Wanderer menggunakan Mobius untuk melancarkan Serangan Biasa atau Serangan Menghindar, menimpakan DMG sebesar <shuzhi>{0}%</> ATK Mobius (DMG ini tidak dianggap sebagai DMG Serangan Biasa).",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"WhipMagicExWhipSkillDamageVar",
-			"Buff_Whip_ReviveCD_L6"
+			{
+				"key": "WhipMagicExWhipSkillDamageVar",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Whip_physic_plasm",
@@ -2960,11 +3269,20 @@
 	},
 	"yoyo_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Frost</>: Frost ATK meningkat <shuzhi>15%</> dan Frost Resistance meningkat <shuzhi>25%</>. Aktifkan dengan memakai minimal <shuzhi>2</> Senjata Frost. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.\r\n<shuzhi>Elementalist</>: Final DMG meningkat <shuzhi>{2}%</> untuk setiap <shuzhi>1</> tipe elemen senjata yang dipakai. Efek ini juga aktif saat senjata ada di slot sampingan.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2977,13 +3295,28 @@
 	},
 	"yoyo_ice_ssr_star_1": {
 		"advancement": "Saat menggunakan Skill Senjata dari senjata apa pun, Speedy Yo-yo bisa memicu <shuzhi>Harmony</>, menimpakan DMG kepada target di sekitar sebesar <shuzhi>{0}%</> HP Wanderer yang hilang. DMG yang ditimpakan memiliki jumlah minimal <shuzhi>{1}%</> Max ATK Wanderer dan jumlah maksimal <shuzhi>{2}%</> Max ATK Wanderer. Tipe DMG elemen yang ditimpakan akan sama dengan senjata yang dipakai saat ini.\r\nSaat menggunakan Skill Discharge dengan senjata apa pun, Speedy Yo-yo bisa memicu <shuzhi>Tuning</>, menimpakan DMG kepada target di sekitar sebesar <shuzhi>{3}%</> Max HP Wanderer. DMG yang ditimpakan memiliki jumlah maksimal <shuzhi>{4}%</> Max ATK Wanderer. Tipe DMG elemen yang ditimpakan akan sama dengan senjata yang dipakai saat ini.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSkillTriggerDamage",
-			"YoyoSkillTriggerDamageMin",
-			"YoyoSkillTriggerDamageMax",
-			"YoyoChangeSkillTriggerDamage",
-			"YoyoChangeSkillTriggerDamageMax"
+			{
+				"key": "YoyoSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMin",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMax",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamageMax",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Yoyo_ice_plasm",
@@ -3008,10 +3341,16 @@
 	},
 	"yoyo_ice_ssr_star_3": {
 		"advancement": "Saat menggunakan Desolate Day, Speedy Yo-yo bisa memicu <shuzhi>Swiftness</> yang aktif selama <shuzhi>{0}</> detik: Kecepatan Speedy Yo-yo meningkat <shuzhi>{1}%</>, DMG meningkat <shuzhi>160%</>, dan DMG yang disebabkan karena melewati target dikonversi menjadi DMG area dalam area kecil.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Yoyo_ice_plasm",
@@ -3036,9 +3375,12 @@
 	},
 	"yoyo_ice_ssr_star_5": {
 		"advancement": "DMG Speedy Yo-yo dan Return to Loneliness meningkat <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoBulletDamageFigureL5"
+			{
+				"key": "YoyoBulletDamageFigureL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Yoyo_ice_plasm",
@@ -3051,9 +3393,12 @@
 	},
 	"yoyo_ice_ssr_star_6": {
 		"advancement": "Selama Speedy Yo-yo aktif, Final DMG meningkat <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"Buff_YoyoIceDmpUpL6"
+			{
+				"key": "Buff_YoyoIceDmpUpL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Yoyo_ice_plasm",
@@ -3769,13 +4114,28 @@
 	},
 	"brush_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Flame</>: Flame ATK meningkat <shuzhi>15%</> dan Flame Resistance meningkat <shuzhi>25%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Flame atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.\r\n<shuzhi>Fiery Explosion: On-Field</>: Saat menghantam lawan dengan <shuzhi>Pine Comet</>, Fiery Explosion akan menimpakan DMG sebesar <shuzhi>{0}%</> Flame ATK plus <shuzhi>{1}%</> Max HP Wanderer plus <shuzhi>{2}%</> jumlah total semua tipe Resistance Wanderer plus <shuzhi>{3}%</> Crit. Efek ini dapat terpicu satu kali setiap <shuzhi>1,5</> detik. DMG Fiery Explosion dihitung sebagai DMG Serangan Biasa. Jika ada <shuzhi>1</> Senjata Volt/Frost/Physical yang sedang dipakai, DMG Fiery Explosion akan dikalikan <shuzhi>{4}</>. DMG Fiery Explosion tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushFireSpecialFireAtk",
-			"BrushFireSpecialMaxHP",
-			"BrushFireSpecialDef",
-			"BrushFireSpecialCrit",
-			"BrushFireSpecialOtherWeapon"
+			{
+				"key": "BrushFireSpecialFireAtk",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialDef",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3788,9 +4148,12 @@
 	},
 	"brush_fire_ssr_star_1": {
 		"advancement": "Saat <shuzhi>Sparrow Feather</> menghantam target, efek menyebar akan terpicu dan menimpakan DMG area sebesar <shuzhi>{0}%</> dari total DMG Burn dan DMG Incendiary. DMG ini juga menyebarkan <shuzhi>Sparroburn</> milik target ke target di sekelilingnya dan memperbarui durasi <shuzhi>Sparroburn</>. Efek menyebar ini dapat terpicu 1 kali setiap <shuzhi>5</> detik.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel1FireJieSuan"
+			{
+				"key": "BrushLevel1FireJieSuan",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "brush_fire_plasm",
@@ -3815,10 +4178,16 @@
 	},
 	"brush_fire_ssr_star_3": {
 		"advancement": "Saat HP Wanderer kurang dari <shuzhi>50%</> Max HP, setiap <shuzhi>0,5</>, mengonsumsi <shuzhi>1</> <shuzhi>Sparrow Feather</> sambil memulihkan <shuzhi>{0}%</> Max HP (meningkat menjadi <shuzhi>{1}%</> Max HP saat bermain Solo) hingga HP milikmu penuh atau hingga semua <shuzhi>Sparrow Feathers</> habis. Efek ini juga aktif saat senjata ada di slot sampingan.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel3ReceverHP",
-			"BrushLevel3ReceverHPClient"
+			{
+				"key": "BrushLevel3ReceverHP",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel3ReceverHPClient",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "brush_fire_plasm",
@@ -3843,10 +4212,16 @@
 	},
 	"brush_fire_ssr_star_5": {
 		"advancement": "Saat menerima DMG yang akan membuatmu mati, menghindari DMG mematikan 1 kali dan menjadi kebal terhadap DMG dalam waktu singkat, juga mendapatkan <shuzhi>60</> <shuzhi>Sparrow Feathers</> dan <shuzhi>{0}</> Charge Senjata. Skill ini dapat terpicu 1 kali setiap <shuzhi>{1}</> detik. Efek ini juga aktif saat senjata ada di slot sampingan.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel5YN",
-			"BrushLevel5MiansiCD"
+			{
+				"key": "BrushLevel5YN",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel5MiansiCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "brush_fire_plasm",
@@ -3859,9 +4234,12 @@
 	},
 	"brush_fire_ssr_star_6": {
 		"advancement": "Meningkatkan Flame DMG sebesar <shuzhi>{0}%</> lagi saat berada dalam kondisi <shuzhi>Pinnacle</>.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel6FireExtraAtkUP"
+			{
+				"key": "BrushLevel6FireExtraAtkUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "brush_fire_plasm",
@@ -3874,13 +4252,28 @@
 	},
 	"yulan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Frost</>: Frost ATK meningkat <shuzhi>15%</> dan Frost Resistance meningkat <shuzhi>25%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Frost atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek yang tipenya sama.\r\n<shuzhi>Icecrush: Swift Cut</>: Saat menggunakan <shuzhi>Unity</>, setelah mendaratkan serangan dengan Skill Discharge Senjata apa pun, menimpakan DMG awal ke target di sekitar sebesar <shuzhi>{0}%</> Frost ATK plus <shuzhi>{1}%</> Max HP Wanderer plus <shuzhi>{2}%</> dari total semua tipe Resistance Wanderer plus <shuzhi>{3}%</> Crit. Selama dalam pertempuran, setiap <shuzhi>0,5</> detik, DMG Swift Cut berikutnya akan bertambah <shuzhi>1</> kali lipat, maks <shuzhi>30</> kali lipat. Saat ada beberapa nilai DMG Swift Cut, nilai awal tertinggilah yang akan dihitung. DMG Swift Cut dianggap sebagai DMG Skill Discharge. Jika ada <shuzhi>1</> Senjata Volt/Physical/Flame yang digunakan, DMG Icecrush akan bertambah <shuzhi>{4}</> kali lipat. DMG Icecrush tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YuLanEXChangeWeaponCoefficientIceAttack",
-			"YuLanEXChangeWeaponCoefficientMaxHP",
-			"YuLanEXChangeWeaponCoefficientDef",
-			"YuLanEXChangeWeaponCoefficientCrit",
-			"YuLanExChangeWeaponFinCoefficient"
+			{
+				"key": "YuLanEXChangeWeaponCoefficientIceAttack",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientMaxHP",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "YuLanExChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3893,15 +4286,36 @@
 	},
 	"yulan_ice_ssr_star_1": {
 		"advancement": "Saat dalam wujud <shuzhi>Martial Artist</>, setelah mengonsumsi <shuzhi>3</> <shuzhi>Internal Strength</> atau lebih, <shuzhi>Unity</> memulihkan <shuzhi>{0}</> <shuzhi>Internal Strength</>. Lalu, Final DMG Wanderer meningkat <shuzhi>{1}%</>, dan DMG Serangan Menghindar/Serangan Biasa <shuzhi>Unity</> meningkat <shuzhi>{2}%</> selama <shuzhi>{3}</> detik.\r\nSaat dalam wujud <shuzhi>Sweeping Force</>, setelah mengonsumsi <shuzhi>3</> <shuzhi>Fighting Spirit</> atau lebih, <shuzhi>Unity</> memulihkan <shuzhi>{4}</> <shuzhi>Fighting Spirit</>. Lalu, Final DMG Wanderer meningkat <shuzhi>{5}%</> selama <shuzhi>{6}</> detik.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel1RecoverStack",
-			"YulanForceLevel1DamUpMul",
-			"YulanForceLevel1MeleeDamUpMul",
-			"YulanForceLevel1DamUpDuration",
-			"YulanArrayLevel1RecoverStack",
-			"YulanArrayLevel1DamUpMul",
-			"YulanArrayLevel1DamUpDuration"
+			{
+				"key": "YulanForceLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "yulan_ice_plasm",
@@ -3926,12 +4340,24 @@
 	},
 	"yulan_ice_ssr_star_3": {
 		"advancement": "Saat dalam wujud <shuzhi>Martial Artist</>, jika <shuzhi>Internal Strength</> tidak diperoleh dalam <shuzhi>{0}</> detik, akan mendapatkan <shuzhi>2</> <shuzhi>Internal Strength</> pada perolehan berikutnya.\r\nDalam wujud apa pun, saat <shuzhi>Unity</> mengonsumsi <shuzhi>3</> <shuzhi>Internal Strength</> atau <shuzhi>Fighting Spirit</> atau lebih, memulihkan <shuzhi>{1}%</> Max HP Wanderer. Dalam permainan solo, pemulihan HP meningkat menjadi <shuzhi>{2}%</>. Efek ini hanya bisa dipicu 1 kali setiap <shuzhi>8</> detik dalam wujud <shuzhi>Sweeping Force</>. Dalam wujud <shuzhi>Martial Artist</>, batasan ini tidak berlaku.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceCDLevel3",
-			"YulanForceLevel3RecoverHpTeamMul",
-			"YulanForceLevel3RecoverHpSingleMul",
-			"YulanArrayLevel3RecoverHpCDDuration"
+			{
+				"key": "YulanForceCDLevel3",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel3RecoverHpCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "yulan_ice_plasm",
@@ -3956,11 +4382,20 @@
 	},
 	"yulan_ice_ssr_star_5": {
 		"advancement": "Setelah <shuzhi>Unity</> mengonsumsi <shuzhi>Internal Strength</> atau <shuzhi>Fighting Spirit</>, saat menerima DMG mematikan, menahan DMG mematikan 1 kali dan memulihkan <shuzhi>{0}%</> Max HP Wanderer (Tak berlaku di Apex League). Dalam permainan solo, pemulihan HP meningkat menjadi <shuzhi>{1}%</>. Kedua efek ini hanya bisa dipicu 1 kali setiap <shuzhi>{2}</> detik.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanLevel5ImmunityRecoverHpTeamMul",
-			"YulanLevel5ImmunityRecoverHpSingleMul",
-			"YulanLevel5ImmunityCDDuration"
+			{
+				"key": "YulanLevel5ImmunityRecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityRecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "yulan_ice_plasm",
@@ -3973,13 +4408,28 @@
 	},
 	"yulan_ice_ssr_star_6": {
 		"advancement": "Saat dalam wujud <shuzhi>Martial Artist</>, Serangan Dodge/Serangan Biasa <shuzhi>Unity</> meningkat <shuzhi>{0}%</>. Setelah mengonsumsi <shuzhi>Internal Strength</>, Final DMG Wanderer meningkat <shuzhi>{1}%</> selama <shuzhi>{2}</> detik.\r\nSaat dalam wujud <shuzhi>Sweeping Force</>, setelah <shuzhi>Unity</> mengonsumsi <shuzhi>Fighting Spirit</>, Final DMG Wanderer meningkat <shuzhi>{3}%</> selama <shuzhi>{4}</> detik.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel6MeleeDamUpMul",
-			"YulanForceLevel6DamUpMul",
-			"YulanForceLevel6DamUpDuration",
-			"YulanArrayLevel6DamUpMul",
-			"YulanArrayLevel6DamUpDuration"
+			{
+				"key": "YulanForceLevel6MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "yulan_ice_plasm",
@@ -3992,14 +4442,32 @@
 	},
 	"Zeke_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Physical</>: Physical ATK meningkat <shuzhi>15%</> dan Physical Resistance meningkat <shuzhi>25%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Physical atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Physical lain, di mana Resonansi Physical akan diutamakan.\r\n<shuzhi>Resonansi Flame</>: Flame ATK meningkat <shuzhi>15%</> dan Flame Resistance meningkat <shuzhi>25%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Flame atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Flame lain, di mana Resonansi Flame akan diutamakan.\r\n\r\n<shuzhi>Shield Break: Detachment</>: Setelah menggunakan <shuzhi>Absolute Ravine</>, menimpakan DMG tiap detik sebesar <shuzhi>{1}%</> Physical ATK plus <shuzhi>{2}%</> Max HP Wanderer plus <shuzhi>{3}%</> jumlah total semua tipe Resistance Wanderer plus <shuzhi>{4}%</> Crit selama <shuzhi>{0}</> detik pada target yang terhantam. DMG Detachment yang ditimpakan beberapa kali tidak akan bertumpuk dan DMG Shield Break akan dianggap sebagai DMG dari Skill. Jika ada <shuzhi>1</> Senjata Volt/Flame/Frost yang sedang dipakai, DMG Shield Break akan dikalikan <shuzhi>{5}</>. DMG Shield Break tidak terpengaruh oleh efek peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"Buff_ZekeSkillPoJiaDamageDuration",
-			"ZekePoJiaDamageCoeffPhyATK",
-			"ZekePoJiaDamageCoeffMaxHP",
-			"ZekePoJiaDamageCoeffDefSum",
-			"ZekePoJiaDamageCoeffCrit",
-			"ZekePoJiaDamageCoeffAdv"
+			{
+				"key": "Buff_ZekeSkillPoJiaDamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffPhyATK",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4060,11 +4528,20 @@
 	},
 	"Zeke_physic_ssr_star_5": {
 		"advancement": "Setelah menggunakan <shuzhi>Absolute Ravine</>, DMG yang diterima Wanderer berkurang <shuzhi>{0}%</> (<shuzhi>{1}%</> dalam permainan solo) selama <shuzhi>{2}</> detik.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ZekeBeDmgDownL5Team",
-			"ZekeBeDmgDownL5Single",
-			"Buff_ZekeSnakeLinkDebuffDuration"
+			{
+				"key": "ZekeBeDmgDownL5Team",
+				"value": 1
+			},
+			{
+				"key": "ZekeBeDmgDownL5Single",
+				"value": 1
+			},
+			{
+				"key": "Buff_ZekeSnakeLinkDebuffDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Zeke_physic_plasm",
@@ -4077,9 +4554,12 @@
 	},
 	"Zeke_physic_ssr_star_6": {
 		"advancement": "Saat ada <shuzhi>1</> anggota <shuzhi>Serpent Chain</>, laju konduksi DMG <shuzhi>konduksi</> meningkat menjadi <shuzhi>50%</>.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ConductFactorL6"
+			{
+				"key": "ConductFactorL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Zeke_physic_plasm",
@@ -4092,13 +4572,28 @@
 	},
 	"mimi_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Volt</>: Volt ATK meningkat <shuzhi>15%</> dan Volt Resistance meningkat <shuzhi>25%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Volt atau lebih. Efek set ini aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.\r\n\r\n<shuzhi>Thunderboom: On-Field</>: Saat menghantam lawan dengan <shuzhi>Azure Dragon</>, Thunderboom akan menimpakan DMG sebesar <shuzhi>{0}%</> Volt ATK plus <shuzhi>{1}%</> Max HP Wanderer plus <shuzhi>{2}%</> dari jumlah total semua tipe Resistance Wanderer plus <shuzhi>{3}%</> Crit. Efek ini dapat terpicu maks 1 kali setiap <shuzhi>1,5</> detik. DMG Thunderboom dianggap sebagai DMG Serangan Biasa. Jika ada <shuzhi>1</> Senjata Flame/Frost/Physical yang terpasang, DMG Thunderboom akan dikalikan <shuzhi>{4}</>. DMG Thunderboom tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
-		"numbermap": "CurveTable'MiMiEffectFigure'",
+		"numbermap": "MiMiEffectFigure",
 		"numbers": [
-			"Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
-			"Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
-			"Buff_MiMiThu_SSR_Level0_SpecialDef",
-			"Buff_MiMiThu_SSR_Level0_SpecialCrit",
-			"Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon"
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4183,13 +4678,28 @@
 	},
 	"feise_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Resonansi Flame</>: Flame ATK meningkat <shuzhi>20%</> dan Flame Resistance meningkat <shuzhi>40%</>. Aktifkan dengan memakai <shuzhi>2</> Senjata Flame atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Flame atau efek Flame Reaction lain, di mana Resonansi Flame akan diutamakan.\r\n<shuzhi>Fiery Explosion: Swift Cut</>: Saat menggunakan <shuzhi>Endless Bloom</>, setelah mendaratkan serangan dengan Skill Discharge Senjata apa pun, menimpakan DMG awal ke target di sekitar sebesar <shuzhi>{0}%</> Flame ATK plus <shuzhi>{1}%</> Max HP Wanderer plus <shuzhi>{2}%</> dari total semua tipe Resistance Wanderer plus <shuzhi>{3}%</> Crit. Selama dalam pertempuran, setiap <shuzhi>0,5</> detik, DMG Swift Cut berikutnya akan meningkat <shuzhi>1</> kali lipat, maks <shuzhi>30</> kali lipat. Saat ada beberapa nilai DMG Swift Cut, nilai awal tertinggilah yang akan dihitung. DMG Fiery Explosion: Swift Cut dianggap sebagai DMG Skill Discharge. Jika ada <shuzhi>1</> Senjata Frost/Volt/Physical yang digunakan, DMG Fiery Explosion akan dikalikan <shuzhi>{4}</>. DMG Fiery Explosion tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
-		"numbermap": "CurveTable'FeiseEffectFigure'",
+		"numbermap": "FeiseEffectFigure",
 		"numbers": [
-			"FeiSeEXChangeWeaponCoefficientFireAttack",
-			"FeiSeEXChangeWeaponCoefficientMaxHp",
-			"FeiSeEXChangeWeaponCoefficientDef",
-			"FeiSeEXChangeWeaponCoefficientCrit",
-			"FeiSeEXChangeWeaponFinCoefficient"
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientFireAttack",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientMaxHp",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",

@@ -167,11 +167,20 @@
 	},
 	"Chainsaw_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia Física</>: Aumenta el ATQ físico un <shuzhi>{0}%</> y la resistencia física un <shuzhi>{1}%</>. Se activa equipando <shuzhi>2</> o más armas físicas. Este efecto de set también funciona con armas en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Física o Reacción física, con Resonancia Física siendo preferente.\r\n<shuzhi>Resonancia Universal</>: Aumenta el daño final en un <shuzhi>{2}%</>. Se activa equipando <shuzhi>2</> armas del mismo elemento, sin incluir el físico. Este efecto de set funciona en la ranura secundaria.",
-		"numbermap": "CurveTable'ChainsawEffectFigure'",
+		"numbermap": "ChainsawEffectFigure",
 		"numbers": [
-			"Buff_Chainsaw_Physic_Resonance_Atk",
-			"Buff_Chainsaw_Physic_Resonance_Def",
-			"ChainsawBalanceLevel0DamUP"
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Atk",
+				"value": 1
+			},
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "ChainsawBalanceLevel0DamUP",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -933,10 +942,16 @@
 	},
 	"gun_fire_ssr_star_1": {
 		"advancement": "Cada ronda de Ráfaga inflige daño adicional igual a <shuzhi>{0}%</> de los PS actuales del objetivo (no puede superar <shuzhi>{1}%</> del ATQ).",
-		"numbermap": "CurveTable'Gun_Fire_SSR_EffectFigure'",
+		"numbermap": "Gun_Fire_SSR_EffectFigure",
 		"numbers": [
-			"GunLevel1_1_HP",
-			"GunLevel1_1_DMG"
+			{
+				"key": "GunLevel1_1_HP",
+				"value": 1
+			},
+			{
+				"key": "GunLevel1_1_DMG",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "gun_fire_plasm",
@@ -1021,10 +1036,16 @@
 	},
 	"sword_physic_ssr_star_1": {
 		"advancement": "Tras impactar a un objetivo con una habilidad o habilidad de descarga, obtienes 1 acumulación de la siguiente mejora: Aumenta el daño infligido un <shuzhi>8%</> por <shuzhi>25</> seg, se acumula hasta <shuzhi>3</> veces para un máximo de 1 acumulación por uso de habilidad.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level1_DamageUp",
-			"Buff_SwordPhy_SSR_Level1_DamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "sword_physic_plasm",
@@ -1049,10 +1070,16 @@
 	},
 	"sword_physic_ssr_star_3": {
 		"advancement": "Al impactar a un objetivo con una habilidad o habilidad de descarga, aplica 1 acumulación de Heridas de Guerra al objetivo: Aumenta el daño físico recibido y la destrucción de las armas físicas en <shuzhi>{0}%</> por <shuzhi>{1} segundos</>. Se acumula <shuzhi>1</> vez.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp",
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "sword_physic_plasm",
@@ -1077,10 +1104,16 @@
 	},
 	"sword_physic_ssr_star_5": {
 		"advancement": "Impactar objetivos con habilidades o habilidades de descarga otorga un Refuerzo de Daño de Habilidades, lo que aumenta todo el daño de habilidades de armas en <shuzhi>{0}%</> por <shuzhi>{1} segundos</>. Este efecto no se puede acumular.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp",
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "sword_physic_plasm",
@@ -1534,10 +1567,16 @@
 	},
 	"queen_superpower_ssr_star_1": {
 		"advancement": "Usar cualquier arma o habilidad de descarga otorga <shuzhi>1</> cristal elemental, hasta <shuzhi>5</> cristales. Los cristales elementales se pierden a una tasa de <shuzhi>1</> cristal cada <shuzhi>6</> seg.\r\nLos cristales elementales brindan un refuerzo de daño final equivalente al <shuzhi>4%</> de [(<shuzhi>número de cristales más</> <shuzhi>1</>)/<shuzhi>2</>] y un efecto de curación aumentado equivalente al <shuzhi>6%</> del [(<shuzhi>número de cristales</> más <shuzhi>1</>)/<shuzhi>2</>].",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "queen_superpower_plasm",
@@ -1586,9 +1625,12 @@
 	},
 	"queen_superpower_ssr_star_5": {
 		"advancement": "Obtienes <shuzhi>1</> cristal elemental cada vez que usas Técnica de Dispersión. Los cristales elementales se pierden a una tasa de <shuzhi>1</> cristal cada <shuzhi>20</> seg.\r\nAl recibir daño letal, consume <shuzhi>3</> cristales elementales para evitar la muerte 1 vez y ganas inmunidad al daño por un breve momento. Se puede activar <shuzhi>1</> vez cada <shuzhi>25</> seg.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "queen_superpower_plasm",
@@ -1601,9 +1643,12 @@
 	},
 	"queen_superpower_ssr_star_6": {
 		"advancement": "Aumenta el daño final un <shuzhi>7%</> de [(<shuzhi>número de cristales </>más <shuzhi>3</>)/<shuzhi>2</>].",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "queen_superpower_plasm",
@@ -1616,11 +1661,20 @@
 	},
 	"Rubilia_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia Eléctrica</>: Aumenta el ATQ eléctrico un <shuzhi>15%</> y la resistencia eléctrica un <shuzhi>25%</>. Se activa al equipar <shuzhi>2</> o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Eléctrica o Reacción Eléctrica; Resonancia Eléctrica tiene preferencia.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1633,9 +1687,12 @@
 	},
 	"Rubilia_thunder_ssr_star_1": {
 		"advancement": "Tras activar <shuzhi>Retroalimentación</>, cada espina de cristamax infligirá daño a los objetivos cercanos igual a <shuzhi>66.7%</> del ATQ cada <shuzhi>2</> seg durante <shuzhi>{0}</> seg.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_SummonSkill_Duration"
+			{
+				"key": "Buff_Rubilia_SummonSkill_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Rubilia_thunder_plasm",
@@ -1660,10 +1717,16 @@
 	},
 	"Rubilia_thunder_ssr_star_3": {
 		"advancement": "Usar la habilidad de arma o la habilidad de descarga de cualquier otra arma generará <shuzhi>1</> espina de cristamax.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Rubilia_thunder_plasm",
@@ -1688,9 +1751,12 @@
 	},
 	"Rubilia_thunder_ssr_star_5": {
 		"advancement": "Aumenta la recuperación de PS Máx. de las espinas de cristamax de <shuzhi>Retroalimentación</> a <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"SummonShotRecoverHPL5"
+			{
+				"key": "SummonShotRecoverHPL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Rubilia_thunder_plasm",
@@ -1703,10 +1769,16 @@
 	},
 	"Rubilia_thunder_ssr_star_6": {
 		"advancement": "Tras usar Regalo de Harrah, aumenta el daño eléctrico un <shuzhi>{0}%</> adicional por <shuzhi>{1}</> seg.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_AddDamageL6",
-			"Buff_Rubilia_AddDamageL6_Duration"
+			{
+				"key": "Buff_Rubilia_AddDamageL6",
+				"value": 1
+			},
+			{
+				"key": "Buff_Rubilia_AddDamageL6_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Rubilia_thunder_plasm",
@@ -1803,14 +1875,32 @@
 	},
 	"Linghan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia de Escarcha</>: Aumenta el ATQ de escarcha un <shuzhi>15%</> y la resistencia a la escarcha un <shuzhi>25%</>. Se activa equipando <shuzhi>2</> o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n<shuzhi>Frío Extremo: Descarga</>: Después de usar <shuzhi>Arte de Espada: Hielo Oscuro</>, cada segundo infliges daño igual a la suma de: <shuzhi>{0}%</> de tu ATQ de escarcha, <shuzhi>{1}%</> de tus PS Máx., <shuzhi>{2}%</> de todos tus tipos de resistencias, y <shuzhi>{3}%</> de tu crítico. Ocurre durante <shuzhi>{4}</> seg. El daño de múltiples Descargas no se acumula, y el daño de Frío Extremo contará como daño de habilidad. Si tienes <shuzhi>1</> arma eléctrica/de fuego/física de cualquier tipo equipada, el daño de Frío Extremo se multiplica por <shuzhi>{5}</>. Además, el daño de Frío Extremo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanJiHanDamageCoeffIceATK",
-			"LinghanJiHanDamageCoeffMaxHP",
-			"LinghanJiHanDamageCoeffDefSum",
-			"LinghanJiHanDamageCoeffCrit",
-			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
-			"LinghanJiHanDamageCoeffAdv"
+			{
+				"key": "LinghanJiHanDamageCoeffIceATK",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_LinghanSkillPoJiaDamageAdd_Duration",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1823,10 +1913,16 @@
 	},
 	"Linghan_ice_ssr_star_1": {
 		"advancement": "Tras lanzar <shuzhi>Cuchilla de Hielo</>, aumenta tu ATQ de escarcha un <shuzhi>{0}%</> y los objetivos cercanos recibirán daño igual a <shuzhi>80%</> del ATQ cada segundo durante <shuzhi>{1}</> seg.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Effect_L1_IceAtkUp",
-			"Buff_Linghan_Effect_L1_Duration"
+			{
+				"key": "Buff_Linghan_Effect_L1_IceAtkUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_Effect_L1_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Linghan_ice_plasm",
@@ -1851,14 +1947,32 @@
 	},
 	"Linghan_ice_ssr_star_3": {
 		"advancement": "Puedes producir hasta <shuzhi>4</> <shuzhi>Cuchillas de Hielo</>, y el multiplicador base del daño de <shuzhi>Reducción de Temperatura</> aumenta a <shuzhi>360%</>.\r\nSi tu objetivo es el único afectado por <shuzhi>Reducción de Temperatura</>, dentro de <shuzhi>{0}</> seg le aplicas adicionalmente <shuzhi>Sello de Vena</>, lo que reduce su velocidad un <shuzhi>{1}%</> (no disponible en la Liga Ápex ni contra jefes). Si el objetivo vuelve a recibir daño de <shuzhi>Cuchilla de Hielo</> durante el <shuzhi>Sello de Vena</>, desencadena Estallido Gélido, lo que inflige daño de habilidad igual a <shuzhi>{2}%</> del ATQ más <shuzhi>{3}%</> de los PS ya perdidos del objetivo en ese momento (el daño de Estallido Gélido no será inferior a <shuzhi>{4}%</> del ATQ de escarcha del nómada ni superior a <shuzhi>{5}%</> del ATQ de escarcha del nómada). A continuación, elimina los efectos de <shuzhi>Sello de Vena</> y <shuzhi>Reducción de Temperatura</> en el objetivo.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Frostbite_DelayAdd_Period",
-			"Buff_Linghan_TargetSpeedDown",
-			"IceBoomAtkCoeff",
-			"IceBoomHPCoeff",
-			"IceBoomMinAtkCoeff",
-			"IceBoomMaxAtkCoeff"
+			{
+				"key": "Buff_Linghan_Frostbite_DelayAdd_Period",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_TargetSpeedDown",
+				"value": 1
+			},
+			{
+				"key": "IceBoomAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomHPCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMinAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMaxAtkCoeff",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Linghan_ice_plasm",
@@ -1883,10 +1997,16 @@
 	},
 	"Linghan_ice_ssr_star_5": {
 		"advancement": "Aumenta el daño infligido por <shuzhi>Grieta Cristalina</> y <shuzhi>Aire Frío</> adicionalmente un <shuzhi>50%</>. Aumenta los intentos de uso de <shuzhi>Pasos Ligeros</> a <shuzhi>{1}</> y aumenta la tasa de recuperación a <shuzhi>1</> intento cada <shuzhi>{0}</> seg.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanQinggongPeriodL5",
-			"LinghanQinggongMaxL5"
+			{
+				"key": "LinghanQinggongPeriodL5",
+				"value": 1
+			},
+			{
+				"key": "LinghanQinggongMaxL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Linghan_ice_plasm",
@@ -2091,9 +2211,12 @@
 	},
 	"funnel_fire_ssr_star_1": {
 		"advancement": "Arder aumenta el daño de Ataque de Chispa a <shuzhi>{0}%</>. El enfriamiento de habilidad baja a <shuzhi>24</> seg.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel1AtkDamUp"
+			{
+				"key": "FunnelLevel1AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "funnel_fire_plasm",
@@ -2118,9 +2241,12 @@
 	},
 	"funnel_fire_ssr_star_3": {
 		"advancement": "Arder aumenta el Refuerzo de Fuego en <shuzhi>{0}%</> y el multiplicador de recuento de quemadura a <shuzhi>75%</>.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel3FireDamBeUp"
+			{
+				"key": "FunnelLevel3FireDamBeUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "funnel_fire_plasm",
@@ -2157,9 +2283,12 @@
 	},
 	"funnel_fire_ssr_star_6": {
 		"advancement": "Arder aumenta el daño del Ataque de Chispa a <shuzhi>{0}%</> y duplica la eficiencia de adquisición de Calor. El enfriamiento de habilidad baja a <shuzhi>16</> segundos.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel6AtkDamUp"
+			{
+				"key": "FunnelLevel6AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "funnel_fire_plasm",
@@ -2172,10 +2301,16 @@
 	},
 	"dkatana_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia de Escarcha</>: Aumenta el ATQ de escarcha en <shuzhi>{0}%</> y la resistencia a la escarcha en <shuzhi>{1}%</>. Se activa equipando <shuzhi>2</> o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2188,9 +2323,12 @@
 	},
 	"dkatana_ice_ssr_star_1": {
 		"advancement": "Cuando se activa Resonancia de Escarcha, todos los enfriamientos de las habilidades de arma se eliminan cada <shuzhi>5</> veces que se usan habilidades de arma, y el daño de Flujo y Contraataque aumenta <shuzhi>1</> vez por <shuzhi>{0}</> seg.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration"
+			{
+				"key": "Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Dkatana_ice_plasm",
@@ -2215,9 +2353,12 @@
 	},
 	"dkatana_ice_ssr_star_3": {
 		"advancement": "Flujo Emocionado: Aumenta el daño de Sombra de Espada: Sobrecarga a <shuzhi>350%</> del ATQ de escarcha.\r\nFlujo Silencioso: El enfriamiento de Sombra de Espada: Sobrecarga se vuelve <shuzhi>{0}</> segundos.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_DkatanaSwordSkillCoolDown_5S_Duration"
+			{
+				"key": "Buff_DkatanaSwordSkillCoolDown_5S_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Dkatana_ice_plasm",
@@ -2254,12 +2395,24 @@
 	},
 	"dkatana_ice_ssr_star_6": {
 		"advancement": "Al impactar a un objetivo con Sobrecarga, aumenta el daño de escarcha un <shuzhi>{0}%</> por <shuzhi>{1}</> seg.\r\nAl activar un bloqueo con Sombra de Espada, reduce el daño de escarcha que infligen los objetivos enemigos un <shuzhi>{2}%</> por <shuzhi>{3}</> seg.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_IceDMG_Add",
-			"Buff_Dkatana_IceDMG_Add_Duration",
-			"Buff_Dkatana_BlockWeakenEffect",
-			"Buff_Dkatana_BlockWeakenEffect_Duration"
+			{
+				"key": "Buff_Dkatana_IceDMG_Add",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_IceDMG_Add_Duration",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Dkatana_ice_plasm",
@@ -2284,10 +2437,16 @@
 	},
 	"fan_superpower_ssr_star_1": {
 		"advancement": "Los ataques normales ahora infligen daño de área al impacto.\r\nCuando hay otro epífilo dentro del área de explosión de epífilo, aumenta el daño de cada una de las explosiones de epífilo posteriores en <shuzhi>{0}%</>, hasta <shuzhi>{1}%</> en total.\r\nEl intervalo de generación de epífilos de <shuzhi>Reino de Luz Lunar</> se vuelve de <shuzhi>0.5</> segundos.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "fan_superpower_plasm",
@@ -2336,9 +2495,12 @@
 	},
 	"fan_superpower_ssr_star_5": {
 		"advancement": "Cuando estás bajo el efecto de <shuzhi>Reino de Luz Lunar</>, obtienes <shuzhi>30</> de carga de arma cada segundo y el daño de la habilidad de descarga aumenta un <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "fan_superpower_plasm",
@@ -2351,9 +2513,12 @@
 	},
 	"fan_superpower_ssr_star_6": {
 		"advancement": "Cambia de modo en <shuzhi>Reino de Luz Lunar</> hasta <shuzhi>2</> veces. Gana <shuzhi>1</> intento después del enfriamiento de la habilidad y <shuzhi>1</> intento más cargando la descarga.\r\nUsa cualquier descarga de arma <shuzhi>3</> veces para ganar <shuzhi>+1</> en la cuenta de <shuzhi>Reino de Luz Lunar</>. Tiene efecto incluso cuando Tejesombras está en la ranura secundaria.\r\nCuando estás bajo el efecto de <shuzhi>Reino de Luz Lunar</>, aumenta el ataque en <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "fan_superpower_plasm",
@@ -2366,10 +2531,16 @@
 	},
 	"arm_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia Física</>: Aumenta el ATQ físico un <shuzhi>{0}%</> y la resistencia física un <shuzhi>{1}%</>. Se activa equipando <shuzhi>2</> o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n<shuzhi>Sacramento Físico</>: Aumenta el ATQ físico de todo el equipo un <shuzhi>5%</> cuando se activa Resonancia de Sacramento.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmGMPhyAtkMul",
-			"ArmGMPhyDefMul"
+			{
+				"key": "ArmGMPhyAtkMul",
+				"value": 1
+			},
+			{
+				"key": "ArmGMPhyDefMul",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2382,9 +2553,12 @@
 	},
 	"arm_physic_ssr_star_1": {
 		"advancement": "Al desatar cualquier habilidad de arma o descarga, si tus guardias están al máximo, restaura su duración e inflige <shuzhi>{0}%</> del ATQ Físico × el número de guardias al enemigo como daño físico. Máximo 8 guardias bajo el efecto de Sacramento, y hasta 6 sin él.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel1DamMul"
+			{
+				"key": "ArmLevel1DamMul",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "arm_physic_plasm",
@@ -2409,10 +2583,16 @@
 	},
 	"arm_physic_ssr_star_3": {
 		"advancement": "Aumenta todo el daño infligido por las guardias un <shuzhi>20%</> y aumenta el daño final del objetivo protegido un <shuzhi>{0}%</> por <shuzhi>{1} seg</> al desatar cualquier habilidad de arma o de descarga bajo el efecto de Resonancia de Sacramento.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel3FinalDamMul",
-			"ArmLevel3FinalDamDuration"
+			{
+				"key": "ArmLevel3FinalDamMul",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel3FinalDamDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "arm_physic_plasm",
@@ -2437,9 +2617,12 @@
 	},
 	"arm_physic_ssr_star_5": {
 		"advancement": "Guardia de Perdón: Después de liberar Resonancia 5 veces, recibes <shuzhi>1</> oportunidad de anular daño letal para el portador y el objetivo protegido. Después de que un compañero niegue el daño letal, consumirá Guardia de Perdón y recuperará un <shuzhi>{0}%</> de sus PS Máx. No disponible en la Liga Ápex.\r\nGuardia de Iluminación: Después de liberar Resonancia 5 veces y al tener la Guardia de Iluminación, el portador recibe <shuzhi>2</> oportunidades de anular daño letal. Se acumula hasta <shuzhi>5</> veces. Después de que el portador niegue daño letal, consumirá 1 acumulación de Guardia de Iluminación y recuperará un <shuzhi>{0}%</> de sus PS Máx. No disponible en la Liga Ápex.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel5HpReply"
+			{
+				"key": "ArmLevel5HpReply",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "arm_physic_plasm",
@@ -2452,11 +2635,20 @@
 	},
 	"arm_physic_ssr_star_6": {
 		"advancement": "Al desatar cualquier habilidad de arma o de descarga, el aumento del daño final y de la curación depende del número de guardias. Cada guardia aumenta el daño final y la curación un <shuzhi>{0}%</>, hasta <shuzhi>{1}%</> por <shuzhi>{2} seg</>.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel6Add",
-			"ArmLevel6AddMax",
-			"ArmLevel6AddDuration"
+			{
+				"key": "ArmLevel6Add",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddMax",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "arm_physic_plasm",
@@ -2481,12 +2673,24 @@
 	},
 	"tianlang_thunder_ssr_star_1": {
 		"advancement": "Obtienes 1 acumulación de Superconductor por carga: Aumenta los PS Máx. en <shuzhi>{0}%</> pero aumenta el daño recibido en <shuzhi>{1}%</> (excepto cuando los PS actuales son inferiores a {2} veces el ATQ eléctrico y no hay un escudo de PS equipado), se acumula hasta <shuzhi>8</> veces. Pierdes 1 acumulación si no se actualiza ningún Superconductor en <shuzhi>{3}</> segundos.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ImproveMaxHP_L3",
-			"Tianlang_BeDMGUp",
-			"Tianlang_BeDMGUp_Con_ATK",
-			"ImproveMaxHpDuration"
+			{
+				"key": "ImproveMaxHP_L3",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp_Con_ATK",
+				"value": 1
+			},
+			{
+				"key": "ImproveMaxHpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "tianlang_thunder_plasm",
@@ -2535,9 +2739,12 @@
 	},
 	"tianlang_thunder_ssr_star_5": {
 		"advancement": "Cada acumulación de Superconductor aumenta el daño final en <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"AddFinalDMG_L5"
+			{
+				"key": "AddFinalDMG_L5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "tianlang_thunder_plasm",
@@ -2550,10 +2757,16 @@
 	},
 	"tianlang_thunder_ssr_star_6": {
 		"advancement": "Sentido eléctrico de Dubhe de refuerzo: por cada arma eléctrica percibida, obtén un <shuzhi>{0}%</> de refuerzo de daño eléctrico por <shuzhi>{1}</> segundos.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ThuInteractionAddThuDmgL6",
-			"ThuInteractionDuration"
+			{
+				"key": "ThuInteractionAddThuDmgL6",
+				"value": 1
+			},
+			{
+				"key": "ThuInteractionDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "tianlang_thunder_plasm",
@@ -2566,9 +2779,12 @@
 	},
 	"umbrella_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia de Fuego</>: Aumenta el ATQ de Fuego en <shuzhi>15%</> y la Resistencia al Fuego en <shuzhi>25%</>. Se activa equipando <shuzhi>2</> o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaCreatCD"
+			{
+				"key": "UmbrellaCreatCD",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2629,9 +2845,12 @@
 	},
 	"umbrella_fire_ssr_star_5": {
 		"advancement": "Choque Ardiente y el daño transferido ignoran <shuzhi>60%</> de la resistencia al fuego del objetivo.\r\nEl daño de fuego causado por Corrosión aumenta un <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillBeFireDamUpMulLevel5"
+			{
+				"key": "UmbrellaSkillBeFireDamUpMulLevel5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "umbrella_fire_plasm",
@@ -2644,9 +2863,12 @@
 	},
 	"umbrella_fire_ssr_star_6": {
 		"advancement": "Aumenta el daño infligido por Llamas Danzantes e Impacto Aéreo en <shuzhi>{0}%</>.\r\nEl multiplicador de las sombrillas que giran rápidamente, Barrido Fénix y Choque Ardiente, ahora es Sombrilla de Polipluma más <shuzhi>2</>.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillMeleeDamUpMulLevel6"
+			{
+				"key": "UmbrellaSkillMeleeDamUpMulLevel6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "umbrella_fire_plasm",
@@ -2695,11 +2917,20 @@
 	},
 	"snipe_fire_ssr_star_3": {
 		"advancement": "Después de que Tiro en Cruz inflija un impacto crítico, recuperas PS iguales a <shuzhi>50%</> del daño infligido (sin superar <shuzhi>15%</> de tus PS Máx., sin incluir el daño de explosión de gas) y <shuzhi>50</> de carga de arma.\r\nCada acumulación de Corazón Tranquilo aumenta la Tasa Crítica Final a <shuzhi>{0}%</>, hasta <shuzhi>{1}%</>, y convierte hasta <shuzhi>{2}%</> del daño crítico.",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit"
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 3
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1.5
+			}
 		],
 		"cost": 4000,
 		"need": "Snipe_fire_plasm",
@@ -2736,9 +2967,12 @@
 	},
 	"snipe_fire_ssr_star_6": {
 		"advancement": "Aumenta el daño infligido por Tiro en Cruz un <shuzhi>{0}%</> adicional.",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level6_FinaldamageUP"
+			{
+				"key": "Buff_SnipeFire_SSR_Level6_FinaldamageUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Snipe_fire_plasm",
@@ -2787,10 +3021,16 @@
 	},
 	"iceblade_ice_ssr_star_3": {
 		"advancement": "Recibe Soporte de Alyss cada vez que se activa Noche Estrellada y aumenta el Daño de Escarcha y de Noche Estrellada un <shuzhi>{0}%</> por <shuzhi>{1}</> seg. Se acumula hasta <shuzhi>3</> veces.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel3DamageUpPer",
-			"IcebladeLevel3DamageUpDuration"
+			{
+				"key": "IcebladeLevel3DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel3DamageUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "iceblade_ice_plasm",
@@ -2815,10 +3055,16 @@
 	},
 	"iceblade_ice_ssr_star_5": {
 		"advancement": "Aumenta el daño del ataque normal de Ala Inflexible y de Corte Espacial un <shuzhi>{0}%</>. El nómada obtiene Protección de Alyss al recibir daño letal, lo que protege al nómada de la muerte 1 vez y lo hace inmune al daño por un breve momento. Enfriamiento: <shuzhi>{1}</> seg.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel5DamageUpPer",
-			"IcebladeLevel5ImmLethalCD"
+			{
+				"key": "IcebladeLevel5DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel5ImmLethalCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "iceblade_ice_plasm",
@@ -2831,9 +3077,12 @@
 	},
 	"iceblade_ice_ssr_star_6": {
 		"advancement": "Aumenta el daño de escarcha en <shuzhi>{0}%</> cuando el Soporte de Alyss alcanza 3 acumulaciones.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel6IceDamageUpPer"
+			{
+				"key": "IcebladeLevel6IceDamageUpPer",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "iceblade_ice_plasm",
@@ -2846,12 +3095,24 @@
 	},
 	"Whip_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia Física</>: Aumenta el ATQ físico un <shuzhi>15%</> y la resistencia física un <shuzhi>25%</>. Se activa equipando <shuzhi>2</> o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_Physic_Resonance_ATK",
-			"Buff_Whip_Physic_Resonance_Def",
-			"Buff_Whip_ReviveHP",
-			"Buff_Whip_ReviveCD_L0"
+			{
+				"key": "Buff_Whip_Physic_Resonance_ATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L0",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2864,13 +3125,28 @@
 	},
 	"Whip_physic_ssr_star_1": {
 		"advancement": "Al cambiar a Mobius, ganas inmediatamente <shuzhi>{0}</> puntos de calentamiento. Enfriamiento: <shuzhi>{1}</> seg. Al entrar a Truco de Magia, inflige daño de área igual a <shuzhi>{2}%</> del ATQ a los objetivos cercanos y reduce su resistencia física un <shuzhi>{3}%</> por <shuzhi>{4}</> seg.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargeGet_L5",
-			"Buff_Whip_ChargeGetCD_L5",
-			"GE_WhipMagicBeginExSkill_Damage",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect_Duration"
+			{
+				"key": "Buff_Whip_ChargeGet_L5",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargeGetCD_L5",
+				"value": 1
+			},
+			{
+				"key": "GE_WhipMagicBeginExSkill_Damage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect",
+				"value": -100
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Whip_physic_plasm",
@@ -2895,14 +3171,32 @@
 	},
 	"Whip_physic_ssr_star_3": {
 		"advancement": "Al terminar Truco de Magia antes de tiempo, infliges daño de área amplio por <shuzhi>{3}</> seg. Reduce el enfriamiento actual de la habilidad de Mobius y aumenta el daño físico un <shuzhi>{0}%</> por un periodo (este efecto no se aplica a Mobius). Si al Truco de Magia le quedan más de <shuzhi>13</> seg, ganas <shuzhi>200</> de carga de arma. Cuanto más tiempo quede cuando termine el Truco de Magia, mayor será el daño de área, mayor será la reducción de enfriamiento de habilidades y más durará el refuerzo de daño físico. El daño de área infligido tiene un límite de <shuzhi>{1}%</> del ATQ (el daño máximo se inflige cuando el tiempo restante es superior a <shuzhi>{5}</> seg). La reducción de enfriamiento máxima es de <shuzhi>{4}</> seg, y el refuerzo de daño físico puede durar hasta <shuzhi>{2}</> seg.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargedEndEffect_L3",
-			"MagicEnd_HighDamage",
-			"Buff_Whip_ChargedEndEffect_L3_DurationMax",
-			"MagicEnd_DamageDuration",
-			"ReduceSkillCDMax",
-			"MagicEnd_HighThreshold"
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighDamage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3_DurationMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_DamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ReduceSkillCDMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighThreshold",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Whip_physic_plasm",
@@ -2927,11 +3221,20 @@
 	},
 	"Whip_physic_ssr_star_5": {
 		"advancement": "Obtienes el efecto Marioneta Psíquica al entrar en el Truco de Magia, lo que aumenta el Refuerzo de Daño Físico de Mobius a <shuzhi>{0}%</>. Durante Truco de Magia, recuperas <shuzhi>{1}%</> de tus PS Máx. y <shuzhi>{2}</> carga de arma cada segundo.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_MagicAB_Effect_DmgUp_L1",
-			"Buff_Whip_ChargedRecover_L1_HP",
-			"Buff_Whip_ChargedRecover_L1_Charge"
+			{
+				"key": "Buff_Whip_MagicAB_Effect_DmgUp_L1",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_HP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_Charge",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Whip_physic_plasm",
@@ -2944,10 +3247,16 @@
 	},
 	"Whip_physic_ssr_star_6": {
 		"advancement": "Durante Truco de Magia, Mobius tiene un látigo adicional que se lanza automáticamente cada vez que el nómada usa a Mobius para realizar ataques normales o ataques de evasión, lo que inflige daño igual a <shuzhi>{0}%</> del ATQ de Mobius (este daño no cuenta como de ataques normales).",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"WhipMagicExWhipSkillDamageVar",
-			"Buff_Whip_ReviveCD_L6"
+			{
+				"key": "WhipMagicExWhipSkillDamageVar",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Whip_physic_plasm",
@@ -2960,11 +3269,20 @@
 	},
 	"yoyo_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia de Escarcha</>: Aumenta el ATQ de escarcha un <shuzhi>15%</> y la resistencia a la escarcha un <shuzhi>25%</>. Se activa equipando <shuzhi>2</> o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n<shuzhi>Elementalista</>: Aumenta el daño final un <shuzhi>{2}%</> por cada <shuzhi>1</> tipo de elemento de arma equipado. Este efecto de set también funciona con armas en la ranura secundaria.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2977,13 +3295,28 @@
 	},
 	"yoyo_ice_ssr_star_1": {
 		"advancement": "Al usar cualquier habilidad de arma, VelociYo-yo puede activar <shuzhi>armonía</>, lo que inflige daño a los objetivos cercanos igual a <shuzhi>{0}%</> de los PS perdidos del nómada. El daño infligido no será inferior a <shuzhi>{1}%</> del ATQ máx. del nómada, ni superior a <shuzhi>{2}%</> del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.\r\nCuando se usa cualquier descarga de arma, VelociYo-yo puede activar <shuzhi>ajuste</>, lo que inflige daño a los objetivos cercanos igual a un <shuzhi>{3}%</> de los PS máx. del nómada. El daño infligido no será superior a <shuzhi>{4}%</> del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSkillTriggerDamage",
-			"YoyoSkillTriggerDamageMin",
-			"YoyoSkillTriggerDamageMax",
-			"YoyoChangeSkillTriggerDamage",
-			"YoyoChangeSkillTriggerDamageMax"
+			{
+				"key": "YoyoSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMin",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMax",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamageMax",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Yoyo_ice_plasm",
@@ -3008,10 +3341,16 @@
 	},
 	"yoyo_ice_ssr_star_3": {
 		"advancement": "Al usar Día Desolado, VelociYo-yo puede activar <shuzhi>{0}</> seg de <shuzhi>rapidez</>: Aumenta la velocidad del VelociYo-yo un <shuzhi>{1}%</>, aumenta el daño un <shuzhi>160%</>, y el daño causado al atravesar al objetivo se convierte en un daño de área pequeña.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Yoyo_ice_plasm",
@@ -3036,9 +3375,12 @@
 	},
 	"yoyo_ice_ssr_star_5": {
 		"advancement": "Aumenta el daño de VelociYo-yo y Regreso a la Soledad en un <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoBulletDamageFigureL5"
+			{
+				"key": "YoyoBulletDamageFigureL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Yoyo_ice_plasm",
@@ -3051,9 +3393,12 @@
 	},
 	"yoyo_ice_ssr_star_6": {
 		"advancement": "Aumenta el daño final en un <shuzhi>{0}%</> mientras VelociYo-yo está activo.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"Buff_YoyoIceDmpUpL6"
+			{
+				"key": "Buff_YoyoIceDmpUpL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Yoyo_ice_plasm",
@@ -3769,13 +4114,28 @@
 	},
 	"brush_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia de Fuego</>: Aumenta el ATQ de fuego un <shuzhi>15%</> y la resistencia al fuego un <shuzhi>25%</>. Se activa equipando <shuzhi>2</> o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n<shuzhi>Explosión Ardiente: En el Campo</>: Al lograr un impacto con <shuzhi>Pincel Meteórico</>, infliges daño a los objetivos cercanos igual a <shuzhi>{0}%</> del ATQ de fuego más <shuzhi>{1}%</> de los PS Máx. del nómada más <shuzhi>{2}%</> de la suma de todos los tipos de resistencias del nómada más <shuzhi>{3}%</> del crítico. Este efecto se puede activar una vez cada <shuzhi>1.5</> seg. El daño de Explosión Ardiente cuenta como daño de ataque normal. Si tienes <shuzhi>1</> arma eléctrica/de escarcha/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por <shuzhi>{4}</>. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushFireSpecialFireAtk",
-			"BrushFireSpecialMaxHP",
-			"BrushFireSpecialDef",
-			"BrushFireSpecialCrit",
-			"BrushFireSpecialOtherWeapon"
+			{
+				"key": "BrushFireSpecialFireAtk",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialDef",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3788,9 +4148,12 @@
 	},
 	"brush_fire_ssr_star_1": {
 		"advancement": "Cuando una <shuzhi>Pluma de Gorrión</> impacta a un objetivo, activa un efecto de propagación que inflige daño de área adicional igual a <shuzhi>{0}%</> del daño total por quemadura e incendiario. También propaga la <shuzhi>Avequemadura</> del objetivo afectado a los objetivos cercanos, y restablece la duración de <shuzhi>Avequemadura</>. El efecto de esparcimiento se puede activar 1 vez cada <shuzhi>5</> seg.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel1FireJieSuan"
+			{
+				"key": "BrushLevel1FireJieSuan",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "brush_fire_plasm",
@@ -3815,10 +4178,16 @@
 	},
 	"brush_fire_ssr_star_3": {
 		"advancement": "Cuando los PS del nómada estén por debajo del <shuzhi>50%</> de los PS Máx., cada <shuzhi>0.5</> seg, consumes <shuzhi>1</> <shuzhi>Pluma de Gorrión</> y recuperas <shuzhi>{0}%</> de tus PS Máx. (aumenta a <shuzhi>{1}%</> de los PS Máx. en el modo individual) hasta que los PS del nómada estén completos o se hayan consumido todas las <shuzhi>Plumas de Gorrión</>. Este efecto funciona en la ranura secundaria.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel3ReceverHP",
-			"BrushLevel3ReceverHPClient"
+			{
+				"key": "BrushLevel3ReceverHP",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel3ReceverHPClient",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "brush_fire_plasm",
@@ -3843,10 +4212,16 @@
 	},
 	"brush_fire_ssr_star_5": {
 		"advancement": "Al recibir daño letal, lo evitas 1 vez y obtienes inmunidad al daño por un breve momento, e instantáneamente obtienes <shuzhi>60</> <shuzhi>Plumas de Gorrión</> y <shuzhi>{0}</> de carga de arma. Se puede activar 1 vez cada <shuzhi>{1}</> seg. Este efecto de set funciona en la ranura secundaria.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel5YN",
-			"BrushLevel5MiansiCD"
+			{
+				"key": "BrushLevel5YN",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel5MiansiCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "brush_fire_plasm",
@@ -3859,9 +4234,12 @@
 	},
 	"brush_fire_ssr_star_6": {
 		"advancement": "Aumenta el daño de fuego un <shuzhi>{0}%</> adicional cuando estás bajo el estado de <shuzhi>Cúspide</>.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel6FireExtraAtkUP"
+			{
+				"key": "BrushLevel6FireExtraAtkUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "brush_fire_plasm",
@@ -3874,13 +4252,28 @@
 	},
 	"yulan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia de Escarcha</>: Aumenta el ATQ de escarcha un <shuzhi>15%</> y la resistencia a la escarcha un <shuzhi>25%</>. Se activa equipando <shuzhi>2</> o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n<shuzhi>Hielo Destructor: Corte Veloz</>: Cuando <shuzhi>Unidad</> está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a <shuzhi>{0}%</> del ATQ de escarcha, más <shuzhi>{1}%</> de los PS Máx. del nómada, más <shuzhi>{2}%</> de la suma de todos los tipos de resistencias del nómada, más <shuzhi>{3}%</> del crítico. Mientras estés en estado de combate, después de cada <shuzhi>0.5</> seg, el daño del siguiente Corte Veloz aumentará una <shuzhi>1</> vez adicional, hasta un máximo de <shuzhi>30</> veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si hay <shuzhi>1</> arma eléctrica/física/de fuego de cualquier tipo equipada, el daño de Hielo Destructor aumenta <shuzhi>{4}</> veces. Además, el daño de Hielo Destructor no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YuLanEXChangeWeaponCoefficientIceAttack",
-			"YuLanEXChangeWeaponCoefficientMaxHP",
-			"YuLanEXChangeWeaponCoefficientDef",
-			"YuLanEXChangeWeaponCoefficientCrit",
-			"YuLanExChangeWeaponFinCoefficient"
+			{
+				"key": "YuLanEXChangeWeaponCoefficientIceAttack",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientMaxHP",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "YuLanExChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3893,15 +4286,36 @@
 	},
 	"yulan_ice_ssr_star_1": {
 		"advancement": "Mientras estás en la forma de <shuzhi>Artista Marcial</>, después de consumir <shuzhi>3</> o más de <shuzhi>Fuerza Interna</>, <shuzhi>Unidad</> restaura <shuzhi>{0}</> de <shuzhi>Fuerza Interna</>. Después, aumenta el daño final del nómada un <shuzhi>{1}%</>, y aumenta el daño de ataque de evasión/ataque normal de <shuzhi>Unidad</> un <shuzhi>{2}%</> por <shuzhi>{3}</> seg.\r\nAl estar en forma de <shuzhi>Fuerza Arrolladora</>, tras consumir <shuzhi>3</> o más de <shuzhi>Espíritu de Pelea</>, <shuzhi>Unidad</> restaura <shuzhi>{4}</> de <shuzhi>Espíritu de Pelea</>. También aumenta el daño final del nómada un <shuzhi>{5}%</> por <shuzhi>{6}</> seg.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel1RecoverStack",
-			"YulanForceLevel1DamUpMul",
-			"YulanForceLevel1MeleeDamUpMul",
-			"YulanForceLevel1DamUpDuration",
-			"YulanArrayLevel1RecoverStack",
-			"YulanArrayLevel1DamUpMul",
-			"YulanArrayLevel1DamUpDuration"
+			{
+				"key": "YulanForceLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "yulan_ice_plasm",
@@ -3926,12 +4340,24 @@
 	},
 	"yulan_ice_ssr_star_3": {
 		"advancement": "En la forma de <shuzhi>Artista Marcial</>, si no obtienes <shuzhi>Fuerza Interna</> dentro de un lapso de <shuzhi>{0}</> seg, la siguiente adquisición de <shuzhi>Fuerza Interna</> otorgará <shuzhi>2</> acumulaciones.\r\nEn cualquier forma, cuando <shuzhi>Unidad</> consume <shuzhi>3</> o más de <shuzhi>Fuerza Interna</> o de <shuzhi>Espíritu de Pelea</>, recuperas un <shuzhi>{1}%</> de tus PS Máx. En el modo individual, la recuperación de PS aumenta a <shuzhi>{2}%</>. Este efecto solo se puede activar 1 vez cada <shuzhi>8</> seg en forma de <shuzhi>Fuerza Arrolladora</>. En la forma de <shuzhi>Artista Marcial</>, no hay limitaciones.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceCDLevel3",
-			"YulanForceLevel3RecoverHpTeamMul",
-			"YulanForceLevel3RecoverHpSingleMul",
-			"YulanArrayLevel3RecoverHpCDDuration"
+			{
+				"key": "YulanForceCDLevel3",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel3RecoverHpCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "yulan_ice_plasm",
@@ -3956,11 +4382,20 @@
 	},
 	"yulan_ice_ssr_star_5": {
 		"advancement": "Después de que <shuzhi>Unidad</> consuma <shuzhi>Fuerza Interna</> o <shuzhi>Espíritu de Pelea</>, al recibir daño letal, evitas el daño letal 1 vez y recuperas <shuzhi>{0}%</> de tus PS Máx. (no disponible en la Liga Ápex). En el modo individual, la recuperación de PS aumenta a <shuzhi>{1}%</>. Ambos efectos solo se pueden activar 1 vez cada <shuzhi>{2}</> seg.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanLevel5ImmunityRecoverHpTeamMul",
-			"YulanLevel5ImmunityRecoverHpSingleMul",
-			"YulanLevel5ImmunityCDDuration"
+			{
+				"key": "YulanLevel5ImmunityRecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityRecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "yulan_ice_plasm",
@@ -3973,13 +4408,28 @@
 	},
 	"yulan_ice_ssr_star_6": {
 		"advancement": "Mientras estás en la forma <shuzhi>Artista Marcial</>, aumenta el daño de ataque de evasión/ataque normal de <shuzhi>Unidad</> un <shuzhi>{0}%</> adicional. Después de consumir <shuzhi>Fuerza Interna</>, aumenta el daño final del nómada un <shuzhi>{1}%</> durante <shuzhi>{2}</> seg.\r\nMientras estás en forma de <shuzhi>Fuerza Arrolladora</>, después de que <shuzhi>Unidad</> consume <shuzhi>Espíritu de Pelea</>, aumenta el daño final del nómada un <shuzhi>{3}%</> por <shuzhi>{4}</> seg.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel6MeleeDamUpMul",
-			"YulanForceLevel6DamUpMul",
-			"YulanForceLevel6DamUpDuration",
-			"YulanArrayLevel6DamUpMul",
-			"YulanArrayLevel6DamUpDuration"
+			{
+				"key": "YulanForceLevel6MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "yulan_ice_plasm",
@@ -3992,14 +4442,32 @@
 	},
 	"Zeke_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia Física</>: Aumenta el ATQ físico un <shuzhi>15%</> y la resistencia física un <shuzhi>25%</>. Se activa equipando <shuzhi>2</> o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Física; Resonancia Física tiene prioridad.\r\n<shuzhi>Resonancia de Fuego</>: Aumenta el ATQ de fuego un <shuzhi>15%</> y la resistencia al fuego un <shuzhi>25%</>. Se activa equipando <shuzhi>2</> o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego; Resonancia de Fuego tiene prioridad.\r\n\r\n<shuzhi>Destrucción de Escudo: Separación</>: Después de usar <shuzhi>Abismo Absoluto</>, cada segundo inflige daño igual a <shuzhi>{1}%</> del ATQ físico, más <shuzhi>{2}%</> de los PS Máx. del nómada, más <shuzhi>{3}%</> de la suma de todos los tipos de resistencias del nómada, más <shuzhi>{4}%</> del crítico durante <shuzhi>{0}</> seg a los objetivos impactados. El daño de varias Separaciones no se acumula, y el daño por destrucción de escudo cuenta como daño de habilidad. Si tienes <shuzhi>1</> arma eléctrica/de fuego/de escarcha equipada, el daño de destrucción de escudo se multiplica por <shuzhi>{5}</>. Además, el daño de destrucción de escudo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"Buff_ZekeSkillPoJiaDamageDuration",
-			"ZekePoJiaDamageCoeffPhyATK",
-			"ZekePoJiaDamageCoeffMaxHP",
-			"ZekePoJiaDamageCoeffDefSum",
-			"ZekePoJiaDamageCoeffCrit",
-			"ZekePoJiaDamageCoeffAdv"
+			{
+				"key": "Buff_ZekeSkillPoJiaDamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffPhyATK",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4060,11 +4528,20 @@
 	},
 	"Zeke_physic_ssr_star_5": {
 		"advancement": "Después de usar <shuzhi>Abismo Absoluto</>, reduce el daño que el nómada recibe un <shuzhi>{0}%</> (<shuzhi>{1}%</> en el modo individual) por <shuzhi>{2}</> seg.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ZekeBeDmgDownL5Team",
-			"ZekeBeDmgDownL5Single",
-			"Buff_ZekeSnakeLinkDebuffDuration"
+			{
+				"key": "ZekeBeDmgDownL5Team",
+				"value": 1
+			},
+			{
+				"key": "ZekeBeDmgDownL5Single",
+				"value": 1
+			},
+			{
+				"key": "Buff_ZekeSnakeLinkDebuffDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Zeke_physic_plasm",
@@ -4077,9 +4554,12 @@
 	},
 	"Zeke_physic_ssr_star_6": {
 		"advancement": "Cuando hay <shuzhi>1</> integrante en la <shuzhi>Cadena de Serpiente</>, aumenta el índice de <shuzhi>daño por conducción</> del daño a <shuzhi>50%</>.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ConductFactorL6"
+			{
+				"key": "ConductFactorL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Zeke_physic_plasm",
@@ -4092,13 +4572,28 @@
 	},
 	"mimi_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia Eléctrica</>: Aumenta el ATQ eléctrico un <shuzhi>15%</> y la resistencia eléctrica un <shuzhi>25%</>. Se activa al equipar <shuzhi>2</> o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n\r\n<shuzhi>Truenoestallido: En el Campo</>: Al lograr un impacto con <shuzhi>Dragón Azur</>, infliges daño a los objetivos cercanos igual a <shuzhi>{0}%</> del ATQ eléctrico más <shuzhi>{1}%</> de los PS Máx. del nómada más <shuzhi>{2}%</> de la suma de todos los tipos de resistencias del nómada más <shuzhi>{3}%</> del crítico. Este efecto se puede activar hasta 1 vez cada <shuzhi>1.5</> seg. El daño de Truenoestallido cuenta como daño de ataque normal. Si tienes <shuzhi>1</> arma de fuego/escarcha/física de cualquier tipo equipada, multiplica el daño de Truenoestallido por <shuzhi>{4}</>. Además, el daño de Truenoestallido no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
-		"numbermap": "CurveTable'MiMiEffectFigure'",
+		"numbermap": "MiMiEffectFigure",
 		"numbers": [
-			"Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
-			"Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
-			"Buff_MiMiThu_SSR_Level0_SpecialDef",
-			"Buff_MiMiThu_SSR_Level0_SpecialCrit",
-			"Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon"
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4183,13 +4678,28 @@
 	},
 	"feise_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Resonancia de Fuego</>: Aumenta el ATQ de fuego un <shuzhi>20%</> y la resistencia al fuego un <shuzhi>40%</>. Se activa equipando <shuzhi>2</> o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego o Reacción al Fuego; Resonancia de Fuego tiene prioridad.\r\n<shuzhi>Explosión Ardiente: Corte Veloz</>: Cuando <shuzhi>Floración Interminable</> está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a <shuzhi>{0}%</> del ATQ de fuego, más <shuzhi>{1}%</> de los PS Máx. del nómada, más <shuzhi>{2}%</> de la suma de todos los tipos de resistencias del nómada, más <shuzhi>{3}%</> del crítico. Mientras estés en combate y cada <shuzhi>0.5</> seg, el daño del siguiente Corte Veloz aumentará <shuzhi>1</> vez adicional, hasta un máximo de <shuzhi>30</> veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. Explosión Ardiente: El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si tienes <shuzhi>1</> arma de escarcha/éléctrica/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por <shuzhi>{4}</>. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales",
-		"numbermap": "CurveTable'FeiseEffectFigure'",
+		"numbermap": "FeiseEffectFigure",
 		"numbers": [
-			"FeiSeEXChangeWeaponCoefficientFireAttack",
-			"FeiSeEXChangeWeaponCoefficientMaxHp",
-			"FeiSeEXChangeWeaponCoefficientDef",
-			"FeiSeEXChangeWeaponCoefficientCrit",
-			"FeiSeEXChangeWeaponFinCoefficient"
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientFireAttack",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientMaxHp",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",

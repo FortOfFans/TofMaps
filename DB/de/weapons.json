@@ -3551,7 +3551,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Voltresonanz**: Erhöht den Volt-ANG um **15%** und den Voltwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n\r\n**Donnergroll: Auf dem Feld**: Bei jedem Treffer mit **Azurdrache** wird Zielen in der Nähe Schaden in Höhe von **131.3%** des Volt-ANG + **1.9%** der max. LP des Wanderers + **68.8%** der Summe aller Widerstandsarten des Wanderers + **250%** des krit. Schadens zugefügt. Dieser Effekt kann einmal alle **1,5**Sek. ausgelöst werden. Der Schaden von „Donnergroll“ zählt als normaler Angriffsschaden. Wenn **1** Flammen-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Donnergroll“ um das **130**-fache multipliziert. Außerdem wird der Schaden von „Donnergroll“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Voltresonanz**: Erhöht den Volt-ANG um **15%** und den Voltwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n\r\n**Donnergroll: Auf dem Feld**: Bei jedem Treffer mit **Azurdrache** wird Zielen in der Nähe Schaden in Höhe von **131.3%** des Volt-ANG + **1.9%** der max. LP des Wanderers + **68.8%** der Summe aller Widerstandsarten des Wanderers + **250%** des krit. Schadens zugefügt. Dieser Effekt kann einmal alle **1,5**Sek. ausgelöst werden. Der Schaden von „Donnergroll“ zählt als normaler Angriffsschaden. Wenn **1** Flammen-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Donnergroll“ um das **1.3**-fache multipliziert. Außerdem wird der Schaden von „Donnergroll“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3738,7 +3738,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Extreme Kälte: Entladen**: Nach Verwendung von **Schwertkunst: Schatteneis** wird **3000**Sek. lang jede Sekunde Schaden in Höhe von **70%** des Frost-ANG + **10%** der max. LP des Wanderers + **36%** der Summe aller Widerstandsarten des Wanderers + **135%** des krit. Schadens verursacht. Mehrfacher Entladungsschaden wird nicht gestapelt und Schaden von „Extreme Kälte“ zählt als Fähigkeitsschaden. Wenn **1** Volt-/Flammen-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Extreme Kälte“ um das **130**-fache multipliziert. Außerdem wird der Schaden von „Extreme Kälte“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Extreme Kälte: Entladen**: Nach Verwendung von **Schwertkunst: Schatteneis** wird **30**Sek. lang jede Sekunde Schaden in Höhe von **70%** des Frost-ANG + **10%** der max. LP des Wanderers + **36%** der Summe aller Widerstandsarten des Wanderers + **135%** des krit. Schadens verursacht. Mehrfacher Entladungsschaden wird nicht gestapelt und Schaden von „Extreme Kälte“ zählt als Fähigkeitsschaden. Wenn **1** Volt-/Flammen-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Extreme Kälte“ um das **1.3**-fache multipliziert. Außerdem wird der Schaden von „Extreme Kälte“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3746,7 +3746,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Nach dem Abfeuern von **Frostklingen** wird der Frost-ANG des Wanderers um **0.1%** erhöht und Zielen in der Nähe wird für **30**Sek. jede Sekunde Schaden in Höhe von **80%** des ANG zugefügt.",
+				"description": "Nach dem Abfeuern von **Frostklingen** wird der Frost-ANG des Wanderers um **10%** erhöht und Zielen in der Nähe wird für **30**Sek. jede Sekunde Schaden in Höhe von **80%** des ANG zugefügt.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3762,7 +3762,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "Der Wanderer kann bis zu **4** **Frostklingen** erzeugen und der Basismultiplikator des Schadens von **Temperaturabfall** wird auf **360%** erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von **600**Sek. von **Temperaturabfall** betroffen ist, wird dem Ziel zusätzlich ein **Adersiegel** zugefügt, wodurch es um **30%** verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von **Adersiegel** erneut Schaden durch **Frostklinge** erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von **1700%** des ANG + **2%** der zu diesem Zeitpunkt bereits verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als **2000%** und nicht höher als **2200%** des Frost-ANG des Wanderers). Anschließend werden die Effekte von **Adersiegel** und **Temperaturabfall** vom Ziel entfernt.",
+				"description": "Der Wanderer kann bis zu **4** **Frostklingen** erzeugen und der Basismultiplikator des Schadens von **Temperaturabfall** wird auf **360%** erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von **6**Sek. von **Temperaturabfall** betroffen ist, wird dem Ziel zusätzlich ein **Adersiegel** zugefügt, wodurch es um **30%** verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von **Adersiegel** erneut Schaden durch **Frostklinge** erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von **1700%** des ANG + **2%** der zu diesem Zeitpunkt bereits verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als **2000%** und nicht höher als **2200%** des Frost-ANG des Wanderers). Anschließend werden die Effekte von **Adersiegel** und **Temperaturabfall** vom Ziel entfernt.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -4509,7 +4509,7 @@
 				"need": "Dkatana_ice_plasm"
 			},
 			{
-				"description": "Treffer mit „Volt-Welle“ gegen ein Ziel erhöhen den Frostschaden für **15**Sek. um **0.11%**.\r\nDurch „Schwertschatten“ ausgelöste Blocks verringern den von gegnerischen Zielen in der Nähe verursachten Frostschaden für **12**Sek. um **0.25%**.",
+				"description": "Treffer mit „Volt-Welle“ gegen ein Ziel erhöhen den Frostschaden für **15**Sek. um **11%**.\r\nDurch „Schwertschatten“ ausgelöste Blocks verringern den von gegnerischen Zielen in der Nähe verursachten Frostschaden für **12**Sek. um **25%**.",
 				"stats": {
 					"shatter": 13.9,
 					"charge": 8
@@ -5033,7 +5033,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Beim Auslösen einer beliebigen Waffenfähigkeit oder Entladung wird die Wächterdauer erneuert, wenn du die maximale Anzahl an Wächtern besitzt. Der Gegner erleidet physischen Schaden in Höhe von **30%** des physischen ANG × Anzahl der Wächter zugefügt. Bis zu 8 Wächter, wenn der Effekt von „Segnung“ aktiv ist, und bis zu 6 Wächter ohne „Segnung“.",
+				"description": "Beim Auslösen einer beliebigen Waffenfähigkeit oder Entladung wird die Wächterdauer erneuert, wenn du die maximale Anzahl an Wächtern besitzt. Der Gegner erleidet physischen Schaden in Höhe von **3000%** des physischen ANG × Anzahl der Wächter zugefügt. Bis zu 8 Wächter, wenn der Effekt von „Segnung“ aktiv ist, und bis zu 6 Wächter ohne „Segnung“.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5049,7 +5049,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Erhöht den gesamten durch Wächter verursachten Schaden um **20%** und den Endschaden des bewachten Ziels für **10Sek.** um **0.15%**, wenn der Anwender unter dem Effekt von „Segnungsresonanz“ eine beliebige Waffenfähigkeit oder Entladung auslöst.",
+				"description": "Erhöht den gesamten durch Wächter verursachten Schaden um **20%** und den Endschaden des bewachten Ziels für **10Sek.** um **15%**, wenn der Anwender unter dem Effekt von „Segnungsresonanz“ eine beliebige Waffenfähigkeit oder Entladung auslöst.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5065,7 +5065,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Vergebungswächter: Nachdem du 5-mal „Resonanz“ ausgelöst hast, erhältst du **1** Chance, tödlichen Schaden für den Anwender und das bewachte Ziel zu negieren. Nachdem ein Teammitglied tödlichen Schaden negiert hat, verbraucht es Vergebungswächter und stellt **0.05%** der max. LP wieder her. Nicht in der Apex-Liga verfügbar.\r\nErleuchtungswächter: Nachdem der Anwender 5-mal „Resonanz“ ausgelöst hat und wenn er Erleuchtungswächter besitzt, erhält er **2** Chancen, tödlichen Schaden zu negieren. Kann bis zu **5**-mal gestapelt werden. Nachdem der Anwender tödlichen Schaden negiert hat, wird 1 Stapel Erleuchtungswächter verbraucht und **0.05%** der max. LP werden wiederhergestellt. Nicht in der Apex-Liga verfügbar.",
+				"description": "Vergebungswächter: Nachdem du 5-mal „Resonanz“ ausgelöst hast, erhältst du **1** Chance, tödlichen Schaden für den Anwender und das bewachte Ziel zu negieren. Nachdem ein Teammitglied tödlichen Schaden negiert hat, verbraucht es Vergebungswächter und stellt **5%** der max. LP wieder her. Nicht in der Apex-Liga verfügbar.\r\nErleuchtungswächter: Nachdem der Anwender 5-mal „Resonanz“ ausgelöst hat und wenn er Erleuchtungswächter besitzt, erhält er **2** Chancen, tödlichen Schaden zu negieren. Kann bis zu **5**-mal gestapelt werden. Nachdem der Anwender tödlichen Schaden negiert hat, wird 1 Stapel Erleuchtungswächter verbraucht und **5%** der max. LP werden wiederhergestellt. Nicht in der Apex-Liga verfügbar.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5073,7 +5073,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Wenn du eine beliebige Waffenfähigkeit oder Entladung auslöst, hängt die Erhöhung des Endschadens und der Heilung von der Anzahl der Wächter ab. Jeder Wächter erhöht den endgültigen Schaden und Heilung um **1.6%**, bis zu **8%** für **2500 Sek.**",
+				"description": "Wenn du eine beliebige Waffenfähigkeit oder Entladung auslöst, hängt die Erhöhung des Endschadens und der Heilung von der Anzahl der Wächter ab. Jeder Wächter erhöht den endgültigen Schaden und Heilung um **1.6%**, bis zu **8%** für **25 Sek.**",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5225,7 +5225,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Nachdem **Feedback** ausgelöst wurde, fügt jeder Krystamax-Dorn für **undefined** Sek. alle **2** Sek. Zielen in der Nähe Schaden in Höhe von **66,7%** des ANG zu.",
+				"description": "Nachdem **Feedback** ausgelöst wurde, fügt jeder Krystamax-Dorn für **NaN** Sek. alle **2** Sek. Zielen in der Nähe Schaden in Höhe von **66,7%** des ANG zu.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5257,7 +5257,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Erhöht die Wiederherstellung der max. LP von Krystamax-Dornen von **Feedback** auf **undefined%**.",
+				"description": "Erhöht die Wiederherstellung der max. LP von Krystamax-Dornen von **Feedback** auf **NaN%**.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5265,7 +5265,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Erhöht Voltschaden **undefined** Sek. lang um zusätzliche **undefined%**, nachdem Harrahs Umarmung erfolgreich eingesetzt wurde.",
+				"description": "Erhöht Voltschaden **NaN** Sek. lang um zusätzliche **NaN%**, nachdem Harrahs Umarmung erfolgreich eingesetzt wurde.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5604,7 +5604,7 @@
 				"need": "Snipe_fire_plasm"
 			},
 			{
-				"description": "Wenn „Kreuzschuss“ einen krit. Treffer landet, werden LP in Höhe von **50%** des verursachten Schadens (kann **15%** der eigenen max. LP nicht überschreiten, Schaden von „Gasexplosion“ nicht eingerechnet) und **50**Waffenladung wiederhergestellt.\r\nJeder Stapel von „Ruhiges Herz“ erhöht die endgültige krit. Trefferrate auf **0%**, bis zu maximal **1%**, und wandelt bis zu **2%** des krit. Schadens um.",
+				"description": "Wenn „Kreuzschuss“ einen krit. Treffer landet, werden LP in Höhe von **50%** des verursachten Schadens (kann **15%** der eigenen max. LP nicht überschreiten, Schaden von „Gasexplosion“ nicht eingerechnet) und **50**Waffenladung wiederhergestellt.\r\nJeder Stapel von „Ruhiges Herz“ erhöht die endgültige krit. Trefferrate auf **9%**, bis zu maximal **27%**, und wandelt bis zu **13.5%** des krit. Schadens um.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 9
@@ -5628,7 +5628,7 @@
 				"need": "Snipe_fire_plasm"
 			},
 			{
-				"description": "Erhöht den von „Kreuzschuss“ verursachten Schaden um zusätzliche **0%**.",
+				"description": "Erhöht den von „Kreuzschuss“ verursachten Schaden um zusätzliche **20%**.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 9
@@ -5785,7 +5785,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **15%** und den Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Flammenexplosion: Auf dem Feld**: Beim Landen jedes Treffers mit **Kienkomet** wird Zielen in der Nähe Schaden in Höhe von **105%** des Flammen-ANG + **1.5%** der max. LP des Wanderers + **55%** der Summe aller Widerstandsarten des Wanderers + **200%** des krit. Schadens zugefügt. Dieser Effekt kann einmal alle **1,5**Sek. ausgelöst werden. Der Flammenexplosionsschaden zählt als normaler Angriffsschaden. Wenn **1** Volt-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Flammenexplosionsschaden um das **130**-fache multipliziert. Außerdem wird der Flammenexplosionsschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **15%** und den Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Flammenexplosion: Auf dem Feld**: Beim Landen jedes Treffers mit **Kienkomet** wird Zielen in der Nähe Schaden in Höhe von **105%** des Flammen-ANG + **1.5%** der max. LP des Wanderers + **55%** der Summe aller Widerstandsarten des Wanderers + **200%** des krit. Schadens zugefügt. Dieser Effekt kann einmal alle **1,5**Sek. ausgelöst werden. Der Flammenexplosionsschaden zählt als normaler Angriffsschaden. Wenn **1** Volt-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Flammenexplosionsschaden um das **1.3**-fache multipliziert. Außerdem wird der Flammenexplosionsschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5793,7 +5793,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Wenn eine **Sperlingsfeder** ein Ziel trifft, wird ein Ausbreitungseffekt ausgelöst, der zusätzlichen Flächenschaden in Höhe von **0.5%** des gesamten Brand- und Entzündungsschadens verursacht. Zudem breitet sich der **Sperlingsbrand** des betroffenen Ziels auf Ziele in der Nähe aus, wodurch die Dauer von **Sperlingsbrand** zurückgesetzt wird. Der Ausbreitungseffekt kann einmal alle **5**Sek. ausgelöst werden.",
+				"description": "Wenn eine **Sperlingsfeder** ein Ziel trifft, wird ein Ausbreitungseffekt ausgelöst, der zusätzlichen Flächenschaden in Höhe von **50%** des gesamten Brand- und Entzündungsschadens verursacht. Zudem breitet sich der **Sperlingsbrand** des betroffenen Ziels auf Ziele in der Nähe aus, wodurch die Dauer von **Sperlingsbrand** zurückgesetzt wird. Der Ausbreitungseffekt kann einmal alle **5**Sek. ausgelöst werden.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5833,7 +5833,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Erhöht den Flammenschaden um zusätzliche **0.14%**, wenn du dich im **Gipfel**-Zustand befindest.",
+				"description": "Erhöht den Flammenschaden um zusätzliche **14%**, wenn du dich im **Gipfel**-Zustand befindest.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5991,7 +5991,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Gewährt beim Wechsel zu Möbius sofort **30**Aufwärmpunkte. Abklingzeit: **17**Sek. Fügt Zielen in der Nähe beim Einsatz von „Zaubertrick“ Flächenschaden in Höhe von **8.4%** des ANG zu und reduziert ihren physischen Widerstand für **20**Sek. um **-0.1%**.",
+				"description": "Gewährt beim Wechsel zu Möbius sofort **30**Aufwärmpunkte. Abklingzeit: **17**Sek. Fügt Zielen in der Nähe beim Einsatz von „Zaubertrick“ Flächenschaden in Höhe von **840%** des ANG zu und reduziert ihren physischen Widerstand für **20**Sek. um **1000%**.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6007,7 +6007,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Wenn „Zaubertrick“ frühzeitig beendet wird, wird über **13**Sek. großflächig Schaden verursacht. Die aktuelle Abklingzeit von Möbius’ Fähigkeit wird verringert und der physische Schaden wird für eine gewisse Zeit um **0.25%** erhöht (dieser Effekt gilt nicht für Möbius). Wenn von „Zaubertrick“ mehr als **13**Sek. verbleiben, erhält der Anwender zusätzlich **200**Waffenladung. Je mehr Zeit verbleibt, wenn „Zaubertrick“ endet, desto höher der Flächenschaden, desto größer die Abklingzeitverringerung der Fähigkeit und desto länger hält der physische Schadensbonus an. Der verursachte Flächenschaden ist auf **2%** des ANG begrenzt (der maximale Schaden wird verursacht, wenn die verbleibende Zeit mehr als **13**Sek. beträgt). Die maximale Abklingzeitverringerung beträgt **13**Sek., und der physische Schadensbonus kann bis zu **20**Sek. andauern.",
+				"description": "Wenn „Zaubertrick“ frühzeitig beendet wird, wird über **13**Sek. großflächig Schaden verursacht. Die aktuelle Abklingzeit von Möbius’ Fähigkeit wird verringert und der physische Schaden wird für eine gewisse Zeit um **25%** erhöht (dieser Effekt gilt nicht für Möbius). Wenn von „Zaubertrick“ mehr als **13**Sek. verbleiben, erhält der Anwender zusätzlich **200**Waffenladung. Je mehr Zeit verbleibt, wenn „Zaubertrick“ endet, desto höher der Flächenschaden, desto größer die Abklingzeitverringerung der Fähigkeit und desto länger hält der physische Schadensbonus an. Der verursachte Flächenschaden ist auf **200%** des ANG begrenzt (der maximale Schaden wird verursacht, wenn die verbleibende Zeit mehr als **13**Sek. beträgt). Die maximale Abklingzeitverringerung beträgt **13**Sek., und der physische Schadensbonus kann bis zu **20**Sek. andauern.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6023,7 +6023,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Erhalte den Effekt „Psychische Puppe“ während des Zaubertricks und erhöhe Möbius’ physischen Schadensbonus auf **15%**. Während des Zaubertricks stellst du jede Sekunde **2%** der max. LP und **1000** Waffenladung wieder her.",
+				"description": "Erhalte den Effekt „Psychische Puppe“ während des Zaubertricks und erhöhe Möbius’ physischen Schadensbonus auf **15%**. Während des Zaubertricks stellst du jede Sekunde **2%** der max. LP und **10** Waffenladung wieder her.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6031,7 +6031,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Während „Zaubertrick“ aktiv ist, erhält Möbius eine zusätzliche Peitsche, die jedes Mal automatisch geschwungen wird, wenn der Wanderer mit Möbius normale Angriffe oder Ausweichangriffe ausführt. Diese verursachen Schaden in Höhe von **1%** des ANG von Möbius (dieser Schaden wird nicht als normaler Angriffsschaden gezählt).",
+				"description": "Während „Zaubertrick“ aktiv ist, erhält Möbius eine zusätzliche Peitsche, die jedes Mal automatisch geschwungen wird, wenn der Wanderer mit Möbius normale Angriffe oder Ausweichangriffe ausführt. Diese verursachen Schaden in Höhe von **100%** des ANG von Möbius (dieser Schaden wird nicht als normaler Angriffsschaden gezählt).",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6182,7 +6182,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **20%** und den Flammenwiderstand um **40%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n**Flammenexplosion: Schneller Hieb**: Wenn **Endlose Blüte** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **37.5%** des Flammen-ANG + **0.5%** der max. LP des Wanderers + **18.75%** der Summe aller Widerstandsarten des Wanderers + **68.75%** des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle **0,5** Sekunden zusätzlich um das **1**-fache erhöht, bis zu einem Maximum von **30**-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das **130**-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **20%** und den Flammenwiderstand um **40%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n**Flammenexplosion: Schneller Hieb**: Wenn **Endlose Blüte** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **37.5%** des Flammen-ANG + **0.5%** der max. LP des Wanderers + **18.75%** der Summe aller Widerstandsarten des Wanderers + **68.75%** des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle **0,5** Sekunden zusätzlich um das **1**-fache erhöht, bis zu einem Maximum von **30**-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das **1.3**-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6609,7 +6609,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "„Gleißender Aufprall“ und der übertragene Schaden ignorieren **60%** des Flammenwiderstands des Ziels.\r\nDer von „Korrosion“ verursachte Flammenschaden wird um **0.1%** erhöht.",
+				"description": "„Gleißender Aufprall“ und der übertragene Schaden ignorieren **60%** des Flammenwiderstands des Ziels.\r\nDer von „Korrosion“ verursachte Flammenschaden wird um **10%** erhöht.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -6617,7 +6617,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Erhöht den von „Tanzende Flammen“ und „Schwungschlag“ verursachten Schaden um **0.5%**.\r\nDer Multiplikator für schnell rotierende Sonnenschirme, „Phönixhieb“ und „Gleißender Aufprall“ beträgt jetzt „Vielfeder-Sonnenschirm“ + **2**.",
+				"description": "Erhöht den von „Tanzende Flammen“ und „Schwungschlag“ verursachten Schaden um **50%**.\r\nDer Multiplikator für schnell rotierende Sonnenschirme, „Phönixhieb“ und „Gleißender Aufprall“ beträgt jetzt „Vielfeder-Sonnenschirm“ + **2**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -6765,7 +6765,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Wenn eine beliebige Waffenfähigkeit eingesetzt wird, kann „Rasantes Jo-Jo“ **Harmonie** auslösen, was Zielen in der Nähe Schaden in Höhe von **undefined%** ihrer verlorenen LP zufügt. Der verursachte Schaden beträgt mindestens **undefined%** und höchstens **undefined%** des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.\r\nWenn eine beliebige Waffenentladung eingesetzt wird, kann „Rasantes Jo-Jo“ **Tuning** auslösen, was Zielen in der Nähe Schaden in Höhe von **undefined%** der max. LP des Wanderers zufügt. Der verursachte Schaden beträgt höchstens **undefined%** des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.",
+				"description": "Wenn eine beliebige Waffenfähigkeit eingesetzt wird, kann „Rasantes Jo-Jo“ **Harmonie** auslösen, was Zielen in der Nähe Schaden in Höhe von **NaN%** ihrer verlorenen LP zufügt. Der verursachte Schaden beträgt mindestens **NaN%** und höchstens **NaN%** des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.\r\nWenn eine beliebige Waffenentladung eingesetzt wird, kann „Rasantes Jo-Jo“ **Tuning** auslösen, was Zielen in der Nähe Schaden in Höhe von **NaN%** der max. LP des Wanderers zufügt. Der verursachte Schaden beträgt höchstens **NaN%** des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6781,7 +6781,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Wenn „Trostloser Tag“ verwendet wird, kann „Rasantes Jo-Jo“ für **undefined**Sek. **Schnelligkeit** auslösen: Die Geschwindigkeit von „Rasantes Jo-Jo“ wird um **undefined%** erhöht, der Schaden wird um **160%** erhöht und der Schaden, der beim Passieren des Ziels entsteht, wird in geringfügigen Flächenschaden umgewandelt.",
+				"description": "Wenn „Trostloser Tag“ verwendet wird, kann „Rasantes Jo-Jo“ für **NaN**Sek. **Schnelligkeit** auslösen: Die Geschwindigkeit von „Rasantes Jo-Jo“ wird um **NaN%** erhöht, der Schaden wird um **160%** erhöht und der Schaden, der beim Passieren des Ziels entsteht, wird in geringfügigen Flächenschaden umgewandelt.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6797,7 +6797,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Erhöht den Schaden von „Rasantes Jo-Jo“ und „Rückkehr zur Einsamkeit“ um **undefined%**.",
+				"description": "Erhöht den Schaden von „Rasantes Jo-Jo“ und „Rückkehr zur Einsamkeit“ um **NaN%**.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6805,7 +6805,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Erhöht den Endschaden um **undefined%**, während „Rasantes Jo-Jo“ aktiv ist.",
+				"description": "Erhöht den Endschaden um **NaN%**, während „Rasantes Jo-Jo“ aktiv ist.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6974,7 +6974,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Eisvernichtung: Schneller Hieb**: Wenn **Eintracht** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **30%** des Frost-ANG + **0.4%** der max. LP des Wanderers + **15%** der Summe aller Widerstandsarten des Wanderers + **55%** des krit. Schadens zu. Im Kampfstatus wird alle **0,5**Sek. der Schaden des nächsten schnellen Hiebs zusätzlich um das **1**-fache erhöht, bis zum Maximum des **30**-fachen. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Volt-/physische/Flammenwaffe jeglicher Art ausgerüstet ist, wird der Schaden von „Eisvernichtung“ um das **130**-fache erhöht. Außerdem wird der Schaden von „Eisvernichtung“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Eisvernichtung: Schneller Hieb**: Wenn **Eintracht** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **30%** des Frost-ANG + **0.4%** der max. LP des Wanderers + **15%** der Summe aller Widerstandsarten des Wanderers + **55%** des krit. Schadens zu. Im Kampfstatus wird alle **0,5**Sek. der Schaden des nächsten schnellen Hiebs zusätzlich um das **1**-fache erhöht, bis zum Maximum des **30**-fachen. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Volt-/physische/Flammenwaffe jeglicher Art ausgerüstet ist, wird der Schaden von „Eisvernichtung“ um das **1.3**-fache erhöht. Außerdem wird der Schaden von „Eisvernichtung“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6982,7 +6982,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Wenn in der **Kampfkünstler**-Form **3** oder mehr **Innere Stärke** verbraucht wurden, regeneriert **Eintracht** **100** **Innere Stärke**. Anschließend wird der Endschaden des Wanderers um **5%** erhöht, und der Schaden des Ausweichangriffs/normalen Angriffs von **Eintracht** wird **3000** Sekunden lang um **50%** erhöht.\r\nWenn in der **Rohe Kraft**-Form **3** oder mehr **Kampfgeist** verbraucht wurden, regeneriert **Eintracht** **100** **Kampfgeist**. Anschließend wird der Endschaden des Wanderers **1500** Sekunden lang um **5%** erhöht.",
+				"description": "Wenn in der **Kampfkünstler**-Form **3** oder mehr **Innere Stärke** verbraucht wurden, regeneriert **Eintracht** **1** **Innere Stärke**. Anschließend wird der Endschaden des Wanderers um **5%** erhöht, und der Schaden des Ausweichangriffs/normalen Angriffs von **Eintracht** wird **30** Sekunden lang um **50%** erhöht.\r\nWenn in der **Rohe Kraft**-Form **3** oder mehr **Kampfgeist** verbraucht wurden, regeneriert **Eintracht** **1** **Kampfgeist**. Anschließend wird der Endschaden des Wanderers **15** Sekunden lang um **5%** erhöht.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6998,7 +6998,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Wenn in der **Kampfkünstler**-Form innerhalb von **500** Sekunden keine **Innere Stärke** generiert wird, werden beim nächsten Erhalt von **Innerer Stärke** stattdessen **2** Einheiten verliehen.\r\nWenn **Eintracht** in einer beliebigen Form **3** oder mehr **Innere Stärke** oder **Kampfgeist** verbraucht, werden **10%** der max. LP des Wanderers wiederhergestellt. Im Einzelspiel wird die LP-Wiederherstellung auf **20%** erhöht. Dieser Effekt in der **Rohe Kraft**-Form nur 1-mal alle **8** Sekunden auftreten. In der **Kampfkünstler**-Form gibt es keine Beschränkung.",
+				"description": "Wenn in der **Kampfkünstler**-Form innerhalb von **5** Sekunden keine **Innere Stärke** generiert wird, werden beim nächsten Erhalt von **Innerer Stärke** stattdessen **2** Einheiten verliehen.\r\nWenn **Eintracht** in einer beliebigen Form **3** oder mehr **Innere Stärke** oder **Kampfgeist** verbraucht, werden **10%** der max. LP des Wanderers wiederhergestellt. Im Einzelspiel wird die LP-Wiederherstellung auf **20%** erhöht. Dieser Effekt in der **Rohe Kraft**-Form nur 1-mal alle **8** Sekunden auftreten. In der **Kampfkünstler**-Form gibt es keine Beschränkung.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7014,7 +7014,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Wenn **Eintracht** **Innere Stärke** oder **Kampfgeist** verbraucht wird, wird tödlicher Schaden 1-mal verhindert und der Wanderer stellt **20%** der max. LP wieder her (nicht in der Apex-Liga verfügbar). Im Einzelspiel wird die LP-Wiederherstellung auf **40%** erhöht. Beide Effekte können nur 1-mal alle **6000**Sek. ausgelöst werden.",
+				"description": "Wenn **Eintracht** **Innere Stärke** oder **Kampfgeist** verbraucht wird, wird tödlicher Schaden 1-mal verhindert und der Wanderer stellt **20%** der max. LP wieder her (nicht in der Apex-Liga verfügbar). Im Einzelspiel wird die LP-Wiederherstellung auf **40%** erhöht. Beide Effekte können nur 1-mal alle **60**Sek. ausgelöst werden.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7022,7 +7022,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "In der **Kampfkünstler**-Form wird der Schaden des Ausweichangriffs/normalen Angriffs von **Eintracht** um weitere **70%** erhöht. Wenn **innere Stärke** verbraucht wird, wird der Endschaden des Wanderers **3000**Sek. lang um **10%** erhöht.\r\nWenn **Eintracht** in der **Rohe Kraft**-Form **Kampfgeist** verbraucht, wird der Endschaden des Wanderers **3000**Sek. lang um **15%** erhöht.",
+				"description": "In der **Kampfkünstler**-Form wird der Schaden des Ausweichangriffs/normalen Angriffs von **Eintracht** um weitere **70%** erhöht. Wenn **innere Stärke** verbraucht wird, wird der Endschaden des Wanderers **30**Sek. lang um **10%** erhöht.\r\nWenn **Eintracht** in der **Rohe Kraft**-Form **Kampfgeist** verbraucht, wird der Endschaden des Wanderers **30**Sek. lang um **15%** erhöht.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7168,7 +7168,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Physische Resonanz**: Erhöht den physischen ANG um **15%** und den physischen Widerstand um **25%**. Wird durch Ausrüsten von **2** oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen physischen Resonanz- oder Reaktionseffekten gestapelt werden, wobei physische Resonanz priorisiert wird.\r\n**Flammenresonanz**: Erhöht den Flammen-ANG um **15%** und den Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n\r\n**Schildbruch: Distanzierung**: Nach Verwendung von **Bodenlose Schlucht** wird bei getroffenen Zielen **3000**Sek. lang pro Sekunde Schaden in Höhe von **70%** des physischen ANG + **1%** der max. LP des Wanderers + **36%** der Summe aller Widerstandsarten des Wanderers + **135%** des krit. Schadens verursacht. Mehrfacher Distanzierungsschaden wird nicht gestapelt und Schildbruchschaden zählt als Fähigkeitsschaden. Wenn **1** Volt-/Flammen-/Frostwaffe ausgerüstet ist, wird der Schildbruchschaden um das **130**-fache multipliziert. Außerdem wird der Schildbruchschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Physische Resonanz**: Erhöht den physischen ANG um **15%** und den physischen Widerstand um **25%**. Wird durch Ausrüsten von **2** oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen physischen Resonanz- oder Reaktionseffekten gestapelt werden, wobei physische Resonanz priorisiert wird.\r\n**Flammenresonanz**: Erhöht den Flammen-ANG um **15%** und den Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n\r\n**Schildbruch: Distanzierung**: Nach Verwendung von **Bodenlose Schlucht** wird bei getroffenen Zielen **30**Sek. lang pro Sekunde Schaden in Höhe von **70%** des physischen ANG + **1%** der max. LP des Wanderers + **36%** der Summe aller Widerstandsarten des Wanderers + **135%** des krit. Schadens verursacht. Mehrfacher Distanzierungsschaden wird nicht gestapelt und Schildbruchschaden zählt als Fähigkeitsschaden. Wenn **1** Volt-/Flammen-/Frostwaffe ausgerüstet ist, wird der Schildbruchschaden um das **1.3**-fache multipliziert. Außerdem wird der Schildbruchschaden nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -7208,7 +7208,7 @@
 				"need": "Zeke_physic_plasm"
 			},
 			{
-				"description": "Nach der Verwendung von **Bodenlose Schlucht** wird der vom Wanderer erlittene Schaden für **3000**Sek. um **10%** verringert (**20%** im Einzelspiel).",
+				"description": "Nach der Verwendung von **Bodenlose Schlucht** wird der vom Wanderer erlittene Schaden für **30**Sek. um **10%** verringert (**20%** im Einzelspiel).",
 				"stats": {
 					"shatter": 14,
 					"charge": 12

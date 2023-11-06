@@ -167,11 +167,20 @@
 	},
 	"Chainsaw_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance physique</> : accroît l'ATQ physique de <shuzhi>{0}%</> et la résistance physique de <shuzhi>{1}%</>. S'active en équipant au moins <shuzhi>2</> armes physiques. Cet effet fonctionne également avec les armes dans l'emplacement main libre. Non cumulable avec les effets de Résonance physique et de Réaction physique, et Résonance physique prévaut.\r\n<shuzhi>Résonance universelle</> : accroît les dégâts finaux de <shuzhi>{2}%</>. S'active en équipant <shuzhi>2</> armes du même élément, sauf physique. Les effets du kit fonctionnent dans l'emplacement main libre.",
-		"numbermap": "CurveTable'ChainsawEffectFigure'",
+		"numbermap": "ChainsawEffectFigure",
 		"numbers": [
-			"Buff_Chainsaw_Physic_Resonance_Atk",
-			"Buff_Chainsaw_Physic_Resonance_Def",
-			"ChainsawBalanceLevel0DamUP"
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Atk",
+				"value": 1
+			},
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "ChainsawBalanceLevel0DamUP",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -933,10 +942,16 @@
 	},
 	"gun_fire_ssr_star_1": {
 		"advancement": "Chaque série d'attaques de Barrage inflige des dégâts supplémentaires équivalant à <shuzhi>{0}%</> des PV actuels de la cible (ne peut excéder <shuzhi>{1}%</> de l'ATQ).",
-		"numbermap": "CurveTable'Gun_Fire_SSR_EffectFigure'",
+		"numbermap": "Gun_Fire_SSR_EffectFigure",
 		"numbers": [
-			"GunLevel1_1_HP",
-			"GunLevel1_1_DMG"
+			{
+				"key": "GunLevel1_1_HP",
+				"value": 1
+			},
+			{
+				"key": "GunLevel1_1_DMG",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "gun_fire_plasm",
@@ -1021,10 +1036,16 @@
 	},
 	"sword_physic_ssr_star_1": {
 		"advancement": "Après avoir touché une cible avec une compétence standard ou une compétence de décharge, gagne 1 cumul d'effet bénéfique qui accroît de <shuzhi>8%</> les dégâts infligés pendant <shuzhi>25</> secondes. Cet effet peut se cumuler jusqu'à <shuzhi>3</> fois (1 cumul maximum par utilisation de la compétence).",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level1_DamageUp",
-			"Buff_SwordPhy_SSR_Level1_DamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "sword_physic_plasm",
@@ -1049,10 +1070,16 @@
 	},
 	"sword_physic_ssr_star_3": {
 		"advancement": "Toucher une cible avec une compétence standard ou une compétence de décharge lui inflige 1 cumul de Blessures de guerre, ce qui accroît de <shuzhi>{0}%</> les dégâts physiques subis et la capacité de fracture des armes physiques pendant <shuzhi>{1} secondes</>. Cumulable jusqu'à <shuzhi>1</> fois.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp",
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "sword_physic_plasm",
@@ -1077,10 +1104,16 @@
 	},
 	"sword_physic_ssr_star_5": {
 		"advancement": "Toucher des cibles avec une compétence standard ou une compétence de décharge confère un bonus aux dégâts de compétence, ce qui accroît de <shuzhi>{0}%</> tous les dégâts des compétences d'arme pendant <shuzhi>{1} secondes</>. L'effet ne peut pas être cumulé.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp",
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "sword_physic_plasm",
@@ -1534,10 +1567,16 @@
 	},
 	"queen_superpower_ssr_star_1": {
 		"advancement": "Utiliser des compétences d'arme ou de décharge confère <shuzhi>1</> cristal élémentaire, jusqu'à <shuzhi>5</> cristaux. Les cristaux élémentaires disparaissent à raison de <shuzhi>1</> cristal toutes les <shuzhi>6</> secondes.\r\nLes cristaux élémentaires procurent un bonus de dégâts finaux équivalant à <shuzhi>4%</> de [(<shuzhi>nombre de cristaux</> + <shuzhi>1</>)/<shuzhi>2</>] et une augmentation des effets de soin équivalant à <shuzhi>6%</> de [(<shuzhi>nombre de cristaux</> + <shuzhi>1</>)/<shuzhi>2</>].",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "queen_superpower_plasm",
@@ -1586,9 +1625,12 @@
 	},
 	"queen_superpower_ssr_star_5": {
 		"advancement": "Vous obtenez <shuzhi>1</> cristal élémentaire à chaque fois que Technique de dispersion est utilisée. Les cristaux élémentaires disparaissent à raison de <shuzhi>1</> cristal toutes les <shuzhi>20</> secondes.\r\nLorsque vous recevez des dégâts fatals, vous consommez <shuzhi>3</> cristaux élémentaires pour éviter de mourir 1 fois et gagnez une immunité aux dégâts pendant un court instant. Peut s'activer <shuzhi>1</> fois toutes les <shuzhi>25</> secondes.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "queen_superpower_plasm",
@@ -1601,9 +1643,12 @@
 	},
 	"queen_superpower_ssr_star_6": {
 		"advancement": "Accroît les dégâts finaux à hauteur de <shuzhi>7%</> de [(<shuzhi>nombre de cristaux </>+ <shuzhi>3</>)/<shuzhi>2</>].",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "queen_superpower_plasm",
@@ -1616,11 +1661,20 @@
 	},
 	"Rubilia_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance de foudre</> : accroît l'ATQ de foudre de <shuzhi>15%</> et la résistance à la foudre de <shuzhi>25%</>. S'active en équipant au moins <shuzhi>2</> armes de foudre. Les effets du kit fonctionnent dans l'emplacement main libre. Non cumulable avec les effets de Résonance de foudre ou de Réaction de foudre, et Résonance de foudre prévaut.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1633,9 +1687,12 @@
 	},
 	"Rubilia_thunder_ssr_star_1": {
 		"advancement": "Après avoir déclenché <shuzhi>Rétroaction</>, chaque épine de crystamax inflige aux cibles proches des dégâts équivalant à <shuzhi>66,7%</> de l'ATQ toutes les <shuzhi>2</> secondes, pendant <shuzhi>{0}</> secondes.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_SummonSkill_Duration"
+			{
+				"key": "Buff_Rubilia_SummonSkill_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Rubilia_thunder_plasm",
@@ -1660,10 +1717,16 @@
 	},
 	"Rubilia_thunder_ssr_star_3": {
 		"advancement": "Utiliser la compétence d'arme ou une compétence de décharge de toute autre arme génère <shuzhi>1</> épine de crystamax.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Rubilia_thunder_plasm",
@@ -1688,9 +1751,12 @@
 	},
 	"Rubilia_thunder_ssr_star_5": {
 		"advancement": "Accroît la récupération de PV max d'épines de crystamax de <shuzhi>Rétroaction</> jusqu'à <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"SummonShotRecoverHPL5"
+			{
+				"key": "SummonShotRecoverHPL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Rubilia_thunder_plasm",
@@ -1703,10 +1769,16 @@
 	},
 	"Rubilia_thunder_ssr_star_6": {
 		"advancement": "Accroît de <shuzhi>{0}%</> supplémentaires les dégâts de foudre pendant <shuzhi>{1}</> secondes après avoir utilisé Étreinte de Harrah.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_AddDamageL6",
-			"Buff_Rubilia_AddDamageL6_Duration"
+			{
+				"key": "Buff_Rubilia_AddDamageL6",
+				"value": 1
+			},
+			{
+				"key": "Buff_Rubilia_AddDamageL6_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Rubilia_thunder_plasm",
@@ -1803,14 +1875,32 @@
 	},
 	"Linghan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance de givre</> : accroît l'ATQ de givre de <shuzhi>15%</> et la résistance au givre de <shuzhi>25%</>. S'active en équipant au moins <shuzhi>2</> armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n<shuzhi>Froid extrême : Décharge</> : après avoir utilisé <shuzhi>Technique de l'épée : Glace ombrée</>, inflige chaque seconde des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ de givre + <shuzhi>{1}%</> des PV max de l'Explorateur + <shuzhi>{2}%</> de la somme de tous les types de résistance de l'Explorateur + <shuzhi>{3}%</> de crit pendant <shuzhi>{4}</> secondes. Les dégâts de Décharge multiple ne se cumulent pas et les dégâts de Froid extrême sont comptabilisés comme des dégâts de la compétence. Si <shuzhi>1</> arme de foudre, de feu ou physique est équipée, les dégâts de Froid extrême sont multipliés par <shuzhi>{5}</>. Par ailleurs, les dégâts de Froid extrême ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanJiHanDamageCoeffIceATK",
-			"LinghanJiHanDamageCoeffMaxHP",
-			"LinghanJiHanDamageCoeffDefSum",
-			"LinghanJiHanDamageCoeffCrit",
-			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
-			"LinghanJiHanDamageCoeffAdv"
+			{
+				"key": "LinghanJiHanDamageCoeffIceATK",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_LinghanSkillPoJiaDamageAdd_Duration",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1823,10 +1913,16 @@
 	},
 	"Linghan_ice_ssr_star_1": {
 		"advancement": "Après avoir lancé des <shuzhi>Lames de givre</>, accroît les dégâts de givre de l'Explorateur de <shuzhi>{0}%</> et inflige aux cibles proches des dégâts équivalant à <shuzhi>104%</> de l'ATQ chaque seconde pendant <shuzhi>{1}</> secondes.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Effect_L1_IceAtkUp",
-			"Buff_Linghan_Effect_L1_Duration"
+			{
+				"key": "Buff_Linghan_Effect_L1_IceAtkUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_Effect_L1_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Linghan_ice_plasm",
@@ -1851,14 +1947,32 @@
 	},
 	"Linghan_ice_ssr_star_3": {
 		"advancement": "L'Explorateur peut faire apparaître jusqu'à <shuzhi>4</> <shuzhi>Lames de givre</> et le multiplicateur de base des dégâts de <shuzhi>Réduction de température</> passe à <shuzhi>468%</>.\r\nSi une seule cible est affectée par <shuzhi>Réduction de température</> dans un délai de <shuzhi>{0}</> secondes, inflige également l'effet <shuzhi>Veine scellée</> à la cible, réduisant sa vitesse de <shuzhi>{1}%</> (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de <shuzhi>Lame de givre</> pendant la durée de <shuzhi>Veine scellée</>, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à <shuzhi>{2}%</> de l'ATQ + <shuzhi>{3}%</> des PV perdus de la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à <shuzhi>{4}%</> ni supérieurs à <shuzhi>{5}%</> de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets <shuzhi>Veine scellée</> et <shuzhi>Réduction de température</> de la cible.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Frostbite_DelayAdd_Period",
-			"Buff_Linghan_TargetSpeedDown",
-			"IceBoomAtkCoeff",
-			"IceBoomHPCoeff",
-			"IceBoomMinAtkCoeff",
-			"IceBoomMaxAtkCoeff"
+			{
+				"key": "Buff_Linghan_Frostbite_DelayAdd_Period",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_TargetSpeedDown",
+				"value": 1
+			},
+			{
+				"key": "IceBoomAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomHPCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMinAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMaxAtkCoeff",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Linghan_ice_plasm",
@@ -1883,10 +1997,16 @@
 	},
 	"Linghan_ice_ssr_star_5": {
 		"advancement": "Accroît les dégâts infligés par <shuzhi>Fissure cristalline</> et <shuzhi>Air froid</> de <shuzhi>50%</> supplémentaires. Accroît les tentatives d'utilisation de <shuzhi>Pas léger</> de <shuzhi>{1}</>, ainsi que le taux de récupération de <shuzhi>1</> tentative toutes les <shuzhi>{0}</> secondes.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanQinggongPeriodL5",
-			"LinghanQinggongMaxL5"
+			{
+				"key": "LinghanQinggongPeriodL5",
+				"value": 1
+			},
+			{
+				"key": "LinghanQinggongMaxL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Linghan_ice_plasm",
@@ -2091,9 +2211,12 @@
 	},
 	"funnel_fire_ssr_star_1": {
 		"advancement": "Inflammation augmente les dégâts d'Attaque d'étincelles jusqu'à <shuzhi>{0}%</>. Le temps de recharge de la compétence diminue pour atteindre <shuzhi>24</> secondes.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel1AtkDamUp"
+			{
+				"key": "FunnelLevel1AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "funnel_fire_plasm",
@@ -2118,9 +2241,12 @@
 	},
 	"funnel_fire_ssr_star_3": {
 		"advancement": "Inflammation accroît le bonus de flammes de <shuzhi>{0}%</> et le multiplicateur du décompte de brûlure de <shuzhi>75%</>.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel3FireDamBeUp"
+			{
+				"key": "FunnelLevel3FireDamBeUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "funnel_fire_plasm",
@@ -2157,9 +2283,12 @@
 	},
 	"funnel_fire_ssr_star_6": {
 		"advancement": "Inflammation augmente les dégâts d'Attaque d'étincelles jusqu'à <shuzhi>{0}%</> et double l'efficacité d'Acquisition de chaleur. Le temps de recharge de la compétence diminue pour atteindre <shuzhi>16</> secondes.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel6AtkDamUp"
+			{
+				"key": "FunnelLevel6AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "funnel_fire_plasm",
@@ -2172,10 +2301,16 @@
 	},
 	"dkatana_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance de givre</> : accroît l'ATQ de givre de <shuzhi>{0}%</> et la résistance au givre de <shuzhi>{1}%</>. Activez-la en équipant au moins <shuzhi>2</> armes de givre. Cet effet fonctionne également avec les armes dans l'emplacement main libre. L'effet ne peut pas être cumulé plusieurs fois.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2188,9 +2323,12 @@
 	},
 	"dkatana_ice_ssr_star_1": {
 		"advancement": "Lorsque la Résonance de givre est activée, tous les temps de recharge des compétences d'arme sont réinitialisés après l'utilisation de <shuzhi>5</> compétences d'arme, et les dégâts de Flux et Contre-attaque augmentent <shuzhi>1</> fois dans la foulée pendant <shuzhi>{0}</> secondes.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration"
+			{
+				"key": "Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Dkatana_ice_plasm",
@@ -2215,9 +2353,12 @@
 	},
 	"dkatana_ice_ssr_star_3": {
 		"advancement": "Flot agité : augmente les dégâts du Déferlement d'ombre de l'épée de <shuzhi>350%</> de l'ATQ de givre.\r\nFlot silencieux : le temps de recharge du Déferlement de l'ombre de l'épée est de <shuzhi>{0}</> secondes.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_DkatanaSwordSkillCoolDown_5S_Duration"
+			{
+				"key": "Buff_DkatanaSwordSkillCoolDown_5S_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Dkatana_ice_plasm",
@@ -2254,12 +2395,24 @@
 	},
 	"dkatana_ice_ssr_star_6": {
 		"advancement": "Après avoir touché une cible avec Déferlement, augmente les dégâts de givre de <shuzhi>{0}%</> pendant <shuzhi>{1}</> secondes.\r\nEn déclenchant un blocage avec l'Ombre de l'épée, réduit de <shuzhi>{2}%</> les dégâts de givre infligés par les cibles ennemies à proximité pendant <shuzhi>{3}</> secondes.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_IceDMG_Add",
-			"Buff_Dkatana_IceDMG_Add_Duration",
-			"Buff_Dkatana_BlockWeakenEffect",
-			"Buff_Dkatana_BlockWeakenEffect_Duration"
+			{
+				"key": "Buff_Dkatana_IceDMG_Add",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_IceDMG_Add_Duration",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Dkatana_ice_plasm",
@@ -2284,10 +2437,16 @@
 	},
 	"fan_superpower_ssr_star_1": {
 		"advancement": "À l'impact, les attaques normales infligent des dégâts de zone.\r\nLorsqu'un autre épicactus se trouve dans la zone d'explosion d'un épicactus, les dégâts infligés par les explosions d'épicactus suivantes augmentent de <shuzhi>{0}%</>, jusqu'à un maximum de <shuzhi>{1}%</>.\r\nRéduit l'intervalle de génération d'épicactus du <shuzhi>Royaume du Clair de lune</> à <shuzhi>0,5</> seconde.\r\n",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "fan_superpower_plasm",
@@ -2336,9 +2495,12 @@
 	},
 	"fan_superpower_ssr_star_5": {
 		"advancement": "Lorsque vous bénéficiez de l'effet de <shuzhi>Royaume du Clair de lune</>, gagnez <shuzhi>30</> points de recharge d'arme chaque seconde, augmentant les dégâts infligés par les compétences de décharge de <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "fan_superpower_plasm",
@@ -2351,9 +2513,12 @@
 	},
 	"fan_superpower_ssr_star_6": {
 		"advancement": "Vous pouvez passer en mode <shuzhi>Royaume du Clair de lune</> jusqu'à <shuzhi>2</> fois. Vous gagnez <shuzhi>1</> tentative après le temps de recharge de la compétence et <shuzhi>1</> tentative par décharge.\r\nUtilisez n'importe quelle décharge d'arme <shuzhi>3</> fois pour obtenir <shuzhi>+1</> tentative de <shuzhi>Royaume du Clair de lune</> supplémentaire. Efficace même lorsque Tissombre est dans l'emplacement main libre.\r\nSous l'effet de <shuzhi>Royaume du Clair de lune</>, l'attaque augmente de <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "fan_superpower_plasm",
@@ -2366,10 +2531,16 @@
 	},
 	"arm_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance physique</> : accroît l'ATQ physique de <shuzhi>{0}%</> et la résistance physique de <shuzhi>{1}%</>. Activez-la en équipant au moins <shuzhi>2</> armes physiques. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec des effets du même type.\r\n<shuzhi>Bénédiction physique</> : accroît l'ATQ physique de toute l'équipe de <shuzhi>5%</> lorsque l'effet Résonance de Bénédiction est actif.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmGMPhyAtkMul",
-			"ArmGMPhyDefMul"
+			{
+				"key": "ArmGMPhyAtkMul",
+				"value": 1
+			},
+			{
+				"key": "ArmGMPhyDefMul",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2382,9 +2553,12 @@
 	},
 	"arm_physic_ssr_star_1": {
 		"advancement": "Lorsque vous déclenchez une compétence d'armes ou de décharge, si vos gardes sont au maximum, la durée de la garde sera réactualisée et infligera des dégâts physiques équivalant à <shuzhi>{0}%</> de l'ATQ physique x le nombre de gardes contre l'ennemi. Jusqu'à 8 gardes avec l'effet de Bénédiction, et jusqu'à 6 sans.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel1DamMul"
+			{
+				"key": "ArmLevel1DamMul",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "arm_physic_plasm",
@@ -2409,10 +2583,16 @@
 	},
 	"arm_physic_ssr_star_3": {
 		"advancement": "Accroît tous les dégâts infligés par les gardes de <shuzhi>20%</>, et les dégâts finaux de <shuzhi>{0}%</> sur la cible en garde pendant <shuzhi>{1} secondes</> lorsque vous déclenchez une compétence d'armes ou de décharge sous l'effet de Résonance de bénédiction.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel3FinalDamMul",
-			"ArmLevel3FinalDamDuration"
+			{
+				"key": "ArmLevel3FinalDamMul",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel3FinalDamDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "arm_physic_plasm",
@@ -2437,9 +2617,12 @@
 	},
 	"arm_physic_ssr_star_5": {
 		"advancement": "Garde du pardon : après avoir déclenché Résonance 5 fois, vous avez <shuzhi>1</> chance d'annuler des dégâts fatals pour l'utilisateur et la cible gardée. Après qu'un membre du groupe annule des dégâts fatals, il consomme la garde du pardon et récupère <shuzhi>{0}%</> des PV max. Non disponible en Ligue ultime.\r\nGarde de l'illumination : après avoir déclenché Résonance 5 fois et en présence de la garde de l'illumination, l'utilisateur a <shuzhi>2</> chances d'annuler des dégâts fatals. Se cumule jusqu'à <shuzhi>5</> fois. Après que l'utilisateur annule des dégâts fatals, il consomme 1 cumul de Garde de l'illumination et récupère <shuzhi>{0}%</> des PV max. Non disponible en Ligue ultime.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel5HpReply"
+			{
+				"key": "ArmLevel5HpReply",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "arm_physic_plasm",
@@ -2452,11 +2635,20 @@
 	},
 	"arm_physic_ssr_star_6": {
 		"advancement": "Lorsque vous déclenchez une compétence d'arme ou de décharge, l'augmentation des dégâts finaux et des soins dépend du nombre de gardes. Chaque garde augmente de <shuzhi>{0}%</> les dégâts finaux et les effets de soin, jusqu'à <shuzhi>{1}%</> maximum pendant <shuzhi>{2} secondes</>.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel6Add",
-			"ArmLevel6AddMax",
-			"ArmLevel6AddDuration"
+			{
+				"key": "ArmLevel6Add",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddMax",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "arm_physic_plasm",
@@ -2481,12 +2673,24 @@
 	},
 	"tianlang_thunder_ssr_star_1": {
 		"advancement": "Vous obtenez 1 cumul de Superconducteur par charge : accroît les PV max de <shuzhi>{0}%</> et les dégâts subis de <shuzhi>{1}%</> (sauf si les PV actuels sont inférieurs à {2} fois l'ATQ de foudre et aucun bouclier de PV n'est équipé). Cumulable jusqu'à <shuzhi>8</> fois. Vous perdrez 1 cumul si vous n'obtenez aucune charge de Superconducteur pendant <shuzhi>{3}</> secondes.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ImproveMaxHP_L3",
-			"Tianlang_BeDMGUp",
-			"Tianlang_BeDMGUp_Con_ATK",
-			"ImproveMaxHpDuration"
+			{
+				"key": "ImproveMaxHP_L3",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp_Con_ATK",
+				"value": 1
+			},
+			{
+				"key": "ImproveMaxHpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "tianlang_thunder_plasm",
@@ -2535,9 +2739,12 @@
 	},
 	"tianlang_thunder_ssr_star_5": {
 		"advancement": "Chaque cumul de Superconducteur accroît les dégâts finaux de <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"AddFinalDMG_L5"
+			{
+				"key": "AddFinalDMG_L5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "tianlang_thunder_plasm",
@@ -2550,10 +2757,16 @@
 	},
 	"tianlang_thunder_ssr_star_6": {
 		"advancement": "Bonus de Détection de foudre de Dubhe : pour chaque arme de foudre détectée, octroie <shuzhi>{0}%</> de bonus de dégâts de foudre pendant <shuzhi>{1}</> secondes.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ThuInteractionAddThuDmgL6",
-			"ThuInteractionDuration"
+			{
+				"key": "ThuInteractionAddThuDmgL6",
+				"value": 1
+			},
+			{
+				"key": "ThuInteractionDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "tianlang_thunder_plasm",
@@ -2566,9 +2779,12 @@
 	},
 	"umbrella_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance de feu</> : accroît l'ATQ de feu de <shuzhi>15%</> et la résistance au feu de <shuzhi>25%</>. Activez-la en équipant au moins <shuzhi>2</> armes de feu. Cet effet fonctionne également avec les armes dans l'emplacement main libre. L'effet ne peut pas être cumulé plusieurs fois.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaCreatCD"
+			{
+				"key": "UmbrellaCreatCD",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2629,9 +2845,12 @@
 	},
 	"umbrella_fire_ssr_star_5": {
 		"advancement": "Impact incandescent et les dégâts transférés ignorent <shuzhi>60%</> de la résistance au feu de la cible.\r\nLes dégâts de feu infligés par Corrosion sont accrus de <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillBeFireDamUpMulLevel5"
+			{
+				"key": "UmbrellaSkillBeFireDamUpMulLevel5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "umbrella_fire_plasm",
@@ -2644,9 +2863,12 @@
 	},
 	"umbrella_fire_ssr_star_6": {
 		"advancement": "Accroît les dégâts infligés par Danse de flammes et Frappe vertigineuse de <shuzhi>{0}%</>.\r\nLe multiplicateur pour les ombrelles tournoyant rapidement, Revers du phénix et Impact incandescent devient Ombrelles duveteuses + <shuzhi>2</>.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillMeleeDamUpMulLevel6"
+			{
+				"key": "UmbrellaSkillMeleeDamUpMulLevel6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "umbrella_fire_plasm",
@@ -2695,11 +2917,20 @@
 	},
 	"snipe_fire_ssr_star_3": {
 		"advancement": "Après que Tir croisé de sniper inflige un coup critique, restaure un nombre de PV équivalant à <shuzhi>50%</> des dégâts infligés (sans dépasser <shuzhi>15%</> de ses PV max et sans inclure les dégâts d'Explosion de gaz) et <shuzhi>50</> de recharge d'arme.\r\nChaque cumul de Cœur serein accroît le taux de crit final de <shuzhi>{0}%</>, jusqu'à <shuzhi>{1}%</>, et convertit jusqu'à <shuzhi>{2}%</> des dégâts critiques.",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit"
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 3
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1.5
+			}
 		],
 		"cost": 4000,
 		"need": "Snipe_fire_plasm",
@@ -2736,9 +2967,12 @@
 	},
 	"snipe_fire_ssr_star_6": {
 		"advancement": "Accroît les dégâts infligés de Tir croisé de sniper de <shuzhi>{0}%</> supplémentaires.",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level6_FinaldamageUP"
+			{
+				"key": "Buff_SnipeFire_SSR_Level6_FinaldamageUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Snipe_fire_plasm",
@@ -2787,10 +3021,16 @@
 	},
 	"iceblade_ice_ssr_star_3": {
 		"advancement": "Reçoit le Soutien d'Alyss chaque fois que Nuit étoilée se déclenche et accroît les dégâts de Nuit étoilée et de Gelée de <shuzhi>{0}%</> pendant <shuzhi>{1}</> secondes. Cumulable jusqu'à <shuzhi>3</> fois.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel3DamageUpPer",
-			"IcebladeLevel3DamageUpDuration"
+			{
+				"key": "IcebladeLevel3DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel3DamageUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "iceblade_ice_plasm",
@@ -2815,10 +3055,16 @@
 	},
 	"iceblade_ice_ssr_star_5": {
 		"advancement": "Accroît les dégâts de l'attaque normale d'Aile inflexible et de Taillade spatiale de <shuzhi>{0}%</>. Si des dégâts fatals sont subis, l'Explorateur reçoit la Protection d'Alyss qui le sauve de la mort 1 fois, l'immunisant contre les dégâts pendant un court instant. Temps de recharge : <shuzhi>{1}</> secondes.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel5DamageUpPer",
-			"IcebladeLevel5ImmLethalCD"
+			{
+				"key": "IcebladeLevel5DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel5ImmLethalCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "iceblade_ice_plasm",
@@ -2831,9 +3077,12 @@
 	},
 	"iceblade_ice_ssr_star_6": {
 		"advancement": "Accroît les dégâts de givre de <shuzhi>{0}%</> quand le Soutien d'Alyss atteint 3 cumuls.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel6IceDamageUpPer"
+			{
+				"key": "IcebladeLevel6IceDamageUpPer",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "iceblade_ice_plasm",
@@ -2846,12 +3095,24 @@
 	},
 	"Whip_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance physique</> : accroît l'ATQ physique de <shuzhi>15%</> et la résistance physique de <shuzhi>25%</>. Activez-la en équipant au moins <shuzhi>2</> armes physiques. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec des effets du même type.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_Physic_Resonance_ATK",
-			"Buff_Whip_Physic_Resonance_Def",
-			"Buff_Whip_ReviveHP",
-			"Buff_Whip_ReviveCD_L0"
+			{
+				"key": "Buff_Whip_Physic_Resonance_ATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L0",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2864,13 +3125,28 @@
 	},
 	"Whip_physic_ssr_star_1": {
 		"advancement": "En incarnant Mobius, vous gagnez immédiatement <shuzhi>{0}</> points d'échauffement. Temps de recharge : <shuzhi>{1}</> secondes. En entrant dans Tour de magie, inflige aux cibles situées à proximité des dégâts de zone équivalant à <shuzhi>{2}%</> de l'ATQ et réduit leur résistance physique de <shuzhi>{3}%</> pendant <shuzhi>{4}</> secondes.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargeGet_L5",
-			"Buff_Whip_ChargeGetCD_L5",
-			"GE_WhipMagicBeginExSkill_Damage",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect_Duration"
+			{
+				"key": "Buff_Whip_ChargeGet_L5",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargeGetCD_L5",
+				"value": 1
+			},
+			{
+				"key": "GE_WhipMagicBeginExSkill_Damage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect",
+				"value": -100
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Whip_physic_plasm",
@@ -2895,14 +3171,32 @@
 	},
 	"Whip_physic_ssr_star_3": {
 		"advancement": "Lorsque vous mettez fin à Tour de magie en avance, inflige des dégâts sur une vaste zone pendant <shuzhi>{3}</> secondes. Le temps de recharge actuel de la compétence de Mobius est réduit et les dégâts physiques accrus de <shuzhi>{0}%</> pendant une certaine période (cet effet ne concerne pas Mobius). S'il reste plus de <shuzhi>13</> secondes à Tour de magie, confère <shuzhi>200</> de recharge d'arme supplémentaires. Le temps restant à la fin de Tour de magie accroît la zone de dégâts, réduit le temps de recharge des compétences et prolonge le bonus de dégâts physiques. Les dégâts de zone sont plafonnés à <shuzhi>{1}%</> de l'ATQ (les dégâts maximum sont infligés lorsque le temps restant est supérieur à <shuzhi>{5}</> secondes). La réduction de temps de recharge maximum est de <shuzhi>{4}</> secondes et le bonus de dégâts physiques peut durer jusqu'à <shuzhi>{2}</> secondes.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargedEndEffect_L3",
-			"MagicEnd_HighDamage",
-			"Buff_Whip_ChargedEndEffect_L3_DurationMax",
-			"MagicEnd_DamageDuration",
-			"ReduceSkillCDMax",
-			"MagicEnd_HighThreshold"
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighDamage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3_DurationMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_DamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ReduceSkillCDMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighThreshold",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Whip_physic_plasm",
@@ -2927,11 +3221,20 @@
 	},
 	"Whip_physic_ssr_star_5": {
 		"advancement": "Gagne l'effet Marionnette psychique pendant Tour de magie et accroît le bonus de dégâts physiques de Mobius à <shuzhi>{0}%</>. Pendant Tour de magie, restaure <shuzhi>{1}%</> des PV max et <shuzhi>{2}</> de recharge d'arme à chaque seconde.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_MagicAB_Effect_DmgUp_L1",
-			"Buff_Whip_ChargedRecover_L1_HP",
-			"Buff_Whip_ChargedRecover_L1_Charge"
+			{
+				"key": "Buff_Whip_MagicAB_Effect_DmgUp_L1",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_HP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_Charge",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Whip_physic_plasm",
@@ -2944,10 +3247,16 @@
 	},
 	"Whip_physic_ssr_star_6": {
 		"advancement": "Pendant Tour de magie, Mobius dispose d'un fouet supplémentaire qu'il utilise automatiquement lorsque l'Explorateur a recours à Mobius pour des attaques normales ou des attaques d'esquive, infligeant des dégâts équivalant à <shuzhi>{0}%</> de l'ATQ de Mobius (ces dégâts ne sont pas comptabilisés comme des attaques normales).",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"WhipMagicExWhipSkillDamageVar",
-			"Buff_Whip_ReviveCD_L6"
+			{
+				"key": "WhipMagicExWhipSkillDamageVar",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Whip_physic_plasm",
@@ -2960,11 +3269,20 @@
 	},
 	"yoyo_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance de givre</> : accroît l'ATQ de givre de <shuzhi>15%</> et la résistance au givre de <shuzhi>25%</>. Activez-la en équipant au moins <shuzhi>2</> armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec des effets du même type.\r\n<shuzhi>Élémentaliste</> : accroît les dégâts finaux de <shuzhi>{2}%</> pour <shuzhi>chaque</> type d'élément d'arme équipé. Les effets du kit fonctionnent également avec les armes dans l'emplacement main libre.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2977,13 +3295,28 @@
 	},
 	"yoyo_ice_ssr_star_1": {
 		"advancement": "Quand une compétence d'arme est utilisée, Yo-yo fulgurant déclenche <shuzhi>Harmonie</>, infligeant des dégâts aux cibles proches équivalant à <shuzhi>{0}%</> des PV perdus de l'Explorateur. Les dégâts infligés ne peuvent pas être inférieurs à <shuzhi>{1}%</> et ne peuvent pas dépasser <shuzhi>{2}%</> de l'ATQ max de l'Explorateur. Le type de dégâts élémentaires infligés sera le même que celui de l'arme actuelle.\r\nLorsqu'une décharge d'arme est utilisée, Yo-yo fulgurant déclenche <shuzhi>Calibrage</>, infligeant des dégâts aux cibles proches équivalant à <shuzhi>{3}%</> des PV max de l'Explorateur. Les dégâts infligés ne peuvent pas dépasser <shuzhi>{4}%</> de l'ATQ max de l'Explorateur. Le type de dégâts élémentaires infligé sera le même que celui de l'arme actuelle.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSkillTriggerDamage",
-			"YoyoSkillTriggerDamageMin",
-			"YoyoSkillTriggerDamageMax",
-			"YoyoChangeSkillTriggerDamage",
-			"YoyoChangeSkillTriggerDamageMax"
+			{
+				"key": "YoyoSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMin",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMax",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamageMax",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Yoyo_ice_plasm",
@@ -3008,10 +3341,16 @@
 	},
 	"yoyo_ice_ssr_star_3": {
 		"advancement": "Quand vous utilisez Jour de désolation, Yo-yo fulgurant peut déclencher <shuzhi>{0}</> secondes de <shuzhi>prestesse</> : accroît la vitesse de Yo-yo fulgurant de <shuzhi>{1}%</> et les dégâts de <shuzhi>160%</>, et les dégâts infligés en passant à travers la cible sont convertis en dégâts à faible portée.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Yoyo_ice_plasm",
@@ -3036,9 +3375,12 @@
 	},
 	"yoyo_ice_ssr_star_5": {
 		"advancement": "Accroît les dégâts de Yo-yo fulgurant et de Retour à la solitude de <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoBulletDamageFigureL5"
+			{
+				"key": "YoyoBulletDamageFigureL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Yoyo_ice_plasm",
@@ -3051,9 +3393,12 @@
 	},
 	"yoyo_ice_ssr_star_6": {
 		"advancement": "Accroît les dégâts finaux de <shuzhi>{0}%</> lorsque Yo-yo fulgurant est actif.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"Buff_YoyoIceDmpUpL6"
+			{
+				"key": "Buff_YoyoIceDmpUpL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Yoyo_ice_plasm",
@@ -3769,13 +4114,28 @@
 	},
 	"brush_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance de feu</> : accroît l'ATQ de feu de <shuzhi>15%</> et la résistance au feu de <shuzhi>25%</>. S'active en équipant au moins <shuzhi>2</> armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n<shuzhi>Explosion incandescente : Sur le terrain</> : quand un coup est réussi avec <shuzhi>Comète de pin</>, inflige des dégâts aux cibles proches équivalant à <shuzhi>{0}%</> de l'ATQ de feu + <shuzhi>{1}%</> des PV max de l'Explorateur + <shuzhi>{2}%</> de la somme de tous les types de résistance de l'Explorateur + <shuzhi>{3}%</> de crit. Cet effet peut être déclenché une fois toutes les <shuzhi>1,5</> seconde. Les dégâts d'Explosion incandescente sont comptabilisés comme des dégâts d'attaque normale. Si <shuzhi>1</> arme de foudre, de givre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par <shuzhi>{4}</>. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushFireSpecialFireAtk",
-			"BrushFireSpecialMaxHP",
-			"BrushFireSpecialDef",
-			"BrushFireSpecialCrit",
-			"BrushFireSpecialOtherWeapon"
+			{
+				"key": "BrushFireSpecialFireAtk",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialDef",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3788,9 +4148,12 @@
 	},
 	"brush_fire_ssr_star_1": {
 		"advancement": "Lorsqu'une <shuzhi>Plume de moineau</> touche une cible, elle crée un effet de propagation, infligeant des dégâts de zone supplémentaires équivalant à <shuzhi>{0}%</> du total des dégâts de brûlure et d'embrasement. Cela étend également le <shuzhi>Brûle-moineau</> de la cible affectée aux cibles proches, actualisant la durée de <shuzhi>Brûle-moineau</>. L'effet de propagation peut être déclenché une fois toutes les <shuzhi>5</> secondes.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel1FireJieSuan"
+			{
+				"key": "BrushLevel1FireJieSuan",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "brush_fire_plasm",
@@ -3815,10 +4178,16 @@
 	},
 	"brush_fire_ssr_star_3": {
 		"advancement": "Lorsque les PV de l'Explorateur sont inférieurs à <shuzhi>50%</> des PV max, toutes les <shuzhi>0,5</> seconde, consommez <shuzhi>1</> <shuzhi>Plume de moineau</> et récupérez <shuzhi>{0}%</> des PV max (augmente à <shuzhi>{1}%</> des PV max en solo) jusqu'à ce que les PV de l'Explorateur soient pleins ou que toutes les <shuzhi>Plumes de moineau</> soient consommées. Cet effet fonctionne dans l'emplacement main libre.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel3ReceverHP",
-			"BrushLevel3ReceverHPClient"
+			{
+				"key": "BrushLevel3ReceverHP",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel3ReceverHPClient",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "brush_fire_plasm",
@@ -3843,10 +4212,16 @@
 	},
 	"brush_fire_ssr_star_5": {
 		"advancement": "Lorsque vous subissez des dégâts fatals, évitez les dégâts fatals 1 fois, gagnez une immunité aux dégâts pendant une courte durée, et obtenez instantanément <shuzhi>60</> <shuzhi>Plumes de moineau</> et <shuzhi>{0}</> de recharge d'arme. Utilisable 1 fois toutes les <shuzhi>{1}</> secondes. Les effets du kit fonctionnent dans l'emplacement main libre.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel5YN",
-			"BrushLevel5MiansiCD"
+			{
+				"key": "BrushLevel5YN",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel5MiansiCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "brush_fire_plasm",
@@ -3859,9 +4234,12 @@
 	},
 	"brush_fire_ssr_star_6": {
 		"advancement": "Augmente les dégâts de feu de <shuzhi>{0}%</> supplémentaires en état <shuzhi>Pinacle</>.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel6FireExtraAtkUP"
+			{
+				"key": "BrushLevel6FireExtraAtkUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "brush_fire_plasm",
@@ -3874,13 +4252,28 @@
 	},
 	"yulan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance de givre</> : Accroît l'ATQ de givre de <shuzhi>15%</> et la résistance au givre de <shuzhi>25%</>. S'active en équipant au moins <shuzhi>2</> armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n<shuzhi>Brise-glace : Coupe rapide</> : Quand <shuzhi>Unité</> est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts aux cibles proches équivalant à <shuzhi>{0}%</> de l'ATQ de givre + <shuzhi>{1}%</> des PV max de l'Explorateur + <shuzhi>{2}%</> de la somme de tous les types de résistance de l'Explorateur + <shuzhi>{3}%</> de crit. En combat, toutes les <shuzhi>0,5</> secondes, les prochains dégâts infligés par Coupe rapide seront augmentés d'<shuzhi>une</> fois supplémentaire, jusqu'à un maximum de <shuzhi>30</> fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts de Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si <shuzhi>1</> arme de foudre, de feu ou physique est équipée, les dégâts de Brise-glace sont augmentés <shuzhi>{4}</> fois.Par ailleurs, les dégâts de Brise-glace ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YuLanEXChangeWeaponCoefficientIceAttack",
-			"YuLanEXChangeWeaponCoefficientMaxHP",
-			"YuLanEXChangeWeaponCoefficientDef",
-			"YuLanEXChangeWeaponCoefficientCrit",
-			"YuLanExChangeWeaponFinCoefficient"
+			{
+				"key": "YuLanEXChangeWeaponCoefficientIceAttack",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientMaxHP",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "YuLanExChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3893,15 +4286,36 @@
 	},
 	"yulan_ice_ssr_star_1": {
 		"advancement": "Sous la forme <shuzhi>Artiste martial</>, après avoir consommé au moins <shuzhi>3</> de <shuzhi>Force intérieure</>, <shuzhi>Unité</> restaure <shuzhi>{0}</> de <shuzhi>Force intérieure</>. Ensuite, accroît les dégâts finaux de l'Explorateur de <shuzhi>{1}%</>, et accroît les dégâts infligés par les attaques d'esquive/normales d'<shuzhi>Unité</> de <shuzhi>{2}%</> pendant <shuzhi>{3}</> secondes.\r\nSous la forme <shuzhi>Force de balayage</>, après avoir consommé au moins <shuzhi>3</> d'<shuzhi>Esprit combatif</>, <shuzhi>Unité</> restaure <shuzhi>{4}</> d'<shuzhi>Esprit combatif</>. Ensuite, accroît les dégâts finaux de l'Explorateur de <shuzhi>{5}%</> pendant <shuzhi>{6}</> secondes.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel1RecoverStack",
-			"YulanForceLevel1DamUpMul",
-			"YulanForceLevel1MeleeDamUpMul",
-			"YulanForceLevel1DamUpDuration",
-			"YulanArrayLevel1RecoverStack",
-			"YulanArrayLevel1DamUpMul",
-			"YulanArrayLevel1DamUpDuration"
+			{
+				"key": "YulanForceLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "yulan_ice_plasm",
@@ -3926,12 +4340,24 @@
 	},
 	"yulan_ice_ssr_star_3": {
 		"advancement": "Sous la forme <shuzhi>Artiste martial</>, si <shuzhi>Force intérieure</> n'est pas obtenue dans les <shuzhi>{0}</> secondes, la prochaine acquisition de <shuzhi>Force intérieure</> comptera pour <shuzhi>2</>.\r\nSous n'importe quelle forme, si <shuzhi>Unité</> consomme au moins <shuzhi>3</> de <shuzhi>Force intérieure</> ou d'<shuzhi>Esprit combatif</>, restaure <shuzhi>{1}%</> des PV max de l'Explorateur. En jeu en solo, accroît la récupération des PV de <shuzhi>{2}%</>. Cet effet ne peut être déclenché qu'une fois toutes les <shuzhi>8</> secondes sous la forme <shuzhi>Force de balayage</>. Il n'y a pas de limite sous la forme <shuzhi>Artiste martial</>.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceCDLevel3",
-			"YulanForceLevel3RecoverHpTeamMul",
-			"YulanForceLevel3RecoverHpSingleMul",
-			"YulanArrayLevel3RecoverHpCDDuration"
+			{
+				"key": "YulanForceCDLevel3",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel3RecoverHpCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "yulan_ice_plasm",
@@ -3956,11 +4382,20 @@
 	},
 	"yulan_ice_ssr_star_5": {
 		"advancement": "Quand <shuzhi>Unité</> consomme <shuzhi>Force intérieure</> ou <shuzhi>Esprit combatif</>, lorsque vous subissez des dégâts fatals, évite les dégâts fatals 1 fois et restaure <shuzhi>{0}%</> des PV max de l'Explorateur (non disponible en Ligue ultime). En jeu en solo, accroît la récupération des PV de <shuzhi>{1}%</>. Chaque effet ne peut être déclenché qu'une fois toutes les <shuzhi>{2}</> secondes.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanLevel5ImmunityRecoverHpTeamMul",
-			"YulanLevel5ImmunityRecoverHpSingleMul",
-			"YulanLevel5ImmunityCDDuration"
+			{
+				"key": "YulanLevel5ImmunityRecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityRecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "yulan_ice_plasm",
@@ -3973,13 +4408,28 @@
 	},
 	"yulan_ice_ssr_star_6": {
 		"advancement": "Sous la forme <shuzhi>Artiste martial</>, accroît les dégâts infligés par les attaques d'esquive/normales d'<shuzhi>Unité</> de <shuzhi>{0}%</> supplémentaires. Après avoir consommé <shuzhi>Force intérieure</>, accroît les dégâts finaux de l'Explorateur de <shuzhi>{1}%</> pendant <shuzhi>{2}</> secondes.\r\nSous la forme <shuzhi>Force de balayage</>, quand <shuzhi>Unité</> consomme <shuzhi>Esprit combatif</>, accroît les dégâts finaux de l'Explorateur de <shuzhi>{3}%</> pendant <shuzhi>{4}</> secondes.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel6MeleeDamUpMul",
-			"YulanForceLevel6DamUpMul",
-			"YulanForceLevel6DamUpDuration",
-			"YulanArrayLevel6DamUpMul",
-			"YulanArrayLevel6DamUpDuration"
+			{
+				"key": "YulanForceLevel6MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "yulan_ice_plasm",
@@ -3992,14 +4442,32 @@
 	},
 	"Zeke_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance physique</> : Accroît l'ATQ physique de <shuzhi>15%</> et la résistance physique de <shuzhi>25%</>. S'active en équipant au moins <shuzhi>2</> armes physiques. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance physique, et Résonance physique prévaut.\r\n<shuzhi>Résonance de feu</> : Accroît l'ATQ de feu de <shuzhi>15%</> et la résistance au feu de <shuzhi>25%</>. S'active en équipant au moins <shuzhi>2</> armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu, et Résonance de feu prévaut.\r\n\r\n<shuzhi>Fracture du bouclier : Détachement</> : Après avoir utilisé <shuzhi>Ravin absolu</>, inflige chaque seconde des dégâts équivalant à <shuzhi>{1}%</> de l'ATQ physique + <shuzhi>{2}%</> des PV max de l'Explorateur + <shuzhi>{3}%</> de la somme de tous les types de résistance de l'Explorateur + <shuzhi>{4}%</> de crit pendant <shuzhi>{0}</> secondes aux cibles touchées. Les dégâts de Détachement multiples ne se cumulent pas et les dégâts de fracture du bouclier sont comptabilisés comme des dégâts de compétence. Si <shuzhi>1</> arme de foudre, de feu ou de givre est équipée, les dégâts de fracture du bouclier sont multipliés par <shuzhi>{5}</>. Par ailleurs, les dégâts de fracture du bouclier ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"Buff_ZekeSkillPoJiaDamageDuration",
-			"ZekePoJiaDamageCoeffPhyATK",
-			"ZekePoJiaDamageCoeffMaxHP",
-			"ZekePoJiaDamageCoeffDefSum",
-			"ZekePoJiaDamageCoeffCrit",
-			"ZekePoJiaDamageCoeffAdv"
+			{
+				"key": "Buff_ZekeSkillPoJiaDamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffPhyATK",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4060,11 +4528,20 @@
 	},
 	"Zeke_physic_ssr_star_5": {
 		"advancement": "Après l'utilisation de <shuzhi>Ravin absolu</>, réduit les dégâts subis par l'Explorateur de <shuzhi>{0}%</> (<shuzhi>{1}%</> en jeu en solo) pendant <shuzhi>{2}</> secondes.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ZekeBeDmgDownL5Team",
-			"ZekeBeDmgDownL5Single",
-			"Buff_ZekeSnakeLinkDebuffDuration"
+			{
+				"key": "ZekeBeDmgDownL5Team",
+				"value": 1
+			},
+			{
+				"key": "ZekeBeDmgDownL5Single",
+				"value": 1
+			},
+			{
+				"key": "Buff_ZekeSnakeLinkDebuffDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Zeke_physic_plasm",
@@ -4077,9 +4554,12 @@
 	},
 	"Zeke_physic_ssr_star_6": {
 		"advancement": "La présence de plus de <shuzhi>1</> membre de la <shuzhi>Chaîne serpentine</> fait passer le taux de conduction des dégâts de <shuzhi>conduction</> à <shuzhi>50%</>.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ConductFactorL6"
+			{
+				"key": "ConductFactorL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Zeke_physic_plasm",
@@ -4092,13 +4572,28 @@
 	},
 	"mimi_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance de foudre</> : accroît l'ATQ de foudre de <shuzhi>15%</> et la résistance à la foudre de <shuzhi>25%</>. S'active en équipant au moins <shuzhi>2</> armes de foudre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n\r\n<shuzhi>Gronde-tonnerre : Sur le terrain</> : quand un coup est réussi avec <shuzhi>Dragon azur</>, inflige des dégâts aux cibles proches équivalant à <shuzhi>{0}%</> de l'ATQ de foudre + <shuzhi>{1}%</> des PV max de l'Explorateur + <shuzhi>{2}%</> de la somme de tous les types de résistance de l'Explorateur + <shuzhi>{3}%</> de crit. Cet effet peut être déclenché une fois toutes les <shuzhi>1,5</> seconde. Les dégâts de Gronde-tonnerre sont comptabilisés comme des dégâts d'attaque normale. Si <shuzhi>1</> arme de feu, de givre ou physique est équipée, les dégâts de Gronde-tonnerre sont multipliés par <shuzhi>{4}</>. De plus, les dégâts de Gronde-tonnerre ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent pas d'effets d'attaque supplémentaires.",
-		"numbermap": "CurveTable'MiMiEffectFigure'",
+		"numbermap": "MiMiEffectFigure",
 		"numbers": [
-			"Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
-			"Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
-			"Buff_MiMiThu_SSR_Level0_SpecialDef",
-			"Buff_MiMiThu_SSR_Level0_SpecialCrit",
-			"Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon"
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4183,13 +4678,28 @@
 	},
 	"feise_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Résonance de feu</> : accroît l'ATQ de feu de <shuzhi>20%</> et la résistance au feu de <shuzhi>40%</>. S'active en équipant au moins <shuzhi>2</> armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu ou de Réaction de feu, et Résonance de feu prévaut.\r\n<shuzhi>Explosion incandescente : Coupe rapide</> : Quand <shuzhi>Floraison éternelle</> est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux aux cibles proches équivalant à <shuzhi>{0}%</> de l'ATQ de feu + <shuzhi>{1}%</> des PV max de l'Explorateur + <shuzhi>{2}%</> de la somme de tous les types de résistance de l'Explorateur + <shuzhi>{3}%</> de crit. En combat, toutes les <shuzhi>0,5</> seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'<shuzhi>une</> fois supplémentaire, jusqu'à un maximum de <shuzhi>30</> fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion ardente : Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si <shuzhi>1</> arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par <shuzhi>{4}</>. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
-		"numbermap": "CurveTable'FeiseEffectFigure'",
+		"numbermap": "FeiseEffectFigure",
 		"numbers": [
-			"FeiSeEXChangeWeaponCoefficientFireAttack",
-			"FeiSeEXChangeWeaponCoefficientMaxHp",
-			"FeiSeEXChangeWeaponCoefficientDef",
-			"FeiSeEXChangeWeaponCoefficientCrit",
-			"FeiSeEXChangeWeaponFinCoefficient"
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientFireAttack",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientMaxHp",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",

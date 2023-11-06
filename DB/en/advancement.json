@@ -167,11 +167,20 @@
 	},
 	"Chainsaw_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>{0}%</> and physical resistance by <shuzhi>{1}%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect also works with weapons in the off-hand slot. Cannot stack with other Physical Resonance or Physical Reaction effects, with Physical Resonance taking precedence.\r\n<shuzhi>Universal Resonance</>: Increase final damage by <shuzhi>{2}%</>. Activate by equipping <shuzhi>2</> weapons of the same element, not including physical. This set effect works in the off-hand slot.",
-		"numbermap": "CurveTable'ChainsawEffectFigure'",
+		"numbermap": "ChainsawEffectFigure",
 		"numbers": [
-			"Buff_Chainsaw_Physic_Resonance_Atk",
-			"Buff_Chainsaw_Physic_Resonance_Def",
-			"ChainsawBalanceLevel0DamUP"
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Atk",
+				"value": 1
+			},
+			{
+				"key": "Buff_Chainsaw_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "ChainsawBalanceLevel0DamUP",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -933,10 +942,16 @@
 	},
 	"gun_fire_ssr_star_1": {
 		"advancement": "Each round of Barrage deals additional damage equal to <shuzhi>{0}%</> of the target's current HP (cannot exceed <shuzhi>{1}%</> of ATK).",
-		"numbermap": "CurveTable'Gun_Fire_SSR_EffectFigure'",
+		"numbermap": "Gun_Fire_SSR_EffectFigure",
 		"numbers": [
-			"GunLevel1_1_HP",
-			"GunLevel1_1_DMG"
+			{
+				"key": "GunLevel1_1_HP",
+				"value": 1
+			},
+			{
+				"key": "GunLevel1_1_DMG",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "gun_fire_plasm",
@@ -1021,10 +1036,16 @@
 	},
 	"sword_physic_ssr_star_1": {
 		"advancement": "After hitting a target with a skill or discharge skill, gain 1 stack of the following buff: Increase damage dealt by <shuzhi>8%</> for <shuzhi>25</> seconds, stacking up to <shuzhi>3</> times, for a maximum of 1 stack per skill use.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level1_DamageUp",
-			"Buff_SwordPhy_SSR_Level1_DamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level1_DamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "sword_physic_plasm",
@@ -1049,10 +1070,16 @@
 	},
 	"sword_physic_ssr_star_3": {
 		"advancement": "When hitting a target with a skill or discharge skill, apply 1 stack of War Wounds to the target: Increase incoming physical damage and shatter from physical weapons by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>. Stack up to <shuzhi>1</> time.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp",
-			"Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level3_BeDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "sword_physic_plasm",
@@ -1077,10 +1104,16 @@
 	},
 	"sword_physic_ssr_star_5": {
 		"advancement": "Hitting targets with skills or discharge skills grants Skill Damage Boost, which increases all weapon skill damage by <shuzhi>{0}%</> for <shuzhi>{1} seconds</>. This effect cannot be stacked.",
-		"numbermap": "CurveTable'Sword_Phy_SSR_EffectFigure'",
+		"numbermap": "Sword_Phy_SSR_EffectFigure",
 		"numbers": [
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp",
-			"Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration"
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_SwordPhy_SSR_Level5_SkillDamageUp_Duration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "sword_physic_plasm",
@@ -1534,10 +1567,16 @@
 	},
 	"queen_superpower_ssr_star_1": {
 		"advancement": "Using any weapon or discharge skill grants <shuzhi>1</> elemental crystal, up to <shuzhi>5</> crystals. Elemental crystals are lost at a rate of <shuzhi>1</> crystal every <shuzhi>6</> seconds.\r\nElemental crystals provide a final damage boost equal to <shuzhi>4%</> of [(<shuzhi>crystal count</> plus <shuzhi>1</>)/<shuzhi>2</>] and an increased healing effect equal to <shuzhi>6%</> of [(<shuzhi>crystal count</> plus <shuzhi>1</>)/<shuzhi>2</>].",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "queen_superpower_plasm",
@@ -1586,9 +1625,12 @@
 	},
 	"queen_superpower_ssr_star_5": {
 		"advancement": "Obtain <shuzhi>1</> elemental crystal every time Scatter Technique is used. Elemental crystals are lost at a rate of <shuzhi>1</> crystal every <shuzhi>20</> seconds.\r\nWhen receiving lethal damage, consume <shuzhi>3</> elemental crystals to prevent death 1 time and gain damage immunity for a short time. Can be activated <shuzhi>1</> time every <shuzhi>25</> seconds.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "queen_superpower_plasm",
@@ -1601,9 +1643,12 @@
 	},
 	"queen_superpower_ssr_star_6": {
 		"advancement": "Increase final damage by <shuzhi>7%</> of [(<shuzhi>crystal count </>plus <shuzhi>3</>)/<shuzhi>2</>].",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "queen_superpower_plasm",
@@ -1616,11 +1661,20 @@
 	},
 	"Rubilia_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with other Volt Resonance or Volt Reaction effects, with Volt Resonance taking precedence.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1633,9 +1687,12 @@
 	},
 	"Rubilia_thunder_ssr_star_1": {
 		"advancement": "After triggering <shuzhi>Feedback</>, every Crystamax thorn will deal damage to nearby targets equal to <shuzhi>66.7%</> of ATK every <shuzhi>2</> seconds for <shuzhi>{0}</> seconds.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_SummonSkill_Duration"
+			{
+				"key": "Buff_Rubilia_SummonSkill_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Rubilia_thunder_plasm",
@@ -1660,10 +1717,16 @@
 	},
 	"Rubilia_thunder_ssr_star_3": {
 		"advancement": "Using the weapon skill or the discharge skill of any other weapon will generate <shuzhi>1</> Crystamax thorn.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Rubilia_thunder_plasm",
@@ -1688,9 +1751,12 @@
 	},
 	"Rubilia_thunder_ssr_star_5": {
 		"advancement": "Increase <shuzhi>Feedback's</> Max HP recovery of Crystamax thorns to <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"SummonShotRecoverHPL5"
+			{
+				"key": "SummonShotRecoverHPL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Rubilia_thunder_plasm",
@@ -1703,10 +1769,16 @@
 	},
 	"Rubilia_thunder_ssr_star_6": {
 		"advancement": "After successfully using Harrah's Embrace, increase volt damage by an additional <shuzhi>{0}%</> for <shuzhi>{1}</> seconds.",
-		"numbermap": "CurveTable'RubiliaEffectFigure'",
+		"numbermap": "RubiliaEffectFigure",
 		"numbers": [
-			"Buff_Rubilia_AddDamageL6",
-			"Buff_Rubilia_AddDamageL6_Duration"
+			{
+				"key": "Buff_Rubilia_AddDamageL6",
+				"value": 1
+			},
+			{
+				"key": "Buff_Rubilia_AddDamageL6_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Rubilia_thunder_plasm",
@@ -1803,14 +1875,32 @@
 	},
 	"Linghan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Extreme Cold: Unload</>: After using <shuzhi>Sword Art: Shadowy Ice</>, every second, deal damage equal to <shuzhi>{0}%</> of frost ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit for <shuzhi>{4}</> seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is <shuzhi>1</> volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by <shuzhi>{5}</> times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanJiHanDamageCoeffIceATK",
-			"LinghanJiHanDamageCoeffMaxHP",
-			"LinghanJiHanDamageCoeffDefSum",
-			"LinghanJiHanDamageCoeffCrit",
-			"Buff_LinghanSkillPoJiaDamageAdd_Duration",
-			"LinghanJiHanDamageCoeffAdv"
+			{
+				"key": "LinghanJiHanDamageCoeffIceATK",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_LinghanSkillPoJiaDamageAdd_Duration",
+				"value": 1
+			},
+			{
+				"key": "LinghanJiHanDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -1823,10 +1913,16 @@
 	},
 	"Linghan_ice_ssr_star_1": {
 		"advancement": "After launching <shuzhi>Frost Blades</>, the Wanderer's frost ATK is increased by <shuzhi>{0}%</> and nearby targets will be dealt damage equal to <shuzhi>80%</> of ATK every second for <shuzhi>{1}</> seconds.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Effect_L1_IceAtkUp",
-			"Buff_Linghan_Effect_L1_Duration"
+			{
+				"key": "Buff_Linghan_Effect_L1_IceAtkUp",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_Effect_L1_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Linghan_ice_plasm",
@@ -1851,14 +1947,32 @@
 	},
 	"Linghan_ice_ssr_star_3": {
 		"advancement": "The Wanderer can produce up to <shuzhi>4</> <shuzhi>Frost Blades</> and <shuzhi>Temperature Reduction's</> damage's base multiplier is increased to <shuzhi>360%</>.\r\nIf the target is the only one affected by <shuzhi>Temperature Reduction</> within <shuzhi>{0}</> seconds, additionally apply <shuzhi>Vein Seal</> to the target, reducing their speed by <shuzhi>{1}%</> (unavailable in Apex League and against bosses). If the target receives <shuzhi>Frost Blade</> damage again during <shuzhi>Vein Seal's</> duration, trigger Icy Burst, dealing skill damage equal to <shuzhi>{2}%</> of ATK plus <shuzhi>{3}%</> of the target's already-lost HP at that point (Icy Burst damage will be no lower than <shuzhi>{4}%</> of the Wanderer's frost ATK and no higher than <shuzhi>{5}%</> of the Wanderer's frost ATK). Then, remove the <shuzhi>Vein Seal</> and <shuzhi>Temperature Reduction</> effects on the target.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"Buff_Linghan_Frostbite_DelayAdd_Period",
-			"Buff_Linghan_TargetSpeedDown",
-			"IceBoomAtkCoeff",
-			"IceBoomHPCoeff",
-			"IceBoomMinAtkCoeff",
-			"IceBoomMaxAtkCoeff"
+			{
+				"key": "Buff_Linghan_Frostbite_DelayAdd_Period",
+				"value": 1
+			},
+			{
+				"key": "Buff_Linghan_TargetSpeedDown",
+				"value": 1
+			},
+			{
+				"key": "IceBoomAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomHPCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMinAtkCoeff",
+				"value": 1
+			},
+			{
+				"key": "IceBoomMaxAtkCoeff",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Linghan_ice_plasm",
@@ -1883,10 +1997,16 @@
 	},
 	"Linghan_ice_ssr_star_5": {
 		"advancement": "The damage dealt by <shuzhi>Crystalline Crack</> and <shuzhi>Cold Air</> is additionally increased by <shuzhi>50%</>. <shuzhi>Light Steps'</> use attempts is increased to <shuzhi>{1}</> and recovery rate is increased to <shuzhi>1</> attempt every <shuzhi>{0}</> seconds.",
-		"numbermap": "CurveTable'LinghanEffectFigure'",
+		"numbermap": "LinghanEffectFigure",
 		"numbers": [
-			"LinghanQinggongPeriodL5",
-			"LinghanQinggongMaxL5"
+			{
+				"key": "LinghanQinggongPeriodL5",
+				"value": 1
+			},
+			{
+				"key": "LinghanQinggongMaxL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Linghan_ice_plasm",
@@ -2091,9 +2211,12 @@
 	},
 	"funnel_fire_ssr_star_1": {
 		"advancement": "Emblazen increases the damage of Spark Attack to <shuzhi>{0}%</>. Skill cooldown drops to <shuzhi>24</> seconds.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel1AtkDamUp"
+			{
+				"key": "FunnelLevel1AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "funnel_fire_plasm",
@@ -2118,9 +2241,12 @@
 	},
 	"funnel_fire_ssr_star_3": {
 		"advancement": "Emblazen increases flame boost by <shuzhi>{0}%</> and the burn tally multiplier to <shuzhi>75%</>.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel3FireDamBeUp"
+			{
+				"key": "FunnelLevel3FireDamBeUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "funnel_fire_plasm",
@@ -2157,9 +2283,12 @@
 	},
 	"funnel_fire_ssr_star_6": {
 		"advancement": "Emblazen boosts the damage of Spark Attack to <shuzhi>{0}%</> and doubles Heat acquisition efficiency. Skill cooldown drops to <shuzhi>16</> seconds.",
-		"numbermap": "CurveTable'FunnelEffectFigure'",
+		"numbermap": "FunnelEffectFigure",
 		"numbers": [
-			"FunnelLevel6AtkDamUp"
+			{
+				"key": "FunnelLevel6AtkDamUp",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "funnel_fire_plasm",
@@ -2172,10 +2301,16 @@
 	},
 	"dkatana_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>{0}%</> and frost resistance by <shuzhi>{1}%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2188,9 +2323,12 @@
 	},
 	"dkatana_ice_ssr_star_1": {
 		"advancement": "When Frost Resonance is activated, all weapon skill cooldowns are cleared every <shuzhi>5</> times weapon skills are used, and the damage of Flow and Counterattack is increased by <shuzhi>1</> time for the next <shuzhi>{0}</> seconds.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration"
+			{
+				"key": "Buff_Dkatana_AnySkillStack_SwordDMGAddCheck_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Dkatana_ice_plasm",
@@ -2215,9 +2353,12 @@
 	},
 	"dkatana_ice_ssr_star_3": {
 		"advancement": "Excited Flow: Increase the damage of Sword Shadow: Surge to <shuzhi>350%</> of frost ATK.\r\nSilent Flow: The cooldown of Sword Shadow: Surge becomes <shuzhi>{0}</> seconds.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_DkatanaSwordSkillCoolDown_5S_Duration"
+			{
+				"key": "Buff_DkatanaSwordSkillCoolDown_5S_Duration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Dkatana_ice_plasm",
@@ -2254,12 +2395,24 @@
 	},
 	"dkatana_ice_ssr_star_6": {
 		"advancement": "Upon hitting a target with Surge, increase frost damage by <shuzhi>{0}%</> for <shuzhi>{1}</> seconds.\r\nUpon triggering block with Sword Shadow, reduce the frost damage dealt by nearby enemy targets by <shuzhi>{2}%</> for <shuzhi>{3}</> seconds.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_IceDMG_Add",
-			"Buff_Dkatana_IceDMG_Add_Duration",
-			"Buff_Dkatana_BlockWeakenEffect",
-			"Buff_Dkatana_BlockWeakenEffect_Duration"
+			{
+				"key": "Buff_Dkatana_IceDMG_Add",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_IceDMG_Add_Duration",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_BlockWeakenEffect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Dkatana_ice_plasm",
@@ -2284,10 +2437,16 @@
 	},
 	"fan_superpower_ssr_star_1": {
 		"advancement": "Normal attacks now deal area damage upon hit.\r\nWhen there is another epiphyllum within the epiphyllum explosion area, increase the damage of each of the subsequent epiphyllum explosions by <shuzhi>{0}%</>, up to a maximum of <shuzhi>{1}%</>.\r\nThe epiphyllum generation interval from <shuzhi>Moonlight Realm</> is now reduced to <shuzhi>0.5</> seconds.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanFlowerDamageUp",
-			"FanFlowerDamageUp5"
+			{
+				"key": "FanFlowerDamageUp",
+				"value": 1
+			},
+			{
+				"key": "FanFlowerDamageUp5",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "fan_superpower_plasm",
@@ -2336,9 +2495,12 @@
 	},
 	"fan_superpower_ssr_star_5": {
 		"advancement": "When under the effect of <shuzhi>Moonlight Realm</>, gain <shuzhi>30</> weapon charge every second and increase the damage of discharge skill by <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel5ChangeSkillDamUp"
+			{
+				"key": "FanSkillLevel5ChangeSkillDamUp",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "fan_superpower_plasm",
@@ -2351,9 +2513,12 @@
 	},
 	"fan_superpower_ssr_star_6": {
 		"advancement": "Switch modes on <shuzhi>Moonlight Realm</> up to <shuzhi>2</> times. Gain <shuzhi>1</> attempt after skill cooldown and another <shuzhi>1</> attempt by charging discharge.\r\nUse any weapon discharge <shuzhi>3</> times to gain <shuzhi>+1</> on the <shuzhi>Moonlight Realm</> count. Effective even when Shadoweave is in the off-hand slot.\r\nWhen under the effect of <shuzhi>Moonlight Realm</>, increase attack by <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'FanEffectFigure'",
+		"numbermap": "FanEffectFigure",
 		"numbers": [
-			"FanSkillLevel6FinalDamUpdes"
+			{
+				"key": "FanSkillLevel6FinalDamUpdes",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "fan_superpower_plasm",
@@ -2366,10 +2531,16 @@
 	},
 	"arm_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>{0}%</> and physical resistance by <shuzhi>{1}%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Physical Benediction</>: Increase the entire team's physical ATK by <shuzhi>5%</> when Benediction Resonance is active.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmGMPhyAtkMul",
-			"ArmGMPhyDefMul"
+			{
+				"key": "ArmGMPhyAtkMul",
+				"value": 1
+			},
+			{
+				"key": "ArmGMPhyDefMul",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2382,9 +2553,12 @@
 	},
 	"arm_physic_ssr_star_1": {
 		"advancement": "When releasing any weapon skill or discharge, if your Guards are at the maximum, the Guard duration will be refreshed, dealing physical damage equal to <shuzhi>{0}%</> of physical ATK × number of Guards to the enemy. Up to 8 Guards when under the effect of Benediction, and up to 6 when without it.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel1DamMul"
+			{
+				"key": "ArmLevel1DamMul",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "arm_physic_plasm",
@@ -2409,10 +2583,16 @@
 	},
 	"arm_physic_ssr_star_3": {
 		"advancement": "Increase all damage dealt by Guards by <shuzhi>20%</>, and increase the guarded target's final damage by <shuzhi>{0}%</> for <shuzhi>{1} seconds</> when releasing any weapon skill or discharge under the effect of Benediction Resonance.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel3FinalDamMul",
-			"ArmLevel3FinalDamDuration"
+			{
+				"key": "ArmLevel3FinalDamMul",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel3FinalDamDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "arm_physic_plasm",
@@ -2437,9 +2617,12 @@
 	},
 	"arm_physic_ssr_star_5": {
 		"advancement": "Forgiveness Guard: After releasing Resonance 5 times, receive <shuzhi>1</> chance to negate lethal damage for the wielder and the guarded target. After a teammate negates lethal damage, they will consume Forgiveness Guard and recover <shuzhi>{0}%</> of Max HP. Unavailable in Apex League.\r\nEnlightenment Guard: After releasing Resonance 5 times and when having Enlightenment Guard, the wielder receives <shuzhi>2</> chances to negate lethal damage. Stack up to <shuzhi>5</> times. After the wielder negates lethal damage, they will consume 1 stack of Enlightenment Guard and recover <shuzhi>{0}%</> of Max HP. Unavailable in Apex League.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel5HpReply"
+			{
+				"key": "ArmLevel5HpReply",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "arm_physic_plasm",
@@ -2452,11 +2635,20 @@
 	},
 	"arm_physic_ssr_star_6": {
 		"advancement": "When unleashing any weapon skill or discharge, the increase of final damage and healing depends on the number of Guards. Each Guard increases final damage and healing by <shuzhi>{0}%</>, up to <shuzhi>{1}%</> for <shuzhi>{2} seconds</>.",
-		"numbermap": "CurveTable'ArmEffectFigure'",
+		"numbermap": "ArmEffectFigure",
 		"numbers": [
-			"ArmLevel6Add",
-			"ArmLevel6AddMax",
-			"ArmLevel6AddDuration"
+			{
+				"key": "ArmLevel6Add",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddMax",
+				"value": 1
+			},
+			{
+				"key": "ArmLevel6AddDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "arm_physic_plasm",
@@ -2481,12 +2673,24 @@
 	},
 	"tianlang_thunder_ssr_star_1": {
 		"advancement": "Gain 1 stack of Superconductor per charge: Increase Max HP by <shuzhi>{0}%</> but increase damage received by <shuzhi>{1}%</> (except when the current HP is lower than {2} times of volt ATK and no HP Shield is equipped), stacking up to <shuzhi>8</> times. Lose 1 stack if no Superconductor gets refreshed within <shuzhi>{3}</> seconds.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ImproveMaxHP_L3",
-			"Tianlang_BeDMGUp",
-			"Tianlang_BeDMGUp_Con_ATK",
-			"ImproveMaxHpDuration"
+			{
+				"key": "ImproveMaxHP_L3",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp",
+				"value": 1
+			},
+			{
+				"key": "Tianlang_BeDMGUp_Con_ATK",
+				"value": 1
+			},
+			{
+				"key": "ImproveMaxHpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "tianlang_thunder_plasm",
@@ -2535,9 +2739,12 @@
 	},
 	"tianlang_thunder_ssr_star_5": {
 		"advancement": "Each Superconductor stack increases final damage by <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"AddFinalDMG_L5"
+			{
+				"key": "AddFinalDMG_L5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "tianlang_thunder_plasm",
@@ -2550,10 +2757,16 @@
 	},
 	"tianlang_thunder_ssr_star_6": {
 		"advancement": "Boost Dubhe's Volt Sense: For every 1 other volt weapon sensed, gain <shuzhi>{0}%</> volt damage boost for <shuzhi>{1}</> seconds.",
-		"numbermap": "CurveTable'TianlangEffectFigure'",
+		"numbermap": "TianlangEffectFigure",
 		"numbers": [
-			"ThuInteractionAddThuDmgL6",
-			"ThuInteractionDuration"
+			{
+				"key": "ThuInteractionAddThuDmgL6",
+				"value": 1
+			},
+			{
+				"key": "ThuInteractionDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "tianlang_thunder_plasm",
@@ -2566,9 +2779,12 @@
 	},
 	"umbrella_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaCreatCD"
+			{
+				"key": "UmbrellaCreatCD",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2629,9 +2845,12 @@
 	},
 	"umbrella_fire_ssr_star_5": {
 		"advancement": "Fiery Crash and the transferred damage ignore <shuzhi>60%</> of the target's flame resistance.\r\nFlame damage dealt by Corrosion is increased by <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillBeFireDamUpMulLevel5"
+			{
+				"key": "UmbrellaSkillBeFireDamUpMulLevel5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "umbrella_fire_plasm",
@@ -2644,9 +2863,12 @@
 	},
 	"umbrella_fire_ssr_star_6": {
 		"advancement": "Increase the damage dealt by Dancing Flames and Soaring Strike by <shuzhi>{0}%</>.\r\nThe multiplier for rapidly spinning parasols, Phoenix Sweep, and Fiery Crash is now Polyfeather Parasol plus <shuzhi>2</>.",
-		"numbermap": "CurveTable'UmbrellaEffectFigure'",
+		"numbermap": "UmbrellaEffectFigure",
 		"numbers": [
-			"UmbrellaSkillMeleeDamUpMulLevel6"
+			{
+				"key": "UmbrellaSkillMeleeDamUpMulLevel6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "umbrella_fire_plasm",
@@ -2695,11 +2917,20 @@
 	},
 	"snipe_fire_ssr_star_3": {
 		"advancement": "After Cross Snipe lands a critical hit, recover HP equal to <shuzhi>50%</> of the damage dealt (not exceeding <shuzhi>15%</> of own Max HP, Gas Explosion damage not included) and <shuzhi>50</> weapon charge.\r\nEach stack of Tranquil Heart increases the final crit rate to <shuzhi>{0}%</>, up to <shuzhi>{1}%</>, converting up to <shuzhi>{2}%</> of crit damage.",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit",
-			"Buff_SnipeFire_SSR_Level3_Crit_Crit"
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 3
+			},
+			{
+				"key": "Buff_SnipeFire_SSR_Level3_Crit_Crit",
+				"value": 1.5
+			}
 		],
 		"cost": 4000,
 		"need": "Snipe_fire_plasm",
@@ -2736,9 +2967,12 @@
 	},
 	"snipe_fire_ssr_star_6": {
 		"advancement": "Increase damage dealt by Cross Snipe by an additional <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'SnipeEffectFigure'",
+		"numbermap": "SnipeEffectFigure",
 		"numbers": [
-			"Buff_SnipeFire_SSR_Level6_FinaldamageUP"
+			{
+				"key": "Buff_SnipeFire_SSR_Level6_FinaldamageUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Snipe_fire_plasm",
@@ -2787,10 +3021,16 @@
 	},
 	"iceblade_ice_ssr_star_3": {
 		"advancement": "Receive Alyss's Support every time Starry Night is triggered and increase Starry Night and Hoarfrost Damage by <shuzhi>{0}%</> for <shuzhi>{1}</> seconds. Stack up to <shuzhi>3</> times.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel3DamageUpPer",
-			"IcebladeLevel3DamageUpDuration"
+			{
+				"key": "IcebladeLevel3DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel3DamageUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "iceblade_ice_plasm",
@@ -2815,10 +3055,16 @@
 	},
 	"iceblade_ice_ssr_star_5": {
 		"advancement": "Increase the damage of Unyielding Wing's normal attack and Spatial Slice by <shuzhi>{0}%</>. The Wanderer receives Alyss's Protection upon taking lethal damage, protecting the Wanderer from death 1 time and making the Wanderer immune to damage for a short time. Cooldown: <shuzhi>{1}</> seconds.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel5DamageUpPer",
-			"IcebladeLevel5ImmLethalCD"
+			{
+				"key": "IcebladeLevel5DamageUpPer",
+				"value": 1
+			},
+			{
+				"key": "IcebladeLevel5ImmLethalCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "iceblade_ice_plasm",
@@ -2831,9 +3077,12 @@
 	},
 	"iceblade_ice_ssr_star_6": {
 		"advancement": "Increase frost damage by <shuzhi>{0}%</> when Alyss's Support reaches 3 stacks.",
-		"numbermap": "CurveTable'IceBladeEffectFigure'",
+		"numbermap": "IceBladeEffectFigure",
 		"numbers": [
-			"IcebladeLevel6IceDamageUpPer"
+			{
+				"key": "IcebladeLevel6IceDamageUpPer",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "iceblade_ice_plasm",
@@ -2846,12 +3095,24 @@
 	},
 	"Whip_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>15%</> and physical resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_Physic_Resonance_ATK",
-			"Buff_Whip_Physic_Resonance_Def",
-			"Buff_Whip_ReviveHP",
-			"Buff_Whip_ReviveCD_L0"
+			{
+				"key": "Buff_Whip_Physic_Resonance_ATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_Physic_Resonance_Def",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L0",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2864,13 +3125,28 @@
 	},
 	"Whip_physic_ssr_star_1": {
 		"advancement": "When switching to Mobius, immediately gain <shuzhi>{0}</> warmup points. Cooldown: <shuzhi>{1}</> seconds. Upon entering Magic Trick, deal area damage equal to <shuzhi>{2}%</> of ATK to nearby targets and reduce their physical resistance by <shuzhi>{3}%</> for <shuzhi>{4}</> seconds.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargeGet_L5",
-			"Buff_Whip_ChargeGetCD_L5",
-			"GE_WhipMagicBeginExSkill_Damage",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect",
-			"Buff_Whip_MagicBeginExSkill_L5_Effect_Duration"
+			{
+				"key": "Buff_Whip_ChargeGet_L5",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargeGetCD_L5",
+				"value": 1
+			},
+			{
+				"key": "GE_WhipMagicBeginExSkill_Damage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect",
+				"value": -100
+			},
+			{
+				"key": "Buff_Whip_MagicBeginExSkill_L5_Effect_Duration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Whip_physic_plasm",
@@ -2895,14 +3171,32 @@
 	},
 	"Whip_physic_ssr_star_3": {
 		"advancement": "When ending Magic Trick early, deal wide-area damage over <shuzhi>{3}</> seconds. The current cooldown of Mobius's skill is reduced, and physical damage is increased by <shuzhi>{0}%</> for a period of time (this effect does not apply to Mobius). If Magic Trick has more than <shuzhi>13</> seconds remaining, gain an additional <shuzhi>200</> weapon charge. The more time remaining when Magic Trick ends, the higher the area damage, the greater the skill cooldown reduction, and the longer the physical damage boost lasts. The area damage dealt is capped at <shuzhi>{1}%</> of ATK (the maximum damage is dealt when the remaining time is more than <shuzhi>{5}</> seconds). The maximum cooldown reduction is <shuzhi>{4}</> seconds, and the physical damage boost can last up to <shuzhi>{2}</> seconds.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_ChargedEndEffect_L3",
-			"MagicEnd_HighDamage",
-			"Buff_Whip_ChargedEndEffect_L3_DurationMax",
-			"MagicEnd_DamageDuration",
-			"ReduceSkillCDMax",
-			"MagicEnd_HighThreshold"
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighDamage",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedEndEffect_L3_DurationMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_DamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ReduceSkillCDMax",
+				"value": 1
+			},
+			{
+				"key": "MagicEnd_HighThreshold",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Whip_physic_plasm",
@@ -2927,11 +3221,20 @@
 	},
 	"Whip_physic_ssr_star_5": {
 		"advancement": "Gain the Psychic Puppet effect upon entering Magic Trick, increasing Mobius's physical damage boost to <shuzhi>{0}%</>. During Magic Trick, recover <shuzhi>{1}%</> of Max HP and <shuzhi>{2}</> weapon charge every second.",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"Buff_Whip_MagicAB_Effect_DmgUp_L1",
-			"Buff_Whip_ChargedRecover_L1_HP",
-			"Buff_Whip_ChargedRecover_L1_Charge"
+			{
+				"key": "Buff_Whip_MagicAB_Effect_DmgUp_L1",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_HP",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ChargedRecover_L1_Charge",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Whip_physic_plasm",
@@ -2944,10 +3247,16 @@
 	},
 	"Whip_physic_ssr_star_6": {
 		"advancement": "During Magic Trick, Mobius has an additional whip that is automatically swung whenever the Wanderer uses Mobius to deal normal attacks or dodge attacks, dealing damage equal to <shuzhi>{0}%</> of Mobius's ATK (this damage is not counted as dealing normal attacks).",
-		"numbermap": "CurveTable'WhipEffectFigure'",
+		"numbermap": "WhipEffectFigure",
 		"numbers": [
-			"WhipMagicExWhipSkillDamageVar",
-			"Buff_Whip_ReviveCD_L6"
+			{
+				"key": "WhipMagicExWhipSkillDamageVar",
+				"value": 1
+			},
+			{
+				"key": "Buff_Whip_ReviveCD_L6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Whip_physic_plasm",
@@ -2960,11 +3269,20 @@
 	},
 	"yoyo_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Elementalist</>: Increase final damage by <shuzhi>{2}%</> for every <shuzhi>1</> type of weapon element equipped. This set effect also works with weapons in the off-hand slot.",
-		"numbermap": "CurveTable'DkatanaEffectFigure'",
+		"numbermap": "DkatanaEffectFigure",
 		"numbers": [
-			"Buff_Dkatana_Ice_Resonance_IceATK",
-			"Buff_Dkatana_Ice_Resonance_IceDef",
-			"Buff_Yoyo_ElementsMaster_EffectStack_Effect"
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceATK",
+				"value": 1
+			},
+			{
+				"key": "Buff_Dkatana_Ice_Resonance_IceDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_Yoyo_ElementsMaster_EffectStack_Effect",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -2977,13 +3295,28 @@
 	},
 	"yoyo_ice_ssr_star_1": {
 		"advancement": "When any weapon skill is used, Speedy Yo-yo can trigger <shuzhi>harmony</>, dealing damage to nearby targets equal to <shuzhi>{0}%</> of the Wanderer's lost HP. The damage dealt shall be no less than <shuzhi>{1}%</> of the Wanderer's Max ATK, and no more than <shuzhi>{2}%</> of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.\r\nWhen any weapon discharge is used, Speedy Yo-yo can trigger <shuzhi>tuning</>, dealing damage to nearby targets equal to <shuzhi>{3}%</> of the Wanderer's Max HP. The damage dealt shall be no more than <shuzhi>{4}%</> of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSkillTriggerDamage",
-			"YoyoSkillTriggerDamageMin",
-			"YoyoSkillTriggerDamageMax",
-			"YoyoChangeSkillTriggerDamage",
-			"YoyoChangeSkillTriggerDamageMax"
+			{
+				"key": "YoyoSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMin",
+				"value": 1
+			},
+			{
+				"key": "YoyoSkillTriggerDamageMax",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamage",
+				"value": 1
+			},
+			{
+				"key": "YoyoChangeSkillTriggerDamageMax",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "Yoyo_ice_plasm",
@@ -3008,10 +3341,16 @@
 	},
 	"yoyo_ice_ssr_star_3": {
 		"advancement": "When using Desolate Day, Speedy Yo-yo can trigger <shuzhi>{0}</> seconds of <shuzhi>swiftness</>: Speedy Yo-yo's speed is increased by <shuzhi>{1}%</>, damage is increased by <shuzhi>160%</>, and damage caused by passing through the target is converted to small-area damage.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoSpeedUpTime",
-			"YoyoSpeedUp"
+			{
+				"key": "YoyoSpeedUpTime",
+				"value": 1
+			},
+			{
+				"key": "YoyoSpeedUp",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "Yoyo_ice_plasm",
@@ -3036,9 +3375,12 @@
 	},
 	"yoyo_ice_ssr_star_5": {
 		"advancement": "Increases the damage of Speedy Yo-yo and Return to Loneliness by <shuzhi>{0}%</>.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"YoyoBulletDamageFigureL5"
+			{
+				"key": "YoyoBulletDamageFigureL5",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Yoyo_ice_plasm",
@@ -3051,9 +3393,12 @@
 	},
 	"yoyo_ice_ssr_star_6": {
 		"advancement": "Increase final damage by <shuzhi>{0}%</> while Speedy Yo-yo is active.",
-		"numbermap": "CurveTable'YoyoEffectFigure'",
+		"numbermap": "YoyoEffectFigure",
 		"numbers": [
-			"Buff_YoyoIceDmpUpL6"
+			{
+				"key": "Buff_YoyoIceDmpUpL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Yoyo_ice_plasm",
@@ -3769,13 +4114,28 @@
 	},
 	"brush_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Fiery Explosion: On-Field</>: When landing any hit with <shuzhi>Pine Comet</>, it deals damage to nearby targets equal to <shuzhi>{0}%</> of flame ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit. This effect can be triggered once every <shuzhi>1.5</> seconds. The Fiery Explosion damage is counted as normal attack damage. If there is <shuzhi>1</> volt/frost/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by <shuzhi>{4}</>. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushFireSpecialFireAtk",
-			"BrushFireSpecialMaxHP",
-			"BrushFireSpecialDef",
-			"BrushFireSpecialCrit",
-			"BrushFireSpecialOtherWeapon"
+			{
+				"key": "BrushFireSpecialFireAtk",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialDef",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "BrushFireSpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3788,9 +4148,12 @@
 	},
 	"brush_fire_ssr_star_1": {
 		"advancement": "When a <shuzhi>Sparrow Feather</> hits a target, it triggers a spreading effect, dealing an additional area damage equal to <shuzhi>{0}%</> of the total burn and incendiary damage. It also spreads the affected target's <shuzhi>Sparroburn</> to nearby targets, refreshing the <shuzhi>Sparroburn</> duration. The spread effect can be triggered 1 time every <shuzhi>5</> seconds.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel1FireJieSuan"
+			{
+				"key": "BrushLevel1FireJieSuan",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "brush_fire_plasm",
@@ -3815,10 +4178,16 @@
 	},
 	"brush_fire_ssr_star_3": {
 		"advancement": "When the Wanderer's HP is below <shuzhi>50%</> of Max HP, every <shuzhi>0.5</> seconds, consume <shuzhi>1</> <shuzhi>Sparrow Feather</> and recover <shuzhi>{0}%</> of Max HP (increases to <shuzhi>{1}%</> of Max HP in solo play) until the Wanderer's HP is full or all <shuzhi>Sparrow Feathers</> are consumed. This effect works in the off-hand slot.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel3ReceverHP",
-			"BrushLevel3ReceverHPClient"
+			{
+				"key": "BrushLevel3ReceverHP",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel3ReceverHPClient",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "brush_fire_plasm",
@@ -3843,10 +4212,16 @@
 	},
 	"brush_fire_ssr_star_5": {
 		"advancement": "When receiving lethal damage, prevent lethal damage 1 time and gain damage immunity for a short duration, and instantly gain <shuzhi>60</> <shuzhi>Sparrow Feathers</> and <shuzhi>{0}</> weapon charge. Can be triggered 1 time every <shuzhi>{1}</> seconds. This set effect works in the off-hand slot.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel5YN",
-			"BrushLevel5MiansiCD"
+			{
+				"key": "BrushLevel5YN",
+				"value": 1
+			},
+			{
+				"key": "BrushLevel5MiansiCD",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "brush_fire_plasm",
@@ -3859,9 +4234,12 @@
 	},
 	"brush_fire_ssr_star_6": {
 		"advancement": "Increase flame damage by an additional <shuzhi>{0}%</> when you are under <shuzhi>Pinnacle</> state.",
-		"numbermap": "CurveTable'BrushEffectFigure'",
+		"numbermap": "BrushEffectFigure",
 		"numbers": [
-			"BrushLevel6FireExtraAtkUP"
+			{
+				"key": "BrushLevel6FireExtraAtkUP",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "brush_fire_plasm",
@@ -3874,13 +4252,28 @@
 	},
 	"yulan_ice_ssr_star_0": {
 		"advancement": "<shuzhi>Frost Resonance</>: Increase frost ATK by <shuzhi>15%</> and frost resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n<shuzhi>Icecrush: Swift Cut</>: When <shuzhi>Unity</> is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to <shuzhi>{0}%</> of frost ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit. While in combat state, after every <shuzhi>0.5</> seconds, the next Swift Cut damage will be increased by an additional <shuzhi>1</> time, up to a maximum of <shuzhi>30</> times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Swift Cut damage is counted as discharge skill damage. If there is <shuzhi>1</> volt/physical/flame weapon of any kind equipped, Icecrush damage is increased <shuzhi>{4}</> times. In addition, Icecrush damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YuLanEXChangeWeaponCoefficientIceAttack",
-			"YuLanEXChangeWeaponCoefficientMaxHP",
-			"YuLanEXChangeWeaponCoefficientDef",
-			"YuLanEXChangeWeaponCoefficientCrit",
-			"YuLanExChangeWeaponFinCoefficient"
+			{
+				"key": "YuLanEXChangeWeaponCoefficientIceAttack",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientMaxHP",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "YuLanEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "YuLanExChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -3893,15 +4286,36 @@
 	},
 	"yulan_ice_ssr_star_1": {
 		"advancement": "While in the <shuzhi>Martial Artist</> form, after consuming <shuzhi>3</> or more <shuzhi>Internal Strength</>, <shuzhi>Unity</> restores <shuzhi>{0}</> <shuzhi>Internal Strength</>. Subsequently, the Wanderer's final damage is increased by <shuzhi>{1}%</>, and <shuzhi>Unity's</> dodge attack/normal attack damage is increased by <shuzhi>{2}%</> for <shuzhi>{3}</> seconds.\r\nWhile in the <shuzhi>Sweeping Force</> form, after consuming <shuzhi>3</> or more <shuzhi>Fighting Spirit</>, <shuzhi>Unity</> restores <shuzhi>{4}</> <shuzhi>Fighting Spirit</>. Subsequently, the Wanderer's final damage is increased by <shuzhi>{5}%</> for <shuzhi>{6}</> seconds.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel1RecoverStack",
-			"YulanForceLevel1DamUpMul",
-			"YulanForceLevel1MeleeDamUpMul",
-			"YulanForceLevel1DamUpDuration",
-			"YulanArrayLevel1RecoverStack",
-			"YulanArrayLevel1DamUpMul",
-			"YulanArrayLevel1DamUpDuration"
+			{
+				"key": "YulanForceLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel1DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1RecoverStack",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel1DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 1000,
 		"need": "yulan_ice_plasm",
@@ -3926,12 +4340,24 @@
 	},
 	"yulan_ice_ssr_star_3": {
 		"advancement": "In the <shuzhi>Martial Artist</> form, if <shuzhi>Internal Strength</> is not obtained within <shuzhi>{0}</> seconds, the next acquisition of <shuzhi>Internal Strength</> will grant <shuzhi>2</> counts.\r\nIn any form, when <shuzhi>Unity</> consumes <shuzhi>3</> or more <shuzhi>Internal Strength</> or <shuzhi>Fighting Spirit</>, restore <shuzhi>{1}%</> of the Wanderer's Max HP. In solo play, the HP recovery is increased to <shuzhi>{2}%</>. This effect can only trigger 1 time every <shuzhi>8</> seconds in <shuzhi>Sweeping Force</> form. In <shuzhi>Martial Artist</> form, there are no limitations.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceCDLevel3",
-			"YulanForceLevel3RecoverHpTeamMul",
-			"YulanForceLevel3RecoverHpSingleMul",
-			"YulanArrayLevel3RecoverHpCDDuration"
+			{
+				"key": "YulanForceCDLevel3",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel3RecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel3RecoverHpCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 4000,
 		"need": "yulan_ice_plasm",
@@ -3956,11 +4382,20 @@
 	},
 	"yulan_ice_ssr_star_5": {
 		"advancement": "After <shuzhi>Unity</> consumes <shuzhi>Internal Strength</> or <shuzhi>Fighting Spirit</>, when receiving lethal damage, prevent lethal damage 1 time and recover <shuzhi>{0}%</> of the Wanderer's Max HP (Unavailable in Apex League). In solo play, the HP recovery is increased to <shuzhi>{1}%</>. Both effects can only trigger 1 time every <shuzhi>{2}</> seconds.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanLevel5ImmunityRecoverHpTeamMul",
-			"YulanLevel5ImmunityRecoverHpSingleMul",
-			"YulanLevel5ImmunityCDDuration"
+			{
+				"key": "YulanLevel5ImmunityRecoverHpTeamMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityRecoverHpSingleMul",
+				"value": 1
+			},
+			{
+				"key": "YulanLevel5ImmunityCDDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "yulan_ice_plasm",
@@ -3973,13 +4408,28 @@
 	},
 	"yulan_ice_ssr_star_6": {
 		"advancement": "While in the <shuzhi>Martial Artist</> form, <shuzhi>Unity's</> dodge attack / normal attack damage is further increased by <shuzhi>{0}%</>. After consuming <shuzhi>Internal Strength</>, the Wanderer's final damage is increased by <shuzhi>{1}%</> for <shuzhi>{2}</> seconds.\r\nWhile in the <shuzhi>Sweeping Force</> form, after <shuzhi>Unity</> consumes <shuzhi>Fighting Spirit</>, the Wanderer's final damage is increased by <shuzhi>{3}%</> for <shuzhi>{4}</> seconds.",
-		"numbermap": "CurveTable'YulanEffectFigure'",
+		"numbermap": "YulanEffectFigure",
 		"numbers": [
-			"YulanForceLevel6MeleeDamUpMul",
-			"YulanForceLevel6DamUpMul",
-			"YulanForceLevel6DamUpDuration",
-			"YulanArrayLevel6DamUpMul",
-			"YulanArrayLevel6DamUpDuration"
+			{
+				"key": "YulanForceLevel6MeleeDamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanForceLevel6DamUpDuration",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpMul",
+				"value": 1
+			},
+			{
+				"key": "YulanArrayLevel6DamUpDuration",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "yulan_ice_plasm",
@@ -3992,14 +4442,32 @@
 	},
 	"Zeke_physic_ssr_star_0": {
 		"advancement": "<shuzhi>Physical Resonance</>: Increase physical ATK by <shuzhi>15%</> and physical resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more physical weapons. This set effect works in the off-hand slot. Cannot stack with other Physical Resonance effects, with Physical Resonance taking precedence.\r\n<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>15%</> and flame resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance effects, with Flame Resonance taking precedence.\r\n\r\n<shuzhi>Shield Break: Detachment</>: After using <shuzhi>Absolute Ravine</>, every second, deal damage equal to <shuzhi>{1}%</> of physical ATK plus <shuzhi>{2}%</> of the Wanderer's Max HP plus <shuzhi>{3}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{4}%</> of crit for <shuzhi>{0}</> seconds to targets hit. Multiple Detachment damage will not stack and shield break damage will be counted as skill damage. If there is <shuzhi>1</> volt/flame/frost weapon equipped, shield break damage is multiplied by <shuzhi>{5}</>. In addition, shield break damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"Buff_ZekeSkillPoJiaDamageDuration",
-			"ZekePoJiaDamageCoeffPhyATK",
-			"ZekePoJiaDamageCoeffMaxHP",
-			"ZekePoJiaDamageCoeffDefSum",
-			"ZekePoJiaDamageCoeffCrit",
-			"ZekePoJiaDamageCoeffAdv"
+			{
+				"key": "Buff_ZekeSkillPoJiaDamageDuration",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffPhyATK",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffMaxHP",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffDefSum",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffCrit",
+				"value": 1
+			},
+			{
+				"key": "ZekePoJiaDamageCoeffAdv",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4060,11 +4528,20 @@
 	},
 	"Zeke_physic_ssr_star_5": {
 		"advancement": "After using <shuzhi>Absolute Ravine</>, reduce the Wanderer's damage taken by <shuzhi>{0}%</> (<shuzhi>{1}%</> in solo play) for <shuzhi>{2}</> seconds.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ZekeBeDmgDownL5Team",
-			"ZekeBeDmgDownL5Single",
-			"Buff_ZekeSnakeLinkDebuffDuration"
+			{
+				"key": "ZekeBeDmgDownL5Team",
+				"value": 1
+			},
+			{
+				"key": "ZekeBeDmgDownL5Single",
+				"value": 1
+			},
+			{
+				"key": "Buff_ZekeSnakeLinkDebuffDuration",
+				"value": 1
+			}
 		],
 		"cost": 9000,
 		"need": "Zeke_physic_plasm",
@@ -4077,9 +4554,12 @@
 	},
 	"Zeke_physic_ssr_star_6": {
 		"advancement": "When there is <shuzhi>1</> <shuzhi>Serpent Chain</> member, increase <shuzhi>conduction</> damage's conduction rate to <shuzhi>50%</>.",
-		"numbermap": "CurveTable'ZekeEffectFigure'",
+		"numbermap": "ZekeEffectFigure",
 		"numbers": [
-			"ConductFactorL6"
+			{
+				"key": "ConductFactorL6",
+				"value": 1
+			}
 		],
 		"cost": 13500,
 		"need": "Zeke_physic_plasm",
@@ -4092,13 +4572,28 @@
 	},
 	"mimi_thunder_ssr_star_0": {
 		"advancement": "<shuzhi>Volt Resonance</>: Increase volt ATK by <shuzhi>15%</> and volt resistance by <shuzhi>25%</>. Activate by equipping <shuzhi>2</> or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n\r\n<shuzhi>Thunderboom: On-Field</>: When landing any hit with <shuzhi>Azure Dragon</>, it deals damage to nearby targets equal to <shuzhi>{0}%</> of volt ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit. This effect can be triggered up to 1 time every <shuzhi>1.5</> seconds. The Thunderboom damage is counted as normal attack damage. If there is <shuzhi>1</> flame/frost/physical weapon of any kind equipped, Thunderboom damage is multiplied by <shuzhi>{4}</> times. Additionally, Thunderboom damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
-		"numbermap": "CurveTable'MiMiEffectFigure'",
+		"numbermap": "MiMiEffectFigure",
 		"numbers": [
-			"Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
-			"Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
-			"Buff_MiMiThu_SSR_Level0_SpecialDef",
-			"Buff_MiMiThu_SSR_Level0_SpecialCrit",
-			"Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon"
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialThuAtk",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialMaxHP",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialDef",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialCrit",
+				"value": 1
+			},
+			{
+				"key": "Buff_MiMiThu_SSR_Level0_SpecialOtherWeapon",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",
@@ -4183,13 +4678,28 @@
 	},
 	"feise_fire_ssr_star_0": {
 		"advancement": "<shuzhi>Flame Resonance</>: Increase flame ATK by <shuzhi>20%</> and flame resistance by <shuzhi>40%</>. Activate by equipping <shuzhi>2</> or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance or Flame Reaction effects, with Flame Resonance taking precedence.\r\n<shuzhi>Fiery Explosion: Swift Cut</>: When <shuzhi>Endless Bloom</> is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to <shuzhi>{0}%</> of flame ATK plus <shuzhi>{1}%</> of the Wanderer's Max HP plus <shuzhi>{2}%</> of the sum of all the Wanderer's resistance types plus <shuzhi>{3}%</> of crit. While in combat, after every <shuzhi>0.5</> seconds, the next Swift Cut damage will be increased by an additional <shuzhi>1</> time, up to a maximum of <shuzhi>30</> times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is <shuzhi>1</> frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by <shuzhi>{4}</> times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
-		"numbermap": "CurveTable'FeiseEffectFigure'",
+		"numbermap": "FeiseEffectFigure",
 		"numbers": [
-			"FeiSeEXChangeWeaponCoefficientFireAttack",
-			"FeiSeEXChangeWeaponCoefficientMaxHp",
-			"FeiSeEXChangeWeaponCoefficientDef",
-			"FeiSeEXChangeWeaponCoefficientCrit",
-			"FeiSeEXChangeWeaponFinCoefficient"
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientFireAttack",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientMaxHp",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientDef",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponCoefficientCrit",
+				"value": 1
+			},
+			{
+				"key": "FeiSeEXChangeWeaponFinCoefficient",
+				"value": 1
+			}
 		],
 		"cost": 0,
 		"need": "None",

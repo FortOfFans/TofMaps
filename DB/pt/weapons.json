@@ -3551,7 +3551,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Ressonância elétrica**: Aumenta o ATQ elétrico em **15%** e a resistência elétrica em **25%**. Ativa-se ao equipar **2** ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.\r\n\r\n**Trovejante: Em campo**: Ao acertar um golpe com **Dragão Azul**, causa dano de **131.3%** do ATQ elétrico + **1.9%** da vida máxima do Errante + **68.8%** da soma de todos os tipos de resistência do Errante + **250%** do crítico a alvos próximos. Esse efeito pode ser acionado até 1 vez a cada **1,5** segundo. O dano de Trovejante conta como dano de ataque normal. Se houver **1** arma ígnea/gélida/física de qualquer tipo equipada, o dano de Trovejante é multiplicado por **130**. Além disso, o dano de Trovejante não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+				"description": "**Ressonância elétrica**: Aumenta o ATQ elétrico em **15%** e a resistência elétrica em **25%**. Ativa-se ao equipar **2** ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.\r\n\r\n**Trovejante: Em campo**: Ao acertar um golpe com **Dragão Azul**, causa dano de **131.3%** do ATQ elétrico + **1.9%** da vida máxima do Errante + **68.8%** da soma de todos os tipos de resistência do Errante + **250%** do crítico a alvos próximos. Esse efeito pode ser acionado até 1 vez a cada **1,5** segundo. O dano de Trovejante conta como dano de ataque normal. Se houver **1** arma ígnea/gélida/física de qualquer tipo equipada, o dano de Trovejante é multiplicado por **1.3**. Além disso, o dano de Trovejante não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3738,7 +3738,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Ressonância gélida**: Aumenta o ATQ gélido em **15%** e a resistência gélida em **25%**. Ativa-se ao equipar **2** ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos de mesmo tipo.\r\n**Frio extremo: Descarregar**: Após usar **Arte da Espada: Sinceno Sombrio**, a cada segundo causa dano equivalente a **70%** do ATQ gélido + **10%** da vida máxima do Errante + **36%** da soma de todos os tipos de resistência do Errante + **135%** do crítico aos alvos próximos durante **3000** segundos. Danos múltiplos de descarregar não se acumulam, e o dano de frio extremo conta como dano de habilidade. Se houver **1** arma elétrica/ígnea/física de qualquer tipo equipada, o dano de frio extremo é multiplicado por **130**. Além disso, o dano de frio extremo não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+				"description": "**Ressonância gélida**: Aumenta o ATQ gélido em **15%** e a resistência gélida em **25%**. Ativa-se ao equipar **2** ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos de mesmo tipo.\r\n**Frio extremo: Descarregar**: Após usar **Arte da Espada: Sinceno Sombrio**, a cada segundo causa dano equivalente a **70%** do ATQ gélido + **10%** da vida máxima do Errante + **36%** da soma de todos os tipos de resistência do Errante + **135%** do crítico aos alvos próximos durante **30** segundos. Danos múltiplos de descarregar não se acumulam, e o dano de frio extremo conta como dano de habilidade. Se houver **1** arma elétrica/ígnea/física de qualquer tipo equipada, o dano de frio extremo é multiplicado por **1.3**. Além disso, o dano de frio extremo não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3746,7 +3746,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Após lançar **lâminas gélidas**, o seu ATQ gélido aumenta em **0.1%**, e os alvos próximos sofrem dano de **104%** do ATQ por segundo durante **30** segundos.",
+				"description": "Após lançar **lâminas gélidas**, o seu ATQ gélido aumenta em **10%**, e os alvos próximos sofrem dano de **104%** do ATQ por segundo durante **30** segundos.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3762,7 +3762,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "Você pode produzir até **4** **lâminas gélidas**, e o multiplicador básico de **redução de temperatura** aumenta para **468%**.\r\nSe o alvo for o único afetado por **redução de temperatura** em até **600** segundos, aplica também **bloqueio venoso** nele, diminuindo a velocidade do mesmo em **30%** (indisponível na Liga do Apogeu e contra chefes). Se o alvo sofrer dano de **lâmina gélida** novamente durante **bloqueio venoso**, aciona criodetonação, que causa dano de habilidade equivalente a **1700%** do ATQ + **2%** da vida faltante do alvo (o dano de criodetonação não será inferior a **2000%** do seu ATQ gélido nem superior a **2200%** do seu ATQ gélido). Depois disso, os efeitos **bloqueio venoso** e **redução de temperatura** são removidos do alvo.",
+				"description": "Você pode produzir até **4** **lâminas gélidas**, e o multiplicador básico de **redução de temperatura** aumenta para **468%**.\r\nSe o alvo for o único afetado por **redução de temperatura** em até **6** segundos, aplica também **bloqueio venoso** nele, diminuindo a velocidade do mesmo em **30%** (indisponível na Liga do Apogeu e contra chefes). Se o alvo sofrer dano de **lâmina gélida** novamente durante **bloqueio venoso**, aciona criodetonação, que causa dano de habilidade equivalente a **1700%** do ATQ + **2%** da vida faltante do alvo (o dano de criodetonação não será inferior a **2000%** do seu ATQ gélido nem superior a **2200%** do seu ATQ gélido). Depois disso, os efeitos **bloqueio venoso** e **redução de temperatura** são removidos do alvo.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -4509,7 +4509,7 @@
 				"need": "Dkatana_ice_plasm"
 			},
 			{
-				"description": "Ao atingir um alvo com ondulação, aumenta o dano gélido em **0.11%** durante **15** segundos.\r\nAo bloquear com sombra espádica, reduz o dano gélido causado por inimigos próximos em **0.25%** durante **12** segundos.",
+				"description": "Ao atingir um alvo com ondulação, aumenta o dano gélido em **11%** durante **15** segundos.\r\nAo bloquear com sombra espádica, reduz o dano gélido causado por inimigos próximos em **25%** durante **12** segundos.",
 				"stats": {
 					"shatter": 13.9,
 					"charge": 8
@@ -5033,7 +5033,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Ao usar qualquer habilidade de arma ou descarga, se você estiver com o máximo de guardas, a duração do guarda será atualizada, causando dano físico ao inimigo de **30%** do ATQ físico × o número de guardas. Até 8 guardas sob o efeito de bendição, e até 6 sem o efeito.",
+				"description": "Ao usar qualquer habilidade de arma ou descarga, se você estiver com o máximo de guardas, a duração do guarda será atualizada, causando dano físico ao inimigo de **3000%** do ATQ físico × o número de guardas. Até 8 guardas sob o efeito de bendição, e até 6 sem o efeito.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5049,7 +5049,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Aumenta todo o dano causado por guardas em **20%**, e aumenta o dano final do alvo protegido em **0.15%** durante **10 segundos** ao usar qualquer habilidade de arma ou descarga sob o efeito de ressonância de bendição.",
+				"description": "Aumenta todo o dano causado por guardas em **20%**, e aumenta o dano final do alvo protegido em **15%** durante **10 segundos** ao usar qualquer habilidade de arma ou descarga sob o efeito de ressonância de bendição.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5065,7 +5065,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Guarda do perdão: Após gerar ressonância 5 vezes, recebe **1** chance de anular dano letal para si e para o alvo protegido. Após um colega anular dano letal, ele consome guarda do perdão e recupera **0.05%** da vida máxima. Indisponível na Liga do Apogeu.\r\nGuarda do alumbramento: Após gerar ressonância 5 vezes e tendo guarda do alumbramento, recebe **2** chances de anular dano letal. Acumula até **5** vezes. Após o usuário anular dano letal, ele consome 1 acúmulo de guarda do alumbramento e recupera **0.05%** da vida máxima. Indisponível na Liga do Apogeu.",
+				"description": "Guarda do perdão: Após gerar ressonância 5 vezes, recebe **1** chance de anular dano letal para si e para o alvo protegido. Após um colega anular dano letal, ele consome guarda do perdão e recupera **5%** da vida máxima. Indisponível na Liga do Apogeu.\r\nGuarda do alumbramento: Após gerar ressonância 5 vezes e tendo guarda do alumbramento, recebe **2** chances de anular dano letal. Acumula até **5** vezes. Após o usuário anular dano letal, ele consome 1 acúmulo de guarda do alumbramento e recupera **5%** da vida máxima. Indisponível na Liga do Apogeu.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5073,7 +5073,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Ao usar qualquer habilidade de arma ou descarga, o aumento do dano final e da cura depende do número de guardas. Cada guarda aumenta em **1.6%** o dano final e a cura, limitado a **8%** durante **2500 segundos**.",
+				"description": "Ao usar qualquer habilidade de arma ou descarga, o aumento do dano final e da cura depende do número de guardas. Cada guarda aumenta em **1.6%** o dano final e a cura, limitado a **8%** durante **25 segundos**.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5225,7 +5225,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Após acionar **Retorno**, cada espinho de cristamax passa a causar dano de **66,7%** do ATQ a cada **2** segundos aos alvos próximos durante **undefined** segundos.",
+				"description": "Após acionar **Retorno**, cada espinho de cristamax passa a causar dano de **66,7%** do ATQ a cada **2** segundos aos alvos próximos durante **NaN** segundos.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5257,7 +5257,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Aumenta a recuperação de vida máxima dos espinhos de cristamax de **Retorno** para **undefined%**.",
+				"description": "Aumenta a recuperação de vida máxima dos espinhos de cristamax de **Retorno** para **NaN%**.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5265,7 +5265,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Aumenta o dano elétrico em mais **undefined%** durante **undefined** segundos após usar Abraço de Harrah com êxito.",
+				"description": "Aumenta o dano elétrico em mais **NaN%** durante **NaN** segundos após usar Abraço de Harrah com êxito.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5604,7 +5604,7 @@
 				"need": "Snipe_fire_plasm"
 			},
 			{
-				"description": "Após causar dano crítico com a Mira Cruzada, recupera vida equivalente a **50%** do dano causado (limitado a **15%** da própria vida máxima. Não inclui o dano da explosão de gás) e **50** cargas de arma.\r\nCada acúmulo de coração sereno aumenta a taxa de crítico final para **0%**, até **1%**, convertendo até **2%** de dano crítico.",
+				"description": "Após causar dano crítico com a Mira Cruzada, recupera vida equivalente a **50%** do dano causado (limitado a **15%** da própria vida máxima. Não inclui o dano da explosão de gás) e **50** cargas de arma.\r\nCada acúmulo de coração sereno aumenta a taxa de crítico final para **9%**, até **27%**, convertendo até **13.5%** de dano crítico.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 9
@@ -5628,7 +5628,7 @@
 				"need": "Snipe_fire_plasm"
 			},
 			{
-				"description": "Aumenta o dano causado por Mira Cruzada em mais **0%**.",
+				"description": "Aumenta o dano causado por Mira Cruzada em mais **20%**.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 9
@@ -5785,7 +5785,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Ressonância ígnea**: Aumenta o ATQ ígneo em **15%** e a resistência ígnea em **25%**. Ativa-se ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.\r\n**Explosão ardente: Em campo**: Ao acertar um golpe com **Cometa Pinheiro**, causa dano equivalente a **105%** do ATQ ígneo + **1.5%** da vida máxima do Errante + **55%** da soma de todos os tipos de resistência do Errante + **200%** do crítico a alvos próximos. Esse efeito pode ser acionado uma vez a cada **1,5** segundo. O dano da explosão ardente conta como dano de ataque normal. Se houver **1** arma elétrica/gélida/física de qualquer tipo equipada, o dano da explosão ardente é multiplicado por **130**. Além disso, o dano da explosão ardente não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+				"description": "**Ressonância ígnea**: Aumenta o ATQ ígneo em **15%** e a resistência ígnea em **25%**. Ativa-se ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.\r\n**Explosão ardente: Em campo**: Ao acertar um golpe com **Cometa Pinheiro**, causa dano equivalente a **105%** do ATQ ígneo + **1.5%** da vida máxima do Errante + **55%** da soma de todos os tipos de resistência do Errante + **200%** do crítico a alvos próximos. Esse efeito pode ser acionado uma vez a cada **1,5** segundo. O dano da explosão ardente conta como dano de ataque normal. Se houver **1** arma elétrica/gélida/física de qualquer tipo equipada, o dano da explosão ardente é multiplicado por **1.3**. Além disso, o dano da explosão ardente não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5793,7 +5793,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Quando uma **pena de pardal** atingir um alvo, ela aciona um efeito de propagação, causa dano em área adicional de **0.5%** do dano total por queimadura. O efeito também propaga o **ardal** do alvo principal para os alvos próximos e reinicia a duração do **ardal**. O efeito de propagação pode ser acionado 1 vez a cada **5** segundos.",
+				"description": "Quando uma **pena de pardal** atingir um alvo, ela aciona um efeito de propagação, causa dano em área adicional de **50%** do dano total por queimadura. O efeito também propaga o **ardal** do alvo principal para os alvos próximos e reinicia a duração do **ardal**. O efeito de propagação pode ser acionado 1 vez a cada **5** segundos.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5833,7 +5833,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Aumenta o dano ígneo em mais **0.14%** quando estiver no estado de **Pináculo**.",
+				"description": "Aumenta o dano ígneo em mais **14%** quando estiver no estado de **Pináculo**.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5991,7 +5991,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Ao trocar para a Möbius, ganha **30** pontos de aquecimento imediatamente. Tempo de recarga: **17** seg. Ao entrar em Truque de Mágica, causa dano em área de **8.4%** do ATQ a alvos próximos e reduz a resistência física deles em **-0.1%** durante **20** segundos.",
+				"description": "Ao trocar para a Möbius, ganha **30** pontos de aquecimento imediatamente. Tempo de recarga: **17** seg. Ao entrar em Truque de Mágica, causa dano em área de **840%** do ATQ a alvos próximos e reduz a resistência física deles em **1000%** durante **20** segundos.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6007,7 +6007,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Ao encerrar Truque de Mágica antecipadamente, causa dano em uma área ampla no decorrer de **13** segundos. O tempo de recarga atual da habilidade da Möbius diminui, e o dano físico aumenta em **0.25%** durante um certo período (esse efeito não se aplica à Möbius). Se restar mais de **13** segundos no Truque de Mágica, ganha **200** cargas de arma a mais. Quanto mais tempo restar quando Truque de Mágica terminar, maiores o dano em área, a redução do tempo de recarga da habilidade e a duração do reforço de dano físico. O dano em área causado é limitado a **2%** do ATQ (o dano máximo é causado quando o tempo restante for superior a **13** segundos). A redução máxima do tempo de recarga é de **13** segundos, e o reforço de dano físico pode durar até **20** segundos.",
+				"description": "Ao encerrar Truque de Mágica antecipadamente, causa dano em uma área ampla no decorrer de **13** segundos. O tempo de recarga atual da habilidade da Möbius diminui, e o dano físico aumenta em **25%** durante um certo período (esse efeito não se aplica à Möbius). Se restar mais de **13** segundos no Truque de Mágica, ganha **200** cargas de arma a mais. Quanto mais tempo restar quando Truque de Mágica terminar, maiores o dano em área, a redução do tempo de recarga da habilidade e a duração do reforço de dano físico. O dano em área causado é limitado a **200%** do ATQ (o dano máximo é causado quando o tempo restante for superior a **13** segundos). A redução máxima do tempo de recarga é de **13** segundos, e o reforço de dano físico pode durar até **20** segundos.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6023,7 +6023,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Recebe o efeito Fantoche Psíquico após entrar em Truque de Mágica, o que aumenta o reforço de dano físico de Fantoche Psíquico para **15%**. Durante Truque de Mágica, recupera **2%** da vida máxima e **1000** cargas de arma por segundo.",
+				"description": "Recebe o efeito Fantoche Psíquico após entrar em Truque de Mágica, o que aumenta o reforço de dano físico de Fantoche Psíquico para **15%**. Durante Truque de Mágica, recupera **2%** da vida máxima e **10** cargas de arma por segundo.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6031,7 +6031,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Durante o Truque de Mágica, a Möbius tem uma chicotada adicional que é desferida automaticamente sempre que o Errante usar a Möbius para ataques normais ou de esquiva, causando dano de **1%** do ATQ da Möbius (esse dano não conta como ataques normais).",
+				"description": "Durante o Truque de Mágica, a Möbius tem uma chicotada adicional que é desferida automaticamente sempre que o Errante usar a Möbius para ataques normais ou de esquiva, causando dano de **100%** do ATQ da Möbius (esse dano não conta como ataques normais).",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6182,7 +6182,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Ressonância ígnea**: Aumenta o ATQ ígneo em **20%** e a resistência ígnea em **40%**. Ativa-se ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea ou reação ígnea, e a ressonância ígnea tem prioridade..\r\n**Explosão ardente: Corte Ligeiro**: Com **Floração Infinita** equipada, acertar um golpe com qualquer habilidade de descarga causa aos alvos próximos dano inicial de **37.5%** do ATQ ígneo mais **0.5%** da vida máxima do Errante + **18.75%** da soma de todos os tipos de resistências do Errante mais **68.75%** do crítico. A cada **0,5** segundo em combate, o dano do próximo Corte Ligeiro aumenta mais **1** vez, até um máximo de **30** vezes. Quando há o dano de vários Cortes Ligeiros juntos, o cálculo é feito sobre o valor inicial mais alto. O dano da Explosão ardente: Corte Ligeiro conta como dano de habilidade de descarga. Se houver **1** arma gélida/física/elétrica de qualquer tipo equipada, o dano da Explosão ardente é multiplicado por **130**. Além disso, o dano da Explosão ardente não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+				"description": "**Ressonância ígnea**: Aumenta o ATQ ígneo em **20%** e a resistência ígnea em **40%**. Ativa-se ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea ou reação ígnea, e a ressonância ígnea tem prioridade..\r\n**Explosão ardente: Corte Ligeiro**: Com **Floração Infinita** equipada, acertar um golpe com qualquer habilidade de descarga causa aos alvos próximos dano inicial de **37.5%** do ATQ ígneo mais **0.5%** da vida máxima do Errante + **18.75%** da soma de todos os tipos de resistências do Errante mais **68.75%** do crítico. A cada **0,5** segundo em combate, o dano do próximo Corte Ligeiro aumenta mais **1** vez, até um máximo de **30** vezes. Quando há o dano de vários Cortes Ligeiros juntos, o cálculo é feito sobre o valor inicial mais alto. O dano da Explosão ardente: Corte Ligeiro conta como dano de habilidade de descarga. Se houver **1** arma gélida/física/elétrica de qualquer tipo equipada, o dano da Explosão ardente é multiplicado por **1.3**. Além disso, o dano da Explosão ardente não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6609,7 +6609,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Colisão flamejante e o dano transferido ignoram **60%** da resistência ígnea do alvo.\r\nO dano ígneo causado por corrosão é aumentado em **0.1%**.",
+				"description": "Colisão flamejante e o dano transferido ignoram **60%** da resistência ígnea do alvo.\r\nO dano ígneo causado por corrosão é aumentado em **10%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -6617,7 +6617,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Aumenta o dano causado por Chamas Dançantes e Golpe Ascendente em **0.5%**.\r\nO multiplicador para sombrinhas giratórias velozes, Furacão da Fênix e colisão flamejante passa a ser as sombrinhas de penas + **2**.",
+				"description": "Aumenta o dano causado por Chamas Dançantes e Golpe Ascendente em **50%**.\r\nO multiplicador para sombrinhas giratórias velozes, Furacão da Fênix e colisão flamejante passa a ser as sombrinhas de penas + **2**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -6765,7 +6765,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Quando a habilidade de qualquer arma é usada, o ioiô veloz pode acionar **harmonia**, que causa dano aos alvos próximos equivalente a **undefined%** da sua vida perdida. O dano causado não é inferior a **undefined%** do seu ATQ máximo nem superior a **undefined%** do seu ATQ máximo. O tipo de dano elemental causado será o mesmo da arma em uso.\r\nQuando a descarga de qualquer arma é usada, o ioiô veloz pode acionar **afinação**, que causa dano aos alvos próximos equivalente a **undefined%** da sua vida máxima. O dano causado não é superior a **undefined%** do seu ATQ máximo. O tipo de dano elemental causado será o mesmo da arma em uso.",
+				"description": "Quando a habilidade de qualquer arma é usada, o ioiô veloz pode acionar **harmonia**, que causa dano aos alvos próximos equivalente a **NaN%** da sua vida perdida. O dano causado não é inferior a **NaN%** do seu ATQ máximo nem superior a **NaN%** do seu ATQ máximo. O tipo de dano elemental causado será o mesmo da arma em uso.\r\nQuando a descarga de qualquer arma é usada, o ioiô veloz pode acionar **afinação**, que causa dano aos alvos próximos equivalente a **NaN%** da sua vida máxima. O dano causado não é superior a **NaN%** do seu ATQ máximo. O tipo de dano elemental causado será o mesmo da arma em uso.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6781,7 +6781,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Ao usar Dia Desolado, o ioiô veloz pode acionar **undefined** segundos de **agilidade**: a velocidade do ioiô veloz aumenta em **undefined%**, o dano aumenta em **160%** e o dano causado por atravessar o alvo é convertido em dano em área pequena.",
+				"description": "Ao usar Dia Desolado, o ioiô veloz pode acionar **NaN** segundos de **agilidade**: a velocidade do ioiô veloz aumenta em **NaN%**, o dano aumenta em **160%** e o dano causado por atravessar o alvo é convertido em dano em área pequena.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6797,7 +6797,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Aumenta o dano do ioiô veloz e de Retorno à Solidão em **undefined%**.",
+				"description": "Aumenta o dano do ioiô veloz e de Retorno à Solidão em **NaN%**.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6805,7 +6805,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Aumenta o dano final em **undefined%** durante ioiô veloz.",
+				"description": "Aumenta o dano final em **NaN%** durante ioiô veloz.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6974,7 +6974,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Ressonância gélida**: Aumenta o ATQ gélido em **15%** e a resistência gélida em **25%**. Ativa-se ao equipar **2** ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com efeitos do mesmo tipo.\r\n**Quebra-gelo: Corte Ligeiro**: Com **União** equipada, acertar um golpe com qualquer habilidade de descarga causa aos alvos próximos dano inicial de **30%** do ATQ gélido + **0.4%** da vida máxima do Errante + **15%** da soma de todos os tipos de resistências do Errante + **55%** do crítico. A cada **0,5** segundo em combate, o dano do próximo Corte Ligeiro aumenta adicionalmente **1** vez, até o máximo de **30** vezes. Quando há o dano de vários Cortes Ligeiros juntos, o cálculo é feito sobre o valor inicial mais alto. O dano de Corte Ligeiro conta como dano de habilidade de descarga. Se houver **1** arma ígnea/física/elétrica de qualquer tipo equipada, o dano de Quebra-gelo aumenta **130** vezes. Além disso, o dano de Quebra-gelo não é afetado por efeitos de reforço de dano (a não ser de atributos raros de equipamentos Titânicos) e não aciona efeitos de ataque adicional.",
+				"description": "**Ressonância gélida**: Aumenta o ATQ gélido em **15%** e a resistência gélida em **25%**. Ativa-se ao equipar **2** ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com efeitos do mesmo tipo.\r\n**Quebra-gelo: Corte Ligeiro**: Com **União** equipada, acertar um golpe com qualquer habilidade de descarga causa aos alvos próximos dano inicial de **30%** do ATQ gélido + **0.4%** da vida máxima do Errante + **15%** da soma de todos os tipos de resistências do Errante + **55%** do crítico. A cada **0,5** segundo em combate, o dano do próximo Corte Ligeiro aumenta adicionalmente **1** vez, até o máximo de **30** vezes. Quando há o dano de vários Cortes Ligeiros juntos, o cálculo é feito sobre o valor inicial mais alto. O dano de Corte Ligeiro conta como dano de habilidade de descarga. Se houver **1** arma ígnea/física/elétrica de qualquer tipo equipada, o dano de Quebra-gelo aumenta **1.3** vezes. Além disso, o dano de Quebra-gelo não é afetado por efeitos de reforço de dano (a não ser de atributos raros de equipamentos Titânicos) e não aciona efeitos de ataque adicional.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6982,7 +6982,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Após consumir pelo menos **3** de **força interior** na forma de **Artista Marcial**, **União** restaura **100** de **força interior**. Depois disso, o seu dano final aumenta em **5%**, e o dano de ataque normal/ataque de esquiva da **União** aumenta em **50%** durante **3000** segundos.\r\nApós consumir pelo menos **3** de **espírito combatente** na forma de **Força Implacável**, **União** restaura **100** de **espírito combatente**. Depois disso, o seu dano final aumenta em **5%** durante **1500** segundos.",
+				"description": "Após consumir pelo menos **3** de **força interior** na forma de **Artista Marcial**, **União** restaura **1** de **força interior**. Depois disso, o seu dano final aumenta em **5%**, e o dano de ataque normal/ataque de esquiva da **União** aumenta em **50%** durante **30** segundos.\r\nApós consumir pelo menos **3** de **espírito combatente** na forma de **Força Implacável**, **União** restaura **1** de **espírito combatente**. Depois disso, o seu dano final aumenta em **5%** durante **15** segundos.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6998,7 +6998,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Na forma de **Artista Marcial**, se **força interior** não for obtido em até **500** segundos, a próxima obtenção de **força interior** vai conferir **2** acúmulos.\r\nQuando a **União** consumir pelo menos **3** de **força interior** ou de **espírito combatente** em qualquer forma, restaura **10%** da sua vida máxima. No jogo individual, a recuperação de vida aumenta para **20%**. O efeito é acionado apenas 1 vez a cada **8** segundos na forma de **Força Implacável**. Não há limites na forma de **Artista Marcial**.",
+				"description": "Na forma de **Artista Marcial**, se **força interior** não for obtido em até **5** segundos, a próxima obtenção de **força interior** vai conferir **2** acúmulos.\r\nQuando a **União** consumir pelo menos **3** de **força interior** ou de **espírito combatente** em qualquer forma, restaura **10%** da sua vida máxima. No jogo individual, a recuperação de vida aumenta para **20%**. O efeito é acionado apenas 1 vez a cada **8** segundos na forma de **Força Implacável**. Não há limites na forma de **Artista Marcial**.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7014,7 +7014,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Após a **União** consumir **força interior** ou **espírito combatente**, o dano letal sofrido é anulado uma vez e o usuário recupera **20%** de sua vida máxima (indisponível na Liga do Apogeu). No jogo individual, a recuperação de vida aumenta para **40%**. Ambos os efeitos só podem ser acionados 1 vez a cada **6000** segundos.",
+				"description": "Após a **União** consumir **força interior** ou **espírito combatente**, o dano letal sofrido é anulado uma vez e o usuário recupera **20%** de sua vida máxima (indisponível na Liga do Apogeu). No jogo individual, a recuperação de vida aumenta para **40%**. Ambos os efeitos só podem ser acionados 1 vez a cada **60** segundos.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7022,7 +7022,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Na forma de **Artista Marcial**, o dano de ataque normal/ataque de esquiva da **União** aumenta em mais **70%**. Após consumir **força interior**, o seu dano final aumenta em **10%** por **3000** segundos.\r\nNa forma de **Força Implacável**, após a **União** consumir **espírito combatente**, o seu dano final aumenta em **15%** durante **3000** segundos.",
+				"description": "Na forma de **Artista Marcial**, o dano de ataque normal/ataque de esquiva da **União** aumenta em mais **70%**. Após consumir **força interior**, o seu dano final aumenta em **10%** por **30** segundos.\r\nNa forma de **Força Implacável**, após a **União** consumir **espírito combatente**, o seu dano final aumenta em **15%** durante **30** segundos.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7168,7 +7168,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Ressonância física**: Aumenta o ATQ físico em **15%** e a resistência física em **25%**. Ativa-se ao equipar **2** ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância física, que tem prioridade.\r\n**Ressonância ígnea**: Aumenta o ATQ ígneo em **15%** e resistência ígnea em **25%**. Ativa ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea, que tem prioridade.\r\n\r\n**Despedaçar: Separação**: Após usar **Ravina Absoluta**, a cada segundo causa dano equivalente a **70%** do ATQ físico + **1%** da vida máxima do Errante + **36%** da soma de todos os tipos de resistência + **135%** do crítico aos alvos atingidos durante **3000** segundos. Danos múltiplos de Separação não se acumulam, e o dano de despedaçar conta como dano de habilidade. Se houver **uma** arma elétrica/ígnea/gélida equipada, o dano de despedaçar é multiplicado por **130**. Além disso, o dano de despedaçar não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+				"description": "**Ressonância física**: Aumenta o ATQ físico em **15%** e a resistência física em **25%**. Ativa-se ao equipar **2** ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância física, que tem prioridade.\r\n**Ressonância ígnea**: Aumenta o ATQ ígneo em **15%** e resistência ígnea em **25%**. Ativa ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea, que tem prioridade.\r\n\r\n**Despedaçar: Separação**: Após usar **Ravina Absoluta**, a cada segundo causa dano equivalente a **70%** do ATQ físico + **1%** da vida máxima do Errante + **36%** da soma de todos os tipos de resistência + **135%** do crítico aos alvos atingidos durante **30** segundos. Danos múltiplos de Separação não se acumulam, e o dano de despedaçar conta como dano de habilidade. Se houver **uma** arma elétrica/ígnea/gélida equipada, o dano de despedaçar é multiplicado por **1.3**. Além disso, o dano de despedaçar não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -7208,7 +7208,7 @@
 				"need": "Zeke_physic_plasm"
 			},
 			{
-				"description": "Após usar **Ravina Absoluta**, reduz o dano sofrido pelo usuário em **10%** (**20%** em jogo individual) durante **3000** segundos.",
+				"description": "Após usar **Ravina Absoluta**, reduz o dano sofrido pelo usuário em **10%** (**20%** em jogo individual) durante **30** segundos.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12

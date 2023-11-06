@@ -3551,7 +3551,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de foudre**: accroît l'ATQ de foudre de **15%** et la résistance à la foudre de **25%**. S'active en équipant au moins **2**armes de foudre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n\r\n**Gronde-tonnerre: Sur le terrain**: quand un coup est réussi avec **Dragon azur**, inflige des dégâts aux cibles proches équivalant à **131.3%** de l'ATQ de foudre + **1.9%** des PV max de l'Explorateur + **68.8%** de la somme de tous les types de résistance de l'Explorateur + **250%** de crit. Cet effet peut être déclenché une fois toutes les **1,5**seconde. Les dégâts de Gronde-tonnerre sont comptabilisés comme des dégâts d'attaque normale. Si **1**arme de feu, de givre ou physique est équipée, les dégâts de Gronde-tonnerre sont multipliés par **130**. De plus, les dégâts de Gronde-tonnerre ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent pas d'effets d'attaque supplémentaires.",
+				"description": "**Résonance de foudre**: accroît l'ATQ de foudre de **15%** et la résistance à la foudre de **25%**. S'active en équipant au moins **2**armes de foudre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n\r\n**Gronde-tonnerre: Sur le terrain**: quand un coup est réussi avec **Dragon azur**, inflige des dégâts aux cibles proches équivalant à **131.3%** de l'ATQ de foudre + **1.9%** des PV max de l'Explorateur + **68.8%** de la somme de tous les types de résistance de l'Explorateur + **250%** de crit. Cet effet peut être déclenché une fois toutes les **1,5**seconde. Les dégâts de Gronde-tonnerre sont comptabilisés comme des dégâts d'attaque normale. Si **1**arme de feu, de givre ou physique est équipée, les dégâts de Gronde-tonnerre sont multipliés par **1.3**. De plus, les dégâts de Gronde-tonnerre ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent pas d'effets d'attaque supplémentaires.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3738,7 +3738,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Froid extrême: Décharge**: après avoir utilisé **Technique de l'épée: Glace ombrée**, inflige chaque seconde des dégâts équivalant à **70%** de l'ATQ de givre + **10%** des PV max de l'Explorateur + **36%** de la somme de tous les types de résistance de l'Explorateur + **135%** de crit pendant **3000**secondes. Les dégâts de Décharge multiple ne se cumulent pas et les dégâts de Froid extrême sont comptabilisés comme des dégâts de la compétence. Si **1**arme de foudre, de feu ou physique est équipée, les dégâts de Froid extrême sont multipliés par **130**. Par ailleurs, les dégâts de Froid extrême ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
+				"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Froid extrême: Décharge**: après avoir utilisé **Technique de l'épée: Glace ombrée**, inflige chaque seconde des dégâts équivalant à **70%** de l'ATQ de givre + **10%** des PV max de l'Explorateur + **36%** de la somme de tous les types de résistance de l'Explorateur + **135%** de crit pendant **30**secondes. Les dégâts de Décharge multiple ne se cumulent pas et les dégâts de Froid extrême sont comptabilisés comme des dégâts de la compétence. Si **1**arme de foudre, de feu ou physique est équipée, les dégâts de Froid extrême sont multipliés par **1.3**. Par ailleurs, les dégâts de Froid extrême ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3746,7 +3746,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Après avoir lancé des **Lames de givre**, accroît les dégâts de givre de l'Explorateur de **0.1%** et inflige aux cibles proches des dégâts équivalant à **104%** de l'ATQ chaque seconde pendant **30**secondes.",
+				"description": "Après avoir lancé des **Lames de givre**, accroît les dégâts de givre de l'Explorateur de **10%** et inflige aux cibles proches des dégâts équivalant à **104%** de l'ATQ chaque seconde pendant **30**secondes.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3762,7 +3762,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "L'Explorateur peut faire apparaître jusqu'à **4****Lames de givre** et le multiplicateur de base des dégâts de **Réduction de température** passe à **468%**.\r\nSi une seule cible est affectée par **Réduction de température** dans un délai de **600**secondes, inflige également l'effet **Veine scellée** à la cible, réduisant sa vitesse de **30%** (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de **Lame de givre** pendant la durée de **Veine scellée**, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à **1700%** de l'ATQ + **2%** des PV perdus de la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à **2000%** ni supérieurs à **2200%** de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets **Veine scellée** et **Réduction de température** de la cible.",
+				"description": "L'Explorateur peut faire apparaître jusqu'à **4****Lames de givre** et le multiplicateur de base des dégâts de **Réduction de température** passe à **468%**.\r\nSi une seule cible est affectée par **Réduction de température** dans un délai de **6**secondes, inflige également l'effet **Veine scellée** à la cible, réduisant sa vitesse de **30%** (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de **Lame de givre** pendant la durée de **Veine scellée**, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à **1700%** de l'ATQ + **2%** des PV perdus de la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à **2000%** ni supérieurs à **2200%** de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets **Veine scellée** et **Réduction de température** de la cible.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -4509,7 +4509,7 @@
 				"need": "Dkatana_ice_plasm"
 			},
 			{
-				"description": "Après avoir touché une cible avec Déferlement, augmente les dégâts de givre de **0.11%** pendant **15** secondes.\r\nEn déclenchant un blocage avec l'Ombre de l'épée, réduit de **0.25%** les dégâts de givre infligés par les cibles ennemies à proximité pendant **12** secondes.",
+				"description": "Après avoir touché une cible avec Déferlement, augmente les dégâts de givre de **11%** pendant **15** secondes.\r\nEn déclenchant un blocage avec l'Ombre de l'épée, réduit de **25%** les dégâts de givre infligés par les cibles ennemies à proximité pendant **12** secondes.",
 				"stats": {
 					"shatter": 13.9,
 					"charge": 8
@@ -5033,7 +5033,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Lorsque vous déclenchez une compétence d'armes ou de décharge, si vos gardes sont au maximum, la durée de la garde sera réactualisée et infligera des dégâts physiques équivalant à **30%** de l'ATQ physique x le nombre de gardes contre l'ennemi. Jusqu'à 8gardes avec l'effet de Bénédiction, et jusqu'à 6sans.",
+				"description": "Lorsque vous déclenchez une compétence d'armes ou de décharge, si vos gardes sont au maximum, la durée de la garde sera réactualisée et infligera des dégâts physiques équivalant à **3000%** de l'ATQ physique x le nombre de gardes contre l'ennemi. Jusqu'à 8gardes avec l'effet de Bénédiction, et jusqu'à 6sans.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5049,7 +5049,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Accroît tous les dégâts infligés par les gardes de **20%**, et les dégâts finaux de **0.15%** sur la cible en garde pendant **10secondes** lorsque vous déclenchez une compétence d'armes ou de décharge sous l'effet de Résonance de bénédiction.",
+				"description": "Accroît tous les dégâts infligés par les gardes de **20%**, et les dégâts finaux de **15%** sur la cible en garde pendant **10secondes** lorsque vous déclenchez une compétence d'armes ou de décharge sous l'effet de Résonance de bénédiction.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5065,7 +5065,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Garde du pardon: après avoir déclenché Résonance 5fois, vous avez **1**chance d'annuler des dégâts fatals pour l'utilisateur et la cible gardée. Après qu'un membre du groupe annule des dégâts fatals, il consomme la garde du pardon et récupère **0.05%** des PV max. Non disponible en Ligue ultime.\r\nGarde de l'illumination: après avoir déclenché Résonance 5fois et en présence de la garde de l'illumination, l'utilisateur a **2**chances d'annuler des dégâts fatals. Se cumule jusqu'à **5**fois. Après que l'utilisateur annule des dégâts fatals, il consomme 1cumul de Garde de l'illumination et récupère **0.05%** des PV max. Non disponible en Ligue ultime.",
+				"description": "Garde du pardon: après avoir déclenché Résonance 5fois, vous avez **1**chance d'annuler des dégâts fatals pour l'utilisateur et la cible gardée. Après qu'un membre du groupe annule des dégâts fatals, il consomme la garde du pardon et récupère **5%** des PV max. Non disponible en Ligue ultime.\r\nGarde de l'illumination: après avoir déclenché Résonance 5fois et en présence de la garde de l'illumination, l'utilisateur a **2**chances d'annuler des dégâts fatals. Se cumule jusqu'à **5**fois. Après que l'utilisateur annule des dégâts fatals, il consomme 1cumul de Garde de l'illumination et récupère **5%** des PV max. Non disponible en Ligue ultime.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5073,7 +5073,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Lorsque vous déclenchez une compétence d'arme ou de décharge, l'augmentation des dégâts finaux et des soins dépend du nombre de gardes. Chaque garde augmente de **1.6%**les dégâts finaux et les effets de soin, jusqu'à **8%** maximum pendant **2500secondes**.",
+				"description": "Lorsque vous déclenchez une compétence d'arme ou de décharge, l'augmentation des dégâts finaux et des soins dépend du nombre de gardes. Chaque garde augmente de **1.6%**les dégâts finaux et les effets de soin, jusqu'à **8%** maximum pendant **25secondes**.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5225,7 +5225,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Après avoir déclenché **Rétroaction**, chaque épine de crystamax inflige aux cibles proches des dégâts équivalant à **66,7%** de l'ATQ toutes les **2** secondes, pendant **undefined** secondes.",
+				"description": "Après avoir déclenché **Rétroaction**, chaque épine de crystamax inflige aux cibles proches des dégâts équivalant à **66,7%** de l'ATQ toutes les **2** secondes, pendant **NaN** secondes.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5257,7 +5257,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Accroît la récupération de PV max d'épines de crystamax de **Rétroaction** jusqu'à **undefined%**.",
+				"description": "Accroît la récupération de PV max d'épines de crystamax de **Rétroaction** jusqu'à **NaN%**.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5265,7 +5265,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Accroît de **undefined%** supplémentaires les dégâts de foudre pendant **undefined** secondes après avoir utilisé Étreinte de Harrah.",
+				"description": "Accroît de **NaN%** supplémentaires les dégâts de foudre pendant **NaN** secondes après avoir utilisé Étreinte de Harrah.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5604,7 +5604,7 @@
 				"need": "Snipe_fire_plasm"
 			},
 			{
-				"description": "Après que Tir croisé de sniper inflige un coup critique, restaure un nombre de PV équivalant à **50%** des dégâts infligés (sans dépasser **15%** de ses PV max et sans inclure les dégâts d'Explosion de gaz) et **50** de recharge d'arme.\r\nChaque cumul de Cœur serein accroît le taux de crit final de **0%**, jusqu'à **1%**, et convertit jusqu'à **2%** des dégâts critiques.",
+				"description": "Après que Tir croisé de sniper inflige un coup critique, restaure un nombre de PV équivalant à **50%** des dégâts infligés (sans dépasser **15%** de ses PV max et sans inclure les dégâts d'Explosion de gaz) et **50** de recharge d'arme.\r\nChaque cumul de Cœur serein accroît le taux de crit final de **9%**, jusqu'à **27%**, et convertit jusqu'à **13.5%** des dégâts critiques.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 9
@@ -5628,7 +5628,7 @@
 				"need": "Snipe_fire_plasm"
 			},
 			{
-				"description": "Accroît les dégâts infligés de Tir croisé de sniper de **0%** supplémentaires.",
+				"description": "Accroît les dégâts infligés de Tir croisé de sniper de **20%** supplémentaires.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 9
@@ -5785,7 +5785,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Explosion incandescente: Sur le terrain**: quand un coup est réussi avec **Comète de pin**, inflige des dégâts aux cibles proches équivalant à **105%** de l'ATQ de feu + **1.5%** des PV max de l'Explorateur + **55%** de la somme de tous les types de résistance de l'Explorateur + **200%** de crit. Cet effet peut être déclenché une fois toutes les **1,5**seconde. Les dégâts d'Explosion incandescente sont comptabilisés comme des dégâts d'attaque normale. Si **1**arme de foudre, de givre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **130**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
+				"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Explosion incandescente: Sur le terrain**: quand un coup est réussi avec **Comète de pin**, inflige des dégâts aux cibles proches équivalant à **105%** de l'ATQ de feu + **1.5%** des PV max de l'Explorateur + **55%** de la somme de tous les types de résistance de l'Explorateur + **200%** de crit. Cet effet peut être déclenché une fois toutes les **1,5**seconde. Les dégâts d'Explosion incandescente sont comptabilisés comme des dégâts d'attaque normale. Si **1**arme de foudre, de givre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **1.3**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5793,7 +5793,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Lorsqu'une **Plume de moineau** touche une cible, elle crée un effet de propagation, infligeant des dégâts de zone supplémentaires équivalant à **0.5%** du total des dégâts de brûlure et d'embrasement. Cela étend également le **Brûle-moineau** de la cible affectée aux cibles proches, actualisant la durée de **Brûle-moineau**. L'effet de propagation peut être déclenché une fois toutes les **5**secondes.",
+				"description": "Lorsqu'une **Plume de moineau** touche une cible, elle crée un effet de propagation, infligeant des dégâts de zone supplémentaires équivalant à **50%** du total des dégâts de brûlure et d'embrasement. Cela étend également le **Brûle-moineau** de la cible affectée aux cibles proches, actualisant la durée de **Brûle-moineau**. L'effet de propagation peut être déclenché une fois toutes les **5**secondes.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5833,7 +5833,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Augmente les dégâts de feu de **0.14%** supplémentaires en état **Pinacle**.",
+				"description": "Augmente les dégâts de feu de **14%** supplémentaires en état **Pinacle**.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5991,7 +5991,7 @@
 				"need": "None"
 			},
 			{
-				"description": "En incarnant Mobius, vous gagnez immédiatement **30**points d'échauffement. Temps de recharge: **17** secondes. En entrant dans Tour de magie, inflige aux cibles situées à proximité des dégâts de zone équivalant à **8.4%** de l'ATQ et réduit leur résistance physique de **-0.1%** pendant **20** secondes.",
+				"description": "En incarnant Mobius, vous gagnez immédiatement **30**points d'échauffement. Temps de recharge: **17** secondes. En entrant dans Tour de magie, inflige aux cibles situées à proximité des dégâts de zone équivalant à **840%** de l'ATQ et réduit leur résistance physique de **1000%** pendant **20** secondes.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6007,7 +6007,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Lorsque vous mettez fin à Tour de magie en avance, inflige des dégâts sur une vaste zone pendant **13** secondes. Le temps de recharge actuel de la compétence de Mobius est réduit et les dégâts physiques accrus de **0.25%** pendant une certaine période (cet effet ne concerne pas Mobius). S'il reste plus de **13** secondes à Tour de magie, confère **200** de recharge d'arme supplémentaires. Le temps restant à la fin de Tour de magie accroît la zone de dégâts, réduit le temps de recharge des compétences et prolonge le bonus de dégâts physiques. Les dégâts de zone sont plafonnés à **2%** de l'ATQ (les dégâts maximum sont infligés lorsque le temps restant est supérieur à **13** secondes). La réduction de temps de recharge maximum est de **13** secondes et le bonus de dégâts physiques peut durer jusqu'à **20** secondes.",
+				"description": "Lorsque vous mettez fin à Tour de magie en avance, inflige des dégâts sur une vaste zone pendant **13** secondes. Le temps de recharge actuel de la compétence de Mobius est réduit et les dégâts physiques accrus de **25%** pendant une certaine période (cet effet ne concerne pas Mobius). S'il reste plus de **13** secondes à Tour de magie, confère **200** de recharge d'arme supplémentaires. Le temps restant à la fin de Tour de magie accroît la zone de dégâts, réduit le temps de recharge des compétences et prolonge le bonus de dégâts physiques. Les dégâts de zone sont plafonnés à **200%** de l'ATQ (les dégâts maximum sont infligés lorsque le temps restant est supérieur à **13** secondes). La réduction de temps de recharge maximum est de **13** secondes et le bonus de dégâts physiques peut durer jusqu'à **20** secondes.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6023,7 +6023,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Gagne l'effet Marionnette psychique pendant Tour de magie et accroît le bonus de dégâts physiques de Mobius à **15%**. Pendant Tour de magie, restaure **2%** des PV max et **1000** de recharge d'arme à chaque seconde.",
+				"description": "Gagne l'effet Marionnette psychique pendant Tour de magie et accroît le bonus de dégâts physiques de Mobius à **15%**. Pendant Tour de magie, restaure **2%** des PV max et **10** de recharge d'arme à chaque seconde.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6031,7 +6031,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Pendant Tour de magie, Mobius dispose d'un fouet supplémentaire qu'il utilise automatiquement lorsque l'Explorateur a recours à Mobius pour des attaques normales ou des attaques d'esquive, infligeant des dégâts équivalant à **1%** de l'ATQ de Mobius (ces dégâts ne sont pas comptabilisés comme des attaques normales).",
+				"description": "Pendant Tour de magie, Mobius dispose d'un fouet supplémentaire qu'il utilise automatiquement lorsque l'Explorateur a recours à Mobius pour des attaques normales ou des attaques d'esquive, infligeant des dégâts équivalant à **100%** de l'ATQ de Mobius (ces dégâts ne sont pas comptabilisés comme des attaques normales).",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6182,7 +6182,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de feu**: accroît l'ATQ de feu de **20%** et la résistance au feu de **40%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu ou de Réaction de feu, et Résonance de feu prévaut.\r\n**Explosion incandescente: Coupe rapide**: Quand **Floraison éternelle** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux aux cibles proches équivalant à **37.5%** de l'ATQ de feu + **0.5%** des PV max de l'Explorateur + **18.75%** de la somme de tous les types de résistance de l'Explorateur + **68.75%** de crit. En combat, toutes les **0,5**seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion ardente: Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **130**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
+				"description": "**Résonance de feu**: accroît l'ATQ de feu de **20%** et la résistance au feu de **40%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu ou de Réaction de feu, et Résonance de feu prévaut.\r\n**Explosion incandescente: Coupe rapide**: Quand **Floraison éternelle** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts initiaux aux cibles proches équivalant à **37.5%** de l'ATQ de feu + **0.5%** des PV max de l'Explorateur + **18.75%** de la somme de tous les types de résistance de l'Explorateur + **68.75%** de crit. En combat, toutes les **0,5**seconde, les prochains dégâts infligés par Coupe rapide seront accrus d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts d'Explosion ardente: Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de givre, de foudre ou physique est équipée, les dégâts d'Explosion incandescente sont multipliés par **1.3**. Par ailleurs, les dégâts d'Explosion incandescente ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan, et ne déclenchent pas d'effets d'attaque supplémentaires.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6609,7 +6609,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Impact incandescent et les dégâts transférés ignorent **60%** de la résistance au feu de la cible.\r\nLes dégâts de feu infligés par Corrosion sont accrus de **0.1%**.",
+				"description": "Impact incandescent et les dégâts transférés ignorent **60%** de la résistance au feu de la cible.\r\nLes dégâts de feu infligés par Corrosion sont accrus de **10%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -6617,7 +6617,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Accroît les dégâts infligés par Danse de flammes et Frappe vertigineuse de **0.5%**.\r\nLe multiplicateur pour les ombrelles tournoyant rapidement, Revers du phénix et Impact incandescent devient Ombrelles duveteuses + **2**.",
+				"description": "Accroît les dégâts infligés par Danse de flammes et Frappe vertigineuse de **50%**.\r\nLe multiplicateur pour les ombrelles tournoyant rapidement, Revers du phénix et Impact incandescent devient Ombrelles duveteuses + **2**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -6765,7 +6765,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Quand une compétence d'arme est utilisée, Yo-yo fulgurant déclenche **Harmonie**, infligeant des dégâts aux cibles proches équivalant à **undefined%** des PV perdus de l'Explorateur. Les dégâts infligés ne peuvent pas être inférieurs à **undefined%** et ne peuvent pas dépasser **undefined%** de l'ATQ max de l'Explorateur. Le type de dégâts élémentaires infligés sera le même que celui de l'arme actuelle.\r\nLorsqu'une décharge d'arme est utilisée, Yo-yo fulgurant déclenche **Calibrage**, infligeant des dégâts aux cibles proches équivalant à **undefined%** des PV max de l'Explorateur. Les dégâts infligés ne peuvent pas dépasser **undefined%** de l'ATQ max de l'Explorateur. Le type de dégâts élémentaires infligé sera le même que celui de l'arme actuelle.",
+				"description": "Quand une compétence d'arme est utilisée, Yo-yo fulgurant déclenche **Harmonie**, infligeant des dégâts aux cibles proches équivalant à **NaN%** des PV perdus de l'Explorateur. Les dégâts infligés ne peuvent pas être inférieurs à **NaN%** et ne peuvent pas dépasser **NaN%** de l'ATQ max de l'Explorateur. Le type de dégâts élémentaires infligés sera le même que celui de l'arme actuelle.\r\nLorsqu'une décharge d'arme est utilisée, Yo-yo fulgurant déclenche **Calibrage**, infligeant des dégâts aux cibles proches équivalant à **NaN%** des PV max de l'Explorateur. Les dégâts infligés ne peuvent pas dépasser **NaN%** de l'ATQ max de l'Explorateur. Le type de dégâts élémentaires infligé sera le même que celui de l'arme actuelle.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6781,7 +6781,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Quand vous utilisez Jour de désolation, Yo-yo fulgurant peut déclencher **undefined**secondes de **prestesse**: accroît la vitesse de Yo-yo fulgurant de **undefined%** et les dégâts de **160%**, et les dégâts infligés en passant à travers la cible sont convertis en dégâts à faible portée.",
+				"description": "Quand vous utilisez Jour de désolation, Yo-yo fulgurant peut déclencher **NaN**secondes de **prestesse**: accroît la vitesse de Yo-yo fulgurant de **NaN%** et les dégâts de **160%**, et les dégâts infligés en passant à travers la cible sont convertis en dégâts à faible portée.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6797,7 +6797,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Accroît les dégâts de Yo-yo fulgurant et de Retour à la solitude de **undefined%**.",
+				"description": "Accroît les dégâts de Yo-yo fulgurant et de Retour à la solitude de **NaN%**.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6805,7 +6805,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Accroît les dégâts finaux de **undefined%** lorsque Yo-yo fulgurant est actif.",
+				"description": "Accroît les dégâts finaux de **NaN%** lorsque Yo-yo fulgurant est actif.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6974,7 +6974,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance de givre**: Accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Brise-glace: Coupe rapide**: Quand **Unité** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts aux cibles proches équivalant à **30%** de l'ATQ de givre + **0.4%** des PV max de l'Explorateur + **15%** de la somme de tous les types de résistance de l'Explorateur + **55%** de crit. En combat, toutes les **0,5**secondes, les prochains dégâts infligés par Coupe rapide seront augmentés d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts de Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de foudre, de feu ou physique est équipée, les dégâts de Brise-glace sont augmentés **130** fois.Par ailleurs, les dégâts de Brise-glace ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
+				"description": "**Résonance de givre**: Accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Brise-glace: Coupe rapide**: Quand **Unité** est équipée et qu'un coup est réussi avec une compétence de décharge d'arme, inflige des dégâts aux cibles proches équivalant à **30%** de l'ATQ de givre + **0.4%** des PV max de l'Explorateur + **15%** de la somme de tous les types de résistance de l'Explorateur + **55%** de crit. En combat, toutes les **0,5**secondes, les prochains dégâts infligés par Coupe rapide seront augmentés d'**une** fois supplémentaire, jusqu'à un maximum de **30**fois. Lorsque plusieurs dégâts de Coupe rapide existent en même temps, la valeur initiale la plus élevée est utilisée pour le calcul. Les dégâts de Coupe rapide sont comptabilisés comme des dégâts de compétence de décharge. Si **1**arme de foudre, de feu ou physique est équipée, les dégâts de Brise-glace sont augmentés **1.3** fois.Par ailleurs, les dégâts de Brise-glace ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6982,7 +6982,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Sous la forme **Artiste martial**, après avoir consommé au moins **3**de **Force intérieure**, **Unité** restaure **100**de **Force intérieure**. Ensuite, accroît les dégâts finaux de l'Explorateur de **5%**, et accroît les dégâts infligés par les attaques d'esquive/normales d'**Unité** de **50%** pendant **3000**secondes.\r\nSous la forme **Force de balayage**, après avoir consommé au moins **3**d'**Esprit combatif**, **Unité** restaure **100**d'**Esprit combatif**. Ensuite, accroît les dégâts finaux de l'Explorateur de **5%** pendant **1500**secondes.",
+				"description": "Sous la forme **Artiste martial**, après avoir consommé au moins **3**de **Force intérieure**, **Unité** restaure **1**de **Force intérieure**. Ensuite, accroît les dégâts finaux de l'Explorateur de **5%**, et accroît les dégâts infligés par les attaques d'esquive/normales d'**Unité** de **50%** pendant **30**secondes.\r\nSous la forme **Force de balayage**, après avoir consommé au moins **3**d'**Esprit combatif**, **Unité** restaure **1**d'**Esprit combatif**. Ensuite, accroît les dégâts finaux de l'Explorateur de **5%** pendant **15**secondes.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6998,7 +6998,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Sous la forme **Artiste martial**, si **Force intérieure** n'est pas obtenue dans les **500**secondes, la prochaine acquisition de **Force intérieure** comptera pour **2**.\r\nSous n'importe quelle forme, si **Unité** consomme au moins **3**de **Force intérieure** ou d'**Esprit combatif**, restaure **10%** des PV max de l'Explorateur. En jeu en solo, accroît la récupération des PV de **20%**. Cet effet ne peut être déclenché qu'une fois toutes les **8**secondes sous la forme **Force de balayage**. Il n'y a pas de limite sous la forme **Artiste martial**.",
+				"description": "Sous la forme **Artiste martial**, si **Force intérieure** n'est pas obtenue dans les **5**secondes, la prochaine acquisition de **Force intérieure** comptera pour **2**.\r\nSous n'importe quelle forme, si **Unité** consomme au moins **3**de **Force intérieure** ou d'**Esprit combatif**, restaure **10%** des PV max de l'Explorateur. En jeu en solo, accroît la récupération des PV de **20%**. Cet effet ne peut être déclenché qu'une fois toutes les **8**secondes sous la forme **Force de balayage**. Il n'y a pas de limite sous la forme **Artiste martial**.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7014,7 +7014,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, lorsque vous subissez des dégâts fatals, évite les dégâts fatals 1fois et restaure **20%** des PV max de l'Explorateur (non disponible en Ligue ultime). En jeu en solo, accroît la récupération des PV de **40%**. Chaque effet ne peut être déclenché qu'une fois toutes les **6000**secondes.",
+				"description": "Quand **Unité** consomme **Force intérieure** ou **Esprit combatif**, lorsque vous subissez des dégâts fatals, évite les dégâts fatals 1fois et restaure **20%** des PV max de l'Explorateur (non disponible en Ligue ultime). En jeu en solo, accroît la récupération des PV de **40%**. Chaque effet ne peut être déclenché qu'une fois toutes les **60**secondes.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7022,7 +7022,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Sous la forme **Artiste martial**, accroît les dégâts infligés par les attaques d'esquive/normales d'**Unité** de **70%** supplémentaires. Après avoir consommé **Force intérieure**, accroît les dégâts finaux de l'Explorateur de **10%** pendant **3000**secondes.\r\nSous la forme **Force de balayage**, quand **Unité** consomme **Esprit combatif**, accroît les dégâts finaux de l'Explorateur de **15%** pendant **3000**secondes.",
+				"description": "Sous la forme **Artiste martial**, accroît les dégâts infligés par les attaques d'esquive/normales d'**Unité** de **70%** supplémentaires. Après avoir consommé **Force intérieure**, accroît les dégâts finaux de l'Explorateur de **10%** pendant **30**secondes.\r\nSous la forme **Force de balayage**, quand **Unité** consomme **Esprit combatif**, accroît les dégâts finaux de l'Explorateur de **15%** pendant **30**secondes.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7168,7 +7168,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Résonance physique**: Accroît l'ATQ physique de **15%** et la résistance physique de **25%**. S'active en équipant au moins **2**armes physiques. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance physique, et Résonance physique prévaut.\r\n**Résonance de feu**: Accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu, et Résonance de feu prévaut.\r\n\r\n**Fracture du bouclier: Détachement**: Après avoir utilisé **Ravin absolu**, inflige chaque seconde des dégâts équivalant à **70%** de l'ATQ physique + **1%** des PV max de l'Explorateur + **36%** de la somme de tous les types de résistance de l'Explorateur + **135%** de crit pendant **3000**secondes aux cibles touchées. Les dégâts de Détachement multiples ne se cumulent pas et les dégâts de fracture du bouclier sont comptabilisés comme des dégâts de compétence. Si **1**arme de foudre, de feu ou de givre est équipée, les dégâts de fracture du bouclier sont multipliés par **130**. Par ailleurs, les dégâts de fracture du bouclier ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
+				"description": "**Résonance physique**: Accroît l'ATQ physique de **15%** et la résistance physique de **25%**. S'active en équipant au moins **2**armes physiques. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance physique, et Résonance physique prévaut.\r\n**Résonance de feu**: Accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. S'active en équipant au moins **2**armes de feu. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec les effets de Résonance de feu, et Résonance de feu prévaut.\r\n\r\n**Fracture du bouclier: Détachement**: Après avoir utilisé **Ravin absolu**, inflige chaque seconde des dégâts équivalant à **70%** de l'ATQ physique + **1%** des PV max de l'Explorateur + **36%** de la somme de tous les types de résistance de l'Explorateur + **135%** de crit pendant **30**secondes aux cibles touchées. Les dégâts de Détachement multiples ne se cumulent pas et les dégâts de fracture du bouclier sont comptabilisés comme des dégâts de compétence. Si **1**arme de foudre, de feu ou de givre est équipée, les dégâts de fracture du bouclier sont multipliés par **1.3**. Par ailleurs, les dégâts de fracture du bouclier ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -7208,7 +7208,7 @@
 				"need": "Zeke_physic_plasm"
 			},
 			{
-				"description": "Après l'utilisation de **Ravin absolu**, réduit les dégâts subis par l'Explorateur de **10%** (**20%** en jeu en solo) pendant **3000**secondes.",
+				"description": "Après l'utilisation de **Ravin absolu**, réduit les dégâts subis par l'Explorateur de **10%** (**20%** en jeu en solo) pendant **30**secondes.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12

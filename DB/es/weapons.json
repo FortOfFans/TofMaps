@@ -3551,7 +3551,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia Eléctrica**: Aumenta el ATQ eléctrico un **15%** y la resistencia eléctrica un **25%**. Se activa al equipar **2** o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n\r\n**Truenoestallido: En el Campo**: Al lograr un impacto con **Dragón Azur**, infliges daño a los objetivos cercanos igual a **131.3%** del ATQ eléctrico más **1.9%** de los PSMáx. del nómada más **68.8%** de la suma de todos los tipos de resistencias del nómada más **250%** del crítico. Este efecto se puede activar hasta 1 vez cada **1.5**seg. El daño de Truenoestallido cuenta como daño de ataque normal. Si tienes **1** arma de fuego/escarcha/física de cualquier tipo equipada, multiplica el daño de Truenoestallido por **130**. Además, el daño de Truenoestallido no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia Eléctrica**: Aumenta el ATQ eléctrico un **15%** y la resistencia eléctrica un **25%**. Se activa al equipar **2** o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n\r\n**Truenoestallido: En el Campo**: Al lograr un impacto con **Dragón Azur**, infliges daño a los objetivos cercanos igual a **131.3%** del ATQ eléctrico más **1.9%** de los PSMáx. del nómada más **68.8%** de la suma de todos los tipos de resistencias del nómada más **250%** del crítico. Este efecto se puede activar hasta 1 vez cada **1.5**seg. El daño de Truenoestallido cuenta como daño de ataque normal. Si tienes **1** arma de fuego/escarcha/física de cualquier tipo equipada, multiplica el daño de Truenoestallido por **1.3**. Además, el daño de Truenoestallido no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
 				"stats": {
 					"shatter": 14,
 					"charge": 15
@@ -3738,7 +3738,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Frío Extremo: Descarga**: Después de usar **Arte de Espada: Hielo Oscuro**, cada segundo infliges daño igual a la suma de: **70%** de tu ATQ de escarcha, **10%** de tus PS Máx., **36%** de todos tus tipos de resistencias, y **135%** de tu crítico. Ocurre durante **3000**seg. El daño de múltiples Descargas no se acumula, y el daño de Frío Extremo contará como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/física de cualquier tipo equipada, el daño de Frío Extremo se multiplica por **130**. Además, el daño de Frío Extremo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Frío Extremo: Descarga**: Después de usar **Arte de Espada: Hielo Oscuro**, cada segundo infliges daño igual a la suma de: **70%** de tu ATQ de escarcha, **10%** de tus PS Máx., **36%** de todos tus tipos de resistencias, y **135%** de tu crítico. Ocurre durante **30**seg. El daño de múltiples Descargas no se acumula, y el daño de Frío Extremo contará como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/física de cualquier tipo equipada, el daño de Frío Extremo se multiplica por **1.3**. Además, el daño de Frío Extremo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3746,7 +3746,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Tras lanzar **Cuchilla de Hielo**, aumenta tu ATQ de escarcha un **0.1%** y los objetivos cercanos recibirán daño igual a **80%** del ATQ cada segundo durante **30**seg.",
+				"description": "Tras lanzar **Cuchilla de Hielo**, aumenta tu ATQ de escarcha un **10%** y los objetivos cercanos recibirán daño igual a **80%** del ATQ cada segundo durante **30**seg.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3762,7 +3762,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "Puedes producir hasta **4** **Cuchillas de Hielo**, y el multiplicador base del daño de **Reducción de Temperatura** aumenta a **360%**.\r\nSi tu objetivo es el único afectado por **Reducción de Temperatura**, dentro de **600**seg le aplicas adicionalmente **Sello de Vena**, lo que reduce su velocidad un **30%** (no disponible en la Liga Ápex ni contra jefes). Si el objetivo vuelve a recibir daño de **Cuchilla de Hielo** durante el **Sello de Vena**, desencadena Estallido Gélido, lo que inflige daño de habilidad igual a **1700%** del ATQ más **2%** de los PS ya perdidos del objetivo en ese momento (el daño de Estallido Gélido no será inferior a **2000%** del ATQ de escarcha del nómada ni superior a **2200%** del ATQ de escarcha del nómada). A continuación, elimina los efectos de **Sello de Vena** y **Reducción de Temperatura** en el objetivo.",
+				"description": "Puedes producir hasta **4** **Cuchillas de Hielo**, y el multiplicador base del daño de **Reducción de Temperatura** aumenta a **360%**.\r\nSi tu objetivo es el único afectado por **Reducción de Temperatura**, dentro de **6**seg le aplicas adicionalmente **Sello de Vena**, lo que reduce su velocidad un **30%** (no disponible en la Liga Ápex ni contra jefes). Si el objetivo vuelve a recibir daño de **Cuchilla de Hielo** durante el **Sello de Vena**, desencadena Estallido Gélido, lo que inflige daño de habilidad igual a **1700%** del ATQ más **2%** de los PS ya perdidos del objetivo en ese momento (el daño de Estallido Gélido no será inferior a **2000%** del ATQ de escarcha del nómada ni superior a **2200%** del ATQ de escarcha del nómada). A continuación, elimina los efectos de **Sello de Vena** y **Reducción de Temperatura** en el objetivo.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -4509,7 +4509,7 @@
 				"need": "Dkatana_ice_plasm"
 			},
 			{
-				"description": "Al impactar a un objetivo con Sobrecarga, aumenta el daño de escarcha un **0.11%** por **15**seg.\r\nAl activar un bloqueo con Sombra de Espada, reduce el daño de escarcha que infligen los objetivos enemigos un **0.25%** por **12**seg.",
+				"description": "Al impactar a un objetivo con Sobrecarga, aumenta el daño de escarcha un **11%** por **15**seg.\r\nAl activar un bloqueo con Sombra de Espada, reduce el daño de escarcha que infligen los objetivos enemigos un **25%** por **12**seg.",
 				"stats": {
 					"shatter": 13.9,
 					"charge": 8
@@ -5033,7 +5033,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Al desatar cualquier habilidad de arma o descarga, si tus guardias están al máximo, restaura su duración e inflige **30%** del ATQ Físico × el número de guardias al enemigo como daño físico. Máximo 8 guardias bajo el efecto de Sacramento, y hasta 6 sin él.",
+				"description": "Al desatar cualquier habilidad de arma o descarga, si tus guardias están al máximo, restaura su duración e inflige **3000%** del ATQ Físico × el número de guardias al enemigo como daño físico. Máximo 8 guardias bajo el efecto de Sacramento, y hasta 6 sin él.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5049,7 +5049,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Aumenta todo el daño infligido por las guardias un **20%** y aumenta el daño final del objetivo protegido un **0.15%** por **10 seg** al desatar cualquier habilidad de arma o de descarga bajo el efecto de Resonancia de Sacramento.",
+				"description": "Aumenta todo el daño infligido por las guardias un **20%** y aumenta el daño final del objetivo protegido un **15%** por **10 seg** al desatar cualquier habilidad de arma o de descarga bajo el efecto de Resonancia de Sacramento.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5065,7 +5065,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Guardia de Perdón: Después de liberar Resonancia 5 veces, recibes **1** oportunidad de anular daño letal para el portador y el objetivo protegido. Después de que un compañero niegue el daño letal, consumirá Guardia de Perdón y recuperará un **0.05%** de sus PS Máx. No disponible en la Liga Ápex.\r\nGuardia de Iluminación: Después de liberar Resonancia 5 veces y al tener la Guardia de Iluminación, el portador recibe **2** oportunidades de anular daño letal. Se acumula hasta **5** veces. Después de que el portador niegue daño letal, consumirá 1 acumulación de Guardia de Iluminación y recuperará un **0.05%** de sus PS Máx. No disponible en la Liga Ápex.",
+				"description": "Guardia de Perdón: Después de liberar Resonancia 5 veces, recibes **1** oportunidad de anular daño letal para el portador y el objetivo protegido. Después de que un compañero niegue el daño letal, consumirá Guardia de Perdón y recuperará un **5%** de sus PS Máx. No disponible en la Liga Ápex.\r\nGuardia de Iluminación: Después de liberar Resonancia 5 veces y al tener la Guardia de Iluminación, el portador recibe **2** oportunidades de anular daño letal. Se acumula hasta **5** veces. Después de que el portador niegue daño letal, consumirá 1 acumulación de Guardia de Iluminación y recuperará un **5%** de sus PS Máx. No disponible en la Liga Ápex.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5073,7 +5073,7 @@
 				"need": "arm_physic_plasm"
 			},
 			{
-				"description": "Al desatar cualquier habilidad de arma o de descarga, el aumento del daño final y de la curación depende del número de guardias. Cada guardia aumenta el daño final y la curación un **1.6%**, hasta **8%** por **2500seg**.",
+				"description": "Al desatar cualquier habilidad de arma o de descarga, el aumento del daño final y de la curación depende del número de guardias. Cada guardia aumenta el daño final y la curación un **1.6%**, hasta **8%** por **25seg**.",
 				"stats": {
 					"shatter": 12,
 					"charge": 10
@@ -5225,7 +5225,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Tras activar **Retroalimentación**, cada espina de cristamax infligirá daño a los objetivos cercanos igual a **66.7%** del ATQ cada **2**seg durante **undefined**seg.",
+				"description": "Tras activar **Retroalimentación**, cada espina de cristamax infligirá daño a los objetivos cercanos igual a **66.7%** del ATQ cada **2**seg durante **NaN**seg.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5257,7 +5257,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Aumenta la recuperación de PS Máx. de las espinas de cristamax de **Retroalimentación** a **undefined%**.",
+				"description": "Aumenta la recuperación de PS Máx. de las espinas de cristamax de **Retroalimentación** a **NaN%**.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5265,7 +5265,7 @@
 				"need": "Rubilia_thunder_plasm"
 			},
 			{
-				"description": "Tras usar Regalo de Harrah, aumenta el daño eléctrico un **undefined%** adicional por **undefined**seg.",
+				"description": "Tras usar Regalo de Harrah, aumenta el daño eléctrico un **NaN%** adicional por **NaN**seg.",
 				"stats": {
 					"shatter": 10,
 					"charge": 12
@@ -5604,7 +5604,7 @@
 				"need": "Snipe_fire_plasm"
 			},
 			{
-				"description": "Después de que Tiro en Cruz inflija un impacto crítico, recuperas PS iguales a **50%** del daño infligido (sin superar **15%** de tus PS Máx., sin incluir el daño de explosión de gas) y **50** de carga de arma.\r\nCada acumulación de Corazón Tranquilo aumenta la Tasa Crítica Final a **0%**, hasta **1%**, y convierte hasta **2%** del daño crítico.",
+				"description": "Después de que Tiro en Cruz inflija un impacto crítico, recuperas PS iguales a **50%** del daño infligido (sin superar **15%** de tus PS Máx., sin incluir el daño de explosión de gas) y **50** de carga de arma.\r\nCada acumulación de Corazón Tranquilo aumenta la Tasa Crítica Final a **9%**, hasta **27%**, y convierte hasta **13.5%** del daño crítico.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 9
@@ -5628,7 +5628,7 @@
 				"need": "Snipe_fire_plasm"
 			},
 			{
-				"description": "Aumenta el daño infligido por Tiro en Cruz un **0%** adicional.",
+				"description": "Aumenta el daño infligido por Tiro en Cruz un **20%** adicional.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 9
@@ -5785,7 +5785,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia de Fuego**: Aumenta el ATQ de fuego un **15%** y la resistencia al fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Explosión Ardiente: En el Campo**: Al lograr un impacto con **Pincel Meteórico**, infliges daño a los objetivos cercanos igual a **105%** del ATQ de fuego más **1.5%** de los PS Máx. del nómada más **55%** de la suma de todos los tipos de resistencias del nómada más **200%** del crítico. Este efecto se puede activar una vez cada **1.5**seg. El daño de Explosión Ardiente cuenta como daño de ataque normal. Si tienes **1** arma eléctrica/de escarcha/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por **130**. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia de Fuego**: Aumenta el ATQ de fuego un **15%** y la resistencia al fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Explosión Ardiente: En el Campo**: Al lograr un impacto con **Pincel Meteórico**, infliges daño a los objetivos cercanos igual a **105%** del ATQ de fuego más **1.5%** de los PS Máx. del nómada más **55%** de la suma de todos los tipos de resistencias del nómada más **200%** del crítico. Este efecto se puede activar una vez cada **1.5**seg. El daño de Explosión Ardiente cuenta como daño de ataque normal. Si tienes **1** arma eléctrica/de escarcha/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por **1.3**. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5793,7 +5793,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Cuando una **Pluma de Gorrión** impacta a un objetivo, activa un efecto de propagación que inflige daño de área adicional igual a **0.5%** del daño total por quemadura e incendiario. También propaga la **Avequemadura** del objetivo afectado a los objetivos cercanos, y restablece la duración de **Avequemadura**. El efecto de esparcimiento se puede activar 1 vez cada **5**seg.",
+				"description": "Cuando una **Pluma de Gorrión** impacta a un objetivo, activa un efecto de propagación que inflige daño de área adicional igual a **50%** del daño total por quemadura e incendiario. También propaga la **Avequemadura** del objetivo afectado a los objetivos cercanos, y restablece la duración de **Avequemadura**. El efecto de esparcimiento se puede activar 1 vez cada **5**seg.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5833,7 +5833,7 @@
 				"need": "brush_fire_plasm"
 			},
 			{
-				"description": "Aumenta el daño de fuego un **0.14%** adicional cuando estás bajo el estado de **Cúspide**.",
+				"description": "Aumenta el daño de fuego un **14%** adicional cuando estás bajo el estado de **Cúspide**.",
 				"stats": {
 					"shatter": 12.5,
 					"charge": 15
@@ -5991,7 +5991,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Al cambiar a Mobius, ganas inmediatamente **30** puntos de calentamiento. Enfriamiento: **17**seg. Al entrar a Truco de Magia, inflige daño de área igual a **8.4%** del ATQ a los objetivos cercanos y reduce su resistencia física un **-0.1%** por **20**seg.",
+				"description": "Al cambiar a Mobius, ganas inmediatamente **30** puntos de calentamiento. Enfriamiento: **17**seg. Al entrar a Truco de Magia, inflige daño de área igual a **840%** del ATQ a los objetivos cercanos y reduce su resistencia física un **1000%** por **20**seg.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6007,7 +6007,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Al terminar Truco de Magia antes de tiempo, infliges daño de área amplio por **13**seg. Reduce el enfriamiento actual de la habilidad de Mobius y aumenta el daño físico un **0.25%** por un periodo (este efecto no se aplica a Mobius). Si al Truco de Magia le quedan más de **13**seg, ganas **200** de carga de arma. Cuanto más tiempo quede cuando termine el Truco de Magia, mayor será el daño de área, mayor será la reducción de enfriamiento de habilidades y más durará el refuerzo de daño físico. El daño de área infligido tiene un límite de **2%** del ATQ (el daño máximo se inflige cuando el tiempo restante es superior a **13**seg). La reducción de enfriamiento máxima es de **13**seg, y el refuerzo de daño físico puede durar hasta **20**seg.",
+				"description": "Al terminar Truco de Magia antes de tiempo, infliges daño de área amplio por **13**seg. Reduce el enfriamiento actual de la habilidad de Mobius y aumenta el daño físico un **25%** por un periodo (este efecto no se aplica a Mobius). Si al Truco de Magia le quedan más de **13**seg, ganas **200** de carga de arma. Cuanto más tiempo quede cuando termine el Truco de Magia, mayor será el daño de área, mayor será la reducción de enfriamiento de habilidades y más durará el refuerzo de daño físico. El daño de área infligido tiene un límite de **200%** del ATQ (el daño máximo se inflige cuando el tiempo restante es superior a **13**seg). La reducción de enfriamiento máxima es de **13**seg, y el refuerzo de daño físico puede durar hasta **20**seg.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6023,7 +6023,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Obtienes el efecto Marioneta Psíquica al entrar en el Truco de Magia, lo que aumenta el Refuerzo de Daño Físico de Mobius a **15%**. Durante Truco de Magia, recuperas **2%** de tus PS Máx. y **1000** carga de arma cada segundo.",
+				"description": "Obtienes el efecto Marioneta Psíquica al entrar en el Truco de Magia, lo que aumenta el Refuerzo de Daño Físico de Mobius a **15%**. Durante Truco de Magia, recuperas **2%** de tus PS Máx. y **10** carga de arma cada segundo.",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6031,7 +6031,7 @@
 				"need": "Whip_physic_plasm"
 			},
 			{
-				"description": "Durante Truco de Magia, Mobius tiene un látigo adicional que se lanza automáticamente cada vez que el nómada usa a Mobius para realizar ataques normales o ataques de evasión, lo que inflige daño igual a **1%** del ATQ de Mobius (este daño no cuenta como de ataques normales).",
+				"description": "Durante Truco de Magia, Mobius tiene un látigo adicional que se lanza automáticamente cada vez que el nómada usa a Mobius para realizar ataques normales o ataques de evasión, lo que inflige daño igual a **100%** del ATQ de Mobius (este daño no cuenta como de ataques normales).",
 				"stats": {
 					"shatter": 12,
 					"charge": 9
@@ -6182,7 +6182,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia de Fuego**: Aumenta el ATQ de fuego un **20%** y la resistencia al fuego un **40%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego o Reacción al Fuego; Resonancia de Fuego tiene prioridad.\r\n**Explosión Ardiente: Corte Veloz**: Cuando **Floración Interminable** está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a **37.5%** del ATQ de fuego, más **0.5%** de los PS Máx. del nómada, más **18.75%** de la suma de todos los tipos de resistencias del nómada, más **68.75%** del crítico. Mientras estés en combate y cada **0.5**seg, el daño del siguiente Corte Veloz aumentará **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. Explosión Ardiente: El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si tienes **1** arma de escarcha/éléctrica/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por **130**. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales",
+				"description": "**Resonancia de Fuego**: Aumenta el ATQ de fuego un **20%** y la resistencia al fuego un **40%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego o Reacción al Fuego; Resonancia de Fuego tiene prioridad.\r\n**Explosión Ardiente: Corte Veloz**: Cuando **Floración Interminable** está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a **37.5%** del ATQ de fuego, más **0.5%** de los PS Máx. del nómada, más **18.75%** de la suma de todos los tipos de resistencias del nómada, más **68.75%** del crítico. Mientras estés en combate y cada **0.5**seg, el daño del siguiente Corte Veloz aumentará **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. Explosión Ardiente: El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si tienes **1** arma de escarcha/éléctrica/física de cualquier tipo equipada, multiplica el daño de Explosión Ardiente por **1.3**. Además, el daño de Explosión Ardiente no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6609,7 +6609,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Choque Ardiente y el daño transferido ignoran **60%** de la resistencia al fuego del objetivo.\r\nEl daño de fuego causado por Corrosión aumenta un **0.1%**.",
+				"description": "Choque Ardiente y el daño transferido ignoran **60%** de la resistencia al fuego del objetivo.\r\nEl daño de fuego causado por Corrosión aumenta un **10%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -6617,7 +6617,7 @@
 				"need": "umbrella_fire_plasm"
 			},
 			{
-				"description": "Aumenta el daño infligido por Llamas Danzantes e Impacto Aéreo en **0.5%**.\r\nEl multiplicador de las sombrillas que giran rápidamente, Barrido Fénix y Choque Ardiente, ahora es Sombrilla de Polipluma más **2**.",
+				"description": "Aumenta el daño infligido por Llamas Danzantes e Impacto Aéreo en **50%**.\r\nEl multiplicador de las sombrillas que giran rápidamente, Barrido Fénix y Choque Ardiente, ahora es Sombrilla de Polipluma más **2**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 8
@@ -6765,7 +6765,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Al usar cualquier habilidad de arma, VelociYo-yo puede activar **armonía**, lo que inflige daño a los objetivos cercanos igual a **undefined%** de los PS perdidos del nómada. El daño infligido no será inferior a **undefined%** del ATQ máx. del nómada, ni superior a **undefined%** del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.\r\nCuando se usa cualquier descarga de arma, VelociYo-yo puede activar **ajuste**, lo que inflige daño a los objetivos cercanos igual a un **undefined%** de los PS máx. del nómada. El daño infligido no será superior a **undefined%** del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.",
+				"description": "Al usar cualquier habilidad de arma, VelociYo-yo puede activar **armonía**, lo que inflige daño a los objetivos cercanos igual a **NaN%** de los PS perdidos del nómada. El daño infligido no será inferior a **NaN%** del ATQ máx. del nómada, ni superior a **NaN%** del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.\r\nCuando se usa cualquier descarga de arma, VelociYo-yo puede activar **ajuste**, lo que inflige daño a los objetivos cercanos igual a un **NaN%** de los PS máx. del nómada. El daño infligido no será superior a **NaN%** del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6781,7 +6781,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Al usar Día Desolado, VelociYo-yo puede activar **undefined**seg de **rapidez**: Aumenta la velocidad del VelociYo-yo un **undefined%**, aumenta el daño un **160%**, y el daño causado al atravesar al objetivo se convierte en un daño de área pequeña.",
+				"description": "Al usar Día Desolado, VelociYo-yo puede activar **NaN**seg de **rapidez**: Aumenta la velocidad del VelociYo-yo un **NaN%**, aumenta el daño un **160%**, y el daño causado al atravesar al objetivo se convierte en un daño de área pequeña.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6797,7 +6797,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Aumenta el daño de VelociYo-yo y Regreso a la Soledad en un **undefined%**.",
+				"description": "Aumenta el daño de VelociYo-yo y Regreso a la Soledad en un **NaN%**.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6805,7 +6805,7 @@
 				"need": "Yoyo_ice_plasm"
 			},
 			{
-				"description": "Aumenta el daño final en un **undefined%** mientras VelociYo-yo está activo.",
+				"description": "Aumenta el daño final en un **NaN%** mientras VelociYo-yo está activo.",
 				"stats": {
 					"shatter": 9.5,
 					"charge": 8
@@ -6974,7 +6974,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Hielo Destructor: Corte Veloz**: Cuando **Unidad** está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a **30%** del ATQ de escarcha, más **0.4%** de los PS Máx. del nómada, más **15%** de la suma de todos los tipos de resistencias del nómada, más **55%** del crítico. Mientras estés en estado de combate, después de cada **0.5**seg, el daño del siguiente Corte Veloz aumentará una **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si hay **1** arma eléctrica/física/de fuego de cualquier tipo equipada, el daño de Hielo Destructor aumenta **130** veces. Además, el daño de Hielo Destructor no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Hielo Destructor: Corte Veloz**: Cuando **Unidad** está equipada, al impactar con cualquier habilidad de descarga de arma, inflige un daño inicial a los objetivos cercanos igual a **30%** del ATQ de escarcha, más **0.4%** de los PS Máx. del nómada, más **15%** de la suma de todos los tipos de resistencias del nómada, más **55%** del crítico. Mientras estés en estado de combate, después de cada **0.5**seg, el daño del siguiente Corte Veloz aumentará una **1** vez adicional, hasta un máximo de **30** veces. Cuando existen múltiples instancias de daño de Corte Veloz, se usará el valor inicial más alto para el cálculo. El daño de Corte Veloz cuenta como daño de habilidades de descarga. Si hay **1** arma eléctrica/física/de fuego de cualquier tipo equipada, el daño de Hielo Destructor aumenta **1.3** veces. Además, el daño de Hielo Destructor no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6982,7 +6982,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Mientras estás en la forma de **Artista Marcial**, después de consumir **3** o más de **Fuerza Interna**, **Unidad** restaura **100** de **Fuerza Interna**. Después, aumenta el daño final del nómada un **5%**, y aumenta el daño de ataque de evasión/ataque normal de **Unidad** un **50%** por **3000**seg.\r\nAl estar en forma de **Fuerza Arrolladora**, tras consumir **3** o más de **Espíritu de Pelea**, **Unidad** restaura **100** de **Espíritu de Pelea**. También aumenta el daño final del nómada un **5%** por **1500**seg.",
+				"description": "Mientras estás en la forma de **Artista Marcial**, después de consumir **3** o más de **Fuerza Interna**, **Unidad** restaura **1** de **Fuerza Interna**. Después, aumenta el daño final del nómada un **5%**, y aumenta el daño de ataque de evasión/ataque normal de **Unidad** un **50%** por **30**seg.\r\nAl estar en forma de **Fuerza Arrolladora**, tras consumir **3** o más de **Espíritu de Pelea**, **Unidad** restaura **1** de **Espíritu de Pelea**. También aumenta el daño final del nómada un **5%** por **15**seg.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -6998,7 +6998,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "En la forma de **Artista Marcial**, si no obtienes **Fuerza Interna** dentro de un lapso de **500**seg, la siguiente adquisición de **Fuerza Interna** otorgará **2** acumulaciones.\r\nEn cualquier forma, cuando **Unidad** consume **3** o más de **Fuerza Interna** o de **Espíritu de Pelea**, recuperas un **10%** de tus PS Máx. En el modo individual, la recuperación de PS aumenta a **20%**. Este efecto solo se puede activar 1 vez cada **8**seg en forma de **Fuerza Arrolladora**. En la forma de **Artista Marcial**, no hay limitaciones.",
+				"description": "En la forma de **Artista Marcial**, si no obtienes **Fuerza Interna** dentro de un lapso de **5**seg, la siguiente adquisición de **Fuerza Interna** otorgará **2** acumulaciones.\r\nEn cualquier forma, cuando **Unidad** consume **3** o más de **Fuerza Interna** o de **Espíritu de Pelea**, recuperas un **10%** de tus PS Máx. En el modo individual, la recuperación de PS aumenta a **20%**. Este efecto solo se puede activar 1 vez cada **8**seg en forma de **Fuerza Arrolladora**. En la forma de **Artista Marcial**, no hay limitaciones.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7014,7 +7014,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Después de que **Unidad** consuma **Fuerza Interna** o **Espíritu de Pelea**, al recibir daño letal, evitas el daño letal 1 vez y recuperas **20%** de tus PS Máx. (no disponible en la Liga Ápex). En el modo individual, la recuperación de PS aumenta a **40%**. Ambos efectos solo se pueden activar 1 vez cada **6000**seg.",
+				"description": "Después de que **Unidad** consuma **Fuerza Interna** o **Espíritu de Pelea**, al recibir daño letal, evitas el daño letal 1 vez y recuperas **20%** de tus PS Máx. (no disponible en la Liga Ápex). En el modo individual, la recuperación de PS aumenta a **40%**. Ambos efectos solo se pueden activar 1 vez cada **60**seg.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7022,7 +7022,7 @@
 				"need": "yulan_ice_plasm"
 			},
 			{
-				"description": "Mientras estás en la forma **Artista Marcial**, aumenta el daño de ataque de evasión/ataque normal de **Unidad** un **70%** adicional. Después de consumir **Fuerza Interna**, aumenta el daño final del nómada un **10%** durante **3000**seg.\r\nMientras estás en forma de **Fuerza Arrolladora**, después de que **Unidad** consume **Espíritu de Pelea**, aumenta el daño final del nómada un **15%** por **3000**seg.",
+				"description": "Mientras estás en la forma **Artista Marcial**, aumenta el daño de ataque de evasión/ataque normal de **Unidad** un **70%** adicional. Después de consumir **Fuerza Interna**, aumenta el daño final del nómada un **10%** durante **30**seg.\r\nMientras estás en forma de **Fuerza Arrolladora**, después de que **Unidad** consume **Espíritu de Pelea**, aumenta el daño final del nómada un **15%** por **30**seg.",
 				"stats": {
 					"shatter": 13,
 					"charge": 11
@@ -7168,7 +7168,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Resonancia Física**: Aumenta el ATQ físico un **15%** y la resistencia física un **25%**. Se activa equipando **2** o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Física; Resonancia Física tiene prioridad.\r\n**Resonancia de Fuego**: Aumenta el ATQ de fuego un **15%** y la resistencia al fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego; Resonancia de Fuego tiene prioridad.\r\n\r\n**Destrucción de Escudo: Separación**: Después de usar **Abismo Absoluto**, cada segundo inflige daño igual a **70%** del ATQ físico, más **1%** de los PS Máx. del nómada, más **36%** de la suma de todos los tipos de resistencias del nómada, más **135%** del crítico durante **3000**seg a los objetivos impactados. El daño de varias Separaciones no se acumula, y el daño por destrucción de escudo cuenta como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/de escarcha equipada, el daño de destrucción de escudo se multiplica por **130**. Además, el daño de destrucción de escudo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+				"description": "**Resonancia Física**: Aumenta el ATQ físico un **15%** y la resistencia física un **25%**. Se activa equipando **2** o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Física; Resonancia Física tiene prioridad.\r\n**Resonancia de Fuego**: Aumenta el ATQ de fuego un **15%** y la resistencia al fuego un **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia de Fuego; Resonancia de Fuego tiene prioridad.\r\n\r\n**Destrucción de Escudo: Separación**: Después de usar **Abismo Absoluto**, cada segundo inflige daño igual a **70%** del ATQ físico, más **1%** de los PS Máx. del nómada, más **36%** de la suma de todos los tipos de resistencias del nómada, más **135%** del crítico durante **30**seg a los objetivos impactados. El daño de varias Separaciones no se acumula, y el daño por destrucción de escudo cuenta como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/de escarcha equipada, el daño de destrucción de escudo se multiplica por **1.3**. Además, el daño de destrucción de escudo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -7208,7 +7208,7 @@
 				"need": "Zeke_physic_plasm"
 			},
 			{
-				"description": "Después de usar **Abismo Absoluto**, reduce el daño que el nómada recibe un **10%** (**20%** en el modo individual) por **3000**seg.",
+				"description": "Después de usar **Abismo Absoluto**, reduce el daño que el nómada recibe un **10%** (**20%** en el modo individual) por **30**seg.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
