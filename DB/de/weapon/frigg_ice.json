@@ -1,0 +1,174 @@
+{
+	"name": "Balmung",
+	"avatar": {
+		"name": "Frigg",
+		"advanceId": "imitation_28L1",
+		"weapon": "frigg_ice",
+		"icon": "imitation_28",
+		"avatarID": "Avatar12",
+		"age": "1. Februar",
+		"height": "190 cm",
+		"gender": "Weiblich",
+		"state": "Engel der Gnade",
+		"city": "Unbekannt",
+		"rating": "wuwei_imitation_28",
+		"gp": [
+			"metal",
+			"everydayObjects"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 杨梦露"
+			},
+			{
+				"Japanese": "CV : 伊藤 静"
+			},
+			{
+				"English": "CV : Antonia Flynn"
+			},
+			{
+				"Korean": "CV : 소연"
+			},
+			{
+				"Portuguese": "CV : Adriana Pissardini"
+			}
+		],
+		"id": "imitation_28"
+	},
+	"description": "Das Großschwert und der Säbel gehören einzig und allein Frigg, dem Engel der Gnade. Sie wurden an Friggs kybernetischen Körper angepasst, als sie geschmiedet wurden. Die beiden Waffen sind nicht ein und dieselbe, aber Frigg bezeichnet sie zusammen als „Balmung“.",
+	"icon": "item_Weapon_SSR_frigg_Ice01",
+	"gachaIcon": "SSR_lh_flj",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Frigg",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "Frigg_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Normaler Angriff",
+				"description": "Greift am Boden 5-mal hintereinander mit Balmung an.\r\nErster Angriff: Verursacht Schaden in Höhe von **62.1%** des ANG +**373** und stößt das Ziel eine kurze Strecke zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **46.2%** des ANG +**277** und stößt das Ziel eine kurze Strecke zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **91.1%** des ANG +**547** und stößt das Ziel eine kurze Strecke zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **55.8%** des ANG +**335** und stößt das Ziel eine kurze Strecke zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **218.4%** des ANG +**1310** und bringt das Ziel zu Fall.",
+				"icon": "skill_frigg_melee",
+				"id": "GA_PlayerFriggMelee_Melee"
+			},
+			{
+				"name": "Luftsprengung",
+				"description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **64.4%** des ANG +**386**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **72.6%** des ANG +**436**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **76.7%** des ANG +**460**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **107.9%** des ANG +**647**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **168.3%** des ANG +**1010**.",
+				"icon": "skill_frigg_air",
+				"id": "GA_PlayerFriggMelee_AirAttack"
+			},
+			{
+				"name": "Schwungschnitt",
+				"description": "Tippe und halte den normalen Angriff während normaler Angriffe gedrückt, um „Schwungschnitt“ auszulösen.\r\nDer Anwender hechtet mit einem horizontalem Hieb vorwärts und lässt das Ziel schweben, bevor er sich selbst in die Luft schwingt. Verursacht maximal **134.3%** des ANG +**806** Schaden.",
+				"icon": "skill_frigg_branch",
+				"id": "GA_PlayerFriggMelee_Branch"
+			},
+			{
+				"name": "Spiralschnitt",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Spiralschnitt“ auszulösen.\r\nVerursacht beim Fallen mit jedem Treffer Schaden in Höhe von **19.8%** des ANG +**119**. Fügt Zielen in der Nähe bei der Landung Schaden in Höhe von **185.7%** des ANG +**1114** zu.",
+				"icon": "skill_frigg_airbranch",
+				"id": "GA_PlayerFriggMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für **0,5** Sek. immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerFriggEvade_Evade"
+			},
+			{
+				"name": "Mehrfachschlitzer",
+				"description": "Tippe während des kurzen Zeitraums zum perfekten Ausweichen auf einen normalen Angriff, um „Mehrfachschlitzer“ auszulösen.\r\nEntfesselt mehrere Hiebe in einem bestimmten Bereich vor dem Anwender, die Gesamtschaden in Höhe von **172.7%** des ANG +**1036** verursachen.",
+				"icon": "skill_frigg_backattack",
+				"id": "GA_FPlayerFriggEvade_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Fimbulwinter",
+				"description": "Der Wanderer schlägt wild um sich und verursacht Gesamtschaden in Höhe von **577.5%** des ANG + **3465**. Schleudert Ziele in die Luft, lässt sie dort schweben und gewährt Schadensimmunität, während diese Fähigkeit eingesetzt wird. Abklingzeit: **30** Sek.\r\nDer Einsatz von **Fimbulwinter** erzeugt für **25** Sek. einen großen Froststurm um den Wanderer herum. Innerhalb des Froststurms verbraucht „Balmung-Ausweichen“ keine Ausweichversuche.\r\nGewährt innerhalb des Froststurms „Froststurm I“, wodurch beim Verwenden einer Frostwaffe der Frost-ANG um **25%** und „Zertrümmern“ um **15%** erhöht wird.",
+				"icon": "skill_frigg_skill",
+				"id": "GA_FPlayerFriggSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Kälteeinbruch",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und er macht einen Satz nach vorne und greift an. Der Anwender kontrolliert Gegner in der Nähe vorübergehend, um danach einen großflächigen Hieb auszuführen. Wirft Gegner in die Luft und fügt Gesamtschaden in Höhe von **618.2%** des ANG +**3709** zu.",
+				"icon": "skill_frigg_changeskill",
+				"id": "GA_FPlayerFriggChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Frostresonanz**: Erhöht Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
+			"stats": {
+				"shatter": 8,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Erhalte jedes Mal, wenn du innerhalb des Froststurms beliebigen Elementarschaden in Höhe von **550%** × Frost-ANG zufügst, **1** Frostigkeitspunkt. Es können bis zu **10** Frostigkeitspunkte angesammelt werden.\r\nWenn der Froststurm endet, erleiden Gegner innerhalb des Froststurms Bombenschaden in Höhe von Frostigkeitspunkte × Frost-ANG × **95%**. Nach Verlassen des Froststurms geht alle **3** Sek. **1** Frostigkeitspunkt verloren.",
+			"stats": {
+				"shatter": 8,
+				"charge": 8
+			},
+			"need": "Frigg_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 8,
+				"charge": 8
+			},
+			"need": "Frigg_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Frostigkeit-Limit auf **15**. Der Einsatz von Entladungsfähigkeit von Frostwaffen innerhalb des Froststurms fügt Gegnern darin Schaden in Höhe von **25%** des Frost-ANG × (aktuelle Frostigkeit +5) zu.",
+			"stats": {
+				"shatter": 8,
+				"charge": 8
+			},
+			"need": "Frigg_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 8,
+				"charge": 8
+			},
+			"need": "Frigg_ice_plasm"
+		},
+		{
+			"description": "Das durch Frostwaffen verursachte „Zertrümmern“ von Schilden innerhalb des Froststurms friert das Ziel für **2** Sek. ein und fügt ihm zusätzlichen Schaden in Höhe von Frostigkeit × **35%** des Frost-ANG zu. Der zusätzliche Schaden wird verdoppelt, falls das Ziel nicht eingefroren werden kann.",
+			"stats": {
+				"shatter": 8,
+				"charge": 8
+			},
+			"need": "Frigg_ice_plasm"
+		},
+		{
+			"description": "Wenn die Frostigkeit **15** Punkte erreicht und der Anwender sich innerhalb eines Froststurms befindet, erhält er zusätzlich „Froststurm II“, wodurch beim Verwenden von Frostwaffen der Frost-ANG um **25%** erhöht wird.",
+			"stats": {
+				"shatter": 8,
+				"charge": 8
+			},
+			"need": "Frigg_ice_plasm"
+		}
+	],
+	"id": "frigg_ice"
+}

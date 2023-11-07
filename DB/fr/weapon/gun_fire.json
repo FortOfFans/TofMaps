@@ -1,0 +1,181 @@
+{
+	"name": "Revolver flamboyant",
+	"avatar": {
+		"name": "Cobalt-B",
+		"advanceId": "imitation_10L1",
+		"weapon": "gun_fire",
+		"icon": "imitation_10",
+		"avatarID": "gulan",
+		"age": "26 juin",
+		"height": "157cm",
+		"gender": "Féminin",
+		"state": "Banges Tech",
+		"city": "Crown",
+		"rating": "wuwei_imitation_10",
+		"gp": [
+			"metal",
+			"collection",
+			"restrictedGoods"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈睿婕"
+			},
+			{
+				"Japanese": "CV : 川澄 綾子"
+			},
+			{
+				"English": "CV : Stephanie Kerbis"
+			},
+			{
+				"Korean": "CV : 김예림"
+			},
+			{
+				"Portuguese": "CV : Jussara Marques"
+			}
+		],
+		"id": "imitation_10"
+	},
+	"description": "Inventé par un scientifique fou. Avec ses résultats de test impressionnants, on ne peut qu'imaginer la puissance qu'il pourrait avoir à pleine capacité.",
+	"icon": "item_Weapon_SSR_Gun_Fire01",
+	"gachaIcon": "SSR_lh_zl",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Gun",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "gun_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Attaque normale",
+				"description": "Au sol, utilisez une attaque normale pour attaquer 5 fois de suite.\r\nPremière attaque: inflige un total de dégâts équivalant à **52.3%** de l'ATQ + **314**.\r\nDeuxième attaque: inflige un total de dégâts équivalant à **75.6%** de l'ATQ + **454**.\r\nTroisième attaque: inflige un total de dégâts équivalant à **94.5%** de l'ATQ + **567**.\r\nQuatrième attaque: inflige un total de dégâts équivalant à **142.8%** de l'ATQ + **857**.\r\nCinquième attaque: inflige un total de dégâts équivalant à **137.8%** de l'ATQ + **827**.",
+				"icon": "pugong_gun",
+				"id": "GA_FPlayerGunMelee_New_Melee"
+			},
+			{
+				"name": "Tir chargé",
+				"description": "Appuyez et maintenez Attaque normale pour charger une attaque, puis relâchez pour tirer des balles qui infligent des dégâts équivalant à **95.4%** de l'ATQ + **572**, suivies d'une explosion trois secondes plus tard (ou si la cible est éliminée) qui inflige des dégâts équivalant à **23.9%** de l'ATQ aux ennemis proches. Chaque fois que la cible subit des dégâts pendant l'explosion (jusqu'à **4**fois) la zone d'effet est doublée et les dégâts accrus.",
+				"icon": "skill_gun_power",
+				"id": "GA_FPlayerGunMelee_New_PowerAttack"
+			},
+			{
+				"name": "Explosion sautée",
+				"description": "Lorsque vous êtes dans les airs, lancez Explosion sautée.\r\nLance une bombe qui inflige des dégâts équivalant à **90.8%** de l'ATQ + **545** aux ennemis dans un cercle devant vous, les repoussant d'une courte distance. Consomme **250** d'endurance.",
+				"icon": "skill_gun_jump",
+				"id": "GA_FPlayerGunMelee_New_JumpAttack"
+			},
+			{
+				"name": "Décharge aérienne",
+				"description": "Après un double-saut, déclenchez Décharge aérienne en l'air.\r\nLancez vers le bas un rayon d'omnium qui inflige des dégâts équivalant à **33.8%** de l'ATQ + **203**.",
+				"icon": "skill_gun_air",
+				"id": "GA_FPlayerGunMelee_New_AirAttack"
+			},
+			{
+				"name": "Bombardement dévastateur",
+				"description": "Maintenez Attaque pendant une attaque normale pour lancer un tir de suppression face à vous et infliger un total de **102%** de l'ATQ + **612**de dégâts de zone aux ennemis.",
+				"icon": "skill_gun_branch",
+				"id": "GA_FPlayerGunMelee_New_Branch"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. Temps de recharge : 15 secondes. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerGunEvade_New_Evade"
+			},
+			{
+				"name": "Proximité",
+				"description": "Utilisez l'attaque normale juste après une esquive pour déclencher Proximité.\r\nInflige des dégâts équivalant à **156.1%** de l'ATQ + **937** aux cibles face à vous dans une zone en forme de cône.",
+				"icon": "skill_gun_frontattack",
+				"id": "GA_FPlayerGunEvade_New_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Barrage",
+				"description": "Inflige des dégâts en continu dans une zone en forme de cône devant vous, équivalant au total à **705.1%** de l'ATQ + **4231**. Temps de recharge: **60**secondes.",
+				"icon": "gun_skill",
+				"id": "GA_FPlayerGunSkill_New"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Pluie explosive",
+				"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur** et lance **3**grenades vers l'avant au moment où vous changez d'arme pour passer à celle-ci, infligeant **570%** de l'ATQ + **3420**de dégâts de zone au total, et **projette** la cible.",
+				"icon": "skill_gun_changeskill",
+				"id": "GA_FPlayerGunChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. Activez-la en équipant au moins **2**armes de feu. Cet effet fonctionne également avec les armes dans l'emplacement main libre. L'effet ne peut pas être cumulé plusieurs fois.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Chaque série d'attaques de Barrage inflige des dégâts supplémentaires équivalant à **0%** des PV actuels de la cible (ne peut excéder **1%** de l'ATQ).",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "La compétence ramifiée Bombardement dévastateur et l'attaque d'esquive Proximité infligent une **Brûlure ionique** aux cibles déjà brûlées, infligeant des dégâts de feu correspondant à **40%** de l'ATQ chaque seconde pendant **10**secondes.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "Les dégâts de la **Brûlure ionique** augmentent jusqu'à devenir équivalents à **60%** de l'ATQ. Les attaques réussies avec les compétences d'esquive de n'importe quelle arme réinitialisent la durée de la **Brûlure ionique**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "**Barrage** a un effet de brûlure de **15**secondes. Les attaques réussies avec la compétence d'esquive de n'importe quelle arme réduisent le temps de recharge de **Barrage** de **4**secondes. Temps de recharge de l'effet: **1,5**seconde. Les dégâts de brûlure sur la durée de la compétence d'esquive déclenchent également un effet de réduction du temps de recharge.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		}
+	],
+	"id": "gun_fire"
+}

@@ -1,0 +1,102 @@
+{
+	"name": "Lanza Escarchada",
+	"description": "Un arma común entre los habitantes del Campo de Nieve de Warren. Imbuida de escarcha para reflejar los gustos locales. Es muy popular porque es barata y altamente efectiva.",
+	"icon": "item_Weapon_R_Spear_Ice01",
+	"gachaIcon": "Weapon_R_Spear_Ice01",
+	"rarity": "R",
+	"element": "Ice",
+	"weaponType": "Spear",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 15,
+		"Item_Mine_ice_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_ice_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "spear_ice_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Arremetida",
+				"description": "Mientras estás en el suelo, blande la lanza larga para atacar 5 veces seguidas.\r\nPrimer ataque: Inflige daño igual a **20.1%** del ATQ más **121** y hace retroceder un poco al objetivo.\r\nSegundo ataque: Inflige daño igual a **18.5%** del ATQ más **111** y hace retroceder un poco al objetivo.\r\nTercer ataque: Inflige daño igual a **38.5%** del ATQ más **231** y hace retroceder un poco al objetivo.\r\nCuarto ataque: Inflige daño igual a **59.2%** del ATQ más **355** y hace retroceder un poco al objetivo.\r\nQuinto ataque: Inflige daño igual a **93.8%** del ATQ más **563** y hace retroceder al objetivo una larga distancia.",
+				"icon": "skill_spear_melee",
+				"id": "GA_FPlayerSpearMelee_Melee_R"
+			},
+			{
+				"name": "Golpe de Salto",
+				"description": "Mientras estás en el aire, utiliza el ataque normal para atacar 4 veces seguidas en el aire.\r\nPrimer ataque: Inflige daño igual a **22.3%** del ATQ más **134**.\r\nSegundo ataque: Inflige daño igual a **18.8%** del ATQ más **113**.\r\nTercer ataque: Inflige daño igual a **37.1%** del ATQ más **223**.\r\nCuarto ataque: Inflige daño igual a **89%** del ATQ más **534**.",
+				"icon": "skill_spear_air",
+				"id": "GA_FPlayerSpearMelee_AirAttack_R"
+			},
+			{
+				"name": "Choque Propulsor",
+				"description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire (pulsa cuando haya un objetivo disponible), o utiliza el ataque normal mientras escalas, saltas hacia atrás o utilizas el propulsor para activar Choque Propulsor.\r\nMientras caes, inflige daño igual a **6.4%** del ATQ más **38** en cada impacto. Al aterrizar, inflige daño igual a **39.3%** del ATQ más **236** y suspende al objetivo.\r\nCuanto mayor sea la altitud al activar el ataque, mayor será el daño infligido, hasta **600%** de daño.",
+				"icon": "skill_spear_jump",
+				"id": "GA_FPlayerSpearMelee_JumpAttack_R"
+			},
+			{
+				"name": "Ráfaga de Lanza",
+				"description": "Luego del tercer ataque normal, mantén pulsado el botón de ataque normal para activar Ráfaga de Lanza.\r\nAl impactar, **suspende fuerte** al objetivo e inflige daño igual al **39.8%** del ATQ más **239**. Pulsa de nuevo para continuar atacando al objetivo en el aire, lo que inflige hasta **79.5%** del ATQ más **477** de daño a un solo objetivo.",
+				"icon": "skill_spear_branch",
+				"id": "GA_FPlayerSpearMelee_Branch_R"
+			},
+			{
+				"name": "Ataque Sorpresa",
+				"description": "Lanza una larga estocada con la lanza larga e inflige daño igual al **256.5%** del ATQ más **1539**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSpearMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Patada Voladora",
+				"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Patada Voladora.\r\nAl golpear al objetivo, infliges daño igual a **58.2%** del ATQ más **349**, lo haces retroceder considerablemente y **aturdes** a los enemigos por **1**seg, ó **0.5**seg contra nómadas.",
+				"icon": "skill_spear_frontattack",
+				"id": "GA_FPlayerSpearEvade_FrontAttack_R"
+			},
+			{
+				"name": "Embestida Aplastante",
+				"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Embestida Aplastante.\r\nAzota la lanza larga contra el suelo, lo que inflige daño igual a **42.8%** del ATQ más **257** y **suspende fuerte** a los objetivos.",
+				"icon": "skill_spear_backattck",
+				"id": "GA_FPlayerSpearEvade_BackAttack_R"
+			},
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante **0.5**seg.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSpearEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Cazalunas",
+				"description": "**Suspende fuerte** a los objetivos y quedas en el aire, lo que inflige daño equivalente al **103.1%** del ATQ más **619**. Enfriamiento: **25**seg.",
+				"icon": "spear_skill1",
+				"id": "GA_FPlayerSpearSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Baile de Lanza",
+				"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y agarras al objetivo; lo sacudes varias veces para infligir daño igual a **205.4%** del ATQ más **1232**. El último impacto **suspende fuerte** al objetivo.",
+				"icon": "skill_spear_changeskill",
+				"id": "GA_FPlayerSpearChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6.9,
+				"charge": 5.6
+			},
+			"need": "None"
+		}
+	],
+	"id": "spear_ice"
+}

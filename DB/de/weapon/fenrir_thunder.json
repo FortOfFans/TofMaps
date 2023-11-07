@@ -1,0 +1,193 @@
+{
+	"name": "Gleipnir",
+	"avatar": {
+		"name": "Fenrir",
+		"advanceId": "imitation_32L1",
+		"weapon": "fenrir_thunder",
+		"icon": "imitation_32",
+		"avatarID": "fenlier",
+		"age": "13. Februar",
+		"height": "160 cm",
+		"gender": "Weiblich",
+		"state": "Oasenclub",
+		"city": "Unbekannt",
+		"rating": "wuwei_imitation_32",
+		"gp": [
+			"toy",
+			"collection",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 孙艳琦"
+			},
+			{
+				"Japanese": "CV : 丹下 桜"
+			},
+			{
+				"English": "CV : Corina Boetger"
+			},
+			{
+				"Korean": "CV : 강은애"
+			},
+			{
+				"Portuguese": "CV : Jullie"
+			}
+		],
+		"id": "imitation_32"
+	},
+	"description": "Ein spezielles Gerät, das Schallwellen in Angriffe umwandelt. Wenn die Fesseln gesprengt werden, wird die Strömung des Todes zu scharfen Krallen, die alles zerfetzen.",
+	"icon": "item_Weapon_SSR_Fenrir_Thunder01",
+	"gachaIcon": "SSR_lh_fenlier",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Fenrir",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "fenrir_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Wuff",
+				"description": "Greift vom Boden aus 7-mal an.\r\nErster Angriff: verursacht Schaden in Höhe von **48.6%** des ANG + **482**.\r\nZweiter Angriff: verursacht Schaden in Höhe von **54.1%** des ANG + **537**.\r\nDritter Angriff: verursacht Schaden in Höhe von **54.1%** des ANG + **537**.\r\nVierter Angriff: verursacht Schaden in Höhe von **85.4%** des ANG + **847**.\r\nFünfter Angriff: verursacht Schaden in Höhe von **54.1%** des ANG + **537**.\r\nSechster Angriff: verursacht Schaden in Höhe von **152.9%** des ANG + **1516**.\r\nSiebter Angriff: verursacht Schaden in Höhe von **169%** des ANG + **1676**.",
+				"icon": "skill_fenrir_melee",
+				"id": "GA_FPlayerFenrirMelee_Melee"
+			},
+			{
+				"name": "Entfesseln",
+				"description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 7-mal hintereinander in der Luft anzugreifen.\r\nErster Angriff: verursacht Schaden in Höhe von **52.9%** des ANG + **524**.\r\nZweiter Angriff: verursacht Schaden in Höhe von **60.8%** des ANG + **603**.\r\nDritter Angriff: verursacht Schaden in Höhe von **60.8%** des ANG + **603**.\r\nVierter Angriff: verursacht Schaden in Höhe von **105.8%** des ANG + **1049**.\r\nFünfter Angriff: verursacht Schaden in Höhe von **79.3%** des ANG + **787**.\r\nSechster Angriff: verursacht Schaden in Höhe von **183.4%** des ANG + **1819**.\r\nSiebter Angriff: verursacht Schaden in Höhe von **202.8%** des ANG + **2011**.",
+				"icon": "skill_fenrir_airattack",
+				"id": "GA_FPlayerFenrirMelee_AirAttack"
+			},
+			{
+				"name": "Wolfsbiss",
+				"description": "Tippe und halte am Boden den normalen Angriff während des zweiten bis vierten normalen Angriffs, um „Wolfsbiss“ auszulösen.\r\nStürmt schnell vorwärts, verursacht Schaden in Höhe von **69%** des ANG + **684** und stößt das Ziel zurück.\r\nTippe und halte nach dem Auslösen von „Wolfsbiss“ den normalen Angriff, um „Aufwärtshieb“ auszulösen.\r\nFührt einen Hieb nach oben aus, verursacht Schaden in Höhe von **93.1%** des ANG + **923** und lässt das Ziel schweben.",
+				"icon": "skill_fenrir_branch1",
+				"id": "GA_FPlayerFenrirMelee_MeleeBranch"
+			},
+			{
+				"name": "Hetzjagd",
+				"description": "Tippe und halte am Boden beim fünften oder sechsten normalen Angriff den normalen Angriff gedrückt, um „Hetzjagd“ auszulösen.\r\nStürzt von oben herab und wird vorübergehend unbesiegbar. Fügt dem Ziel Schaden in Höhe von **254.3%** des ANG +**2522** zu und lässt es in der Luft schweben.",
+				"icon": "skill_fenrir_branch3",
+				"id": "GA_FPlayerFenrirMelee_MeleeBranch3"
+			},
+			{
+				"name": "Schlag auf Schlag",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (oder tippe, wenn ein Ziel verfügbar ist), oder tippe auf den normalen Angriff, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Schlag auf Schlag“ auszulösen.\r\nStürzt von oben herab, um Zielen in der Nähe Schaden in Höhe von **200%** des ANG + **1983** zuzufügen und sie schweben zu lassen.\r\nNachdem „Schlag auf Schlag“ ausgelöst wurde, tippe und halte den normalen Angriff erneut, um „Brüllen“ auszulösen.\r\nLässt einen furchterregenden Schrei heraus und wird vorübergehend unbesiegbar. Fügt Zielen in der Nähe Schaden in Höhe von **200%** des ANG + **1983** zu und stößt sie zurück.",
+				"icon": "skill_fenrir_jumpattack",
+				"id": "GA_FPlayerFenrirMelee_JumpAttack"
+			},
+			{
+				"name": "Vergessene Note",
+				"description": "Tippe und halte in der Luft den normalen Angriff, wenn du das zweite bis siebte „Entfesseln“ einsetzt, um „Vergessene Note“ auszulösen.\r\nDurchstreife mehrmals den Luftraum und füge Zielen in der Nähe Schaden in Höhe von **277.3%** des ANG +**2750** zu.",
+				"icon": "skill_fenrir_airattackbranch",
+				"id": "GA_FPlayerFenrirMelee_AirAttackBranch"
+			},
+			{
+				"name": "Nachhall",
+				"description": "Treffer mit normalen Angriffen haben eine Chance von **50%**, das Ziel mit **1**Musiknote zu belegen, die **15**Sek. lang anhält. Noten können bis zu **5**-mal gestapelt werden.\r\n**Wolfsbiss**, **Hetzjagd** und **Schlag auf Schlag** haben eine Chance von **100%**, das Ziel bei einem Treffer mit **1**Musiknote zu belegen.\r\nGegner können nur **1**-malpro Sekunde mit Musiknoten belegt werden.\r\n**Passiv**: **Vergessene Note** und **Melodie** bringen bei einem Treffer alle Musiknoten auf dem Ziel zum Explodieren und verursachen so Schaden in Höhe von **20%** des ANG × Anzahl der explodierten Musiknoten. Der Schaden wird verdoppelt, wenn **3** oder mehr Noten explodieren.\r\n**Passiv**: Versetzt das Ziel in einen Rauschzustand, wenn **2** oder mehr Musiknoten explodieren und verursacht so für **16**Sek. pro Sek. Schaden in Höhe von **1%** der max. LP des Wanderers.\r\nDer durch die Explosion der Musiknoten und den Rausch verursachte Schaden gilt als Ausweichangriff-Schaden.",
+				"icon": "skill_fenrir_beidong",
+				"id": "GA_FPlayerFenrirMelee_Beidong"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Melodie",
+				"description": "Der Anwender greift mit Klauen an, fügt so Zielen in der Nähe Schaden in Höhe von **210.8%** des ANG + **1265** zu und bringt sie zu Fall.",
+				"icon": "skill_fenrir_evadeattack",
+				"id": "GA_FPlayerFenrirEvade_EvadeAttack"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen in der Umgebung reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.\r\n**Passiv**: Platziere eine Musiknote auf dem Ziel.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerFenrirEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Wolfsgeheul",
+				"description": "Ruft ein vom Ziel losgelöstes Bewusstsein herbei, das pro Treffer Schaden in Höhe von **124.1%** des ANG + **745** verursacht. Löst an der aktuellen Position des Wanderers für **30**Sek. „Klangwelt“ aus, in der vom Wanderer erlittener Schaden um **8%** verringert wird und **20%** der Verteidigung des Ziels ignoriert werden.\r\nDie LP des Bewusstseins betragen das **30**-Fache der max. LP des Wanderers. Es kann nur aktiv Schaden durch **Gleipnir** erleiden, und **100%** des Schadens wird an den Körper des ursprünglichen Ziels übertragen (**1%** für gegnerische Wanderer) und der Wanderer stellt LP in Höhe von **50%** des ANG wieder her. Während das Bewusstsein aktiv ist, erleidet der Wanderer **12%** weniger Schaden durch den Körper des Ziels. Das Bewusstsein existiert für bis zu **15**Sek.\r\nWenn das Bewusstsein in den Körper des ursprünglichen Ziels zurückkehrt, wird Flächenschaden in Höhe von **705.4%** des ANG + **4232** verursacht.\r\nRückkehr des Bewusstseins: Das Bewusstsein kehrt zum Körper zurück, wenn es besiegt wurde, die Dauer abläuft, ein neues Bewusstsein herbeigerufen wird oder es sich zu weit vom Körper entfernt.\r\nAbklingzeit von „Wolfsgeheul“: **30**Sek.",
+				"icon": "fenrir_skill",
+				"id": "GA_FPlayerFenrirSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Ahuuuu!",
+				"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Dieser stürmt dann auf das Ziel zu und greift Ziele im Wirkbereich an, um ihnen Schaden in Höhe von **661.8%** des ANG +**3971** zuzufügen und sie mit **3**Musiknoten zu belegen. Wird für kurze Zeit unbesiegbar, während die Fähigkeit aktiv ist (nicht in der Apex-Liga und im entscheidenden Abgrund verfügbar).",
+				"icon": "skill_fenrir_changeskill",
+				"id": "GA_FPlayerFenrirChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Voltresonanz**: Erhöht Volt-ANG um **15%** und Voltwiderstand um **25%**. Wird durch das Ausrüsten von **2** oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Elementares Gleichgewicht**: Erhöht alle ANG um **15%**. Wird durch das Ausrüsten von **3** Waffen unterschiedlichen Elements aktiviert. Dieser Set-Effekt funktioniert auch im Nebenhand-Slot.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Wenn **Wolfsgeheul** ein Bewusstsein herbeiruft und die Fähigkeit noch abklingt, wird die Fähigkeit **Hörfieber** gewährt. Stürmt auf das Ziel zu und führt mehrere Angriffe aus, die Schaden in Höhe von bis zu **720%** des ANG verursachen. Jeder Treffer verlangsamt den Gegner für kurze Zeit und stellt LP in Höhe von **100%** des ANG wieder her. Der letzte Treffer belegt das Ziel mit **2**Musiknoten. Abklingzeit von „Hörfieber“: **15**Sek.\r\nWenn **3** oder mehr Noten gleichzeitig explodieren und die Abklingzeit von „Hörfieber“ mehr als **5**Sek. beträgt, wird die Abklingzeit von „Hörfieber“ zurückgesetzt. Dieser Effekt kann nur 1-mal alle **15**Sek. ausgelöst werden.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Während „Klangwelt“ aktiv ist:\r\nFür jeweils **45%** der verlorenen max. LP oder beim Einsatz der Fähigkeit **Hörfieber** wird **Klangweltbeben** ausgelöst, das Zielen innerhalb der „Klangwelt“ Schaden in Höhe von **650%** des ANG zufügt.\r\nGewährt für jeweils **99%** der verlorenen max. LP **1**-mal für **45**Sek. „dem Tod entkommen“ (verhindert einen tödlichen Effekt und gewährt für kurze Zeit Schadensimmunität). Kann bis zu **1**-mal gestapelt werden.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Erhöht den Schadensmultiplikator von explodierenden Musiknoten auf **40%** und den vom Rausch verursachten DoT auf **1,5%** der max. LP pro Sek.\r\nWährend „Klangwelt“ aktiv ist, wird **Klangweltbeben** automatisch ausgelöst, wenn es nicht nach **12**Sek. im Kampf ausgelöst wird.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Erhöht bei Verwendung von **Gleipnir** die krit. Trefferrate um **18%**. Die Erhöhung der krit. Trefferrate hält nach dem Wechsel zu einer anderen Waffe weitere **5**Sek. an.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		}
+	],
+	"id": "fenrir_thunder"
+}

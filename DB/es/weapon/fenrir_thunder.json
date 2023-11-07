@@ -1,0 +1,193 @@
+{
+	"name": "Gleipnir",
+	"avatar": {
+		"name": "Fenrir",
+		"advanceId": "imitation_32L1",
+		"weapon": "fenrir_thunder",
+		"icon": "imitation_32",
+		"avatarID": "fenlier",
+		"age": "13 de febrero",
+		"height": "160cm",
+		"gender": "Femenino",
+		"state": "Club Oasis",
+		"city": "Desconocido",
+		"rating": "wuwei_imitation_32",
+		"gp": [
+			"toy",
+			"collection",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 孙艳琦"
+			},
+			{
+				"Japanese": "CV : 丹下 桜"
+			},
+			{
+				"English": "CV : Corina Boetger"
+			},
+			{
+				"Korean": "CV : 강은애"
+			},
+			{
+				"Portuguese": "CV : Jullie"
+			}
+		],
+		"id": "imitation_32"
+	},
+	"description": "Un dispositivo especial que convierte las ondas de sonido en ataque. Cuando se rompen los grilletes, las corrientes de la muerte se convierten en afiladas garras que lo desgarran todo.",
+	"icon": "item_Weapon_SSR_Fenrir_Thunder01",
+	"gachaIcon": "SSR_lh_fenlier",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Fenrir",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "fenrir_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Guau",
+				"description": "Mientras estás en el suelo, atacas 7 veces.\r\nPrimer ataque: Inflige daño igual a **48.6%** del ATQ más **482**.\r\nSegundo ataque: Inflige daño igual a **54.1%** del ATQ más **537**.\r\nTercer ataque: Inflige daño igual a **54.1%** del ATQ más **537**.\r\nCuarto ataque: Inflige daño igual a **85.4%** del ATQ más **847**.\r\nQuinto ataque: Inflige daño igual a **54.1%** del ATQ más **537**.\r\nSexto ataque: Inflige daño igual a **152.9%** del ATQ más **1516**.\r\nSéptimo ataque: Inflige daño igual a **169%** del ATQ más **1676**.",
+				"icon": "skill_fenrir_melee",
+				"id": "GA_FPlayerFenrirMelee_Melee"
+			},
+			{
+				"name": "Desenganche",
+				"description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 7 veces seguidas en el aire.\r\nPrimer ataque: Inflige daño igual a **52.9%** del ATQ más **524**.\r\nSegundo ataque: Inflige daño igual a **60.8%** del ATQ más **603**.\r\nTercer ataque: Inflige daño igual a **60.8%** del ATQ más **603**.\r\nCuarto ataque: Inflige daño igual a **105.8%** del ATQ más **1049**.\r\nQuinto ataque: Inflige daño igual a **79.3%** del ATQ más **787**.\r\nSexto ataque: Inflige daño igual a **183.4%** del ATQ más **1819**.\r\nSéptimo ataque: Inflige daño igual a **202.8%** del ATQ más **2011**.",
+				"icon": "skill_fenrir_airattack",
+				"id": "GA_FPlayerFenrirMelee_AirAttack"
+			},
+			{
+				"name": "Mordida Lupina",
+				"description": "Al estar en el suelo, pulsa y mantén pulsado el ataque normal durante el segundo al cuarto ataque normal para activar Mordida Lupina.\r\nCarga hacia adelante rápidamente e inflige daño igual a **69%** del ATQ más **684** y derriba al objetivo.\r\nDespués de activar Mordida Lupina, pulsa y mantén pulsado el ataque normal para activar Zarpazo Superior.\r\nDesgarra hacia arriba, lo que inflige daño igual a **93.1%** del ATQ más **923** y suspende al objetivo.",
+				"icon": "skill_fenrir_branch1",
+				"id": "GA_FPlayerFenrirMelee_MeleeBranch"
+			},
+			{
+				"name": "Caza Amenazante",
+				"description": "Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal durante el quinto o el sexto ataque normales para activar Caza Amenazante.\r\nDesciende desde el cielo; obtienes invencibilidad temporal e infliges daño igual a **254.3%** del ATQ más **2522** y suspende al objetivo.",
+				"icon": "skill_fenrir_branch3",
+				"id": "GA_FPlayerFenrirMelee_MeleeBranch3"
+			},
+			{
+				"name": "Fuerte y Veloz",
+				"description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire (pulsa cuando haya un objetivo disponible), o pulsa el ataque normal mientras estás escalando, saltando hacia atrás o usando un propulsor para activar Fuerte y Veloz.\r\nDesciende desde arriba, lo que inflige daño igual a **200%** del ATQ más **1983** al aterrizar y suspende a los objetivos circundantes.\r\nDespués de activar Fuerte y Veloz, pulsa y mantén pulsado el ataque normal de nuevo para activar Rugido.\r\nDeja escapar un rugido aterrador en todas las direcciones y gana invencibilidad temporal, lo que inflige daño igual a **200%** del ATQ más **1983** a los objetivos cercanos y los hace retroceder.",
+				"icon": "skill_fenrir_jumpattack",
+				"id": "GA_FPlayerFenrirMelee_JumpAttack"
+			},
+			{
+				"name": "Nota Final",
+				"description": "En el aire, pulsa y mantén pulsado el ataque normal cuando uses del segundo al séptimo Desenganche para activar Nota Final.\r\nRecorre el aire varias veces e inflige daño igual a **277.3%** del ATQ más **2750** a los objetivos circundantes.",
+				"icon": "skill_fenrir_airattackbranch",
+				"id": "GA_FPlayerFenrirMelee_AirAttackBranch"
+			},
+			{
+				"name": "Reverberación",
+				"description": "Cada vez que un objetivo es alcanzado por un ataque normal, hay un **50%** de probabilidad de colocar **1** nota musical en el objetivo que dura **15**seg, se acumula hasta **5** notas.\r\n**Mordida Lupina**, **Caza Amenazante**, y **Fuerte y Veloz** tienen un **100%** de probabilidad de colocar **1** nota musical en el objetivo al impacto.\r\nSolo se pueden aplicar notas musicales una vez cada **1**seg.\r\n**Pasiva**: **Nota Final** y **Melodía** detonarán todas las notas musicales sobre el objetivo al impacto, lo que inflige daño igual a **20%** del ATQ por cada nota musical detonada. El daño se duplica si se detonan **3** o más notas.\r\n**Pasiva**: Tras detonar **2** o más notas musicales, provoca la intoxicación del objetivo, lo que inflige daño igual a **1%** de los PS Máx. del nómada cada segundo por **16**seg.\r\nEl daño causado por la detonación de notas musicales y la intoxicación se considera daño de ataque de evasión.",
+				"icon": "skill_fenrir_beidong",
+				"id": "GA_FPlayerFenrirMelee_Beidong"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Melodía",
+				"description": "Ataca con garras, lo que inflige daño igual a **210.8%** del ATQ más **1265** a los objetivos circundantes y los derriba.",
+				"icon": "skill_fenrir_evadeattack",
+				"id": "GA_FPlayerFenrirEvade_EvadeAttack"
+			},
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.\r\n**Pasiva**: Coloca una Nota Musical en el objetivo.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerFenrirEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Patitas",
+				"description": "Invoca una conciencia que está separada del objetivo e inflige daño igual a **124.1%** del ATQ más **745** al impacto. Crea un Mundo Melodía en la ubicación actual del nómada que dura **30**seg, en el que reduce tu daño recibido un **8%** mientras ignoras **20%** de la defensa del objetivo.\r\nLa conciencia tiene PS iguales a **30** veces los PS Máx. del nómada. Solo puede recibir daño no pasivo de **Gleipnir** y **100%** del daño se transfiere al cuerpo principal del objetivo (**1%** para los nómadas enemigos) y restaura PS igual a **50%** del ATQ al nómada. Mientras la conciencia está activa, el nómada recibe **12%** de daño reducido del cuerpo principal del objetivo. La conciencia existirá hasta por **15**seg.\r\nDespués de que la conciencia regrese al cuerpo principal del objetivo, inflige daño de área igual a **705.4%** del ATQ más **4232**.\r\nRecuperación de la conciencia: La conciencia vuelve a su cuerpo principal cuando la derrotan, cuando se acaba el efecto, cuando se invoca una nueva conciencia o cuando se aleja demasiado del cuerpo.\r\nEnfriamiento de Patitas: **30**seg.",
+				"icon": "fenrir_skill",
+				"id": "GA_FPlayerFenrirSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "¡Auuuuu!",
+				"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada**; luego, te desplazas hacia el objetivo y atacas, lo que inflige daño de hasta **661.8%** del ATQ más **3971** a los objetivos del área y coloca **3** notas musicales sobre ellos. Te vuelves brevemente invencible mientras la habilidad está activada (no disponible en el Abismo Crítico ni en la Liga Ápex).",
+				"icon": "skill_fenrir_changeskill",
+				"id": "GA_FPlayerFenrirChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia Eléctrica**: Aumenta el ATQ eléctrico un **15%** y la resistencia eléctrica un **25%**. Se activa al equipar **2** o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Equilibrio Elemental**: Aumenta todo el ATQ un **15%**. Se activa equipando **3** armas de diferentes elementos. Este efecto de set funciona en la ranura secundaria.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Cuando **Patitas** invoca una conciencia y está en enfriamiento, obtienes la habilidad **Fiebre Aural**. Te desplazas hacia el objetivo y atacas varias veces, lo que inflige hasta **720%** del ATQ como daño. Cada impacto ralentiza al enemigo por un breve momento y te restaura PS igual a **100%** del ATQ. El último impacto aplica **2** Notas Musicales en el objetivo. Enfriamiento de Fiebre Aural: **15**seg.\r\nCuando se detonan **3** o más notas y el enfriamiento de Fiebre Aural es superior a **5**seg, el enfriamiento de Fiebre Aural se termina. Este efecto solo puede activarse 1 vez cada **15**seg.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Mientras el Mundo Melodía está activo:\r\nPor cada **45%** de los PS Máx. perdidos o al usar la habilidad, **Fiebre Aural** activa un **Temblor de Mundo Melodía**, lo que inflige daño igual a **650%** del ATQ a los objetivos en el Mundo Melodía.\r\nPor cada **99%** de los PS Máx. perdidos, obtienes **1** escape de la muerte (bloquea un efecto letal y te vuelves inmune al daño por un breve momento) por **45**seg; se acumula hasta **1** vez.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Aumenta el multiplicador de daño de la detonación de Notas Musicales a **40%**, y el daño prolongado de la intoxicación a **1.5%** de los PS Máx. cada segundo.\r\nMientras el Mundo Melodía está activo, **Temblor de Mundo Melodía** se activa automáticamente si no se detona durante **12**seg mientras estás en combate.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Aumenta tu tasa crítica un **18%** mientras empuñas **Gleipnir**. El aumento de tasa crítica dura otros **5**seg después de cambiar a otras armas.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		}
+	],
+	"id": "fenrir_thunder"
+}

@@ -1,0 +1,96 @@
+{
+	"name": "Combat Blade",
+	"description": "A basic weapon developed by Banges Tech. Forged in a special alloy, it is light, agile, and easy to handle.",
+	"icon": "item_Weapon_R_Ds_Phy01",
+	"gachaIcon": "Weapon_R_Ds_Phy01",
+	"rarity": "R",
+	"element": "Physics",
+	"weaponType": "DoubleSword",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 15,
+		"Item_Mine_physic_02": 25,
+		"Item_breakthrough_B2": 25,
+		"Item_breakthrough_C2": 25,
+		"Item_Mine_physic_03": 14,
+		"Item_breakthrough_B3": 14,
+		"Item_breakthrough_C3": 14,
+		"Item_breakthrough_B1": 13,
+		"Item_breakthrough_C1": 12
+	},
+	"advanceID": "digger_physic_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Twin Blades",
+				"description": "While on the ground, brandish the pair of dual blades to launch up to 5 consecutive attacks.\r\nFirst Attack: Deal damage equal to **24.5%** of ATK plus **147** and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to **29.8%** of ATK plus **179** and knock the target back a short distance.\r\nThird Attack: Deal damage equal to **37.1%** of ATK plus **223** and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to **39.5%** of ATK plus **237** and knock the target back a short distance.\r\nFifth Attack: Deal damage equal to **82.3%** of ATK plus **494** and knock the target back a short distance.",
+				"icon": "skill_ds_melee",
+				"id": "GA_FPlayerDsMelee_Melee_R"
+			},
+			{
+				"name": "Sky Flurry",
+				"description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.\r\nFirst Attack: Deal damage equal to **26.7%** of ATK plus **160**.\r\nSecond Attack: Deal damage equal to **15.7%** of ATK plus **94**.\r\nThird Attack: Deal damage equal to **37.4%** of ATK plus **224**.\r\nFourth Attack: Deal damage equal to **56.4%** of ATK plus **338**.",
+				"icon": "skill_ds_air",
+				"id": "GA_FPlayerDsMelee_AirAttack_R"
+			},
+			{
+				"name": "Rapid Lunge",
+				"description": "After the third normal attack, hold the normal attack button to trigger Rapid Lunge.\r\nUpon hit, **strongly suspend** the target, dealing total damage equal to **37.4%** of ATK plus **224**.",
+				"icon": "skill_ds_frontattack",
+				"id": "GA_FPlayerDsMelee_Branch_R"
+			},
+			{
+				"name": "Spiral Drive",
+				"description": "Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Spiral Drive.\r\nWhile falling, deal damage equal to **37.4%** of ATK plus **224** each hit.",
+				"icon": "skill_ds_jump",
+				"id": "GA_FPlayerDsMelee_JumpAttack_R"
+			},
+			{
+				"name": "Sneak Attack",
+				"description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to **256.5%** of ATK plus **1539**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerDsMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Flying Blades",
+				"description": "Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Flying Blades.\r\nUpon hit, **strongly suspend** the target and deal damage equal to **21.5%** of ATK plus **129**. Keep tapping to throw up to **6** more Flying Blades, each dealing damage equal to **8.9%** of ATK plus **53**.",
+				"icon": "skill_ds_branch",
+				"id": "GA_FPlayerDsEvade_FrontAttack_R"
+			},
+			{
+				"name": "Dodge",
+				"description": "Dodge right before getting hit to trigger Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. Become immune to hitstun while dodging for **0.5** seconds.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerDsEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Returning Blades",
+				"description": "Fire **6** Returning Blades in all directions, each dealing damage equal to **0%** of ATK plus **1**. **2**-second cooldown.",
+				"icon": "skill_ds_1",
+				"id": "GA_FPlayerDSSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Orbiting Blades",
+				"description": "When **weapon charge** is full or **Phantasia** is triggered, upon switching to this weapon **remove all debuffs from the Wanderer** and unleashes orbiting blades that deal **137.3%** of ATK plus **824** damage, with **2** more flying blades spinning around the Wanderer to deal **32%** of ATK plus **192** damage to targets coming into contact.",
+				"icon": "skill_ds_changeskill",
+				"id": "GA_FPlayerDsChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 3.2,
+				"charge": 9.6
+			},
+			"need": "None"
+		}
+	],
+	"id": "digger_physic"
+}

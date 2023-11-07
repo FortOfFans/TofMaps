@@ -1,0 +1,173 @@
+{
+	"name": "Pena do Rouxinol",
+	"avatar": {
+		"name": "Bai Ling",
+		"weapon": "bow_physic",
+		"icon": "imitation_16",
+		"avatarID": "bailing",
+		"age": "8 de maio",
+		"height": "1,63m",
+		"gender": "Feminino",
+		"state": "Abrigo HT201",
+		"city": "Abrigo HT201",
+		"rating": "wuwei_imitation_16",
+		"gp": [
+			"Rarity",
+			"collection",
+			"decorate"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 王晓彤"
+			},
+			{
+				"Japanese": "CV : 日高 里菜"
+			},
+			{
+				"English": "CV : Xanthe Huynh"
+			},
+			{
+				"Korean": "CV : 김율"
+			},
+			{
+				"Portuguese": "CV : Adriana Pissardini"
+			}
+		],
+		"id": "imitation_16"
+	},
+	"description": "Mistura-se perfeitamente com a escuridão da noite.",
+	"icon": "item_Weapon_R_Bow_Phy01",
+	"gachaIcon": "SR_lh_yqzy",
+	"rarity": "SR",
+	"element": "Physics",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 28,
+		"Item_Mine_physic_02": 42,
+		"Item_breakthrough_B2": 42,
+		"Item_breakthrough_D2": 42,
+		"Item_Mine_physic_03": 22,
+		"Item_breakthrough_B3": 22,
+		"Item_breakthrough_D3": 22,
+		"Item_breakthrough_B1": 25,
+		"Item_breakthrough_D1": 23
+	},
+	"advanceID": "bow_physic_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Saque Ligeiro",
+				"description": "No chão, saque o arco para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **45.5%** do ATQ + **273**.\r\nSegundo ataque: Causa dano de **40.7%** do ATQ + **244**.\r\nTerceiro ataque: Causa dano de **73%** do ATQ + **438**.\r\nQuarto ataque: Causa dano de **113%** do ATQ + **678**.\r\nQuinto ataque: Causa dano de **104.8%** do ATQ + **629** e repele o alvo uma curta distância.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_Melee_R"
+			},
+			{
+				"name": "Tiro Concentrado",
+				"description": "Segure o botão de ataque normal para carregar um ataque. Causa dano mínimo de **81.8%** do ATQ + **491**, e mais **50%** por cada **1** segundo de concentração (máximo de **3** segundos). Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes).",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttack_R"
+			},
+			{
+				"name": "Chuva de Flechas",
+				"description": "Após qualquer ataque normal, segure o botão de ataque normal para desencadear Chuva de Flechas. Causa até **266.7%** do ATQ + **1600** de dano em área a alvos.",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_Branch_R"
+			},
+			{
+				"name": "Saraivada Aérea",
+				"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **52.5%** do ATQ + **315**.\r\nSegundo ataque: Causa dano de **69%** do ATQ + **414**.\r\nTerceiro ataque: Causa dano de **105%** do ATQ + **630**.\r\nQuarto ataque: Causa dano de **158%** do ATQ + **948**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttack_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Tempo de recarga: 15 segundos. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_Evade_R"
+			},
+			{
+				"name": "Flecha Repulsora",
+				"description": "Toque no botão de ataque após se esquivar para usar Flecha Repulsora. Repele o alvo uma curta distância e causa dano de **115.5%** do ATQ + **693**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttack_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Tiro Perfurante",
+				"description": "Dá um mortal para trás e dispara **1** tiro perfurante para frente. Causa dano de **209%** do ATQ + **1254** e repele o alvo. Tempo de recarga: **12** seg.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Salva Explosiva",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e lança uma Salva Explosiva sobre o alvo. Causa dano de **660%** do ATQ + **3960**.",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Restaura 1 tentativa de esquiva a cada cinco ataques normais ou após usar **Tiro Perfurante**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **10%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Aumenta o dano do tiro na cabeça em **30%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **20%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Habilidades de esquiva infligem o efeito de lesão a alvos durante **7** segundos.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Aumenta em **30%** a taxa de crítico contra alvos com lesão e em **50%** o dano crítico.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		}
+	],
+	"id": "bow_physic"
+}

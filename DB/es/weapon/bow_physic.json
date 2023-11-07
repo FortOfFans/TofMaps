@@ -1,0 +1,173 @@
+{
+	"name": "Pluma de Ruiseñor",
+	"avatar": {
+		"name": "Bai Ling",
+		"weapon": "bow_physic",
+		"icon": "imitation_16",
+		"avatarID": "bailing",
+		"age": "8 de mayo",
+		"height": "163cm",
+		"gender": "Femenino",
+		"state": "Refugio HT201",
+		"city": "Refugio HT201",
+		"rating": "wuwei_imitation_16",
+		"gp": [
+			"Rarity",
+			"collection",
+			"decorate"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 王晓彤"
+			},
+			{
+				"Japanese": "CV : 日高 里菜"
+			},
+			{
+				"English": "CV : Xanthe Huynh"
+			},
+			{
+				"Korean": "CV : 김율"
+			},
+			{
+				"Portuguese": "CV : Adriana Pissardini"
+			}
+		],
+		"id": "imitation_16"
+	},
+	"description": "Perfecta para una noche gris.",
+	"icon": "item_Weapon_R_Bow_Phy01",
+	"gachaIcon": "SR_lh_yqzy",
+	"rarity": "SR",
+	"element": "Physics",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 28,
+		"Item_Mine_physic_02": 42,
+		"Item_breakthrough_B2": 42,
+		"Item_breakthrough_D2": 42,
+		"Item_Mine_physic_03": 22,
+		"Item_breakthrough_B3": 22,
+		"Item_breakthrough_D3": 22,
+		"Item_breakthrough_B1": 25,
+		"Item_breakthrough_D1": 23
+	},
+	"advanceID": "bow_physic_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Reflejos Rápidos",
+				"description": "Mientras estás en el suelo, tira del arco repetidamente para atacar 5 veces.\r\nPrimer ataque: Inflige daño igual a **45.5%** del ATQ más **273**.\r\nSegundo ataque: Inflige daño igual a **40.7%** del ATQ más **244**.\r\nTercer ataque: Inflige daño igual a **73%** del ATQ más **438**.\r\nCuarto ataque: Inflige daño igual a **113%** del ATQ más **678**.\r\nQuinto ataque: Inflige daño igual a **104.8%** del ATQ más **629** y hace retroceder un poco al objetivo.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_Melee_R"
+			},
+			{
+				"name": "Flecha Cargada",
+				"description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque. Inflige daño base igual a **81.8%** del ATQ más **491**, y **50%** más por cada **1**seg de carga, hasta **3**seg. Inflige el doble de daño al hacer un tiro en la cabeza o al golpear el punto débil de un enemigo, y derriba al objetivo (los tiros en la cabeza no son efectivos contra los nómadas).",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttack_R"
+			},
+			{
+				"name": "Lluvia de Flechas",
+				"description": "Después de cualquier ataque normal, mantén pulsado el botón de ataque normal para desatar Lluvia de Flechas que inflige hasta el **266.7%** del ATQ más **1600** de daño de área a los objetivos.",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_Branch_R"
+			},
+			{
+				"name": "Descarga Aérea",
+				"description": "Mientras estás en el aire, utiliza el ataque normal para atacar 4 veces seguidas en el aire.\r\nPrimer ataque: Inflige daño igual a **52.5%** del ATQ más **315**.\r\nSegundo ataque: Inflige daño igual a **69%** del ATQ más **414**.\r\nTercer ataque: Inflige daño igual a **105%** del ATQ más **630**.\r\nCuarto ataque: Inflige daño igual a **158%** del ATQ más **948**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttack_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Enfriamiento: 15seg. Te vuelves inmune a la conmoción mientras evades durante **0.5**seg.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_Evade_R"
+			},
+			{
+				"name": "Flecha Equipada",
+				"description": "Pulsa el ataque tras esquivar para activar una Flecha Equipada, que hacer retroceder un poco al objetivo e inflige daño igual al **115.5%** del ATQ más **693**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttack_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Disparo Perforante",
+				"description": "Retrocede en una voltereta y realiza **1** disparo perforante hacia adelante, lo que inflige daño igual al **209%** del ATQ más **1254** y hace retroceder al objetivo. **12**seg de enfriamiento.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Ráfaga Explosiva",
+				"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y desata Ráfaga Explosiva sobre el objetivo, lo que inflige daño igual a **660%** del ATQ más **3960**.",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Restaura 1 intento de evasión cada cinco ataques normales o después de usar **Disparo Perforante**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual en un **10%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Aumenta el daño por tiro en la cabeza en un **30%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual en un **20%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Las habilidades de evasión infligen un efecto grave en los objetivos por **7** segundos.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Aumenta la tasa de críticos a objetivos graves en un **30%** y el daño crítico en un **50%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		}
+	],
+	"id": "bow_physic"
+}

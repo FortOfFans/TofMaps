@@ -1,0 +1,176 @@
+{
+	"name": "Klee-Kreuz",
+	"avatar": {
+		"name": "Annabella",
+		"advanceId": "imitation_26L1",
+		"weapon": "snipe_fire",
+		"icon": "imitation_26",
+		"avatarID": "annabeila",
+		"age": "28. April",
+		"height": "166 cm",
+		"gender": "Weiblich",
+		"state": "Unbekannt",
+		"city": "Unbekannt",
+		"rating": "wuwei_imitation_26",
+		"gp": [
+			"decorate",
+			"Rarity",
+			"game",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 洪海天"
+			},
+			{
+				"Japanese": "CV : 黒沢 ともよ"
+			},
+			{
+				"English": "CV : Risa Mei"
+			},
+			{
+				"Korean": "CV : 이유리"
+			},
+			{
+				"Portuguese": "CV : Ágatha Paulita"
+			}
+		],
+		"id": "imitation_26"
+	},
+	"description": "Ein VR-Mehrspieler-Shooter, der in Mirroria wahnsinnig beliebt ist, hat diese exklusive Waffe für den besten Spieler einer Saison entwickelt. Das maßgefertigte echte Modell der Waffe wurde dem Spieler zugesendet. Niemand konnte ahnen, dass sie wie im Spiel funktioniert …",
+	"icon": "item_Weapon_SSR_Snipe_fire01",
+	"gachaIcon": "SSR_lh_annabeila",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Snipe",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "snipe_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Normaler Angriff",
+				"description": "Greift am Boden 3-mal hintereinander mit dem Scharfschützengewehr an.\r\nErster Angriff: Verursacht Schaden in Höhe von **44.2%** des ANG +**265** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **84.4%** des ANG +**506** und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **176.9%** des ANG +**1061** und schleudert das Ziel hoch.",
+				"icon": "pugong_snipe",
+				"id": "GA_FPlayerSnipeMelee_Melee"
+			},
+			{
+				"name": "Kreuzschuss",
+				"description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen. Verursacht Grundschaden in Höhe von **26.1%** des ANG +**157**. Verursacht nach dem Laden Schaden in Höhe von bis zu **180.4%** des ANG +**1082**. Verursacht doppelten Schaden, wenn ein Kopfschuss erzielt oder die Schwachstelle eines Gegners getroffen wird, und schleudert das Ziel hoch (Kopfschüsse sind gegen Wanderer unwirksam).\r\n**Passiv:** Stellt **300** Waffenladung wieder her, wenn „Kreuzschuss“ ein brennendes Ziel trifft oder einen krit. Treffer erzielt. Abklingzeit: **15** Sek.\r\n**Passiv:** Die Geschwindigkeit wird für **3** Sek. um **30%** erhöht, nachdem „Kreuzschuss“ eingesetzt wurde.",
+				"icon": "skill_snipe_power",
+				"id": "GA_FPlayerSnipeMelee_PowerAttack"
+			},
+			{
+				"name": "Brodelndes Rauschen",
+				"description": "Tippe und halte den normalen Angriff nach einem beliebigen normalen Angriff, um ein Laser-Projektil abzufeuern, das bei Kontakt mit dem Ziel explodiert. Dies fügt Zielen in Reichweite Schaden in Höhe von bis zu **150%** des ANG +**900** zu und lässt sie schweben.",
+				"icon": "skill_snipe_branch",
+				"id": "GA_FPlayerSnipeMelee_Branch"
+			},
+			{
+				"name": "Luftsprengung",
+				"description": "Setze in der Luft einen normalen Angriff ein, um 3-mal hintereinander in der Luft anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **47.6%** des ANG +**286** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **90.9%** des ANG +**545** und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **190.5%** des ANG +**1143** und schleudert das Ziel hoch.",
+				"icon": "pugong_snipe",
+				"id": "GA_FPlayerSnipeMelee_AirAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Dämmerungsbogen",
+				"description": "Springt zurück und wirft 1 Granate nach vorne, die beim Aufprall auf den Boden detoniert, Zielen Schaden in Höhe von bis zu **37%** des ANG +**222** zufügt und sie schweben lässt.\r\n**Passiv:** Führe einen normalen Angriff aus, nachdem „Dämmerungsbogen“ eingesetzt wurde, um sofort einen voll aufgeladenen „Kreuzschuss“ abzufeuern.",
+				"icon": "skill_snipe_evadeattack",
+				"id": "GA_FPlayerSnipeEvade_EvadeAttack"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Gegner in der Umgebung verlangsamt. Abklingzeit: 15 Sek. Gewährt für **0,5** Sek. Immunität gegen Trefferlähmung.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerSnipeEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Glutmagazin",
+				"description": "Wechsle Module aus, um die Effekte von „Kreuzschuss“ und „Dämmerungsbogen“ umzuwandeln. „Kreuzschuss“ kann bis zu **8**-mal benutzt werden. Abklingzeit: **14**Sek.\r\n**Rücksichtslose Bombe**: Der Effekt von „Kreuzschuss“ wird zur feurigen Explosion, die in einem bestimmten Gebiet Grundschaden in Höhe von **49.2%** des ANG +**295** und nach dem Aufladen bis zu **339.5%** des ANG +**2037** verursacht. Treffer gegen Ziele, die nicht brennen, fügen ihnen „Kreuzbrand“ zu, wodurch sie **13**Sek. lang pro Sek. Schaden in Höhe von **90%** des ANG erleiden. Treffer gegen brennende Ziele fügen ihnen ebenso „Kreuzbrand“ zu und gewähren für **20**Sek. Brandverbesserung, wodurch der von Zielen erlittene Brandschaden um **20%** erhöht wird. Beim Einsatz von „Dämmerungsbogen“ wirfst du nun stattdessen **3**Granaten.\r\n**Hinterlistige Bombe**: Wandelt den Effekt von „Kreuzschuss“ zum Fernkampf-Gasangriff um, der Grundschaden **76.7%** des ANG +**460** und nach dem Aufladen **529.4%** des ANG +**3176** verursacht. Das Gas hält **7**Sek. an und Ziele darin werden verlangsamt. Der Verlangsamungseffekt wird im Lauf der Zeit immer stärker. „Dämmerungsbogen“ bringt das Gas zum Explodieren (je länger aufgeladen wird, desto höher der Gasexplosionsschaden), verursacht so Explosionsschaden in Höhe von **569.2%** des ANG +**3415** (wird als 1Auslösung von „Kreuzschuss“ gewertet) und verringert den Flammenwiderstand des Ziels für **10**Sek. um **10%**.\r\n\r\n**Passiv**: Nach der Bestätigung des Moduls erhältst du mehrere Aufladungen „Sichtverbesserung“, die deiner Anzahl an Ausweichversuchen entsprechen und die Ladezeit für Kreuzschuss wird verringert. Sichtverbesserung: Verringert die Aufladezeit von „Kreuzschuss“ um **30%** und gewährt während des Aufladens Immunität gegen Kontrolleffekte. Jedes **2.**Ausweichen stellt **1**Ausweichversuch wieder her (bis zu **4**Ausweichversuche).\r\n**Passiv**: Während das Modul „Hinterlistige Bombe“ aktiv ist, haben Treffer mit „Kreuzschuss“ eine Chance, die Abklingzeit anderer Flammenwaffen um **0,7**Sek. zu verringern.\r\n**Passiv****: Ruhiges Herz**: Wenn Klee-Kreuz eine Entladung/Fähigkeit/einen aufgeladenen Angriff/Ausweichen verwendet, erhöht sich die endgültige kritische Trefferrate von Klee-Kreuz **15** Sek. lang um **5%**. Dieser Effekt kann bis zu **3** Mal gestapelt werden. Nachdem die kritische Trefferrate **100%** überschritten hat, werden **50%** der überschüssigen kritischen Trefferrate in kritischen Schaden umgewandelt, bis zu einem Maximum von **7,5%** kritischem Schaden.",
+				"icon": "skill_snipe_skillstart",
+				"id": "GA_FPlayerSnipeSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Sperrfeuer-Befehl",
+				"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und es wird eine Brandbombe geworfen, die durch Beschuss detoniert werden kann, was Zielen in Reichweite Schaden in Höhe von bis zu **765.4%** des ANG + **4592** zufügt und sie **länger schweben lässt**. Während diese Fähigkeit aktiv ist, hält die Schadensimmunität **1,5**Sek. lang an (nicht in der Apex-Liga verfügbar).",
+				"icon": "skill_snipe_changeskill",
+				"id": "GA_FPlayerSnipeChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Flammenresonanz**: Erhöht Flammen-ANG um **15%** und Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "None"
+		},
+		{
+			"description": "Wird ein Ziel **2**-mal mit „Kreuzschuss“ getroffen, wird ein **optischer Raum** erschaffen, der für **12** Sek. am Zielort besteht. Hat ein Gegner im optischen Raum die Verbrennen-Mechanik ausgelöst, werden **2** weitere Instanzen der Verbrennen-Mechanik ausgelöst. Wenn ein Gegner den optischen Raum verlässt, wird seine Geschwindigkeit **2,5** Sek. lang um **80%** verringert. Abklingzeit: **12** Sek.\r\nZiele von „Kreuzschuss“ geraten **1,5** Sek. lang in Panik (reduziert die Geschwindigkeit um **80%**). Abklingzeit: **4** Sek.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		},
+		{
+			"description": "Wenn „Kreuzschuss“ einen krit. Treffer landet, werden LP in Höhe von **50%** des verursachten Schadens (kann **15%** der eigenen max. LP nicht überschreiten, Schaden von „Gasexplosion“ nicht eingerechnet) und **50**Waffenladung wiederhergestellt.\r\nJeder Stapel von „Ruhiges Herz“ erhöht die endgültige krit. Trefferrate auf **9%**, bis zu maximal **27%**, und wandelt bis zu **13.5%** des krit. Schadens um.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		},
+		{
+			"description": "**Rücksichtslose Bombe** Verbesserung: Im Brandverbesserungszustand wird der Brandschaden an Zielen auf **30%** erhöht.\r\n**Hinterlistige Bombe** Verbesserung: Schaden durch eine Gasexplosion ignoriert **30%** des Flammenwiderstands des Ziels.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		},
+		{
+			"description": "Erhöht den von „Kreuzschuss“ verursachten Schaden um zusätzliche **20%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		}
+	],
+	"id": "snipe_fire"
+}

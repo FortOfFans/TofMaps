@@ -1,0 +1,191 @@
+{
+	"name": "Lame de la rose",
+	"avatar": {
+		"name": "Meryl",
+		"advanceId": "imitation_3L1",
+		"weapon": "bigsword_ice",
+		"icon": "imitation_3",
+		"avatarID": "meilier",
+		"age": "10octobre",
+		"height": "170cm",
+		"gender": "Féminin",
+		"state": "Hykros",
+		"city": "Inconnu",
+		"rating": "wuwei_imitation_3",
+		"gp": [
+			"collection",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 秦紫翼"
+			},
+			{
+				"Japanese": "CV : 石川 由依"
+			},
+			{
+				"English": "CV : Kira Buckland"
+			},
+			{
+				"Korean": "CV : 이다은"
+			},
+			{
+				"Portuguese": "CV : Patt Souza"
+			}
+		],
+		"id": "imitation_3"
+	},
+	"description": "Une élégante lame de givre qui évoque une fleur immaculée s'épanouissant sur une falaise enneigée.",
+	"icon": "item_Weapon_SSR_BigSword_Ice01",
+	"gachaIcon": "SSR_lh_qwjf",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "BigSword",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "bigsword_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Frappe lourde",
+				"description": "Lorsque vous êtes au sol, brandissez une grande épée pour attaquer 4fois de suite.\r\nPremière attaque: inflige des dégâts équivalant à **72.9%** de l'ATQ + **437** et repousse la cible sur une courte distance.\r\nDeuxième attaque: inflige des dégâts équivalant à **60.1%** de l'ATQ + **361** et repousse la cible sur une courte distance.\r\nTroisième attaque: inflige des dégâts équivalant à **105.4%** de l'ATQ + **632** et repousse la cible sur une courte distance.\r\nQuatrième attaque: inflige des dégâts équivalant à **156.3%** de l'ATQ + **938**, **projette fortement** la cible, puis la projette après l'atterrissage.",
+				"icon": "skill_bigsword_melee",
+				"id": "GA_FPlayerBigSwordMelee_MeleeIce_SSR"
+			},
+			{
+				"name": "Frappe aérienne",
+				"description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour attaquer 4fois de suite.\r\nPremière attaque: inflige des dégâts équivalant à **106.5%** de l'ATQ + **639**.\r\nDeuxième attaque: inflige des dégâts équivalant à **87.5%** de l'ATQ + **525**.\r\nTroisième attaque: inflige des dégâts équivalant à **156%** de l'ATQ + **936**.\r\nQuatrième attaque: inflige des dégâts équivalant à **140.5%** de l'ATQ + **843** et **renverse** la cible avant de la projeter dans les airs au moment de toucher le sol.",
+				"icon": "skill_bigsword_air",
+				"id": "GA_FPlayerBigSwordMelee_AirAttackIce_SSR"
+			},
+			{
+				"name": "Taillade ascendante",
+				"description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher Taillade ascendante.\r\nAu contact, **suspend longuement** la cible et vous fait décoller du sol, infligeant des dégâts équivalant à **64.3%**de l'ATQ + **386**.",
+				"icon": "skill_bigsword_branch",
+				"id": "GA_FPlayerBigSwordMelee_BranchIce_SSR"
+			},
+			{
+				"name": "Taillade crépusclunaire",
+				"description": "Appuyez et maintenez Attaque normale en l'air (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Taillade crépusclunaire.\r\nLorsque vous tombez, vous infligez des dégâts équivalant à **12.5%** de l'ATQ + **75** à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à **140.5%** de l'ATQ + **843**, et projetez les cibles.\r\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à **600%** de dégâts.",
+				"icon": "skill_bigsword_jump",
+				"id": "GA_FPlayerBigSwordMelee_JumpAttackIce_SSR"
+			},
+			{
+				"name": "Attaque furtive",
+				"description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à **570%** de l'ATQ + **3420**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerBigSwordMelee_SneakIce_SSR"
+			},
+			{
+				"name": "Tourbillon",
+				"description": "Lorsque vous êtes debout ou lorsque vous vous déplacez, maintenez Attaque normale pour déclencher Tourbillon. Inflige à la cible des dégâts équivalant à **132.8%** de l'ATQ + **797** chaque **0,5**seconde. Confère une immunité à l'hébétement pendant que vous l'utilisez.",
+				"icon": "pugong_bigsword",
+				"id": "GA_FPlayerBigSwordMelee_PowerAttackIce_SSR_OS"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. Temps de recharge : 15 secondes. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBigSwordEvade_Evade"
+			},
+			{
+				"name": "Dévastation",
+				"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez un bouton directionnel avant d'esquiver) pour déclencher Dévastation.\r\nVous infligez des dégâts équivalant à **65.9%** de l'ATQ + **395** à chaque coup et **vous projetez** les cibles.",
+				"icon": "skill_bigsword_frontattack",
+				"id": "GA_FPlayerBigSwordEvadeIce_BackAttack_SSR"
+			},
+			{
+				"name": "Taillade en croissant",
+				"description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Taillade en croissant.\r\nVous brandissez votre grande épée pour envoyer des auras vers l'avant, chacune d'entre elles infligeant des dégâts équivalant à **49.6%** de l'ATQ + **298**.",
+				"icon": "skill_bigsword_backattck",
+				"id": "GA_FPlayerBigSwordEvadeIce_FrontAttack_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "Blizzard",
+				"description": "Brandissez votre grande épée pour envoyer des auras vers l'avant, chacune d'entre elles infligeant des dégâts équivalant à **155.9%** de l'ATQ + **935** qui augmentent de **5%** à chaque coup. L'attaque vous immunise contre les effets de contrôle. Temps de recharge: **30**secondes.",
+				"icon": "bigsword_skill1",
+				"id": "GA_FPlayerBigSwordBigSkillIce_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Barrière de givre",
+				"description": "Lorsque la **recharge d'arme** est pleine, ou lorsque **Fantaisie** est déclenchée, au moment où vous changez d'arme, **supprime toutes les altérations sur l'Explorateur**, et frappe le sol pour former une barrière. Inflige des dégâts équivalant à **553.5%** de l'ATQ + **3321** aux ennemis proches, et suspend les cibles. Ceci réduit leur vitesse de **50%** et les empêche d'esquiver ou de sauter. La barrière dure **5**secondes et bloque les projectiles.",
+				"icon": "skill_master_004",
+				"id": "GA_FPlayerBigSwordChangeSkill_SuccessIce_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 12,
+				"charge": 4
+			},
+			"need": "None"
+		},
+		{
+			"description": "Accroît de **15%** la capacité de fracture et régénère **10%** de PV après avoir fracturé le bouclier de la cible.",
+			"stats": {
+				"shatter": 13.8,
+				"charge": 4
+			},
+			"need": "bigsword_ice_plasm"
+		},
+		{
+			"description": "Augmente de **16%** la croissance de PV de base actuelle de l'arme.",
+			"stats": {
+				"shatter": 13.8,
+				"charge": 4
+			},
+			"need": "bigsword_ice_plasm"
+		},
+		{
+			"description": "Le passage à cette arme confère un bouclier de glace d'une valeur équivalant à **10%** des PV max. Temps de recharge: **20**secondes. Le bouclier dure jusqu'à **10**secondes.",
+			"stats": {
+				"shatter": 13.8,
+				"charge": 4
+			},
+			"need": "bigsword_ice_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance de PV de base actuelle de l'arme.",
+			"stats": {
+				"shatter": 13.8,
+				"charge": 4
+			},
+			"need": "bigsword_ice_plasm"
+		},
+		{
+			"description": "Accroît de **50%** les dégâts et la capacité de fracture lorsque le bouclier est actif.",
+			"stats": {
+				"shatter": 16.1,
+				"charge": 4
+			},
+			"need": "bigsword_ice_plasm"
+		},
+		{
+			"description": "Le passage à cette arme confère un bouclier de glace d'une valeur équivalant à **20%** des PV max qui vous immunise également contre les effets de contrôle tant que le bouclier est activé. Temps de recharge: **20**secondes. Le bouclier dure jusqu'à **10**secondes.",
+			"stats": {
+				"shatter": 16.1,
+				"charge": 4
+			},
+			"need": "bigsword_ice_plasm"
+		}
+	],
+	"id": "bigsword_ice"
+}

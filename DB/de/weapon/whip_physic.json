@@ -1,0 +1,198 @@
+{
+	"name": "Möbius",
+	"avatar": {
+		"name": "Umi",
+		"advanceId": "imitation_31L1",
+		"weapon": "whip_physic",
+		"icon": "imitation_31",
+		"avatarID": "wumi",
+		"age": "20. Oktober",
+		"height": "162 cm",
+		"gender": "Weiblich",
+		"state": "Hykros – Distrikt 7",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_31",
+		"gp": [
+			"game",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 刘雯"
+			},
+			{
+				"Japanese": "CV : M・A・O"
+			},
+			{
+				"English": "CV : Anne Yatco"
+			},
+			{
+				"Korean": "CV : 김연우"
+			},
+			{
+				"Portuguese": "CV : Pâmela Rodrigues"
+			}
+		],
+		"id": "imitation_31"
+	},
+	"description": "Die Peitsche, die von der neuen Vollstreckerin Umi bevorzugt wird. Umi mag an ihr am liebsten, dass sie normalerweise nicht über sie stolpert.",
+	"icon": "item_Weapon_SSR_Whip_Phy01",
+	"gachaIcon": "SSR_lh_wumi",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Whip",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "Whip_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Basistechnik",
+				"description": "Wenn der Anwender auf dem Boden steht und Möbius nutzt, kann er 5-mal hintereinander angreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **76.9%** des ANG + **461** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **84.4%** des ANG + **506** und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **112.1%** des ANG + **673** und bringt das Ziel zu Fall.\r\nVierter Angriff: Verursacht Schaden in Höhe von **105.5%** des ANG + **633** und zieht das Ziel hoch und lässt es fallen.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **265.1%** des ANG + **1590** und schleudert das Ziel hoch.\r\nErhöht Zertrümmern um zusätzliche **50%**.",
+				"icon": "skill_whip_melee",
+				"id": "GA_FPlayerWhipMelee_Melee"
+			},
+			{
+				"name": "Luftkombo",
+				"description": "Setze in der Luft einen normalen Angriff ein, um Ausdauer zu verbrauchen und 5-mal hintereinander anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **46%** des ANG +**276**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **66.5%** des ANG +**399**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **88.4%** des ANG +**530**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **88.8%** des ANG +**533**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **260.5%** des ANG +**1563**.",
+				"icon": "skill_whip_airattack",
+				"id": "GA_FPlayerWhipMelee_AirAttack"
+			},
+			{
+				"name": "Aus dem Nichts",
+				"description": "Tippe und halte den normalen Angriff, während du „Basistechnik“ am Boden einsetzt, um „Aus dem Nichts“ direkt auf das aktuell anvisierte Ziel auszulösen. Kleinere anvisierte Ziele erleiden Schaden in Höhe von **105%** des ANG + **630** und ziehen Ziele in der Nähe heran. Größere anvisierte Ziele erleiden Schaden in Höhe von **85.5%** des ANG + **513** und ziehen Ziele in der Nähe heran. Das Zertrümmern dieser Fähigkeit wird zusätzlich um **50%** erhöht.",
+				"icon": "skill_whip_branch",
+				"id": "GA_FPlayerWhipMelee_MeleeBranch"
+			},
+			{
+				"name": "Abschnittsrotation ",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Stampfen“ auszulösen.\r\nStürzt vom Himmel, verursacht Schaden in Höhe von **121.5%** des ANG +**729** und schleudert das Ziel hoch.",
+				"icon": "skill_whip_jumpattack",
+				"id": "GA_FPlayerWhipMelee_JumpAttack"
+			},
+			{
+				"name": "Nahkampfmagie",
+				"description": "Tippe und halte den normalen Angriff am Boden, um „Das Unerwartete“ aufzuladen, und lasse los, um Nahkampfmagie auf das aktuell anvisierte Ziel anzuwenden. Kleinere anvisierte Ziele erleiden Schaden in Höhe von **105%** des ANG + **630** und ziehen Ziele in der Nähe heran. Größere anvisierte Ziele erleiden Schaden in Höhe von **85.5%** des ANG + **513** und ziehen Ziele in der Nähe heran. Das Zertrümmern dieser Fähigkeit wird zusätzlich um **50%** erhöht.",
+				"icon": "skill_whip_powerattack",
+				"id": "GA_FPlayerWhipMelee_PowerAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Große Illusion",
+				"description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um „Große Illusion“ auszulösen und füge Zielen in der Nähe Schaden in Höhe von **187.2%** des ANG +**1123** zu. Das Zertrümmern dieser Fähigkeit wird zusätzlich um **50%** erhöht.",
+				"icon": "skill_whip_evadeattack",
+				"id": "GA_FPlayerWhipEvade_EvadeAttack"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für **0,5** Sek. immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerWhipEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Es ist Zauberzeit",
+				"description": "Wenn du mit einer beliebigen Waffe im Haupt-Slot Schaden verursachst, erhältst du **Aufwärmpunkte**. Abklingzeit: **0,06** Sek. Physische Waffen bringen **1** Punkt pro Treffer, nicht-physische Waffen **0,5** Punkte pro Treffer. Die Anzahl der **Aufwärmpunkte**, die du hast, wird in der **Magieanzeige** angezeigt, bis zu **100** Punkten. Wenn du in den Kampf ziehst, erhältst du sofort **100** **Aufwärmpunkte**.\r\nFähigkeiten können eingesetzt werden, sobald sich **100** **Aufwärmpunkte** in der **Magieanzeige** befinden. Zieht Gegner in einem bestimmten Gebiet zusammen und fügt dem Ziel Schaden in Höhe von **950%** des ANG + **5700** zu. Werde vorübergehend unbesiegbar (nicht verfügbar in Apex-Liga und entscheidender Abgrund) und reduziere die Geschwindigkeit von Zielen im Trefferbereich (nicht verfügbar in Apex-Liga und entscheidender Abgrund). Aktiviere gleichzeitig **Zaubertrick**, um **18** Sekunden lang kontinuierlich **Aufwärmpunkte** zu verbrauchen. Abklingzeit: **30** Sek. Diese Abklingzeit wird von Effekten (einschließlich der Aufhebung, Rücksetzung oder Änderung der Abklingzeit), die nicht von Möbius stammen, nicht beeinflusst. Während dieser Zeit wird die Fähigkeit durch „Karte abheben“ ersetzt.\r\nWährend **Zaubertrick** erhältst du automatisch alle 2 Sek. entweder eine **Pik**- oder **Herz**-**Pokerkarte**. Die Art der **Pokerkarte**, die du bald erhältst, kann im Voraus mit der Schaltfläche „Karte abheben“ umgeschaltet werden. Wenn es **2** **Pokerkarten** gibt, wird automatisch der entsprechende **Kartenzauber** verwendet. Abklingzeit: **3,8** Sek.\r\nWenn während **Zaubertrick** Hyperkörper aktiv ist, wird deine **Magieanzeige** nicht mehr automatisch ergänzt, da du bereits abgeschirmt bist. Erhöht den physischen Schaden von Möbius’ Angriffen (normaler Angriff und Ausweichangriff) um **10%** und Zertrümmern um **20%**.\r\nUnterschiedliche **Pokerkarten**-Kombinationen aktivieren unterschiedliche **Kartenzauber**.\r\nHerz + Pik → **Psychische Puppe**\r\nHerz + Herz → **Widerspruchskorrosion**\r\nPik + Pik → **Karte umdrehen**\r\n**Zaubertrick** endet, wenn du auf irgendeine Weise zu einer anderen Waffe wechselst oder wenn du stirbst.\r\nErhalte Hyperkörper für **20** Sek., wenn „Zaubertrick“ endet. Wenn er auf natürliche Weise endet, fügt er Zielen in der Nähe zusätzlichen Schaden in Höhe von **1000%** des ANG zu.",
+				"icon": "whip_skill",
+				"id": "GA_FPlayerWhipSkill_Skill"
+			},
+			{
+				"name": "Psychische Puppe",
+				"description": "Ziehe eine Fledermauskolonie aus deinem Hut und verbessere dich. Während des **Zaubertricks** wird der von Möbius verursachte physische Schaden um **7,5%** erhöht, und nur **60%** des erlittenen Schadens werden gezählt. Die verbleibenden **40%** werden über **10** Sek., nachdem der **Zaubertrick** endet, langsam von deinen LP abgezogen. Der Effekt der verzögerten Anzahl gilt nur, wenn Standhaftigkeit-Resonanz nicht aktiv ist.",
+				"icon": "whip_skillAB",
+				"id": "GA_FPlayerWhipSkill_Skill_MagicAB"
+			},
+			{
+				"name": "Widerspruchskorrosion",
+				"description": "Stellt sofort **10%** der max. LP wieder her und pflanzt eine Korrosionsblume auf bis zu **7** Ziele innerhalb einer bestimmten Reichweite, die jede Sekunde **260%** ANG-Schaden für**3** Sek. verursachen.",
+				"icon": "whip_skillAA",
+				"id": "GA_FPlayerWhipSkill_Skill_MagicAA"
+			},
+			{
+				"name": "Karte umdrehen",
+				"description": "Rufe eine große Anzahl fliegender Karten herbei, die einen Wirbelsturm bilden, der zum Zielort ausschwärmt, das Ziel bis zu **12**-mal angreift und Gesamtschaden in Höhe von **850%** des ANG verursacht.",
+				"icon": "whip_skillBB",
+				"id": "GA_FPlayerWhipSkill_Skill_MagicBB"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Taschenspielertrick",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und „Taschenspielertrick“ wird ausgelöst, wodurch er vorübergehend unbesiegbar wird (nicht verfügbar in Apex-Liga und im entscheidenden Abgrund). Bei der Landung wird dem Ziel Schaden in Höhe von **316.2%** des ANG + **1897** zugefügt. Nach dem Peitschenhieb wird dem Ziel Schaden in Höhe von **737.8%** des ANG + **4426** zugefügt und es wird **stark hochgeschleudert**.",
+				"icon": "skill_whip_changeskill",
+				"id": "GA_FPlayerWhipChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Physische Resonanz**: Erhöht den physischen ANG um **15%** und den physischen Widerstand um **25%**. Wird durch Ausrüsten von **2** oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "None"
+		},
+		{
+			"description": "Gewährt beim Wechsel zu Möbius sofort **30**Aufwärmpunkte. Abklingzeit: **17**Sek. Fügt Zielen in der Nähe beim Einsatz von „Zaubertrick“ Flächenschaden in Höhe von **840%** des ANG zu und reduziert ihren physischen Widerstand für **20**Sek. um **1000%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Wenn „Zaubertrick“ frühzeitig beendet wird, wird über **13**Sek. großflächig Schaden verursacht. Die aktuelle Abklingzeit von Möbius’ Fähigkeit wird verringert und der physische Schaden wird für eine gewisse Zeit um **25%** erhöht (dieser Effekt gilt nicht für Möbius). Wenn von „Zaubertrick“ mehr als **13**Sek. verbleiben, erhält der Anwender zusätzlich **200**Waffenladung. Je mehr Zeit verbleibt, wenn „Zaubertrick“ endet, desto höher der Flächenschaden, desto größer die Abklingzeitverringerung der Fähigkeit und desto länger hält der physische Schadensbonus an. Der verursachte Flächenschaden ist auf **200%** des ANG begrenzt (der maximale Schaden wird verursacht, wenn die verbleibende Zeit mehr als **13**Sek. beträgt). Die maximale Abklingzeitverringerung beträgt **13**Sek., und der physische Schadensbonus kann bis zu **20**Sek. andauern.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Erhalte den Effekt „Psychische Puppe“ während des Zaubertricks und erhöhe Möbius’ physischen Schadensbonus auf **15%**. Während des Zaubertricks stellst du jede Sekunde **2%** der max. LP und **10** Waffenladung wieder her.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Während „Zaubertrick“ aktiv ist, erhält Möbius eine zusätzliche Peitsche, die jedes Mal automatisch geschwungen wird, wenn der Wanderer mit Möbius normale Angriffe oder Ausweichangriffe ausführt. Diese verursachen Schaden in Höhe von **100%** des ANG von Möbius (dieser Schaden wird nicht als normaler Angriffsschaden gezählt).",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		}
+	],
+	"id": "whip_physic"
+}

@@ -1,0 +1,192 @@
+{
+	"name": "Arte Perdido",
+	"avatar": {
+		"name": "Rubilia",
+		"advanceId": "imitation_48L1",
+		"weapon": "rubilia_thunder",
+		"icon": "imitation_48",
+		"avatarID": "leibiliya",
+		"age": "24 de abril",
+		"height": "195cm",
+		"gender": "Femenino",
+		"state": "Espejia",
+		"city": "Espejia",
+		"rating": "wuwei_imitation_48",
+		"gp": [
+			"decorate",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 穆雪婷"
+			},
+			{
+				"Japanese": "CV : 三石 琴乃"
+			},
+			{
+				"English": "CV : Samantha Berman"
+			},
+			{
+				"Korean": "CV : 이새벽"
+			},
+			{
+				"Portuguese": "CV : Jussara Marques"
+			}
+		],
+		"id": "imitation_48"
+	},
+	"description": "Un suave balanceo en el caótico abismo provocará una tempestad que afectará al destino de toda la gente.",
+	"icon": "item_Weapon_SSR_Rubilia_Thunder01",
+	"gachaIcon": "UI_SSR_lh_laibiliya",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Rubilia",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "Rubilia_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Alas abiertas",
+				"description": "Mientras estás en el suelo, usa el ataque normal para lanzar 5 ataques consecutivos.\r\nPrimer ataque: Inflige daño igual a **98.9%** del ATQ más **593** y hace retroceder al objetivo.\r\nSegundo ataque: Inflige daño igual a **72.9%** del ATQ más **437** y hace retroceder al objetivo.\r\nTercer ataque: Inflige daño igual a **138.1%** del ATQ más **829** y suspende al objetivo.\r\nCuarto ataque: Inflige daño igual a **316.5%** del ATQ más **1899** y hace retroceder al objetivo.\r\nQuinto ataque: Inflige daño igual a **199.1%** del ATQ más **1194** y derriba al objetivo.",
+				"icon": "skill_rubilia_melee",
+				"id": "GA_FPlayerRubiliaMelee_Melee"
+			},
+			{
+				"name": "Supresión",
+				"description": "Mientras estás en el aire, usa tu ataque normal para lanzar 5 ataques seguidos en el aire; esto consume resistencia.\r\nPrimer ataque: Inflige daño igual a **113.7%** del ATQ más **682**.\r\nSegundo ataque: Inflige daño igual a **89.6%** del ATQ más **538**.\r\nTercer ataque: Inflige daño igual a **175.1%** del ATQ más **1051**.\r\nCuarto ataque: Inflige daño igual a **343.3%** del ATQ más **2060**.\r\nQuinto ataque: Inflige daño igual a **170.6%** del ATQ más **1024**.",
+				"icon": "skill_rubilia_airattack",
+				"id": "GA_FPlayerRubiliaMelee_AirAttack"
+			},
+			{
+				"name": "Avanzar",
+				"description": "Mientras atacas en el suelo, pulsa y mantén pulsado el ataque normal para activar Avance, lo que inflige daño igual a **211.7%** del ATQ más **1270**.",
+				"icon": "skill_rubilia_branch",
+				"id": "GA_FPlayerRubiliaMelee_Branch"
+			},
+			{
+				"name": "Descenso",
+				"description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire (pulsa cuando haya un objetivo disponible), o utiliza el ataque normal mientras escalas, saltas hacia atrás o utilizas el propulsor para activar el descenso.\r\nNavega por el aire y consume resistencia para infligir daño igual a **241.9%** del ATQ más **1451** a los objetivos cercanos al llegar al suelo.",
+				"icon": "skill_rubilia_jumpattack",
+				"id": "GA_FPlayerRubiliaMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerRubiliaEvade_Evade"
+			},
+			{
+				"name": "Saqueo",
+				"description": "Pulsa el ataque normal durante la oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir hacia delante) para activar Saqueo, lo que inflige daño igual a **55.9%** del ATQ más **335** a los objetivos cercanos y los suspende.\r\nUsar Saqueo puede activar **Retroalimentación**.",
+				"icon": "skill_rubilia_fevadeattack",
+				"id": "GA_FPlayerRubiliaEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Enjambre",
+				"description": "Usa tu ataque normal justo después de evadir para activar Enjambre, lo que invoca dos ilusiones abisantes que infligen daño igual a **88.2%** del ATQ más **529** a los objetivos que están delante.\r\nUsar Enjambre puede activar **Retroalimentación**.",
+				"icon": "skill_rubilia_bevadeattack",
+				"id": "GA_FPlayerRubiliaEvadeAttack_BackAttack"
+			},
+			{
+				"name": "Tejido",
+				"description": "Cuando estás en el suelo, al mantener cualquier evasión puedes activar Tejido, con lo que te desplazarás cierta distancia hacia el cielo (no funciona en áreas donde no se puede usar el propulsor).",
+				"icon": "skill_rubilia_fly",
+				"id": "GA_FPlayerRubiliaEvade_Move"
+			},
+			{
+				"name": "Sello",
+				"description": "Pulsa y mantén pulsado el ataque normal tras evadir para activar Sello, lo que arroja hacia delante una conciencia de la colmena que controla a las entidades del Espacio Gris a las que impacta; esto las convierte en aliadas por **60**seg (no funciona con jefes).\r\nEl estado de control se elimina cuando Sello se utiliza de nuevo sobre un objetivo afectado o termina su duración, lo que inflige **45%** de todo el daño que el nómada infligió durante el periodo de control.\r\nLos objetivos que no sean entidades del Espacio Gris pueden resistir a la conciencia de la colmena, los cuales no se ven afectados por el efecto de control.",
+				"icon": "skill_rubilia_control",
+				"id": "GA_FPlayerRubiliaEvade_Control"
+			}
+		],
+		"skill": [
+			{
+				"name": "Campo",
+				"description": "Corre rápidamente entre dos puntos **10** veces, lo que atrae a los objetivos cercanos y les inflige daño de hasta **371.7%** del ATQ más **2230**. Al aterrizar, inflige daño igual a **198.3%** del ATQ más **1190** a los objetivos cercanos. Enfriamiento: **20**seg.\r\nCada carrera absorbe **10%** de los PS Máx. de todas las espinas de cristamax (no disponible en la Liga Ápex), e inflige daño adicional igual al número de espinas de cristamax multiplicado por **40%** del ATQ, o el número de espinas de cristamax multiplicado por **1%** de los PS Máx. del nómada, lo que sea mayor, hasta que se agoten las espinas de cristamax.\r\nLa **proporción de pérdida de PS** de los PS Máx. de las espinas de cristamax cuenta como **proporción de pérdida de PS** de los PS Máx. del nómada.",
+				"icon": "skill_rubilia_skill",
+				"id": "GA_FPlayerRubiliaSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Regalo de Harrah",
+				"description": "Cuando la **carga de arma está completa** o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** e invoca a Harrah para que lance **12** ataques de Tempestad, cada uno de los cuales inflige daño igual a **68.8%** del ATQ más **413** a los objetivos cercanos. Durante esto, el nómada obtiene inmunidad al daño por **1.5**seg (no disponible en la Liga Ápex).\r\nAumenta el daño eléctrico un **7%** por **30**seg tras usar Regalo de Harrah. Además, genera **3** espinas de cristamax (pueden existir hasta **5** a la vez). Las espinas de cristamax comienzan con **100%** de PS Máx., no se pueden atacar, solo se pueden curar con **Retroalimentación**, y duran **150**seg.\r\nObtienes **2** **Retroalimentaciones** después de que Regalo de Harrah inflija un ataque (se acumula hasta **4** veces). Arte Perdido consume **1** de **Retroalimentación** en cada ataques de evasión, e inflige al objetivo daño igual al número de espinas de cristamax multiplicado por un **72%** del ATQ, restaura un **25%** de los PS Máx. en todas las espinas de cristamax y restablece la ubicación y duración de las espinas de cristamax.\r\nTras recibir un impacto con Regalo de Harrah, obtienes **1** oportunidad de evadir sin consumir un intento de evasión.",
+				"icon": "skill_rubilia_changeskill",
+				"id": "GA_FPlayerRubiliaChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia Eléctrica**: Aumenta el ATQ eléctrico un **15%** y la resistencia eléctrica un **25%**. Se activa al equipar **2** o más armas eléctricas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Eléctrica o Reacción Eléctrica; Resonancia Eléctrica tiene preferencia.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "None"
+		},
+		{
+			"description": "Tras activar **Retroalimentación**, cada espina de cristamax infligirá daño a los objetivos cercanos igual a **66.7%** del ATQ cada **2**seg durante **NaN**seg.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		},
+		{
+			"description": "Usar la habilidad de arma o la habilidad de descarga de cualquier otra arma generará **1** espina de cristamax.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		},
+		{
+			"description": "Aumenta la recuperación de PS Máx. de las espinas de cristamax de **Retroalimentación** a **NaN%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		},
+		{
+			"description": "Tras usar Regalo de Harrah, aumenta el daño eléctrico un **NaN%** adicional por **NaN**seg.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		}
+	],
+	"id": "rubilia_thunder"
+}

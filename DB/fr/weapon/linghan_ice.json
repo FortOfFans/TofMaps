@@ -1,0 +1,187 @@
+{
+	"name": "Tigre d'albâtre",
+	"avatar": {
+		"name": "Ling Han",
+		"advanceId": "imitation_43L1",
+		"weapon": "linghan_ice",
+		"icon": "imitation_43",
+		"avatarID": "linghan",
+		"age": "7juin",
+		"height": "181cm",
+		"gender": "Féminin",
+		"state": "Pavillonde Longjian",
+		"city": "Villemarais",
+		"rating": "wuwei_imitation_43",
+		"gp": [
+			"collection",
+			"decorate",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : kiyo"
+			},
+			{
+				"Japanese": "CV : 原 由実"
+			},
+			{
+				"English": "CV : Dominique North"
+			},
+			{
+				"Korean": "CV : 김윤채"
+			},
+			{
+				"Portuguese": "CV : SAMIRA FERNANDES"
+			}
+		],
+		"id": "imitation_43"
+	},
+	"description": "Derrière la danse divine de mon épée et mes manches virevoltantes, qui peut sonder le fond de mon cœur ?",
+	"icon": "item_Weapon_SSR_Linghan_Ice01",
+	"gachaIcon": "UI_SSR_lh_linghan",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Linghan",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "Linghan_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Technique de l'épée : Taille-lune",
+				"description": "Lorsque vous êtes au sol, utilisez l'attaque normale pour lancer 6attaques d'affilée.\r\nPremière attaque: inflige des dégâts équivalant à **97.8%** de l'ATQ + **587** et repousse la cible.\r\nDeuxième attaque: inflige des dégâts équivalant à **129.4%** de l'ATQ + **776** et repousse la cible.\r\nTroisième attaque: inflige des dégâts équivalant à **207.2%** de l'ATQ +**1243** et repousse la cible.\r\nQuatrième attaque: inflige des dégâts équivalant à **125%** de l'ATQ + **750** et repousse la cible.\r\nCinquième attaque: inflige des dégâts équivalant à **226%** de l'ATQ + **1356** et attire les ennemis en face de l'Explorateur.\r\nSixième attaque: inflige des dégâts équivalant à **253.6%** de l'ATQ + **1521** et projette la cible.\r\nAprès avoir déclenché Technique de l'épée: Taille-lune, appuyez et maintenez Attaque normale pour déclencher **Technique de l'épée: Neige éternelle**.\r\n\r\nLorsqu'une attaque normale de **Tigre d'albâtre** touche une cible, applique **1**cumul de **Fissure cristalline** à la cible, lui infligeant des dégâts d'attaque normale équivalant à **48%** de l'ATQ chaque seconde pendant **15**secondes. Seul **1**cumul de Fissure cristalline peut être appliqué à la même cible toutes les **4**secondes. Cumulable jusqu'à **3**fois. Les cumuls disparaissent un par un lorsque l'effet prend fin.",
+				"icon": "skill_linghan_melee",
+				"id": "GA_FPlayerLinghanMelee_Melee"
+			},
+			{
+				"name": "Technique de l'épée : Cri de l'épée",
+				"description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour lancer 6attaques consécutives en l'air, consommant de l'endurance.\r\nPremière attaque: inflige des dégâts équivalant à **95.9%** de l'ATQ + **575**.\r\nDeuxième attaque: inflige des dégâts équivalant à **100.7%** de l'ATQ + **604**.\r\nTroisième attaque: inflige des dégâts équivalant à **218.6%** de l'ATQ + **1311**.\r\nQuatrième attaque: inflige des dégâts équivalant à **130%** de l'ATQ + **780**.\r\nCinquième attaque: inflige des dégâts équivalant à **213.7%** de l'ATQ + **1282**.\r\nSixième attaque: inflige des dégâts équivalant à **256.9%** de l'ATQ + **1541**.",
+				"icon": "skill_linghan_airattack",
+				"id": "GA_FPlayerLinghanMelee_AirAttack"
+			},
+			{
+				"name": "Technique de l'épée : Neige éternelle",
+				"description": "Lorsque vous utilisez l'attaque normale au sol, appuyez et maintenez Attaque normale pour déclencher Technique de l'épée: Neige éternelle.\r\nManipulez l'épée par la pensée tout en consommant de l'endurance, pendant que l'Explorateur gagne Hypercorps. Chaque attaque réussie inflige des dégâts équivalant à **140.8%** de l'ATQ + **845** aux cibles proches.\r\nLorsque Technique de l'épée: Neige éternelle se termine, libère une puissante aura d'épée, infligeant des dégâts équivalant à **422.4%** de l'ATQ + **2534** aux cibles proches.",
+				"icon": "skill_linghan_powerattack",
+				"id": "GA_FPlayerLinghanMelee_PowerAttack"
+			},
+			{
+				"name": "Technique de l'épée : Chute de givre",
+				"description": "Appuyez et maintenez Attaque normale en l'air (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Technique de l'épée: Chute de givre.\r\nEn descendant, vous infligez des dégâts équivalant à **75%** de l'ATQ + **450** chaque fois qu'une cible est touchée. À l'atterrissage, vous infligez des dégâts équivalant à **366.7%** de l'ATQ + **2200** aux cibles proches.",
+				"icon": "skill_linghan_jumpattack",
+				"id": "GA_FPlayerLinghanMelee_JumpAttack"
+			},
+			{
+				"name": "Pas léger",
+				"description": "Pendant que l'Explorateur est dans les airs après un double saut, appuyez sur Sauter pour déclencher Pas léger. Effectuez une brève ruée vers le haut avant de redescendre en glissant. Dans les airs, Pas léger peut être utilisé jusqu'à **2**fois.\r\nAu sol, Pas léger récupère **1**tentative d'utilisation toutes les **10**secondes (changer de zone ou déséquiper **Tigre d'albâtre** réinitialise les tentatives d'utilisation).",
+				"icon": "skill_linghan_qinggong",
+				"id": "GA_FPlayerLinghanMelee_QingGong"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerLinghanEvade_Evade"
+			},
+			{
+				"name": "Technique de l'épée : Nuages en cascade",
+				"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez un bouton directionnel avant d'esquiver) pour déclencher Technique de l'épée: Nuages en cascade, infligeant des dégâts équivalant au maximum à **305%** de l'ATQ + **1830** aux cibles touchées.",
+				"icon": "skill_linghan_fevadeattack",
+				"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Technique de l'épée : Âme mortelle",
+				"description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Technique de l'épée: Âme mortelle. Crée une illusion en forme de Tigre blanc, infligeant des dégâts équivalant à **174.3%** de l'ATQ + **1046** aux cibles en vue.",
+				"icon": "skill_linghan_bevadeattack",
+				"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Technique de l'épée: Glace ombrée",
+				"description": "Inflige des dégâts équivalant à **370.2%** de l'ATQ + **2221** aux cibles proches et les attire. Forme ensuite un Réseau d'épées qui fait s'abattre une pluie d'épées et **gèle longuement** les cibles (non disponible en Ligue ultime et contre les boss) pendant **4**secondes. Temps de recharge: **30**secondes.\r\nAprès avoir réussi Technique de l'épée: Glace ombrée, l'Explorateur diffuse de l'**Air froid**, infligeant des dégâts équivalant à **68%** de l'ATQ aux cibles proches chaque seconde et réduisant leur vitesse de **30%** (non disponible en Ligue ultime et contre les boss). Accroît simultanément les dégâts de givre de l'Explorateur de **8%** pendant **35**secondes.\r\nAprès avoir exécuté Technique de l'épée: Glace ombrée jusqu'au bout, l'Explorateur crée un grand nombre de **Lames de givre** et lance **1**lame toutes les **7,5**secondes à la cible verrouillée, lui infligeant des dégâts équivalant à **360%** de l'ATQ ainsi que l'effet **Réduction de température**. Jusqu'à **3****Lames de givre** peuvent être créées au début, et toutes les lames disparaissent en état hors combat.\r\n**Réduction de température**: inflige des dégâts aux cibles proches équivalant à **240%** de l'ATQ toutes les **3**secondes pendant **12**secondes.",
+				"icon": "skill_linghan_skill",
+				"id": "GA_FPlayerLinghanSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Technique de l'épée: Appel glacé",
+				"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, au moment où vous changez d'arme pour passer à celle-ci, **élimine toutes les altérations sur l'Explorateur** et invoque un Réseau d'épées autour de lui, plongeant la zone dans le froid et infligeant des dégâts équivalant au maximum à **844.5%** de l'ATQ + **5067** aux cibles proches. Peu après, invoque un Tigre blanc, infligeant des dégâts équivalant à **1971%** de l'ATQ + **11825**. Pendant cette compétence, l'immunité aux dégâts dure **1,5**secondes (non disponible en Ligue ultime).\r\n**Effet passif**: lorsque Technique de l'épée: Appel glacé touche une cible, accroît les dégâts finaux de **8%** pendant **30**secondes.",
+				"icon": "skill_linghan_changeskill",
+				"id": "GA_FPlayerLinghanChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Froid extrême: Décharge**: après avoir utilisé **Technique de l'épée: Glace ombrée**, inflige chaque seconde des dégâts équivalant à **70%** de l'ATQ de givre + **10%** des PV max de l'Explorateur + **36%** de la somme de tous les types de résistance de l'Explorateur + **135%** de crit pendant **30**secondes. Les dégâts de Décharge multiple ne se cumulent pas et les dégâts de Froid extrême sont comptabilisés comme des dégâts de la compétence. Si **1**arme de foudre, de feu ou physique est équipée, les dégâts de Froid extrême sont multipliés par **1.3**. Par ailleurs, les dégâts de Froid extrême ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent aucun effet d'attaque supplémentaire.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Après avoir lancé des **Lames de givre**, accroît les dégâts de givre de l'Explorateur de **10%** et inflige aux cibles proches des dégâts équivalant à **104%** de l'ATQ chaque seconde pendant **30**secondes.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "L'Explorateur peut faire apparaître jusqu'à **4****Lames de givre** et le multiplicateur de base des dégâts de **Réduction de température** passe à **468%**.\r\nSi une seule cible est affectée par **Réduction de température** dans un délai de **6**secondes, inflige également l'effet **Veine scellée** à la cible, réduisant sa vitesse de **30%** (non disponible en Ligue ultime et contre les boss). Si la cible subit à nouveau des dégâts de **Lame de givre** pendant la durée de **Veine scellée**, déclenche Explosion de glace, infligeant des dégâts de la compétence équivalant à **1700%** de l'ATQ + **2%** des PV perdus de la cible à ce moment-là (les dégâts d'Explosion de glace ne seront pas inférieurs à **2000%** ni supérieurs à **2200%** de l'ATQ de givre de l'Explorateur). Supprime ensuite les effets **Veine scellée** et **Réduction de température** de la cible.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "Accroît les dégâts infligés par **Fissure cristalline** et **Air froid** de **50%** supplémentaires. Accroît les tentatives d'utilisation de **Pas léger** de **10**, ainsi que le taux de récupération de **1**tentative toutes les **3**secondes.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "L'effet **Réduction de température** infligé après avoir lancé **Lames de givre** s'applique désormais à une zone et inflige aux cibles proches des dégâts supplémentaires équivalant à **1170%** de l'ATQ.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		}
+	],
+	"id": "linghan_ice"
+}

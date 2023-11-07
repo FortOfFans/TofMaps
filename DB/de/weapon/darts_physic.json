@@ -1,0 +1,180 @@
+{
+	"name": "Chakram der Meere",
+	"avatar": {
+		"name": "Shiro",
+		"advanceId": "imitation_8L1",
+		"weapon": "darts_physic",
+		"icon": "imitation_8",
+		"avatarID": "xiluo",
+		"age": "22. September",
+		"height": "163 cm",
+		"gender": "Weiblich",
+		"state": "Unbekannt",
+		"city": "Warren",
+		"rating": "wuwei_imitation_8",
+		"gp": [
+			"metal",
+			"collection",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 蔡娜"
+			},
+			{
+				"Japanese": "CV : 小澤 亜李"
+			},
+			{
+				"English": "CV : Kristen McGuire"
+			},
+			{
+				"Korean": "CV : 양정화"
+			},
+			{
+				"Portuguese": "CV : Fernanda Bullara"
+			}
+		],
+		"id": "imitation_8"
+	},
+	"description": "Eine runde und scharfe Waffe, die mit ihrem Besitzer weit über die Meere gereist ist.",
+	"icon": "item_Weapon_SSR_Darts_Phy01",
+	"gachaIcon": "SSR_lh_hr",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Darts",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "darts_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Schnellwurf",
+				"description": "Der Anwender schwingt am Boden das Chakram, um 5Wirbelangriffe hintereinander zu entfesseln.\r\nErster Angriff: Verursacht Schaden in Höhe von **35.3%** des ANG +**212**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **27.4%** des ANG +**164**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **39.1%** des ANG +**235**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **35.3%** des ANG +**212**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **61.9%** des ANG +**371** und stößt das Ziel eine kurze Strecke zurück.",
+				"icon": "skill_darts_melee",
+				"id": "GA_FPlayerDartsMelee_Melee"
+			},
+			{
+				"name": "Luftsprengung",
+				"description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 3 Drehangriffe hintereinander zu entfesseln.\r\nErster Angriff: Verursacht Schaden in Höhe von **30.1%** des ANG +**181**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **33.6%** des ANG +**201**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **42.8%** des ANG +**256**.",
+				"icon": "skill_darts_air",
+				"id": "GA_FPlayerDartsMelee_AirAttack"
+			},
+			{
+				"name": "Verstreuen",
+				"description": "Halte nach dem zweiten normalen Angriff die Angriffstaste gedrückt, um „Verstreuen“ zu aktivieren.\r\nDies feuert fünf durchdringende Chakrams nach vorne, die jeweils Schaden in Höhe von **50%** des ANG +**300** und einen leichten Rückstoß verursachen.",
+				"icon": "skill_darts_branch",
+				"id": "GA_FPlayerDartsMelee_Branch"
+			},
+			{
+				"name": "Luftwirbel",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um Luftwirbel auszulösen.\r\nEntfessle einen mächtigen Schlag, der dem Ziel und Gegnern in der Nähe Schaden in Höhe von **220.2%** des ANG +**1321** zufügt und sie schweben lässt.",
+				"icon": "skill_darts_jump",
+				"id": "GA_FPlayerDartsMelee_JumpAttack"
+			},
+			{
+				"name": "Schleichattacke",
+				"description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von **491.6%** des ANG +**2950** verursacht.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerDartsMelee_Sneak"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Abnehmender Mond",
+				"description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um „Abnehmender Mond“ auszulösen.\r\nWirft ein sich drehendes Chakram nach vorne, das dem Ziel Schaden in Höhe von **152.8%** des ANG +**917** zufügt und für **0,5** Sekunden einen **Betäuben-Effekt** verursacht. Das Chakram teilt sich dann in **3** Teile, die weiter nach vorne fliegen und Zielen in ihrem Weg Schaden in Höhe von **27.8%** des ANG +**167** zufügen. **Gespaltene Chakrams prallen während „Der blühende Tod“ ab**.",
+				"icon": "skill_darts_backattack",
+				"id": "GA_FPlayerDartsEvade_BackAttack"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für **0,5** Sek. immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerDartsEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Der blühende Tod",
+				"description": "Erzeugt für **8** Sek. einen Chakramsturm um den Wanderer. Gleichzeitig werden Gegner angezogen und ihre Geschwindigkeit für **8** Sek. um **30%** verringert. Feuert **5** Chakrams ab, die zwischen Gegnern hin- und herspringen und Zielen im Weg Schaden in Höhe von **27.8%** des ANG +**167** zufügen, wobei sie bis zu **5**-mal an Gegnern abprallen. **Die durch „Abnehmender Mond“ ausgelösten gespaltenen Chakrams prallen ebenfalls bis zu 5-mal ab.** Abklingzeit: **45** Sek.",
+				"icon": "darts_skill",
+				"id": "GA_FPlayerDartsSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Geist der Lüfte",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und „Chakram der Meere“ auf das Ziel losgelassen. Das getroffene Ziel verursacht für **1** Sek. einen **Betäuben**-Effekt über eine Fläche. Zusätzlich erfolgt pro Sek. jeweils **1** Angriff gegen bis zu **3** Einheiten (jeder Angriff hat eine Chance von **10%**, das Ziel für **1,5** Sek. zu **betäuben**). Dies verursacht für **10** Sek. Schaden in Höhe von **49.7%** × ANG +**298**.",
+				"icon": "skill_darts_changeskill",
+				"id": "GA_FPlayerDartsChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "None"
+		},
+		{
+			"description": "Erhöht den verursachten Schaden und alle elementaren Zertrümmern-Effekte auf Zielen innerhalb der Reichweite von **Der blühende Tod** um **30%**.",
+			"stats": {
+				"shatter": 11.4,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 11.4,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Erhöht „Zertrümmern“ um **15%** und setzt alle Waffenfähigkeit-Abklingzeiten zurück, wenn der Schild des Ziels zertrümmert wird. Kann nur einmal pro **30** Sek. ausgelöst werden.",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Der Angriff auf ein Ziel mit „Verwunden“ verlängert dessen Dauer um zusätzliche **7** Sek. Dieser Effekt kann nur einmal ausgelöst werden.",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Gewährt nach der Verwendung von **Der blühende Tod** für die nächsten **8** Sek. eine kritische Trefferchance von 100%.",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		}
+	],
+	"id": "darts_physic"
+}

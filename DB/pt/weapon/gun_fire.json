@@ -1,0 +1,181 @@
+{
+	"name": "Revólver Explosivo",
+	"avatar": {
+		"name": "Cobalt-B",
+		"advanceId": "imitation_10L1",
+		"weapon": "gun_fire",
+		"icon": "imitation_10",
+		"avatarID": "gulan",
+		"age": "26 de junho",
+		"height": "1,57m",
+		"gender": "Feminino",
+		"state": "Banges Tech",
+		"city": "Coroado",
+		"rating": "wuwei_imitation_10",
+		"gp": [
+			"metal",
+			"collection",
+			"restrictedGoods"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈睿婕"
+			},
+			{
+				"Japanese": "CV : 川澄 綾子"
+			},
+			{
+				"English": "CV : Stephanie Kerbis"
+			},
+			{
+				"Korean": "CV : 김예림"
+			},
+			{
+				"Portuguese": "CV : Jussara Marques"
+			}
+		],
+		"id": "imitation_10"
+	},
+	"description": "Inventado por um cientista louco. Com estatísticas de teste impressionantes, não dá nem para imaginar o quanto deve ser poderoso em sua capacidade plena.",
+	"icon": "item_Weapon_SSR_Gun_Fire01",
+	"gachaIcon": "SSR_lh_zl",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Gun",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "gun_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Ataque Normal",
+				"description": "No chão, use o ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano total de **52.3%** do ATQ + **314**.\r\nSegundo ataque: Causa dano total de **75.6%** do ATQ + **454**.\r\nTerceiro ataque: Causa dano total de **94.5%** do ATQ + **567**.\r\nQuarto ataque: Causa dano total de **142.8%** do ATQ + **857**.\r\nQuinto ataque: Causa dano total de **137.8%** do ATQ + **827**.",
+				"icon": "pugong_gun",
+				"id": "GA_FPlayerGunMelee_New_Melee"
+			},
+			{
+				"name": "Tiro Concentrado",
+				"description": "Segure o botão de ataque normal para concentrar um ataque, então solte para disparar projéteis que causam dano de **95.4%** do ATQ + **572** mais uma explosão 3 segundos depois (ou se o alvo for abatido). Causa dano de **23.9%** do ATQ a alvos próximos. O dano aumenta e a área de efeito duplica cada vez que um alvo sofre dano durante a explosão (até **4** vezes).",
+				"icon": "skill_gun_power",
+				"id": "GA_FPlayerGunMelee_New_PowerAttack"
+			},
+			{
+				"name": "Explosão Elevada",
+				"description": "No ar ou após pular uma vez, use Explosão Elevada.\r\nArremessa uma bomba que causa dano de **90.8%** do ATQ + **545** a inimigos em um círculo adiante, repelindo-os uma curta distância. Consome **250** de vigor.",
+				"icon": "skill_gun_jump",
+				"id": "GA_FPlayerGunMelee_New_JumpAttack"
+			},
+			{
+				"name": "Detonação Aérea",
+				"description": "Dê um salto duplo para usar Detonação Aérea.\r\nDispara um feixe de Omnium para baixo. O feixe se estende para frente e causa dano de **33.8%** do ATQ + **203**.",
+				"icon": "skill_gun_air",
+				"id": "GA_FPlayerGunMelee_New_AirAttack"
+			},
+			{
+				"name": "Bombardeio Intenso",
+				"description": "Segure o botão de ataque durante um ataque normal para atirar adiante. Causa em área um dano total de **102%** do ATQ + **612** a inimigos.",
+				"icon": "skill_gun_branch",
+				"id": "GA_FPlayerGunMelee_New_Branch"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Tempo de recarga: 15 segundos. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerGunEvade_New_Evade"
+			},
+			{
+				"name": "Curta Distância",
+				"description": "Use o botão de ataque normal logo após se esquivar para usar Curta Distância.\r\nCausa dano de **156.1%** do ATQ + **937** a alvos em uma área cônica frontal.",
+				"icon": "skill_gun_frontattack",
+				"id": "GA_FPlayerGunEvade_New_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Mensagem em tela",
+				"description": "Causa dano contínuo em uma área cônica à frente, causando dano de **705.1%** do ATQ + **4231**. Tempo de recarga: **60** seg.",
+				"icon": "gun_skill",
+				"id": "GA_FPlayerGunSkill_New"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Chuva de Bombas",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e arremessa **3** granadas para frente. Causa em área um dano total de **570%** do ATQ + **3420** e **lançamento aéreo**.",
+				"icon": "skill_gun_changeskill",
+				"id": "GA_FPlayerGunChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância ígnea**: aumenta o ATQ ígneo em **15%** e a resistência ígnea em **25%**. Ativa-se ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Cada saraivada de tiros de Barragem Incinerante causa dano adicional equivalente a **0%** da vida atual do alvo (até **1%** do ATQ).",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "A habilidade encadeada Bombardeio Intenso e o ataque de esquiva Curta Distância infligem **queima iônica** a alvos que já estejam queimando, causando dano ígneo equivalente a **40%** do ATQ deles por segundo durante **10** segundos.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "O dano da **queima iônica** aumenta em até **60%** do ATQ. Ataques bem-sucedidos com a habilidade de esquiva de qualquer arma reiniciam a duração da **queima iônica**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "**Barragem Incinerante** tem **15** segundos de efeito de queimadura. Ataques bem-sucedidos com a habilidade de esquiva de qualquer arma reduzem o tempo de recarga de **Barragem Incinerante** em **4** segundos. Tempo de recarga do efeito: **1,5** seg. O dano prolongado da habilidade de esquiva também desencadeia um efeito de redução de tempo de recarga.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		}
+	],
+	"id": "gun_fire"
+}

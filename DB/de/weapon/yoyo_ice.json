@@ -1,0 +1,188 @@
+{
+	"name": "Prunkstück",
+	"avatar": {
+		"name": "Ikarus",
+		"advanceId": "imitation_35L1",
+		"weapon": "yoyo_ice",
+		"icon": "imitation_35",
+		"avatarID": "yikaluosi",
+		"age": "24. Oktober",
+		"height": "161cm",
+		"gender": "Männlich",
+		"state": "Mookes Team",
+		"city": "Hykros",
+		"rating": "wuwei_imitation_35",
+		"gp": [
+			"collection",
+			"metal",
+			"Vera",
+			"Asshai"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 沐霏"
+			},
+			{
+				"Japanese": "CV : 梶原 岳人"
+			},
+			{
+				"English": "CV : RyMcKeand"
+			},
+			{
+				"Korean": "CV : 김유림"
+			},
+			{
+				"Portuguese": "CV : Úrsula Bezerra"
+			}
+		],
+		"id": "imitation_35"
+	},
+	"description": "Eine seltene Sammlerwaffe, die mit einzigartigen, beliebten Nachrüstungen verschmolzen ist. Möge der Träger mit Mut in die trostlose Dunkelheit voranschreiten, selbst wenn es einen wie die Motte zur Flamme zieht.",
+	"icon": "item_Weapon_SSR_yoyo_Ice01",
+	"gachaIcon": "SSR_lh_yikaluosi",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "YoYo",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "yoyo_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Beißende Kälte",
+				"description": "Nutzt den normalen Angriff auf dem Boden, um 5-mal hintereinander anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **112.1%** des ANG + **673** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **130.5%** des ANG + **783** und bringt das Ziel zu Fall.\r\nDritter Angriff: Verursacht Schaden in Höhe von **213.2%** des ANG + **1279** und lässt das Ziel schweben.\r\nVierter Angriff: Verursacht Schaden in Höhe von **329%** des ANG + **1974** und stößt das Ziel zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **222.5%** des ANG + **1335** und schleudert das Ziel hoch.",
+				"icon": "skill_iceyoyo_pugong",
+				"id": "GA_FPlayerYoyoMelee_Melee"
+			},
+			{
+				"name": "Tauwetter",
+				"description": "Setze in der Luft einen normalen Angriff ein, um Ausdauer zu verbrauchen und 5-mal hintereinander anzugreifen.\r\nErster Angriff: verursacht Schaden in Höhe von **132.2%** des ANG + **793**.\r\nZweiter Angriff: verursacht Schaden in Höhe von **158.6%** des ANG + **952**.\r\nDritter Angriff: verursacht Schaden in Höhe von **248.6%** des ANG + **1491**.\r\nVierter Angriff: verursacht Schaden in Höhe von **343.5%** des ANG + **2061**.\r\nFünfter Angriff: verursacht Schaden in Höhe von **334.5%** des ANG + **2007** und schleudert das Ziel hoch.",
+				"icon": "skill_iceyoyo_airattack",
+				"id": "GA_FPlayerYoyoMelee_AirAttack"
+			},
+			{
+				"name": "Durchdringende Kälte",
+				"description": "Tippe und halte den normalen Angriff auf dem Boden während normaler Angriffe gedrückt, um „Durchdringende Kälte“ auszulösen. Dies verursacht Schaden in Höhe von **345.1%** des ANG + **2070**.",
+				"icon": "skill_iceyoyo_branch",
+				"id": "GA_FPlayerYoyoMelee_Branch"
+			},
+			{
+				"name": "Kälteschock",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder verwende den normalen Angriff, während du kletterst, zurückspringst oder ein Jetpack einsetzt, um „Kälteschock“ auszulösen.\r\nWährend des Fallens wird pro Treffer Schaden in Höhe von **57.5%** des ANG + **345** verursacht. Fügt dem Ziel beim Landen Schaden in Höhe von **344.9%** des ANG + **2069** und schleudert es hoch.",
+				"icon": "skill_iceyoyo_airbranch",
+				"id": "GA_FPlayerYoyoMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerYoyoEvade_Evade"
+			},
+			{
+				"name": "Schneegestöber",
+				"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste), um „Schneegestöber“ auszulösen, was bei Zielen in der Nähe Schaden in Höhe von **162.8%** des ANG + **977** verursacht.",
+				"icon": "skill_iceyoyo_frontattack",
+				"id": "GA_FPlayerYoyoEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Wintersonnenwende",
+				"description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um „Wintersonnenwende“ auszulösen, was Zielen in der Nähe Schaden in Höhe von **162.9%** des ANG + **977** zufügt.",
+				"icon": "skill_iceyoyo_backattack",
+				"id": "GA_FPlayerYoyoEvadeAttack_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Trostloser Tag",
+				"description": "Fügt Zielen in der Nähe Schaden in Höhe von bis zu **660%** des ANG + **3960** zu und erzeugt 2 reguläre „Rasante Jo-Jos“. Abklingzeit: **60**Sek. Die Geschwindigkeit von Zielen in Reichweite von „Trostloser Tag“ wird um **50%** verringert (hat keine Auswirkung auf Wanderer oder Bosse).\r\nJedes „Rasante Jo-Jo“ durchquert das Zentrum der Flugbahn etwa 4-mal pro Bewegungszyklus und fügt Zielen in der Flugbahn dabei für **70**Sek. Schaden in Höhe von **30%** des ANG + **180** zu. Der Bewegungszyklus hält 4 Sekunden lang an, wenn die Waffe 0 Sterne hat. Wird während dieser Zeit „Trostloser Tag“ verwendet, werden die Position und die Dauer von „Rasantes Jo-Jo“ zurückgesetzt. Abklingzeit: **4**Sek.\r\nWährend „Trostloser Tag“ eingesetzt wird, wird der erlittene Schaden um **50%** reduziert und es werden **5%** der max. LP wiederhergestellt. Wird nicht von Heilungsbonuseffekten beeinflusst. Wiederherstellung und Schadensreduktion haben in der Apex-Liga keinen Effekt.",
+				"icon": "skill_iceyoyo_skill",
+				"id": "GA_FPlayerYoyoSkill_Skill"
+			},
+			{
+				"name": "Rückkehr zur Einsamkeit",
+				"description": "Verwendet „Begrenztes Wissen“, um bis zu **2** Nutzungen der neuen Fähigkeit „Rückkehr zur Einsamkeit“ zu erhalten. Diese Fähigkeit kann nur verwendet werden, während „Trostloser Tag“ in der Abklingzeit ist. Verursacht Fähigkeitsschaden in Höhe von **440%** des ANG + **2640**. Während die Fähigkeit eingesetzt wird, wird der erlittene Schaden um **50%** reduziert und es werden **5%** der max. LP wiederhergestellt. Erhaltene oder gewährende Effekte, die Heilungsboni verursachen, wirken sich darauf nicht aus. Wiederherstellung und Schadensreduktion haben in der Apex-Liga keinen Effekt.\r\nWährend „Standhaftigkeit-Resonanz“ aktiv ist: Verwendet „Rückkehr zur Einsamkeit“ und verspottet Ziele in der Nähe, um **20**Sek. lang **1**Stapel „Blockschild“ (bis zu **3**Stapel) zu erhalten. Die **Blockpunkte** entsprechen der **Summe der 5 Widerstandsarten des Wanderers**. Wenn „Blockschild“ verbraucht ist oder überläuft, fügst du dem Hauptziel Schaden in Höhe von **200% der Blockpunkte** zu.\r\nWährend „Segnungsresonanz“ aktiv ist: Die Verwendung von „Rückkehr zur Einsamkeit“ gegen Ziele mit mehr als **95%** LP fügt ihnen Schaden in Höhe von **8%** ihrer jeweiligen max. LP zu (hat keine Auswirkung auf Wanderer). Schadensboni oder Schadensreduktionen haben keine Auswirkung auf diesen Effekt.",
+				"icon": "skill_iceyoyo_skill1",
+				"id": "GA_FPlayerYoyoSkill_SkillSpec"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Begrenztes Wissen",
+				"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Dies fügt Zielen in der Nähe Schaden in Höhe von **1113.9%** des ANG + **6683** zu und schleudert das Ziel hoch. Währenddessen erhältst du für **1,5**Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).",
+				"icon": "skill_iceyoyo_changeskill",
+				"id": "GA_FPlayerYoyoChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Elementarist**: Der Endschaden wird für **jede** Art von ausgerüstetem Waffenelement um **NaN%** erhöht. Der Set-Effekt funktioniert auch im Nebenhand-Slot.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Wenn eine beliebige Waffenfähigkeit eingesetzt wird, kann „Rasantes Jo-Jo“ **Harmonie** auslösen, was Zielen in der Nähe Schaden in Höhe von **NaN%** ihrer verlorenen LP zufügt. Der verursachte Schaden beträgt mindestens **NaN%** und höchstens **NaN%** des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.\r\nWenn eine beliebige Waffenentladung eingesetzt wird, kann „Rasantes Jo-Jo“ **Tuning** auslösen, was Zielen in der Nähe Schaden in Höhe von **NaN%** der max. LP des Wanderers zufügt. Der verursachte Schaden beträgt höchstens **NaN%** des max. ANG des Wanderers. Die Art des zugefügten Elementarschadens ist die der aktuellen Waffe.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Wenn „Trostloser Tag“ verwendet wird, kann „Rasantes Jo-Jo“ für **NaN**Sek. **Schnelligkeit** auslösen: Die Geschwindigkeit von „Rasantes Jo-Jo“ wird um **NaN%** erhöht, der Schaden wird um **160%** erhöht und der Schaden, der beim Passieren des Ziels entsteht, wird in geringfügigen Flächenschaden umgewandelt.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Erhöht den Schaden von „Rasantes Jo-Jo“ und „Rückkehr zur Einsamkeit“ um **NaN%**.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Erhöht den Endschaden um **NaN%**, während „Rasantes Jo-Jo“ aktiv ist.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		}
+	],
+	"id": "yoyo_ice"
+}

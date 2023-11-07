@@ -1,0 +1,179 @@
+{
+	"name": "Cajado das Cicatrizes",
+	"avatar": {
+		"name": "Pepper",
+		"weapon": "stave_thunder",
+		"icon": "imitation_14",
+		"avatarID": "peipei",
+		"age": "9 de julho",
+		"height": "1,60m",
+		"gender": "Feminino",
+		"state": "Departamento Médico da Hykros",
+		"city": "Banges",
+		"rating": "wuwei_imitation_14",
+		"gp": [
+			"everydayObjects",
+			"decorate",
+			"collection"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 王雅欣"
+			},
+			{
+				"Japanese": "CV : 能登 麻美子"
+			},
+			{
+				"English": "CV : Kayli Mills"
+			},
+			{
+				"Korean": "CV : 김가령"
+			},
+			{
+				"Portuguese": "CV : Flávia Narciso"
+			}
+		],
+		"id": "imitation_14"
+	},
+	"description": "Um cajado mecânico com o entalhe de uma cruz. Capaz de perdoar pecados e impor castigos.",
+	"icon": "item_Weapon_SR_Stave_Thunder01",
+	"gachaIcon": "sr_lh_shqz",
+	"rarity": "SR",
+	"element": "Thunder",
+	"weaponType": "Staves",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_thunder": 28,
+		"Item_Mine_thunder_02": 42,
+		"Item_breakthrough_A2": 42,
+		"Item_breakthrough_C2": 42,
+		"Item_Mine_thunder_03": 22,
+		"Item_breakthrough_A3": 22,
+		"Item_breakthrough_C3": 22,
+		"Item_breakthrough_A1": 25,
+		"Item_breakthrough_C1": 23
+	},
+	"advanceID": "stave_thunder_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Ataque Normal",
+				"description": "No chão, branda o cajado para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **33.9%** do ATQ + **203**.\r\nSegundo ataque: Causa dano de **25.4%** do ATQ + **152**.\r\nTerceiro ataque: Causa dano de **41%** do ATQ + **246**.\r\nQuarto ataque: Causa dano de **56.1%** do ATQ + **337**.\r\nQuinto ataque: Causa dano de **98.8%** do ATQ + **593**.",
+				"icon": "pugong_staves",
+				"id": "GA_FPlayerStavesMelee_Melee"
+			},
+			{
+				"name": "Cajadada Elevada",
+				"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **43.9%** do ATQ + **263**.\r\nSegundo ataque: Causa dano de **31.7%** do ATQ + **190**.\r\nTerceiro ataque: Causa dano de **34.4%** do ATQ + **206**.\r\nQuarto ataque: Causa dano de **61.6%** do ATQ + **370**.\r\nQuinto ataque: Causa dano de **64.3%** do ATQ + **386**.",
+				"icon": "skill_staves_air",
+				"id": "GA_FPlayerStavesMelee_AirAttack"
+			},
+			{
+				"name": "Lua Cadente",
+				"description": "No ar, segure o botão de ataque normal para usar Lua Cadente.\r\nAo aterrissar, causa dano uma vez a cada **0,2** segundo, totalizando dano de **77.2%** do ATQ + **463**.",
+				"icon": "skill_staves_jump",
+				"id": "GA_FPlayerStavesMelee_JumpAttack"
+			},
+			{
+				"name": "Ataque Determinado",
+				"description": "Após o terceiro ataque normal, mantenha o botão pressionado para desferir ataques encadeados, o que consome **300** de vigor.\r\nPrimeiro ataque: Puxa inimigos que estão na sua frente, os **suspende muito** e causa dano de **21.7%** do ATQ + **130** a cada **0,3** segundo (no máximo **4** vezes).\r\nSegundo ataque: A cada **0,3** segundo, causa dano de **25.2%** do ATQ + **151** ao alvo e a alvos próximos.",
+				"icon": "skill_staves_branch",
+				"id": "GA_FPlayerStavesMelee_Branch"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Tempo de recarga: 15 segundos. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerStavesEvade_Evade"
+			},
+			{
+				"name": "Ondulação",
+				"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para acionar Ondulação.\r\nCada pulso energético causa dano de **30.5%** do ATQ + **183** a alvos.\r\nRecupera **75** pontos de carga de arma ao usar.",
+				"icon": "skill_staves_frontattack",
+				"id": "GA_FPlayerStavesEvade_FrontAttack"
+			},
+			{
+				"name": "Tesserato",
+				"description": "Use o botão de ataque normal logo após se esquivar para usar Explosão Evasiva.\r\nDispara um orbe de energia para frente. A cada **0,3** segundo, causa dano de **43.3%** do ATQ + **260** a alvos no caminho (no máximo 5 vezes).\r\nRecupera **75** pontos de carga de arma ao usar.",
+				"icon": "skill_staves_frontattack",
+				"id": "GA_FPlayerStavesEvade_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Santuário",
+				"description": "Cria um escudo energético na posição do Errante. Cura aliados dentro do escudo em **81.7%** do ATQ + **490** por segundo e reduz o dano sofrido por eles em **3%** durante **10** segundos. Tempo de recarga: **60** seg.",
+				"icon": "staves_skill1",
+				"id": "GA_FPlayerStavesSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Livramento",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você**. O cajado continua removendo efeitos negativos de você e de aliados, além de curar vocês o equivalente a **79%** do ATQ + **474** durante **7** segundos.",
+				"icon": "skill_staves_changeskill",
+				"id": "GA_FPlayerStavesChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 4,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Cura todos os colegas em um raio de **10** metros em **100%** do ATQ após usar uma habilidade de esquiva.",
+			"stats": {
+				"shatter": 4,
+				"charge": 10
+			},
+			"need": "stave_thunder_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento da vida mínima da arma atual em **10%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 10
+			},
+			"need": "stave_thunder_plasm"
+		},
+		{
+			"description": "Ataques normais também disparam dois mísseis. Cada um causa dano de **5%** do ATQ ao alvo e restaura **5** pontos de carga de arma.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.2
+			},
+			"need": "stave_thunder_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento da vida mínima da arma atual em **20%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.2
+			},
+			"need": "stave_thunder_plasm"
+		},
+		{
+			"description": "Aumenta a velocidade de obtenção de carga de arma em **20%** (não conta para ataques de mísseis).",
+			"stats": {
+				"shatter": 4,
+				"charge": 13.2
+			},
+			"need": "stave_thunder_plasm"
+		},
+		{
+			"description": "Quando uma habilidade anular efeitos de controle do alvo, confere **60%** de redução de dano a todos os colegas dentro do raio.",
+			"stats": {
+				"shatter": 4,
+				"charge": 13.2
+			},
+			"need": "stave_thunder_plasm"
+		}
+	],
+	"id": "stave_thunder"
+}

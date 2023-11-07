@@ -1,0 +1,193 @@
+{
+	"name": "Minifuracão",
+	"avatar": {
+		"name": "Gnonno",
+		"advanceId": "imitation_27L1",
+		"weapon": "chainsaw_physic",
+		"icon": "imitation_27",
+		"avatarID": "genuonuo",
+		"age": "6 de março",
+		"height": "1,34 m",
+		"gender": "Feminino",
+		"state": "Desconhecido",
+		"city": "Innars",
+		"rating": "wuwei_imitation_27",
+		"gp": [
+			"Rarity",
+			"collection",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 常丹瑞"
+			},
+			{
+				"Japanese": "CV : 釘宮 理恵"
+			},
+			{
+				"English": "CV : Risa Mei"
+			},
+			{
+				"Korean": "CV : 유영"
+			},
+			{
+				"Portuguese": "CV : Nina Carvalho"
+			}
+		],
+		"id": "imitation_27"
+	},
+	"description": "Perigosa demais para ser usada como brinquedo de criança. Criança nenhuma conseguiria colocar as mãos nela de forma lícita. Vai saber que tipo de tecnologia foi usada na remodelagem... Deve ter sido encontrada em algum lugar isolado.",
+	"icon": "item_Weapon_SSR_Chainsaw_physic01",
+	"gachaIcon": "SSR_lh_genuonuo",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Chainsaw",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "Chainsaw_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Golpe Veloz",
+				"description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **60.4%** do ATQ + **362** e repele o alvo.\r\nSegundo ataque: Causa dano de **70.9%** do ATQ + **425** e repele o alvo.\r\nTerceiro ataque: Causa dano de **58.8%** do ATQ + **353** e repele o alvo.\r\nQuarto ataque: Causa dano de **160.4%** do ATQ + **962** e repele o alvo continuamente.\r\nQuinto ataque: Causa dano de **172.9%** do ATQ + **1037** e lança o alvo no ar.",
+				"icon": "skill_chainsaw_melee",
+				"id": "GA_FPlayerChainsawMelee_Melee"
+			},
+			{
+				"name": "Golpe Rodopiante",
+				"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas, consumindo vigor.\r\nPrimeiro ataque: Causa dano de **72.1%** do ATQ + **433**.\r\nSegundo ataque: Causa dano de **60.3%** do ATQ + **362**.\r\nTerceiro ataque: Causa dano de **55.4%** do ATQ + **332**.\r\nQuarto ataque: Causa dano de **100.7%** do ATQ + **604**.\r\nQuinto ataque: Causa dano de **134.7%** do ATQ + **808**.",
+				"icon": "skill_chainsaw_airattack",
+				"id": "GA_FPlayerChainsawMelee_AirAttack"
+			},
+			{
+				"name": "Escavação Frenética",
+				"description": "No chão, segure o botão de ataque normal entre o primeiro e o terceiro ataque normal para acionar Escavação Frenética.\r\nAtaca em frente continuamente sem sair do lugar enquanto consome vigor. Nesse período, você recebe corpo de aço. Cada ataque acertado causa dano de **29.4%** do ATQ + **176** e inflige **lesão** aos alvos próximos, que dura **7** segundos.",
+				"icon": "skill_chainsaw_branch1",
+				"id": "GA_FPlayerChainsawMelee_MeleeBranch1"
+			},
+			{
+				"name": "Esferas de Polvo",
+				"description": "Durante Escavação Frenética, segure o botão de ataque normal para acionar Esferas de Polvo.\r\nAtaca para frente continuamente enquanto consome vigor. Nesse período, você recebe corpo de aço. Cada ataque acertado causa dano de **29.4%** do ATQ + **176**. Assim que o ataque normal é usado, os alvos próximos sofrem dano de **44.1%** do ATQ + **265** e **lesão** durante **7** segundos.\r\nUse os controles direcionais para se mover durante Esferas de Polvo.",
+				"icon": "skill_chainsaw_branch2",
+				"id": "GA_FPlayerChainsawMelee_MeleeBranch2"
+			},
+			{
+				"name": "Vai, Pip!",
+				"description": "No chão, segure o botão de ataque normal ou segure durante o quarto ataque normal para acionar Vai, Pip!.\r\nMove-se em frente continuamente enquanto ataca e consome vigor. Nesse período, você recebe corpo de aço. Cada ataque acertado causa dano de **29.4%** do ATQ + **176** aos alvos próximos, repele-os e inflige **lesão** a eles, que dura **7** segundos.\r\nUse os controles direcionais para se mover durante Vai, Pip!",
+				"icon": "skill_chainsaw_branch4",
+				"id": "GA_FPlayerChainsawMelee_MeleeBranch4"
+			},
+			{
+				"name": "Turbilhão de Água",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Turbilhão de Água.\r\nDespenca dos céus, causando dano de **167.2%** do ATQ + **1003** aos alvos próximos ao aterrissar e os lançando no ar.",
+				"icon": "skill_chainsaw_jumpattack",
+				"id": "GA_FPlayerChainsawMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerChainsawEvade_Evade"
+			},
+			{
+				"name": "Arremetida Tentacular",
+				"description": "Use o botão de ataque normal logo após se esquivar para acionar Arremetida Tentacular. Causa dano de **37.8%** do ATQ + **227** aos alvos próximos.\r\n**Passiva**: Atrasa os alvos em **60%** e causa dano de **18%** do ATQ por segundo durante **5** segundos. O efeito pode ser acionado apenas **1** vez a cada **10** segundos (indisponível na Liga do Apogeu).",
+				"icon": "skill_chainsaw_evadeattack1",
+				"id": "GA_FPlayerChainsawEvade_EvadeAttackBack"
+			},
+			{
+				"name": "Tentáculo Perseguidor",
+				"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar o Tentáculo Perseguidor. Causa dano de **106.3%** do ATQ + **638** aos alvos próximos.",
+				"icon": "skill_chainsaw_evadeattack",
+				"id": "GA_FPlayerChainsawEvade_EvadeAttackFront"
+			}
+		],
+		"skill": [
+			{
+				"name": "Equipe de Exploração ao Ataque",
+				"description": "Entra em estado de carga e fica temporariamente invencível (indisponível na Liga do Apogeu). Puxa os alvos próximos, causando-lhes dano de **29.4%** do ATQ + **176** a cada ataque atingido. Tempo de recarga: **20** seg. (o tempo de recarga inicia ao entrar em estado de carga).\r\nAo usar, detona todos os **rastreadores de tesouros** nos alvos próximos e faz o **octochicote** entrar em estado de frenesi, o que aumenta a velocidade dos ataques coordenados em **100%** durante **12** segundos.\r\n\r\nÉ possível escolher o momento de uso dependendo do número de **minilulas** acima de você.\r\n**Frenesi Total**: Quando o número de **minilulas** for **2**, use para causar dano de **588%** do ATQ + **3528** aos alvos próximos.\r\n**Frenesi Parcial**: Quando o número de **minilulas** for **1** ou **3**, use para causar dano de **411.6%** do ATQ + **2469** aos alvos próximos.\r\n\r\n**Clones rodeantes**: Recebe **15** **octochicotes** em combate que atacam alvos travados. Cada ataque acertado causa dano de **115%** do ATQ e consome **1** octochicote. É possível acumular até **30** octochicotes.\r\n**Octochicote da Pip**: Coloca **1** **rastreador de tesouros** de **20** segundos de duração nos alvos cada vez que eles são atingidos por um octochicote, limitado a **3** acúmulos.\r\nAcumula-se **1** **rastreador de tesouro** cada vez que se causa dano físico a um alvo sem ser com o **octochicote**, causando dano de **20%** do ATQ. O efeito pode ser acionado apenas **1** vez a cada **0,1** segundo.\r\nRecebe **1** octochicote cada vez que uma habilidade de descarga de qualquer arma atinge um alvo. O efeito pode ser acionado apenas **1** vez a cada **0,1** segundo.",
+				"icon": "skill_chainsaw_skill",
+				"id": "GA_FPlayerChainsawSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Devastação da Pip",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e submerge brevemente. Causa dano de **265.2%** do ATQ + **1591** aos alvos próximos ao emergir. Ao aterrissar, causa dano de **618.8%** do ATQ + **3712** aos alvos próximos e recebe o número máximo de **octochicotes da Pip**. Recebe imunidade a dano durante **1,5** segundos enquanto a habilidade estiver ativa. (indisponível na Liga do Apogeu).",
+				"icon": "skill_chainsaw_changeskill",
+				"id": "GA_FPlayerChainSawChangeSkill_ChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância física**: Aumenta o ATQ físico em **15%** e a resistência física em **25%**. Ativa-se ao equipar **2** ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com outros efeitos de ressonância física ou reação física, e a ressonância física tem prioridade.\r\n**Ressonância universal**: Aumenta o dano final em **15%**. Ativa-se ao equipar **2** ou mais armas do mesmo elemento, não inclui armas físicas. O efeito deste conjunto também funciona com armas no espaço secundário.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "None"
+		},
+		{
+			"description": "Aumenta o despedaçar de Escavação Frenética, Esferas de Polvo e Vai, Pip! em **80%**.\r\nAo usar essas habilidades, recebe um aumento de **50%** do escudo quando ele estiver abaixo de **50%**. Dura **8** segundos. O efeito pode ser acionado apenas **1** vez a cada **5** segundos (indisponível na Liga do Apogeu).",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		},
+		{
+			"description": "O limite do **octochicote da Pip** aumenta para **45**.\r\nApós usar Devastação da Pip, aumenta o dano físico em **12%** durante **30** segundos.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		},
+		{
+			"description": "Detonar **rastreadores de tesouros** restaura o status de **lesão** dos alvos.\r\nAumenta o dano físico em **10%** quando o dano é causado a alvos com menos de **80%** da vida. O efeito deste conjunto funciona no espaço secundário.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		},
+		{
+			"description": "Aumenta o dano causado pela detonação dos **rastreadores de tesouros** para **90%** do ATQ.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		}
+	],
+	"id": "chainsaw_physic"
+}

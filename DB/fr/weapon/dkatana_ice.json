@@ -1,0 +1,187 @@
+{
+	"name": "Flux de cœur",
+	"avatar": {
+		"name": "Saki Fuwa",
+		"advanceId": "imitation_22L1",
+		"weapon": "dkatana_ice",
+		"icon": "imitation_22",
+		"avatarID": "bupoxiao",
+		"age": "11 octobre",
+		"height": "157cm",
+		"gender": "Féminin",
+		"state": "Forces spéciales de sécurité de Mirroria",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_22",
+		"gp": [
+			"metal",
+			"everydayObjects",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐小喜"
+			},
+			{
+				"Japanese": "CV : 雨宮 天"
+			},
+			{
+				"English": "CV : EmiLo"
+			},
+			{
+				"Korean": "CV : 김나율"
+			},
+			{
+				"Portuguese": "CV : Letícia Quinto"
+			}
+		],
+		"id": "imitation_22"
+	},
+	"description": "Un tachi spécial qui s'adapte aux expériences avec l'Hyper flux. Il est capable de ressentir l'état mental de son utilisateur et de générer Ombre de l'épée pour l'assister au combat.",
+	"icon": "item_Weapon_SSR_dkatana_Ice01",
+	"gachaIcon": "SSR_lh_bupoxiao",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "katana",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "dkatana_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Torrent de rage",
+				"description": "Lancez 5attaques Flux de cœur en étant au sol.\r\nPremière attaque: inflige des dégâts équivalant à **42.5%** de l'ATQ + **255**à la cible et la repousse sur une courte distance.\r\nDeuxième attaque: inflige des dégâts équivalant à **29.5%** de l'ATQ + **177**à la cible et la repousse sur une courte distance.\r\nTroisième attaque: inflige des dégâts équivalant à **45%** de l'ATQ + **270**à la cible et la repousse sur une courte distance.\r\nQuatrième attaque: inflige des dégâts équivalant à **70.6%** de l'ATQ + **424** à la cible et la repousse sur une courte distance.\r\nCinquième attaque: inflige des dégâts équivalant à **102.6%** de l'ATQ + **616**à la cible et la projette dans les airs.",
+				"icon": "skill_dkatana_melee",
+				"id": "GA_PlayerDkatanaMelee_Melee"
+			},
+			{
+				"name": "Fissure aérienne",
+				"description": "Lorsque vous êtes dans les airs ou après avoir sauté une fois, utilisez l'attaque normale pour attaquer 5fois de suite.\r\nPremière attaque: inflige des dégâts équivalant à **47.2%** de l'ATQ + **283**.\r\nDeuxième attaque: inflige des dégâts équivalant à **43.7%** de l'ATQ + **262**.\r\nTroisième attaque: inflige des dégâts équivalant à **54.2%** de l'ATQ + **325**.\r\nQuatrième attaque: inflige des dégâts équivalant à **76.9%** de l'ATQ + **461**.\r\nCinquième attaque: inflige des dégâts équivalant à **170.2%** de l'ATQ + **1021**.",
+				"icon": "skill_dkatana_airattack",
+				"id": "GA_PlayerDkatanaMelee_AirAttack"
+			},
+			{
+				"name": "Flot agité: Vortex",
+				"description": "En mode Flot agité, maintenez Attaque normale pour déclencher la compétence.\r\nVous vous élancez avec une attaque multiple tournoyante, infligeant des dégâts max équivalant à **199.5%** de l'ATQ + **1197**.",
+				"icon": "skill_dkatana_branch1",
+				"id": "GA_PlayerDkatanaMelee_Branch1"
+			},
+			{
+				"name": "Flot silencieux: Barrière",
+				"description": "En mode Flot silencieux, maintenez Attaque normale immédiatement ou en lançant des attaques normales pour déclencher la compétence.\r\nMaintenez Attaque pour garder l'Anticipation. Relâchez le bouton pour infliger des dégâts équivalant à **127.3%** d'ATQ + **764**. Si vous subissez des attaques pendant la période d'attaque, bloque **20%** de vos PV max.",
+				"icon": "skill_dkatana_branch2",
+				"id": "GA_PlayerDkatanaMelee_Branch2"
+			},
+			{
+				"name": "Chute de givre",
+				"description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs, ou appuyez sur Attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher.\r\nLorsque vous tombez, vous infligez des dégâts correspondant à **30.4%** de l'ATQ + **182** à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à **76%** de l'ATQ + **456** aux cibles proches.",
+				"icon": "skill_dkatana_airjumpattack",
+				"id": "GA_PlayerDkatanaMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerDkatanaEvade_Evade"
+			},
+			{
+				"name": "Front polaire",
+				"description": "Appuyez sur Attaque normale rapidement après une esquive.\r\nÉlancez-vous en tournoyant pour attaquer la cible, en infligeant des dégâts équivalant à **277%** de l'ATQ + **1662**.",
+				"icon": "skill_dkatana_forwardevadeattack",
+				"id": "GA_FPlayerDkatanaEvade_ForwardAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Flot agité: flux étincelant",
+				"description": "Vous vous élancez vers la cible et immobilisez temporairement les ennemis en chemin, en infligeant des dégâts retardés équivalant à **445.3%** de l'ATQ + **2672**. Temps de recharge: **30**secondes.",
+				"icon": "skill_dkatana_skill1",
+				"id": "GA_FPlayerDkatanaSkill_Skill1"
+			},
+			{
+				"name": "Flot silencieux: flux concentré",
+				"description": "Utiliser les compétences Flot silencieux fait entrer en état de charge pendant **3**secondes max, provoque les cibles proches et permet d'absorber des dégâts pouvant aller jusqu'à **60%** des PV max. Lorsque la charge prend fin, inflige aux cibles des dégâts de givre équivalant à **408%** de l'ATQ de givre + **50%** des dégâts absorbés. **20%** de la valeur non consommée est convertie en récupération de PV. Temps de recharge: **30**secondes.\r\n\r\nEntre dans l'état Flot silencieux lorsque Résonance de fortitude est activée. **Flot silencieux: Flux concentré** remplace **Flot agité: Flux étincelant**. Entre dans l'état Flot agité lorsque Résonance de fortitude n'est pas activée.\r\nUtiliser les compétences de SakiFuwa invoque une Ombre de l'épée persistante qui suit l'Explorateur. L'Ombre de l'épée libère Déferlement lorsque l'Explorateur utilise les compétences ramifiées et les compétences de décharge de SakiFuwa, infligeant des dégâts de zone équivalant à **175%** de l'ATQ de givre. Temps de recharge de Déferlement: **10**secondes.\r\nDans l'état Flot agité: quand le joueur inflige des dégâts avec n'importe quelle arme, l'Ombre de l'épée libère Flux, infligeant des dégâts équivalant à **45%** de l'ATQ de givre à la première cible touchée et récupérant des PV à hauteur de **57%** des dégâts infligés. La récupération maximale ne dépasse jamais **100%** de l'ATQ. Temps de recharge: **0,8**seconde.\r\nDans l'état Flot silencieux: après que l'Ombre de l'épée a libéré Déferlement, l'Explorateur obtient **3**blocages qui durent **10**secondes. La capacité défensive de ces blocages ne dépasse pas **15%** des PV max du joueur. Tout blocage réussi entraînera une Contre-attaque infligeant des dégâts à hauteur de **225%** de l'ATQ de givre à la cible et les capacités de fracture de Déferlement augmenteront de **100%** avec un effet de provocation.",
+				"icon": "skill_dkatana_skill2",
+				"id": "GA_FPlayerDkatanaSkill_Skill2"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Lotus du cœur",
+				"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, changer d'arme pour utiliser celle-ci **supprime toutes les altérations sur l'Explorateur**, et vous foncez sur la cible en effectuant une attaque combo, infligeant des dégâts équivalant à **590%** de l'ATQ + **3216**.",
+				"icon": "skill_dkatana_changeskill",
+				"id": "GA_FPlayerDkatanaChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. Activez-la en équipant au moins **2**armes de givre. Cet effet fonctionne également avec les armes dans l'emplacement main libre. L'effet ne peut pas être cumulé plusieurs fois.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Lorsque la Résonance de givre est activée, tous les temps de recharge des compétences d'arme sont réinitialisés après l'utilisation de **5**compétences d'arme, et les dégâts de Flux et Contre-attaque augmentent **1**fois dans la foulée pendant **25**secondes.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Flot agité: augmente les dégâts du Déferlement d'ombre de l'épée de **350%** de l'ATQ de givre.\r\nFlot silencieux: le temps de recharge du Déferlement de l'ombre de l'épée est de **5**secondes.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance de PV de base actuelle de l'arme.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Arrêtez le temps et déclenchez Fantaisie lorsque le Déferlement touche la cible. Son temps de recharge est le même que celui de la Fantaisie activée par une esquive.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Après avoir touché une cible avec Déferlement, augmente les dégâts de givre de **11%** pendant **15** secondes.\r\nEn déclenchant un blocage avec l'Ombre de l'épée, réduit de **25%** les dégâts de givre infligés par les cibles ennemies à proximité pendant **12** secondes.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		}
+	],
+	"id": "dkatana_ice"
+}

@@ -1,0 +1,149 @@
+{
+	"name": "エンダー",
+	"avatar": {
+		"name": "ヒルダ",
+		"weapon": "cannon_ice",
+		"icon": "imitation_15",
+		"avatarID": "hida",
+		"age": "11 April",
+		"height": "165 cm",
+		"gender": "Perempuan",
+		"state": "ベンジス",
+		"city": "記録なし",
+		"rating": "wuwei_imitation_15",
+		"gp": [
+			"restrictedGoods",
+			"garageKit",
+			"toy"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 裴致莹"
+			},
+			{
+				"Japanese": "CV : 花澤 香菜"
+			},
+			{
+				"English": "CV : Kira Buckland"
+			},
+			{
+				"Korean": "CV : 윤아영"
+			},
+			{
+				"Portuguese": "CV : Bruna Matta"
+			}
+		],
+		"id": "imitation_15"
+	},
+	"description": "史上最も凶悪な銃器であり、移動式砲台とも呼ばれる大型銃器",
+	"icon": "item_Weapon_SR_Cannon_Ice01",
+	"gachaIcon": "SR_lh_zjz",
+	"rarity": "SR",
+	"element": "Ice",
+	"weaponType": "Cannon",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 28,
+		"Item_Mine_ice_02": 42,
+		"Item_breakthrough_A2": 42,
+		"Item_breakthrough_D2": 42,
+		"Item_Mine_ice_03": 22,
+		"Item_breakthrough_A3": 22,
+		"Item_breakthrough_D3": 22,
+		"Item_breakthrough_A1": 25,
+		"Item_breakthrough_D1": 23
+	},
+	"advanceID": "cannon_ice_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "通常攻撃",
+				"description": "通常攻撃を行うと照準状態になり、通常攻撃長押しで連射できる。最大で**40**発連射可能。1発につき攻撃力×**15.4%**+**92**のダメージを与える。敵の頭部または弱点に命中するとヘッドショットを発動し(ヘッドショットは探索者に対して無効)、2倍のダメージを与えてノックダウンする",
+				"icon": "pugong_cannon",
+				"id": "GA_FPlayerCannonMelee_Melee"
+			}
+		],
+		"dodge": [
+			{
+				"name": "回避",
+				"description": "ジャスト回避を成功させると幻想タイムを発動(クールダウン15秒)し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直無効、**0.5**秒間持続",
+				"icon": "common_evade",
+				"id": "GA_FPlayerCannonEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "砲台",
+				"description": "砲台モードをオンにすると、強力なエナジー砲弾を発射する。砲弾1発につき攻撃力×**287.9%**+**1727**のダメージを与え、ターゲットをノックアップする。クールダウン**3.5**秒。砲台設置時、硬直と行動制限を無効化する",
+				"icon": "skill_cannon",
+				"id": "GA_FPlayerCannonSkillNew"
+			}
+		],
+		"discharge": [
+			{
+				"name": "極寒レーザー",
+				"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。前方に極寒レーザーを放ち、攻撃力×**444.5%**+**2667**のダメージを与え、**3**秒間**強制凍結**する。さらにターゲットの氷耐性-**50%**、**10**秒間持続",
+				"icon": "skill_cannon_skill3",
+				"id": "GA_FPlayerCannonChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "通常攻撃が命中するたびにダメージ+**1%**、**2**秒間持続。最大**15**スタックまで可能。銃弾が**60**発に増加",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "現在の武器の攻撃力基本成長率+**10%**",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "この武器に変更後の**10**秒間は通常攻撃のダメージとシールドブレイク率+**30%**。クールダウン**25**秒。銃弾が**80**発に増える",
+			"stats": {
+				"shatter": 13,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "現在の武器の攻撃力基本成長率+**20%**",
+			"stats": {
+				"shatter": 13,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "砲塔状態中、通常攻撃のクールダウンが**2**秒に短縮される",
+			"stats": {
+				"shatter": 13,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "この武器に変更後の**10**秒間は通常攻撃のダメージとシールドブレイク率+**60%**。クールダウン**25**秒",
+			"stats": {
+				"shatter": 16,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		}
+	],
+	"id": "cannon_ice"
+}

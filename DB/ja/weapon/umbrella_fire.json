@@ -1,0 +1,194 @@
+{
+	"name": "Vermilion Bird",
+	"avatar": {
+		"name": "嵐",
+		"advanceId": "imitation_34L1",
+		"weapon": "umbrella_fire",
+		"icon": "imitation_34",
+		"avatarID": "lan",
+		"age": "5 Mei",
+		"height": "172 cm",
+		"gender": "Perempuan",
+		"state": "影衛",
+		"city": "記録なし",
+		"rating": "wuwei_imitation_34",
+		"gp": [
+			"Rarity",
+			"everydayObjects",
+			"Vera",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈雨"
+			},
+			{
+				"Japanese": "CV : 内田 真礼"
+			},
+			{
+				"English": "CV : Sarah Wiedenheft"
+			},
+			{
+				"Korean": "CV : 박리나"
+			},
+			{
+				"Portuguese": "CV : Luiza Caspary"
+			}
+		],
+		"id": "imitation_34"
+	},
+	"description": "朱雀専用の傘の形をした武器で、さまざまな仕掛けが隠されている。この大きな武器はエナジーを放出して敵を倒す道具でもあり、他者の視線を遮り自身の動きを隠す道具でもある…",
+	"icon": "item_Weapon_SSR_umbrella_Fire01",
+	"gachaIcon": "SSR_lh_lan",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Umbrella",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "umbrella_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Dancing Flames",
+				"description": "地上にいる時、通常攻撃を行うと5回連続攻撃できる。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×**94.8%**+**569**のダメージと少しのノックバック\r\n2回目：攻撃力×**129.8%**+**779**のダメージと大幅なノックバック\r\n3回目：攻撃力×**221.3%**+**1328**のダメージと浮遊\r\n4回目：攻撃力×**241.3%**+**1448**のダメージとノックダウン\r\n5回目：攻撃力×**304.1%**+**1824**のダメージとノックバック",
+				"icon": "skill_umbrella_melee",
+				"id": "GA_FPlayerUmbrellaMeleeFire_Melee"
+			},
+			{
+				"name": "孤羽騰祥雲",
+				"description": "滞空時に通常攻撃を行うと、スタミナを消費して空中で5回連続攻撃ができる。ターゲットに与えるダメージは次の通り。\r\n1回目：攻撃力×**106.3%**+**638**\r\n2回目：攻撃力×**129.8%**+**779**\r\n3回目：攻撃力×**158.1%**+**949**\r\n4回目：攻撃力×**165.3%**+**992**\r\n5回目：攻撃力×**296.3%**+**1778**",
+				"icon": "skill_umbrella_airattack",
+				"id": "GA_FPlayerUmbrellaMeleeFire_AirAttack"
+			},
+			{
+				"name": "朱鳥翔天涯",
+				"description": "地上にいる時、通常攻撃の2～5回目に通常攻撃を長押しすると朱鳥翔天涯を発動できる。\r\n前方に高速で突撃し、自身は浮遊状態となり、付近のターゲットに攻撃力×**125%**+**750**のダメージを与えてターゲットを**強制浮遊**させる。",
+				"icon": "skill_umbrella_branch",
+				"id": "GA_FPlayerUmbrellaMeleeFire_Branch"
+			},
+			{
+				"name": "溶心亦流情",
+				"description": "滞空時に通常攻撃を長押しすると溶心亦流情を発動し、スタミナを消費し続ける。発動中は不屈効果を獲得する。\r\n陵光を用いて付近のターゲットに攻撃力×**25%**+**150**のダメージを与え、フィールド上の飾り羽を高速回転させる。\r\n通常攻撃ボタンを離すと降下し、降下中はターゲットに命中するたびに攻撃力×**50%**+**300**のダメージを与え、ターゲットを**強制ノックダウン**する。\r\n**パッシブ**：飾り羽の高速回転時、【螺旋炎】の毎秒消費【羽毛数】は元の消費数×**【群羽の力】**倍になり、【螺旋炎】のダメージ、エナジー注入、シールドブレイクの値も全て×**【群羽の力】**倍になる。\r\n**【羽毛数】**：毎秒**1**本を自動獲得、ダメージを与えるたびに+**1**本獲得(クールダウン**0.5**秒)。【羽毛数】の保有上限は**30**本。\r\n**【群羽の力】**=飾り羽数+**1**。",
+				"icon": "icon_skill_umbrella_beidong2",
+				"id": "GA_FPlayerUmbrellaMeleeFire_PowerAttack"
+			},
+			{
+				"name": "擲翅行如影",
+				"description": "非戦闘状態時に地上で通常攻撃を長押しするとターゲットの位置に飾り羽を1本生成できる。飾り羽は**15**秒後または戦闘状態に入ると消失する。\r\n非戦闘状態時にスキルを発動すると飾り羽の位置に移動する。飾り羽が地上にある場合は平行ダッシュし、空中にある場合は飛行ダッシュ後に空中でジャンプして傘の柄をつかみ、浮遊下降する。クールダウン**6**秒。",
+				"icon": "skill_umbrella_skill_InPeace",
+				"id": "GA_FPlayerUmbrellaAimAttackFire"
+			}
+		],
+		"dodge": [
+			{
+				"name": "回避",
+				"description": "ジャスト回避を成功させると幻想タイムが発動し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直効果を無効化する。",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerUmbrellaEvadeFire_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "怒涛塵芥流",
+				"description": "飾り羽が生成された順番に従ってフィールド上の飾り羽に向かって移動したあと、移動起点に戻る。移動の軌跡は5秒間維持され、付近のターゲットが軌跡範囲に入ると移動速度-**50%**。効果の発動中、自身は被ダメージ無効(トップリーグでは無効)、クールダウン**12**秒。\r\n移動中、飾り羽を通過するたびに攻撃力×**220%**+**1320**の範囲ダメージを与え、通過した飾り羽を高速回転させる。**5**秒間持続。",
+				"icon": "skill_umbrella_skill",
+				"id": "GA_FPlayerUmbrellaSkillFire_Skill"
+			},
+			{
+				"name": "飾り羽",
+				"description": "任意の武器の通常攻撃命中時または回避攻撃命中時にターゲット付近に飾り羽を**1**本生成する。**20**秒間持続、クールダウン**1.5**秒。最大で**3**本まで存在できる。\r\n**【炎決壊】**：怒涛塵芥流を発動して飾り羽を1回通過するたびに【群羽の力】×攻撃力×**64.8%**のダメージを追加する。\r\n**【炎蝕】**：飾り羽付近のターゲットに与える炎ダメージ+**6%**、チャージ攻撃ダメージ+**8%**。\r\n**【光炎】**：飾り羽が毎秒、付近のターゲットに攻撃力×**105%**ダメージの燃焼効果を付与する。**4**秒間持続。\r\n**【螺旋炎】**：フィールド上の飾り羽が毎秒【羽毛数】を**1**本消費して攻撃力×**54%**+**324**の範囲ダメージを与える(飾り羽によるダメージと【羽毛数】消費は1つの飾り羽の分のみ計算、スタック不可)",
+				"icon": "icon_skill_umbrella_beidong2",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas1"
+			},
+			{
+				"name": "Vermilion Domain",
+				"description": "怒涛塵芥流の発動中に飾り羽を3回通過して移動起点に戻ると、自身は【陵光御境】を獲得する。発動中、自身は不屈効果と** 40%**のダメージ軽減を獲得する。**8**秒間持続。\r\nプレイヤーが海中に潜ると、【陵光御境】は毎秒、範囲内のターゲットに攻撃力×**50%**+**300**のダメージと自身に移動速度+**30%**を与える。",
+				"icon": "icon_skill_umbrella_beidong3",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas2"
+			},
+			{
+				"name": "剛毅",
+				"description": "剛毅共鳴発動後：\r\n任意の武器スキルの発動で付近のターゲットを挑発できる。**2.5**秒間持続。\r\n怒涛塵芥流を発動すると陵光御境の範囲が拡大し、付近の仲間が**20%**のダメージ軽減を獲得する。\r\n溶心亦流情の発動中、【陵光御境】は持続時間を消費しない。",
+				"icon": "icon_skill_umbrella_beidong1",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas3"
+			}
+		],
+		"discharge": [
+			{
+				"name": "輝鳳長嘆嗟",
+				"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**し、ターゲットに攻撃力×**849.6%**+**5097**のダメージを与える。その間、被ダメージ無効が**1.5**秒間持続する(トップリーグでは無効)\r\n**パッシブ**：命中すると、炎ダメージ+**【群羽の力】×1.2%**。**20**秒間持続。",
+				"icon": "skill_umbrella_changeskill",
+				"id": "GA_FPlayerUmbrellaChangeSkillFire"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**炎共鳴**：炎属性武器を**2**つ以上装備すると発動。炎攻撃力+**15%**、炎耐性+**25%**。装備すると常時有効、同系統の効果はスタック不可",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "**【群羽の奮起】**：陵光の装備時、他の武器の**【弾薬類の消費】**は元の消費数×**【群羽の力】**倍になり、ダメージ、エナジー注入、シールドブレイクも×**【群羽の力】**倍になる。\r\n**【爍】**：飾り羽付近のターゲットが燃焼精算/【炎決壊】を受けると、燃焼精算/【炎決壊】のダメージの**30%**がターゲットの近くにいるHP比率が高い上位**3**体に波及する(ターゲット自身も対象)",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "現在の武器のHP基本成長率+**16%**",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "任意の武器の連携スキル発動時またはターゲットのシールドブレイク時に、フィールド上のすべての飾り羽が効果**30%**の【炎決壊】を**1**回発動する。飾り羽付近の敵は攻撃力-**15%**。戦闘状態中は初回のダメージ付与と同時にターゲットの周りに飾り羽を**3**本生成する",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "現在の武器の攻撃力基本成長率+**32%**。",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "【炎決壊】およびその波及ダメージはターゲットが持つ炎耐性の**60%**を無視する。\r\n【炎蝕】の炎ダメージ効果が**10%**にアップする。",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "舞火激昂意、孤羽騰祥雲で与えるダメージ+**50%**。\r\n飾り羽の高速回転、輝鳳長嘆嗟、【炎決壊】発動時に【群羽の力】+**2**。",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		}
+	],
+	"id": "umbrella_fire"
+}

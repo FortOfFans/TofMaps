@@ -1,0 +1,90 @@
+{
+	"name": "Kompositbogen",
+	"description": "Eine Waffe, die häufig von Jägern im Schneefeld verwendet wird. Kann leicht und sehr genau geführt werden. Nach reichlich Werbung hat sie mehr als die Hälfte des erschwinglichen zivilen Marktes erobert.",
+	"icon": "item_Weapon_SR_Bow_Fire01",
+	"gachaIcon": "Weapon_R_Bow_Phy01",
+	"rarity": "R",
+	"element": "Flame",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 15,
+		"Item_Mine_fire_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_C2": 25,
+		"Item_Mine_fire_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_C3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_C1": 12
+	},
+	"advanceID": "bow_fire_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Normaler Angriff",
+				"description": "Der Anwender spannt den Bogen am Boden mehrfach, um 5-mal anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **27.3%** des ANG +**164**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **24.4%** des ANG +**146**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **43.8%** des ANG +**263**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **67.8%** des ANG +**407**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **62.9%** des ANG +**377** und stößt das Ziel eine kurze Strecke zurück.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_Melee"
+			},
+			{
+				"name": "Aufgeladener Pfeil",
+				"description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen. Verursacht Grundschaden in Höhe von **49.1** des ANG +**295**, der pro **1** Sek. Aufladen um **50%** steigt (bis zu **3** Sek.). Bei Kopfschüssen oder einem Treffer an der Schwachstelle des Gegners wird der Schaden verdoppelt und der Gegner zu Fall gebracht (Kopfschüsse sind gegen Wanderer unwirksam).",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttack"
+			},
+			{
+				"name": "Pfeilhagel",
+				"description": "Halte den normalen Angriff nach einem beliebigen normalen Angriff, um „Pfeilhagel“ auszulösen. Dies fügt Zielen Flächenschaden in Höhe von bis zu **160%** des ANG +**960**.",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_Branch"
+			},
+			{
+				"name": "Luft-Salve",
+				"description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **31.5%** des ANG +**189**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **41.4%** des ANG +**248**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **63%** des ANG +**378**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **94.8%** des ANG +**569**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Gegner in der Umgebung verlangsamt. Abklingzeit: 15 Sek. Gewährt für **0,5** Sek. Immunität gegen Trefferlähmung.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_Evade"
+			},
+			{
+				"name": "Geladener Pfeil",
+				"description": "Tippe nach dem Ausweichen auf den normalen Angriff, um „Geladener Pfeil“ auszulösen. Dieser stößt das Ziel eine kurze Strecke zurück und verursacht Schaden in Höhe von **69.3%** des ANG +**416**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Durchdringender Schuss",
+				"description": "Macht einen Rückwärtssalto und schießt **1**-mal „Durchdringender Schuss“ nach vorne, der Schaden in Höhe von **125.4%** des ANG +**752** verursacht und das Ziel zurückstößt. Abklingzeit: **12** Sek.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Explosives Sperrfeuer",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und „Explosives Sperrfeuer“ auf das Ziel entfesselt. Dies verursacht Schaden in Höhe von **396%** des ANG +**2376**.",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 4.8,
+				"charge": 8
+			},
+			"need": "None"
+		}
+	],
+	"id": "bow_fire"
+}

@@ -1,0 +1,179 @@
+{
+	"name": "聖痕の杖",
+	"avatar": {
+		"name": "ペペ",
+		"weapon": "stave_thunder",
+		"icon": "imitation_14",
+		"avatarID": "peipei",
+		"age": "9 Juli",
+		"height": "160 cm",
+		"gender": "Perempuan",
+		"state": "ハガード医療部門",
+		"city": "ベンジス",
+		"rating": "wuwei_imitation_14",
+		"gp": [
+			"everydayObjects",
+			"decorate",
+			"collection"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 王雅欣"
+			},
+			{
+				"Japanese": "CV : 能登 麻美子"
+			},
+			{
+				"English": "CV : Kayli Mills"
+			},
+			{
+				"Korean": "CV : 김가령"
+			},
+			{
+				"Portuguese": "CV : Flávia Narciso"
+			}
+		],
+		"id": "imitation_14"
+	},
+	"description": "十字架のルーンが刻まれた機械の杖。罪を許したり、天罰を下したりする",
+	"icon": "item_Weapon_SR_Stave_Thunder01",
+	"gachaIcon": "sr_lh_shqz",
+	"rarity": "SR",
+	"element": "Thunder",
+	"weaponType": "Staves",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_thunder": 28,
+		"Item_Mine_thunder_02": 42,
+		"Item_breakthrough_A2": 42,
+		"Item_breakthrough_C2": 42,
+		"Item_Mine_thunder_03": 22,
+		"Item_breakthrough_A3": 22,
+		"Item_breakthrough_C3": 22,
+		"Item_breakthrough_A1": 25,
+		"Item_breakthrough_C1": 23
+	},
+	"advanceID": "stave_thunder_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "通常攻撃",
+				"description": "地上にいる時、杖を振るうと5回連続攻撃できる。ダメージは次の通り。\r\n1回目：攻撃力×**33.9%**+**203**\r\n2回目：攻撃力×**25.4%**+**152**\r\n3回目：攻撃力×**41%**+**246**\r\n4回目：攻撃力×**56.1%**+**337**\r\n5回目：攻撃力×**98.8%**+**593**",
+				"icon": "pugong_staves",
+				"id": "GA_FPlayerStavesMelee_Melee"
+			},
+			{
+				"name": "滞空打撃",
+				"description": "滞空時または1段ジャンプ使用後、通常攻撃を行うと空中で5回連続攻撃できる。ダメージは次の通り。\r\n1回目：攻撃力×**43.9%**+**263**\r\n2回目：攻撃力×**31.7%**+**190**\r\n3回目：攻撃力×**34.4%**+**206**\r\n4回目：攻撃力×**61.6%**+**370**\r\n5回目：攻撃力×**64.3%**+**386**",
+				"icon": "skill_staves_air",
+				"id": "GA_FPlayerStavesMelee_AirAttack"
+			},
+			{
+				"name": "落月撃",
+				"description": "滞空時に通常攻撃を長押しすると、落月撃を発動する。\r\n着地時に周囲のターゲットに対して**0.2**秒ごとに1回ダメージを与え、合計で攻撃力×**77.2%**+**463**のダメージを与える。",
+				"icon": "skill_staves_jump",
+				"id": "GA_FPlayerStavesMelee_JumpAttack"
+			},
+			{
+				"name": "フォース攻撃",
+				"description": "3回目の通常攻撃の後、通常攻撃を長押しすると分岐攻撃を発動でき、**300**Ptのスタミナを消費する\r\n1回目の分岐では前方付近のモンスターを集め(**強制浮遊**)、**0.3**秒ごとに攻撃力×**21.7%**+**130**のダメージを与える(最大**4**回)\r\n2回目の分岐ではターゲットの位置およびその付近の敵に**0.3**秒ごとに1回、攻撃力×**25.2%**+**151**のダメージを与える",
+				"icon": "skill_staves_branch",
+				"id": "GA_FPlayerStavesMelee_Branch"
+			}
+		],
+		"dodge": [
+			{
+				"name": "回避",
+				"description": "ジャスト回避を成功させると幻想タイムを発動(クールダウン15秒)し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直無効、**0.5**秒間持続",
+				"icon": "common_evade",
+				"id": "GA_FPlayerStavesEvade_Evade"
+			},
+			{
+				"name": "湧出",
+				"description": "前方回避(方向キー+回避ボタン)を発動してすぐに通常攻撃を行うと、湧出を発動できる\r\nエナジー波動はターゲットに命中するたびに攻撃力×**30.5%**+**183**のダメージを与える\r\n発動するとただちに武器エナジー値を**75**Pt獲得する",
+				"icon": "skill_staves_frontattack",
+				"id": "GA_FPlayerStavesEvade_FrontAttack"
+			},
+			{
+				"name": "チャクラ",
+				"description": "回避後すぐに通常攻撃を行うと、後方回避攻撃を発動できる\r\n探索者が前方にエナジーボールを1個放ち、通過途中の敵に対して**0.3**秒ごとに攻撃力×**43.3%**+**260**のダメージを与える(最大5回)\r\n発動するとただちに武器エナジー値を**75**Pt獲得する",
+				"icon": "skill_staves_frontattack",
+				"id": "GA_FPlayerStavesEvade_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "庇護",
+				"description": "その場でエナジーシールドを1つ生成する。シールド内の味方は攻撃力×**81.7%**+**490**PtのHPを回復し、被ダメージ-**3%**。持続時間**10**秒。クールダウン**60**秒",
+				"icon": "staves_skill1",
+				"id": "GA_FPlayerStavesSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "疾風の救援",
+				"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**し、セットした杖が探索者や味方のデバフを解消し続ける。さらに付近の探索者や味方を治療し、攻撃力×**79%**+**474**PtのHPを回復する。**7**秒間持続",
+				"icon": "skill_staves_changeskill",
+				"id": "GA_FPlayerStavesChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 4,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "回避スキルの発動時に周囲**10**ｍ以内にいる仲間全員を回復する。回復量は攻撃力×**100%**",
+			"stats": {
+				"shatter": 4,
+				"charge": 10
+			},
+			"need": "stave_thunder_plasm"
+		},
+		{
+			"description": "現在の武器のHP基本成長率+**10%**",
+			"stats": {
+				"shatter": 4,
+				"charge": 10
+			},
+			"need": "stave_thunder_plasm"
+		},
+		{
+			"description": "毎回の通常攻撃にミサイルを2発付与する。ミサイル1発につきターゲットに攻撃力×**5%**のダメージを与え、武器エナジー値を**5**Pt獲得する",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.2
+			},
+			"need": "stave_thunder_plasm"
+		},
+		{
+			"description": "現在の武器のHP基本成長率+**20%**",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.2
+			},
+			"need": "stave_thunder_plasm"
+		},
+		{
+			"description": "武器エナジー値の獲得速度+**20%**(ミサイルの攻撃では無効)",
+			"stats": {
+				"shatter": 4,
+				"charge": 13.2
+			},
+			"need": "stave_thunder_plasm"
+		},
+		{
+			"description": "スキルでターゲットの行動制限を解消すると、スキルの範囲内にいる味方が被ダメージ-**60%**を獲得する",
+			"stats": {
+				"shatter": 4,
+				"charge": 13.2
+			},
+			"need": "stave_thunder_plasm"
+		}
+	],
+	"id": "stave_thunder"
+}

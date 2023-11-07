@@ -1,0 +1,102 @@
+{
+	"name": "Lança Gélida",
+	"description": "Uma arma comum entre os habitantes do Campo Nevado de Warren. Imbuída com gelo para refletir a característica local. Faz muito sucesso, porque é barata e ao mesmo tempo muito eficaz.",
+	"icon": "item_Weapon_R_Spear_Ice01",
+	"gachaIcon": "Weapon_R_Spear_Ice01",
+	"rarity": "R",
+	"element": "Ice",
+	"weaponType": "Spear",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 15,
+		"Item_Mine_ice_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_ice_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "spear_ice_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Lançada",
+				"description": "No chão, branda a lança longa para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **20.1%** do ATQ + **121** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **18.5%** do ATQ + **111** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **38.5%** do ATQ + **231** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **59.2%** do ATQ + **355** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **93.8%** do ATQ + **563** e repele o alvo uma distância significativa.",
+				"icon": "skill_spear_melee",
+				"id": "GA_FPlayerSpearMelee_Melee_R"
+			},
+			{
+				"name": "Ataque Suspenso",
+				"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **22.3%** do ATQ + **134**.\r\nSegundo ataque: Causa dano de **18.8%** do ATQ + **113**.\r\nTerceiro ataque: Causa dano de **37.1%** do ATQ + **223**.\r\nQuarto ataque: Causa dano de **89%** do ATQ + **534**.",
+				"icon": "skill_spear_air",
+				"id": "GA_FPlayerSpearMelee_AirAttack_R"
+			},
+			{
+				"name": "Mergulho Esmagador",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (toque quando houver um alvo), ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Esmagador.\r\nEnquanto cai, cada golpe causa dano de **6.4%** do ATQ + **38**. Ao aterrissar, causa dano de **39.3%** do ATQ + **236** e suspende os alvos.\r\nQuanto maior a altura, maior o dano causado. Chega a até **600%** do dano.",
+				"icon": "skill_spear_jump",
+				"id": "GA_FPlayerSpearMelee_JumpAttack_R"
+			},
+			{
+				"name": "Floreio Arremessante",
+				"description": "Após o terceiro ataque normal, mantenha o botão pressionado para usar Floreio Arremessante.\r\nAo atingir, **suspende muito** o alvo. Causa dano de **39.8%** do ATQ + **239**. Toque novamente para continuar atacando o alvo no ar e causar dano de até **79.5%** do ATQ + **477**.",
+				"icon": "skill_spear_branch",
+				"id": "GA_FPlayerSpearMelee_Branch_R"
+			},
+			{
+				"name": "Ataque Furtivo",
+				"description": "Projeta a lança longa para frente. Causa dano de **256.5%** do ATQ + **1539**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSpearMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Chute Desorientador",
+				"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar Chute Desorientador.\r\nCausa dano de **58.2%** do ATQ + **349** ao alvo atingido, o repele uma boa distância e o **atordoa** durante **1** segundo (alvos não Errantes) ou **0,5** segundo (Errantes).",
+				"icon": "skill_spear_frontattack",
+				"id": "GA_FPlayerSpearEvade_FrontAttack_R"
+			},
+			{
+				"name": "Esmagada Violenta",
+				"description": "Use o botão de ataque normal logo após se esquivar para usar Esmagada Violenta.\r\nBate a lança no chão, causando dano de **42.8%** do ATQ + **257** e **suspendendo muito** os alvos no ar.",
+				"icon": "skill_spear_backattck",
+				"id": "GA_FPlayerSpearEvade_BackAttack_R"
+			},
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSpearEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Combate nas Alturas",
+				"description": "**Suspende muito** o alvo e suspende a si mesmo, causando dano de **103.1%** do ATQ + **619**. Tempo de recarga: **25** seg.",
+				"icon": "spear_skill1",
+				"id": "GA_FPlayerSpearSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Dança da Lança",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, **remove todos os efeitos negativos de você**, agarra o alvo e o sacode repetidas vezes. Causa dano de **205.4%** do ATQ + **1232**. Finaliza **suspendendo muito** o alvo.",
+				"icon": "skill_spear_changeskill",
+				"id": "GA_FPlayerSpearChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6.9,
+				"charge": 5.6
+			},
+			"need": "None"
+		}
+	],
+	"id": "spear_ice"
+}

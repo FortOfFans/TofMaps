@@ -1,0 +1,181 @@
+{
+	"name": "Spark",
+	"avatar": {
+		"name": "Ruby",
+		"advanceId": "imitation_21L1",
+		"weapon": "funnel_fire",
+		"icon": "imitation_21",
+		"avatarID": "leibei",
+		"age": "15. Juli",
+		"height": "140 cm",
+		"gender": "Weiblich",
+		"state": "Unbekannt",
+		"city": "Unbekannt",
+		"rating": "wuwei_imitation_21",
+		"gp": [
+			"game",
+			"toy",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 赵爽"
+			},
+			{
+				"Japanese": "CV : 小倉 唯"
+			},
+			{
+				"English": "CV : Lizzie Freeman"
+			},
+			{
+				"Korean": "CV : 이다은"
+			},
+			{
+				"Portuguese": "CV : Letícia Celini"
+			}
+		],
+		"id": "imitation_21"
+	},
+	"description": "Eine besondere Waffe, die Lin in der F&E von Mirroria für Ruby in Auftrag gegeben hat. Ihre Hauptfunktionen sind: in Rubys Lieblingsspiel als Haushälterin fungieren, Ruby morgens aufwecken und Ruby den Weg weisen … Vor allem soll sie Ruby aber beschützen. ",
+	"icon": "item_Weapon_SSR_funnel_Fire01",
+	"gachaIcon": "SSR_lh_leibei",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Funnel",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "funnel_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Spark-Angriff",
+				"description": "Tippe auf dem Boden auf die normale Angriffstaste, damit Spark 5-mal hintereinander angreift.\r\nErster Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von **84.6%** des ANG +**508** zu.\r\nZweiter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von **93%** des ANG +**558** zu.\r\nDritter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von **101.5%** des ANG +**609** zu.\r\nVierter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von **109.9%** des ANG +**659** zu.\r\nFünfter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von **253.7%** des ANG +**1522** zu und **schleudert** sie hoch.",
+				"icon": "skill_funnel_melee",
+				"id": "GA_FPlayerFunnelMeleeFire_Melee"
+			},
+			{
+				"name": "Luftsprengung",
+				"description": "Tippe in der Luft auf die normale Angriffstaste, damit Spark 4-mal hintereinander angreift.\r\nErster Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von **97.1%** des ANG +**583** zu.\r\nZweiter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von **106.8%** des ANG +**641** zu.\r\nDritter Angriff: Fügt jedem Ziel Gesamtschaden in Höhe von **121.3%** des ANG +**728** zu.\r\nVierter Angriff Fügt jedem Ziel Gesamtschaden in Höhe von **145.6%** des ANG +**874** zu.",
+				"icon": "skill_funnel_airattack",
+				"id": "GA_FPlayerFunnelMeleeFire_AirAttack"
+			},
+			{
+				"name": "Erwischt!",
+				"description": "Tippe und halte den normalen Angriff oder führe diese Aktion aus, nachdem „Sperrzone“ ausgelöst wurde, um kontinuierlich sengende Energiestrahlen auf Gegner in der Zielrichtung abzufeuern, die Schaden in Höhe von **40%** des ANG +**240** verursachen. Verbraucht die Ausdauer des Wanderers.",
+				"icon": "skill_funnel_power",
+				"id": "GA_FPlayerFunnelMeleeFire_AimAttack"
+			},
+			{
+				"name": "Lohensturz",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist, um „Lohensturz“ auszulösen.\r\nUmgibt den Körper mit Energie, bevor er rasant in den Boden einschlägt und Zielen in der Nähe Schaden in Höhe von **172.1%** des ANG +**1033** zufügt.",
+				"icon": "skill_funnel_jumpattack",
+				"id": "GA_FPlayerFunnelMeleeFire_JumpAttack"
+			},
+			{
+				"name": "Sperrzone",
+				"description": "Halte die Taste nach dem zweiten normalen Angriff während eines beliebigen Angriffs gedrückt, um dem Ziel Schaden in Höhe von **40%** des ANG +**240** zuzufügen. Das anvisierte Ziel wird für **3** Sekunden gefangen genommen und verbrannt, und ihm wird jede Sekunde Schaden in Höhe von **26.2%** des ANG +**157** zugefügt (unwirksam gegen Bosse).",
+				"icon": "skill_funnel_branch",
+				"id": "GA_FPlayerFunnelMeleeFire_Branch"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Los, Dolly!",
+				"description": "Wirft nach dem Ausweichen Dolly. Dolly bleibt für **10** Sek. im Einsatz, zieht Gegner in der Nähe an, fügt ihnen Schaden in Höhe von **84.6%** des ANG +**508** zu und verspottet sie für **1,5** Sek., um ihre Angriffe auf sich zu lenken (Gegner können nicht verspottet werden, wenn du in einem Team bist).",
+				"icon": "skill_funnel_evadeattack",
+				"id": "GA_FPlayerFunnelEvadeFire_BackAttack"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für **0,5** Sek. immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayeFunnelEvadeFire_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Funkelnde Karambolage",
+				"description": "Spark versprüht Funken, die 15Sek. anhalten und zwischen dem Ziel und dem Wanderer hin und her springen. Wenn das Ziel getroffen wird, verlangsamen die Funken es für **4**Sek. (Abklingzeit: **15** Sek.). Je weiter die Funken fliegen, desto mehr Schaden verursachen sie. Sie fügen dem Ziel bei Treffern Schaden in Höhe von bis zu **380%** des ANG +**4200** zu und belegen es für **25** Sek. mit einer „Lodern“-Markierung. Gleichzeitig feuert Spark 4 Geschosse ab, die dem Ziel jeweils Schaden in Höhe von **50%** des ANG +**300** zufügen. Sparks normale Angriffe fügen Zielen mit „Lodern“-Markierungen **30%** mehr Schaden zu. Wenn Funken Ziele treffen, die unter einem „Verbrennen“-Effekt vom Wanderer leiden, werden einmal verbrannt oder entzündet und erleiden dabei zusätzlichen Schaden in Höhe von **45%** des verbleibenden Gesamtschadens (mehrfache „Verbrennen“- oder „Entzünden“-Effekte werden zusammengerechnet). Anschließend zählen sie erneut 1-mal. Die Abklingzeit für diesen Effekt beträgt **6** Sek. Die Abklingzeit der Fähigkeit beträgt **30** Sek.\r\n**Passiv**: Während Funken aktiv sind, erhält der Wanderer **1** Hitzepunkt, wenn Spark-Angriff Schaden verursacht (Abklingzeit: **0,9** Sek.; bis zu **8** Hitzepunkte). Wenn die Hitzepunkte voll sind, erhält der Wanderer den Effekt „Ultimative Hitze“, der den Flammen-ANG für **25** Sek. um **10%** erhöht.",
+				"icon": "funnel_skill",
+				"id": "GA_FPlayerFunnelSkillFire"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Supernova",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Spark geht in einen aufgeladenen Zustand über und feuert kontinuierlich sengende Energiestrahlen großflächig nach vorne, bis er schließlich explodiert. Verursacht Schaden in Höhe von **750%** des ANG + **4500**. Wenn Funken Ziele trifft, die unter einem vom Wanderer verursachten „Verbrennen“-Effekt leiden, werden die Ziele einmal von Funken verbrannt oder entzündet und erleiden dabei zusätzlichen Schaden in Höhe von **45%** des verbleibenden Gesamtschadens (mehrfache „Verbrennen“- oder „Entzünden“-Effekte werden zusammengerechnet). Die Abklingzeit der Verbrennen-Mechanik beträgt **6** Sek. Die Schadensimmunität hält während der Fähigkeit **1,5** Sek. an. In der Apex-Liga nicht verfügbar.",
+				"icon": "skill_funnel_changeskill",
+				"id": "GA_FPlayerFunnelChangeSkillFire_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Flammenresonanz**: Erhöht Flammen-ANG um **15%** und Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "„Lodern“ erhöht den Schaden von „Spark-Angriff“ um **0%**. Die Fähigkeits-Abklingzeit wird auf **24**Sek. verringert.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "„Lodern“ erhöht den Flammenbonus um **0%** und den Verbrennen-Multiplikator auf **75%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Wenn „Spark-Angriff“ einen Gegner trifft, werden zusätzlich **75** Waffenladungspunkte wiederhergestellt. Abklingzeit: 0,9 Sek. Wenn „Ultimative Hitze“ aktiv ist, wird „Zertrümmern“ um **25%** erhöht.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "„Lodern“ erhöht den Schaden von Spark-Angriff um **0%** und die Effizienz bei der Hitzegewinnung wird verdoppelt. Die Fähigkeits-Abklingzeit wird auf **16** Sek. verringert.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		}
+	],
+	"id": "funnel_fire"
+}

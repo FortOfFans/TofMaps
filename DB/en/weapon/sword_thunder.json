@@ -1,0 +1,90 @@
+{
+	"name": "EM Blade",
+	"description": "The earliest electromagnetic Omnium project. The blade is easy to handle, and is very popular among Wanderers that are not great fighters.",
+	"icon": "item_Weapon_R_Sword_Thunder01",
+	"gachaIcon": "Weapon_R_Sword_Thunder01",
+	"rarity": "R",
+	"element": "Thunder",
+	"weaponType": "Sword",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 15,
+		"Item_Mine_thunder_02": 25,
+		"Item_breakthrough_B2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_thunder_03": 14,
+		"Item_breakthrough_B3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_B1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "sword_thunder_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Quick Slash",
+				"description": "While on the ground, swing the blade to attack 5 times in a row.\r\nFirst Attack: Deal damage equal to **34.6%** of ATK plus **208** and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to **30.1%** of ATK plus **181** and knock the target back a short distance.\r\nThird Attack: Deal damage equal to **27.4%** of ATK plus **164** and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to **47.9%** of ATK plus **287** and knock the target back a short distance.\r\nFifth Attack: Deal damage equal to **72.2%** of ATK plus **433** and **launch** the target.",
+				"icon": "skill_sword_melee",
+				"id": "GA_FPlayerSwordMelee_Melee_R"
+			},
+			{
+				"name": "Jumping Strike",
+				"description": "While airborne, use normal attack to attack 4 times in a row.\r\nFirst Attack: Deal damage equal to **15.7%** of ATK plus **94**.\r\nSecond Attack: Deal damage equal to **25.3%** of ATK plus **152**.\r\nThird Attack: Deal damage equal to **45.1%** of ATK plus **271**.\r\nFourth Attack: Deal damage equal to **67.4%** of ATK plus **404** and deliver a **knockdown**.",
+				"icon": "skill_sword_air",
+				"id": "GA_FPlayerSwordMelee_AirAttack_R"
+			},
+			{
+				"name": "Cyclone",
+				"description": "Tap and hold the normal attack button after normal attacks to trigger Cyclone.\r\nUpon hit, suspend the target and deal **22.3%** of ATK plus **134** to a single target.",
+				"icon": "skill_sword_branch",
+				"id": "GA_FPlayerSwordMelee_Branch_R"
+			},
+			{
+				"name": "Diving Edge",
+				"description": "Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Diving Edge.\r\nWhile falling, deal damage equal to **6.4%** of ATK plus **38** each hit. Upon landing, deal damage equal to **35.6%** of ATK plus **214** to surrounding targets and knock them back.\r\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to **600%** damage.",
+				"icon": "skill_sword_jump",
+				"id": "GA_FPlayerSwordMelee_JumpAttack_R"
+			},
+			{
+				"name": "Sneak Attack",
+				"description": "Approach the enemy from behind while crouching, then use normal attack to trigger Sneak Attack, dealing damage equal to **256.5%** of ATK plus **1539**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSwordMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Dodge",
+				"description": "Dodge right before getting hit to trigger Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. Become immune to hitstun while dodging for **0.5** seconds.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSwordEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Roam",
+				"description": "Roam between targets, dealing total damage equal to **227.1%** of ATK plus **1362** to up to **5** targets, with the last hit suspending the target. Immune to hitstun while active. Reduce damage dealt to the same target by **40%** each time. **10**-second cooldown.",
+				"icon": "sword_skill1",
+				"id": "GA_FPlayerSwordSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Unbridled Flurry",
+				"description": "When **weapon charge** is full or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer**, then rush to the target and **strongly suspend** them, dealing damage equal to **266.6%** of ATK plus **1599**.",
+				"icon": "skill_sword_changeskill",
+				"id": "GA_FPlayerSwordChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 3.6,
+				"charge": 8.8
+			},
+			"need": "None"
+		}
+	],
+	"id": "sword_thunder"
+}

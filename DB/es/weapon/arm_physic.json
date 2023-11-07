@@ -1,0 +1,198 @@
+{
+	"name": "Vesper",
+	"avatar": {
+		"name": "Lira",
+		"advanceId": "imitation_24L1",
+		"weapon": "arm_physic",
+		"icon": "imitation_24",
+		"avatarID": "xinghuan",
+		"age": "23 de junio",
+		"height": "174 cm",
+		"gender": "Femenino",
+		"state": "Fondo Maidelin",
+		"city": "Desconocido",
+		"rating": "wuwei_imitation_24",
+		"gp": [
+			"everydayObjects",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 常佳梦"
+			},
+			{
+				"Japanese": "CV : 大原 さやか"
+			},
+			{
+				"English": "CV : Ryan Bartley"
+			},
+			{
+				"Korean": "CV : 윤은서"
+			},
+			{
+				"Portuguese": "CV : Maitê Cunha"
+			}
+		],
+		"id": "imitation_24"
+	},
+	"description": "Un arma de soporte hecha a medida para un integrante de la Fundación Maidelin. La Sra. Maidelin cree que Lira podría darle un buen uso.",
+	"icon": "item_Weapon_SSR_Arm_Physic01",
+	"gachaIcon": "SSR_lh_xinghuan",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Arm",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "arm_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Pasiva de ataque de Vesper normal",
+				"description": "**Iluminación**: El ataque normal de Vesper sin Resonancia de Sacramento inflige daño adicional a los objetivos que lleven **Marca de Iluminación** al impacto igual al número de guardias que lleves × **2.1%** del ATQ (no más del 12.6% × ATQ en total). Ese daño no activará efectos de ataque adicionales y se considera daño de habilidades de descarga y de armas.\r\n\r\nEl ataque normal de Vesper con Resonancia de Sacramento inflige daño adicional al impacto contra objetivos que lleven **Marca de Iluminación** igual al número de guardias que lleven tus compañeros y tú × **1.5%** del ATQ (no más del 12% × ATQ en total). Ese daño no activará efectos de ataque adicionales y se considera como daño de habilidades de descarga y de armas.\r\n**Brillante**: Todos los ataques normales de Vesper restauran PS al impacto igual a **15%** del ATQ.\r\n**Impacto Sagrado**: El ataque aéreo y Acumulación de Vesper pueden convertir el 60% de la carga en destrucción.\r\n**Guardia**: Por cada **15%** de pérdida de PS Máx. o cada **300** de carga de arma obtenida, obtienes hasta **5** Guardias de Iluminación para ti (pueden producirse en la ranura secundaria). Las Guardias de Iluminación duran **25**seg. Si tienes el número máximo de Guardias de Iluminación, los nuevos Guardias de Iluminación atacarán a los enemigos, lo que inflige daño físico igual a **48%** del ATQ; y luego, desaparecerán. Ese daño no activa efectos de ataque adicionales.\r\n\r\nAviso: En Fantasma del Pasado, Vesper no se considera un arma de soporte.",
+				"icon": "skill_arm_skill1",
+				"id": "None"
+			},
+			{
+				"name": "Ataque normal de Vesper",
+				"description": "Mientras estás en el suelo, usa a Vesper para lanzar 5 ataques consecutivos.\r\nPrimer ataque: Inflige daño igual a **81.6%** del ATQ más **490** y hace retroceder un poco al objetivo.\r\nSegundo ataque: Inflige daño igual a **59.1%** del ATQ más **355** y hace retroceder al objetivo considerablemente.\r\nTercer ataque: Inflige daño igual a **123.9%** del ATQ más **743** y hace retroceder un poco al objetivo.\r\nCuarto ataque: Inflige daño igual a **173%** del ATQ más **1038** y suspende al objetivo.\r\nQuinto ataque: Inflige daño igual a **196.4%** del ATQ más **1178** y lanza al objetivo.",
+				"icon": "skill_arm_melee",
+				"id": "GA_FPlayerArmMeleePhy_Melee"
+			},
+			{
+				"name": "Frustración",
+				"description": "Mientras estás en el aire, pulsa el ataque normal para desatar Frustración. Cada golpe inflige daño igual a **33.2%** del ATQ más **199** y consume **10** de resistencia. El último impacto inflige daño igual a **124.5%** del ATQ más **747** y lanza al objetivo.\r\nAl desatar Frustración, agarra al objetivo si es posible y lo lanza al suelo, lo que inflige daño igual a **556.6%** del ATQ más **3339** en total.",
+				"icon": "skill_arm_airattack",
+				"id": "GA_FPlayerArmMeleePhy_AirAttack"
+			},
+			{
+				"name": "Acumulación",
+				"description": "Mantén pulsado el ataque normal hasta **3** cargas. **Suspende fuerte** al objetivo al impacto, y te vuelves inmune al daño y a los efectos de control durante un ataque de Acumulación. Soltar antes de recibir el impacto puede activar Phantasia.\r\nImpacto cargado de la fase 1: Inflige daño igual a **96%** del ATQ más **576**.\r\nImpacto cargado de la fase 2: Inflige daño igual a **223%** del ATQ más **1338**.\r\nImpacto cargado de la fase 3: Inflige daño igual a **360.5%** del ATQ más **2163**.",
+				"icon": "skill_arm_powerattack",
+				"id": "GA_FPlayerArmMeleePhy_PowerAttack"
+			},
+			{
+				"name": "Brillo",
+				"description": "Pulsa y mantén pulsado el ataque normal durante los ataques normales o después de evadir para desatar Brillo. Cada golpe inflige daño igual a **20%** del ATQ más **120** y consume **10** de resistencia. Suelta para activar Acumulación.",
+				"icon": "skill_arm_branch",
+				"id": "GA_FPlayerArmMeleePhy_Branch"
+			},
+			{
+				"name": "Vapuleador",
+				"description": "En el aire, pulsa y mantén pulsado el ataque normal para activar 3 cargas en el aire. Suelta para vapulear el suelo y **suspende fuerte** a los objetivos. Soltar antes de recibir el impacto puede activar Phantasia.\r\nAtaque cargado de la fase 1: Inflige daño igual a **166.3%** del ATQ más **998**.\r\nAtaque cargado de la fase 2: Inflige daño igual a **288.2%** del ATQ más **1729**.\r\nAtaque cargado de la fase 3: Inflige daño igual a **454.4%** del ATQ más **2726**.",
+				"icon": "skill_arm_jumpattack",
+				"id": "GA_FPlayerArmMeleePhy_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Captura Mental",
+				"description": "Tras evadir, pulsa el ataque normal para atraer al objetivo hacia ti por **2**seg, lo que inflige daño igual a **261.4%** del ATQ más **1568**. Pulsar y mantener pulsado el ataque normal después de evadir puede activar **Brillo** después de desatar **Captura Mental**.",
+				"icon": "skill_arm_evadeattack",
+				"id": "GA_FPlayerArmEvadePhy_BackAttack"
+			},
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante **0.5**seg y recuperas **250** de resistencia.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerArmEvadePhy_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Guardia de Perdón",
+				"description": "**Guardia de Perdón**: Cuando el efecto de curación se desborda, obtienes un escudo de PS igual a hasta **25%** de tus PS Máx. Cuando Vesper tiene Guardia de Perdón, se activan diferentes efectos de guardia bajo diferentes Resonancias.\r\n**Guardia de Sacramento**: La habilidad se sustituye por **Alba**, y el nómada no gana más Guardia de Iluminación, que se convierte en Guardia de Perdón para sus compañeros. Gana 1 Guardia de Perdón por cada **15%** de PS Máx. curado, y otorga hasta 1 Guardia de Perdón a cada compañero. Si cada compañero tiene uno, la Guardia de Perdón inflige daño físico igual a **60%** del ATQ a un enemigo y desaparece. Ese daño no activa efectos de ataque adicionales. También aumenta los PS Máx. en **10%** para tus compañeros para ti. Este efecto no se puede acumular.\r\n**Guardia Ofensiva**: Cuando una habilidad de Vesper impacta, obtienes inmediatamente un escudo igual a **30%** de tus PS Máx. Enfriamiento: **30**seg.\r\n**Guardia de Fortaleza**: Cuando una habilidad de Vesper impacta, obtienes inmediatamente curación, lo que restaura **2%** de tus PS Máx. por segundo por **20**seg. Enfriamiento: **30**seg.\r\n**Guardia de Equilibrio**: Cuando los PS son superiores a **50%**, aumenta la destrucción en **20%**. Cuando los PS son inferiores a **50%**, aumenta el daño final en **10%** y la destrucción en **10%**.",
+				"icon": "skill_arm_skill1",
+				"id": "GA_FPlayerArmSkillPhyPas"
+			},
+			{
+				"name": "Caída de Estrellas",
+				"description": "Salta hacia el objetivo, lo que inflige daño igual a **771%** del ATQ más **4212** y lo **suspende fuerte**. Inflige una Marca de Iluminación en el objetivo por **18**seg. Enfriamiento: **20**seg.",
+				"icon": "skill_arm_airattack2",
+				"id": "GA_FPlayerArmPublishSkillPhy"
+			},
+			{
+				"name": "Alba",
+				"description": "Vapulea el suelo y **lanza fuerte** a los objetivos al frente, lo que inflige daño igual a **771%** del ATQ más **4212** e invoca hasta **3** **Cuchillas** por **75**seg (hasta 1 Cuchilla cada 2 metros). Puedes usar esta habilidad hasta **3** veces, con un enfriamiento de **20**seg cada vez. Cuando existan 2 **Cuchillas** en el campo, se crea un **Brilloclaro**. Cuando se toca una **Cuchilla**, cura a los objetivos dentro del radio de movimiento, lo que restaura PS igual a **25%** del ATQ del objetivo. Cuando existen 3 **Cuchillas**, se crea una **Nebulosa**. Cuando se toca una **Cuchilla**, daña a los objetivos dentro del radio de movimiento, lo que inflige daño igual a **150%** del ATQ × la distancia de movimiento / **5**m.",
+				"icon": "skill_arm_skill2",
+				"id": "GA_FPlayerArmLawSkillPhy"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Suspiro Melodioso",
+				"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y desata Suspiro Melodioso, lo que inflige **748.1%** del ATQ más **4488** de daño y añade una marca de Iluminación al objetivo por **18**seg, durante los cuales, la inmunidad al daño dura **1.5**seg (no disponible en la Liga Ápex).",
+				"icon": "skill_arm_changeskill",
+				"id": "GA_FPlayerArmChangeSkillPhy_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia Física**: Aumenta el ATQ físico un **15%** y la resistencia física un **25%**. Se activa equipando **2** o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Sacramento Físico**: Aumenta el ATQ físico de todo el equipo un **5%** cuando se activa Resonancia de Sacramento.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Al desatar cualquier habilidad de arma o descarga, si tus guardias están al máximo, restaura su duración e inflige **3000%** del ATQ Físico × el número de guardias al enemigo como daño físico. Máximo 8 guardias bajo el efecto de Sacramento, y hasta 6 sin él.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Aumenta todo el daño infligido por las guardias un **20%** y aumenta el daño final del objetivo protegido un **15%** por **10 seg** al desatar cualquier habilidad de arma o de descarga bajo el efecto de Resonancia de Sacramento.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Guardia de Perdón: Después de liberar Resonancia 5 veces, recibes **1** oportunidad de anular daño letal para el portador y el objetivo protegido. Después de que un compañero niegue el daño letal, consumirá Guardia de Perdón y recuperará un **5%** de sus PS Máx. No disponible en la Liga Ápex.\r\nGuardia de Iluminación: Después de liberar Resonancia 5 veces y al tener la Guardia de Iluminación, el portador recibe **2** oportunidades de anular daño letal. Se acumula hasta **5** veces. Después de que el portador niegue daño letal, consumirá 1 acumulación de Guardia de Iluminación y recuperará un **5%** de sus PS Máx. No disponible en la Liga Ápex.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Al desatar cualquier habilidad de arma o de descarga, el aumento del daño final y de la curación depende del número de guardias. Cada guardia aumenta el daño final y la curación un **1.6%**, hasta **8%** por **25seg**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		}
+	],
+	"id": "arm_physic"
+}

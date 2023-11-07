@@ -1,0 +1,185 @@
+{
+	"name": "Tejesombras",
+	"avatar": {
+		"name": "Lin",
+		"advanceId": "imitation_23L1",
+		"weapon": "fan_superpower",
+		"icon": "imitation_23",
+		"avatarID": "linye",
+		"age": "3 de septiembre",
+		"height": "175 cm",
+		"gender": "Femenino",
+		"state": "Distrito 7 de Hykros",
+		"city": "Espejia",
+		"rating": "wuwei_imitation_23",
+		"gp": [
+			"metal",
+			"decorate",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈婷婷"
+			},
+			{
+				"Japanese": "CV : 南條 愛乃"
+			},
+			{
+				"English": "CV : Erin Yvette"
+			},
+			{
+				"Korean": "CV : 조경이"
+			},
+			{
+				"Portuguese": "CV : Carol Valença"
+			}
+		],
+		"id": "imitation_23"
+	},
+	"description": "El diseño inicial la muestra como un arma pensada para ser secreta y ligera, pero cambió a una espada pesada a solicitud de su usuario. Es pesada y para nada discreta.",
+	"icon": "item_Weapon_SSR_fan_superpower01",
+	"gachaIcon": "SSR_lh_linye",
+	"rarity": "SSR",
+	"element": "Superpower",
+	"weaponType": "Fan",
+	"wc": "DPS",
+	"mats": {
+		"Item_breakthrough_A1": 28,
+		"Item_breakthrough_B1": 28,
+		"": null,
+		"Item_breakthrough_C1": 26,
+		"Item_breakthrough_D1": 26,
+		"Item_breakthrough_A2": 50,
+		"Item_breakthrough_B2": 50,
+		"Item_breakthrough_C2": 50,
+		"Item_breakthrough_D2": 50,
+		"Item_breakthrough_A3": 26,
+		"Item_breakthrough_B3": 26,
+		"Item_breakthrough_C3": 26,
+		"Item_breakthrough_D3": 26
+	},
+	"advanceID": "fan_superpower_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Ataque normal",
+				"description": "Mientras estás en el suelo, utiliza Tejesombras para lanzar 5 ataques consecutivos.\r\nPrimer ataque: Inflige daño igual a **59.9%** del ATQ más **359**.\r\nSegundo ataque: Inflige daño igual a **57.1%** del ATQ más **343**.\r\nTercer ataque: Inflige daño igual a **49.5%** del ATQ más **297**.\r\nCuarto ataque: Inflige daño igual a **114.2%** del ATQ más **685** y suspende al objetivo.\r\nQuinto ataque: Inflige daño igual a **152.2%** del ATQ más **913**.",
+				"icon": "skill_Fan_melee",
+				"id": "GA_FPlayerFanMelee_Melee"
+			},
+			{
+				"name": "Descarga Aérea",
+				"description": "Mientras estás en el aire, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\r\nPrimer ataque: Inflige daño igual a **30.6%** del ATQ más **184**.\r\nSegundo ataque: Inflige daño igual a **55.6%** del ATQ más **334**.\r\nTercer ataque: Inflige daño igual a **48.2%** del ATQ más **289**.\r\nCuarto ataque: Inflige daño igual a **111.2%** del ATQ más **667**.\r\nQuinto ataque: Inflige daño igual a **148.3%** del ATQ más **890**.",
+				"icon": "skill_Fan_air",
+				"id": "GA_FPlayerFanMelee_AirAttack"
+			},
+			{
+				"name": "Suelo Disperso",
+				"description": "Tras el segundo ataque normal en el suelo o en el aire, mantén el ataque normal para activar Suelo Disperso.\r\nAtaca la posición del objetivo, lo que inflige daño igual a **83.2%** del ATQ más **499** y derriba al objetivo.\r\nPasiva: Después de desatar Suelo Disperso en el suelo, al pulsar rápidamente el ataque normal, se desatará inmediatamente Floración Breve (la 3.a acumulación).",
+				"icon": "skill_Fan_branch",
+				"id": "GA_FPlayerFanMelee_Branch"
+			},
+			{
+				"name": "Floración Breve",
+				"description": "Mantén el ataque normal para desatar Floración Breve. Se puede cargar hasta 3 acumulaciones; otorga hipercuerpo e inmunidad al control durante la carga.\r\nPrimera acumulación: Inflige daño igual a **73.9%** del ATQ más **443**.\r\nSegunda acumulación: Inflige daño igual a **146.2%** del ATQ más **877**.\r\nTercera acumulación: Inflige daño igual a **246.4%** del ATQ más **1478**.",
+				"icon": "skill_Fan_powerattack",
+				"id": "GA_FPlayerFanMelee_PowerAttack"
+			},
+			{
+				"name": "Sombra Caída",
+				"description": "Mantén pulsado el ataque normal en el aire para activar Sombra Caída.\r\nCae en picada desde los cielos, lo que inflige daño igual a **160%** del ATQ más **960** y derriba al objetivo.",
+				"icon": "skill_Fan_jumpattack",
+				"id": "GA_FPlayerFanMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante **0.5**seg.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerFanEvade_Evade"
+			},
+			{
+				"name": "Verde Hoja",
+				"description": "Desata Verde Hoja sobre el objetivo mientras realizas una voltereta, lo que inflige daño igual a **70%** del ATQ más **420**, genera de **1 a 3** epífilos al impacto, y forma un Campo Verde que dura **5**seg. Cuando los enemigos del Campo Verde se fijan en el nómada, su velocidad de movimiento se reduce un **50%**.\r\nPasiva: Se puede desatar en el suelo o en el aire.\r\nPasiva: Rompe inmediatamente el control si estás bajo efectos de control y libera automáticamente Verde Hoja sin usar ningún intento de evasión. El enfriamiento de la habilidad dura **20**seg.",
+				"icon": "skill_Fan_rollattack",
+				"id": "GA_FPlayerFanEvade_RollAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Reino de luz lunar",
+				"description": "Crea un Reino de Luz Lunar a tu alrededor por **15**seg. Tu ataque en el reino aumenta un **15%**, la capacidad de salto aumenta un **20%**, y el consumo de resistencia se reduce un **50%**. Enfriamiento: **30**seg.\r\nEntra en el estado especial Estallido Aéreo al usar Tejesombras en el reino. Tu velocidad de caída se reduce considerablemente y puedes realizar múltiples saltos dobles. En este estado, si utilizas los controles de dirección y el botón de salto mientras estás en el aire, realizarás un Recorrido y lanzarás un ataque al objetivo. Al impacto, inflige daño igual a **66%** del ATQ más **396** y genera aleatoriamente de **1 a 3** epífilos.\r\n\r\nPasiva: En el Reino de Luz Lunar, se generará **1** epífilo cerca de 1 objetivo cada **0.8**seg. \r\nPasiva: Cuando usas Tejesombras en el Reino de Luz Lunar, inflige **50%** de daño adicional a los enemigos con menos de **20%** de PS.\r\nPasiva: Al usar Tejesombras en el Reino de Luz Lunar, te teletransporta lejos del objetivo cuando se detecte daño entrante. Enfriamiento: **10**seg.\r\n\r\nPasiva: Maestre de Armas\r\nFuego: Cuando Tejesombras se empareja con 2 armas de fuego, el Reino de Luz Lunar se convierte en Fuego: Reino de Luz Lunar. Cuando un objetivo se quema mientras está en Fuego: Reino de Luz Lunar, se quema por **4**seg adicionales. Los objetivos con escudo reciben **15%** de daño de fuego adicional. \r\n\r\nEléctrico: Cuando Tejesombras se empareja con 2 armas eléctricas, Reino de Luz Lunar se convierte en Eléctrico: Reino de Luz Lunar. Al estar en Eléctrico: Reino de Luz Lunar, evadir tiene una probabilidad de **65%** de no consumir un intento de evasión, los ataques de evasión infligen **5%** de daño adicional, y aumenta el daño eléctrico en **10%**.\r\n\r\nEscarcha: Cuando Tejesombras se empareja con 2 armas de escarcha, Reino de Luz Lunar se convierte en Escarcha: Reino de Luz Lunar. Mientras estás en Escarcha: Reino de Luz Lunar, el ATQ de escarcha aumenta en **10%**.\r\n\r\nFísico: Cuando Tejesombras se empareja con 2 armas físicas, Reino de Luz Lunar se convierte en Físico: Reino de Luz Lunar. Mientras estás en Físico: Reino de Luz Lunar, inflige daño igual a **50%** del ATQ más **300** a los objetivos al alcance del ataque cada segundo.\r\n\r\nEquilibrio: Cuando Tejesombras se empareja con dos armas elementales diferentes (entre armas de fuego, eléctricas, de escarcha y físicas), el ATQ del nómada aumenta un **15%** en el reino, y se considera que activa la resonancia de fuego, eléctrica, escarcha y física sin efectos de resonancia.",
+				"icon": "skill_Fan_skill",
+				"id": "GA_FPlayerFanSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Tejido de Gravedad",
+				"description": "Cuando la **carga de arma está completa** o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y desata Tejido de Gravedad con una fuerza de absorción mayor, lo que inflige daño igual a **368.5%** del ATQ más **2211**. Luego explota y crea una oleada de difusión a distancia después de **5**seg, lo que inflige daño igual a **184.3%** más **1106**. La inmunidad al daño dura **1.5**seg mientras la habilidad está activa (no disponible en la Liga Ápex).",
+				"icon": "skill_Fan_changeskill",
+				"id": "GA_FPlayerFanChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "Al emparejar Tejesombras con otras armas, se puede crear el efecto **Maestre de Armas**.\r\nEl epífilo aparecerá alrededor del objetivo de forma aleatoria y explotará dentro de **1 a 3**seg, lo que inflige un **37.5%** de daño de área.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Los ataques normales ahora infligen daño de área al impacto.\r\nCuando hay otro epífilo dentro del área de explosión de epífilo, aumenta el daño de cada una de las explosiones de epífilo posteriores en **1000%**, hasta **5000%** en total.\r\nEl intervalo de generación de epífilos de **Reino de Luz Lunar** se vuelve de **0.5** segundos.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "El intervalo de generación de epífilo de **Reino de Luz Lunar** se reduce a **0.3** segundos.\r\nLos epífilos se unirán al enemigo.\r\nAumenta la duración de **Reino de Luz Lunar** a **20** segundos.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Cuando estás bajo el efecto de **Reino de Luz Lunar**, obtienes **30** de carga de arma cada segundo y el daño de la habilidad de descarga aumenta un **15%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Cambia de modo en **Reino de Luz Lunar** hasta **2** veces. Gana **1** intento después del enfriamiento de la habilidad y **1** intento más cargando la descarga.\r\nUsa cualquier descarga de arma **3** veces para ganar **+1** en la cuenta de **Reino de Luz Lunar**. Tiene efecto incluso cuando Tejesombras está en la ranura secundaria.\r\nCuando estás bajo el efecto de **Reino de Luz Lunar**, aumenta el ataque en **23%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		}
+	],
+	"id": "fan_superpower"
+}

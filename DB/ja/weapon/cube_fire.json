@@ -1,0 +1,180 @@
+{
+	"name": "ネガティブキューブ",
+	"avatar": {
+		"name": "ゼロ",
+		"advanceId": "imitation_1L1",
+		"weapon": "cube_fire",
+		"icon": "imitation_1",
+		"avatarID": "ling",
+		"age": "6 Juni",
+		"height": "155 cm",
+		"gender": "Laki-Laki",
+		"state": "記録なし",
+		"city": "ベンジス",
+		"rating": "wuwei_imitation_1",
+		"gp": [
+			"game",
+			"restrictedGoods"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 蔡海婷"
+			},
+			{
+				"Japanese": "CV : 村瀬 歩"
+			},
+			{
+				"English": "CV : Griffin Burns"
+			},
+			{
+				"Korean": "CV : 김나율"
+			},
+			{
+				"Portuguese": "CV : Henry Walnut"
+			}
+		],
+		"id": "imitation_1"
+	},
+	"description": "キューブの使う者は様々な方法を考え出して不要な条件を否定できる",
+	"icon": "item_Weapon_SSR_Cube_Fire01",
+	"gachaIcon": "SSR_lh_mf",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Cube",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "cube_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "通常攻撃",
+				"description": "地上にいる時、キューブを操作すると5回連続攻撃できる。ターゲットに与える合計ダメージと効果は次の通り。\r\n1回目：攻撃力×**56%**+**336**のダメージ\r\n2回目：攻撃力×**45.8%**+**275**のダメージ\r\n3回目：攻撃力×**142.2%**+**854**のダメージ\r\n4回目：攻撃力×**95.5%**+**574**のダメージ\r\n5回目：攻撃力×**97.1%**+**582**のダメージを最大3回与え、ターゲットを**ノックアップ**\r\n**パッシブ：通常攻撃がターゲットに6回命中すると、キューブを1個獲得する。キューブは最大で5個までスタック可能**",
+				"icon": "pugong_cube",
+				"id": "GA_FPlayerCubeMelee_Melee"
+			},
+			{
+				"name": "オムニアムミサイル",
+				"description": "滞空時に通常攻撃を行うとキューブのエネルギーを開放し、最大**5**発のミサイルを放ってターゲットに攻撃力×**71.2%**+**427**のダメージを与える。最大でスタミナを**250**Pt消費\r\n**パッシブ：探索者がキューブを累積している場合、オムニアムミサイルを使用して、すべてのキューブを消費してターゲットにダメージを与える**",
+				"icon": "skill_cube_airattack",
+				"id": "GA_FPlayerCubeMelee_AirAttack"
+			},
+			{
+				"name": "あふれるエナジー",
+				"description": "1段ジャンプまたは滞空時に攻撃を使用すると、あふれるエナジーを発動できる。\r\n探索者の着地時、前方に振動波を放ち、命中したターゲットに最大で攻撃力×**28.1%**+**168**のダメージを与える。",
+				"icon": "skill_cube_jumpattack",
+				"id": "GA_FPlayerCubeMelee_JumpAttack"
+			},
+			{
+				"name": "オムニアムインパクト",
+				"description": "3回目の通常攻撃の後、通常攻撃を長押しするとオムニアムインパクトを発動できる。\r\nエナジー柱が自身の周囲のターゲットをノックアップし、攻撃力×**82.1%**+**492**のダメージを与える。持続時間5秒。周囲のターゲットに毎秒、攻撃力×**34.2%**+**205**のダメージを与える。",
+				"icon": "skill_cube_branch",
+				"id": "GA_FPlayerCubeMelee_Branch"
+			},
+			{
+				"name": "エナジーの守護",
+				"description": "探索者の周りを回転するキューブが敵に攻撃力×**11.6%**+**70**のダメージを与える",
+				"icon": "skill_cube_melee",
+				"id": "SsrCubecubebattle"
+			},
+			{
+				"name": "エナジーミサイル",
+				"description": "探索者がオムニアムミサイルやあふれるエナジーを使用した時、探索者の周りのキューブが飛んでいき、ターゲットに攻撃力×**48.5%**+**291**のダメージを与える",
+				"icon": "skill_cube_pas",
+				"id": "SsrCubecube"
+			}
+		],
+		"dodge": [
+			{
+				"name": "ひらめき",
+				"description": "ジャスト回避を成功させると幻想タイムが発動し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直無効。**0.5**秒間持続\r\n探索者のオムニアムキューブが**5**個未満であれば、回避のたびに**40%**の確率で回避回数を1回回復する\r\n回避しても通常攻撃の連撃回数を中断せず、回避前の通常攻撃の回数と合算できる\r\n**パッシブ：空中回避を1回使用するたびにキューブを1個獲得する**",
+				"icon": "common_evade",
+				"id": "GA_FPlayerCubeEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "オムニアムの盾",
+				"description": "自身および周囲の味方に攻撃力×**800%**のダメージを防ぐシールドを与える。**10**秒間持続。さらに周囲のターゲットに攻撃力×**142.9%**+**857**のダメージを与え、**強制ノックアップ**するスキル発動時にキューブを持っている場合、キューブ1個につきシールドの上限を攻撃力の**160%**上昇させ、キューブをすべて消費する。クールダウン**60**秒",
+				"icon": "cube_skill",
+				"id": "GA_FPlayerCubeSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "オムニアムの飛躍",
+				"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。キューブを**5**個獲得し、振動波と**5**個のキューブを放つ。振動波は探索者周囲のターゲットに攻撃力×**171%**+**1026**のダメージと**強制ノックアップ**を与え、キューブは1個につき攻撃力×**48.5%**+**291**のダメージを与える。周囲に味方がいる場合、味方と自身を**3**秒間の被ダメージ無効にする",
+				"icon": "skill_cube_changeskill",
+				"id": "GA_FPlayerCubeChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**炎共鳴**：炎属性武器を**2**つ以上装備すると発動。炎攻撃力+**15%**、炎耐性+**25%**。装備すると常時有効、同系統の効果はスタック不可。\r\n**炎の恩恵**：自身が恩恵共鳴を発動していると、チーム全体の炎攻撃力+**5%**。",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "None"
+		},
+		{
+			"description": "ダメージを与える際にヒールエナジー球を生成し、**20**秒存在する。ヒールエナジー球を受け取ったチームメイトは攻撃力×**60%**のHPを回復、クールダウン**2**秒",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		},
+		{
+			"description": "現在の武器の攻撃力基本成長率+**16%**。",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		},
+		{
+			"description": "スキルのクールダウンが**60**秒から**30**秒に短縮され、シールド期間は毎秒HPを攻撃力×**30%**回復する",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		},
+		{
+			"description": "現在の武器のHP基本成長率+**32%**",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		},
+		{
+			"description": "ダメージを与える際にダメージエナジー球を生成し、**20**秒間存在する。ダメージエナジー球を受け取ったチームメイトは全ダメージと回復効果+**2%**、最大**10**スタックまで可能。**30**秒間持続し、クールダウン**2.5**秒",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		},
+		{
+			"description": "スキル発動時、仲間にオムニアムキューブと同数のヒールエナジー球とダメージエナジー球の効果を与える",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		}
+	],
+	"id": "cube_fire"
+}

@@ -1,0 +1,90 @@
+{
+	"name": "Arc composite",
+	"description": "Une arme communément utilisée par les chasseurs du champ de neige. Facile à manier et d'une très grande précision. Grâce à la publicité, elle a conquis plus de la moitié du marché civil.",
+	"icon": "item_Weapon_SR_Bow_Fire01",
+	"gachaIcon": "Weapon_R_Bow_Phy01",
+	"rarity": "R",
+	"element": "Flame",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 15,
+		"Item_Mine_fire_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_C2": 25,
+		"Item_Mine_fire_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_C3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_C1": 12
+	},
+	"advanceID": "bow_fire_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Attaque normale",
+				"description": "Lorsque vous êtes au sol, utilisez l'arc pour attaquer 5fois de suite.\r\nPremière attaque: inflige des dégâts équivalant à **27.3%** de l'ATQ + **164**.\r\nDeuxième attaque: inflige des dégâts équivalant à **24.4%** de l'ATQ + **146**.\r\nTroisième attaque: inflige des dégâts équivalant à **43.8%** de l'ATQ + **263**.\r\nQuatrième attaque: inflige des dégâts équivalant à **67.8%** de l'ATQ + **407**.\r\nCinquième attaque: inflige des dégâts équivalant à **62.9%** de l'ATQ + **377** et repousse la cible sur une courte distance.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_Melee"
+			},
+			{
+				"name": "Flèche chargée",
+				"description": "Appuyez et maintenez Attaque normale pour charger une attaque. Vous infligez des dégâts de base équivalant à **49.1%** de l'ATQ + **295**, et **50%** de plus chaque fois que vous passez **1**seconde à charger, jusqu'à **3**secondes. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible de l'ennemi, et vous renversez la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs).",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttack"
+			},
+			{
+				"name": "Pluie de flèches",
+				"description": "Après une attaque normale, maintenez Attaque normale pour déclencher Pluie de flèches, qui inflige aux cibles jusqu'à **160%** de l'ATQ + **960** dégâts de zone.",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_Branch"
+			},
+			{
+				"name": "Salve aérienne",
+				"description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 4fois de suite.\r\nPremière attaque: inflige des dégâts équivalant à **31.5%** de l'ATQ + **189**.\r\nDeuxième attaque: inflige des dégâts équivalant à **41.4%** de l'ATQ + **248**.\r\nTroisième attaque: inflige des dégâts équivalant à **63%** de l'ATQ + **378**.\r\nQuatrième attaque: inflige des dégâts équivalant à **94.8%** de l'ATQ + **569**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. Temps de recharge : 15 secondes. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_Evade"
+			},
+			{
+				"name": "Flèche piégée",
+				"description": "Appuyez sur Attaque après une esquive pour déclencher Flèche piégée, qui repousse la cible sur une courte distance et inflige des dégâts équivalant à **69.3%** de l'ATQ + **416**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Tir perçant",
+				"description": "Vous faites un salto arrière et tirez **1**tir perçant vers l'avant, qui inflige des dégâts équivalant à **125.4%** de l'ATQ + **752**, et repousse la cible. Temps de recharge : **12**secondes.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Barrage explosif",
+				"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur**, et déclenche un Barrage explosif sur la cible au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à **396%** de l'ATQ + **2376**.",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 4.8,
+				"charge": 8
+			},
+			"need": "None"
+		}
+	],
+	"id": "bow_fire"
+}

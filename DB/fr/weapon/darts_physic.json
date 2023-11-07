@@ -1,0 +1,180 @@
+{
+	"name": "Chakram des mers",
+	"avatar": {
+		"name": "Shiro",
+		"advanceId": "imitation_8L1",
+		"weapon": "darts_physic",
+		"icon": "imitation_8",
+		"avatarID": "xiluo",
+		"age": "22 septembre",
+		"height": "163cm",
+		"gender": "Féminin",
+		"state": "Inconnu",
+		"city": "Warren",
+		"rating": "wuwei_imitation_8",
+		"gp": [
+			"metal",
+			"collection",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 蔡娜"
+			},
+			{
+				"Japanese": "CV : 小澤 亜李"
+			},
+			{
+				"English": "CV : Kristen McGuire"
+			},
+			{
+				"Korean": "CV : 양정화"
+			},
+			{
+				"Portuguese": "CV : Fernanda Bullara"
+			}
+		],
+		"id": "imitation_8"
+	},
+	"description": "Une arme ronde et tranchante qui a voyagé sur les mers avec son propriétaire.",
+	"icon": "item_Weapon_SSR_Darts_Phy01",
+	"gachaIcon": "SSR_lh_hr",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Darts",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "darts_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Jet rapide",
+				"description": "Lorsque vous êtes au sol, brandissez le chakram pour déclencher 5attaques tournoyantes.\r\nPremière attaque: inflige des dégâts équivalant à **35.3%** de l'ATQ + **212**.\r\nDeuxième attaque: inflige des dégâts équivalant à **27.4%** de l'ATQ + **164**.\r\nTroisième attaque: inflige des dégâts équivalant à **39.1%** de l'ATQ + **235**.\r\nQuatrième attaque: inflige des dégâts équivalant à **35.3%** de l'ATQ + **212**.\r\nCinquième attaque: inflige des dégâts équivalant à **61.9%** de l'ATQ + **371**, et repousse la cible sur une courte distance.",
+				"icon": "skill_darts_melee",
+				"id": "GA_FPlayerDartsMelee_Melee"
+			},
+			{
+				"name": "Décharge aérienne",
+				"description": "Lorsque vous êtes dans les airs ou après un saut, utilisez l'attaque normale pour envoyer 3attaques tournoyantes à la suite.\r\nPremière attaque: inflige des dégâts équivalant à **30.1%** de l'ATQ + **181**.\r\nDeuxième attaque: inflige des dégâts équivalant à **33.6%** de l'ATQ + **201**.\r\nTroisième attaque: inflige des dégâts équivalant à **42.8%** de l'ATQ + **256**.",
+				"icon": "skill_darts_air",
+				"id": "GA_FPlayerDartsMelee_AirAttack"
+			},
+			{
+				"name": "Dispersion",
+				"description": "Après la deuxième attaque normale, maintenez Attaque pour activer Dispersion.\r\nLance cinq chakrams perforants vers l'avant; chaque coup inflige des dégâts équivalant à **50%** de l'ATQ + **300**, avec un effet de recul mineur.",
+				"icon": "skill_darts_branch",
+				"id": "GA_FPlayerDartsMelee_Branch"
+			},
+			{
+				"name": "Rotation aérienne",
+				"description": "Maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Rotation aérienne.\r\nEnvoie un coup puissant et inflige des dégâts équivalant à **220.2%** de l'ATQ + **1321** à la cible et aux ennemis proches, et les suspend.",
+				"icon": "skill_darts_jump",
+				"id": "GA_FPlayerDartsMelee_JumpAttack"
+			},
+			{
+				"name": "Attaque furtive",
+				"description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à **491.6%** de l'ATQ + **2950**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerDartsMelee_Sneak"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Lune décroissante",
+				"description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Lune décroissante.\r\nVous envoyez un chakram tournoyant vers l'avant et infligez à la cible des dégâts équivalant à **152.8%** de l'ATQ + **917**, ainsi qu'un effet **Étourdissement** pendant **0,5**seconde. Le chakram se divise alors en **3**chakrams, qui continuent à avancer et infligent des dégâts équivalant à **27.8%** de l'ATQ + **167** aux cibles sur leur passage. **Les chakrams séparés rebondissent pendant Éclosion totale.**.",
+				"icon": "skill_darts_backattack",
+				"id": "GA_FPlayerDartsEvade_BackAttack"
+			},
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerDartsEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Éclosion totale",
+				"description": "Crée un Domaine des chakrams qui dure **8**secondes avec l'Explorateur en son centre. Au même moment, attire les cibles et réduit leur vitesse de **30%** pendant **8**secondes. Lance **5**chakrams qui infligent des dégâts équivalant à **27.8%** de l'ATQ + **167** aux cibles sur leur passage, et rebondissent jusqu'à **5**fois entre les ennemis. **Les chakrams séparés déclenchés par Lune décroissante rebondissent aussi jusqu'à 5fois.** Temps de recharge: **45**secondes.",
+				"icon": "darts_skill",
+				"id": "GA_FPlayerDartsSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Esprit de l'air",
+				"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, changer d'arme pour passer à celle-ci **supprime toutes les altérations sur l'Explorateur** et lance Chakram des mers sur une cible. La cible touchée cause un **étourdissement** avec zone d'effet pendant **1**seconde, + **1**attaque chacune sur jusqu'à **3**unités chaque seconde (chaque attaque a **10%** de chance d'**étourdir** la cible pendant **1,5**seconde), infligeant des dégâts équivalant à **49.7%** de l'ATQ + **298** pendant **10**secondes.",
+				"icon": "skill_darts_changeskill",
+				"id": "GA_FPlayerDartsChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "None"
+		},
+		{
+			"description": "Accroît de **30%** les dégâts et tous les effets de fracture élémentaire infligés aux cibles se trouvant dans le rayon d'action d'**Éclosion totale**.",
+			"stats": {
+				"shatter": 11.4,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 11.4,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Accroît de **15%** la capacité de fracture et réinitialise tous les temps de recharge des compétences d'arme lorsque le bouclier de la cible est fracturé. Peut uniquement être déclenché une fois toutes les **30** secondes.",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance de PV de base actuelle de l'arme.",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Attaquer une cible gravement blessée prolonge la durée de la blessure de **7**secondes supplémentaires (ne prend effet qu'une fois pour le même effet).",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Après avoir utilisé **Éclosion totale**, confère une possibilité de dégât critique de 100% pendant les **8**prochaines secondes.",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		}
+	],
+	"id": "darts_physic"
+}

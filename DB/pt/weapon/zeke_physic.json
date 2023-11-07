@@ -1,0 +1,194 @@
+{
+	"name": "Tartaruga de Ônix",
+	"avatar": {
+		"name": "Ming Jing",
+		"advanceId": "imitation_50L1",
+		"weapon": "zeke_physic",
+		"icon": "imitation_50",
+		"avatarID": "mingjing",
+		"age": "12 de novembro",
+		"height": "1,91 m",
+		"gender": "Masculino",
+		"state": "Domínio 9",
+		"city": "Desconhecido",
+		"rating": "wuwei_imitation_50",
+		"gp": [
+			"everydayObjects",
+			"Asshai",
+			"Vera",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 马洋"
+			},
+			{
+				"Japanese": "CV : 中村 悠一"
+			},
+			{
+				"English": "CV : Johnny Young"
+			},
+			{
+				"Korean": "CV : 신용우"
+			},
+			{
+				"Portuguese": "CV : Wendel Bezerra"
+			}
+		],
+		"id": "imitation_50"
+	},
+	"description": "Um montante imponente e afiado, tão pesado que as pessoas comuns mal conseguem pegá-lo. Seu poder destrutivo é complementado pela lâmina larga e pela sensação de segurança que ele proporciona.",
+	"icon": "item_Weapon_SSR_Zeke_Phy01",
+	"gachaIcon": "UI_SSR_lh_mingjing",
+	"rarity": "SSR",
+	"element": "PhysicsFlame",
+	"weaponType": "zeke",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "Zeke_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Resistor",
+				"description": "No chão, use o botão de ataque normal para desferir 5 ataques consecutivos.\r\nCom **Totem Xuanwu** ativo, acertar o último golpe do quinto ataque de Resistor adiciona 1 picada de cobra ao alvo travado.\r\nPrimeiro ataque: Causa dano de **131.6%** do ATQ + **790** e repele o alvo.\r\nSegundo ataque: Causa dano de **186.8%** do ATQ + **1121** e repele o alvo.\r\nTerceiro ataque: Causa dano de **201.6%** do ATQ + **1209** e puxa os alvos para você.\r\nQuarto ataque: Causa dano de **238%** do ATQ + **1428** e suspende o alvo.\r\nQuinto ataque: Causa dano de **378%** do ATQ + **2268** e lança o alvo no ar.",
+				"icon": "skill_zeke_fevadeattack",
+				"id": "GA_FPlayerZekeMelee_Melee"
+			},
+			{
+				"name": "Pedra Voadora",
+				"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas, consumindo vigor.\r\nPrimeiro ataque: Causa dano de **112.8%** do ATQ + **677**.\r\nSegundo ataque: Causa dano de **168%** do ATQ + **1008**.\r\nTerceiro ataque: Causa dano de **164.2%** do ATQ + **985**.\r\nQuarto ataque: Causa dano de **140.2%** do ATQ + **841**.\r\nQuinto ataque: Causa dano de **228%** do ATQ + **1368**.",
+				"icon": "skill_zeke_airattack",
+				"id": "GA_FPlayerZekeMelee_AirAttack"
+			},
+			{
+				"name": "Alma Transcendental",
+				"description": "No chão, segure o botão de ataque normal do primeiro ao quarto ataque normal para acionar Alma Transcendental.\r\nArremessa sua arma à frente, causando dano de **212.4%** do ATQ + **1274** aos alvos próximos.",
+				"icon": "skill_zeke_branch",
+				"id": "GA_FPlayerZekeMelee_Branch"
+			},
+			{
+				"name": "Desabamento",
+				"description": "No chão, segure o botão de ataque normal para acionar Desabamento.\r\nAvança constantemente enquanto ataca e consome vigor, causando dano de **240%** do ATQ + **1440** a alvos próximos.",
+				"icon": "skill_zeke_branch1",
+				"id": "GA_FPlayerZekeMelee_Branch1"
+			},
+			{
+				"name": "Continuidade",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Continuidade.\r\nDespenca dos céus, causando dano de **204%** do ATQ + **1224** aos alvos próximos ao aterrissar.",
+				"icon": "skill_zeke_jumpattack",
+				"id": "GA_FPlayerZekeMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerZekeEvade_Evade"
+			},
+			{
+				"name": "Nuvens Abertas",
+				"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para acionar Nuvens Abertas. Causa dano de **60%** do ATQ + **360** aos alvos próximos.\r\nCom **Totem Xuanwu** ativo, acertar um golpe de Nuvens Abertas adiciona 1 picada de cobra ao alvo travado.",
+				"icon": "skill_zeke_fevadeattack",
+				"id": "GA_FPlayerZekeEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Areia Cortante",
+				"description": "Use o botão de ataque normal logo após se esquivar para acionar Areia Cortante e liberar uma aura de espada que causa dano de **125%** do ATQ + **750** aos alvos à frente.\r\nCom **Totem Xuanwu** ativo, acertar um golpe com Areia Cortante adiciona 1 picada de cobra ao alvo travado.",
+				"icon": "skill_zeke_bevadeattack",
+				"id": "GA_FPlayerZekeEvadeAttack_BackAttack"
+			},
+			{
+				"name": "Sobrevoo Estonteante",
+				"description": "Segure o botão de ataque normal logo após se esquivar para acionar Sobrevoo Estonteante (indisponível na Liga do Apogeu).\r\nApós o **Totem Xuanwu** invocado por **Ravina Absoluta** ser completado, use Sobrevoo Estonteante para entrar no **Reino Altruísta** por **25** segundos e receber **3** **cortes das trevas**.\r\nO primeiro ataque normal ou de esquiva bem-sucedido de **Tartaruga de Ônix** que acerta um golpe aciona **corte das trevas**. Se o alvo for um inimigo de elite ou comum e a vida atual dele não exceder o ATQ máximo do usuário em mais de **20.000** vezes, o alvo será executado imediatamente. Do contrário, causa dano de **1.500%** do ATQ.\r\n**Reino Altruísta** se encerra quando a quantidade de **cortes das trevas** acaba, a duração termina ou ao trocar de arma. **Reino Altruísta** só pode ser acionado 1 vez a cada **200** segundos.",
+				"icon": "skill_zeke_evadespec",
+				"id": "GA_FPlayerZekeEvade_Spec"
+			}
+		],
+		"skill": [
+			{
+				"name": "Ravina Absoluta",
+				"description": "Abre uma fenda no chão à frente, recebe invencibilidade temporária (indisponível na Liga do Apogeu) e puxa alvos próximos, causando dano de **806%** do ATQ + **4836**. Tempo de recarga: **20** seg. Aumenta os seus danos físico e ígneo em **26%** durante **30** segundos e, em seguida, invoca o Totem Xuanwu. O Totem Xuanwu é removido fora de combate.\r\nO Totem Xuanwu invoca almas negras dos quatro núcleos de formação a cada **0,6** segundo, e cada uma causa dano de **30%** do ATQ aos alvos no caminho. Quando Ravina Absoluta estiver em tempo de recarga, recebe a nova habilidade **Reflexo Espelhado**: Ataca as almas negras próximas e ativa seus núcleos de formação correspondentes. Depois que qualquer núcleo de formação for ativado, o Totem Xuanwu estará completo e o **Reino Altruísta** poderá ser acessado.\r\n\r\nEnquanto o Totem Xuanwu estiver ativo, use **Tartaruga de Ônix** para receber corpo de aço, e picadas de cobra poderão ser aplicadas das seguintes formas:\r\nApós atingir um alvo com **Ravina Absoluta**, aplica 1 picada de cobra no alvo com a vida mais alta.\r\nApós acertar o golpe final do quinto ataque de **Resistor**, aplica 1 picada de cobra no alvo travado.\r\nApós acertar um golpe com **Nuvens Abertas**, aplica 1 picada de cobra no alvo travado.\r\nApós acertar um golpe com **Areia Cortante**, aplica 1 picada de cobra no alvo travado.\r\nA picada de cobra causa dano devorador equivalente a **150%** do ATQ ao alvo, restaura **12%** da vida máxima do usuário e torna o alvo um membro da corrente serpente.\r\n\r\nA corrente serpente pode fazer com que **30%** do dano real causado pela sua arma no espaço principal causado ao membro travado da corrente serpente e uma **lesão** sejam conduzidos a todos os membros da corrente serpente (incluindo o próprio alvo). Pode haver até **4** membros da corrente serpente.\r\nO elemento do dano de condução é o mesmo do dano original e não pode ser conduzido novamente. O dano de condução total em **30** segundos não excede **2.400** vezes o seu ATQ máximo (ilimitado em jogo em equipe). O dano de **Corte das Trevas** não pode ser conduzido.\r\nApós usar **Ravina Absoluta**, você também pode acionar **Tufão Potente**: Os membros da corrente serpente causam dano equivalente ao número de vezes que dano devorador foi causado multiplicado por **25%** do ATQ aos alvos próximos (incluindo o próprio alvo) e redefine a contagem do dano devorador.",
+				"icon": "skill_zeke_skill",
+				"id": "GA_FPlayerZekeSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Caminho de Casa",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e invoca Xuanwu, causando dano em área de **681.2%** do ATQ + **4087** a todos os alvos próximos. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).",
+				"icon": "skill_zeke_changeskill",
+				"id": "GA_FPlayerZekeChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância física**: Aumenta o ATQ físico em **15%** e a resistência física em **25%**. Ativa-se ao equipar **2** ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância física, que tem prioridade.\r\n**Ressonância ígnea**: Aumenta o ATQ ígneo em **15%** e resistência ígnea em **25%**. Ativa ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea, que tem prioridade.\r\n\r\n**Despedaçar: Separação**: Após usar **Ravina Absoluta**, a cada segundo causa dano equivalente a **70%** do ATQ físico + **1%** da vida máxima do Errante + **36%** da soma de todos os tipos de resistência + **135%** do crítico aos alvos atingidos durante **30** segundos. Danos múltiplos de Separação não se acumulam, e o dano de despedaçar conta como dano de habilidade. Se houver **uma** arma elétrica/ígnea/gélida equipada, o dano de despedaçar é multiplicado por **1.3**. Além disso, o dano de despedaçar não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "None"
+		},
+		{
+			"description": "Sempre que aplicar uma **lesão**, causa dano **devorador** igual a **50%** do ATQ ao alvo. Este efeito só pode ser acionado 1 vez a cada **0,5** segundo.\r\nUm **alvo sem lesão** sofrerá **lesão** por **7**segundos sempre que a característica **incendiar** da arma for aplicada a ele.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "Zeke_physic_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "Zeke_physic_plasm"
+		},
+		{
+			"description": "Após acionar **tufão potente**, transforma os alvos atingidos em membros da **corrente serpente**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "Zeke_physic_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "Zeke_physic_plasm"
+		},
+		{
+			"description": "Após usar **Ravina Absoluta**, reduz o dano sofrido pelo usuário em **10%** (**20%** em jogo individual) durante **30** segundos.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "Zeke_physic_plasm"
+		},
+		{
+			"description": "Quando houver **1** membro da **corrente serpente**, aumenta a taxa de condução do dano de **condução** para **50%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "Zeke_physic_plasm"
+		}
+	],
+	"id": "zeke_physic"
+}

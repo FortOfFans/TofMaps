@@ -1,0 +1,198 @@
+{
+	"name": "Véspera",
+	"avatar": {
+		"name": "Lyra",
+		"advanceId": "imitation_24L1",
+		"weapon": "arm_physic",
+		"icon": "imitation_24",
+		"avatarID": "xinghuan",
+		"age": "23 de junho",
+		"height": "1,74m",
+		"gender": "Feminino",
+		"state": "Fundo Maidelin",
+		"city": "Desconhecido",
+		"rating": "wuwei_imitation_24",
+		"gp": [
+			"everydayObjects",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 常佳梦"
+			},
+			{
+				"Japanese": "CV : 大原 さやか"
+			},
+			{
+				"English": "CV : Ryan Bartley"
+			},
+			{
+				"Korean": "CV : 윤은서"
+			},
+			{
+				"Portuguese": "CV : Maitê Cunha"
+			}
+		],
+		"id": "imitation_24"
+	},
+	"description": "Uma arma de suporte feita sob encomenda para uma integrante da Fundação Maidelin. A Srta. Maidelin acredita que Lyra possa fazer bom uso dela.",
+	"icon": "item_Weapon_SSR_Arm_Physic01",
+	"gachaIcon": "SSR_lh_xinghuan",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Arm",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "arm_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Passiva de Ataque Normal da Véspera",
+				"description": "**Alumbramento**: Ao atingir, o ataque normal da Véspera sem ressonância de bendição causa dano extra aos alvos com **marca de alumbramento**, equivalente ao número de guardas que você carrega × **2,1%** do ATQ (não mais do que 12,6% do ATQ ao todo). Esse dano não aciona efeitos de ataque extras e é considerado habilidade de descarga e dano de habilidade de arma.\r\n\r\nO ataque normal da Véspera com ressonância de bendição causa dano extra aos alvos com **marca de alumbramento**, equivalente ao número de guardas que você e seus colegas carregam × **1,5%** do ATQ (não mais do que 12% do ATQ ao todo). Esse dano não aciona efeitos de ataque extras e é considerado habilidade de descarga e dano de habilidade de arma.\r\n**Brilhante**: Ao atingir, todos os ataques normais da Véspera restauram vida equivalente a **15%** do ATQ.\r\n**Golpe sagrado**: A Detonação Aérea e a Acumulação da Véspera podem converter 60% da carga em despedaçar.\r\n**Guarda**: A cada **15%** perdidos da vida máxima ou a cada **300** cargas de arma ganhas, você obtém até **5** guardas do alumbramento para si (o efeito também se ativa no espaço secundário). O guarda do alumbramento dura **25** segundos. Se você estiver com o máximo de guardas do alumbramento, os novos guardas do alumbramento vão atacar inimigos, causando dano físico de **48%** do ATQ, e depois vão desaparecer. Esse dano não aciona efeitos de ataque extras.\r\n\r\nObservação: Em Fantasma do Passado, a Véspera não é considerada uma arma de suporte.",
+				"icon": "skill_arm_skill1",
+				"id": "None"
+			},
+			{
+				"name": "Ataque Normal da Véspera",
+				"description": "No chão, use Véspera para executar 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **81.6%** do ATQ + **490** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **59.1%** do ATQ + **355** e repele o alvo uma boa distância. \r\nTerceiro ataque: Causa dano de **123.9%** do ATQ + **743** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **173%** do ATQ + **1038** e suspende o alvo.\r\nQuinto ataque: Causa dano de **196.4%** do ATQ + **1178** e lança o alvo no ar.",
+				"icon": "skill_arm_melee",
+				"id": "GA_FPlayerArmMeleePhy_Melee"
+			},
+			{
+				"name": "Frustração",
+				"description": "No ar, use o botão de ataque normal para usar Frustração. Cada soco causa dano de **33.2%** do ATQ + **199** e consome **10** de vigor. O último golpe causa dano de **124.5%** do ATQ + **747** e lança o alvo no ar.\r\nAo usar Frustração, você agarra o alvo (se possível) e o joga no chão, causando dano total de **556.6%** do ATQ + **3339**.",
+				"icon": "skill_arm_airattack",
+				"id": "GA_FPlayerArmMeleePhy_AirAttack"
+			},
+			{
+				"name": "Acumulação",
+				"description": "Segure o botão de ataque normal por até **3** cargas. **Suspende muito** o alvo ao atingir, e você fica imune a dano e efeitos de controle durante um ataque de Acumulação. Usar antes de sofrer um golpe pode desencadear Phantasia.\r\nFase 1 do ataque carregado: causa dano de **96%** do ATQ + **576**.\r\nFase 2 do ataque carregado: causa dano de **223%** do ATQ + **1338**.\r\nFase 3 do ataque carregado: causa dano de **360.5%** do ATQ + **2163**.",
+				"icon": "skill_arm_powerattack",
+				"id": "GA_FPlayerArmMeleePhy_PowerAttack"
+			},
+			{
+				"name": "Cintilada",
+				"description": "Segure o botão de ataque normal durante ataques normais ou após se esquivar para usar Cintilada. Cada soco causa dano de **20%** do ATQ + **120** e consome **10** de vigor. Solte para acionar Acumulação.",
+				"icon": "skill_arm_branch",
+				"id": "GA_FPlayerArmMeleePhy_Branch"
+			},
+			{
+				"name": "Bordoada",
+				"description": "No ar, segure o botão de ataque normal para acionar 3 cargas. Solte para esmurrar o chão e **suspender muito** os alvos. Soltar antes de sofrer um golpe pode desencadear Phantasia.\r\nFase 1 do ataque carregado: causa dano de **166.3%** do ATQ + **998**.\r\nFase 2 do ataque carregado: causa dano de **288.2%** do ATQ + **1729**.\r\nFase 3 do ataque carregado: causa dano de **454.4%** do ATQ + **2726**.",
+				"icon": "skill_arm_jumpattack",
+				"id": "GA_FPlayerArmMeleePhy_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Captura Mental",
+				"description": "Após se esquivar, use o botão de ataque normal para puxar o alvo até você e segurá-lo durante **2** segundos. Causa dano de **261.4%** do ATQ + **1568**. Segurar o ataque normal após se esquivar pode acionar **Cintilada** após liberar **Captura Mental**.",
+				"icon": "skill_arm_evadeattack",
+				"id": "GA_FPlayerArmEvadePhy_BackAttack"
+			},
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, que reduz a velocidade dos inimigos dentro da área. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo e recupera **250** de vigor.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerArmEvadePhy_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Guarda do perdão",
+				"description": "**Guarda do perdão**: Quando o efeito de cura excede a vida máxima, confere um escudo de vida equivalente a **25%** da vida máxima. Quando a Véspera tem guarda do perdão, efeitos de guarda variados são ativados de acordo com a ressonância.\r\n**Guarda da bendição**: A habilidade é substituída por **Luminascer**, e você não ganha mais guardas do alumbramento, que são convertidos em guardas do perdão para colegas. Ganha 1 guarda do perdão a cada **15%** curados da vida máxima, e confere até 1 guarda do perdão a cada colega. Se cada colega tiver um, o guarda do perdão causa dano físico de **60%** do ATQ a um inimigo e desaparece. Esse dano não aciona efeitos de ataque extras. Além disso, aumenta a sua vida máxima e a dos colegas em **10%**. Não acumula.\r\n**Guarda do ataque**: Ao atingir um inimigo com uma habilidade da Véspera, você ganha um escudo equivalente a **30%** da vida máxima imediatamente. Tempo de recarga: **30** seg.\r\n**Guarda da coragem**: Ao atingir um inimigo com uma habilidade da Véspera, você ganha cura imediatamente, restaurando **2%** da vida máxima por segundo durante **20** segundos. Tempo de recarga: **30** seg.\r\n**Guarda do equilíbrio**: Quando a vida for superior a **50%**, aumenta o despedaçar em **20%**. Quando a vida for inferior a **50%**, aumenta o dano final em **10%** e o despedaçar em **10%**.",
+				"icon": "skill_arm_skill1",
+				"id": "GA_FPlayerArmSkillPhyPas"
+			},
+			{
+				"name": "Estrela Cadente",
+				"description": "Salta na direção do alvo. Causa dano de **771%** do ATQ mais **4212** e o **suspende muito**. Inflige uma marca de alumbramento ao alvo durante **18** segundos. Tempo de recarga: **20** seg.",
+				"icon": "skill_arm_airattack2",
+				"id": "GA_FPlayerArmPublishSkillPhy"
+			},
+			{
+				"name": "Luminascer",
+				"description": "Esmurra o chão e **lança alto no ar** os alvos à frente, causando dano de **771%** do ATQ + **4212** e evocando até **3** **lâminas** durante **75** segundos (até 1 lâmina a cada 2 metros). Esta habilidade pode ser utilizada até **3** vezes, e cada vez tem um tempo de recarga de **20** segundos. Quando há 2 **lâminas** no campo, um **elucidar** é criado. Ao tocar em uma **lâmina**, ela cura os alvos dentro do raio de movimento, restaurando vida equivalente a **25%** do ATQ do alvo. Quando há 3 **lâminas** no campo, uma **nebulosa** é criada. Ao tocar em uma **lâmina**, ela causa dano aos alvos dentro do raio de movimento igual a **150%** do ATQ × distância de movimento / **5**m.",
+				"icon": "skill_arm_skill2",
+				"id": "GA_FPlayerArmLawSkillPhy"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Suspiro Melódico",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e libera Suspiro Melódico. Causa dano de **748.1%** do ATQ + **4488** e adiciona uma marca de alumbramento ao alvo durante **18** segundos, período no qual a imunidade a dano dura **1,5** segundo (indisponível na Liga do Apogeu).",
+				"icon": "skill_arm_changeskill",
+				"id": "GA_FPlayerArmChangeSkillPhy_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância física**: aumenta o ATQ físico em **15%** e a resistência física em **25%**. Ativa-se ao equipar **2** ou mais armas físicas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com efeitos de mesmo tipo.\r\n**Bendição física**: aumenta o ATQ físico de toda a equipe em **5%** enquanto ressonância de bendição estiver ativa.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Ao usar qualquer habilidade de arma ou descarga, se você estiver com o máximo de guardas, a duração do guarda será atualizada, causando dano físico ao inimigo de **3000%** do ATQ físico × o número de guardas. Até 8 guardas sob o efeito de bendição, e até 6 sem o efeito.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Aumenta todo o dano causado por guardas em **20%**, e aumenta o dano final do alvo protegido em **15%** durante **10 segundos** ao usar qualquer habilidade de arma ou descarga sob o efeito de ressonância de bendição.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Guarda do perdão: Após gerar ressonância 5 vezes, recebe **1** chance de anular dano letal para si e para o alvo protegido. Após um colega anular dano letal, ele consome guarda do perdão e recupera **5%** da vida máxima. Indisponível na Liga do Apogeu.\r\nGuarda do alumbramento: Após gerar ressonância 5 vezes e tendo guarda do alumbramento, recebe **2** chances de anular dano letal. Acumula até **5** vezes. Após o usuário anular dano letal, ele consome 1 acúmulo de guarda do alumbramento e recupera **5%** da vida máxima. Indisponível na Liga do Apogeu.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Ao usar qualquer habilidade de arma ou descarga, o aumento do dano final e da cura depende do número de guardas. Cada guarda aumenta em **1.6%** o dano final e a cura, limitado a **8%** durante **25 segundos**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		}
+	],
+	"id": "arm_physic"
+}

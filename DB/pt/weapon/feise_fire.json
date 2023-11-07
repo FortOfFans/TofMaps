@@ -1,0 +1,199 @@
+{
+	"name": "Floração Infinita",
+	"avatar": {
+		"name": "Fei Se",
+		"advanceId": "imitation_51L1",
+		"weapon": "feise_fire",
+		"icon": "imitation_51",
+		"avatarID": "feise",
+		"age": "23 de agosto",
+		"height": "1,75m",
+		"gender": "Feminino",
+		"state": "Palácio Fantasma",
+		"city": "Fogarejo",
+		"rating": "wuwei_imitation_51",
+		"gp": [
+			"everydayObjects",
+			"collection",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈彦亦"
+			},
+			{
+				"Japanese": "CV : 田中 理恵"
+			},
+			{
+				"English": "CV : Alexis Tipton"
+			},
+			{
+				"Korean": "CV : 강새봄"
+			},
+			{
+				"Portuguese": "CV : LUCIANA BAROLI"
+			}
+		],
+		"id": "imitation_51"
+	},
+	"description": "Algumas flores escondem uma intenção letal.",
+	"icon": "item_Weapon_SSR_feise",
+	"gachaIcon": "SSR_lh_feise",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Feise",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "feise_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Manobra",
+				"description": "No chão, use o botão de ataque normal para executar 6 ataques seguidos.\r\nPrimeiro ataque: Causa dano de **82%** do ATQ + **492** e repele o alvo.\r\nSegundo ataque: Causa dano de **122%** do ATQ + **732** e repele o alvo.\r\nTerceiro ataque: Causa dano de **132%** do ATQ + **792** e derruba o alvo.\r\nQuarto ataque: Causa dano de **144%** do ATQ + **864** e suspende o alvo.\r\nQuinto ataque: Causa dano de **146%** do ATQ + **876** e derruba o alvo.\r\nSexto ataque: Causa dano de **115%** do ATQ + **690** e puxa o alvo.",
+				"icon": "feise_melee",
+				"id": "GA_FPlayerFeiseMelee_Melee"
+			},
+			{
+				"name": "Dançarina das Nuvens",
+				"description": "No ar, use o botão de ataque normal para atacar 6 vezes seguidas enquanto consome vigor.\r\nPrimeiro ataque: Causa dano de **72%** do ATQ + **432**.\r\nSegundo ataque: Causa dano de **98%** do ATQ + **588**.\r\nTerceiro ataque: Causa dano de **142%** do ATQ + **852**.\r\nQuarto ataque: Causa dano de **142%** do ATQ + **852**.\r\nQuinto ataque: Causa dano de **173%** do ATQ + **1038**.\r\nSexto ataque: Causa dano de **144%** do ATQ + **864**.",
+				"icon": "feise_airattack",
+				"id": "GA_FPlayerFeiseMelee_AirAttack"
+			},
+			{
+				"name": "Outono Dourado",
+				"description": "No chão, segure o botão de ataque normal do primeiro ao terceiro ataque normal para acionar Outono Dourado.\r\nPuxa alvos próximos, causando dano de **259%** do ATQ + **1554** e os suspendendo.",
+				"icon": "feise_branch1",
+				"id": "GA_FPlayerFeiseMelee_Branch1"
+			},
+			{
+				"name": "Pingente Ressonante",
+				"description": "No chão, segure o botão de ataque normal do quarto ao sexto ataque normal para acionar Pingente Ressonante.\r\nCausa dano de **158%** do ATQ + **948** e repele o alvo.",
+				"icon": "feise_branch3",
+				"id": "GA_FPlayerFeiseMelee_Bracnh3"
+			},
+			{
+				"name": "Apsara Lótus",
+				"description": "No chão ou no ar, segure o botão de ataque normal para acionar Apsara Lótus.\r\nPlana no ar à frente continuamente enquanto consome vigor. Use os controles direcionais para ajustar a direção durante a Apsara Lótus.",
+				"icon": "feise_branch2",
+				"id": "GA_FPlayerFeiseMelee_Branch2"
+			},
+			{
+				"name": "Flores Caindo",
+				"description": "Durante **Dançarina das Nuvens**, segure o botão de ataque normal para acionar Flores Caindo.\r\nDespenca das alturas, causa dano de **74%** do ATQ + **444** ao aterrissar aos alvos próximos e os lança no ar.",
+				"icon": "feise_jumpattack",
+				"id": "GA_FPlayerFeiseMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerFeiseEvade_Evade"
+			},
+			{
+				"name": "Chakrans Repulsores",
+				"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para acionar Flor Dispersa. Causa dano de **209%** do ATQ + **1254** aos alvos próximos.\r\n\r\nDurante a **Fantasia da Miragem** criada por **Espiral**, o golpe acertado pelo ataque de esquiva de qualquer arma pela primeira vez aciona Transplante de Flor, criando uma Phantasia e Pétalas de Lótus de Fei Se.\r\n**Phantasia de Fei Se**: Ao ser criada, a Phantasia de Fei Se copia e converte **25%** do ATQ máximo do alvo em **ATQ ígneo básico** para o usuário (no mínimo **3.300** e no máximo **3.450**; esse ATQ ígneo não aparece nos atributos do usuário e está indisponível na Liga do Apogeu) até desaparecer. Pode haver apenas **1** Phantasia de Fei Se por vez, e o cálculo é independente para cada uma delas.\r\n**Pétala de Lótus**: Ao serem criadas, o número de Pétalas de Lótus é igual ao número de invocações criadas pela arma do usuário, exceto pela Floração Infinita. As Pétalas de Lótus são consideradas invocações. Após a criação, o número de Pétalas de Lótus não muda com o número de invocações.",
+				"icon": "feise_evadefront",
+				"id": "GA_FPlayerFeiseEvade_ForwardAttack"
+			},
+			{
+				"name": "Flutuar",
+				"description": "Use o botão de ataque normal logo após se esquivar para acionar Flutuar. Causa dano de **120%** do ATQ + **720** a alvos próximos.",
+				"icon": "feise_evadeback",
+				"id": "GA_FPlayerFeiseEvade_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Espiral",
+				"description": "Causa dano de **1008%** do ATQ + **6047** aos alvos próximos e cria Fantasia de Miragem, que dura até **25** segundos.\r\nDurante a recarga de Espiral, ganha a habilidade Graciosidade, que pode ser usada após a Miragem estar ativa por **20** segundos.\r\nAtualiza o tempo de recarga da Espiral imediatamente após o desaparecimento da Miragem. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\n\r\nDurante a Miragem:\r\nA cada segundo, causa dano de Eclipsalma igual a **135%** do ATQ aos alvos da Miragem, e o dano conta como ataque normal.\r\nInflige Coração Ardente aos alvos dentro da Miragem a cada **5** segundos, causando dano de queima de **20%** do ATQ durante **5** segundos. Para cada **1** **Phantasia de Fei Se** ou **Pétala de Lótus** criada pelo usuário na Miragem, o dano de Coração Ardente aumenta em mais **6%**.",
+				"icon": "feise_skill1",
+				"id": "GA_FPlayerFeiseSkill_Skill1"
+			},
+			{
+				"name": "Graciosidade",
+				"description": "Durante a recarga de Espiral, ganha a habilidade Graciosidade, que pode ser usada após a Miragem estar ativa por **20** segundos.\r\nRemove todas as **Phantasias de Fei Se** e as **Pétalas de Lótus** na Miragem criada pelo usuário. Causa dano de **180%** do ATQ + **1080** aos alvos próximos para cada **1** **Phantasia de Fei Se** ou **Pétala de Lótus** removida; e então, despedaça a Fantasia da Miragem, causando dano de **450%** do ATQ + **2700** aos alvos próximos.",
+				"icon": "feise_skill2",
+				"id": "GA_FPlayerFeiseSkill_Skill2"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Jade Inigualável",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, trocar para esta arma **remove todos os efeitos negativos de você** e causa dano de **1090%** do ATQ + **6539**. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).",
+				"icon": "feise_changeskill",
+				"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância ígnea**: Aumenta o ATQ ígneo em **20%** e a resistência ígnea em **40%**. Ativa-se ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com outros efeitos de ressonância ígnea ou reação ígnea, e a ressonância ígnea tem prioridade..\r\n**Explosão ardente: Corte Ligeiro**: Com **Floração Infinita** equipada, acertar um golpe com qualquer habilidade de descarga causa aos alvos próximos dano inicial de **37.5%** do ATQ ígneo mais **0.5%** da vida máxima do Errante + **18.75%** da soma de todos os tipos de resistências do Errante mais **68.75%** do crítico. A cada **0,5** segundo em combate, o dano do próximo Corte Ligeiro aumenta mais **1** vez, até um máximo de **30** vezes. Quando há o dano de vários Cortes Ligeiros juntos, o cálculo é feito sobre o valor inicial mais alto. O dano da Explosão ardente: Corte Ligeiro conta como dano de habilidade de descarga. Se houver **1** arma gélida/física/elétrica de qualquer tipo equipada, o dano da Explosão ardente é multiplicado por **1.3**. Além disso, o dano da Explosão ardente não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "None"
+		},
+		{
+			"description": "O multiplicador mínimo de dano de **Coração Ardente** aumenta para **120%** do ATQ. Se o usuário causa múltiplos efeitos de queimadura durante o estado de combate, o multiplicador mínimo de dano de **Coração Ardente** adicionalmente aumenta para o maior efeito multiplicador.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		},
+		{
+			"description": "O número máximo de **Phantasia de Fei Se** aumenta para **2**, e mais **1** **Phantasia de Fei Se** é criada após acertar um golpe de **Espiral**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		},
+		{
+			"description": "O dano de **Coração Ardente** aumenta adicionalmente em **15%** para cada **1** **Phantasia de Fei Se** ou **Pétala de Lótus** na **Miragem**.\r\nReduz em **75%** o consumo de vigor da **Apsara Lótus**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		},
+		{
+			"description": "O multiplicador mínimo de dano de **Eclipsalma** aumenta para **900%** do ATQ, o despedaçar é dobrado e há **15%** de chance de causar atraso de **65%** por **2** segundos após acertar um golpe (ineficaz contra chefes ao estar em equipe e indisponível na Liga do Apogeu).",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		}
+	],
+	"id": "feise_fire"
+}

@@ -1,0 +1,185 @@
+{
+	"name": "Pilon",
+	"avatar": {
+		"name": "Ene",
+		"weapon": "hammer_ice",
+		"icon": "imitation_2",
+		"avatarID": "xi",
+		"age": "17 août",
+		"height": "145cm",
+		"gender": "Féminin",
+		"state": "Victoria Security",
+		"city": "Crown",
+		"rating": "wuwei_imitation_2",
+		"gp": [
+			"game",
+			"decorate",
+			"toy"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 王燕华"
+			},
+			{
+				"Japanese": "CV : 小清水 亜美"
+			},
+			{
+				"English": "CV : Melissa Fahn"
+			},
+			{
+				"Korean": "CV : 박리나"
+			},
+			{
+				"Portuguese": "CV : Amanda Tavares"
+			}
+		],
+		"id": "imitation_2"
+	},
+	"description": "Personne ne veut se retrouver du mauvais côté de ce merlin.",
+	"icon": "item_Weapon_SR_Hammer_Ice01",
+	"gachaIcon": "SR_lh_cdzj",
+	"rarity": "SR",
+	"element": "Ice",
+	"weaponType": "Hammer",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_ice": 28,
+		"Item_Mine_ice_02": 42,
+		"Item_breakthrough_B2": 42,
+		"Item_breakthrough_C2": 42,
+		"Item_Mine_ice_03": 22,
+		"Item_breakthrough_B3": 22,
+		"Item_breakthrough_C3": 22,
+		"Item_breakthrough_B1": 25,
+		"Item_breakthrough_C1": 23
+	},
+	"advanceID": "hammer_ice_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Attaque normale",
+				"description": "Lorsque vous êtes au sol, brandissez le merlin pour attaquer 4fois d'affilée.\r\nPremière attaque: inflige des dégâts équivalant à **103%** de l'ATQ + **618** et repousse la cible sur une courte distance.\r\nDeuxième attaque: inflige des dégâts équivalant à **83.9%** de l'ATQ + **503** et repousse la cible sur une courte distance.\r\nTroisième attaque: inflige des dégâts équivalant à **212.4%** de l'ATQ + **1274** et repousse la cible sur une courte distance.\r\nQuatrième attaque: inflige des dégâts équivalant à **356.2%** de l'ATQ + **2137** et projette la cible.\r\nPendant qu'Explosion de rage est active, brandissez le merlin pour attaquer 4fois d'affilée.\r\nPremière attaque: inflige des dégâts équivalant à **102%** de l'ATQ + **612** et repousse la cible sur une courte distance.\r\nDeuxième attaque: inflige des dégâts équivalant à **87.8%** de l'ATQ + **527** et repousse la cible sur une courte distance.\r\nTroisième attaque: inflige des dégâts équivalant à **231.3%** de l'ATQ + **1388** et repousse la cible sur une courte distance.\r\nQuatrième attaque: inflige des dégâts équivalant à **425.7%** de l'ATQ + **2554** et **suspend longuement** la cible.",
+				"icon": "pugong_hammer",
+				"id": "GA_FPlayerHammerMelee_Melee"
+			},
+			{
+				"name": "Pilonner",
+				"description": "Lorsque vous êtes dans les airs ou après avoir sauté une fois, utilisez l'attaque normale pour déclencher Explosion sautée. Inflige des dégâts équivalant à **164.3%** de l'ATQ + **986** et suspend la cible.\r\nTant qu'Explosion de rage est active, inflige des dégâts équivalant à **180.7%** de l'ATQ + **1084** et **suspend longuement** la cible.\r\nPlus vous prenez de l'altitude avant de déclencher l'attaque, plus les dégâts infligés sont importants, pour un bonus maximal de **600%**.",
+				"icon": "skill_hammer_air",
+				"id": "GA_FPlayerHammerMelee_AirAttack"
+			},
+			{
+				"name": "Onde de choc",
+				"description": "Les actions suivantes déclencheront Onde de choc: maintenir Attaque lorsque vous êtes dans les airs, faire un double-saut, appuyer brièvement sur Attaque dans les airs lorsque des cibles sont proches, escalader, sauter en arrière, ou attaquer pendant que vous utilisez le jetpack. **Suspend longuement** la cible **4**fois, lui infligeant à chaque fois des dégâts équivalant à **47%** de l'ATQ + **282**. Consomme **250** d'endurance.\r\nTant que l'effet Explosion de rage est actif, l'onde de choc **suspend longuement** la cible **5**fois, lui infligeant à chaque fois des dégâts équivalant à **51.7%** de l'ATQ + **310**.\r\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à **600%** de dégâts.",
+				"icon": "skill_hammer_jump",
+				"id": "GA_FPlayerHammerMelee_JumpAttack"
+			},
+			{
+				"name": "Attaque furtive",
+				"description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à **427.5%** de l'ATQ + **2565**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerHammerMelee_Sneak"
+			},
+			{
+				"name": "Frappe concentrée",
+				"description": "Appuyez et maintenez Attaque normale pour déclencher Frappe concentrée (peut être rechargée jusqu'à 3cumuls). Pendant la recharge, confère une immunité contre tous les effets de contrôle ainsi que l'effet Hypercorps.\r\nPremier cumul: inflige des dégâts équivalant à **207.6%** de l'ATQ + **1245** et suspend la cible.\r\nDeuxième cumul: inflige des dégâts équivalant à **519.1%** de l'ATQ + **3114** et **suspend longuement** la cible.\r\nTroisième cumul: inflige des dégâts équivalant à **973.2%** de l'ATQ + **5839** et **suspend longuement** la cible.\r\nTant qu'Explosion de rage est active, maintenez Attaque normale pour déclencher Frappes furieuses. Inflige des dégâts équivalant à **676.7%** de l'ATQ + **4060** et **suspend longuement** la cible.",
+				"icon": "skill_hammer_jump-05",
+				"id": "GA_FPlayerHammerMelee_PowerAttack_OS"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Frappe sautée",
+				"description": "Utilisez les flèches et la touche d'esquive pour déclencher Frappe sautée et libérer une onde de choc. L'ennemi est suspendu **4**fois et subit des dégâts équivalant à **218%** de l'ATQ + **1308**.",
+				"icon": "skill_hammer_frontattack",
+				"id": "GA_FPlayerHammerEvade_FrontAttack"
+			},
+			{
+				"name": "Pourfendeur",
+				"description": "Appuyez sur Attaque normale rapidement après une esquive pour déclencher Pourfendeur et libérer **3**ondes de choc vers l'avant, chacune infligeant des dégâts équivalant à **70.8%** de l'ATQ + **425** et suspendant les cibles.\r\nEn mode Explosion de rage, envoie **5**ondes de choc vers l'avant, chacune infligeant des dégâts équivalant à **70.8%** de l'ATQ + **425**, et suspendant la cible.",
+				"icon": "skill_hammer_backattck",
+				"id": "GA_FPlayerHammerEvade_BackAttack"
+			},
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. Temps de recharge : 15 secondes. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerHammerEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Explosion de rage",
+				"description": "Changez d'arme pour activer Explosion de rage, augmentant les dégâts infligés pendant **25**secondes.\r\nTant qu'Explosion de rage est active, les compétences déclenchent Fureur du vent, qui inflige des dégâts équivalant à **295.2%** de l'ATQ + **1771**, **suspend longuement** la cible, et crée un courant d'air au sol. Tant que vous vous tenez dans le courant d'air, esquiver n'a aucun coût. Temps de recharge: **45**secondes (temps de recharge de Fureur du vent: **10**secondes).",
+				"icon": "hammer_skill2",
+				"id": "GA_FPlayerHammerBigSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Merlin écrasant",
+				"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur** et **suspend longuement** les cibles proches au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à **206.9%** de l'ATQ + **1241**. Invoque aussi un merlin qui tombe sur les cibles proches, infligeant des dégâts équivalant à **206.9%** de l'ATQ + **1241**.",
+				"icon": "skill_hammer_changeskill",
+				"id": "GA_FPlayerHammerChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "None"
+		},
+		{
+			"description": "Provoque les cibles à proximité après avoir pris cette arme, empêchant **1**instance de dégâts dans les **8**prochaines secondes et confère Hypercorps pendant les **8**prochaines secondes. Temps de recharge: **15**secondes.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Augmente de **10%** la croissance de PV de base actuelle de l'arme.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Après avoir subi des dégâts, réduisez tous les dégâts reçus de **50%** pendant les **6**prochaines secondes. Temps de recharge: **20**secondes.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Augmente de **20%** la croissance de PV de base actuelle de l'arme.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Les attaques normales **étourdissent** les cibles pendant **2,5**secondes. Temps de recharge: **20**secondes.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Les compétences de décharge infligent **10%** de dégâts en plus aux cibles et accroissent les dégâts de givre de **10%** supplémentaires pendant **25**secondes.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		}
+	],
+	"id": "hammer_ice"
+}

@@ -1,0 +1,233 @@
+{
+	"name": "Brazalete Lunaestrella",
+	"avatar": {
+		"name": "Fiona",
+		"advanceId": "imitation_36L1",
+		"weapon": "queen_superpower",
+		"icon": "imitation_36",
+		"avatarID": "feiouna",
+		"age": "17 de abril",
+		"height": "185 cm",
+		"gender": "Femenino",
+		"state": "Innars",
+		"city": "Innars",
+		"rating": "wuwei_imitation_36",
+		"gp": [
+			"collection",
+			"decorate",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 刘雪"
+			},
+			{
+				"Japanese": "CV : 石見 舞菜香"
+			},
+			{
+				"English": "CV : Lindsay Sheppard"
+			},
+			{
+				"Korean": "CV : 양정화"
+			},
+			{
+				"Portuguese": "CV : Mayara Stefane"
+			}
+		],
+		"id": "imitation_36"
+	},
+	"description": "Una extraña nanoarma que genera cuchillas que cortan el metal como si fuera mantequilla. Solía adoptar la forma de un brazalete enrollado alrededor de la muñeca de su propietaria mientras estaba en estado de reposo. De ahí vienen las descripciones que hace su dueña sobre ella.",
+	"icon": "item_Weapon_SSR_feiouna",
+	"gachaIcon": "SSR_lh_feiouna",
+	"rarity": "SSR",
+	"element": "Superpower",
+	"weaponType": "Queen",
+	"wc": "SUP",
+	"mats": {
+		"Item_breakthrough_A1": 28,
+		"Item_breakthrough_B1": 28,
+		"": null,
+		"Item_breakthrough_C1": 26,
+		"Item_breakthrough_D1": 26,
+		"Item_breakthrough_A2": 50,
+		"Item_breakthrough_B2": 50,
+		"Item_breakthrough_C2": 50,
+		"Item_breakthrough_D2": 50,
+		"Item_breakthrough_A3": 26,
+		"Item_breakthrough_B3": 26,
+		"Item_breakthrough_C3": 26,
+		"Item_breakthrough_D3": 26
+	},
+	"advanceID": "queen_superpower_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Látigo de Escarcha",
+				"description": "Mientras estás en el suelo, usa el ataque normal para lanzar 7 ataques consecutivos.\r\nPrimer ataque: Inflige daño igual a **69.9%** del ATQ más **419**.\r\nSegundo ataque: Inflige daño igual a **73.4%** del ATQ más **440**.\r\nTercer ataque: Inflige daño igual a **115.4%** del ATQ más **692**.\r\nCuarto ataque: Inflige daño igual a **174.2%** del ATQ más **1045**.\r\nQuinto ataque: Inflige daño igual a **195.7%** del ATQ más **1174**.\r\nSexto ataque: Inflige daño igual a **131.1%** del ATQ más **787**.\r\nSéptimo ataque: Inflige daño igual a **505.9%** del ATQ más **3035**.",
+				"icon": "skill_feiouna_pugong",
+				"id": "GA_FPlayerQueenMelee_Melee"
+			},
+			{
+				"name": "Caída Danzante",
+				"description": "Mientras estás en el aire o después de saltar una vez, usa el ataque normal para lanzar 7 ataques consecutivos en el aire y consumir resistencia.\r\nPrimer ataque: Inflige daño igual a **93.8%** del ATQ más **563**.\r\nSegundo ataque: Inflige daño igual a **98.4%** del ATQ más **590**.\r\nTercer ataque: Inflige daño igual a **141.8%** del ATQ más **851**.\r\nCuarto ataque: Inflige daño igual a **202.2%** del ATQ más **1213**.\r\nQuinto ataque: Inflige daño igual a **196.9%** del ATQ más **1181**.\r\nSexto ataque: Inflige daño igual a **146.5%** del ATQ más **879**.\r\nSéptimo ataque: Inflige daño igual a **548.5%** del ATQ más **3291**.",
+				"icon": "skill_feiouna_kongzhongpugong",
+				"id": "GA_FPlayerQueenMelee_AirAttack"
+			},
+			{
+				"name": "Ondas Convergentes",
+				"description": "Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal entre el segundo y el sexto ataque normal para activar Ondas Convergentes.\r\nEl nómada saltará al aire y disparará varias bombas de agua bombas acuáticas hacia delante mientras consume resistencia continuamente, cada impacto inflige daño igual a **88.5%** del ATQ más **531** a los objetivos cercanos (cuenta como un ataque cargado), y hace retroceder a los objetivos.",
+				"icon": "skill_feiouna_fenzhigongji",
+				"id": "GA_FPlayerQueenMelee_Branch"
+			},
+			{
+				"name": "Lluvia Lunar",
+				"description": "Pulsa y mantén pulsado el ataque normal en el aire (púlsalo cuando un objetivo esté disponible), o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar Lluvia Lunar.\r\nCae desde arriba e inflige daño equivalente al **175%** del ATQ más **1050** a los objetivos al llegar al suelo y los suspende.",
+				"icon": "skill_xialuogongji",
+				"id": "GA_FPlayerQueenMelee_JumpAttack"
+			},
+			{
+				"name": "Convergencia Torrencial",
+				"description": "Mientras estás en el aire, pulsa y mantén pulsado el ataque normal entre el segundo y el sexto ataque normal para activar Convergencia Torrencial.\r\nDispara varias bombas acuáticas hacia delante mientras consume resistencia continuamente, cada impacto inflige daño igual a **88.5%** del ATQ más **531** a los objetivos cercanos (cuenta como un ataque cargado), y hace retroceder a los objetivos.",
+				"icon": "skill_feiouna_fenzhigongji-05",
+				"id": "GA_FPlayerQueenMelee_AirAttackBranch"
+			},
+			{
+				"name": "División",
+				"description": "Mientras **Resonancia de Sacramento** está activa:\r\nPulsa y mantén pulsado el ataque normal mientras estás en el suelo para seleccionar a un compañero; luego, suelta para vincular a tu nómada con ese compañero. Cuando su enlace está en efecto, los nómadas enlazados no pueden hacer un enlace o enlazarse a otros. El enlace termina si derrotan a uno de los dos/el aliado seleccionado hace otro enlace/al salir del alcance.\r\nAumenta la curación recibida de Brazalete Lunaestrella del aliado enlazado un **50%**.\r\nCuando el aliado enlazado activa **Resonancia de Fortaleza**, se transmite un **50%** adicional de resistencia al aliado enlazado.\r\nCuando el aliado enlazado activa **Resonancia de Equilibrio**/**Resonancia de Ataque**, se transmite un **20%** del ATQ adicional al aliado enlazado (no más de **20000**).\r\nCuando el aliado enlazado activa **Resonancia de Sacramento**, aumenta los efectos de curación realizada de los nómadas enlazados un **30%**.",
+				"icon": "skill_lianjie",
+				"id": "GA_FPlayerQueenMelee_Beidong"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.\r\n**Pasiva**: Restaura PS iguales a **150%** del ATQ al nómada y a sus camaradas cercanas al evadir, y elimina **8** puntos de Mordida Gris del nómada. Mientras **Resonancia de Sacramento** está activa, obtienes **50** de carga de arma.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerQueenEvade_Evade"
+			},
+			{
+				"name": "Oleada Reversa",
+				"description": "Recorre la zona varias veces, lo que inflige daño de hasta **144%** del ATQ más **864** a los objetivos del área.",
+				"icon": "skill_feiouna_qinshanbi",
+				"id": "GA_FPlayerQueenEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Oleada Desplazante",
+				"description": "Desata un chorro de agua, lo que inflige daño de hasta un **81%** de tu ATQ más **486** a los objetivos del área y los suspende.",
+				"icon": "skill_feiouna_houshanbi",
+				"id": "GA_FPlayerQueenEvadeAttack_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Catarata Feroz",
+				"description": "Erupción Marina: Inflige daño igual a **416%** del ATQ más **2496** y **suspende fuerte** a objetivos del área. Enfriamiento: **30**seg.\r\n**Pasiva: Dispersión**\r\nObtienes Técnica de Dispersión tras equipar **Brazalete Lunaestrella**. Puedes activar hasta **2** de las **6** Técnicas de Dispersión a través de Habilidades - Opciones.\r\nControles: Pulsa el botón de habilidad especial para usar la Técnica de Dispersión.\r\nCuando una Técnica de Dispersión está unida a Catarata Feroz, al usar Catarata Feroz se activará automáticamente la Técnica de Dispersión, y el enfriamiento de la habilidad se sustituirá por el enfriamiento de la Técnica de Dispersión.",
+				"icon": "skill_feiouna_jineng",
+				"id": "GA_FPlayerQueenSkill_Skill"
+			},
+			{
+				"name": "Enfoque Hídrico",
+				"description": "Sobrecarga de Marea: inflige daño hasta **320%** del ATQ más **1920** a los objetivos cercanos, lo que aumenta todo el daño elemental un **6%** por **20**seg.\r\nEnfriamiento: **14**seg.",
+				"icon": "skill_feiouna_kuosan1",
+				"id": "GA_FPlayerQueenSkill_Skill1"
+			},
+			{
+				"name": "Vórtice",
+				"description": "Invoca múltiples trombas marinas que atraen a los objetivos cercanos, lo que inflige daño de hasta **415.4%** del ATQ más **2492**. Poco después, se forma una gran tromba marina que inflige un daño igual a **184.6%** del ATQ más **1108** a los objetivos cercanos.\r\nEl daño infligido por **Vórtice** cuenta como daño de habilidad y de descarga.\r\nEnfriamiento: **12**seg.",
+				"icon": "skill_feiouna_kuosan2",
+				"id": "GA_FPlayerQueenSkill_Skill2"
+			},
+			{
+				"name": "Fuerza Torrencial",
+				"description": "Baño Torrencial: obtienes **60** de carga de arma cada segundo. Aumenta el daño de habilidad un **12%** durante **35**seg.\r\nUsar **Fuerza Torrencial** cuenta como usar la habilidad de descarga del arma actual (sin el efecto).\r\nLos impactos de **Brillo Radiante** reinician el enfriamiento de **Fuerza Torrencial**.\r\nEnfriamiento: **30**seg.",
+				"icon": "skill_GuangZhu",
+				"id": "GA_FPlayerQueenSkill_Skill3"
+			},
+			{
+				"name": "Torbellino",
+				"description": "Olas Envolventes: obtienes un refuerzo de daño final que aumenta con el tiempo, hasta un **26%** (se maximiza a los **10**seg). Este efecto no se acumula con los usos repetidos de **Torbellino** y se pierde al cambiar de arma.\r\nEnfriamiento: **30**seg.",
+				"icon": "skill_feiouna_kuosan4",
+				"id": "GA_FPlayerQueenSkill_Skill4"
+			},
+			{
+				"name": "Grilletes de Agua",
+				"description": "Ejecuta Prisión de Agua sobre el objetivo por **3**seg. El objetivo no puede moverse ni utilizar habilidades mientras dure la Prisión de Agua, y reduce su resistencia un **8%** por **15**seg (no funciona contra otros nómadas).\r\nEl efecto de reducción de resistencia de **Grilletes de Agua** se duplica al abalanzarte.\r\nEnfriamiento: **15**seg.",
+				"icon": "skill_ShuiLao",
+				"id": "GA_FPlayerQueenSkill_Skill5"
+			},
+			{
+				"name": "Manantial",
+				"description": "Vitalidad Arcana: obtienes un (**PS Máx.**/**100000**)% de refuerzo de daño elemental, hasta un **9%**. Obtendrás un **7%** más de aumento a todo tu daño elemental por **20**seg cuando tus PS Máx. superen **1600000**.\r\nEnfriamiento: **15**seg.",
+				"icon": "skill_ShuiBoZD",
+				"id": "GA_FPlayerQueenSkill_Skill6"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Brillo Radiante",
+				"description": "Cuando la carga de arma **está completa** o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y desata Aliento de Lunaestrella, lo que inflige daño de hasta **736%** del ATQ más **4416** a los objetivos cercanos. Durante este periodo, ganas inmunidad al daño por **1.5**seg (no disponible en la Liga Ápex). Restaura PS iguales a **300%** del ATQ del nómada y elimina **16** puntos de Mordida Gris. Elimina del retraso y ganas inmunidad al retraso por **5**seg.\r\n\r\n**Pasiva: Lunaestrella**\r\nMientras Resonancia de **Ataque**/**Equilibrio** está activa, cuando **Brillo Radiante** logra un impacto, aumenta el ATQ del nómada un **15%** durante **30**seg.\r\nMientras **Resonancia de Fortaleza** esté activa, cada vez que el nómada use **Brillo Radiante**, aumenta su resistencia un **4%** durante **30**seg, se acumula hasta **5** veces. Cuando los PS del nómada son inferiores al **30%**, obtienes una reducción de daño adicional del **40%** durante **5**seg; se puede activar una vez cada **60**seg.\r\nMientras **Resonancia de Sacramento** está activa, la recuperación de PS de **Brillo Radiante** cura a todos tus compañeros y, cuando se utiliza, crea **1 acumulación** de Escudo Lunar, el cual anula el daño **1 vez** durante **10**seg. Este efecto no se acumula, y cada uso de **Brillo Radiante** aumenta el efecto de curación del próximo uso un **20%**, hasta **40%**. Este efecto dura **30**seg.",
+				"icon": "skill_feiouna_lianxie",
+				"id": "GA_FPlayerQueenChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia Alterada**: aumenta el ATQ un **20%** y la Resistencia Alterada un **30%**. Se activa equipando **2** o más armas alteradas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con otros efectos de Resonancia Alterada o Reacción Alterada; Resonancia Alterada tiene preferencia.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Usar cualquier arma o habilidad de descarga otorga **1** cristal elemental, hasta **5** cristales. Los cristales elementales se pierden a una tasa de **1** cristal cada **6**seg.\r\nLos cristales elementales brindan un refuerzo de daño final equivalente al **4%** de [(**número de cristales más** **1**)/**2**] y un efecto de curación aumentado equivalente al **6%** del [(**número de cristales** más **1**)/**2**].",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "queen_superpower_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "queen_superpower_plasm"
+		},
+		{
+			"description": "Mientras Resonancia de Sacramento no está activa y cuando la salud del objetivo está por debajo de (**número de cristales** más **2**)**%**, si usas **Brazalete Lunaestrella**, se puede ejecutar un remate (no funciona contra nómadas).\r\nMientras Resonancia de Sacramento está activa y cuando la salud del objetivo es menor a (**número de cristales** multiplicado **2** más **2**)**%**, si usas **Brazalete Lunaestrella** se puede ejecutar un remate (no funciona contra nómadas).",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "queen_superpower_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "queen_superpower_plasm"
+		},
+		{
+			"description": "Obtienes **1** cristal elemental cada vez que usas Técnica de Dispersión. Los cristales elementales se pierden a una tasa de **1** cristal cada **20**seg.\r\nAl recibir daño letal, consume **3** cristales elementales para evitar la muerte 1 vez y ganas inmunidad al daño por un breve momento. Se puede activar **1** vez cada **25**seg.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "queen_superpower_plasm"
+		},
+		{
+			"description": "Aumenta el daño final un **7%** de [(**número de cristales **más **3**)/**2**].",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "queen_superpower_plasm"
+		}
+	],
+	"id": "queen_superpower"
+}

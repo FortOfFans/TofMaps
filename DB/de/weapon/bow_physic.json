@@ -1,0 +1,173 @@
+{
+	"name": "Nachtigallfeder",
+	"avatar": {
+		"name": "Bai Ling",
+		"weapon": "bow_physic",
+		"icon": "imitation_16",
+		"avatarID": "bailing",
+		"age": "8. Mai",
+		"height": "163 cm",
+		"gender": "Weiblich",
+		"state": "HT201-Zuflucht",
+		"city": "HT201-Zuflucht",
+		"rating": "wuwei_imitation_16",
+		"gp": [
+			"Rarity",
+			"collection",
+			"decorate"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 王晓彤"
+			},
+			{
+				"Japanese": "CV : 日高 里菜"
+			},
+			{
+				"English": "CV : Xanthe Huynh"
+			},
+			{
+				"Korean": "CV : 김율"
+			},
+			{
+				"Portuguese": "CV : Adriana Pissardini"
+			}
+		],
+		"id": "imitation_16"
+	},
+	"description": "Der ideale Verbündete für düstere Nächte.",
+	"icon": "item_Weapon_R_Bow_Phy01",
+	"gachaIcon": "SR_lh_yqzy",
+	"rarity": "SR",
+	"element": "Physics",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 28,
+		"Item_Mine_physic_02": 42,
+		"Item_breakthrough_B2": 42,
+		"Item_breakthrough_D2": 42,
+		"Item_Mine_physic_03": 22,
+		"Item_breakthrough_B3": 22,
+		"Item_breakthrough_D3": 22,
+		"Item_breakthrough_B1": 25,
+		"Item_breakthrough_D1": 23
+	},
+	"advanceID": "bow_physic_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Schnelles Ziehen",
+				"description": "Der Anwender spannt den Bogen am Boden mehrfach, um 5-mal anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **45.5%** des ANG +**273**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **40.7%** des ANG +**244**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **73%** des ANG +**438**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **113%** des ANG +**678**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **104.8%** des ANG +**629** und stößt das Ziel eine kurze Strecke zurück.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_Melee_R"
+			},
+			{
+				"name": "Aufgeladener Pfeil",
+				"description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen. Verursacht Grundschaden in Höhe von **81.8** des ANG +**491**, der pro **1** Sek. Aufladen um **50%** steigt (bis zu **3** Sek.). Bei Kopfschüssen oder einem Treffer an der Schwachstelle des Gegners wird der Schaden verdoppelt und der Gegner zu Fall gebracht (Kopfschüsse sind gegen Wanderer unwirksam).",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttack_R"
+			},
+			{
+				"name": "Pfeilhagel",
+				"description": "Halte den normalen Angriff nach einem beliebigen normalen Angriff, um „Pfeilhagel“ auszulösen. Dies fügt Zielen Flächenschaden in Höhe von bis zu **266.7%** des ANG +**1600**.",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_Branch_R"
+			},
+			{
+				"name": "Luft-Salve",
+				"description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **52.5%** des ANG +**315**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **69%** des ANG +**414**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **105%** des ANG +**630**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **158%** des ANG +**948**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttack_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Gegner in der Umgebung verlangsamt. Abklingzeit: 15 Sek. Gewährt für **0,5** Sek. Immunität gegen Trefferlähmung.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_Evade_R"
+			},
+			{
+				"name": "Geladener Pfeil",
+				"description": "Tippe nach dem Ausweichen auf den normalen Angriff, um „Geladener Pfeil“ auszulösen. Dieser stößt das Ziel eine kurze Strecke zurück und verursacht Schaden in Höhe von **115.5%** des ANG +**693**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttack_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Durchdringender Schuss",
+				"description": "Macht einen Rückwärtssalto und schießt **1**-mal „Durchdringender Schuss“ nach vorne, der Schaden in Höhe von **209%** des ANG +**1254** verursacht und das Ziel zurückstößt. Abklingzeit: **12** Sek.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Explosives Sperrfeuer",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und „Explosives Sperrfeuer“ auf das Ziel entfesselt. Dies verursacht Schaden in Höhe von **660%** des ANG +**3960**.",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Nach jedem fünften normalen Angriff oder der Verwendung von **Durchdringender Schuss** wird 1 Ausweichversuch wiederhergestellt.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **10%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Erhöht den Kopfschussschaden um **30%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **20%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Ausweichfähigkeiten belegen Ziele für **7** Sek. mit einem „Verwunden“-Effekt.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		},
+		{
+			"description": "Erhöht die kritische Trefferrate bei Zielen mit „Verwunden“ um **30%** und den kritischen Schaden um **50%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10
+			},
+			"need": "bow_physic_plasm"
+		}
+	],
+	"id": "bow_physic"
+}

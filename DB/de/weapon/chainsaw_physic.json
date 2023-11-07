@@ -1,0 +1,193 @@
+{
+	"name": "Wirbelstürmchen",
+	"avatar": {
+		"name": "Gnonno",
+		"advanceId": "imitation_27L1",
+		"weapon": "chainsaw_physic",
+		"icon": "imitation_27",
+		"avatarID": "genuonuo",
+		"age": "6. März",
+		"height": "134 cm",
+		"gender": "Weiblich",
+		"state": "Unbekannt",
+		"city": "Innars",
+		"rating": "wuwei_imitation_27",
+		"gp": [
+			"Rarity",
+			"collection",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 常丹瑞"
+			},
+			{
+				"Japanese": "CV : 釘宮 理恵"
+			},
+			{
+				"English": "CV : Risa Mei"
+			},
+			{
+				"Korean": "CV : 유영"
+			},
+			{
+				"Portuguese": "CV : Nina Carvalho"
+			}
+		],
+		"id": "imitation_27"
+	},
+	"description": "Viel zu gefährlich, um ein Kinderspielzeug zu sein. Es ist unmöglich, dass ein Kind es auf ehrliche Weise in die Hände bekommen hat. Wer weiß, was für eine Technik verwendet wurde, um es umzubauen … Vielleicht wurde es einfach irgendwo abseits des Weges aufgeschnappt.",
+	"icon": "item_Weapon_SSR_Chainsaw_physic01",
+	"gachaIcon": "SSR_lh_genuonuo",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Chainsaw",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "Chainsaw_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Sturmhieb",
+				"description": "Verwende am Boden den normalen Angriff, um 5Angriffe hintereinander auszuführen.\r\nErster Angriff: Verursacht Schaden in Höhe von **60.4%** des ANG + **362** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **70.9%** des ANG + **425** und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **58.8%** des ANG + **353** und stößt das Ziel zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **160.4%** des ANG + **962** und stößt das Ziel kontinuierlich zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **172.9%** des ANG + **1037** und schleudert das Ziel hoch.",
+				"icon": "skill_chainsaw_melee",
+				"id": "GA_FPlayerChainsawMelee_Melee"
+			},
+			{
+				"name": "Pirouettenhieb",
+				"description": "Setze in der Luft einen normalen Angriff ein, um Ausdauer zu verbrauchen und 5-mal hintereinander in der Luft anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **72.1%** des ANG +**433**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **60.3%** des ANG +**362**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **55.4%** des ANG +**332**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **100.7%** des ANG +**604**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **134.7%** des ANG +**808**.",
+				"icon": "skill_chainsaw_airattack",
+				"id": "GA_FPlayerChainsawMelee_AirAttack"
+			},
+			{
+				"name": "Wildes Scharren",
+				"description": "Tippe und halte den ersten bis dritten normalen Angriff auf dem Boden, um „Wildes Scharren“ auszulösen.\r\nGreift kontinuierlich Gegner vor dem unbeweglichen Anwender an und verbraucht Ausdauer. Gewährt währenddessen Hyperkörper. Jeder Treffer verursacht bei Zielen in der Nähe Schaden in Höhe von **29.4%** des ANG + **176** und **verwundet** das Ziel für **7**Sek.",
+				"icon": "skill_chainsaw_branch1",
+				"id": "GA_FPlayerChainsawMelee_MeleeBranch1"
+			},
+			{
+				"name": "Takoyaki-Angriff",
+				"description": "Tippe und halte den normalen Angriff während „Wildes Scharren“ um „Takoyaki-Angriff“ auszulösen.\r\nGreift kontinuierlich Gegner vor dem Anwender an und verbraucht Ausdauer. Gewährt währenddessen Hyperkörper. Jeder Treffer verursacht Schaden in Höhe von **29.4%** des ANG + **176** an Ziele in der Nähe. Sobald der normale Angriff losgelassen wird, erleiden Ziele in der Nähe Schaden in Höhe von **44.1%** + **265** und werden für **7**Sek. **verwundet**.\r\nBewege dich während „Takoyaki-Angriff“ mithilfe der Richtungssteuerung.",
+				"icon": "skill_chainsaw_branch2",
+				"id": "GA_FPlayerChainsawMelee_MeleeBranch2"
+			},
+			{
+				"name": "Pippas Angriff",
+				"description": "Tippe und halte den normalen Angriff oder den vierten normalen Angriff auf dem Boden, um „Pippas Angriff!“ auszulösen.\r\nBewegt sich beim Angreifen kontinuierlich vorwärts und verbraucht Ausdauer. Gewährt währenddessen Hyperkörper. Jeder Treffer fügt Zielen in der Nähe Schaden in Höhe von **29.4%** des ANG + **176** zu, stößt sie zurück und **verwundet** sie für **7**Sek.\r\nBewege dich während „Pippas Angriff“ mithilfe der Richtungssteuerung.",
+				"icon": "skill_chainsaw_branch4",
+				"id": "GA_FPlayerChainsawMelee_MeleeBranch4"
+			},
+			{
+				"name": "Tornadoball",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder verwende den normalen Angriff, während du kletterst, zurückspringst oder das Jetpack einsetzt, um „Wasserhosenstachel“ auszulösen.\r\nStürzt von oben herab und fügt beim Aufprall am Boden Zielen in der Nähe Schaden in Höhe von **167.2%** des ANG + **1003** zu und schleudert sie in die Luft.",
+				"icon": "skill_chainsaw_jumpattack",
+				"id": "GA_FPlayerChainsawMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerChainsawEvade_Evade"
+			},
+			{
+				"name": "Tentakelkonter",
+				"description": "Verwende während des kurzen Zeitraums nach dem Ausweichen den normalen Angriff, um „Tentakelkonter“ auszulösen, was allen Zielen in der Nähe Schaden in Höhe von **37.8%** des ANG + **227** zufügt.\r\n**Passiv**: Verzögert Ziele um **60%** und fügt ihnen für **5**Sek. pro Sek. Schaden in Höhe von **18%** des ANG zu. Dieser Effekt kann nur **1**-mal alle **10**Sek. ausgelöst werden (nicht in der Apex-Liga verfügbar).",
+				"icon": "skill_chainsaw_evadeattack1",
+				"id": "GA_FPlayerChainsawEvade_EvadeAttackBack"
+			},
+			{
+				"name": "Verfolgungstentakel",
+				"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste), um „Verfolgungstentakel“ auszulösen, was bei Zielen in der Nähe Schaden in Höhe von **106.3%** des ANG + **638** verursacht.",
+				"icon": "skill_chainsaw_evadeattack",
+				"id": "GA_FPlayerChainsawEvade_EvadeAttackFront"
+			}
+		],
+		"skill": [
+			{
+				"name": "Erkundungsteamschlag",
+				"description": "Geht in einen Aufladezustand über und wird vorübergehend unbesiegbar (nicht verfügbar in Apex-Liga). Zieht Ziele in der Nähe an den Anwender heran und fügt ihnen pro Treffer Schaden in Höhe von **29.4%** des ANG + **176** zu. Abklingzeit: **20** Sek. (kann während der Abklingzeit aufladen).\r\nBeim Loslassen detonieren alle **Schatzmale** auf Zielen in der Nähe und bringen **Oktopeitsche** so zur Tobsucht, wodurch die Geschwindigkeit von koordinierten Angriffen für **12** Sek. um **100%** erhöht wird.\r\n\r\nJe nach Anzahl an **Minitintenfischen** über dem Wanderer bieten sich verschiedene Zeitpunkte zum Loslassen an.\r\n**Wutanfall**: Bei **2** **Minitintenfischen** fügt das Loslassen Zielen in der Nähe Schaden in Höhe von **588%** des ANG + **3528** zu.\r\n**Wutbeherrschung**: Bei **1** oder **3** **Minitintenfischen** fügt das Loslassen Zielen in der Nähe Schaden in Höhe von **411.6%** des ANG + **2469** zu.\r\n\r\n**Schleichende Klone**: Gewährt **15** **Oktopeitschen** im Kampf, die anvisierte Ziele angreifen. Jeder Treffer verursacht Schaden in Höhe von **115%** des ANG und verbraucht **1** Oktopeitsche. Es können maximal **30** Oktopeitschen gleichzeitig gespeichert werden.\r\n**Pippa-Oktopeitsche**: Von Oktopeitschen getroffene Gegner werden mit jedem Treffer für **20** Sek. mit **1** **Schatzmal** markiert (maximal **3** Stapel).\r\nWenn ein markiertes Ziel physischen Schaden erleidet (**Oktopeitsche** ausgenommen), explodiert **1** **Schatzmal** und verursacht Schaden in Höhe von **20%** des ANG. Dieser Effekt kann nur **1**-mal alle **0,1** Sek. ausgelöst werden.\r\nGewährt **1** Oktopeitsche, wenn eine Entladungsfähigkeit verwendet wird. Dieser Effekt kann nur **1**-mal alle **0,1** Sek. ausgelöst werden.",
+				"icon": "skill_chainsaw_skill",
+				"id": "GA_FPlayerChainsawSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Ultimative Pippa",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Der Wanderer taucht kurz unter, um beim Wiederauftauchen Zielen in der Nähe Schaden in Höhe von **265.2%** des ANG +**1591** zuzufügen. Fügt Zielen in der Nähe beim Landen Schaden in Höhe von **618.8%** des ANG + **3712** zu und gewährt die maximale Anzahl an **Pippa-Oktopeitsche**. Die Schadensimmunität hält **1,5**Sek. lang an, wenn die Fähigkeit aktiv ist (nicht in der Apex-Liga verfügbar).",
+				"icon": "skill_chainsaw_changeskill",
+				"id": "GA_FPlayerChainSawChangeSkill_ChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Physische Resonanz**: Erhöht den physischen ANG um **15%** und den physischen Widerstand um **25%**. Wird durch Ausrüsten von **2** oder mehr physischen Waffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen physischen Resonanz- oder Reaktionseffekten gestapelt werden, wobei physische Resonanz priorisiert wird.\r\n**Allgemeine Resonanz**: Erhöht den Endschaden um **15%**. Wird durch Ausrüsten von **2**Waffen desselben Elements aktiviert (physisch ausgenommen). Der Set-Effekt funktioniert auch im Nebenhand-Slot.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "None"
+		},
+		{
+			"description": "Erhöht Zertrümmern von „Wildes Scharren“, „Takoyaki-Angriff“ und „Pippas Angriff!“ um **80%**.\r\nGewährt bei Verwendung dieser Fähigkeiten für **8**Sek. einen um **50%** erhöhten Schild, wenn der Schild des Wanderers weniger als **50%** beträgt. Dieser Effekt kann nur **1**-mal alle **5**Sek. ausgelöst werden (nicht in der Apex-Liga verfügbar).",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		},
+		{
+			"description": "Erhöht das Limit für **Pippa-Oktopeitsche** auf **45**.\r\nErhöht nach Verwendung von „Ultimative Pippa“ den physischen Schaden für **30**Sek. um **12%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		},
+		{
+			"description": "Die Explosion von **Schatzmal** erneuert den **Verwunden**-Status der Ziele.\r\nErhöht den verursachten physischen Schaden gegen Ziele mit weniger als **80%** LP um **10%**. Der Set-Effekt funktioniert auch im Nebenhand-Slot.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		},
+		{
+			"description": "Erhöht den durch explodierende **Schatzmale** verursachten Schaden auf **90%** des ANG.",
+			"stats": {
+				"shatter": 12,
+				"charge": 14
+			},
+			"need": "Chainsaw_physic_plasm"
+		}
+	],
+	"id": "chainsaw_physic"
+}

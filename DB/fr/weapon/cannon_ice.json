@@ -1,0 +1,149 @@
+{
+	"name": "L'Exterminateur",
+	"avatar": {
+		"name": "Hilda",
+		"weapon": "cannon_ice",
+		"icon": "imitation_15",
+		"avatarID": "hida",
+		"age": "11 avril",
+		"height": "165cm",
+		"gender": "Féminin",
+		"state": "Banges",
+		"city": "Inconnu",
+		"rating": "wuwei_imitation_15",
+		"gp": [
+			"restrictedGoods",
+			"garageKit",
+			"toy"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 裴致莹"
+			},
+			{
+				"Japanese": "CV : 花澤 香菜"
+			},
+			{
+				"English": "CV : Kira Buckland"
+			},
+			{
+				"Korean": "CV : 윤아영"
+			},
+			{
+				"Portuguese": "CV : Bruna Matta"
+			}
+		],
+		"id": "imitation_15"
+	},
+	"description": "L'arme à feu la plus redoutable jamais créée, aussi connue sous le nom de tourelle mobile.",
+	"icon": "item_Weapon_SR_Cannon_Ice01",
+	"gachaIcon": "SR_lh_zjz",
+	"rarity": "SR",
+	"element": "Ice",
+	"weaponType": "Cannon",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 28,
+		"Item_Mine_ice_02": 42,
+		"Item_breakthrough_A2": 42,
+		"Item_breakthrough_D2": 42,
+		"Item_Mine_ice_03": 22,
+		"Item_breakthrough_A3": 22,
+		"Item_breakthrough_D3": 22,
+		"Item_breakthrough_A1": 25,
+		"Item_breakthrough_D1": 23
+	},
+	"advanceID": "cannon_ice_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Attaque normale",
+				"description": "Appuyez sur Attaque normale pour entrer en mode Visée. Maintenez Attaque normale pour tirer en continu, jusqu'à **40**cartouches. Chaque tir inflige des dégâts équivalant à **15.4%** de l'ATQ + **92**. Vous doublez vos dégâts en cas de tir à la tête ou lorsque vous atteignez le point faible d'un ennemi, et renversez la cible (les tirs à la tête ne fonctionnent pas sur les Explorateurs).",
+				"icon": "pugong_cannon",
+				"id": "GA_FPlayerCannonMelee_Melee"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. Temps de recharge : 15 secondes. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerCannonEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Tourelle",
+				"description": "Vous activez le mode Tourelle et envoyez de grands orbes d'énergie. Chacun d'entre eux inflige des dégâts équivalant à **287.9%** de l'ATQ + **1727**, et projette la cible dans les airs. Lors de l'installation de la tourelle, vous êtes immunisé contre l'hébétement et les effets de contrôle. Temps de recharge: **3.5**secondes.",
+				"icon": "skill_cannon",
+				"id": "GA_FPlayerCannonSkillNew"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Rayon arctique",
+				"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur**, et tire un rayon arctique au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à **444.5%** de l'ATQ + **2667**, ainsi qu'un effet de **gel long** de **3**secondes. Réduit aussi de **50%** la résistance au givre de la cible pendant **10**secondes.",
+				"icon": "skill_cannon_skill3",
+				"id": "GA_FPlayerCannonChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Chaque attaque normale réussie accroît les dégâts de **1%** pendant **2**secondes (cumulable jusqu'à **15**fois). Accroît le nombre de munitions à **60**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "Augmente de **10%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "Accroît de **30%** les dégâts des attaques normales et la capacité de fracture dans les **10**secondes après avoir changé d'arme. Temps de recharge: **25**secondes. Accroît le nombre de munitions à **80**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "Augmente de **20%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 13,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "Réduit de **2**secondes le temps de recharge des attaques normales en mode Tourelle.",
+			"stats": {
+				"shatter": 13,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "Accroît de **60%** les dégâts des attaques normales et la capacité de fracture dans les **10**secondes après avoir changé d'arme. Temps de recharge: **25**secondes.",
+			"stats": {
+				"shatter": 16,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		}
+	],
+	"id": "cannon_ice"
+}

@@ -1,0 +1,174 @@
+{
+	"name": "Magmaschild V2",
+	"avatar": {
+		"name": "Huma",
+		"advanceId": "imitation_6L1",
+		"weapon": "shieldaxe_fire",
+		"icon": "imitation_6",
+		"avatarID": "xiuma",
+		"age": "12. Januar",
+		"height": "167 cm",
+		"gender": "Weiblich",
+		"state": "Hykros",
+		"city": "Unbekannt",
+		"rating": "wuwei_imitation_6",
+		"gp": [
+			"everydayObjects",
+			"game",
+			"decorate"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐雅菁"
+			},
+			{
+				"Japanese": "CV : 高橋 李依"
+			},
+			{
+				"English": "CV : Colleen O Shaughnessey"
+			},
+			{
+				"Korean": "CV : 김보나"
+			},
+			{
+				"Portuguese": "CV : Marli Bortoletto"
+			}
+		],
+		"id": "imitation_6"
+	},
+	"description": "Eine Schildaxt, die zur V2-Waffenserie gehört. Eine Reihe von Waffen, die mit einer besonderen Technik geschmiedet wurden.",
+	"icon": "item_Weapon_SSR_ShieldAxe_Fire01",
+	"gachaIcon": "SSR_lh_yyz",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "ShieldAxe",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "ShieldAxe_Fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Normaler Angriff",
+				"description": "Wenn der Anwender am Boden die Schildaxt schwingt, kann er 4-mal hintereinander angreifen.\r\nErster Angriff in Schildform: Verursacht Schaden in Höhe von **77.7%** des ANG +**466** und stößt das Ziel eine kurze Strecke zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **56.9%** des ANG +**341** und stößt das Ziel eine kurze Strecke zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **62.8%** des ANG +**377** und stößt das Ziel eine kurze Strecke zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **184%** des ANG +**1104** und **schleudert das Ziel hoch**.\r\nErster Angriff in Axtform: Verursacht Schaden in Höhe von **135.2%** des ANG +**811** und stößt das Ziel eine kurze Strecke zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **79.4%** des ANG +**476** und stößt das Ziel eine kurze Strecke zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **119.9%** des ANG +**719** und stößt das Ziel eine kurze Strecke zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **221.3%** des ANG +**1328** und stößt das Ziel zurück.",
+				"icon": "pugong_Shield",
+				"id": "GA_FPlayerShieldMelee_Melee"
+			},
+			{
+				"name": "Luftschlag",
+				"description": "Greift in der Luft oder nach einmaligem Springen 3-mal hintereinander an.\r\nErster Angriff in Schildform: Verursacht Schaden in Höhe von **75.9%** des ANG +**455**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **80.2%** des ANG +**481**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **103%** des ANG +**618**.\r\nErster Angriff in Axtform: Verursacht Schaden in Höhe von **118.6%** des ANG +**712**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **91.1%** des ANG +**547**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **277.9%** des ANG +**1667**.",
+				"icon": "skill_shield_airattack",
+				"id": "GA_FPlayerShieldMelee_AirAttack"
+			},
+			{
+				"name": "Das Unerwartete",
+				"description": "Schildform: Tippe und halte den normalen Angriff gedrückt, während du auf dem Boden stehst, um die Schildform für **3**Sek. einzunehmen (loslassen, um sie zu verlassen). Während dieser Zeit kann sich der Wanderer nicht bewegen und der erlittene Schaden wird um **50%** verringert. Wenn du in Schildform die normale Angriffstaste loslässt, nachdem du Schaden erlitten oder die Taste **3**Sek. lang gedrückt hast, entfesselst du einen Feuersturm, der Schaden in Höhe von **167.3%** des ANG +**1004** verursacht und dem Ziel eine **1**Sek. andauernden **Betäubung** zufügt.\r\nAxtform: Zerschmettert das Ziel, um Schaden in Höhe von **122.2%** des ANG +**733** zu verursachen und es schweben zu lassen.",
+				"icon": "skill_shieldpowerattack",
+				"id": "GA_FPlayerShieldMelee_PowerAttack"
+			},
+			{
+				"name": "Tapferkeit",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder den Jetpack benutzt, um Variantenangriffe in der Luft auszulösen.\r\nSchildform: Verursacht beim Fallen pro Treffer Schaden in Höhe von **12.5%** des ANG +**75**. Verursacht bei der Landung Schaden in Höhe von **89.2%** des ANG +**535** und schleudert das Ziel hoch.\r\nAxtform: Verursacht beim Fallen pro Treffer Schaden in Höhe von **12.5%** des ANG +**75**. Verursacht bei der Landung Schaden in Höhe von **128.3%** des ANG +**770** und lässt das Ziel schweben.\r\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt **600%** des Schadens.",
+				"icon": "skill_shield_airbranch",
+				"id": "GA_FPlayerShieldMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausbruch",
+				"description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um Ausweichangriff auszulösen.\r\nSchildform: Entfesselt einen flammenden Schild, der Zielen Schaden in Höhe von **55.8%** des ANG +**335** zufügt und sie zurückstößt. Außerdem wird eine Explosion ausgelöst, die Zielen Schaden in Höhe von **55.8%** des ANG +**335** zufügt, sie für **0,5** Sek. **betäubt** und ihre erhaltene Heilung für **10** Sek. um **30%** verringert.\r\nAxtform: Schwingt eine Axt, um Zielen Schaden in Höhe von **226.3%** des ANG +**1358** zuzufügen und ihre erhaltene Heilung für **10** Sek. um **30%** zu verringern.",
+				"icon": "skill_shieldevade",
+				"id": "GA_FPlayerShieldEvade_EvadeAttack"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Gegner in der Umgebung verlangsamt. Abklingzeit: 15 Sek. Gewährt für **0,5** Sek. Immunität gegen Trefferlähmung.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerShieldEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Spaltung",
+				"description": "Schildumwandlung: Wechselt von der Schildform zur Axtform und schmettert auf den Boden. Dies verursacht Schaden in Höhe von **373.8%** des ANG + **2243** und zusätzlichen Schaden in Höhe von **4%** der max. LP des Wanderers. Außerdem lässt es das Ziel **länger schweben**. Erzeugt außerdem für **5** Sek. eine große Flammenzone, die das Ziel verbrennt und kontinuierlich Schaden in Höhe von **233.6%** des ANG + **1401** verursacht.\r\nAxtumwandlung: Wechselt von der Axtform in die Schildform und schlägt Gegner zu Boden. Dies verursacht Schaden in Höhe von **309.5%** des ANG + **1857** und zusätzlichen Schaden in Höhe von **4%** der max. LP des Wanderers am Ziel und stößt es zurück. Außerdem kann das Ziel für **5** Sek. seine Waffe nicht wechseln, wenn es getroffen wird.\r\nAbklingzeit: **25** Sek. Schildumwandlung und Axtumwandlung haben die gleiche Abklingzeit.",
+				"icon": "skill_shield",
+				"id": "GA_FPlayerShieldSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Brodelnder Zorn",
+				"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und es wird eine Flammenschockwelle auf das Ziel losgelassen. Dies verursacht Schaden in Höhe von **352%** des ANG + **2112** und zusätzlichen Schaden in Höhe von **5%** der max. LP des Wanderers. Verspottet Gegner **5** Sek. lang und gewährt währenddessen **15%** Schadensreduktion. Verstreut schildförmige Objekte je nach Anzahl der verspotteten Ziele. Die Objekte bleiben **20** Sek. im Gebiet, gewähren beim Aufnehmen **10** Sek. lang **5%** Schadensreduktion (stapelbar) und stellen sofort 1 Ausweichversuch wieder her.",
+				"icon": "skill_shield_changeskill",
+				"id": "GA_FPlayerShieldChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Erhalte nach Einsatz von Entladung einen Stapel „Starker Schild“: „Brodelnder Zorn“ gewährt einen Stapel „Starker Schild“. In Schildform gewähren Ausweich- und Variantenfähigkeiten einen Stapel „Starker Schild“, der **15** Sek. lang die Schadensreduktion um je **10%** erhöht. Kann bis zu **3**-mal gestapelt werden. Beim Wechsel zur Axtform werden alle Stapel von „Starker Schild“ in „Scharfe Axt“ umgewandelt; diese Stapel erhöhen **15** Sek. lang den verursachten Schaden um jeweils **15%**. Ein Waffenwechsel beendet den Effekt.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "In Schildform fügen Varianten-/Ausweichangriffe Zielen zusätzlichen Schaden in Höhe von **4%** der aktuellen LP des Anwenders zu.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Gewährt nach dem Wechsel zur Schildaxt **30%** Schadensreduktion, die alle **3** Sek. um **10%** abnimmt (Minimum: **10%**). Beim Waffenwechsel wird der Effekt beendet. Abklingzeit: **30** Sek.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Verbessert Wechselfähigkeiten.\r\nVerbessert Schildumwandlung: Erhöht den verursachten Fähigkeitsschaden um **60%** und erweitert den Radius der Flammenzone um **30%**.\r\nVerbessert Axtumwandlung: Verfügt über keine gemeinsame Abklingzeit mit Schildumwandlung. Wandelt nach Einsetzen dieser Fähigkeit **5**Sek. lang erlittenen Schaden in LP um (bis maximal **15%** der max. LP des Anwenders).",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		}
+	],
+	"id": "shieldaxe_fire"
+}

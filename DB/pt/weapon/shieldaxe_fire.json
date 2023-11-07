@@ -1,0 +1,174 @@
+{
+	"name": "Escudo Fundido V2",
+	"avatar": {
+		"name": "Huma",
+		"advanceId": "imitation_6L1",
+		"weapon": "shieldaxe_fire",
+		"icon": "imitation_6",
+		"avatarID": "xiuma",
+		"age": "12 de janeiro",
+		"height": "1,67 m",
+		"gender": "Feminino",
+		"state": "Hykros",
+		"city": "Desconhecido",
+		"rating": "wuwei_imitation_6",
+		"gp": [
+			"everydayObjects",
+			"game",
+			"decorate"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐雅菁"
+			},
+			{
+				"Japanese": "CV : 高橋 李依"
+			},
+			{
+				"English": "CV : Colleen O Shaughnessey"
+			},
+			{
+				"Korean": "CV : 김보나"
+			},
+			{
+				"Portuguese": "CV : Marli Bortoletto"
+			}
+		],
+		"id": "imitation_6"
+	},
+	"description": "Um machado-escudo da série de armas V2, uma coleção de armas forjadas com técnicas especiais.",
+	"icon": "item_Weapon_SSR_ShieldAxe_Fire01",
+	"gachaIcon": "SSR_lh_yyz",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "ShieldAxe",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "ShieldAxe_Fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Ataque Normal",
+				"description": "No chão, branda o machado-escudo para atacar 4 vezes seguidas.\r\nPrimeiro ataque em forma de escudo: causa dano de **77.7%** do ATQ + **466** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **56.9%** do ATQ + **341** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **62.8%** do ATQ + **377** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **184%** do ATQ + **1104** e **lança o alvo no ar**.\r\nPrimeiro ataque em forma de machado: causa dano de **135.2%** do ATQ + **811** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **79.4%** do ATQ + **476** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **119.9%** do ATQ + **719** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **221.3%** do ATQ + **1328** e repele o alvo.",
+				"icon": "pugong_Shield",
+				"id": "GA_FPlayerShieldMelee_Melee"
+			},
+			{
+				"name": "Golpe Aéreo",
+				"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 3 vezes seguidas.\r\nPrimeiro ataque em forma de escudo: causa dano de **75.9%** do ATQ + **455**.\r\nSegundo ataque: Causa dano de **80.2%** do ATQ + **481**.\r\nTerceiro ataque: Causa dano de **103%** do ATQ + **618**.\r\nPrimeiro ataque em forma de machado: causa dano de **118.6%** do ATQ + **712**.\r\nSegundo ataque: Causa dano de **91.1%** do ATQ + **547**.\r\nTerceiro ataque: Causa dano de **277.9%** do ATQ + **1667**.",
+				"icon": "skill_shield_airattack",
+				"id": "GA_FPlayerShieldMelee_AirAttack"
+			},
+			{
+				"name": "Antecipação",
+				"description": "Forma de escudo: No chão, segure o botão de ataque normal para acionar a forma de escudo (solte para desativar) durante **3** segundos, durante os quais você não pode se mexer e todo dano sofrido é reduzido em **50%**. Em forma de escudo, soltar o botão de ataque normal após sofrer dano ou após **3** segundos segurando desencadeia uma pancada ígnea, que causa dano de **167.3%** do ATQ + **1004** e inflige **atordoamento** durante **1** segundo ao alvo.\r\nForma de machado: Esmaga o alvo, causando dano de **122.2%** do ATQ + **733** e suspendendo-o.",
+				"icon": "skill_shieldpowerattack",
+				"id": "GA_FPlayerShieldMelee_PowerAttack"
+			},
+			{
+				"name": "Valentia",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (toque quando houver um alvo), ou use ao escalar, pular para trás ou usar a mochila a jato para usar ataques encadeados no ar.\r\nForma de escudo: Enquanto cai, cada golpe causa dano de **12.5%** do ATQ + **75**. Ao aterrissar, causa dano de **89.2%** do ATQ + **535** e suspende o alvo.\r\nForma de machado: Enquanto cai, cada golpe causa dano de **12.5%** do ATQ + **75**. Ao aterrissar, causa dano de **128.3%** do ATQ + **770** e suspende os alvos.\r\nQuanto maior a altura, maior o dano causado. Chega a até **600%** do dano.",
+				"icon": "skill_shield_airbranch",
+				"id": "GA_FPlayerShieldMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Erupção",
+				"description": "Use o botão de ataque normal logo após se esquivar para usar Ataque Esquivado.\r\nForma de escudo: Gera um escudo flamejante que causa dano de **55.8%** do ATQ + **335** e repele o alvo. Provoca uma explosão que causa dano de **55.8%** do ATQ + **335**. A explosão **atordoa** o alvo durante **0,5** segundo e, durante **10** segundos, reduz a cura recebida pelo alvo em **30%**.\r\nForma de machado: Brande o machado, causando dano de **226.3%** do ATQ + **1358** e reduzindo a cura recebida pelo alvo em **30%** durante **10** segundos.",
+				"icon": "skill_shieldevade",
+				"id": "GA_FPlayerShieldEvade_EvadeAttack"
+			},
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Tempo de recarga: 15 segundos. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerShieldEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Fissão",
+				"description": "Conversão de Escudo: Troca da forma de escudo para a forma de machado e bate no chão, causando dano de **373.8%** do ATQ + **2243**, além de dano equivalente a **4%** da sua vida máxima, e **suspende muito** o alvo. Cria uma área de fogo ampla durante **5** segundos que queima o alvo, causando dano contínuo de **233.6%** do ATQ + **1401**.\r\nConversão de Machado: Troca da forma de machado para a forma de escudo e bate no chão, causando dano de **309.5%** do ATQ + **1857** ao alvo, além de dano adicional de **4%** da sua vida máxima, e o repele. Impede o alvo de trocar de arma por **5** segundos após ser atingido.\r\nTempo de recarga: **25** seg. Conversão de Escudo e Conversão de Machado compartilham o mesmo tempo de recarga.",
+				"icon": "skill_shield",
+				"id": "GA_FPlayerShieldSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Fúria Ardente",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e gera um abalo sísmico de fogo. Causa dano de **352%** do ATQ + **2112**, além de dano adicional de **5%** da sua vida máxima. Provoca inimigos durante **5** segundos, durante os quais você ganha **15%** de redução de dano. Espalha objetos em formato de escudo com base no número de alvos provocados, que duram **20** segundos. Ao coletá-los, eles fornecem **10** segundos de **5%** de redução de dano (acumulável) e restaura imediatamente 1 tentativa de esquiva.",
+				"icon": "skill_shield_changeskill",
+				"id": "GA_FPlayerShieldChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Ganha um acúmulo de escudo forte após usar descarga: Fúria Ardente. Usar uma habilidade de esquiva ou uma habilidade encadeada na forma de escudo dá um acúmulo de escudo forte, que confere **10%** de redução de dano durante **15** segundos. Acumula até **3** vezes. Trocar para a forma de machado converte todos os acúmulos de escudo forte em acúmulos de machado afiado. Cada acúmulo aumenta o dano em **15%** durante **15** segundos. Trocar para uma arma diferente cancela o efeito.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento da vida mínima da arma atual em **16%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Durante a forma de escudo, ataques encadeados ou esquivados causam dano adicional de **4%** da sua vida atual ao alvo.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Após alternar para o machado-escudo, recebe **30%** de redução de dano imediatamente, que diminui **10%** a cada **3** segundos até no mínimo **10%**. Trocar de arma cancela o efeito. Tempo de recarga: **30** seg.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Aprimora habilidades de conversão.\r\nAprimoramento de Conversão de Escudo: Aumenta o dano de habilidade causado em **60%** e o raio da área de fogo em **30%**.\r\nAprimoramento de Conversão de Machado: Não compartilha tempo de recarga com Conversão de Escudo. Durante os **5** segundos seguintes após usar esta habilidade, converte todo o dano sofrido em vida (até **15%** da vida máxima do usuário).",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		}
+	],
+	"id": "shieldaxe_fire"
+}

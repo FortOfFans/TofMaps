@@ -1,0 +1,194 @@
+{
+	"name": "Oiseau vermillon",
+	"avatar": {
+		"name": "Lan",
+		"advanceId": "imitation_34L1",
+		"weapon": "umbrella_fire",
+		"icon": "imitation_34",
+		"avatarID": "lan",
+		"age": "5 mai",
+		"height": "172cm",
+		"gender": "Féminin",
+		"state": "Les gardes de l'ombre",
+		"city": "Inconnu",
+		"rating": "wuwei_imitation_34",
+		"gp": [
+			"Rarity",
+			"everydayObjects",
+			"Vera",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈雨"
+			},
+			{
+				"Japanese": "CV : 内田 真礼"
+			},
+			{
+				"English": "CV : Sarah Wiedenheft"
+			},
+			{
+				"Korean": "CV : 박리나"
+			},
+			{
+				"Portuguese": "CV : Luiza Caspary"
+			}
+		],
+		"id": "imitation_34"
+	},
+	"description": "Une arme avec divers mécanismes cachés, utilisée exclusivement par Zhuque. La partie principale en forme d'ombrelle d'Oiseau vermillon peut non seulement devenir un outil puissant pour détruire les ennemis en utilisant de l'énergie, mais aussi bloquer la vue des autres et cacher son porteur…",
+	"icon": "item_Weapon_SSR_umbrella_Fire01",
+	"gachaIcon": "SSR_lh_lan",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Umbrella",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "umbrella_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Danse de flammes",
+				"description": "Lorsque vous êtes au sol, utilisez l'attaque normale pour lancer 5attaques consécutives.\r\nPremière attaque: inflige des dégâts équivalant à **94.8%** de l'ATQ + **569** et repousse la cible sur une courte distance.\r\nDeuxième attaque: inflige des dégâts équivalant à **129.8%** de l'ATQ + **779** et repousse la cible de manière significative \r\nTroisième attaque: inflige des dégâts équivalant à **221.3%** de l'ATQ + **1328** et suspend la cible.\r\nQuatrième attaque: inflige des dégâts équivalant **241.3%** de l'ATQ + **1448** et renverse la cible.\r\nCinquième attaque: inflige des dégâts équivalant **304.1%** de l'ATQ + **1824** et repousse la cible.",
+				"icon": "skill_umbrella_melee",
+				"id": "GA_FPlayerUmbrellaMeleeFire_Melee"
+			},
+			{
+				"name": "Frappe vertigineuse",
+				"description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour lancer 5attaques consécutives en l'air, consommant de l'endurance.\r\nPremière attaque: Inflige des dégâts équivalant à **106.3%** de l'ATQ + **638** à la cible.\r\nDeuxième attaque: Inflige des dégâts équivalant à **129.8%** de l'ATQ + **779** à la cible.\r\nTroisième attaque: Inflige des dégâts équivalant à **158.1%** de l'ATQ + **949** à la cible.\r\nQuatrième attaque: Inflige des dégâts équivalant à **165.3%** de l'ATQ + **992** à la cible.\r\nCinquième attaque: Inflige des dégâts équivalant à **296.3%** de l'ATQ + **1778** à la cible.",
+				"icon": "skill_umbrella_airattack",
+				"id": "GA_FPlayerUmbrellaMeleeFire_AirAttack"
+			},
+			{
+				"name": "Ailes embrasées",
+				"description": "Lorsque vous êtes au sol, appuyez et maintenez Attaque normale entre la deuxième et la cinquième attaque incluses pour déclencher Ailes embrasées.\r\nChargez rapidement vers l'avant et suspendez-vous pour infliger des dégâts équivalant à **125%** de l'ATQ + **750** aux cibles à proximité et les **suspendre longuement**.",
+				"icon": "skill_umbrella_branch",
+				"id": "GA_FPlayerUmbrellaMeleeFire_Branch"
+			},
+			{
+				"name": "Cœur coulant",
+				"description": "Appuyez et maintenez Attaque normale dans les airs pour déclencher Cœur coulant, puis continuez à consommer de l'endurance et gagnez Hypercorps.\r\nContrôlez Oiseau vermillon et infligez des dégâts équivalant à **25%** de l'ATQ + **150** aux cibles à proximité, et ordonnez aux ombrelles de tournoyer rapidement.\r\nRelâchez Attaque normale pour retomber au sol. En retombant, chaque attaque qui touche sa cible lui inflige des dégâts équivalant à **50%** de l'ATQ + **300** et la **renverse**.\r\n**Effet passif**: quand les ombrelles tournoient rapidement, les plumes consommées chaque seconde par Vortex de feu sont multipliées par **Ombrelles duveteuses**. Les dégâts, la charge et les effets de fracture de Vortex de feu sont également multipliés par **Ombrelles duveteuses**.\r\n**Plumes**: obtenez automatiquement **1**plume toutes les secondes et **1**plume chaque fois que des dégâts sont infligés. Temps de recharge: **0,5**seconde. Cumulable jusqu'à **30**fois.\r\n**Ombrelles duveteuses** = **1** + le nombre d'ombrelles.",
+				"icon": "icon_skill_umbrella_beidong2",
+				"id": "GA_FPlayerUmbrellaMeleeFire_PowerAttack"
+			},
+			{
+				"name": "Invocation d'ombrelle",
+				"description": "Quand vous n'êtes pas en combat, appuyez et maintenez Attaque normale au sol pour faire apparaître une ombrelle à l'emplacement désigné pendant **15**secondes ou jusqu'au début du combat.\r\nQuand vous n'êtes pas en combat, utilisez la compétence pour vous déplacer jusqu'à l'ombrelle et utilisez le double-saut pour planer. Temps de recharge: **6**secondes.",
+				"icon": "skill_umbrella_skill_InPeace",
+				"id": "GA_FPlayerUmbrellaAimAttackFire"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerUmbrellaEvadeFire_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Glissade dévastatrice",
+				"description": "Volez jusqu'aux ombrelles dans l'ordre où elles sont apparues et revenez à votre position d'origine. Vous laissez derrière vous une traînée qui dure 5secondes. Les cibles à proximité de celle-ci sont ralenties de **50%**. Vous êtes immunisé aux dégâts pendant les vols planés (non disponible en Ligue ultime). Temps de recharge : **12**secondes.\r\nChaque fois que l'Explorateur traverse une ombrelle, inflige des dégâts de zone équivalant à **220%** de l'ATQ + **1320** et fait rapidement tournoyer l'ombrelle pendant **5**secondes.",
+				"icon": "skill_umbrella_skill",
+				"id": "GA_FPlayerUmbrellaSkillFire_Skill"
+			},
+			{
+				"name": "Ombrelle",
+				"description": "Lorsqu'une attaque d'esquive ou une attaque normale avec une arme touche une cible, fait apparaître **1**ombrelle à proximité de celle-ci pendant **20**secondes. Temps de recharge : **1,5**seconde. Jusqu'à **3**ombrelles peuvent être actives en même temps.\r\n**Impact incandescent**: lors de l'utilisation de Glissade dévastatrice, pour chaque ombrelle traversée, inflige des dégâts supplémentaires équivalant à **64,8%** de l'ATQ multiplié par Ombrelles duveteuses.\r\n**Corrosion**: les cibles à proximité des ombrelles subissent **6%** de dégâts de feu supplémentaires et **8%** de dégâts d'attaque chargée supplémentaires.\r\n**Flammes éclatantes**: les ombrelles infligent aux cibles à proximité des dégâts de brûlure équivalant à **105%** de l'ATQ chaque seconde pendant **4**secondes.\r\n**Vortex de feu**: les ombrelles actives consomment **1**plume chaque seconde et infligent des dégâts de zone équivalant à **54%** de l'ATQ + **324** (les dégâts et le coût en plumes de toutes les ombrelles ne se cumulent pas).",
+				"icon": "icon_skill_umbrella_beidong2",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas1"
+			},
+			{
+				"name": "Domaine vermillon",
+				"description": "Lors de l'utilisation de Glissade dévastatrice, traversez 3ombrelles avant de revenir à votre position d'origine pour gagner Domaine vermillon, ce qui confère Hypercorps et **40%** de réduction des dégâts pendant **8**secondes.\r\nLorsque vous plongez, Domaine vermillon inflige des dégâts équivalant à **50%** de l'ATQ + **300** aux cibles dans la zone chaque seconde et accroît la vitesse de l'Explorateur de **30%**.",
+				"icon": "icon_skill_umbrella_beidong3",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas2"
+			},
+			{
+				"name": "Fortitude",
+				"description": "Après avoir activé Résonance de fortitude:\r\nUtiliser avec succès une compétence d'arme provoque les cibles à proximité pendant **2,5**secondes.\r\nLors de l'utilisation de Glissade dévastatrice, Domaine vermillon s'étend, conférant **20%** de réduction des dégâts aux membres du groupe à proximité.\r\nLors de l'utilisation de Cœur coulant, le compte à rebours de Domaine vermillon s'arrête.",
+				"icon": "icon_skill_umbrella_beidong1",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas3"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Revers du phénix",
+				"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur** au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à **849.6%** de l'ATQ + **5097** à la cible, tout en conférant une immunité aux dégâts pendant **1,5**secondes (non disponible en Ligue ultime).\r\n**Effet passif**: toucher une cible accroît les dégâts de feu de **1,2% d'Ombrelles duveteuses** pendant **20**secondes.",
+				"icon": "skill_umbrella_changeskill",
+				"id": "GA_FPlayerUmbrellaChangeSkillFire"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. Activez-la en équipant au moins **2**armes de feu. Cet effet fonctionne également avec les armes dans l'emplacement main libre. L'effet ne peut pas être cumulé plusieurs fois.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "**Force vermillon**: en équipant Oiseau vermillon, le **coût en munitions**, les dégâts, la charge et les effets de fracture des autres armes sont multipliés par les **Ombrelles duveteuses**.\r\n**Feu ardent**: lorsque les cibles proches déclenchent le décompte de brûlure ou subissent des dégâts par Impact incandescent, **30%** des dégâts sont transférés aux **3**unités près de la cible (y compris la cible elle-même) ayant le pourcentage de PV le plus élevé.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Augmente de **16%** la croissance de PV de base actuelle de l'arme.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Effet passif1: lorsqu'une attaque de décharge d'arme ou une fracture est utilisée, toutes les ombrelles à proximité déclenchent **1**Impact incandescent avec une efficacité de **30%**. Réduit l'ATQ des ennemis à proximité des ombrelles de **15%**. En combat, fait apparaître **3**ombrelles près de la cible immédiatement après lui avoir infligé des dégâts pour la première fois.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Impact incandescent et les dégâts transférés ignorent **60%** de la résistance au feu de la cible.\r\nLes dégâts de feu infligés par Corrosion sont accrus de **10%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Accroît les dégâts infligés par Danse de flammes et Frappe vertigineuse de **50%**.\r\nLe multiplicateur pour les ombrelles tournoyant rapidement, Revers du phénix et Impact incandescent devient Ombrelles duveteuses + **2**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		}
+	],
+	"id": "umbrella_fire"
+}

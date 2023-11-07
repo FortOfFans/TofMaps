@@ -1,0 +1,180 @@
+{
+	"name": "Chakram dos Mares",
+	"avatar": {
+		"name": "Shiro",
+		"advanceId": "imitation_8L1",
+		"weapon": "darts_physic",
+		"icon": "imitation_8",
+		"avatarID": "xiluo",
+		"age": "22 de setembro",
+		"height": "1,63m",
+		"gender": "Feminino",
+		"state": "Desconhecido",
+		"city": "Warren",
+		"rating": "wuwei_imitation_8",
+		"gp": [
+			"metal",
+			"collection",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 蔡娜"
+			},
+			{
+				"Japanese": "CV : 小澤 亜李"
+			},
+			{
+				"English": "CV : Kristen McGuire"
+			},
+			{
+				"Korean": "CV : 양정화"
+			},
+			{
+				"Portuguese": "CV : Fernanda Bullara"
+			}
+		],
+		"id": "imitation_8"
+	},
+	"description": "Uma arma circular e afiada que viajou os mares com sua dona.",
+	"icon": "item_Weapon_SSR_Darts_Phy01",
+	"gachaIcon": "SSR_lh_hr",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Darts",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "darts_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Arremesso Veloz",
+				"description": "No chão, branda o chakram para executar 5 ataques giratórios.\r\nPrimeiro ataque: Causa dano de **35.3%** do ATQ + **212**.\r\nSegundo ataque: Causa dano de **27.4%** do ATQ + **164**.\r\nTerceiro ataque: Causa dano de **39.1%** do ATQ + **235**.\r\nQuarto ataque: Causa dano de **35.3%** do ATQ + **212**.\r\nQuinto ataque: Causa dano de **61.9%** do ATQ + **371** e repele o alvo uma curta distância.",
+				"icon": "skill_darts_melee",
+				"id": "GA_FPlayerDartsMelee_Melee"
+			},
+			{
+				"name": "Detonação Aérea",
+				"description": "No ar ou após pular uma vez, use o botão de ataque normal para executar 3 ataques giratórios seguidos.\r\nPrimeiro ataque: Causa dano de **30.1%** do ATQ + **181**.\r\nSegundo ataque: Causa dano de **33.6%** do ATQ + **201**.\r\nTerceiro ataque: Causa dano de **42.8%** do ATQ + **256**.",
+				"icon": "skill_darts_air",
+				"id": "GA_FPlayerDartsMelee_AirAttack"
+			},
+			{
+				"name": "Chakrans Repulsores",
+				"description": "Após o segundo ataque normal, segure o botão de ataque para ativar Chakrans Repulsores.\r\nDispara cinco chakrans penetrantes para frente; cada acerto causa **50%** do ATQ + **300** do dano, com uma leve repulsão.",
+				"icon": "skill_darts_branch",
+				"id": "GA_FPlayerDartsMelee_Branch"
+			},
+			{
+				"name": "Rodopio Aéreo",
+				"description": "No ar, segure o botão de ataque normal para usar Rodopio Aéreo.\r\nDesfere um golpe poderoso que causa dano de **220.2%** do ATQ + **1321** ao alvo e a alvos próximos e os suspende.",
+				"icon": "skill_darts_jump",
+				"id": "GA_FPlayerDartsMelee_JumpAttack"
+			},
+			{
+				"name": "Ataque Furtivo",
+				"description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para ativar um Ataque Furtivo. Causa dano de **491.6%** do ATQ + **2950**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerDartsMelee_Sneak"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Lua Minguante",
+				"description": "Use o botão de ataque normal logo após se esquivar para usar Lua Minguante.\r\nArremessa um chakram giratório para frente que causa dano de **152.8%** do ATQ + **917** ao alvo e inflige **atordoamento** durante **0,5** segundo. Então, o chakram se divide em **3** e continua percorrendo seu trajeto, causando dano de **27.8%** do ATQ + **167** a alvos no caminho. **Chakrans divididos ricocheteiam durante Extermínio**.",
+				"icon": "skill_darts_backattack",
+				"id": "GA_FPlayerDartsEvade_BackAttack"
+			},
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerDartsEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Extermínio",
+				"description": "Cria uma Área de Chakrans com você no centro durante **8** segundos. Ao mesmo tempo, os inimigos são sugados e a velocidade deles é reduzida em **30%** durante **8** segundos. Lança **5** chakrans que ricocheteiam entre alvos e causam dano de **27.8%** do ATQ + **167** a alvos no caminho, até no máximo **5** vezes. **Os chakrans divididos de Lua Minguante também ricocheteiam 5 vezes.** Tempo de recarga: **45** seg.",
+				"icon": "darts_skill",
+				"id": "GA_FPlayerDartsSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Espírito do Ar",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e arremessa o Chakram dos Mares contra um alvo. Alvos atingidos causam **atordoamento** em área durante **1** segundo, mais **1** ataque cada contra até **3** alvos por segundo (cada ataque tem **10%** de chance de **atordoar** o alvo durante **1,5** segundo), causando dano de **49.7%** do ATQ + **298** durante **10** segundos.",
+				"icon": "skill_darts_changeskill",
+				"id": "GA_FPlayerDartsChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "None"
+		},
+		{
+			"description": "Aumenta em **30%** o dano causado e todos os efeitos de despedaçar elemental a alvos dentro do raio de **Extermínio**.",
+			"stats": {
+				"shatter": 11.4,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 11.4,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Aumenta o despedaçar em **15%** e zera a recarga de todas as habilidades de arma após despedaçar o escudo do alvo. Só pode ser acionado uma vez a cada **30** segundos.",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento da vida mínima da arma atual em **32%**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Atacar um alvo com lesão prolonga a duração da lesão em mais **7** segundos (só surte efeito uma vez para o mesmo efeito).",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		},
+		{
+			"description": "Usar **Extermínio** dá 100% de chance de crítico para os **8** segundos seguintes.",
+			"stats": {
+				"shatter": 13,
+				"charge": 6
+			},
+			"need": "darts_physic_plasm"
+		}
+	],
+	"id": "darts_physic"
+}

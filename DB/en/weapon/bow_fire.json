@@ -1,0 +1,90 @@
+{
+	"name": "Composite Bow",
+	"description": "A common weapon used by hunters in the snowfield. Easy to handle with very high accuracy. After enough promotion, it has earned more than half of the affordable civilian market.",
+	"icon": "item_Weapon_SR_Bow_Fire01",
+	"gachaIcon": "Weapon_R_Bow_Phy01",
+	"rarity": "R",
+	"element": "Flame",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 15,
+		"Item_Mine_fire_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_C2": 25,
+		"Item_Mine_fire_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_C3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_C1": 12
+	},
+	"advanceID": "bow_fire_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Normal Attack",
+				"description": "While on the ground, draw the bow repeatedly to attack 5 times.\r\nFirst Attack: Deal damage equal to **27.3%** of ATK plus **164**.\r\nSecond Attack: Deal damage equal to **24.4%** of ATK plus **146**.\r\nThird Attack: Deal damage equal to **43.8%** of ATK plus **263**.\r\nFourth Attack: Deal damage equal to **67.8%** of ATK plus **407**.\r\nFifth Attack: Deal damage equal to **62.9%** of ATK plus **377** and knock the target back a short distance.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_Melee"
+			},
+			{
+				"name": "Charged Arrow",
+				"description": "Tap and hold normal attack to charge an attack. Deal base damage equal to **49.1%** of ATK plus **295**, and **50%** more for each **1** second spent charging, up to **3** seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, and knock the target down (headshots are ineffective against Wanderers).",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttack"
+			},
+			{
+				"name": "Arrow Rain",
+				"description": "After any normal attack, hold the normal attack button to unleash Arrow Rain, dealing up to **160%** of ATK plus **960** area damage to targets.",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_Branch"
+			},
+			{
+				"name": "Air Volley",
+				"description": "While airborne, use normal attack to attack 4 times in a row in the air.\r\nFirst Attack: Deal damage equal to **31.5%** of ATK plus **189**.\r\nSecond Attack: Deal damage equal to **41.4%** of ATK plus **248**.\r\nThird Attack: Deal damage equal to **63%** of ATK plus **378**.\r\nFourth Attack: Deal damage equal to **94.8%** of ATK plus **569**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Dodge",
+				"description": "Dodge right before getting hit to trigger Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. Become immune to hitstun while dodging for **0.5** seconds.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_Evade"
+			},
+			{
+				"name": "Loaded Arrow",
+				"description": "Tap attack after dodging to trigger Loaded Arrow, knocking the target back by a short distance and dealing damage equal to **69.3%** of ATK plus **416**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Piercing Shot",
+				"description": "Backflips and fires **1** piercing shot forward, dealing damage equal to **125.4%** of ATK plus **752** and knocking the target back. **12**-second cooldown.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Explosive Barrage",
+				"description": "When **weapon charge** is full or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer** and unleash Explosive Barrage on the target, dealing damage equal to **396%** of ATK plus **2376**.",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 4.8,
+				"charge": 8
+			},
+			"need": "None"
+		}
+	],
+	"id": "bow_fire"
+}

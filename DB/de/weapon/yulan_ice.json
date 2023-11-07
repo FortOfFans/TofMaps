@@ -1,0 +1,217 @@
+{
+	"name": "Eintracht",
+	"avatar": {
+		"name": "Yu Lan",
+		"advanceId": "imitation_38L1",
+		"weapon": "yulan_ice",
+		"icon": "imitation_38",
+		"avatarID": "yulan",
+		"age": "9. Februar",
+		"height": "175 cm",
+		"gender": "Weiblich",
+		"state": "Wächterin der Sonnenuhr",
+		"city": "Gebiet 9",
+		"rating": "wuwei_imitation_38",
+		"gp": [
+			"everydayObjects",
+			"collection",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 秦文静"
+			},
+			{
+				"Japanese": "CV : 柚木 涼香"
+			},
+			{
+				"English": "CV : Brianna Knickerbocker"
+			},
+			{
+				"Korean": "CV : 김윤채"
+			},
+			{
+				"Portuguese": "CV : LUIZA PORTO"
+			}
+		],
+		"id": "imitation_38"
+	},
+	"description": "Eintracht, oder anders formuliert Konsolidierung. Das ist die Waffe, die Ji Yu persönlich für Yu Lan ausgesucht hat und technologisch auf dem neuesten Stand von Gebiet 9 ist. Sei also nicht überrascht, wenn du Zeuge wundersamer Anblicke wirst, nachdem du sie mit dem Zeitstempel verwendet hast.",
+	"icon": "item_Weapon_SSR_yulan_Ice01",
+	"gachaIcon": "SSR_lh_yulan",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "yulan",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "yulan_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Faustschlag",
+				"description": "Verwende am Boden den normalen Angriff, um 6Angriffe hintereinander auszuführen.\r\nErster Angriff: Verursacht Schaden in Höhe von **64.8%** des ANG + **389** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **50.4%** des ANG + **302** und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **52.8%** des ANG + **317** und stößt das Ziel zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **143.9%** des ANG + **863** und stößt das Ziel zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **279.2%** des ANG + **1675** und stößt das Ziel kontinuierlich zurück.\r\nSechster Angriff: Verursacht Schaden in Höhe von **227.4%** des ANG + **1364** und schleudert das Ziel hoch.\r\n\r\n„Faustschlag“ kann in der **Kampfkünstler**- und in der **Rohe Kraft**-Form verwendet werden.\r\nVerwende nach Einsatz eines beliebigen Ausweichangriffs in der **Kampfkünstler**-Form den normalen Angriff, um schnell den vierten Angriff auszulösen.\r\nNachdem der fünfte Angriff in der **Kampfkünstler**-Form einen Treffer gelandet hat, wird dem Ziel für **2**Sek. ein **starker Einfrieren-Effekt** zugefügt (nicht in der Apex-Liga oder gegen Bosse verfügbar). Verursacht zusätzlich **Frostblase** sowie für **8**Sek. jede Sekunde Schaden in Höhe von **280%** des ANG + **1680**. Dieser Effekt kann nur 1-mal alle **8**Sek. auf dasselbe Ziel ausgelöst werden.",
+				"icon": "yulan_melee",
+				"id": "GA_FPlayerYulanMelee_Melee"
+			},
+			{
+				"name": "Schwebende Faust",
+				"description": "Verwende in der Luft den normalen Angriff, um 6 Angriffe hintereinander in der Luft auszuführen, wobei Ausdauer verbraucht wird.\r\nErster Angriff: Verursacht Schaden in Höhe von **68.4%** des ANG + **410**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **59.9%** des ANG + **359**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **62.7%** des ANG + **376**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **136.4%** des ANG + **818**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **249%** des ANG + **1494**.\r\nSechster Angriff: Verursacht Schaden in Höhe von **222.3%** des ANG + **1334**.\r\n\r\n„Schwebende Faust“ kann in der **Kampfkünstler**- und in der **Rohe Kraft**-Form verwendet werden.",
+				"icon": "yulan_airattack",
+				"id": "GA_FPlayerYulanMelee_AirAttack"
+			},
+			{
+				"name": "Waldschwalbe",
+				"description": "„Waldschwalbe“ kann nur in der **Kampfkünstler**-Form verwendet werden.\r\nTippe und halte den normalen Angriff auf dem Boden während des ersten bis dritten Angriffs, um „Waldschwalbe“ auszulösen.\r\nVerursacht Schaden in Höhe von **62.8%** des ANG + **377** und zieht Ziele in der Nähe heran. Verursacht anschließend Schaden in Höhe von **146.6%** des ANG + **880** und stößt die Ziele zurück.\r\n\r\nNachdem **Drachen in den Wolken** verwendet wurde, kann der Einsatz des normalen Angriffs auch „Waldschwalbe“ auslösen.",
+				"icon": "yulan_branch1",
+				"id": "GA_FPlayerYulanMelee_MeleeBranch1"
+			},
+			{
+				"name": "Tanzende Himmelsschlange",
+				"description": "„Tanzende Himmelsschlange“ kann nur in der **Kampfkünstler**-Form verwendet werden.\r\nTippe und halte den normalen Angriff auf dem Boden während des vierten bis fünften Angriffs, um „Tanzende Himmelsschlange“ auszulösen.\r\nFügt Zielen in der Nähe Schaden in Höhe von **75.4%** des ANG + **452** zu und lässt sie schweben.\r\n\r\nNachdem **Waldschwalbe** verwendet wurde, kann das Drücken und Halten des normalen Angriffs auch „Tanzende Himmelsschlange“ auslösen.",
+				"icon": "yulan_branch2",
+				"id": "GA_FPlayerYulanMelee_MeleeBranch2"
+			},
+			{
+				"name": "Frost Hoch & Tief",
+				"description": "Tippe und halte in der Luft den normalen Angriff während des ersten bis sechsten normalen Angriffs, um „Frost Hoch & Tief“ auszulösen.\r\nDeine Waffe wird in die Luft geworfen und fügt Zielen in der Nähe Schaden in Höhe von **329%** des ANG + **1974** zu.\r\n\r\n„Frost Hoch & Tief“ kann in der **Kampfkünstler**- und in der **Rohe Kraft**-Form verwendet werden.",
+				"icon": "yulan_branch4",
+				"id": "GA_FPlayerYulanMelee_AirAttackBranch"
+			},
+			{
+				"name": "Drachen in den Wolken",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder verwende den normalen Angriff, während du kletterst, zurückspringst oder das Jetpack einsetzt, um „Drachen in den Wolken“ auszulösen.\r\nStürzt von oben herab und fügt beim Aufprall am Boden Zielen in der Nähe Schaden in Höhe von **148.6%** des ANG + **892** zu und bringt sie zu Fall.\r\n\r\n„Drachen in den Wolken“ kann in der **Kampfkünstler**- und in der **Rohe Kraft**-Form verwendet werden.",
+				"icon": "yulan_jumpattack",
+				"id": "GA_FPlayerYulanMelee_JumpAttack"
+			},
+			{
+				"name": "Vollständiges Zurückspulen",
+				"description": "Tippe und halte den normalen Angriff auf dem Boden, um „Vollständiges Zurückspulen“ auszulösen.\r\nZieht kontinuierlich Ziele in der Nähe heran und verbraucht Ausdauer. Gewährt währenddessen Hyperkörper.\r\n\r\n„Vollständiges Zurückspulen“ kann in der **Kampfkünstler**- und in der **Rohe Kraft**-Form verwendet werden.",
+				"icon": "yulan_branch3",
+				"id": "GA_FPlayerYulanMelee_MeleeBranch3"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.\r\n\r\nKann in der **Kampfkünstler**- und in der **Rohe Kraft**-Form verwendet werden.\r\nNach dem Ausweichen in der **Kampfkünstler**-Form wird für **5**Sek. Hyperkörper gewährt.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerYulanEvade_Evade"
+			},
+			{
+				"name": "Das Unmögliche",
+				"description": "Verwende während des kurzen Zeitraums nach dem Ausweichen den normalen Angriff, um „Das Unmögliche“ auszulösen, was Zielen in der Nähe Schaden in Höhe von **177.6%** des ANG + **1066** zufügt.\r\n\r\n„Das Unmögliche“ kann in der **Kampfkünstler**- und in der **Rohe Kraft**-Form verwendet werden.",
+				"icon": "yulan_evadeattackback",
+				"id": "GA_FPlayerYulanEvade_EvadeAttackBack"
+			},
+			{
+				"name": "Wogende Winde",
+				"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (tippe vor dem Ausweichen auf eine Pfeiltaste), um „Wogende Winde“ auszulösen, was Zielen in der Nähe Schaden in Höhe von **167.6%** des ANG + **1006** zufügt.\r\n\r\n„Wogende Winde“ kann in der **Kampfkünstler**- und in der **Rohe Kraft**-Form verwendet werden.",
+				"icon": "yulan_evadeattackfront",
+				"id": "GA_FPlayerYulanEvade_EvadeAttackFront"
+			}
+		],
+		"skill": [
+			{
+				"name": "Angriff & Verteidigung",
+				"description": "**Eintracht** verfügt über 2 Formen: die **Kampfkünstler**-Form und die **Rohe Kraft**-Form. Unter Fähigkeiten– Einstellungen kann bis zu **1** davon aktiviert werden. Im Kampfstatus kann die Form nicht gewechselt werden.\r\n\r\n**Kampfkünstler**-Form: Im Kampfstatus wird der Multiplikator des Ausweichangriffs/normalen Angriffs von **Eintracht** zusätzlich um **40%** erhöht. Nachdem der Ausweichangriff oder der normale Angriff einer beliebigen Waffe **3**-mal verwendet wurde, erhältst du **1** **innere Stärke** (max. **10**). Alle **2**Sek. kann nur **1** **innere Stärke** erhalten werden. Außerhalb des Kampfstatus wird sämtliche **innere Stärke** entfernt.\r\n**Rohe Kraft**-Form: Nachdem **Beobachten & reagieren** einen Treffer landet, gehst du in den **Erwarten**-Zustand über und erhältst für **60**Sek. alle **0,8**Sek. **1** **Kampfgeist** (max. **15**). Außerhalb des Kampfstatus wird sämtlicher **Kampfgeist** entfernt.\r\n**Passiv: Kühlen**\r\nWenn **Eintracht** ausgerüstet ist, werden **15%** des Frostwiderstands der Ziele ignoriert. Dieser Effekt funktioniert auch im Nebenhand-Slot.",
+				"icon": "yulan_passiveskill",
+				"id": "GA_FPlayerYulanSkill_PassiveSkill"
+			},
+			{
+				"name": "Volle Deckung",
+				"description": "Fügt dem Ziel Schaden in Höhe von **982.8%** des ANG + **5896** zu. Abklingzeit: **15**Sek.\r\nBei der Verwendung von „Volle Deckung“ verbraucht **Eintracht** bis zu **5** **Innere Stärke**. Wenn **1**/**2**/**3**/**4**/**5** **Innere Stärke** verbraucht wird, verursacht „Volle Deckung“ jeweils **1,1**-/**1,4**-/**1,8**-/**2,3**-/**3**-mal so viel Schaden wie sonst.\r\nNachdem „Volle Deckung“ verwendet wurde, wird der Frostschaden für **30**Sek. um **12%** erhöht.\r\nNachdem „Volle Deckung“ verwendet wurde, werden **2** Ausweichversuche wiederhergestellt.\r\n\r\n„Volle Deckung“ kann nur in der **Kampfkünstler**-Form verwendet werden.\r\nWenn **Innere Stärke** **5** erreicht, wird die Abklingzeit von „Volle Deckung“ zurückgesetzt.",
+				"icon": "yulan_skill",
+				"id": "GA_FPlayerYulanSkill_Skill1"
+			},
+			{
+				"name": "Waffenklirren",
+				"description": "Fügt dem Ziel Schaden in Höhe von **982.8%** des ANG + **5896** zu. Abklingzeit: **15**Sek.\r\nIm **Erwarten**-Zustand verbraucht **Eintracht** bei Verwendung einer beliebigen Waffenfähigkeit bis zu **5** **Kampfgeist**. Wenn **1**/**2**/**3**/**4**/**5** **Kampfgeist** verbraucht wird, wird Zielen in der Nähe zusätzlicher Schaden in Höhe von **169%**/**368%**/**619%**/**938%**/**1350%** des ANG sowie für **5**Sek. jede Sekunde Schaden in Höhe von **260%** des ANG + **1560** zugefügt.\r\nNach Verwendung einer beliebigen Frostwaffenfähigkeit wird für **2**Sek. Hyperkörper gewährt.\r\n\r\n„Waffenklirren“ kann nur in der **Rohe Kraft**-Form verwendet werden.",
+				"icon": "yulan_skill",
+				"id": "GA_FPlayerYulanSkill_Skill2"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Tiger im Schnee",
+				"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Dies fügt Zielen in der Nähe Schaden in Höhe von bis zu **1173.1%** des ANG + **7038** zu und **schleudert sie stark hoch**. Währenddessen erhältst du für **1,5**Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).\r\n\r\n„Tiger im Schnee“ kann nur in der **Kampfkünstler**-Form verwendet werden.",
+				"icon": "yulan_changeskill",
+				"id": "GA_FPlayerYulanChangeSkill_ChangeSkill"
+			},
+			{
+				"name": "Beobachten & reagieren",
+				"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Dies fügt Zielen in der Nähe Schaden in Höhe von bis zu **1173.1%** des ANG + **7038** zu und **schleudert sie stark hoch**. Währenddessen erhältst du für **1,5**Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).\r\nNachdem „Beobachten & reagieren“ einen Treffer gelandet hat, wird der Frostschaden für **30**Sek. um **12%** erhöht.\r\nNachdem „Beobachten & reagieren“ einen Treffer gelandet hat, gehst du für **60**Sek. in den **Erwarten**-Zustand über.\r\nNachdem du **Eintracht** verwendet hast, um eine Entladungsfähigkeit einzusetzen, erhältst du **1000** Waffenladung. Dieser Effekt kann nur 1-mal alle **10**Sek. ausgelöst werden.\r\n\r\n„Beobachten & reagieren“ kann nur in der **Rohe Kraft**-Form verwendet werden.",
+				"icon": "yulan_changeskill",
+				"id": "GA_FPlayerYulanChangeSkill_ChangeSkill1"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Eisvernichtung: Schneller Hieb**: Wenn **Eintracht** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **30%** des Frost-ANG + **0.4%** der max. LP des Wanderers + **15%** der Summe aller Widerstandsarten des Wanderers + **55%** des krit. Schadens zu. Im Kampfstatus wird alle **0,5**Sek. der Schaden des nächsten schnellen Hiebs zusätzlich um das **1**-fache erhöht, bis zum Maximum des **30**-fachen. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Volt-/physische/Flammenwaffe jeglicher Art ausgerüstet ist, wird der Schaden von „Eisvernichtung“ um das **1.3**-fache erhöht. Außerdem wird der Schaden von „Eisvernichtung“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und er löst keine zusätzlichen Angriffseffekte aus.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "None"
+		},
+		{
+			"description": "Wenn in der **Kampfkünstler**-Form **3** oder mehr **Innere Stärke** verbraucht wurden, regeneriert **Eintracht** **1** **Innere Stärke**. Anschließend wird der Endschaden des Wanderers um **5%** erhöht, und der Schaden des Ausweichangriffs/normalen Angriffs von **Eintracht** wird **30** Sekunden lang um **50%** erhöht.\r\nWenn in der **Rohe Kraft**-Form **3** oder mehr **Kampfgeist** verbraucht wurden, regeneriert **Eintracht** **1** **Kampfgeist**. Anschließend wird der Endschaden des Wanderers **15** Sekunden lang um **5%** erhöht.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Wenn in der **Kampfkünstler**-Form innerhalb von **5** Sekunden keine **Innere Stärke** generiert wird, werden beim nächsten Erhalt von **Innerer Stärke** stattdessen **2** Einheiten verliehen.\r\nWenn **Eintracht** in einer beliebigen Form **3** oder mehr **Innere Stärke** oder **Kampfgeist** verbraucht, werden **10%** der max. LP des Wanderers wiederhergestellt. Im Einzelspiel wird die LP-Wiederherstellung auf **20%** erhöht. Dieser Effekt in der **Rohe Kraft**-Form nur 1-mal alle **8** Sekunden auftreten. In der **Kampfkünstler**-Form gibt es keine Beschränkung.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Wenn **Eintracht** **Innere Stärke** oder **Kampfgeist** verbraucht wird, wird tödlicher Schaden 1-mal verhindert und der Wanderer stellt **20%** der max. LP wieder her (nicht in der Apex-Liga verfügbar). Im Einzelspiel wird die LP-Wiederherstellung auf **40%** erhöht. Beide Effekte können nur 1-mal alle **60**Sek. ausgelöst werden.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "In der **Kampfkünstler**-Form wird der Schaden des Ausweichangriffs/normalen Angriffs von **Eintracht** um weitere **70%** erhöht. Wenn **innere Stärke** verbraucht wird, wird der Endschaden des Wanderers **30**Sek. lang um **10%** erhöht.\r\nWenn **Eintracht** in der **Rohe Kraft**-Form **Kampfgeist** verbraucht, wird der Endschaden des Wanderers **30**Sek. lang um **15%** erhöht.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		}
+	],
+	"id": "yulan_ice"
+}
