@@ -4654,7 +4654,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Los ataques normales ahora infligen daño de área al impacto.\r\nCuando hay otro epífilo dentro del área de explosión de epífilo, aumenta el daño de cada una de las explosiones de epífilo posteriores en **0%**, hasta **1%** en total.\r\nEl intervalo de generación de epífilos de **Reino de Luz Lunar** se vuelve de **0.5** segundos.",
+				"description": "Los ataques normales ahora infligen daño de área al impacto.\r\nCuando hay otro epífilo dentro del área de explosión de epífilo, aumenta el daño de cada una de las explosiones de epífilo posteriores en **1000%**, hasta **5000%** en total.\r\nEl intervalo de generación de epífilos de **Reino de Luz Lunar** se vuelve de **0.5** segundos.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4686,7 +4686,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Cuando estás bajo el efecto de **Reino de Luz Lunar**, obtienes **30** de carga de arma cada segundo y el daño de la habilidad de descarga aumenta un **0%**.",
+				"description": "Cuando estás bajo el efecto de **Reino de Luz Lunar**, obtienes **30** de carga de arma cada segundo y el daño de la habilidad de descarga aumenta un **15%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4694,7 +4694,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Cambia de modo en **Reino de Luz Lunar** hasta **2** veces. Gana **1** intento después del enfriamiento de la habilidad y **1** intento más cargando la descarga.\r\nUsa cualquier descarga de arma **3** veces para ganar **+1** en la cuenta de **Reino de Luz Lunar**. Tiene efecto incluso cuando Tejesombras está en la ranura secundaria.\r\nCuando estás bajo el efecto de **Reino de Luz Lunar**, aumenta el ataque en **0%**.",
+				"description": "Cambia de modo en **Reino de Luz Lunar** hasta **2** veces. Gana **1** intento después del enfriamiento de la habilidad y **1** intento más cargando la descarga.\r\nUsa cualquier descarga de arma **3** veces para ganar **+1** en la cuenta de **Reino de Luz Lunar**. Tiene efecto incluso cuando Tejesombras está en la ranura secundaria.\r\nCuando estás bajo el efecto de **Reino de Luz Lunar**, aumenta el ataque en **23%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5

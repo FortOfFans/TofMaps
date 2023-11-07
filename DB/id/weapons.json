@@ -4654,7 +4654,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Serangan Biasa kini menimpakan DMG area saat menghantam target.\r\nSaat ada Epiphyllum lain dalam area ledakan Epiphyllum, meningkatkan DMG dari setiap ledakan Epiphyllum berikutnya sebesar **0%**. Maks **1%**.\r\nInterval kemunculan Epiphyllum dari **Moonlight Realm** kini berkurang menjadi **0,5** detik.",
+				"description": "Serangan Biasa kini menimpakan DMG area saat menghantam target.\r\nSaat ada Epiphyllum lain dalam area ledakan Epiphyllum, meningkatkan DMG dari setiap ledakan Epiphyllum berikutnya sebesar **1000%**. Maks **5000%**.\r\nInterval kemunculan Epiphyllum dari **Moonlight Realm** kini berkurang menjadi **0,5** detik.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4686,7 +4686,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Saat dalam efek **Moonlight Realm**, memperoleh **30** Charge Senjata setiap detik dan meningkatkan DMG Skill Discharge sebesar **0%**.",
+				"description": "Saat dalam efek **Moonlight Realm**, memperoleh **30** Charge Senjata setiap detik dan meningkatkan DMG Skill Discharge sebesar **15%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4694,7 +4694,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Beralih mode di **Moonlight Realm** maks **2** kali. Memperoleh **1** jatah penggunaan setelah skill memasuki CD dan **1** lagi dengan mengisi Discharge.\r\nLakukan Skill Discharge dengan senjata apa pun **3** kali untuk mendapatkan **+1** pada hitungan **Moonlight Realm**. Berlaku bahkan saat Shadoweave ada di slot sampingan.\r\nSaat dalam efek **Moonlight Realm**, Serangan meningkat **0%**.",
+				"description": "Beralih mode di **Moonlight Realm** maks **2** kali. Memperoleh **1** jatah penggunaan setelah skill memasuki CD dan **1** lagi dengan mengisi Discharge.\r\nLakukan Skill Discharge dengan senjata apa pun **3** kali untuk mendapatkan **+1** pada hitungan **Moonlight Realm**. Berlaku bahkan saat Shadoweave ada di slot sampingan.\r\nSaat dalam efek **Moonlight Realm**, Serangan meningkat **23%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5

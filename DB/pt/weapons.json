@@ -4654,7 +4654,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Ataques normais agora causam dano em área ao atingir um inimigo.\r\nQuando há outra dama-da-noite na área da explosão, o dano de cada dama-da-noite subsequente aumenta em **0%**, limitado a **1%**.\r\nO intervalo em que **Reino do Luar** gera damas-da-noite diminui para **0,5** segundo.",
+				"description": "Ataques normais agora causam dano em área ao atingir um inimigo.\r\nQuando há outra dama-da-noite na área da explosão, o dano de cada dama-da-noite subsequente aumenta em **1000%**, limitado a **5000%**.\r\nO intervalo em que **Reino do Luar** gera damas-da-noite diminui para **0,5** segundo.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4686,7 +4686,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Sob o efeito do **Reino do Luar**, ganha **30** cargas de arma por segundo e aumenta o dano causado por habilidades de descarga em **0%**.",
+				"description": "Sob o efeito do **Reino do Luar**, ganha **30** cargas de arma por segundo e aumenta o dano causado por habilidades de descarga em **15%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4694,7 +4694,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Troque de modo no **Reino do Luar** até **2** vezes. Ganha **1** tentativa quando o tempo de recarga de habilidade termina e mais **1** tentativa por carregar a descarga.\r\nUsar a descarga de qualquer arma **3** vezes confere **+1** tentativa no **Reino do Luar**. Surte efeito mesmo quando Malhasombria estiver no espaço secundário.\r\nSob o efeito do **Reino do Luar**, aumenta o ataque em **0%**.",
+				"description": "Troque de modo no **Reino do Luar** até **2** vezes. Ganha **1** tentativa quando o tempo de recarga de habilidade termina e mais **1** tentativa por carregar a descarga.\r\nUsar a descarga de qualquer arma **3** vezes confere **+1** tentativa no **Reino do Luar**. Surte efeito mesmo quando Malhasombria estiver no espaço secundário.\r\nSob o efeito do **Reino do Luar**, aumenta o ataque em **23%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5

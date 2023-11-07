@@ -4654,7 +4654,7 @@
 				"need": "None"
 			},
 			{
-				"description": "À l'impact, les attaques normales infligent des dégâts de zone.\r\nLorsqu'un autre épicactus se trouve dans la zone d'explosion d'un épicactus, les dégâts infligés par les explosions d'épicactus suivantes augmentent de **0%**, jusqu'à un maximum de **1%**.\r\nRéduit l'intervalle de génération d'épicactus du **Royaume du Clair de lune** à **0,5**seconde.\r\n",
+				"description": "À l'impact, les attaques normales infligent des dégâts de zone.\r\nLorsqu'un autre épicactus se trouve dans la zone d'explosion d'un épicactus, les dégâts infligés par les explosions d'épicactus suivantes augmentent de **1000%**, jusqu'à un maximum de **5000%**.\r\nRéduit l'intervalle de génération d'épicactus du **Royaume du Clair de lune** à **0,5**seconde.\r\n",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4686,7 +4686,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Lorsque vous bénéficiez de l'effet de **Royaume du Clair de lune**, gagnez **30**points de recharge d'arme chaque seconde, augmentant les dégâts infligés par les compétences de décharge de **0%**.",
+				"description": "Lorsque vous bénéficiez de l'effet de **Royaume du Clair de lune**, gagnez **30**points de recharge d'arme chaque seconde, augmentant les dégâts infligés par les compétences de décharge de **15%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4694,7 +4694,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Vous pouvez passer en mode **Royaume du Clair de lune** jusqu'à **2**fois. Vous gagnez **1**tentative après le temps de recharge de la compétence et **1**tentative par décharge.\r\nUtilisez n'importe quelle décharge d'arme **3**fois pour obtenir **+1**tentative de **Royaume du Clair de lune** supplémentaire. Efficace même lorsque Tissombre est dans l'emplacement main libre.\r\nSous l'effet de **Royaume du Clair de lune**, l'attaque augmente de **0%**.",
+				"description": "Vous pouvez passer en mode **Royaume du Clair de lune** jusqu'à **2**fois. Vous gagnez **1**tentative après le temps de recharge de la compétence et **1**tentative par décharge.\r\nUtilisez n'importe quelle décharge d'arme **3**fois pour obtenir **+1**tentative de **Royaume du Clair de lune** supplémentaire. Efficace même lorsque Tissombre est dans l'emplacement main libre.\r\nSous l'effet de **Royaume du Clair de lune**, l'attaque augmente de **23%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5

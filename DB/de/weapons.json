@@ -4654,7 +4654,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Normale Angriffe verursachen jetzt bei Treffern Flächenschaden.\r\nWenn es ein weiteres Epiphyllum im Explosionsbereich des Epiphyllums gibt, erhöht sich der Schaden jeder der folgenden Epiphyllum-Explosionen um **0%**, bis zu maximal **1%**.\r\nDas Intervall, in dem Epiphyllum durch **Reich des Mondlichts** entsteht, ist jetzt auf **0,5** Sek. reduziert.",
+				"description": "Normale Angriffe verursachen jetzt bei Treffern Flächenschaden.\r\nWenn es ein weiteres Epiphyllum im Explosionsbereich des Epiphyllums gibt, erhöht sich der Schaden jeder der folgenden Epiphyllum-Explosionen um **1000%**, bis zu maximal **5000%**.\r\nDas Intervall, in dem Epiphyllum durch **Reich des Mondlichts** entsteht, ist jetzt auf **0,5** Sek. reduziert.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4686,7 +4686,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Erhalte, während du unter dem Effekt von **Reich des Mondlichts** stehst, jede Sek. **30** Waffenladung und erhöhe den durch Entladungsfähigkeiten verursachten Schaden um **0%**.",
+				"description": "Erhalte, während du unter dem Effekt von **Reich des Mondlichts** stehst, jede Sek. **30** Waffenladung und erhöhe den durch Entladungsfähigkeiten verursachten Schaden um **15%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4694,7 +4694,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Wechsle die Modi vom **Reich des Mondlichtes** bis zu **2**-mal. Erhalte **1** Versuch nach der Fähigkeiten-Abklingzeit und **1** weiteren Versuch durch Ladungsentladung.\r\nVerwende eine beliebige Waffenentladung **3**-mal, um **+1** auf die **Reich des Mondlichtes**-Anzahl zu erhalten. Wirkt auch, wenn sich „Schattenweben“ im Nebenhand-Slot befindet.\r\nUnter dem Effekt von **Reich des Mondlichts** erhöht sich der Angriff um **0%**.",
+				"description": "Wechsle die Modi vom **Reich des Mondlichtes** bis zu **2**-mal. Erhalte **1** Versuch nach der Fähigkeiten-Abklingzeit und **1** weiteren Versuch durch Ladungsentladung.\r\nVerwende eine beliebige Waffenentladung **3**-mal, um **+1** auf die **Reich des Mondlichtes**-Anzahl zu erhalten. Wirkt auch, wenn sich „Schattenweben“ im Nebenhand-Slot befindet.\r\nUnter dem Effekt von **Reich des Mondlichts** erhöht sich der Angriff um **23%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5

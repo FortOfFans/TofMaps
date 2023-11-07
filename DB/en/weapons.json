@@ -4654,7 +4654,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Normal attacks now deal area damage upon hit.\r\nWhen there is another epiphyllum within the epiphyllum explosion area, increase the damage of each of the subsequent epiphyllum explosions by **0%**, up to a maximum of **1%**.\r\nThe epiphyllum generation interval from **Moonlight Realm** is now reduced to **0.5** seconds.",
+				"description": "Normal attacks now deal area damage upon hit.\r\nWhen there is another epiphyllum within the epiphyllum explosion area, increase the damage of each of the subsequent epiphyllum explosions by **1000%**, up to a maximum of **5000%**.\r\nThe epiphyllum generation interval from **Moonlight Realm** is now reduced to **0.5** seconds.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4686,7 +4686,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "When under the effect of **Moonlight Realm**, gain **30** weapon charge every second and increase the damage of discharge skill by **0%**.",
+				"description": "When under the effect of **Moonlight Realm**, gain **30** weapon charge every second and increase the damage of discharge skill by **15%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
@@ -4694,7 +4694,7 @@
 				"need": "fan_superpower_plasm"
 			},
 			{
-				"description": "Switch modes on **Moonlight Realm** up to **2** times. Gain **1** attempt after skill cooldown and another **1** attempt by charging discharge.\r\nUse any weapon discharge **3** times to gain **+1** on the **Moonlight Realm** count. Effective even when Shadoweave is in the off-hand slot.\r\nWhen under the effect of **Moonlight Realm**, increase attack by **0%**.",
+				"description": "Switch modes on **Moonlight Realm** up to **2** times. Gain **1** attempt after skill cooldown and another **1** attempt by charging discharge.\r\nUse any weapon discharge **3** times to gain **+1** on the **Moonlight Realm** count. Effective even when Shadoweave is in the off-hand slot.\r\nWhen under the effect of **Moonlight Realm**, increase attack by **23%**.",
 				"stats": {
 					"shatter": 11.5,
 					"charge": 11.5
