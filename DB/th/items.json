@@ -390,7 +390,7 @@
 		"id": "feise_fire_plasm"
 	},
 	"Linghan_ice_plasm": {
-		"name": "แก่นฟิวชันอลาบาสเตอร์ไทเกอร์",
+		"name": "แก่นฟิวชันโอเวอร์เซียร์",
 		"type": "ITEM_TYPE_WEAPON_FRAGMENT",
 		"description": "แก่นฟิวชันที่แปลงมาจากอาวุธซ้ำ",
 		"source": "ยกระดับอาวุธ",
@@ -9376,10 +9376,10 @@
 		"id": "choose_Mount_006_skin_medium"
 	},
 	"choose_newbpfinal_linye": {
-		"name": "กล่องเลือกชาโดว์วีฟ",
+		"name": "กรณีการคัดเลือกด้วยตนเองของผ้าเงา",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "กล่องเลือกเอง",
-		"source": "เปิดเพื่อเลือก 1 ในรางวัลต่อไปนี้: ชาโดว์วีฟ, ทองดำ *120",
+		"source": "รางวัลใดรางวัลหนึ่งต่อไปนี้สามารถเลือกได้ตามใจชอบเมื่อเปิด: Shadow Weave, Black Market Cast Gold*120",
 		"icon": "/Game/Resources/Icon/item/gift_newbplinye.png",
 		"shortIcon": "gift_newbplinye",
 		"rarity": "LEGENDRY",
@@ -17551,10 +17551,10 @@
 		"id": "fragment_Hat_70_4_4"
 	},
 	"fragment_Hat_29_4_4": {
-		"name": "เศษลูกอมฟักทอง",
+		"name": "Засахаренная тыква (обломок)",
 		"type": "ITEM_TYPE_FRAGMENT",
-		"description": "กำลังกังวลว่าคุณจะใส่ลูกอมเพิ่มในกระเป๋าของคุณไม่ได้เหรอ? ถึงเวลาที่ต้องพกโหลลูกอมเอาติดตัวไปด้วย!",
-		"source": "รวบรวมเศษลูกอมฟักทอง 70 ชิ้นเพื่อหลอมรวมเป็นลูกอมฟักทอง",
+		"description": "Боитесь, что в карманы не влезет больше конфет? Возьмите с собой портативную конфетную банку!",
+		"source": "Соберите 70 обломков для синтеза Засахаренной тыквы.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101.png",
 		"shortIcon": "fashion_icon_shipin_101",
 		"rarity": "LEGENDRY",
@@ -17621,10 +17621,10 @@
 		"id": "fragment_fashion_decoration_86_4"
 	},
 	"fragment_fashion_decoration_91_4": {
-		"name": "เศษปีศาจตัวน้อย ๆ",
+		"name": "Бесенок (обломок)",
 		"type": "ITEM_TYPE_FRAGMENT",
-		"description": "ปีศาจตัวน้อยที่ซ่อนตัวในค่ำคืนกำลังมา จะวังคอไว้ให้ดีนะ~",
-		"source": "รวบรวมเศษปีศาจตัวน้อย ๆ 4 ชิ้นเพื่อหลอมรวมเป็นปีศาจตัวน้อย ๆ",
+		"description": "Близится ночь— берегитесь проказливых бесов!",
+		"source": "Соберите 4 обломка для синтеза Бесенка.",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
 		"rarity": "LEGENDRY",
@@ -26625,8 +26625,8 @@
 	"bag_emoji_3": {
 		"name": "การวิจัยซิมูลาครัมหอคอยแฟนตาซี III",
 		"type": "ITEM_TYPE_GIFT",
-		"description": "ถึงเวลาที่ไลร่า เทียนหลาง และแอนนาเบลลาจะต้องกลับบ้านแล้ว!",
-		"source": "เมื่อได้รับจะสามารถปลดล็อกแพ็กอิโมจิแชท ซึ่งประกอบไปด้วยอิโมจิแชทของตัวละครต่อไปนี้รวม 16 อัน: ไลร่า, เทียนหลาง และแอนนาเบลลา",
+		"description": "ถึงเวลาที่ไลร่า เทียนหลาน และแอนนาเบลลาจะต้องกลับบ้านแล้ว!",
+		"source": "เมื่อได้รับจะสามารถปลดล็อกแพ็กอิโมจิแชท ซึ่งประกอบไปด้วยอิโมจิแชทของตัวละครต่อไปนี้รวม 16 อัน: ไลร่า, เทียนหลาน และแอนนาเบลลา",
 		"icon": "/Game/Resources/UI/liaotian/biaoqing/xiaobiaoqing/emoji_96.png",
 		"shortIcon": "emoji_96",
 		"rarity": "LEGENDRY",
@@ -29396,20 +29396,20 @@
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
-		"name": "เหรียญมาสเตอร์",
+		"name": "Монета мастерства",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "เหรียญตราที่ออกแบบมาอย่างพิเศษ มันเป็นตัวแทนเกียรติสูงส่งของการต่อสู้",
-		"source": "เข้าร่วมกิจกรรมMEGA มาสเตอร์อารีน่าเพื่อรับ และใช้เพื่อแลกรับรางวัลในร้านค้ากิจกรรม",
+		"description": "Среди воинов этот изысканный значок считается почетной наградой.",
+		"source": "Чтобы получить, участвуйте в событии «Мегаарена мастеров». Можно обменять на награды в магазине.",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
 		"id": "Item_TowerDefenceCoin_01"
 	},
 	"Item_MegaGuruCoin": {
-		"name": "เหรียญมาสเตอร์",
+		"name": "Монета мастерства",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "เหรียญตราที่ออกแบบมาอย่างพิเศษ มันเป็นตัวแทนเกียรติสูงส่งของการต่อสู้",
-		"source": "เข้าร่วมกิจกรรมMEGA มาสเตอร์อารีน่าเพื่อรับ และใช้เพื่อแลกรับรางวัลในร้านค้ากิจกรรม",
+		"description": "Среди воинов этот изысканный значок считается почетной наградой.",
+		"source": "Чтобы получить, участвуйте в событии «Мегаарена мастеров». Можно обменять на награды в магазине.",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01.png",
 		"shortIcon": "TowerDefenceCoin_01",
 		"rarity": "EPIC",
@@ -29476,20 +29476,20 @@
 		"id": "Item_MowingCoin"
 	},
 	"Item_MidAutumnCoin_01": {
-		"name": "น้ำผลไม้",
+		"name": "สตาร์แซนด์",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "น้ำผลไม้ที่หวานหอมในขวดคริสตัล",
-		"source": "ได้รับจากการเข้าร่วมในกิจกรรมศึกหลบหลีกผลไม้ สามารถแลกรับรางวัลได้ที่ร้านค้ากิจกรรม",
+		"description": "ขวดนี้เต็มไปด้วยความฝันในวัยเด็ก",
+		"source": "สามารถรับได้จากกิจกรรมข้อสัญญาก้องกังวาน, เลนด่วนมิเรอเรีย หรือรีไซเคิลสตาร์แซนด์ สามารถแลกรับรางวัลได้ที่ร้านค้ากิจกรรม",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
 		"id": "Item_MidAutumnCoin_01"
 	},
 	"Item_JuiceCoin": {
-		"name": "น้ำผลไม้",
+		"name": "สตาร์แซนด์",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "น้ำผลไม้ที่หวานหอมในขวดคริสตัล",
-		"source": "ได้รับจากการเข้าร่วมในกิจกรรมศึกหลบหลีกผลไม้ สามารถแลกรับรางวัลได้ที่ร้านค้ากิจกรรม",
+		"description": "ขวดนี้เต็มไปด้วยความฝันในวัยเด็ก",
+		"source": "สามารถรับได้จากกิจกรรมข้อสัญญาก้องกังวาน, เลนด่วนมิเรอเรีย หรือรีไซเคิลสตาร์แซนด์ สามารถแลกรับรางวัลได้ที่ร้านค้ากิจกรรม",
 		"icon": "/Game/Resources/Icon/item/Item_Drink_003.png",
 		"shortIcon": "Item_Drink_003",
 		"rarity": "EPIC",
@@ -29656,10 +29656,10 @@
 		"id": "Item_HalloweenCoin_04"
 	},
 	"Item_FollowGhostCoin": {
-		"name": "แอปเปิ้ลเคลือบน้ำตาล",
+		"name": "Карамельное яблоко",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "แอปเปิ้ลที่เพิ่งเก็บ ราดด้วยน้ำเชื่อมและเติมถั่วลงไป เหมาะอย่างยิ่งที่จะมอบให้กับเด็ก ๆ ที่มาขอขนมหวาน",
-		"source": "สามารถใช้แลกของรางวัลในร้านค้ากิจกรรมได้",
+		"description": "Хрустящие яблоки, покрытые сиропом и посыпанные орешками. Прекрасный подарок для детей, которые явятся за угощением.",
+		"source": "Используется для обмена на награды в магазине.",
 		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin.png",
 		"shortIcon": "FollowGhostCoin",
 		"rarity": "RARE",
@@ -30298,7 +30298,7 @@
 	"BreakFate_InnerCoin": {
 		"name": "เหรียญหลุดพ้นจากโชคชะตา",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "เหรียญตราที่ออกแบบมาอย่างพิเศษ มันเป็นตัวแทนเกียรติสูงส่งของการต่อสู้",
+		"description": "Среди воинов этот изысканный значок считается почетной наградой.",
 		"source": "สามารถใช้ซื้อเสบียงการต่อสู้ได้",
 		"icon": "/Game/Resources/Icon/item/BreakFate_InnerCoin.png",
 		"shortIcon": "BreakFate_InnerCoin",
@@ -36989,7 +36989,7 @@
 	"Title_1_4_8_5": {
 		"name": "กวาดล้างแดนลับกัดกร่อน",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "เอาชนะบอสตัวที่สองของการฟื้นฟูสายหมอกชั้นที่ห้า",
+		"description": "Победите финального босса на 5-м уровне 2-го этапа Туманного лабиринта.",
 		"source": "ฉายาเกียรติยศ",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
 		"shortIcon": "pet_chip_0101",
@@ -37599,19 +37599,19 @@
 		"id": "TicketCard06"
 	},
 	"HXXK_clue": {
-		"name": "ตามหาเบาะแส",
+		"name": "Искать улики",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "เบาะแสพิเศษที่ที่จำโดยกองบรรณาธิการของดาวหางรายเดือน ช่วยให้ผู้อ่านทำคำขอให้เสร็จและแลกตราประทับได้เร็วขึ้น",
-		"source": "สามารถใช้เพื่อใช้สกิลตรวจสอบ",
+		"description": "Подсказка от редакции ежемесячника «Комета». Помогает читателям выполнять задания и получать за выполнение штампы.",
+		"source": "Можно использовать для исследования.",
 		"icon": "/Game/Resources/UI/Activity/item_xiansuo.png",
 		"shortIcon": "item_xiansuo",
 		"rarity": "RARE",
 		"id": "HXXK_clue"
 	},
 	"Avatar_107": {
-		"name": "หน้ากากคืนต้องห้าม",
+		"name": "Маска ночи",
 		"type": "ITEM_TYPE_AVATAR",
-		"description": "ละ... ละ... ลอง...ลองทายซิฉันคือใคร?",
+		"description": "Угадайте, кто я!",
 		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_107.png",
 		"shortIcon": "Item_Avatar_107",
@@ -37619,9 +37619,9 @@
 		"id": "Avatar_107"
 	},
 	"AvatarFrame_107": {
-		"name": "ขนแพรปัก",
+		"name": "Шелковый плюмаж",
 		"type": "ITEM_TYPE_AVATAR_FRAME",
-		"description": "ฟังนะ! มันคือค้างคาวกระพือปีก คืออีกาค่ำคืนที่ร่ำร้อง ขนสีดำร่วงหล่น และสิ่งที่เพิ่งผ่านไปไม่ใช่ลม",
+		"description": "Чу! В безмолвии мрака танцуют летучие мыши, вороны поют свою жуткую песню. Темные перья, кружась, опадают на землю— ветер их гонит или шепот ночной?",
 		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107.png",
 		"shortIcon": "icon_AvatarFrame_107",
@@ -37629,9 +37629,9 @@
 		"id": "AvatarFrame_107"
 	},
 	"chat_qipao_107": {
-		"name": "ม้วนไหมแก้วหยก",
+		"name": "Самоцветный свиток",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "ม้วนผ้าแพรที่ถูกกางออก และข้อความลึกลับก็ปรากฏขึ้นบนนั้น ระวัง ข้อความที่เข้าใจยากพวกนั้นอาจจะซ่อนความลับของค่ำคืนไว้",
+		"description": "Будьте осторожны: возможно, загадочные письмена, начертанные на этом свитке, скрывают секреты самой ночи.",
 		"source": "กล่องแชท",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107.png",
 		"shortIcon": "icon_qipao_107",
@@ -37639,19 +37639,19 @@
 		"id": "chat_qipao_107"
 	},
 	"bag_chat_qipao107": {
-		"name": "กล่องของขวัญหน้ากากคืนต้องห้าม",
+		"name": "Подарочная коробка «Маска ночи»",
 		"type": "ITEM_TYPE_GIFT",
-		"description": "ฟังนะ! มันคือค้างคาวกระพือปีก คืออีกาค่ำคืนที่ร่ำร้อง ขนสีดำร่วงหล่น และสิ่งที่เพิ่งผ่านไปไม่ใช่ลม",
-		"source": "หลังจากใช้จะได้รับรูปอวาตาร์ \"หน้ากากคืนต้องห้าม\", กรอบอวตาร์ \"ขนแพรปัก\", กล่องแชท \"ม้วนไหมแก้วหยก\"",
+		"description": "Чу! В безмолвии мрака танцуют летучие мыши, вороны поют свою жуткую песню. Темные перья, кружась, опадают на землю— ветер их гонит или шепот ночной?",
+		"source": "Используйте, чтобы получить аватар «Маска ночи», рамку для аватара «Шелковый плюмаж» и облачко чата «Самоцветный свиток».",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107.png",
 		"shortIcon": "bag_chat_qipao107",
 		"rarity": "LEGENDRY",
 		"id": "bag_chat_qipao107"
 	},
 	"fashion_dress_58_4": {
-		"name": "แพรกระจกมรกต",
+		"name": "Шелковый наряд",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "หุ่นฟักทองกรีดร้อง หน้ากากเต้นรำที่มีชีวิตชีวา เมื่อสวมใส่มัน คุณจะโดดเด่นราวกับสปอตไลท์และก็สามารถหายตัวไปได้ในยามค่ำคืน หลงเหลือไว้เพียงสีแดงเข้มและเสียงลม",
+		"description": "Тыквы с раззявленными пастями веселятся на шумном маскараде. Наденьте этот наряд и блистайте на сцене— или скройтесь в тенях, оставив за собой лишь алый след и дуновение ветерка.",
 		"source": "ปลดล็อกชุดที่เกี่ยวข้อง",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58.png",
 		"shortIcon": "fashion_f58",
@@ -37659,9 +37659,9 @@
 		"id": "fashion_dress_58_4"
 	},
 	"Hat_73_4_4": {
-		"name": "ค้างคาวเคลือบแดง",
+		"name": "Алый нетопырь",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "หากลองมองดูยามค่ำคืนให้ดี ๆ ค้างคาวสีชาดจะร่ายรำไปพร้อมกับคุณ คนที่ผ่านไปผ่านมาอย่าเพิ่งกลัวมันนะ!",
+		"description": "Алый нетопырь танцует с вами в ночной тиши. Не бойтесь его!",
 		"source": "ปลดล็อกเครื่องประดับที่เกี่ยวข้องกัน",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157.png",
 		"shortIcon": "fashion_icon_shipin_157",
@@ -37669,9 +37669,9 @@
 		"id": "Hat_73_4_4"
 	},
 	"fashion_decoration_91_4": {
-		"name": "ปีศาจตัวน้อย ๆ",
+		"name": "Бесенок",
 		"type": "ITEM_TYPE_CONSUMABLE",
-		"description": "ปีศาจตัวน้อยที่ซ่อนตัวในค่ำคืนกำลังมา จะวังคอไว้ให้ดีนะ~",
+		"description": "Близится ночь— берегитесь проказливых бесов!",
 		"source": "ปลดล็อกเครื่องประดับที่เกี่ยวข้องกัน",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152.png",
 		"shortIcon": "fashion_icon_shipin_152",
@@ -39849,7 +39849,7 @@
 		"id": "WeaponFragment_DoubleUP10_OS"
 	},
 	"WeaponFragment_ALLUP_OS": {
-		"name": "ทองเปลวเพลิง (การเดินทาง)",
+		"name": "Огненное золото (Путешествие)",
 		"type": "ITEM_TYPE_BARTER",
 		"description": "เหรียญที่ช่างตีเหล็กสร้างขึ้นจากอาวุธออมเนียมที่ถูกรีไซเคิลบางอย่าง ของสิ่งนี้ดูเหมือนสมบัติมากกว่าสกุลเงินที่ถูกแลกเปลี่ยนหมุนเวียนในช่องทางพิเศษ",
 		"source": "แลกเปลี่ยนเป็นอาวุธลิมิเต็ด <Red>(แปลงเป็นทองดำที่มีมูลค่าเท่ากันหลังจากคำสั่งซื้อลิมิเต็ดสิ้นสุดลง)</>",
@@ -40059,7 +40059,7 @@
 		"id": "EquipFragment_DoubleUP10_OS"
 	},
 	"EquipFragment_ALLUP_OS": {
-		"name": "ชิปโอเวอร์คล็อก (การเดินทาง)",
+		"name": "Чип разгона (Путешествие)",
 		"type": "ITEM_TYPE_BARTER",
 		"description": "วัตถุดิบที่ถูกแปรรูปผ่านกระบวนการอันซับซ้อนเพื่อนำไปใช้ในการผลิตชิปชนิดพิเศษบางอย่าง",
 		"source": "แลกเปลี่ยนเมทริกซ์ลิมิเต็ด <Red>(จะถูกเปลี่ยนเป็นชิปพื้นฐานในมูลค่าเท่ากันหลังจากที่คำสั่งซื้อลิมิเต็ดสิ้นสุดลง) </>",
@@ -40577,10 +40577,10 @@
 		"id": "Title_epic_os01"
 	},
 	"Item_MidAutumnCoin_OS": {
-		"name": "น้ำผลไม้",
+		"name": "สตาร์แซนด์",
 		"type": "ITEM_TYPE_BARTER",
-		"description": "น้ำผลไม้ที่หวานหอมในขวดคริสตัล",
-		"source": "ได้รับจากการเข้าร่วมในกิจกรรมศึกหลบหลีกผลไม้ สามารถแลกรับรางวัลได้ที่ร้านค้ากิจกรรม",
+		"description": "ขวดนี้เต็มไปด้วยความฝันในวัยเด็ก",
+		"source": "ได้รับจากการเข้าร่วมในกิจกรรมรีไซเคิลสตาร์แซนด์ สามารถแลกรับรางวัลได้ที่ร้านค้ากิจกรรม",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle.png",
 		"shortIcon": "StarRecycle",
 		"rarity": "EPIC",
@@ -40810,7 +40810,7 @@
 		"name": "กล่องอาวุธ SSR IV เลือกเอง",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "กล่องอาวุธเลือกตามใจชอบ",
-		"source": "เมื่อเปิดกล่อง สามารถเลือกอาวุธ <orange>SSR</> ในกล่องได้หนึ่งชิ้นจากอาวุธดังต่อไปนี้: เวสเปอร์, ธันเดอร์เบรกเกอร์, กระแสหฤทัย, สปาร์ก, วีนัส, บาลมุงก์, ดาบกูเรน, ปืนลูกโม่เพลิง, มีดอัสนี, ดาบโรซี่เอดจ์, ธนูลมหนาว, ง้าวแอบโซลูทซีโร่, เคียวอีกา, กงจักรทะเล, คิวบ์ลบล้าง, ปืนคู่ EM สตาร์ หรือ โล่ลาวา V2",
+		"source": "Откройте ящик и выберите одно оружие <orange>SSR</>: Веспер, Грозолом, Сердечный поток, Искра, Венера, Бальмунг, Клинок Гурена, Пылающий револьвер, Грозовые клинки, Лезвие розы, Ледяная стрела, Абсолютный ноль, Коса ворона, Чакра морей, Куб отрицания, Парные ЭМ-звезды или Расплавленный щит V2.",
 		"icon": "/Game/ResourcesOverSea/Icon/item/choose_weapon_ssr_init_OS2.png",
 		"shortIcon": "choose_weapon_ssr_init_OS2",
 		"rarity": "LEGENDRY",
@@ -41029,8 +41029,8 @@
 	"linghan_ice_trial_OS": {
 		"name": "อลาบาสเตอร์ไทเกอร์ \"24H\"",
 		"type": "ITEM_TYPE_TRIAL_WEAPON",
-		"description": "ในยามที่กวัดแกว่งกระบี่ ใครเล่าจะรู้ถึงจิตใจที่แท้จริง",
-		"source": "หลังจากได้รับจะปลดล็อกอาวุธอลาบาสเตอร์ไทเกอร์ให้ใช้เป็นเวลา 24 ชั่วโมง และหากคุณได้รับซ้ำจะขยายเวลาใช้งานได้",
+		"description": "За чарующим танцем меча сложно разглядеть тайны, что хранит ее сердце.",
+		"source": "อลาบาสเตอร์ไทเกอร์ \"24H\"",
 		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01.png",
 		"shortIcon": "item_Weapon_SSR_Linghan_Ice01",
 		"rarity": "LEGENDRY",
@@ -41119,7 +41119,7 @@
 	"choose_Imitation_PS_UltimateEdition_OS": {
 		"name": "กล่องพรีเมี่ยม ซิมูลาครัม",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
-		"description": " ",
+		"description": "กล่องเลือกเอง",
 		"source": "เมื่อเปิดกล่อง สามารถเลือกอาวุธ <orange>SSR</> ในกล่องได้หนึ่งชิ้นจากอาวุธดังต่อไปนี้: เวสเปอร์, ธันเดอร์เบรกเกอร์, กระแสหฤทัย, สปาร์ก, วีนัส, บาลมุงก์, ดาบกูเรน, ปืนลูกโม่เพลิง, มีดอัสนี, ดาบโรซี่เอดจ์, ธนูลมหนาว, ง้าวแอบโซลูทซีโร่, เคียวอีกา, กงจักรทะเล, คิวบ์ลบล้าง, ปืนคู่ EM สตาร์ หรือ โล่ลาวา V2",
 		"icon": "/Game/ResourcesOverSea/Icon/item/icon_choose_weapon_ssr_UP1_OS.png",
 		"shortIcon": "icon_choose_weapon_ssr_UP1_OS",
@@ -41157,10 +41157,10 @@
 		"id": "choose_frag_ssr_2_OS"
 	},
 	"choose_frag_ssr_3_OS": {
-		"name": "กล่องเศษรีลิค SSR III",
+		"name": "Ящик обломков реликвий SSR III",
 		"type": "ITEM_TYPE_AWARD_CHOOSE",
 		"description": "กล่องเลือกเอง",
-		"source": "เปิดกล่องและเลือกเศษรีลิค <Orange>SSR</>ได้หนึ่งอย่าง: เศษแขนคอลอสซัส, เศษโล่ออมเนียม, เศษเกราะไทป์ V, เศษรอยแยกกาลอวกาศ, เศษรีลิคจองจำ, เศษโดรน, เศษเครื่องฉายโฮโลแกรม เศษโชคชะตาสับเปลี่ยน หรือเศษมินิเพลิแกน",
+		"source": "Откройте ящик и выберите один из обломков реликвии <Orange>SSR</>: обломок руки колосса, обломок омниевого щита, обломок брони типа V, обломок разлома пространства-времени, обломок Заточения, обломок дрона, обломок голографического проектора, обломок Иной судьбы или обломок мини-пеликана.",
 		"icon": "/Game/Resources/Icon/item/gift_artifact_frag_ssr.png",
 		"shortIcon": "gift_artifact_frag_ssr",
 		"rarity": "LEGENDRY",
@@ -41335,5 +41335,715 @@
 		"shortIcon": "fashion_icon_shipin_143",
 		"rarity": "LEGENDRY",
 		"id": "fragment_Hat_60_4_4_OS"
+	},
+	"fragment_Hat_28_4_4_OS": {
+		"name": "เศษภูตผีน้อยที่มองเห็นได้",
+		"type": "ITEM_TYPE_FRAGMENT",
+		"description": "มีบางสิ่งอยู่ในหัวของฉัน? บะ...บางสิ่ง?",
+		"source": "รวบรวม 4 ชิ้น เพื่อหลอมรวมเป็นเครื่องประดับภูตผีน้อยที่มองเห็นได้",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_103.png",
+		"shortIcon": "fashion_icon_shipin_103",
+		"rarity": "LEGENDRY",
+		"id": "fragment_Hat_28_4_4_OS"
+	},
+	"AvatarFrame_txcreatos_04": {
+		"name": "กาลอวกาศต่างดินแดน",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "ม้วนภาพเคล้ากลิ่นหมึก",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_04i.png",
+		"shortIcon": "AvatarFrame_txcreatos_04i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_txcreatos_04"
+	},
+	"Avatar_Overseas_25": {
+		"name": "หมิงจิ่ง: โพสท่าตัว T",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "ฉันอยู่ในฐานะ \"หมิงจิ่ง\" และฉันจะปฏิบัติตัวตามความหมายทั้งหมดที่ชื่อนี้มอบให้ฉัน",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_25i.png",
+		"shortIcon": "Avatar_Overseas_25i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_Overseas_25"
+	},
+	"AvatarFrame_txAnniversary01": {
+		"name": "นัดหมายที่พลับพลาหยก",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "เพราะว่ามีคุณอยู่ด้วย ปีนี้เลยควรค่าแก่การจดจำ จะรอคอยปีที่สองที่ดีขึ้นกว่าเดิมร่วมกันกับคุณนะ",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txAnniversary01i.png",
+		"shortIcon": "AvatarFrame_txAnniversary01i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_txAnniversary01"
+	},
+	"AvatarFrame_txAnniversary02": {
+		"name": "นัดหมายที่พลับพลาหยก: สายสตริง",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "เพราะว่ามีคุณอยู่ด้วย ปีนี้เลยควรค่าแก่การจดจำ จะรอคอยปีที่สองที่ดีขึ้นกว่าเดิมร่วมกันกับคุณนะ",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txAnniversary02i.png",
+		"shortIcon": "AvatarFrame_txAnniversary02i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_txAnniversary02"
+	},
+	"AvatarFrame_txAnniversary03": {
+		"name": "นัดหมายที่พลับพลาหยก: ปรารถนา",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "เพราะว่ามีคุณอยู่ด้วย ปีนี้เลยควรค่าแก่การจดจำ จะรอคอยปีที่สองที่ดีขึ้นกว่าเดิมร่วมกันกับคุณนะ",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txAnniversary03i.png",
+		"shortIcon": "AvatarFrame_txAnniversary03i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_txAnniversary03"
+	},
+	"Title_txAnniversary01": {
+		"name": "อัศวินดวงดาราครบรอบ 1 ปี",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "ได้รับจากกิจกรรมครบรอบ 1 ปี",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_txAnniversary01"
+	},
+	"Title_txAnniversary02": {
+		"name": "ไพ่เอซหนึ่งปี",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "ได้รับจากกิจกรรม Twitch",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_txAnniversary02"
+	},
+	"Title_KoreaAnniversary01": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_KoreaAnniversary01"
+	},
+	"Title_KoreaAnniversary02": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_KoreaAnniversary02"
+	},
+	"Title_KoreaAnniversary03": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_KoreaAnniversary03"
+	},
+	"Title_KoreaAnniversary04": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_KoreaAnniversary04"
+	},
+	"Title_KoreaAnniversary05": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_KoreaAnniversary05"
+	},
+	"Title_KoreaAnniversary06": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_KoreaAnniversary06"
+	},
+	"AvatarFrame_txcreatos_05": {
+		"name": "ผู้บุกเบิกเส้นทางไอดา 2",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "เฟสที่สอง ผู้บุกเบิกเส้นทางไอดา",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_05i.png",
+		"shortIcon": "AvatarFrame_txcreatos_05i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_txcreatos_05"
+	},
+	"Avatar_Overseas_Anniversary01": {
+		"name": "สาวน้อยไล่วายุ",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "เหยียบคันเร่ง เดินทางมุ่งสู่ระยะทางที่ไกลออกไป",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_Anniversary01i.png",
+		"shortIcon": "Avatar_Overseas_Anniversary01i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_Overseas_Anniversary01"
+	},
+	"AvatarFrame_Overseas_Anniversary01": {
+		"name": "ควบไปทั่วทิศ",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "พุ่งทะยานไปดั่งช้างแมมมอธ แม้แต่เงาก็ตามคุณไม่ทัน",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Overseas_Anniversary01i.png",
+		"shortIcon": "AvatarFrame_Overseas_Anniversary01i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_Overseas_Anniversary01"
+	},
+	"chat_qipao_Overseas_Anniversary01": {
+		"name": "พุ่งทะยาน",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "พุ่งทะยานไปบนถิ่นทุรกันดารอันกว้างใหญ่",
+		"source": "กล่องแชท",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_chat_qipao_Overseas_Anniversary01.png",
+		"shortIcon": "icon_chat_qipao_Overseas_Anniversary01",
+		"rarity": "LEGENDRY",
+		"id": "chat_qipao_Overseas_Anniversary01"
+	},
+	"Title_PlayStation_01": {
+		"name": "สุดยอดผู้ชม",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "ได้รับในกิจกรรม",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_PlayStation_01"
+	},
+	"Title_PlayStation_02": {
+		"name": "สุดยอดผู้จัด",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "ได้รับในกิจกรรม",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_PlayStation_02"
+	},
+	"AvatarFrame_PlayStation_01": {
+		"name": "ท่ามกลางม่านหมอก",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "ชี้นกบนปลายไม้",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_PlayStation_01i.png",
+		"shortIcon": "AvatarFrame_PlayStation_01i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_PlayStation_01"
+	},
+	"Item_Gashapon_coin_16_OS": {
+		"name": "เหรียญกาชาปองโรซี่ (รีรัน)",
+		"type": "ITEM_TYPE_MATERIAL",
+		"description": "บัตรเชิญพิเศษจากปาร์ตี้ชุดคอสตูม ภายในส่องประกายด้วยออร่าแสนอันตรายที่ยากจะหลบเลี่ยงได้",
+		"source": "ใช้สำหรับกาชาปองกิจกรรมกุหลาบหนาม",
+		"icon": "/Game/Resources/Icon/huobi/gashapon_coin3.png",
+		"shortIcon": "gashapon_coin3",
+		"rarity": "EPIC",
+		"id": "Item_Gashapon_coin_16_OS"
+	},
+	"Avatar_Overseas_26": {
+		"name": "หวง: โพสท่าตัว T",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "ฉันชื่อ หวง เจ้าแห่งพลับพลาผนึกนภา หรือจะเรียกฉันว่าท่านมังกรครามก็ได้ ถ้ามีอะไรอยากจะพูดก็รีบพูดซะ แต่ถ้าไม่มีก็รีบไปให้พ้น",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_26i.png",
+		"shortIcon": "Avatar_Overseas_26i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_Overseas_26"
+	},
+	"Avatar_Overseas_27": {
+		"name": "เฟยเซ่อ: โพสท่าตัว T",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "โฮ่... เป็นครั้งแรกที่เห็นฉันร่ายรำสินะ?",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_27i.png",
+		"shortIcon": "Avatar_Overseas_27i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_Overseas_27"
+	},
+	"AvatarFrame_txcreatos_06": {
+		"name": "งานฉลองโคมไฟนับพัน",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "เจอกันอีกครั้งหลังหายไปนาน",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_06i.png",
+		"shortIcon": "AvatarFrame_txcreatos_06i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_txcreatos_06"
+	},
+	"AvatarFrame_txshikuang_01": {
+		"name": "ผู้ปฏิบัติการที่ได้รับการยอมรับ เฟส 1 V 3.2",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "ลิมิเต็ดเฉพาะผู้ปฏิบัติการที่ได้รับการยอมรับ ToF Ver3.2 ขอบคุณที่สร้างสรรค์คลิปที่ยอดเยี่ยมมาโดยตลอด",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txshikuang_01i.png",
+		"shortIcon": "AvatarFrame_txshikuang_01i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_txshikuang_01"
+	},
+	"Title_txshikuang_01": {
+		"name": "ผู้ปฏิบัติการที่ได้รับการยอมรับ ToF เฟส 1",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "ได้รับอย่างลิมิเต็ดเฉพาะผู้ปฏิบัติการที่ได้รับการยอมรับ",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_txshikuang_01"
+	},
+	"Title_iwMoonFestival_01": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwMoonFestival_01"
+	},
+	"Title_koreaMoonFestival_01": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_koreaMoonFestival_01"
+	},
+	"Avatar_koreaMoonFestival_01": {
+		"name": "กระต่ายแห่งจันทรา",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "DNT",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_koreaMoonFestival_01i.png",
+		"shortIcon": "Avatar_koreaMoonFestival_01i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_koreaMoonFestival_01"
+	},
+	"AvatarFrame_koreaMoonFestival_01": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "DNT",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_koreaMoonFestival_01i.png",
+		"shortIcon": "AvatarFrame_koreaMoonFestival_01i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_koreaMoonFestival_01"
+	},
+	"chat_qipao_koreaMoonFestival_01": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "กล่องแชท",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_koreaMoonFestival_01.png",
+		"shortIcon": "icon_qipao_koreaMoonFestival_01",
+		"rarity": "LEGENDRY",
+		"id": "chat_qipao_koreaMoonFestival_01"
+	},
+	"Title_iwplay33_os01": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os01"
+	},
+	"Title_iwplay33_os02": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os02"
+	},
+	"Title_iwplay33_os03": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os03"
+	},
+	"Title_iwplay33_os04": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os04"
+	},
+	"Title_iwplay33_os05": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os05"
+	},
+	"Title_iwplay33_os06": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os06"
+	},
+	"Title_iwplay33_os07": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os07"
+	},
+	"Title_iwplay33_os08": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os08"
+	},
+	"Title_iwplay33_os09": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os09"
+	},
+	"Title_iwplay33_os10": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os10"
+	},
+	"Title_iwplay33_os11": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os11"
+	},
+	"Title_iwplay33_os12": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os12"
+	},
+	"Title_iwplay33_os13": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os13"
+	},
+	"Title_iwplay33_os14": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os14"
+	},
+	"Title_iwplay33_os15": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_iwplay33_os15"
+	},
+	"Title_Korea33_os01": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os01"
+	},
+	"Title_Korea33_os02": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os02"
+	},
+	"Title_Korea33_os03": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os03"
+	},
+	"Title_Korea33_os04": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os04"
+	},
+	"Title_Korea33_os05": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os05"
+	},
+	"Title_Korea33_os06": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os06"
+	},
+	"Title_Korea33_os07": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os07"
+	},
+	"Title_Korea33_os08": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os08"
+	},
+	"Title_Korea33_os09": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os09"
+	},
+	"Title_Korea33_os10": {
+		"name": "DNT",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "DNT",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_Korea33_os10"
+	},
+	"Title_PlayStation33_os01": {
+		"name": "นักพเนจรประหลาด",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "ส่องสว่างไอดาด้วยความคิดสร้างสรรค์ของคุณ!",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_PlayStation33_os01"
+	},
+	"Title_PlayStation33_os02": {
+		"name": "นักวิชาการไอดา",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "ความสำเร็จที่ยิ่งใหญ่มาจากแรงบันดาลใจที่ยิ่งใหญ่!",
+		"source": "ฉายาเกียรติยศ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101.png",
+		"shortIcon": "pet_chip_0101",
+		"rarity": "EPIC",
+		"id": "Title_PlayStation33_os02"
+	},
+	"Avatar_PlayStation33_os01": {
+		"name": "เที่ยงคืนแห่งเล่ห์ลวง",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "แค่หยอกเล่นน่า!",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_PlayStation33_os01i.png",
+		"shortIcon": "Avatar_PlayStation33_os01i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_PlayStation33_os01"
+	},
+	"AvatarFrame_PlayStation33_os01": {
+		"name": "ผลผลิตแสนวิเศษ",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "มาร่วมงานปาร์ตี้กัน!",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_PlayStation33_os01i.png",
+		"shortIcon": "AvatarFrame_PlayStation33_os01i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_PlayStation33_os01"
+	},
+	"AvatarFrame_PlayStation33_os02": {
+		"name": "ผู้พิทักษ์แห่งไอดา",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "แด่ความเจริญรุ่งเรืองและสันติสุขแห่งไอดา",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_PlayStation33_os02i.png",
+		"shortIcon": "AvatarFrame_PlayStation33_os02i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_PlayStation33_os02"
+	},
+	"Avatar_Overseas_28": {
+		"name": "Линхань: Т-поза",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "ฉันหลิงหาน เจ้าของพลับพลาหลงเจี้ยน ผู้คนในอาณาเขต 9 มักจะเรียกฉันว่า \"พยัคฆ์ขาว\"",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_28i.png",
+		"shortIcon": "Avatar_Overseas_28i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_Overseas_28"
+	},
+	"Avatar_tongyong33_os01": {
+		"name": "Граф Дракула",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "Ха-ха-ха! Ну вы даете! У меня чуть накладные клыки не выпали от смеха. Хорошо, что не выпали, вторых таких в питомнике не найти.",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os01i.png",
+		"shortIcon": "Avatar_tongyong33_os01i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_tongyong33_os01"
+	},
+	"Avatar_tongyong33_os02": {
+		"name": "Древесная принцесса",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "Меня недавно научили этому жесту. Думаю, он подходит к текущей ситуации.",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os02i.png",
+		"shortIcon": "Avatar_tongyong33_os02i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_tongyong33_os02"
+	},
+	"Avatar_tongyong33_os03": {
+		"name": "Маленький дух",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "Вы пожалеете, что увидели меня с этой стороны!",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os03i.png",
+		"shortIcon": "Avatar_tongyong33_os03i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_tongyong33_os03"
+	},
+	"Avatar_tongyong33_os04": {
+		"name": "Королева страшилок",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "Вы хотите напугать Руби... вот этим?",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os04i.png",
+		"shortIcon": "Avatar_tongyong33_os04i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_tongyong33_os04"
+	},
+	"AvatarFrame_txcreatos_07": {
+		"name": "Лазурный лес",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "Пелена сомнений затягивает зеленый лес.",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_07i.png",
+		"shortIcon": "AvatarFrame_txcreatos_07i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_txcreatos_07"
+	},
+	"Avatar_Koreatongyong33_01": {
+		"name": "Огнекрыс",
+		"type": "ITEM_TYPE_AVATAR",
+		"description": "Территория9— очень живописный край.",
+		"source": "ปลดล็อกอวตาร์หลังจากได้รับ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Koreatongyong33_01i.png",
+		"shortIcon": "Avatar_Koreatongyong33_01i",
+		"rarity": "LEGENDRY",
+		"id": "Avatar_Koreatongyong33_01"
+	},
+	"AvatarFrame_Koreatongyong33_01": {
+		"name": "Огненное кольцо",
+		"type": "ITEM_TYPE_AVATAR_FRAME",
+		"description": "Ощути мой пыл!",
+		"source": "ปลดล็อกกรอบอวตาร์ที่คล้ายกัน",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Koreatongyong33_01i.png",
+		"shortIcon": "AvatarFrame_Koreatongyong33_01i",
+		"rarity": "LEGENDRY",
+		"id": "AvatarFrame_Koreatongyong33_01"
+	},
+	"chat_qipao_Koreatongyong33_01": {
+		"name": "Яркое пламя",
+		"type": "ITEM_TYPE_CONSUMABLE",
+		"description": "Поболтаем?",
+		"source": "กล่องแชท",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01.png",
+		"shortIcon": "icon_qipao_Koreatongyong33_01",
+		"rarity": "LEGENDRY",
+		"id": "chat_qipao_Koreatongyong33_01"
 	}
 }
