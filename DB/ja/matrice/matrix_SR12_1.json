@@ -1,0 +1,14 @@
+{
+	"name": "エコー・最後まで",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "現在実行中の事柄にまっすぐ通じるロジックがある",
+	"icon": "icon_matrix_SR12_512",
+	"gachaIcon": "icon_matrix_SR12_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "連携スキルで現在の武器に変更すると、武器エナジー値を**80**/100/120Pt獲得する"
+		}
+	],
+	"id": "matrix_SR12_1"
+}

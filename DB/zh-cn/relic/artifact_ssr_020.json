@@ -1,0 +1,11 @@
+{
+	"name": "泡泡枪",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "据说是镜都某个金发小矮子的心血来潮之作……",
+	"source": "使用泡泡枪，短按消耗**1**点泡泡水，向前吹出少量小泡泡，每个造成攻击***10%**伤害。长按**0.5**秒消耗**5**点泡泡水，向前吹出大泡泡，对碰到的敌人造成攻击***300%**伤害，包裹大部分小型的目标向空中飞去，同一目标**15**秒内最多被包裹飞起**1**次，对霸体目标无效，吹出大泡泡冷却**5**秒。泡泡水每**3**秒恢复**1**点，完成击杀时，恢复**10**点泡泡水，泡泡枪可存储的泡泡水上限为**30**点。",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_020.png",
+	"shortIcon": "artifact_ssr_020",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_044",
+	"id": "artifact_ssr_020"
+}

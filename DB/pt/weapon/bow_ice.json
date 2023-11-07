@@ -1,0 +1,174 @@
+{
+	"name": "Arco Zero Grau",
+	"avatar": {
+		"name": "Tsubasa",
+		"advanceId": "imitation_7L1",
+		"weapon": "bow_ice",
+		"icon": "imitation_7",
+		"avatarID": "sifengyuanyu",
+		"age": "24 de março",
+		"height": "1,69m",
+		"gender": "Feminino",
+		"state": "Herdeiros de Aida",
+		"city": "Astra",
+		"rating": "wuwei_imitation_7",
+		"gp": [
+			"garageKit",
+			"restrictedGoods",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 徐徐"
+			},
+			{
+				"Japanese": "CV : 小原 好美"
+			},
+			{
+				"English": "CV : Amber Lee Connors"
+			},
+			{
+				"Korean": "CV : 손선영"
+			},
+			{
+				"Portuguese": "CV : Tânia Gaidarji"
+			}
+		],
+		"id": "imitation_7"
+	},
+	"description": "As flechas deste arco carregam o poder do gelo.",
+	"icon": "item_Weapon_SSR_Bow_Ice01",
+	"gachaIcon": "SSR_lh_Mg",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "bow_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Saque Ligeiro",
+				"description": "No chão, saque o arco para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **53.7%** do ATQ + **322**.\r\nSegundo ataque: Causa dano de **48.1%** do ATQ + **288**.\r\nTerceiro ataque: Causa dano de **86.5%** do ATQ + **519**.\r\nQuarto ataque: Causa dano de **133.3%** do ATQ + **800**.\r\nQuinto ataque: Causa dano de **123.8%** do ATQ + **743** e repele o alvo uma curta distância.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_MeleeIce_SSR"
+			},
+			{
+				"name": "Tiro Concentrado",
+				"description": "Segure o botão de ataque normal para carregar um ataque. Causa dano mínimo de **96.6%** do ATQ + **580**, e mais **50%** por cada **1** segundo de concentração (máximo de **3** segundos). Causa o dobro de dano se acertar a cabeça ou um ponto fraco do inimigo e o derruba (tiros na cabeça não têm efeito contra Errantes).",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttackIce_SSR"
+			},
+			{
+				"name": "Chuva de Flechas",
+				"description": "Após qualquer ataque normal, segure o botão de ataque normal para desencadear Chuva de Flechas. Causa até **315.9%** do ATQ + **1895** de dano em área a alvos.",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_BranchIce_SSR"
+			},
+			{
+				"name": "Saraivada Aérea",
+				"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **61.9%** do ATQ + **372**.\r\nSegundo ataque: Causa dano de **81.4%** do ATQ + **488**.\r\nTerceiro ataque: Causa dano de **124%** do ATQ + **744**.\r\nQuarto ataque: Causa dano de **186.8%** do ATQ + **1121**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttackIce_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Tempo de recarga: 15 segundos. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_EvadeIce_SSR"
+			},
+			{
+				"name": "Flecha Repulsora",
+				"description": "Toque no botão de ataque após se esquivar para usar Flecha Repulsora. **Repele o alvo** e causa dano de **136.4%** do ATQ + **818**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttackIce_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "Tiro Perfurante",
+				"description": "Dá um mortal para trás e dispara **3** tiros perfurantes, onde o disparo principal causa dano de **284.1%** do ATQ + **1705**, e os outros dois causam 60% de dano. Além disso, **repele os alvos** e os atordoa durante **5** segundos caso colidam com um obstáculo. Tempo de recarga: **12** segundos.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkillIce_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Salva Explosiva",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e cria uma chuva de granizo na posição do alvo. Causa dano de **655.5%** do ATQ + **3933**. A chuva tem **10%** de chance de infligir **congelamento forte** durante **2** segundos. Confere frente fria e aumenta a velocidade em **45%** durante **7** segundos.",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_SuccessIce_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Dá um acúmulo de flecha cortante cada vez que a flecha disparada por um ataque de esquiva acerta um alvo. Cada acúmulo aumenta o dano em **5%** durante **15** segundos. Acumula até **3** vezes.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Realizar um ataque de esquiva dispara **3** Tiros Concentrados.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Dobra a duração da Chuva de Flechas e desacelera alvos em **25%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Flecha cortante acumula até **5** vezes. Acertar um alvo com Tiro Concentrado concede **3** acúmulos imediatamente. Tiros na cabeça conferem **5** acúmulos.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		}
+	],
+	"id": "bow_ice"
+}

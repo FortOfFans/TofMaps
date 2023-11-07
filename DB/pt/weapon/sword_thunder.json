@@ -1,0 +1,90 @@
+{
+	"name": "Espada Eletromagnética",
+	"description": "O primeiro projeto de Omnium eletromagnético. De fácil manejo, a espada é muito popular entre Errantes que não são grandes combatentes.",
+	"icon": "item_Weapon_R_Sword_Thunder01",
+	"gachaIcon": "Weapon_R_Sword_Thunder01",
+	"rarity": "R",
+	"element": "Thunder",
+	"weaponType": "Sword",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 15,
+		"Item_Mine_thunder_02": 25,
+		"Item_breakthrough_B2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_thunder_03": 14,
+		"Item_breakthrough_B3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_B1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "sword_thunder_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Corte Rápido",
+				"description": "No chão, branda a espada para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **34.6%** do ATQ + **208** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **30.1%** do ATQ + **181** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **27.4%** do ATQ + **164** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **47.9%** do ATQ + **287** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **72.2%** do ATQ + **433** e **lança** o alvo no ar.",
+				"icon": "skill_sword_melee",
+				"id": "GA_FPlayerSwordMelee_Melee_R"
+			},
+			{
+				"name": "Ataque Suspenso",
+				"description": "No ar, use o botão de ataque normal para atacar 4 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **15.7%** do ATQ + **94**.\r\nSegundo ataque: Causa dano de **25.3%** do ATQ + **152**.\r\nTerceiro ataque: Causa dano de **45.1%** do ATQ + **271**.\r\nQuarto ataque: Causa dano de **67.4%** do ATQ + **404** e **derruba** o alvo.",
+				"icon": "skill_sword_air",
+				"id": "GA_FPlayerSwordMelee_AirAttack_R"
+			},
+			{
+				"name": "de Areia",
+				"description": "Após ataques normais, mantenha o botão pressionado para usar Ciclone.\r\nSuspende o alvo ao atingir. Ciclone causa dano de **22.3%** do ATQ + **134** a um único alvo.",
+				"icon": "skill_sword_branch",
+				"id": "GA_FPlayerSwordMelee_Branch_R"
+			},
+			{
+				"name": "Mergulho Lacerante",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar Mergulho Lacerante.\r\nEnquanto cai, cada golpe causa dano de **6.4%** do ATQ + **38**. Ao aterrissar, causa dano de **35.6%** do ATQ + **214** e repele os alvos circundantes.\r\nQuanto maior a altura, maior o dano causado. Chega a até **600%** do dano.",
+				"icon": "skill_sword_jump",
+				"id": "GA_FPlayerSwordMelee_JumpAttack_R"
+			},
+			{
+				"name": "Ataque Furtivo",
+				"description": "Agachado, aproxime-se do inimigo pelas costas e use o botão de ataque normal para usar Ataque Furtivo. Causa dano de **256.5%** do ATQ + **1539**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSwordMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Tempo de recarga: 15 segundos. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSwordEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Passeio Doloroso",
+				"description": "Passeia entre alvos. Causa dano total de **227.1%** do ATQ + **1362** a até **5** alvos, e o último golpe suspende o alvo. Enquanto estiver ativo, fica imune a interrupção. Cada vez que um mesmo alvo é atingido, o dano causado a ele diminui **40%**. Tempo de recarga: **10** seg.",
+				"icon": "sword_skill1",
+				"id": "GA_FPlayerSwordSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Ímpeto Desenfreado",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você**, corre para o alvo e o **suspende muito** ao trocar para esta arma. Causa dano de **266.6%** do ATQ + **1599**.",
+				"icon": "skill_sword_changeskill",
+				"id": "GA_FPlayerSwordChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 3.6,
+				"charge": 8.8
+			},
+			"need": "None"
+		}
+	],
+	"id": "sword_thunder"
+}

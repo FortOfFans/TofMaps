@@ -1,0 +1,11 @@
+{
+	"name": "Cybernetic Arm",
+	"type": "ITEM_TYPE_BREAK_FATE_ARTIFACT",
+	"description": "Menembakkan Cybernetic Arm untuk menarik target.",
+	"source": "Menembakkan Cybernetic Arm untuk menarik target yang dipilih ke arahmu, atau menarikmu ke arah target. Menimbulkan **100%** DMG saat mengenai target, mengakibatkan **Suspend Keras** kepada target, dan meregenerasi Charge Senjata sebesar **300**. Bisa digunakan untuk mengakses area-area yang sulit dijangkau, dan bisa menyimpan maks **2** Charge sekaligus. Mendapatkan kembali **1** Charge setiap **30** detik.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_sr_011.png",
+	"shortIcon": "artifact_sr_011",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_008",
+	"id": "wormhole_artifact_sr_011"
+}

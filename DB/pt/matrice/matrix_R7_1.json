@@ -1,0 +1,14 @@
+{
+	"name": "Pacto Expurgatório",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "É hora de fazer a limpa.",
+	"icon": "icon_matrix_R7_512",
+	"gachaIcon": "icon_matrix_R7_512",
+	"rarity": "R",
+	"set": [
+		{
+			"2": "Reduz o dano sofrido em **6%**."
+		}
+	],
+	"id": "matrix_R7_1"
+}

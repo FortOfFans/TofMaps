@@ -1,0 +1,14 @@
+{
+	"name": "Pepper",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Siapa yang bisa menjelaskan padanya bahwa kini dia telah bekerja keras untuk waktu yang lama?",
+	"icon": "icon_matrix_SR6_512",
+	"gachaIcon": "icon_matrix_SR6_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Meningkatkan kecepatan untuk memperoleh Charge Senjata sebesar **10%**/12,5%/15%."
+		}
+	],
+	"id": "matrix_SR6_1"
+}

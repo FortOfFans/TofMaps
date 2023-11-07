@@ -1,0 +1,10 @@
+{
+	"name": "Tempestade Magnética",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "Contém um dispositivo poderoso que transmite o campo magnético nas proximidades, o que produz um tornado elétrico que arremessa inimigos no ar.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_sr_007.png",
+	"shortIcon": "artifact_sr_007",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_012_OS",
+	"id": "artifact_sr_007"
+}

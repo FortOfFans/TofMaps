@@ -1,0 +1,188 @@
+{
+	"name": "Precious One",
+	"avatar": {
+		"name": "Icarus",
+		"advanceId": "imitation_35L1",
+		"weapon": "yoyo_ice",
+		"icon": "imitation_35",
+		"avatarID": "yikaluosi",
+		"age": "24 Oktober",
+		"height": "161 cm",
+		"gender": "Laki-Laki",
+		"state": "Squad Mooke",
+		"city": "Hykros",
+		"rating": "wuwei_imitation_35",
+		"gp": [
+			"collection",
+			"metal",
+			"Vera",
+			"Asshai"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 沐霏"
+			},
+			{
+				"Japanese": "CV : 梶原 岳人"
+			},
+			{
+				"English": "CV : RyMcKeand"
+			},
+			{
+				"Korean": "CV : 김유림"
+			},
+			{
+				"Portuguese": "CV : Úrsula Bezerra"
+			}
+		],
+		"id": "imitation_35"
+	},
+	"description": "Senjata koleksi langka yang dipadukan dengan modifikasi modern yang unik. Semoga penggunanya berjalan dengan berani ke dalam kegelapan yang sunyi, meski bagai ngengat di tengah api.",
+	"icon": "item_Weapon_SSR_yoyo_Ice01",
+	"gachaIcon": "SSR_lh_yikaluosi",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "YoYo",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "yoyo_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Withering Cold",
+				"description": "Saat di darat, gunakan Serangan Biasa untuk melakukan 5 serangan beruntun.\r\nSerangan Pertama: Menimpakan DMG sebesar **112.1%** ATK plus **673** dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **130.5%** ATK plus **783** dan membuat target terpental ke belakang. \r\nSerangan Ketiga: Menimpakan DMG sebesar **213.2%** ATK plus **1279** dan membuat target terpental ke atas.\r\nSerangan Keempat: Menimpakan DMG sebesar **329%** ATK plus **1974** dan membuat target terpental ke belakang.\r\nSerangan Kelima: Menimpakan DMG sebesar **222.5%** ATK plus **1335** dan membuat target terpental ke atas.",
+				"icon": "skill_iceyoyo_pugong",
+				"id": "GA_FPlayerYoyoMelee_Melee"
+			},
+			{
+				"name": "Thaw",
+				"description": "Saat di udara, gunakan Serangan Biasa untuk melakukan 5 serangan beruntun sambil mengonsumsi Stamina.\r\nSerangan Pertama: Menimpakan DMG sebesar **132.2%** ATK plus **793**.\r\nSerangan Kedua: Menimpakan DMG sebesar **158.6%** ATK plus **952**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **248.6%** ATK plus **1491**.\r\nSerangan Keempat: Menimpakan DMG sebesar **343.5%** ATK plus **2061**.\r\nSerangan Kelima: Menimpakan DMG sebesar **334.5%** ATK plus **2007** dan membuat target terpental ke atas.",
+				"icon": "skill_iceyoyo_airattack",
+				"id": "GA_FPlayerYoyoMelee_AirAttack"
+			},
+			{
+				"name": "Piercing Cold",
+				"description": "Saat di darat, tekan dan tahan Serangan Biasa untuk memicu Piercing Cold, menimpakan DMG sebesar **345.1%** ATK plus **2070**.",
+				"icon": "skill_iceyoyo_branch",
+				"id": "GA_FPlayerYoyoMelee_Branch"
+			},
+			{
+				"name": "Sharp Chill",
+				"description": "Saat di udara, tekan dan tahan Serangan Biasa (tekan saat ada musuh yang bisa ditarget), atau tekan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Sharp Chill.\r\nSambil menukik ke bawah, menimpakan DMG sebesar **57.5%** ATK plus **345** setiap kali mendaratkan serangan. Saat mendarat, menimpakan DMG sebesar **344.9%** ATK plus **2069** dan membuat target terpental ke atas.",
+				"icon": "skill_iceyoyo_airbranch",
+				"id": "GA_FPlayerYoyoMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, memperlambat target di dalam area tersebut. Saat menghindar, menjadi kebal terhadap Hitstun.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerYoyoEvade_Evade"
+			},
+			{
+				"name": "Snowy Flurry",
+				"description": "Gunakan Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk memicu Snowy Flurry, menimpakan DMG sebesar **162.8%** ATK plus **977** pada target di sekitar.",
+				"icon": "skill_iceyoyo_frontattack",
+				"id": "GA_FPlayerYoyoEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Winter Solstice",
+				"description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk memicu Winter Solstice, menimpakan DMG sebesar **162.9%** ATK plus **977** kepada target di sekitar.",
+				"icon": "skill_iceyoyo_backattack",
+				"id": "GA_FPlayerYoyoEvadeAttack_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Desolate Day",
+				"description": "Menimpakan DMG kepada target di sekitar sebesar **660%** ATK plus **3960** dan menciptakan 2 Speedy Yo-yo yang bergerak secara teratur. CD: **60** detik. Kecepatan target dalam jangkauan Desolate Day berkurang **50%** (tidak berdampak kepada Wanderer atau Boss).\r\nSetiap Speedy Yo-yo bergerak melewati bagian tengah lintasannya sekitar 4 kali per siklus gerakan, menimpakan DMG sebesar **30%** ATK plus **180** kepada target yang dilewatinya selama **70** detik. Saat senjata ada di Bintang 0, siklus gerakan ini berlangsung selama 4 detik. Selama durasi ini, menggunakan Desolate Day akan mereset posisi dan memperbarui durasi Speedy Yo-yo. CD: **4** detik.\r\nSelama durasi Desolate Day, DMG yang diterima berkurang **50%** dan kamu memulihkan **5%** Max HP. Ini tidak terpengaruh oleh efek peningkatan penyembuhan apa pun. Efek penyembuhan dan pengurangan DMG ini tidak berlaku di Apex League.",
+				"icon": "skill_iceyoyo_skill",
+				"id": "GA_FPlayerYoyoSkill_Skill"
+			},
+			{
+				"name": "Return to Loneliness",
+				"description": "Gunakan Capped Knowledge untuk mendapatkan hingga **2** jatah penggunaan Skill baru, Return to Loneliness. Skill ini hanya bisa digunakan selama Desolate Day sedang CD. Menimpakan DMG Skill sebesar **440%** ATK plus **2640**. Selama Skill ini aktif, DMG yang diterima berkurang **50%** dan kamu memulihkan **5%** Max HP. Ini tidak terpengaruh oleh efek peningkatan penyembuhan apa pun, baik yang diberikan maupun yang diterima. Efek penyembuhan dan pengurangan DMG ini tidak berlaku di Apex League.\r\nSaat Resonansi Fortitude aktif: Gunakan Return to Loneliness untuk memancing serangan target di sekitar dan mendapatkan **1** Perisai Blok, maks **3** Perisai, yang aktif selama **20** detik. **Poin Blok** sama dengan **jumlah dari 5 tipe Resistance Wanderer**. Saat Perisai Blok habis digunakan atau jumlahnya berlebih, menimpakan DMG sebesar **200% Poin Blok** kepada target utama.\r\nSaat Resonansi Benediction aktif: Menggunakan Return to Loneliness kepada target yang memiliki HP lebih dari **95%** akan menimpakan DMG sebesar **8%** Max HP mereka masing-masing (tidak berdampak kepada Wanderer). Ini tidak terpengaruh oleh efek peningkatan atau pengurangan DMG.",
+				"icon": "skill_iceyoyo_skill1",
+				"id": "GA_FPlayerYoyoSkill_SkillSpec"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Capped Knowledge",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke Senjata ini akan **melenyapkan semua Debuff dari Wanderer**, menimpakan DMG sebesar **1113.9%** ATK plus **6683** kepada target di sekitar, dan membuat target terpental ke atas. Selama durasi ini, kebal terhadap DMG selama **1,5** detik (tak berlaku di Apex League).",
+				"icon": "skill_iceyoyo_changeskill",
+				"id": "GA_FPlayerYoyoChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonansi Frost**: Frost ATK meningkat **15%** dan Frost Resistance meningkat **25%**. Aktifkan dengan memakai minimal **2** Senjata Frost. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.\r\n**Elementalist**: Final DMG meningkat **NaN%** untuk setiap **1** tipe elemen senjata yang dipakai. Efek ini juga aktif saat senjata ada di slot sampingan.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Saat menggunakan Skill Senjata dari senjata apa pun, Speedy Yo-yo bisa memicu **Harmony**, menimpakan DMG kepada target di sekitar sebesar **NaN%** HP Wanderer yang hilang. DMG yang ditimpakan memiliki jumlah minimal **NaN%** Max ATK Wanderer dan jumlah maksimal **NaN%** Max ATK Wanderer. Tipe DMG elemen yang ditimpakan akan sama dengan senjata yang dipakai saat ini.\r\nSaat menggunakan Skill Discharge dengan senjata apa pun, Speedy Yo-yo bisa memicu **Tuning**, menimpakan DMG kepada target di sekitar sebesar **NaN%** Max HP Wanderer. DMG yang ditimpakan memiliki jumlah maksimal **NaN%** Max ATK Wanderer. Tipe DMG elemen yang ditimpakan akan sama dengan senjata yang dipakai saat ini.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Saat menggunakan Desolate Day, Speedy Yo-yo bisa memicu **Swiftness** yang aktif selama **NaN** detik: Kecepatan Speedy Yo-yo meningkat **NaN%**, DMG meningkat **160%**, dan DMG yang disebabkan karena melewati target dikonversi menjadi DMG area dalam area kecil.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "DMG Speedy Yo-yo dan Return to Loneliness meningkat **NaN%**.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Selama Speedy Yo-yo aktif, Final DMG meningkat **NaN%**.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		}
+	],
+	"id": "yoyo_ice"
+}

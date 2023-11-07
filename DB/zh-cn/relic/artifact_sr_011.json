@@ -1,0 +1,11 @@
+{
+	"name": "机械手臂",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "弹射出一个机械手臂，将指定目标拉直身边。",
+	"source": "弹射出机械手臂，将指定目标拉至身边，或将自身牵引至目标身边，命中造成**100%**伤害，附带**强控浮空**效果，同时回复自身**300**点武器充能值；也可利用机械手臂到达一些难以去到的地方，可积攒**2**次充能，每**30**秒恢复**1**次充能。",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_sr_011.png",
+	"shortIcon": "artifact_sr_011",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_008",
+	"id": "artifact_sr_011"
+}

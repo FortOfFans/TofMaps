@@ -1,0 +1,176 @@
+{
+	"name": "Clover Cross",
+	"avatar": {
+		"name": "Annabella",
+		"advanceId": "imitation_26L1",
+		"weapon": "snipe_fire",
+		"icon": "imitation_26",
+		"avatarID": "annabeila",
+		"age": "28 April",
+		"height": "166 cm",
+		"gender": "Perempuan",
+		"state": "Tak Diketahui",
+		"city": "Tak Diketahui",
+		"rating": "wuwei_imitation_26",
+		"gp": [
+			"decorate",
+			"Rarity",
+			"game",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 洪海天"
+			},
+			{
+				"Japanese": "CV : 黒沢 ともよ"
+			},
+			{
+				"English": "CV : Risa Mei"
+			},
+			{
+				"Korean": "CV : 이유리"
+			},
+			{
+				"Portuguese": "CV : Ágatha Paulita"
+			}
+		],
+		"id": "imitation_26"
+	},
+	"description": "Sebuah pengembang game tembak-tembakan VR multiplayer yang sangat populer di Mirroria merancang senapan eksklusif ini sebagai hadiah untuk pemain terhebat mereka. Modelnya dibuat khusus dan juga sudah dikirimkan ke pemain yang bersangkutan, tapi tak ada yang menyadari bahwa senapan ini dapat digunakan secara persis seperti yang ada di dalam permainan...",
+	"icon": "item_Weapon_SSR_Snipe_fire01",
+	"gachaIcon": "SSR_lh_annabeila",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Snipe",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "snipe_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Serangan Biasa",
+				"description": "Saat di darat, serang 3 kali berturut-turut dengan senapan sniper.\r\nSerangan Pertama: Menimpakan DMG sebesar **44.2%** ATK plus **265** dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **84.4%** ATK plus **506** dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **176.9%** ATK plus **1061** dan membuat target terpental ke atas.",
+				"icon": "pugong_snipe",
+				"id": "GA_FPlayerSnipeMelee_Melee"
+			},
+			{
+				"name": "Cross Snipe",
+				"description": "Tahan Serangan Biasa untuk mengumpulkan tenaga untuk menyerang, menimpakan DMG awal sebesar **26.1%** ATK plus **157**. Setelah tenaga terkumpul, menimpakan DMG hingga **180.4%** ATK plus **1082**. Menimpakan DMG dua kali lipat jika Headshot atau menghantam titik lemah lawan, dan membuat target terpental ke atas (Headshot tidak berlaku bagi Wanderer).\r\n**Pasif:** Memulihkan **300** Charge Senjata saat Cross Snipe menghantam target yang terbakar atau mendaratkan serangan Crit. CD: **15** detik.\r\n**Pasif:** Kecepatan meningkat **30%** selama **3** detik setelah menggunakan Cross Snipe.",
+				"icon": "skill_snipe_power",
+				"id": "GA_FPlayerSnipeMelee_PowerAttack"
+			},
+			{
+				"name": "Boiling Noise",
+				"description": "Setelah melakukan Serangan Biasa, tekan dan tahan Serangan Biasa untuk menembakkan peluru laser yang akan meledak saat menghantam target, menimpakan DMG sebesar maks **150%** ATK plus **900** kepada target dalam jangkauan ledakan dan menerapkan efek Suspend kepada mereka.",
+				"icon": "skill_snipe_branch",
+				"id": "GA_FPlayerSnipeMelee_Branch"
+			},
+			{
+				"name": "Aerial Discharge",
+				"description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 3 kali berturut-turut di udara.\r\nSerangan Pertama: Menimpakan DMG sebesar **47.6%** ATK plus **286** dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **90.9%** ATK plus **545** dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **190.5%** ATK plus **1143** dan membuat target terpental ke atas.",
+				"icon": "pugong_snipe",
+				"id": "GA_FPlayerSnipeMelee_AirAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Twilight Arc",
+				"description": "Lompat ke belakang dan melempar 1 granat ke depan, yang akan meledak saat menyentuh tanah, menimpakan DMG hingga **37%** ATK plus **222** kepada target dan menerapkan Suspend, membuat mereka tertahan di udara.\r\n**Pasif:** Setelah menggunakan Twilight Arc, gunakan Serangan Biasa untuk secara langsung menembakkan Cross Snipe yang terisi penuh.",
+				"icon": "skill_snipe_evadeattack",
+				"id": "GA_FPlayerSnipeEvade_EvadeAttack"
+			},
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, yang akan memperlambat musuh dalam area tersebut. CD: 15 detik. Saat Menghindar, kamu akan menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerSnipeEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Ember Mag",
+				"description": "Ganti modul untuk mengubah efek Cross Snipe dan Twilight Arc. Cross Snipe bisa digunakan hingga **8** kali. CD: **14** detik.\r\n**Ruthless Bomb**: Efek Cross Snipe berubah menjadi ledakan api yang menimpakan DMG awal sebesar **49.2%** ATK plus **295** dalam suatu area. Setelah mengisi tenaga, menimpakan DMG hingga **339.5%** ATK plus **2037**. Saat menghantam target yang tidak sedang terbakar, menerapkan Cross Burn kepada mereka, yang menimpakan DMG sebesar **90%** ATK setiap detik selama **13** detik. Saat menghantam target yang sedang terbakar, menerapkan Cross Burn kepada mereka dan memasuki Burn Enhancement selama **20** detik, yang meningkatkan DMG Burn pada target sebesar **20%**. Saat menggunakan Twilight Arc, kamu sekarang melontarkan **3** granat.\r\n**Deceitful Bomb**: Mengubah efek Cross Snipe menjadi serangan Gas jarak jauh yang menimpakan DMG awal sebesar **76.7%** ATK plus **460** saat menghantam target. Setelah mengisi tenaga, menimpakan hingga **529.4%** ATK plus **3176** DMG. Target di dalam Gas akan diperlambat. Efek Slow menjadi lebih kuat seiring waktu dan Gas ini aktif selama **7** detik. Twilight Arc bisa meledakkan Gas (makin lama durasi pengisian tenaga, makin besar DMG ledakan Gas), menimpakan DMG ledakan hingga **569.2%** ATK plus **3415** (ini dianggap sebagai memicu Cross Snipe 1 kali) dan mengurangi Flame Resistance target sebesar **10%** selama **10** detik.\r\n\r\n**Pasif**: Setelah menentukan modul, kamu akan mendapatkan Optical Enhancement sesuai dengan jumlah pemulihan jatah menghindar dan pengurangan waktu charge Cross Snipe. Optical Enhancement: Mempersingkat waktu pengisian Cross Snipe sebesar **30%**, menjadi kebal terhadap Efek Kontrol selama mengisi tenaga. Memulihkan **1** jatah menghindar (maks **4** jatah menghindar) setiap **2** kali menghindar.\r\n**Pasif**: Selama Modul Deceitful Bomb aktif, Cross Snipe berpeluang mempersingkat CD skill dari Senjata Flame lainnya selama **0,7** detik setelah menghantam target.\r\n**Pasif**: **Tranquil Heart**: Saat Clover Cross menggunakan Skill Discharge/Skill/Serangan Discharge/Dodge, Crit Rate Final Clover Cross meningkat **5%** selama **15** detik. Efek ini dapat bertumpuk hingga **3** kali. Setelah Crit Rate melebihi **100%**, **50%** dari kelebihan Crit Rate akan dikonversikan menjadi Crit DMG, maks hingga **7,5%** Crit DMG.",
+				"icon": "skill_snipe_skillstart",
+				"id": "GA_FPlayerSnipeSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Bombardment Command",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan melempar bom api yang bisa diledakkan dengan menembaknya, menimpakan DMG hingga **765.4%** ATK + **4592** kepada target dalam jangkauan dan membuat mereka **terpental keras**. Saat Skill ini aktif, kebal terhadap DMG selama **1,5** detik (tidak berlaku di Apex League).",
+				"icon": "skill_snipe_changeskill",
+				"id": "GA_FPlayerSnipeChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonansi Flame**: Flame ATK meningkat **15%** dan Flame Resistance meningkat **25%**. Aktifkan dengan cara memakai **2** Senjata Flame atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "None"
+		},
+		{
+			"description": "Menghantam target **2** kali dengan Cross Snipe akan menciptakan **Optical Space** yang aktif selama **12** detik di lokasi target. Setelah musuh di dalam Optical Space terkena Burn, Burn tersebut akan diberlakukan **2** kali lagi. Saat unit musuh keluar dari Optical Space, kecepatan mereka berkurang **80%** selama **2,5** detik. CD: **12** detik.\r\nTarget Cross Snipe akan menjadi ketakutan (mengurangi kecepatan sebesar **80%**) selama **1,5** detik. CD: **4** detik.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		},
+		{
+			"description": "Setiap kali Cross Snipe mendaratkan serangan Crit, memulihkan HP sebesar **50%** DMG yang ditimpakan (tidak lebih dari **15%** Max HP diri sendiri dan tidak termasuk DMG dari ledakan gas) dan **50** Charge Senjata.\r\nSetiap tumpuk Tranquil Heart meningkatkan Crit Rate Final sebesar **9%**, maks **27%**, dan mengonversi hingga **13.5%** Crit DMG.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		},
+		{
+			"description": "**Ruthless Bomb** Enhancement: Dalam kondisi Burn Enhancement, DMG dari Burn yang ditimpakan kepada target meningkat **30%**.\r\n**Deceitful Bomb** Enhancement: DMG ledakan gas mengabaikan **30%** Flame Resistance target.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		},
+		{
+			"description": "DMG yang ditimpakan oleh Cross Snipe meningkat lagi sebesar **20%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 9
+			},
+			"need": "Snipe_fire_plasm"
+		}
+	],
+	"id": "snipe_fire"
+}

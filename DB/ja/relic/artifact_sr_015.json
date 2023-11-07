@@ -1,0 +1,11 @@
+{
+	"name": "電磁パルス",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "ソーシャルディスタンスを保つように",
+	"source": "磁気爆弾を起爆させて、ターゲットに攻撃力×**0%**の雷ダメージと**強制ノックアップ**を与える。自身は**5**秒間の硬直無効になる。クールダウン**35**秒",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_r_002.png",
+	"shortIcon": "artifact_r_002",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_007",
+	"id": "artifact_sr_015"
+}

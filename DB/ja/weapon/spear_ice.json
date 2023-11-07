@@ -1,0 +1,102 @@
+{
+	"name": "フロストスピア",
+	"description": "フォラント雪原の住民がよく使う武器。地域の特性により氷属性を有している。安価だが強度が高いことから広く使用されている",
+	"icon": "item_Weapon_R_Spear_Ice01",
+	"gachaIcon": "Weapon_R_Spear_Ice01",
+	"rarity": "R",
+	"element": "Ice",
+	"weaponType": "Spear",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 15,
+		"Item_Mine_ice_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_ice_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "spear_ice_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "長槍通常攻撃",
+				"description": "地上にいる時、長槍を振るうと5回連続攻撃できる。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×**20.1%**+**121**のダメージと少しのノックバック\r\n2回目：攻撃力×**18.5%**+**111**のダメージと少しのノックバック\r\n3回目：攻撃力×**38.5%**+**231**のダメージと少しのノックバック\r\n4回目：攻撃力×**59.2%**+**355**のダメージと少しのノックバック\r\n5回目：攻撃力×**93.8%**+**563**のダメージと大幅なノックバック",
+				"icon": "skill_spear_melee",
+				"id": "GA_FPlayerSpearMelee_Melee_R"
+			},
+			{
+				"name": "飛撃",
+				"description": "滞空時、通常攻撃を行うと空中で4回連続攻撃できる。ダメージは次の通り。\r\n1回目：攻撃力×**22.3%**+**134**\r\n2回目：攻撃力×**18.8%**+**113**\r\n3回目：攻撃力×**37.1%**+**223**\r\n4回目：攻撃力×**89%**+**534**",
+				"icon": "skill_spear_air",
+				"id": "GA_FPlayerSpearMelee_AirAttack_R"
+			},
+			{
+				"name": "破撃",
+				"description": "滞空時に通常攻撃を長押し(敵の存在時)、またはクライミング時/反転ジャンプ攻撃時/ジェットパック使用時に通常攻撃を行うと、破撃を発動する。\r\n落下中、ターゲットに命中するごとに攻撃力×**6.4%**+**38**のダメージを与える。着地時に周囲のターゲットに攻撃力×**39.3%**+**236**のダメージを与え、ターゲットを浮遊させる。\r\n発動時に地面から距離が離れているほどダメージが大きくなる。最大で**600%**のダメージ。",
+				"icon": "skill_spear_jump",
+				"id": "GA_FPlayerSpearMelee_JumpAttack_R"
+			},
+			{
+				"name": "乱槍狂舞",
+				"description": "3回目の通常攻撃の後、通常攻撃を長押しすると乱槍狂舞を発動できる\r\n命中するとターゲットを**強制浮遊**させて攻撃力×**39.8%**+**239**のダメージを与える。再度タップすると浮遊させたターゲットに連続攻撃を行い、ターゲット単体に最大で攻撃力×**79.5%**+**477**のダメージを与える",
+				"icon": "skill_spear_branch",
+				"id": "GA_FPlayerSpearMelee_Branch_R"
+			},
+			{
+				"name": "奇襲",
+				"description": "長槍で突き、ターゲットに攻撃力×**256.5%**+**1539**のダメージを与える",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSpearMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "飛び蹴り",
+				"description": "前方回避(方向キー+回避ボタン)を発動してすぐに通常攻撃を行うと、飛び蹴りを発動できる\r\n飛び蹴りが命中したターゲットに攻撃力×**58.2%**+**349**のダメージを与え、大幅にノックバックさせる。さらにモンスターを**1**秒間、プレイヤーを**0.5**秒間**強制スタン**させる",
+				"icon": "skill_spear_frontattack",
+				"id": "GA_FPlayerSpearEvade_FrontAttack_R"
+			},
+			{
+				"name": "挑撃",
+				"description": "回避後すぐに通常攻撃を行うと、挑撃を発動できる\r\n長槍を地面に振り降ろして**強制浮遊**効果と攻撃力×**42.8%**+**257**のダメージを与える",
+				"icon": "skill_spear_backattck",
+				"id": "GA_FPlayerSpearEvade_BackAttack_R"
+			},
+			{
+				"name": "回避",
+				"description": "ジャスト回避を成功させると幻想タイムが発動し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直効果を無効化する。**0.5**秒間持続",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSpearEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "望月",
+				"description": "旋風のようにターゲットを**強制浮遊**させるとともに探索者が滞空し、攻撃力×**103.1%**+**619**のダメージを与える。クールダウン**25**秒",
+				"icon": "spear_skill1",
+				"id": "GA_FPlayerSpearSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "永撃跳躍",
+				"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。ターゲットをつかんで何度か振り回し、攻撃力×**205.4%**+**1232**のダメージを与え、最後の一撃に**強制浮遊**を付与する",
+				"icon": "skill_spear_changeskill",
+				"id": "GA_FPlayerSpearChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6.9,
+				"charge": 5.6
+			},
+			"need": "None"
+		}
+	],
+	"id": "spear_ice"
+}

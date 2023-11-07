@@ -1,0 +1,14 @@
+{
+	"name": "Ene",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Quando o poder aumenta, a descarga acelerada também se reflete em leves tremores na arma.",
+	"icon": "icon_matrix_SR8_512",
+	"gachaIcon": "icon_matrix_SR8_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Quando causa dano maior do que **100%** do ATQ, causa dano adicional de **60%**/75%/90% do ATQ. Tempo de recarga: **3** seg."
+		}
+	],
+	"id": "matrix_SR8_1"
+}

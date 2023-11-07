@@ -1,0 +1,217 @@
+{
+	"name": "União",
+	"avatar": {
+		"name": "Yu Lan",
+		"advanceId": "imitation_38L1",
+		"weapon": "yulan_ice",
+		"icon": "imitation_38",
+		"avatarID": "yulan",
+		"age": "9 de fevereiro",
+		"height": "1,75m",
+		"gender": "Feminino",
+		"state": "Cronoguarda",
+		"city": "Domínio 9",
+		"rating": "wuwei_imitation_38",
+		"gp": [
+			"everydayObjects",
+			"collection",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 秦文静"
+			},
+			{
+				"Japanese": "CV : 柚木 涼香"
+			},
+			{
+				"English": "CV : Brianna Knickerbocker"
+			},
+			{
+				"Korean": "CV : 김윤채"
+			},
+			{
+				"Portuguese": "CV : LUIZA PORTO"
+			}
+		],
+		"id": "imitation_38"
+	},
+	"description": "União, em outras palavras, consolidação. É a arma que Ji Yu escolheu para Yu Lan, com tecnologia de ponta do Domínio 9. Não se surpreenda caso você testemunhe algo milagroso ao usá-la com o selo temporal.",
+	"icon": "item_Weapon_SSR_yulan_Ice01",
+	"gachaIcon": "SSR_lh_yulan",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "yulan",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "yulan_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Punho Demolidor",
+				"description": "No chão, use o botão de ataque normal para desferir 6 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **64.8%** do ATQ + **389** e repele o alvo.\r\nSegundo ataque: Causa dano de **50.4%** do ATQ + **302** e repele o alvo.\r\nTerceiro ataque: Causa dano de **52.8%** do ATQ + **317** e repele o alvo.\r\nQuarto ataque: Causa dano de **143.9%** do ATQ + **863** e repele o alvo.\r\nQuinto ataque: Causa dano de **279.2%** do ATQ + **1675** e repele continuamente o alvo.\r\nSexto ataque: Causa dano de **227.4%** do ATQ + **1364** e lança o alvo no ar.\r\n\r\nPunho Demolidor pode ser usado na forma **Artista Marcial** ou **Força Implacável**.\r\nApós usar qualquer ataque de esquiva na forma **Artista Marcial**, use o botão de ataque normal para acionar rapidamente o quarto ataque.\r\nApós acertar o quinto ataque na forma **Artista Marcial**, causa **congelamento forte** ao alvo durante **2** segundos (indisponível na Liga do Apogeu e contra chefes) e inflige **geladura**, causando dano de **280%** do ATQ + **1680** por segundo durante **8** segundos. Este efeito só pode ser acionado no mesmo alvo 1 vez a cada **8** segundos.",
+				"icon": "yulan_melee",
+				"id": "GA_FPlayerYulanMelee_Melee"
+			},
+			{
+				"name": "Punho Flutuante",
+				"description": "No ar, use o botão de ataque normal para atacar 6 vezes seguidas enquanto consome vigor.\r\nPrimeiro ataque: Causa dano de **68.4%** do ATQ + **410**.\r\nSegundo ataque: Causa dano de **59.9%** do ATQ + **359**.\r\nTerceiro ataque: Causa dano de **62.7%** do ATQ + **376**.\r\nQuarto ataque: Causa dano de **136.4%** do ATQ + **818**.\r\nQuinto ataque: Causa dano de **249%** do ATQ + **1494**.\r\nSexto ataque: Causa dano de **222.3%** do ATQ + **1334**.\r\n\r\nPunho Flutuante pode ser usado na forma **Artista Marcial** ou na forma **Força Implacável**.",
+				"icon": "yulan_airattack",
+				"id": "GA_FPlayerYulanMelee_AirAttack"
+			},
+			{
+				"name": "Andorinha Perfuradora",
+				"description": "Andorinha Perfuradora só pode ser usada na forma **Artista Marcial**.\r\nNo chão, segure o botão de ataque normal ao usar do primeiro ao terceiro ataque normal para acionar Andorinha Perfuradora.\r\nCausa dano de **62.8%** do ATQ + **377** e atrai os alvos próximos. Em seguida, causa dano de **146.6%** do ATQ + **880** e repele os alvos.\r\n\r\nDepois de usar **Pipa Celeste**, usar o ataque normal também pode acionar Andorinha Perfuradora.",
+				"icon": "yulan_branch1",
+				"id": "GA_FPlayerYulanMelee_MeleeBranch1"
+			},
+			{
+				"name": "Serpente Alada",
+				"description": "Serpente Alada só pode ser usada na forma **Artista Marcial**.\r\nNo chão, segure o botão de ataque normal ao usar do quarto ao quinto ataque normal para acionar Serpente Alada.\r\nCausa dano de **75.4%** do ATQ + **452** aos alvos próximos e os suspende.\r\n\r\nDepois de usar **Andorinha Perfuradora**, segurar o botão de ataque normal também pode acionar Serpente Alada.",
+				"icon": "yulan_branch2",
+				"id": "GA_FPlayerYulanMelee_MeleeBranch2"
+			},
+			{
+				"name": "Criofúria Ascendente",
+				"description": "No ar, segure o botão de ataque normal ao usar do primeiro ao sexto ataque normal para ativar Criofúria Ascendente.\r\nJogue sua arma no ar, causando dano de **329%** do ATQ + **1974** aos alvos próximos.\r\n\r\nCriofúria Ascendente pode ser usada na forma **Artista Marcial** ou **Força Implacável**.",
+				"icon": "yulan_branch4",
+				"id": "GA_FPlayerYulanMelee_AirAttackBranch"
+			},
+			{
+				"name": "Pipa Celeste",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Pipa Celeste.\r\nDespenca dos céus, causando dano de **148.6%** do ATQ + **892** aos alvos próximos ao aterrissar e os derrubando.\r\n\r\nPipa Celeste pode ser usada na forma **Artista Marcial** ou na forma **Força Implacável**.",
+				"icon": "yulan_jumpattack",
+				"id": "GA_FPlayerYulanMelee_JumpAttack"
+			},
+			{
+				"name": "Retorno às Raízes",
+				"description": "No chão, segure o botão de ataque normal para ativar o Retorno às Raízes.\r\nAtrai alvos próximos continuamente enquanto consome vigor, nesse período o Errante ganha corpo de aço.\r\n\r\nRetorno às Raízes pode ser usado na forma **Artista Marcial** ou **Força Implacável**.",
+				"icon": "yulan_branch3",
+				"id": "GA_FPlayerYulanMelee_MeleeBranch3"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduz a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.\r\n\r\nPode ser usado na forma **Artista Marcial** ou **Força Implacável**.\r\nApós esquivar-se na forma **Artista Marcial**, ganha corpo de aço durante **5** segundos.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerYulanEvade_Evade"
+			},
+			{
+				"name": "Façanha Impossível",
+				"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita para usar Façanha Impossível. Causa dano de **177.6%** do ATQ + **1066** aos alvos próximos.\r\n\r\nFaçanha Impossível pode ser usada na forma **Artista Marcial** ou **Força Implacável**.",
+				"icon": "yulan_evadeattackback",
+				"id": "GA_FPlayerYulanEvade_EvadeAttackBack"
+			},
+			{
+				"name": "Vendaval Implacável",
+				"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para usar Vendaval Implacável. Causa dano de **167.6%** do ATQ + **1006** aos alvos próximos.\r\n\r\nVendaval Implacável pode ser usado na forma **Artista Marcial** ou **Força Implacável**.",
+				"icon": "yulan_evadeattackfront",
+				"id": "GA_FPlayerYulanEvade_EvadeAttackFront"
+			}
+		],
+		"skill": [
+			{
+				"name": "Defensiva e ofensiva",
+				"description": "**União** possui 2 formas: **Artista Marcial** e **Força Implacável**. Ative até **1** delas na página de configurações de habilidades. Elas não podem ser trocadas durante o estado de combate.\r\n\r\nForma **Artista Marcial**: Durante o estado de combate, o multiplicador de ataque normal/ataque de esquiva de **União** aumenta em mais **40%**. Depois de usar o ataque de esquiva ou ataque normal de qualquer arma **3** vezes, recebe **1** de **força interior** (até **10**). Apenas **1** de **força interior** pode ser obtido a cada **2** segundos. Fora do estado de combate, toda a **força interior** será perdida.\r\n**Força Implacável**: Após **Observar e Reagir** atingir um alvo, entra no estado de **Antecipação** e recebe **1** de **espírito combatente** a cada **0,8** segundo (até **15**) durante **60** segundos. Fora do estado de combate, todo o **espírito combatente** será perdido.\r\n**Passiva: Calafrio**\r\nQuando **União** estiver equipada, ignora **15%** da resistência gélida dos alvos. Este efeito também funciona no espaço secundário.",
+				"icon": "yulan_passiveskill",
+				"id": "GA_FPlayerYulanSkill_PassiveSkill"
+			},
+			{
+				"name": "Fogo no Buraco",
+				"description": "Causa dano de **982.8%** do ATQ + **5896** ao alvo. Tempo de recarga: **15** seg.\r\nAo usar Fogo no Buraco, **União** consumirá até **5** de **força interior**. Ao consumir **1**/**2**/**3**/**4**/**5** de **força interior**, Fogo no Buraco causará **1,1**/**1,4**/**1,8**/**2,3**/**3** vezes o seu dano original, respectivamente.\r\nDepois de usar Fogo no Buraco, aumenta o dano gélido em **12%** durante **30** segundos.\r\nApós usar Fogo no Buraco, restaura **2** tentativas de esquiva.\r\n\r\nFogo no Buraco só pode ser usado na forma **Artista Marcial**.\r\nQuando **força interior** atingir **5**, zera o tempo de recarga de Fogo no Buraco.",
+				"icon": "yulan_skill",
+				"id": "GA_FPlayerYulanSkill_Skill1"
+			},
+			{
+				"name": "Embate de Armas",
+				"description": "Causa dano de **982.8%** do ATQ + **5896** ao alvo. Tempo de recarga: **15** seg.\r\nNo estado de **Antecipação**, **União** consome até **5** de **espírito combatente** ao usar qualquer habilidade de arma. Ao consumir **1**/**2**/**3**/**4**/**5** de **espírito combatente**, causa dano adicional de **169%**/**368%**/**619%**/**938%**/**1.350%** do ATQ e dano de **260%** do ATQ + **1560** por segundo durante **5** segundos aos alvos próximos.\r\nDepois de usar qualquer habilidade de arma gélida, recebe **2** segundos de corpo de aço.\r\n\r\nEmbate de Armas só pode ser usado na forma **Força Implacável**.",
+				"icon": "yulan_skill",
+				"id": "GA_FPlayerYulanSkill_Skill2"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Tigre das Neves",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você** ao trocar para esta arma, causa dano de até **1173.1%** do ATQ + **7038** aos alvos próximos e os **lança alto no ar**. Nesse período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).\r\n\r\nTigre das Neves só pode ser usado na forma de **Artista Marcial**.",
+				"icon": "yulan_changeskill",
+				"id": "GA_FPlayerYulanChangeSkill_ChangeSkill"
+			},
+			{
+				"name": "Observar e Reagir",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você** ao trocar para esta arma, causa dano de até **1173.1%** do ATQ + **7038** a alvos próximos e os **lança alto no ar**. Neste período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).\r\nApós Observar e Reagir atingir um alvo, aumenta o dano gélido em **12%** durante **30** segundos.\r\nApós Observar e Reagir atingir um alvo, entra no estado de **Antecipação** durante **60** segundos.\r\nApós usar uma habilidade de descarga da **União**, recebe **1.000** cargas de arma. Este efeito só pode ser acionado 1 vez a cada **10** segundos.\r\n\r\nObservar e Reagir só pode ser usado na forma **Força Implacável**.",
+				"icon": "yulan_changeskill",
+				"id": "GA_FPlayerYulanChangeSkill_ChangeSkill1"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância gélida**: Aumenta o ATQ gélido em **15%** e a resistência gélida em **25%**. Ativa-se ao equipar **2** ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com efeitos do mesmo tipo.\r\n**Quebra-gelo: Corte Ligeiro**: Com **União** equipada, acertar um golpe com qualquer habilidade de descarga causa aos alvos próximos dano inicial de **30%** do ATQ gélido + **0.4%** da vida máxima do Errante + **15%** da soma de todos os tipos de resistências do Errante + **55%** do crítico. A cada **0,5** segundo em combate, o dano do próximo Corte Ligeiro aumenta adicionalmente **1** vez, até o máximo de **30** vezes. Quando há o dano de vários Cortes Ligeiros juntos, o cálculo é feito sobre o valor inicial mais alto. O dano de Corte Ligeiro conta como dano de habilidade de descarga. Se houver **1** arma ígnea/física/elétrica de qualquer tipo equipada, o dano de Quebra-gelo aumenta **1.3** vezes. Além disso, o dano de Quebra-gelo não é afetado por efeitos de reforço de dano (a não ser de atributos raros de equipamentos Titânicos) e não aciona efeitos de ataque adicional.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "None"
+		},
+		{
+			"description": "Após consumir pelo menos **3** de **força interior** na forma de **Artista Marcial**, **União** restaura **1** de **força interior**. Depois disso, o seu dano final aumenta em **5%**, e o dano de ataque normal/ataque de esquiva da **União** aumenta em **50%** durante **30** segundos.\r\nApós consumir pelo menos **3** de **espírito combatente** na forma de **Força Implacável**, **União** restaura **1** de **espírito combatente**. Depois disso, o seu dano final aumenta em **5%** durante **15** segundos.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Na forma de **Artista Marcial**, se **força interior** não for obtido em até **5** segundos, a próxima obtenção de **força interior** vai conferir **2** acúmulos.\r\nQuando a **União** consumir pelo menos **3** de **força interior** ou de **espírito combatente** em qualquer forma, restaura **10%** da sua vida máxima. No jogo individual, a recuperação de vida aumenta para **20%**. O efeito é acionado apenas 1 vez a cada **8** segundos na forma de **Força Implacável**. Não há limites na forma de **Artista Marcial**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Após a **União** consumir **força interior** ou **espírito combatente**, o dano letal sofrido é anulado uma vez e o usuário recupera **20%** de sua vida máxima (indisponível na Liga do Apogeu). No jogo individual, a recuperação de vida aumenta para **40%**. Ambos os efeitos só podem ser acionados 1 vez a cada **60** segundos.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Na forma de **Artista Marcial**, o dano de ataque normal/ataque de esquiva da **União** aumenta em mais **70%**. Após consumir **força interior**, o seu dano final aumenta em **10%** por **30** segundos.\r\nNa forma de **Força Implacável**, após a **União** consumir **espírito combatente**, o seu dano final aumenta em **15%** durante **30** segundos.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		}
+	],
+	"id": "yulan_ice"
+}

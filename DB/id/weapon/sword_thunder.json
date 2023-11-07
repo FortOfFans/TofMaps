@@ -1,0 +1,90 @@
+{
+	"name": "EM Blade",
+	"description": "Proyek Omnium elektromagnetis paling awal. Pedangnya mudah digunakan, dan sangat populer di kalangan Wanderer yang tidak mahir bertarung.",
+	"icon": "item_Weapon_R_Sword_Thunder01",
+	"gachaIcon": "Weapon_R_Sword_Thunder01",
+	"rarity": "R",
+	"element": "Thunder",
+	"weaponType": "Sword",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 15,
+		"Item_Mine_thunder_02": 25,
+		"Item_breakthrough_B2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_thunder_03": 14,
+		"Item_breakthrough_B3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_B1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "sword_thunder_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Quick Slash",
+				"description": "Saat di darat, ayunkan pedang untuk menyerang 5 kali berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **34.6%** ATK plus **208** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **30.1%** ATK plus **181** dan membuat target terpental sedikit ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **27.4%** ATK plus **164** dan membuat target terpental sedikit ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **47.9%** ATK plus **287** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kelima: Menimpakan DMG sebesar **72.2%** ATK plus **433** dan buat target **terpental**.",
+				"icon": "skill_sword_melee",
+				"id": "GA_FPlayerSwordMelee_Melee_R"
+			},
+			{
+				"name": "Jumping Strike",
+				"description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 4 kali berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **15.7%** ATK plus **94**.\r\nSerangan Kedua: Menimpakan DMG sebesar **25.3%** ATK plus **152**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **45.1%** ATK plus **271**.\r\nSerangan Keempat: Menimpakan DMG sebesar **67.4%** ATK plus **404** dan **menjatuhkan** target.",
+				"icon": "skill_sword_air",
+				"id": "GA_FPlayerSwordMelee_AirAttack_R"
+			},
+			{
+				"name": "Cyclone",
+				"description": "Tahan dan tahan tombol Serangan Biasa setelah melakukan Serangan Biasa untuk mengaktifkan Cyclone.\r\nSaat menghantam target, membuat target tersebut terpental dan menimpakan DMG sebesar **22.3%** ATK plus **134** ke satu target.",
+				"icon": "skill_sword_branch",
+				"id": "GA_FPlayerSwordMelee_Branch_R"
+			},
+			{
+				"name": "Diving Edge",
+				"description": "Tekan dan tahan Serangan Biasa saat di udara atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Diving Edge.\r\nSaat turun, menimpakan DMG sebesar **6.4%** ATK plus **38** setiap kali menghantam target. Saat mendarat, menimpakan DMG sebesar **35.6%** ATK plus **214** pada target di sekitar dan membuat mereka terpental ke belakang.\r\nMakin tinggi posisi saat mengaktifkan serangan, makin besar pula DMG yang ditimpakan, maks **600%** DMG.",
+				"icon": "skill_sword_jump",
+				"id": "GA_FPlayerSwordMelee_JumpAttack_R"
+			},
+			{
+				"name": "Sneak Attack",
+				"description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk melakukan Sneak Attack yang menimpakan DMG sebesar **256.5%** ATK plus **1539**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSwordMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, yang akan memperlambat musuh dalam area tersebut. CD: 15 detik. Saat Menghindar, kamu akan menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSwordEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Roam",
+				"description": "Berkeliaran di sekitar target, menimbulkan total DMG sebesar **227.1%** ATK plus **1362** kepada maks **5** target, dan serangan yang terakhir mengenai akan mengakibatkan Suspend kepada target. Kebal terhadap Hitstun saat aktif. Mengurangi DMG yang ditimpakan kepada target yang sama sebesar **40%** setiap kalinya. CD **10** detik.",
+				"icon": "sword_skill1",
+				"id": "GA_FPlayerSwordSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Unbridled Flurry",
+				"description": "Saat **Charge Senjata penuh** atau **Phantasia** terpicu, setelah beralih ke senjata ini, **melenyapkan semua Debuff dari Wanderer**, lalu menerjang target dan membuat mereka **terpental keras** kepada mereka, menimpakan DMG sebesar **266.6%** ATK plus **1599**.",
+				"icon": "skill_sword_changeskill",
+				"id": "GA_FPlayerSwordChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 3.6,
+				"charge": 8.8
+			},
+			"need": "None"
+		}
+	],
+	"id": "sword_thunder"
+}

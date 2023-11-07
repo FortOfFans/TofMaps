@@ -1,0 +1,180 @@
+{
+	"name": "Negating Cube",
+	"avatar": {
+		"name": "Zero",
+		"advanceId": "imitation_1L1",
+		"weapon": "cube_fire",
+		"icon": "imitation_1",
+		"avatarID": "ling",
+		"age": "6 Juni",
+		"height": "155 cm",
+		"gender": "Laki-Laki",
+		"state": "Tak Diketahui",
+		"city": "Banges",
+		"rating": "wuwei_imitation_1",
+		"gp": [
+			"game",
+			"restrictedGoods"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 蔡海婷"
+			},
+			{
+				"Japanese": "CV : 村瀬 歩"
+			},
+			{
+				"English": "CV : Griffin Burns"
+			},
+			{
+				"Korean": "CV : 김나율"
+			},
+			{
+				"Portuguese": "CV : Henry Walnut"
+			}
+		],
+		"id": "imitation_1"
+	},
+	"description": "Tampaknya para pengguna Strange Cube selalu menemukan cara untuk meniadakan kondisi yang tidak perlu.",
+	"icon": "item_Weapon_SSR_Cube_Fire01",
+	"gachaIcon": "SSR_lh_mf",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Cube",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "cube_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Serangan Biasa",
+				"description": "Saat di darat, manipulasi Cube untuk menyerang 5 kali berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **56%** ATK plus **336**.\r\nSerangan Kedua: Menimpakan DMG sebesar **45.8%** ATK plus **275**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **142.2%** ATK plus **854**.\r\nSerangan Keempat: Menimpakan DMG sebesar **95.5%** ATK plus **574**.\r\nSerangan Kelima: Menimpakan DMG sebesar **97.1%** ATK plus **582** hingga 3 kali dan membuat target **Terpental Ke Atas**.\r\n**Pasif: Saat mendaratkan Serangan Biasa 6 kali, kamu mendapatkan 1 Cube. Bisa membawa hingga 5 Cube.**",
+				"icon": "pugong_cube",
+				"id": "GA_FPlayerCubeMelee_Melee"
+			},
+			{
+				"name": "Omnium Missile",
+				"description": "Saat di udara, gunakan Serangan Biasa untuk mengaktifkan energi di dalam Cube dan menembakkan maks **5** peluru, menimpakan DMG dengan total sebesar **71.2%** ATK plus **427**. Mengonsumsi hingga **250** Stamina.\r\n**Pasif: Jika Wanderer mempunyai Cube, semua Cube akan dipakai untuk menembakkan Omnium Missile ke arah target untuk menimpakan DMG.**",
+				"icon": "skill_cube_airattack",
+				"id": "GA_FPlayerCubeMelee_AirAttack"
+			},
+			{
+				"name": "Energy Overflow",
+				"description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk mengaktifkan Energy Overflow.\r\nSaat mendarat, menembakkan gelombang kejut yang bergerak ke depan, menimpakan DMG dengan total sebesar **28.1%** ATK + **168** kepada target di jalur serangannya.",
+				"icon": "skill_cube_jumpattack",
+				"id": "GA_FPlayerCubeMelee_JumpAttack"
+			},
+			{
+				"name": "Omnium Shock",
+				"description": "Pada Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Omnium Shock.\r\nSebuah pilar energi akan muncul dan membuat target di sekitar terpental ke atas, menimpakan DMG sebesar **82.1%** ATK plus **492**. Pilar itu aktif selama 5 detik dan menimpakan DMG sebesar **34.2%** ATK plus **205** pada target di sekitar tiap detik.",
+				"icon": "skill_cube_branch",
+				"id": "GA_FPlayerCubeMelee_Branch"
+			},
+			{
+				"name": "Energy Sentinel",
+				"description": "Cube yang mengitari Wanderer menimpakan DMG sebesar **11.6%** ATK plus **70** pada musuh.",
+				"icon": "skill_cube_melee",
+				"id": "SsrCubecubebattle"
+			},
+			{
+				"name": "Energy Missile",
+				"description": "Saat Wanderer menggunakan Omnium Missile dan Energy Overflow, Cube yang mengitarinya juga ikut ditembakkan, menimpakan DMG sebesar **48.5%** ATK plus **291** pada target.",
+				"icon": "skill_cube_pas",
+				"id": "SsrCubecube"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Soul Surge",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, yang memperlambat musuh dalam area dan menjadi kebal terhadap Hitstun selama **0,5** detik.\r\nJika Cube yang dimiliki Wanderer kurang dari **5**, setiap aksi menghindar yang berhasil dilakukan berpeluang **40%** untuk memulihkan 1 jatah menghindar.\r\nAksi menghindar yang berhasil dilakukan tidak akan memutus kombo Serangan Biasa.\r\n**Pasif: Setiap kali berhasil menghindar saat di udara, mendapatkan satu Cube.**",
+				"icon": "common_evade",
+				"id": "GA_FPlayerCubeEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Omnium Shield",
+				"description": "Menciptakan Perisai untuk diri sendiri dan kawan di sekitar yang akan menahan DMG hingga **800%** ATK selama **10** detik, dan menimpakan DMG sebesar **142.9%** ATK plus **857** serta membuat target di sekitar **Terpental Ke Atas**. Saat skill ini digunakan, setiap Cube yang dimiliki akan meningkatkan Perisai maks sebesar **160%** ATK dan melenyapkan Cube tersebut. CD: **60** detik.",
+				"icon": "cube_skill",
+				"id": "GA_FPlayerCubeSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Omnium Wave",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua debuff dari Wanderer**, dan pengguna akan mendapatkan **5** Cube, kemudian menembakkan **5** Cube tersebut sambil mengeluarkan gelombang Shockwave. Shockwave akan menimpakan DMG sebesar **171%** ATK plus **1026** kepada target di sekitar dan mengakibatkan mereka **Terpental Keras** ke udara. Setiap Cube juga akan menimpakan DMG sebesar **48.5%** ATK plus **291**. Jika ada teman di sekitar, kalian akan kebal terhadap DMG selama **3** detik.",
+				"icon": "skill_cube_changeskill",
+				"id": "GA_FPlayerCubeChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Flame Reaction**: Flame ATK meningkat **20%** dan Flame Resistance meningkat **40%**. Aktifkan dengan memakai **2** Senjata Flame atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Flame atau efek Flame Reaction lain, di mana Resonansi Flame akan diutamakan.\r\n**Flame Benediction**: Meningkatkan Flame ATK seluruh anggota tim sebesar **5%** saat Resonansi Benediction aktif.",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "None"
+		},
+		{
+			"description": "Menimpakan DMG dan menghasilkan Healing Orb yang akan ada selama **20** detik dan memulihkan HP rekan tim yang mengambilnya sebesar **60%** ATK. CD: **2** detik.",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		},
+		{
+			"description": "Mengurangi cooldown skill dari **60** detik menjadi **30** detik. Memulihkan HP sebesar **30%** ATK setiap detik selama perisai masih aktif.",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		},
+		{
+			"description": "Jika berhasil menimbulkan DMG pada musuh, Damage Orb juga akan dihasilkan, yang akan bertahan **20** detik dan meningkatkan semua Damage dan Healing untuk sembarang rekan tim yang mengambilnya sebesar **2%** selama **30** detik (bisa ditumpuk maks **10** kali). Skill cooldown **2,5** detik.",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		},
+		{
+			"description": "Dengan menggunakan Skill, teman akan mendapatkan Healing Orb dan Damage Orb sebesar jumlah Omnium Cube.",
+			"stats": {
+				"shatter": 5,
+				"charge": 13
+			},
+			"need": "cube_fire_plasm"
+		}
+	],
+	"id": "cube_fire"
+}

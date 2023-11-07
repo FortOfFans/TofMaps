@@ -1,0 +1,180 @@
+{
+	"name": "迅雷の双刃",
+	"avatar": {
+		"name": "クロウ",
+		"advanceId": "imitation_13L1",
+		"weapon": "digger_thunder",
+		"icon": "imitation_13",
+		"avatarID": "wuwan",
+		"age": "17 Desember",
+		"height": "162 cm",
+		"gender": "Laki-Laki",
+		"state": "記録なし",
+		"city": "アストラ島",
+		"rating": "wuwei_imitation_13",
+		"gp": [
+			"everydayObjects",
+			"garageKit",
+			"restrictedGoods"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 翟巍"
+			},
+			{
+				"Japanese": "CV : 岡本 信彦"
+			},
+			{
+				"English": "CV : Casey Mongillo"
+			},
+			{
+				"Korean": "CV : 김다올"
+			},
+			{
+				"Portuguese": "CV : Vagner Fagundes"
+			}
+		],
+		"id": "imitation_13"
+	},
+	"description": "ピエロの手品用ナイフのように、予測不能な動きで影のごとくつきまとい、音もなく命を奪う",
+	"icon": "item_Weapon_SSR_Ds_Thunder01",
+	"gachaIcon": "SSR_lh_jkxd",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "DoubleSword",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "digger_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "双剣通常攻撃",
+				"description": "地上にいる時、双剣を振るうと5回連続攻撃できる。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×**0%**+**1**のダメージと少しのノックバック\r\n2回目：攻撃力×**2%**+**3**のダメージと少しのノックバック\r\n3回目：攻撃力×**4%**+**5**のダメージと少しのノックバック\r\n4回目：攻撃力×**6%**+**7**のダメージと少しのノックバック\r\n5回目：攻撃力×**8%**+**9**のダメージと少しのノックバック",
+				"icon": "skill_ds_melee",
+				"id": "GA_FPlayerDsMelee_MeleeThu_SSR"
+			},
+			{
+				"name": "空中高速移動",
+				"description": "滞空時または1段ジャンプ使用後、通常攻撃を行うと空中で4回連続攻撃できる。ダメージは次の通り。\r\n1回目：攻撃力×**0%**+**1**\r\n2回目：攻撃力×**2%**+**3**\r\n3回目：攻撃力×**4%**+**5**\r\n4回目：攻撃力×**6%**+**7**",
+				"icon": "skill_ds_air",
+				"id": "GA_FPlayerDsMelee_AirAttackThu_SSR"
+			},
+			{
+				"name": "閃撃",
+				"description": "3回目の通常攻撃の後、通常攻撃を長押しすると閃撃を発動できる\r\n命中するとターゲットを**強制浮遊**させ、合計で攻撃力×**0%**+**1**のダメージを与える",
+				"icon": "skill_ds_frontattack",
+				"id": "GA_FPlayerDsMelee_BranchThu_SSR"
+			},
+			{
+				"name": "旋回刃",
+				"description": "滞空時に通常攻撃を長押し(敵の存在時)、またはクライミング時/反転ジャンプ攻撃時/ジェットパック使用時に通常攻撃を行うと、旋回刃を発動する。\r\n落下中、ターゲットに命中するごとに攻撃力×**44%**+**252**のダメージを与える。\r\n発動時に地面から距離が離れているほどダメージが大きくなる、最大で**600%**のダメージ。",
+				"icon": "skill_ds_jump",
+				"id": "GA_FPlayerDsMelee_JumpAttackThu_SSR_OS"
+			},
+			{
+				"name": "奇襲",
+				"description": "しゃがんだ状態で敵の背後に近づき、通常攻撃を行うと、奇襲を発動できる。双剣で刺突を繰り出し、ターゲットに攻撃力×**0%**+**1**のダメージを与える",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerDsMelee_SneakThu_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "飛刃",
+				"description": "前方回避(方向キー+回避ボタン)を発動してすぐに通常攻撃を行うと、飛刃を発動できる。\r\nターゲット1体に瞬斬を**5**回繰り出し、瞬斬1回ごとに攻撃力×**0%**+**1**のダメージを与える。瞬斬発動中は行動制限効果が無効になる。",
+				"icon": "skill_ds_branch",
+				"id": "GA_FPlayerDsEvade_FrontAttackThu_SSR"
+			},
+			{
+				"name": "回避",
+				"description": "ジャスト回避を成功させると幻想タイムを発動(クールダウン15秒)し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直無効、**0.5**秒間持続",
+				"icon": "common_evade",
+				"id": "GA_FPlayerDsEvade_EvadeThu_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "輪転飛刃",
+				"description": "周囲に**6**個の輪転飛刃を放つ。飛刃1個につき攻撃力×**52.8%**+**317**のダメージを与え、自身は最大**8**秒間持続する**不屈**効果を獲得する。放出された飛刃は滞留時間が長く、飛刃が自身に戻る時に不屈効果が外れる。クールダウン**45**秒",
+				"icon": "skill_ds_1",
+				"id": "GA_FPlayerDSSkillThu_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "回転飛刃",
+				"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。ターゲットの位置に瞬間移動して攻撃を放ち、攻撃力×**0%**+**1**のダメージを与える。さらにターゲットに電気ショックを追加する(**5**秒後に失ったHPの**15%**の雷ダメージを追加で与え、ダメージは探索者の攻撃力の**350%**を超えない。状態異常であるため、解除可能)とともに、飛刃を3本投げで探索者の周りを回転させ、ターゲットに触れるごとに攻撃力×**2%**+**3**のダメージを与える",
+				"icon": "skill_ds_changeskill",
+				"id": "GA_FPlayerDsChangeSkill_SuccessThu_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "ターゲットの背部に命中した時、双剣の全攻撃の会心率+**40%**。感電状態のターゲットへのバックスタブは会心率+**100%**、会心ダメージ+**30%**",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "digger_thunder_plasm"
+		},
+		{
+			"description": "現在の武器の攻撃力基本成長率+**16%**。",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "digger_thunder_plasm"
+		},
+		{
+			"description": "HPが**60%**未満のターゲットへのダメージ+**30%**",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "digger_thunder_plasm"
+		},
+		{
+			"description": "現在の武器のHP基本成長率+**32%**",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "digger_thunder_plasm"
+		},
+		{
+			"description": "バックブロー発動時、**4**秒間の会心確定状態を獲得し、会心ダメージも+**50%**、クールダウン**10**秒",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "digger_thunder_plasm"
+		},
+		{
+			"description": "スキル発動時、ターゲットの雷被ダメージ+**20%**。**20**秒間持続",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "digger_thunder_plasm"
+		}
+	],
+	"id": "digger_thunder"
+}

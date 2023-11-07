@@ -1,0 +1,14 @@
+{
+	"name": "Barbarossa",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "As duas cabeças costumam discutir para decidir quem vai abater a presa. Um pouquinho de lenha na fogueira e a briga vira física.",
+	"icon": "icon_matrix_SR5_512",
+	"gachaIcon": "icon_matrix_SR5_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Ganha **50%**/62,5%/75% de reflexão de dano durante **3** segundos ao trocar para a arma. Tempo de recarga: **30** seg. Ganha **20%**/25%/30% de reforço de dano durante **5** segundos ao trocar para outra arma. Tempo de recarga: **30** seg."
+		}
+	],
+	"id": "matrix_SR5_1"
+}

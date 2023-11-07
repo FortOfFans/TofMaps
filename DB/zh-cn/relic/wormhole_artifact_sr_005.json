@@ -1,0 +1,11 @@
+{
+	"name": "熔岩炸弹",
+	"type": "ITEM_TYPE_BREAK_FATE_ARTIFACT",
+	"description": "火啊，燃烧尽一切，照亮他们前行的道路吧。装备上熔岩炸弹后，可向指定区域抛射炸弹，引燃该区域内的可燃物。",
+	"source": "向前方抛出熔岩爆弹轰击目标，造成**0%***攻击力伤害，附带**强控击飞**，冷却**45**秒。",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_sr_005.png",
+	"shortIcon": "artifact_sr_005",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_014",
+	"id": "wormhole_artifact_sr_005"
+}

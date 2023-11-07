@@ -1,0 +1,173 @@
+{
+	"name": "Dual EM Stars",
+	"avatar": {
+		"name": "Samir",
+		"advanceId": "imitation_5L1",
+		"weapon": "dgun_thunder",
+		"icon": "imitation_5",
+		"avatarID": "saimier",
+		"age": "20 Mei",
+		"height": "171 cm",
+		"gender": "Perempuan",
+		"state": "Hykros",
+		"city": "Tak Diketahui",
+		"rating": "wuwei_imitation_5",
+		"gp": [
+			"game",
+			"toy"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐雅菁"
+			},
+			{
+				"Japanese": "CV : 水樹 奈々"
+			},
+			{
+				"English": "CV : Brittany Cox"
+			},
+			{
+				"Korean": "CV : 서유리"
+			},
+			{
+				"Portuguese": "CV : Fernanda Bullara"
+			}
+		],
+		"id": "imitation_5"
+	},
+	"description": "Pistol kembar ini dirancang menggunakan teknologi railgun dengan laras listrik dan harus digunakan secara sepasang.",
+	"icon": "item_Weapon_SSR_DGun_Thunder",
+	"gachaIcon": "SSR_lh_Sq",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "DoubleGun",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "dgun_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Dual Fire",
+				"description": "Saat di darat, tekan Serangan Biasa untuk menyerang 5 kali berturut-turut dengan kedua pistol.\r\nSerangan Pertama: Menimpakan DMG dengan total sebesar **56.5%** ATK plus **340**.\r\nSerangan Kedua: Menimpakan DMG dengan total sebesar **43%** ATK plus **258**.\r\nSerangan Ketiga: Menimpakan DMG dengan total sebesar **143.6%** ATK plus **862**.\r\nSerangan Keempat: Menimpakan DMG dengan total sebesar **135.7%** ATK plus **815**.\r\nSerangan Kelima: Menimpakan DMG dengan total sebesar **184.8%** ATK plus **1109** dan membuat target **Terpental Ke Atas**.",
+				"icon": "skill_dgun_melee",
+				"id": "GA_FPlayerDgunMeleeThu_Melee"
+			},
+			{
+				"name": "Bullet Rain",
+				"description": "Saat di udara, tekan Serangan Biasa untuk melancarkan tembakan beruntun ke tanah, menimpakan DMG sebesar **54.3%** ATK plus **365** DMG. Setiap serangan mengonsumsi **150** Stamina.",
+				"icon": "skill_dgun_airattack",
+				"id": "GA_FPlayerDgunMeleeThu_AirAttack"
+			},
+			{
+				"name": "Energy Burst",
+				"description": "Tahan tombol Serang untuk menembak secara terus-menerus. Setiap serangan menimpakan DMG dengan nilai awal sebesar **27.6%** ATK plus **166**.",
+				"icon": "skill_dgun_changeskill",
+				"id": "GA_FPlayerDgunMeleeThu_PowerAttack"
+			},
+			{
+				"name": "Phantom Kick",
+				"description": "Saat di udara, tahan Serangan Biasa untuk melancarkan Phantom Kick. Menjatuhkan target dan menimpakan DMG sebesar **84.6%** ATK plus **508**. Saat serangan ini kena, menimpakan DMG sebesar **118.4%** ATK plus **710** dan membuat target di sekitar **Terpental Ke Atas**.",
+				"icon": "skill_dgun_evadeattack",
+				"id": "GA_FPlayerDgunMeleeThu_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Rising Lightning Kick",
+				"description": "Tekan Serangan Biasa setelah Menghindar untuk mengakibatkan **Suspend Keras** kepada target dan menimpakan DMG sebesar **147.1%** ATK plus **883**.",
+				"icon": "skill_dgun_branch",
+				"id": "GA_FPlayeDgunEvadeThu_FrontAttack"
+			},
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Saat menghindar, kamu menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayeDgunEvadeThu_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Electro Field",
+				"description": "Menembakkan perisai energi ke lokasi target yang memantulkan peluru laser di dalamnya. Menimpakan DMG sebesar **323.8%** ATK plus **1943** dan serangan terakhirnya membuat target **Terpental Ke Atas**. CD: **45** detik.",
+				"icon": "skill_dgun",
+				"id": "GA_FPlayerDgunSkillThu"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Domain of Thunder",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer**, dan menciptakan Domain of Thunder di lokasi target, mengakibatkan target dalam jangkauan **Terpental Keras** dan menimpakan DMG dengan total sebesar **286%** ATK plus **1716** sebanyak 3 serangan sambil melenyapkan buff pada mereka. Domain ini aktif selama **3,5** detik dan menimpakan DMG sebesar **50.9%** ATK plus **305** kepada target setiap **0,5** detik.",
+				"icon": "skill_dgun_changeskill2",
+				"id": "GA_FPlayerDgunChangeSkillThu_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "None"
+		},
+		{
+			"description": "Mengaktifkan ledakan listrik pada target setelah mendaratkan Critical Hit sehingga menimbulkan DMG tambahan sebesar **30%** ATK kepada target dan musuh di dekatnya. CD: **0,2** detik.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Meningkatkan Crit Rate sebesar **40%** kepada target yang terkena Electrify. Ledakan elektrik akan memperpanjang durasi efek Electrify selama **0,5** detik, maks **5** detik.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Menggandakan durasi Electro Field dan menarik target ke tengah serangan.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Mengaktifkan ledakan elektrik akan mengurangi CD Skill sebesar **1** detik.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		}
+	],
+	"id": "dgun_thunder"
+}

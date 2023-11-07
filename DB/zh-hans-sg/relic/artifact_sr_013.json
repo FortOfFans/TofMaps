@@ -1,0 +1,11 @@
+{
+	"name": "奇点魔方",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "也许这就是魔法的力量吧。使用奇点魔方后，可将你选中的目标悬空并击飞。",
+	"source": "对周围目标造成**0%***攻击力伤害并附带**5**秒**强控眩晕**效果；可锁定产自班吉斯重工的蓝色原能物质**10**秒。时空锁定时间内，目标受击会蓄积能量，结束时朝受力方向飞出去，并对碰撞目标造成**0%***攻击力伤害，冷却**30**秒。",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_sr_012.png",
+	"shortIcon": "artifact_sr_012",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_033",
+	"id": "artifact_sr_013"
+}

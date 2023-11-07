@@ -1,0 +1,11 @@
+{
+	"name": "原能护盾",
+	"type": "ITEM_TYPE_BREAK_FATE_ARTIFACT",
+	"description": "你想当电影的主角吗？当你受到子弹攻击的时候想抬起手就能阻挡所有子弹吗？那就选择原能护盾吧，它拥有着坚实的原能屏障，可持续阻挡子弹的攻击，让你拥有电影主角的能力。",
+	"source": "竖起一道原能护盾，持续**10**秒，可阻挡子弹穿透。护盾有**200%***拓荒者最大生命值的能量值，冷却**90**秒。",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_002.png",
+	"shortIcon": "artifact_ssr_002",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_029",
+	"id": "wormhole_artifact_ssr_002"
+}

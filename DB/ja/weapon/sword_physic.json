@@ -1,0 +1,181 @@
+{
+	"name": "紅蓮刀",
+	"avatar": {
+		"name": "クローディア",
+		"advanceId": "imitation_12L1",
+		"weapon": "sword_physic",
+		"icon": "imitation_12",
+		"avatarID": "kelaodiya",
+		"age": "16 Januari",
+		"height": "170 cm",
+		"gender": "Perempuan",
+		"state": "ハガード",
+		"city": "ハガード",
+		"rating": "wuwei_imitation_12",
+		"gp": [
+			"everydayObjects",
+			"Rarity",
+			"decorate"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 贺文潇"
+			},
+			{
+				"Japanese": "CV : 小松 未可子"
+			},
+			{
+				"English": "CV : Elizabeth Simmons"
+			},
+			{
+				"Korean": "CV : 성예원"
+			},
+			{
+				"Portuguese": "CV : Thaís Durães"
+			}
+		],
+		"id": "imitation_12"
+	},
+	"description": "刀の刃は正義の執行者。紅蓮の刀身は勇気と決意の表れ",
+	"icon": "item_Weapon_SR_Sword_Fire01",
+	"gachaIcon": "SSR_lh_hlr",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Sword",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "sword_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "短剣通常攻撃",
+				"description": "地上にいる時、短剣を使うと5回連続攻撃できる。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×**62.2%**+**373**のダメージと少しのノックバック\r\n2回目：攻撃力×**87%**+**523**のダメージと少しのノックバック\r\n3回目：攻撃力×**78.8%**+**473**のダメージと少しのノックバック\r\n4回目：攻撃力×**138.3%**+**831**のダメージと少しのノックバック\r\n5回目：攻撃力×**236.3%**+**1418**のダメージと**ノックアップ**",
+				"icon": "skill_sword_melee",
+				"id": "GA_FPlayerSwordMelee_Melee_SSR"
+			},
+			{
+				"name": "飛撃",
+				"description": "滞空時、通常攻撃を行うと空中で4回連続攻撃できる。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×**37.1%**+**222**のダメージ\r\n2回目：攻撃力×**64.4%**+**385**のダメージ\r\n3回目：攻撃力×**152.3%**+**914**のダメージ\r\n4回目：攻撃力×**184.7%**+**1108**のダメージと**強制ノックダウン**",
+				"icon": "skill_sword_air",
+				"id": "GA_FPlayerSwordMelee_AirAttack_SSR"
+			},
+			{
+				"name": "サイクロン",
+				"description": "通常攻撃後に攻撃ボタンを長押しするとサイクロンを発動できる。\r\n命中するとターゲットが浮遊し、1体のターゲットに攻撃力×**50.2%**+**301**のダメージを与える。",
+				"icon": "skill_sword_branch",
+				"id": "GA_FPlayerSwordMelee_Branch_SSR"
+			},
+			{
+				"name": "風落斬",
+				"description": "滞空時に通常攻撃を長押し、またはクライミング時、反転ジャンプ攻撃時、ジェットパック使用時に通常攻撃をすると、風落斬を発動する。\r\n落下中、ターゲットに命中するごとに攻撃力×**10.5%**+**63**のダメージを与える。着地時に周囲のターゲットに攻撃力×**80.2%**+**481**のダメージを与え、ターゲットをノックバックする。\r\n発動時に地面から距離が離れているほどダメージが大きくなる。最大で**600%**のダメージを与える。",
+				"icon": "skill_sword_jump",
+				"id": "GA_FPlayerSwordMelee_JumpAttack_SSR"
+			},
+			{
+				"name": "奇襲",
+				"description": "しゃがんだ状態で敵の背後に近づき、通常攻撃を行うと、奇襲を発動できる。短剣を突き出し、ターゲットに攻撃力×**570%**+**3420**のダメージを与える",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSwordMelee_Sneak_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "回避",
+				"description": "ジャスト回避を成功させると幻想タイムを発動(クールダウン15秒)し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直無効、**0.5**秒間持続",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSwordEvade_Evade_SSR"
+			},
+			{
+				"name": "飛身の一撃",
+				"description": "回避後すぐに通常攻撃を行うと、飛身の一撃を発動できる\r\n探索者が前方に刀を振りかざしてダッシュし、ターゲットに攻撃力×**39.8%**+**238**のダメージを与える。ターゲットを**強制浮遊**させるとともに自身を滞空させ、さらにターゲットに攻撃力×**59.6%**+**358**のダメージを与える",
+				"icon": "skill_sword_backattck",
+				"id": "GA_FPlayerSwordEvade_BackAttack_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "高速移動",
+				"description": "短剣を使ってターゲット間を高速移動し、最大で**5**体のターゲットに合計で攻撃力×**418%**+**2508**のダメージを与える。発動期間中は行動制限無効かつ被ダメージ-**50%**、同一ターゲットに与えるダメージは一撃ごとに-**20%**。高速移動終了後、前方空間を斬撃して攻撃力×**264%**+**1584**の範囲ダメージを与え、ターゲットを浮遊させる。クールダウン**15**秒",
+				"icon": "sword_skill1",
+				"id": "GA_FPlayerSwordSkill_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "剣気縦横",
+				"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**し、ターゲットに突撃するとともに**強制浮遊**させ、攻撃力×**523.3%**+**3140**のダメージを与える。さらに刃の嵐を残して、ターゲットに攻撃力×**209.6%**+**1257**のダメージを与える。自身は重傷/凍結/燃焼/感電を無効化、**5**秒間持続",
+				"icon": "skill_sword_changeskill",
+				"id": "GA_FPlayerSwordChangeSkill_Success_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**物理共鳴**：物理属性武器を**2**つ以上装備すると発動。物理攻撃力+**15%**、物理耐性+**25%**。装備すると常時有効、同系統の効果はスタック不可",
+			"stats": {
+				"shatter": 7.5,
+				"charge": 12
+			},
+			"need": "None"
+		},
+		{
+			"description": "スキルまたは連携スキルがターゲットに命中するたびに、1スタックの「ダメージ UP」効果を獲得する。1スタックにつきダメージ+**8%**、**25**秒間持続。最大**3**スタックまで可能(スキルまたは連携スキルを発動するたびに1スタック追加)",
+			"stats": {
+				"shatter": 7.5,
+				"charge": 12
+			},
+			"need": "sword_physic_plasm"
+		},
+		{
+			"description": "現在の武器の攻撃力基本成長率+**16%**。",
+			"stats": {
+				"shatter": 7.5,
+				"charge": 12
+			},
+			"need": "sword_physic_plasm"
+		},
+		{
+			"description": "スキルまたは連携スキルがターゲットに命中すると、ターゲットに「バトルダメージ」効果を与える。物理被ダメージと受ける物理属性武器シールドブレイク率+**0%**。**1**秒間持続、最大**1**スタックまで",
+			"stats": {
+				"shatter": 8.2,
+				"charge": 12
+			},
+			"need": "sword_physic_plasm"
+		},
+		{
+			"description": "現在の武器のHP基本成長率+**32%**",
+			"stats": {
+				"shatter": 8.2,
+				"charge": 12
+			},
+			"need": "sword_physic_plasm"
+		},
+		{
+			"description": "スキルまたは連携スキルがターゲットに命中すると「スキルダメージ UP」を獲得し、全武器のスキルダメージ+**0%**。**1**秒間持続、スタック不可",
+			"stats": {
+				"shatter": 8.2,
+				"charge": 12
+			},
+			"need": "sword_physic_plasm"
+		},
+		{
+			"description": "スキルが同じターゲットに命中してもダメージが減少しなくなる。紅蓮刀スキルまたは連携スキルを使用すると、「バトルダメージ」効果が存在する8メートル以内の敵ターゲットにさらにこの効果を**1**スタック追加する",
+			"stats": {
+				"shatter": 8.2,
+				"charge": 12
+			},
+			"need": "sword_physic_plasm"
+		}
+	],
+	"id": "sword_physic"
+}

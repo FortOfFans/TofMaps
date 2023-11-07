@@ -1,0 +1,11 @@
+{
+	"name": "Spacetime Rift",
+	"type": "ITEM_TYPE_BREAK_FATE_ARTIFACT",
+	"description": "Iri dengan kemampuan orang lain untuk menghentikan waktu? Aktifkan Dimensional Collapse dengan Spacetime Rift dan jadilah penguasa waktu, menarik target terdekat.",
+	"source": "Melontarkan bom proton ke lokasi target yang akan menghasilkan retakan ruang-waktu dan menarik target ke dalamnya selama **10** detik. Setelah 1,5 detik, pusat retakan akan menimpakan DMG sebesar **0%** ATK kepada target yang terperangkap di dalam area itu setiap **0,5** detik. CD: **100** detik.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_005.png",
+	"shortIcon": "artifact_ssr_005",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_026",
+	"id": "wormhole_artifact_ssr_005"
+}

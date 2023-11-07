@@ -1,0 +1,11 @@
+{
+	"name": "Speedwalker",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "Berlari secepat angin.",
+	"source": "Speedwalker bisa digunakan untuk memasuki mode Zephyr yang memungkinkanmu bergerak bebas di dinding dan melompat pendek selama **15** detik. CD: **90** detik. Speedwalker hanya bisa digunakan di Domain 9.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_019.png",
+	"shortIcon": "artifact_ssr_019",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_043",
+	"id": "artifact_ssr_019"
+}

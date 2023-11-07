@@ -1,0 +1,11 @@
+{
+	"name": "ระเบิดแสง",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "ระเบิดแสง",
+	"source": "ปาระเบิดแสงไปข้างหน้า เมื่อตกถึงพื้นจะมีผลกระทบต่อพวกเดียวกันและศัตรูในพื้นที่เอฟเฟกต์ เป็นเวลา **5** วินาที คุณและพวกสามารถหลบเอฟเฟกต์ได้เมื่อหันหลังให้",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_n_003.png",
+	"shortIcon": "artifact_n_003",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_007",
+	"id": "artifact_sr_018"
+}

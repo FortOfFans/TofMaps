@@ -1,0 +1,217 @@
+{
+	"name": "Unity",
+	"avatar": {
+		"name": "Yu Lan",
+		"advanceId": "imitation_38L1",
+		"weapon": "yulan_ice",
+		"icon": "imitation_38",
+		"avatarID": "yulan",
+		"age": "9 Februari",
+		"height": "175cm",
+		"gender": "Perempuan",
+		"state": "Penjaga Sundial",
+		"city": "Domain 9",
+		"rating": "wuwei_imitation_38",
+		"gp": [
+			"everydayObjects",
+			"collection",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 秦文静"
+			},
+			{
+				"Japanese": "CV : 柚木 涼香"
+			},
+			{
+				"English": "CV : Brianna Knickerbocker"
+			},
+			{
+				"Korean": "CV : 김윤채"
+			},
+			{
+				"Portuguese": "CV : LUIZA PORTO"
+			}
+		],
+		"id": "imitation_38"
+	},
+	"description": "Unity artinya adalah persatuan. Ini adalah senjata yang dipilih sendiri oleh Ji Yu untuk Yu Lan, yang memiliki teknologi terbaru dari Domain 9. Jangan kaget jika kamu menyaksikan hal-hal ajaib setelah menggunakannya dengan Timestamp.",
+	"icon": "item_Weapon_SSR_yulan_Ice01",
+	"gachaIcon": "SSR_lh_yulan",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "yulan",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "yulan_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Pukulan Beruntun",
+				"description": "Saat di darat, gunakan Serangan Biasa untuk melancarkan 6 serangan berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **64.8%** ATK plus **389** dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **50.4%** ATK plus **302** dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **52.8%** ATK plus **317** dan membuat target terpental ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **143.9%** ATK plus **863** dan membuat target terpental ke belakang.\r\nSerangan Kelima: Menimpakan DMG sebesar **279.2%** ATK plus **1675** dan membuat target terus-menerus terpental ke belakang.\r\nSerangan Keenam: Menimpakan DMG sebesar **227.4%** ATK plus **1364** dan membuat target terpental ke atas.\r\n\r\nBattering Fist bisa digunakan dalam wujud **Martial Artist** maupun **Sweeping Force**.\r\nSaat dalam wujud **Martial Artist**, gunakan Serangan Biasa setelah melancarkan serangan menghindar untuk langsung melakukan Serangan Keempat.\r\nSaat dalam wujud **Martial Artist**, jika Serangan Kelima berhasil mengenai target, serangan akan **membekukan** target selama **2** detik (tidak berlaku di Apex League dan saat melawan Boss) serta menerapkan **Chilblain**, menimpakan DMG sebesar **280%** ATK plus **1680** setiap detik selama **8** detik. Efek ini hanya bisa terpicu pada target yang sama 1 kali setiap **8** detik.",
+				"icon": "yulan_melee",
+				"id": "GA_FPlayerYulanMelee_Melee"
+			},
+			{
+				"name": "Floating Fist",
+				"description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 6 kali berturut-turut sambil mengonsumsi Stamina.\r\nSerangan Pertama: Menimpakan DMG sebesar **68.4%** ATK plus **410**.\r\nSerangan Kedua: Menimpakan DMG sebesar **59.9%** ATK plus **359**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **62.7%** ATK plus **376**.\r\nSerangan Keempat: Menimpakan DMG sebesar **136.4%** ATK plus **818**.\r\nSerangan Kelima: Menimpakan DMG sebesar **249%** ATK plus **1494**.\r\nSerangan Keenam: Menimpakan DMG sebesar **222.3%** ATK plus **1334**.\r\n\r\nFloating Fist bisa digunakan dalam wujud **Martial Artist** maupun **Sweeping Force**.",
+				"icon": "yulan_airattack",
+				"id": "GA_FPlayerYulanMelee_AirAttack"
+			},
+			{
+				"name": "Forest-Piercing Swallow",
+				"description": "Forest-Piercing Swallow hanya dapat digunakan dalam wujud **Martial Artist**.\r\nSaat di darat, tahan Serangan Biasa saat melancarkan Serangan Biasa pertama hingga ketiga untuk memicu Forest-Piercing Swallow.\r\nMenimpakan DMG sebesar **62.8%** ATK plus **377** dan menarik target di sekitar. Lalu, menimpakan DMG sebesar **146.6%** ATK plus **880** dan membuat target terpental ke belakang.\r\n\r\nForest-Piercing Swallow juga bisa dipicu dengan cara menggunakan Serangan Biasa setelah melancarkan **Cloud-Soaring Kite**.",
+				"icon": "yulan_branch1",
+				"id": "GA_FPlayerYulanMelee_MeleeBranch1"
+			},
+			{
+				"name": "Sky-Dancing Snake",
+				"description": "Sky-Dancing Snake hanya dapat digunakan dalam wujud **Martial Artist**.\r\nSaat di darat, tahan Serangan Biasa saat melancarkan Serangan Biasa keempat hingga kelima untuk memicu Sky-Dancing Snake.\r\nMenimpakan DMG sebesar **75.4%** ATK plus **452** pada target di sekitar dan membuat mereka terpental ke atas.\r\n\r\nSky-Dancing Snake juga bisa dipicu dengan cara menekan dan menahan tombol Serangan Biasa setelah melancarkan **Forest-Piercing Swallow**.",
+				"icon": "yulan_branch2",
+				"id": "GA_FPlayerYulanMelee_MeleeBranch2"
+			},
+			{
+				"name": "Frost High & Low",
+				"description": "Saat di udara, tahan Serangan Biasa saat menggunakan Serangan Biasa pertama hingga keenam untuk memicu Frost High & Low.\r\nMelemparkan senjatamu ke udara, menimpakan DMG sebesar **329%** ATK plus **1974** kepada target di sekitar.\r\n\r\nFrost High & Low bisa dilancarkan dalam wujud **Martial Artist** maupun **Sweeping Force**.",
+				"icon": "yulan_branch4",
+				"id": "GA_FPlayerYulanMelee_AirAttackBranch"
+			},
+			{
+				"name": "Cloud-Soaring Kite",
+				"description": "Tekan dan tahan Serangan Biasa saat di udara (tekan saat ada musuh yang ditarget), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Cloud-Soaring Kite.\r\nMelakukan serangan menukik dari atas dan menimpakan DMG sebesar **148.6%** ATK plus **892** pada target di sekitar saat mendarat dan menjatuhkan mereka.\r\n\r\nCloud-Soaring Kite bisa dilancarkan dalam wujud **Martial Artist** maupun **Sweeping Force**.",
+				"icon": "yulan_jumpattack",
+				"id": "GA_FPlayerYulanMelee_JumpAttack"
+			},
+			{
+				"name": "Total Rewind",
+				"description": "Saat di darat, tahan Serangan Biasa untuk memicu Total Rewind.\r\nMenarik target di sekitar secara terus-menerus sambil mengonsumsi Stamina. Selama periode ini, Wanderer mendapatkan Hyperbody.\r\n\r\nTotal Rewind bisa dilancarkan dalam wujud **Martial Artist** maupun **Sweeping Force**.",
+				"icon": "yulan_branch3",
+				"id": "GA_FPlayerYulanMelee_MeleeBranch3"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD target di dalam area tersebut. Saat menghindar, kamu menjadi kebal terhadap Hitstun.\r\n\r\nBisa digunakan dalam wujud **Martial Artist** maupun **Sweeping Force**.\r\nSaat dalam wujud **Martial Artist**, mendapatkan Hyperbody selama **5** detik setelah menghindar.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerYulanEvade_Evade"
+			},
+			{
+				"name": "Impossible Feat",
+				"description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah menghindar untuk memicu Impossible Feat, menimpakan DMG sebesar **177.6%** ATK plus **1066** pada target di sekitar.\r\n\r\nImpossible Feat bisa dilancarkan saat dalam wujud **Martial Artist** maupun **Sweeping Force**.",
+				"icon": "yulan_evadeattackback",
+				"id": "GA_FPlayerYulanEvade_EvadeAttackBack"
+			},
+			{
+				"name": "Sweeping Cloud",
+				"description": "Gunakan Serangan Biasa dalam rentang waktu Menghindar Sempurna yang singkat (tekan tombol panah sebelum menghindar) untuk memicu Sweeping Clouds, menimpakan DMG sebesar **167.6%** ATK plus **1006** pada target di sekitar.\r\n\r\nSweeping Clouds bisa digunakan saat dalam wujud **Martial Artist** maupun **Sweeping Force**.",
+				"icon": "yulan_evadeattackfront",
+				"id": "GA_FPlayerYulanEvade_EvadeAttackFront"
+			}
+		],
+		"skill": [
+			{
+				"name": "Offense & Defense",
+				"description": "**Unity** mempunyai 2 wujud: **Martial Artist** dan **Sweeping Force**. Aktifkan **1** wujud senjatanya melalui halaman Skill - Pengaturan. Wujud senjata tidak bisa diubah saat sedang bertempur.\r\n\r\nWujud **Martial Artist**: Saat bertempur, pengganda serangan dodge/serangan biasa **Unity** meningkat **40%**. Setelah menggunakan serangan dodge atau serangan biasa dengan senjata apa pun sebanyak **3** kali, mendapatkan **1** **Internal Strength** (maks **10**). Hanya **1** **Internal Strength** yang bisa diperoleh setiap **2** detik. Saat tidak sedang bertempur, semua **Internal Strength** akan direset menjadi nol.\r\nWujud **Sweeping Force**: Setelah menghantam target dengan **Observe & React**, memasuki kondisi **Anticipate** dan mendapatkan **1** **Fighting Spirit** setiap **0,8** detik (maks **15**) selama **60** detik. Saat tidak sedang bertempur, semua **Fighting Spirit** akan direset menjadi nol.\r\n**Pasif: Chill**\r\nSaat memakai **Unity**, mengabaikan **15%** Frost Resistance target. Efek ini juga aktif saat senjata ini ada di slot sampingan.",
+				"icon": "yulan_passiveskill",
+				"id": "GA_FPlayerYulanSkill_PassiveSkill"
+			},
+			{
+				"name": "Fire In The Hole",
+				"description": "Menimpakan DMG sebesar **982.8%** ATK plus **5896** pada target. CD: **15** detik.\r\nSaat menggunakan Fire In The Hole, **Unity** akan mengonsumsi hingga **5** **Internal Strength**. Saat mengonsumsi **1**/**2**/**3**/**4**/**5** **Internal Strength**, Fire In The Hole akan menimpakan DMG sebesar **1,1**/**1,4**/**1,8**/**2,3**/**3** kali lipat dari DMG awalnya.\r\nSetelah menggunakan Fire In The Hole, Frost DMG meningkat **12%** selama **30** detik.\r\nSetelah menggunakan Fire In The Hole, **2** jatah menghindar akan dipulihkan.\r\n\r\nFire In The Hole hanya bisa dilancarkan saat dalam wujud **Martial Artist**.\r\nSaat **Internal Strength** mencapai **5**, CD Fire In The Hole akan direset.",
+				"icon": "yulan_skill",
+				"id": "GA_FPlayerYulanSkill_Skill1"
+			},
+			{
+				"name": "Clashing Of Arms",
+				"description": "Menimpakan DMG sebesar **982.8%** ATK plus **5896** pada target. CD: **15** detik.\r\nSelama dalam status **Anticipate**, **Unity** mengonsumsi maks **5** **Fighting Spirit** setelah menggunakan skill senjata apa pun. Saat mengonsumsi **1**/**2**/**3**/**4**/**5** **Fighting Spirit**, menimpakan DMG area tambahan sebesar **169%**/**368%**/**619%**/**938%**/**1.350%** ATK pada target di sekitar, dan menimpakan DMG sebesar **260%** ATK plus **1560** setiap detik selama **5** detik.\r\nSetelah menggunakan skill Senjata Frost apa pun, mendapatkan Hyperbody selama **2** detik.\r\n\r\nClashing Of Arms hanya bisa dilancarkan saat dalam wujud **Sweeping Force**.",
+				"icon": "yulan_skill",
+				"id": "GA_FPlayerYulanSkill_Skill2"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Snow-Treading Tiger",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke Senjata ini akan **melenyapkan semua Debuff dari Wanderer**, menimpakan DMG sebesar maks **1173.1%** ATK plus **7038** kepada target di sekitar dan membuat mereka **Terpental Ke Atas**. Saat diaktifkan, menjadi kebal terhadap DMG selama **1,5** detik (tak berlaku di Apex League).\r\n\r\nSnow-Treading Tiger hanya bisa dilancarkan saat dalam wujud **Martial Artist**.",
+				"icon": "yulan_changeskill",
+				"id": "GA_FPlayerYulanChangeSkill_ChangeSkill"
+			},
+			{
+				"name": "Observe & React",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer**, menimpakan DMG hingga maks **1173.1%** ATK plus **7038** pada target di sekitar, dan membuat target **Terpental Ke Atas**. Saat ini diaktifkan, kebal terhadap DMG selama **1,5** detik (tak berlaku di Apex League).\r\nSetelah Observe & React menghantam target, Frost DMG meningkat **12%** selama **30** detik.\r\nSetelah Observe & React menghantam target, memasuki status **Anticipate** selama **60** detik.\r\nSetelah menggunakan **Unity** untuk melancarkan Skill Discharge, mendapatkan **1.000** Charge Senjata. Efek ini hanya bisa terpicu 1 kali setiap **10** detik.\r\n\r\nObserve & React hanya bisa dilancarkan saat dalam wujud **Sweeping Force**.",
+				"icon": "yulan_changeskill",
+				"id": "GA_FPlayerYulanChangeSkill_ChangeSkill1"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonansi Frost**: Frost ATK meningkat **15%** dan Frost Resistance meningkat **25%**. Aktifkan dengan memakai **2** Senjata Frost atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek yang tipenya sama.\r\n**Icecrush: Swift Cut**: Saat menggunakan **Unity**, setelah mendaratkan serangan dengan Skill Discharge Senjata apa pun, menimpakan DMG awal ke target di sekitar sebesar **30%** Frost ATK plus **0.4%** Max HP Wanderer plus **15%** dari total semua tipe Resistance Wanderer plus **55%** Crit. Selama dalam pertempuran, setiap **0,5** detik, DMG Swift Cut berikutnya akan bertambah **1** kali lipat, maks **30** kali lipat. Saat ada beberapa nilai DMG Swift Cut, nilai awal tertinggilah yang akan dihitung. DMG Swift Cut dianggap sebagai DMG Skill Discharge. Jika ada **1** Senjata Volt/Physical/Flame yang digunakan, DMG Icecrush akan bertambah **1.3** kali lipat. DMG Icecrush tidak terpengaruh oleh peningkatan DMG, kecuali untuk Stat Langka dari Equipment Titan, dan tidak akan memicu efek serangan tambahan.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "None"
+		},
+		{
+			"description": "Saat dalam wujud **Martial Artist**, setelah mengonsumsi **3** **Internal Strength** atau lebih, **Unity** memulihkan **1** **Internal Strength**. Lalu, Final DMG Wanderer meningkat **5%**, dan DMG Serangan Menghindar/Serangan Biasa **Unity** meningkat **50%** selama **30** detik.\r\nSaat dalam wujud **Sweeping Force**, setelah mengonsumsi **3** **Fighting Spirit** atau lebih, **Unity** memulihkan **1** **Fighting Spirit**. Lalu, Final DMG Wanderer meningkat **5%** selama **15** detik.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Saat dalam wujud **Martial Artist**, jika **Internal Strength** tidak diperoleh dalam **5** detik, akan mendapatkan **2** **Internal Strength** pada perolehan berikutnya.\r\nDalam wujud apa pun, saat **Unity** mengonsumsi **3** **Internal Strength** atau **Fighting Spirit** atau lebih, memulihkan **10%** Max HP Wanderer. Dalam permainan solo, pemulihan HP meningkat menjadi **20%**. Efek ini hanya bisa dipicu 1 kali setiap **8** detik dalam wujud **Sweeping Force**. Dalam wujud **Martial Artist**, batasan ini tidak berlaku.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Setelah **Unity** mengonsumsi **Internal Strength** atau **Fighting Spirit**, saat menerima DMG mematikan, menahan DMG mematikan 1 kali dan memulihkan **20%** Max HP Wanderer (Tak berlaku di Apex League). Dalam permainan solo, pemulihan HP meningkat menjadi **40%**. Kedua efek ini hanya bisa dipicu 1 kali setiap **60** detik.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		},
+		{
+			"description": "Saat dalam wujud **Martial Artist**, Serangan Dodge/Serangan Biasa **Unity** meningkat **70%**. Setelah mengonsumsi **Internal Strength**, Final DMG Wanderer meningkat **10%** selama **30** detik.\r\nSaat dalam wujud **Sweeping Force**, setelah **Unity** mengonsumsi **Fighting Spirit**, Final DMG Wanderer meningkat **15%** selama **30** detik.",
+			"stats": {
+				"shatter": 13,
+				"charge": 11
+			},
+			"need": "yulan_ice_plasm"
+		}
+	],
+	"id": "yulan_ice"
+}

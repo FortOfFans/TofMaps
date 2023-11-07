@@ -1,0 +1,11 @@
+{
+	"name": "Magnetic Pulse",
+	"type": "ITEM_TYPE_BREAK_FATE_ARTIFACT",
+	"description": "Halo. Harap jaga jarak.",
+	"source": "Meledakkan Magnetic Bomb, menimbulkan Volt DMG sebesar **0%** ATK dan mengakibatkan **Launch Keras** pada target. Penggunanya menjadi kebal terhadap Hitstun selama **5** detik. CD: **35** detik.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_r_002.png",
+	"shortIcon": "artifact_r_002",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_007",
+	"id": "wormhole_artifact_sr_015"
+}

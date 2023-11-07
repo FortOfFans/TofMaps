@@ -1,0 +1,187 @@
+{
+	"name": "Heartstream",
+	"avatar": {
+		"name": "Saki Fuwa",
+		"advanceId": "imitation_22L1",
+		"weapon": "dkatana_ice",
+		"icon": "imitation_22",
+		"avatarID": "bupoxiao",
+		"age": "11 Oktober",
+		"height": "157 cm",
+		"gender": "Perempuan",
+		"state": "Pasukan Keamanan Khusus Mirroria",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_22",
+		"gp": [
+			"metal",
+			"everydayObjects",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐小喜"
+			},
+			{
+				"Japanese": "CV : 雨宮 天"
+			},
+			{
+				"English": "CV : EmiLo"
+			},
+			{
+				"Korean": "CV : 김나율"
+			},
+			{
+				"Portuguese": "CV : Letícia Quinto"
+			}
+		],
+		"id": "imitation_22"
+	},
+	"description": "Pedang Tachi khusus yang bisa beradaptasi dengan eksperimen Super Flow. Pedang ini mampu mengenali kondisi mental penggunanya dan mampu menghasilkan Sword Shadow untuk membantu penggunanya dalam pertempuran pada saat yang tepat.",
+	"icon": "item_Weapon_SSR_dkatana_Ice01",
+	"gachaIcon": "SSR_lh_bupoxiao",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "katana",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "dkatana_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Ragestream",
+				"description": "Melakukan 5 serangan Heartstream saat di darat.\r\nSerangan pertama menimpakan DMG sebesar **42.5%** ATK plus **255** kepada target dan membuatnya terpental sedikit ke belakang.\r\nSerangan kedua menimpakan DMG sebesar **29.5%** ATK plus **177** kepada target dan membuatnya terpental sedikit ke belakang.\r\nSerangan ketiga menimpakan DMG sebesar **45%** ATK plus **270** kepada target dan membuatnya terpental sedikit ke belakang.\r\nSerangan keempat menimpakan DMG sebesar **70.6%** ATK plus **424** kepada target dan membuatnya terpental sedikit ke belakang.\r\nSerangan kelima menimpakan DMG sebesar **102.6%** ATK plus **616** kepada target dan membuatnya terpental ke atas.",
+				"icon": "skill_dkatana_melee",
+				"id": "GA_PlayerDkatanaMelee_Melee"
+			},
+			{
+				"name": "Airsplit",
+				"description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **47.2%** ATK plus **283**.\r\nSerangan Kedua: Menimpakan DMG sebesar **43.7%** ATK plus **262**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **54.2%** ATK plus **325**.\r\nSerangan Keempat: Menimpakan DMG sebesar **76.9%** ATK plus **461**.\r\nSerangan Kelima: Menimpakan DMG sebesar **170.2%** ATK plus **1021**.",
+				"icon": "skill_dkatana_airattack",
+				"id": "GA_PlayerDkatanaMelee_AirAttack"
+			},
+			{
+				"name": "Excited Flow: Vortex",
+				"description": "Dalam mode Excited Flow, tekan dan tahan tombol Serangan Biasa untuk mengaktifkan skill ini.\r\nTerjang ke depan sambil melakukan serangan berputar beberapa kali untuk menimpakan DMG hingga maks **199.5%** ATK plus **1197**.",
+				"icon": "skill_dkatana_branch1",
+				"id": "GA_PlayerDkatanaMelee_Branch1"
+			},
+			{
+				"name": "Silent Flow: Barrier",
+				"description": "Dalam mode Silent Flow, tahan Serangan Biasa secara langsung atau saat melakukan Serangan Biasa untuk mengaktifkan skill ini.\r\nTahan tombol Serang untuk mempertahankan Anticipation. Lepaskan tombol untuk menimpakan DMG sebesar **127.3%** ATK plus **764**. Saat menerima serangan selama melakukan serangan, menangkis DMG yang diterima sebesar **20%** Max HP milikmu.",
+				"icon": "skill_dkatana_branch2",
+				"id": "GA_PlayerDkatanaMelee_Branch2"
+			},
+			{
+				"name": "Frostfall",
+				"description": "Tekan dan tahan Serangan Biasa saat di udara, atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkannya.\r\nSaat jatuh, menimpakan DMG sebesar **30.4%** ATK plus **182** tiap kali menghantam target. Saat mendarat, menimbulkan DMG sebesar **76%** ATK plus **456** kepada target di sekitar.",
+				"icon": "skill_dkatana_airjumpattack",
+				"id": "GA_PlayerDkatanaMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Saat menghindar, kamu menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerDkatanaEvade_Evade"
+			},
+			{
+				"name": "Polar Front",
+				"description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah Menghindar.\r\nMelesat dan berputar untuk menyerang target, menimpakan DMG dengan total sebesar **277%** ATK plus **1662**.",
+				"icon": "skill_dkatana_forwardevadeattack",
+				"id": "GA_FPlayerDkatanaEvade_ForwardAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Excited Flow: Flashing Stream",
+				"description": "Menerjang ke arah target sambil melumpuhkan musuh yang dilewati untuk sementara waktu, menimpakan DMG setelah jeda singkat dengan nilai maksimalnya sebesar **445.3%** ATK plus **2672**. CD: **30** detik.",
+				"icon": "skill_dkatana_skill1",
+				"id": "GA_FPlayerDkatanaSkill_Skill1"
+			},
+			{
+				"name": "Silent Flow: Concentrated Stream",
+				"description": "Aktifkan skill Silent Flow untuk mulai mengumpulkan tenaga hingga maks **3** detik, menerapkan Taunt secara terus-menerus kepada target di sekitar, dan menyerap DMG hingga **60%** Max HP. Di akhir durasi pengumpulan tenaga, menimpakan Frost DMG kepada target sebesar **408%** Frost ATK plus **50%** dari DMG yang diserap. **20%** dari nominal yang tersisa dikonversi menjadi pemulihan HP. CD: **30** detik.\r\n\r\nJika Resonansi Fortitude sedang aktif, masuk ke Silent Flow. **Excited Flow: Flashing Stream** digantikan dengan **Silent Flow: Concentrated Stream**. Jika Resonansi Fortitude tidak aktif, masuk ke Excited Flow.\r\nWanderer bisa mendapatkan Sword Shadow, yang akan mengikuti saat menggunakan skill Saki Fuwa. Sword Shadow akan mengeluarkan Surge saat Wanderer menggunakan Skill Branch atau Skill Discharge Saki Fuwa, menimpakan DMG area sebesar **175%** Frost ATK. CD Surge: **10** detik.\r\nDalam kondisi Excited Flow: Sword Shadow akan mengeluarkan Flow saat Wanderer menimpakan DMG dengan senjata apa pun, yang menimpakan DMG sebesar **45%** Frost ATK kepada target yang terhantam pertama kali dan memulihkan HP sebesar **57%** DMG tersebut. Jumlah maksimum untuk setiap pemulihan tak bisa melebihi **100%** ATK. CD: **0,8** detik.\r\nDalam kondisi Silent Flow: Sword Shadow, setelah mengeluarkan Surge, Wanderer mendapatkan **3** jatah blok selama **10** detik, di mana kapasitas blok tak bisa melebihi **15%** Max HP. Setiap kali berhasil melakukan blok, timpakan DMG Serangan Balasan sebesar **225%** Frost ATK kepada target dan nilai Shatter dari Surge meningkat **100%**, lengkap dengan tambahan efek Taunt.",
+				"icon": "skill_dkatana_skill2",
+				"id": "GA_FPlayerDkatanaSkill_Skill2"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Heartlotus",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer**, lalu menerjang target untuk melakukan serangan kombinasi, menimpakan DMG dengan total sebesar **590%** ATK plus **3216**.",
+				"icon": "skill_dkatana_changeskill",
+				"id": "GA_FPlayerDkatanaChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonansi Frost**: Meningkatkan Frost ATK sebesar **15%** dan Frost Resistance sebesar **25%**. Aktifkan dengan cara memakai **2** Senjata Frost atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tak bisa bertumpuk dengan efek dari tipe yang sama.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Saat Resonansi Frost diaktifkan, CD semua Skill Senjata ditiadakan setiap **5** kali Skill Senjata digunakan, dan DMG dari Flow dan Serangan Balasan ditingkatkan **1** kali untuk **25** detik berikutnya.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Excited Flow: Meningkatkan DMG Sword Shadow: Surge menjadi **350%** Frost ATK.\r\nSilent Flow: CD dari Sword Shadow: Surge menjadi **5** detik.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Menghentikan waktu dan memicu Phantasia saat Surge mengenai target. CD sama dengan Phantasia yang diaktifkan dengan cara menghindar.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Saat menyerang target dengan Surge, Frost DMG meningkat **11%** selama **15** detik.\r\nSaat menangkis dengan Sword Shadow, Frost DMG yang ditimpakan musuh di sekitar berkurang **25%** selama **12** detik.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		}
+	],
+	"id": "dkatana_ice"
+}

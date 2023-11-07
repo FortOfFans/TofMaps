@@ -1,0 +1,11 @@
+{
+	"name": "Armadura Tipo V",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "Medo de levar a pior nas batalhas e sair com o rabo entre as pernas? Queria que os seus pés fossem mais rápidos? Com esta transformação sob medida, seus problemas acabaram! O Droide Tipo V-II pode ser usado a qualquer hora e em qualquer lugar. Corra como o vento por um minuto inteiro nesta nova era tecnológica!",
+	"source": "Pilota uma armadura mecanizada para lutar durante **30** segundos. Tempo de recarga: **200** seg. Dá imunidade a interrupção. Toque novamente para sair e explodir a armadura. Habilidade: **Tiro Direcionado**.\r\n**Tiro Direcionado**: Atira rapidamente para causar dano de **44,4%** do ATQ por acerto.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_004.png",
+	"shortIcon": "artifact_ssr_004",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_027",
+	"id": "artifact_ssr_004"
+}

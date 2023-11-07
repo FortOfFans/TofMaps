@@ -1,0 +1,194 @@
+{
+	"name": "Vermilion Bird",
+	"avatar": {
+		"name": "Lan",
+		"advanceId": "imitation_34L1",
+		"weapon": "umbrella_fire",
+		"icon": "imitation_34",
+		"avatarID": "lan",
+		"age": "5 Mei",
+		"height": "172 cm",
+		"gender": "Perempuan",
+		"state": "Shadowguard",
+		"city": "Tak Diketahui",
+		"rating": "wuwei_imitation_34",
+		"gp": [
+			"Rarity",
+			"everydayObjects",
+			"Vera",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈雨"
+			},
+			{
+				"Japanese": "CV : 内田 真礼"
+			},
+			{
+				"English": "CV : Sarah Wiedenheft"
+			},
+			{
+				"Korean": "CV : 박리나"
+			},
+			{
+				"Portuguese": "CV : Luiza Caspary"
+			}
+		],
+		"id": "imitation_34"
+	},
+	"description": "Senjata payung milik Zhuque yang dilengkapi berbagai mekanisme rahasia. Selain sebagai senjata energi untuk menyerang, Vermilion Bird juga digunakan untuk menghalangi pandangan musuh dan menyembunyikan manuver penggunanya...",
+	"icon": "item_Weapon_SSR_umbrella_Fire01",
+	"gachaIcon": "SSR_lh_lan",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Umbrella",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "umbrella_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Dancing Flames",
+				"description": "Saat di darat, gunakan Serangan Biasa untuk melakukan 5 serangan beruntun.\r\nSerangan Pertama: Menimpakan DMG sebesar **94.8%** ATK plus **569** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **129.8%** ATK plus **779** dan membuat target terpental jauh ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **221.3%** ATK plus **1328** dan membuat target terpental ke atas.\r\nSerangan Keempat: Menimpakan DMG sebesar **241.3%** ATK plus **1448** dan menjatuhkan target.\r\nSerangan Kelima: Menimpakan DMG sebesar **304.1%** ATK plus **1824** dan membuat target terpental ke belakang.",
+				"icon": "skill_umbrella_melee",
+				"id": "GA_FPlayerUmbrellaMeleeFire_Melee"
+			},
+			{
+				"name": "Soaring Strike",
+				"description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut sambil mengonsumsi Stamina.\r\nSerangan Pertama: Menimpakan DMG sebesar **106.3%** ATK plus **638**.\r\nSerangan Kedua: Menimpakan DMG sebesar **129.8%** ATK plus **779**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **158.1%** ATK plus **949**.\r\nSerangan Keempat: Menimpakan DMG sebesar **165.3%** ATK plus **992**.\r\nSerangan Kelima: Menimpakan DMG sebesar **296.3%** ATK plus **1778**.",
+				"icon": "skill_umbrella_airattack",
+				"id": "GA_FPlayerUmbrellaMeleeFire_AirAttack"
+			},
+			{
+				"name": "Blazing Wings",
+				"description": "Tekan dan tahan Serangan Biasa saat melakukan Serangan Biasa kedua hingga kelima untuk mengaktifkan Blazing Wings.\r\nMaju dengan cepat dan membuat diri sendiri melayang, menimpakan DMG sebesar **125%** ATK plus **750** pada target di sekitar dan membuat mereka **Terpental Keras Ke Atas**.",
+				"icon": "skill_umbrella_branch",
+				"id": "GA_FPlayerUmbrellaMeleeFire_Branch"
+			},
+			{
+				"name": "Molten Heart",
+				"description": "Saat di udara, tekan dan tahan Serangan Biasa untuk memicu Molten Heart. Selama Molten Heart berlangsung, kamu akan terus mengonsumsi Stamina dan mendapatkan Hyperbody.\r\nKendalikan Vermilion Bird dan timpakan DMG sebesar **25%** ATK plus **150** kepada target di sekitar, lalu perintahkan Parasol untuk berputar cepat.\r\nLepaskan tombol Serangan Biasa untuk terjun ke bawah. Saat terjun, setiap serangan yang berhasil didaratkan pada target akan menimpakan DMG sebesar **50%** ATK plus **300**, dan **menjatuhkan** target.\r\n**Pasif**: Selama Parasol berputar cepat, Feather yang dikonsumsi oleh Flame Vortex setiap detiknya akan dikalikan dengan **Polyfeather Parasol**, sedangkan DMG, Charge, dan Shatter dari Flame Vortex juga akan dikalikan dengan **Polyfeather Parasol**.\r\n**Feather**: Mendapatkan **1** Feather tiap detik dan **1** Feather tiap menimpakan DMG. CD: **0,5** detik. Bisa menyimpan maks **30** Feather.\r\n**Polyfeather Parasol** = **1** ditambah jumlah Parasol.",
+				"icon": "icon_skill_umbrella_beidong2",
+				"id": "GA_FPlayerUmbrellaMeleeFire_PowerAttack"
+			},
+			{
+				"name": "Summon Parasol",
+				"description": "Selama tidak dalam pertempuran, tekan dan tahan Serangan Biasa di darat untuk memunculkan satu Parasol di lokasi yang ditentukan, yang akan aktif selama **15** detik, atau sampai kamu memasuki pertempuran.\r\nSelama tidak dalam pertempuran, gunakan skill ini untuk berpindah tempat ke lokasi Parasol dan gunakan lompat-dua-kali untuk melayang. CD: **6** detik.",
+				"icon": "skill_umbrella_skill_InPeace",
+				"id": "GA_FPlayerUmbrellaAimAttackFire"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, memperlambat target di dalam area tersebut. Saat menghindar, menjadi kebal terhadap Hitstun.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerUmbrellaEvadeFire_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Devastating Glide",
+				"description": "Terbang ke lokasi Parasol-Parasol yang ada dengan urutan yang sama dengan urutan kemunculannya, lalu kembali ke posisi awal. Saat terbang, Wanderer meninggalkan jejak yang bertahan selama 5 detik. Jejak ini memperlambat target di dekatnya sebesar **50%**. Saat melayang, menjadi kebal terhadap DMG (tak berlaku di Apex League). CD: **12** detik.\r\nSetiap kali Wanderer melewati sebuah Parasol, menimpakan DMG area sebesar **220%** ATK plus **1320** dan membuat Parasol tersebut berputar cepat selama **5** detik.",
+				"icon": "skill_umbrella_skill",
+				"id": "GA_FPlayerUmbrellaSkillFire_Skill"
+			},
+			{
+				"name": "Parasol",
+				"description": "Saat Serangan Biasa atau Serangan Menghindar berhasil didaratkan, **1** Parasol akan muncul di dekat target yang akan aktif selama **20** detik. CD: **1,5** detik. Maks **3** Parasol aktif secara bersamaan.\r\n**Fiery Crash**: Saat menggunakan Devastating Glide, untuk setiap Parasol yang dilewati, menimpakan DMG tambahan sebesar **64,8%** ATK dikalikan dengan jumlah Polyfeather Parasol.\r\n**Corrosion**: Target di sekitar Parasol menerima Flame DMG **6%** lebih besar dan **8%** DMG tambahan dari Serangan Charged.\r\n**Radiant Flames**: Parasol menimpakan DMG Burn sebesar **105%** ATK tiap detik pada target di sekitar selama **4** detik.\r\n**Flame Vortex**: Parasol yang sedang aktif mengonsumsi **1** Feather tiap detik dan menimpakan DMG area sebesar **54%** ATK plus **324** (DMG dan biaya Feather dari Parasol-Parasol yang ada tidak saling bertumpuk).",
+				"icon": "icon_skill_umbrella_beidong2",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas1"
+			},
+			{
+				"name": "Vermilion Domain",
+				"description": "Saat menggunakan Devastating Glide, lewati 3 Parasol sebelum kembali ke posisi awal untuk mendapatkan Vermilion Domain, yang memberikan Hyperbody dan **40%** DMG Reduction selama **8** detik.\r\nSelama menyelam, Vermilion Domain menimpakan DMG sebesar **50%** ATK plus **300** tiap detik kepada target di area dan meningkatkan kecepatan Wanderer sebesar **30%**.",
+				"icon": "icon_skill_umbrella_beidong3",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas2"
+			},
+			{
+				"name": "Fortitude",
+				"description": "Saat mengaktifkan Resonansi Fortitude:\r\nSaat menggunakan Skill Senjata dengan senjata apa pun, menerapkan efek Taunt kepada target di sekitar, memaksa mereka untuk menyerang penggunanya selama **2,5** detik.\r\nSaat menggunakan Devastating Glide, Vermilion Domain akan meluas, mengurangi DMG yang diterima kawan tim di dekatmu sebesar **20%**.\r\nSaat menggunakan Molten Heart, timer Vermilion Domain akan berhenti.",
+				"icon": "icon_skill_umbrella_beidong1",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas3"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Phoenix Sweep",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer**, menimpakan DMG sebesar **849.6%** ATK plus **5097** pada target dan menjadi kebal terhadap DMG selama **1,5** detik (tak berlaku di Apex League).\r\n**Pasif**: Saat berhasil mendaratkan serangan, Flame DMG meningkat sebanyak **1,2%** dari jumlah Polyfeather Parasol selama **20** detik.",
+				"icon": "skill_umbrella_changeskill",
+				"id": "GA_FPlayerUmbrellaChangeSkillFire"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonansi Flame**: Flame ATK meningkat **15%** dan Flame Resistance meningkat **25%**. Aktifkan dengan cara memakai **2** Senjata Flame atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "**Vermilion Strength**: Saat Vermilion Bird dikenakan, **biaya amunisi**, DMG, Charge, dan efek Shatter senjata lainnya akan dilipatgandakan sesuai dengan jumlah **Polyfeather Parasol**.\r\n**Glowing Fire**: Saat target di sekitar memicu perhitungan Burn atau menerima DMG dari Fiery Crash, **30%** dari DMG tersebut ditransfer ke **3** unit di sekitar target (termasuk target tersebut) dengan persentase HP tertinggi.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Pasif 1: Saat menggunakan Skill Discharge atau mengakibatkan Shatter dengan senjata apa pun, semua Parasol di sekitar akan memicu **1** Fiery Crash dengan efektifitas **30%**. ATK musuh di dekat Parasol berkurang **15%**. Saat memasuki pertempuran, ketika kamu menimpakan DMG untuk pertama kalinya, **3** Parasol akan muncul di dekat target.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Fiery Crash dan DMG yang ditransfer mengabaikan **60%** Flame Resistance target.\r\nFlame DMG yang ditimpakan oleh Corrosion meningkat **10%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "DMG Dancing Flames dan Soaring Strike meningkat **50%**.\r\nPengali untuk Parasol yang berputar cepat, Phoenix Sweep, dan Fiery Crash sekarang adalah jumlah Polyfeather Parasol ditambah **2**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		}
+	],
+	"id": "umbrella_fire"
+}

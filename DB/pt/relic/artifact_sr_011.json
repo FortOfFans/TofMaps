@@ -1,0 +1,11 @@
+{
+	"name": "Braço Cibernético",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "Dispare um Braço Cibernético para puxar o alvo.",
+	"source": "Dispara um Braço Cibernético para puxar o alvo selecionado até você ou você até o alvo. Causa **100%** de dano, **suspende muito** o alvo e recupera **300** pontos de carga de arma. Pode ser usado para acessar áreas de difícil acesso, e armazena até **2** cargas por vez. Recupera **1** carga a cada **30** segundos.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_sr_011.png",
+	"shortIcon": "artifact_sr_011",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_008",
+	"id": "artifact_sr_011"
+}

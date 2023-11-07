@@ -1,0 +1,14 @@
+{
+	"name": "Bai Ling",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "O que fazer quando você pensa sobre uma coisa e ela se espalha?",
+	"icon": "icon_matrix_SR9_512",
+	"gachaIcon": "icon_matrix_SR9_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Aumenta em **12%**/15%/18% o dano causado a alvos infligidos com lesão."
+		}
+	],
+	"id": "matrix_SR9_1"
+}

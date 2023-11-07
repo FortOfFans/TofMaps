@@ -1,0 +1,174 @@
+{
+	"name": "Icewind Arrow",
+	"avatar": {
+		"name": "Tsubasa",
+		"advanceId": "imitation_7L1",
+		"weapon": "bow_ice",
+		"icon": "imitation_7",
+		"avatarID": "sifengyuanyu",
+		"age": "24 Maret",
+		"height": "169 cm",
+		"gender": "Perempuan",
+		"state": "Heirs of Aida",
+		"city": "Astra",
+		"rating": "wuwei_imitation_7",
+		"gp": [
+			"garageKit",
+			"restrictedGoods",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 徐徐"
+			},
+			{
+				"Japanese": "CV : 小原 好美"
+			},
+			{
+				"English": "CV : Amber Lee Connors"
+			},
+			{
+				"Korean": "CV : 손선영"
+			},
+			{
+				"Portuguese": "CV : Tânia Gaidarji"
+			}
+		],
+		"id": "imitation_7"
+	},
+	"description": "Anak panah yang ditembakkan dari busur ini sangat dingin, sedingin es yang membeku.",
+	"icon": "item_Weapon_SSR_Bow_Ice01",
+	"gachaIcon": "SSR_lh_Mg",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "bow_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Bagi Cepat",
+				"description": "Saat di darat, tarik busur berulang kali untuk menyerang 5 kali.\r\nSerangan Pertama: Menimpakan DMG sebesar **53.7%** ATK plus **322**.\r\nSerangan Kedua: Menimpakan DMG sebesar **48.1%** ATK plus **288**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **86.5%** ATK plus **519**.\r\nSerangan Keempat: Menimpakan DMG sebesar **133.3%** ATK plus **800**.\r\nSerangan Kelima: Menimpakan DMG sebesar **123.8%** ATK plus **743** dan pukul mundur target dalam jarak dekat.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_MeleeIce_SSR"
+			},
+			{
+				"name": "Charged Arrow",
+				"description": "Tahan Serangan Biasa untuk mengisi tenaga. Menimpakan DMG dasar sebesar **96.6%** ATK plus **580**, dan **50%** lagi untuk setiap **1** detik pengisian, maks **3** detik. Menimpakan DMG dua kali lipat saat Headshot atau saat mengenai titik lemah, dan menjatuhkan target (efek Headshot tidak berlaku bagi Wanderer).",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttackIce_SSR"
+			},
+			{
+				"name": "Arrow Rain",
+				"description": "Setelah Serangan Biasa, tahan tombol Serangan Biasa untuk melancarkan Arrow Rain, menimpakan DMG area dengan total sebesar **315.9%** ATK plus **1895** kepada target.",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_BranchIce_SSR"
+			},
+			{
+				"name": "Air Volley",
+				"description": "Saat di udara, tekan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\r\nSerangan Pertama: Menimpakan DMG sebesar **61.9%** ATK plus **372**.\r\nSerangan Kedua: Menimpakan DMG sebesar **81.4%** ATK plus **488**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **124%** ATK plus **744**.\r\nSerangan Keempat: Menimpakan DMG sebesar **186.8%** ATK plus **1121**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttackIce_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, yang akan memperlambat musuh dalam area tersebut. CD: 15 detik. Saat Menghindar, kamu akan menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_EvadeIce_SSR"
+			},
+			{
+				"name": "Loaded Arrow",
+				"description": "Tekan Serang setelah Dodge untuk mengaktifkan Loaded Arrow, yang akan membuat target **terpental sedikit ke belakang** dan menimpakan DMG sebesar **136.4%** ATK plus **818**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttackIce_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "Piercing Shot",
+				"description": "Salto ke belakang sambil menembakkan **3** Piercing Shot. Tembakan utama akan menimpakan DMG sebesar **284.1%** ATK plus **1705**, sedangkan dua tembakan lainnya akan menimpakan 60% DMG. Selain itu, ini juga membuat target **Terpental Ke Belakang**, ditambah Stun selama **5** detik jika mereka terpental ke dinding. CD: **12** detik.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkillIce_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Explosive Barrage",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer**, menghasilkan badai es di lokasi target, menimpakan DMG sebesar **655.5%** ATK plus **3933**. Badai ini berpeluang **10%** untuk menimpakan **Freeze Kuat** selama **2** detik. Mendapatkan Cold Front yang meningkatkan kecepatan sebesar **45%** selama **7** detik.",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_SuccessIce_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Memberikan satu tumpuk Sharp Arrow setiap kali anak panah yang ditembakkan oleh Serangan Dodge mengenai target. Setiap tumpuk akan meningkatkan DMG sebesar **5%** selama **15** detik. Bisa ditumpuk maks **3** kali.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Dengan melancarkan Serangan Dodge, **3** Charged Arrow akan ditembakkan.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Menggandakan durasi Arrow Rain dan memperlambat target sebesar **25%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Sharp Arrow bisa ditumpuk **5** kali. Jika mengenai target dengan Charged Arrow, langsung memberikan **3** tumpuk, sedangkan Headshot memberikan **5** tumpuk.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		}
+	],
+	"id": "bow_ice"
+}

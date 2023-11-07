@@ -1,0 +1,11 @@
+{
+	"name": "磁暴脉冲",
+	"type": "ITEM_TYPE_BREAK_FATE_ARTIFACT",
+	"description": "您好，请保持适当的社交距离。",
+	"source": "引爆磁性炸弹，对目标造成**0%***攻击力的电属性伤害和**强控击飞**效果，并使自己在**5**秒内免疫硬直效果，冷却**35**秒。",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_r_002.png",
+	"shortIcon": "artifact_r_002",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_007",
+	"id": "wormhole_artifact_sr_015"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Canned Spinach",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "Canned Spinach",
+	"source": "Setelah makan sayuran sehat, Wanderer tak bisa melakukan apa-apa selama **6** detik kecuali menggunakan Relik, tapi memulihkan **2%** Max HP tiap detik. Saat menerima DMG selama waktu ini, memulihkan HP dengan jumlah yang sama dengan DMG yang diterima. CD: **30** detik.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_n_001.png",
+	"shortIcon": "artifact_n_001",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_007",
+	"id": "artifact_sr_019"
+}

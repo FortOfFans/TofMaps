@@ -1,0 +1,14 @@
+{
+	"name": "Ene",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Output yang dipercepat saat daya ditingkatkan juga akan dikirimkan dalam getaran samar ke senjata.",
+	"icon": "icon_matrix_SR8_512",
+	"gachaIcon": "icon_matrix_SR8_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Saat menimpakan DMG lebih besar dari **100%** ATK, menimpakan DMG tambahan sebesar **60%**/75%/90% ATK. Cooldown: **3** detik."
+		}
+	],
+	"id": "matrix_SR8_1"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Braço Colossal",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "Descontente com os seus próprios braços? Experimente este! Um braço poderoso com acabamento polido e design chamativo. A melhor escolha em qualquer situação.",
+	"source": "Materializa um braço de colosso para lutar por você durante 20 segundos. Tempo de recarga: **300** seg. Recebe imunidade a interrupção durante os próximos 20 segundos. Toque na Relíquia novamente para cancelar. Ataques normais causam dano de **0%** do ATQ e **lança os inimigos alto no ar**. Habilidades causam dano de **1%** do ATQ e **suspendem muito** os inimigos. Tempo de recarga: **10** seg.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_001.png",
+	"shortIcon": "artifact_ssr_001",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_030",
+	"id": "artifact_ssr_001"
+}

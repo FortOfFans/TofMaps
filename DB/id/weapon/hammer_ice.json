@@ -1,0 +1,185 @@
+{
+	"name": "Pummeler",
+	"avatar": {
+		"name": "Ene",
+		"weapon": "hammer_ice",
+		"icon": "imitation_2",
+		"avatarID": "xi",
+		"age": "17 Agustus",
+		"height": "145 cm",
+		"gender": "Perempuan",
+		"state": "Keamanan Victoria",
+		"city": "Crown",
+		"rating": "wuwei_imitation_2",
+		"gp": [
+			"game",
+			"decorate",
+			"toy"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 王燕华"
+			},
+			{
+				"Japanese": "CV : 小清水 亜美"
+			},
+			{
+				"English": "CV : Melissa Fahn"
+			},
+			{
+				"Korean": "CV : 박리나"
+			},
+			{
+				"Portuguese": "CV : Amanda Tavares"
+			}
+		],
+		"id": "imitation_2"
+	},
+	"description": "Tak ada yang mau jadi sasaran pukul Maul ini.",
+	"icon": "item_Weapon_SR_Hammer_Ice01",
+	"gachaIcon": "SR_lh_cdzj",
+	"rarity": "SR",
+	"element": "Ice",
+	"weaponType": "Hammer",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_ice": 28,
+		"Item_Mine_ice_02": 42,
+		"Item_breakthrough_B2": 42,
+		"Item_breakthrough_C2": 42,
+		"Item_Mine_ice_03": 22,
+		"Item_breakthrough_B3": 22,
+		"Item_breakthrough_C3": 22,
+		"Item_breakthrough_B1": 25,
+		"Item_breakthrough_C1": 23
+	},
+	"advanceID": "hammer_ice_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Serangan Biasa",
+				"description": "Saat di darat, ayunkan palu untuk menyerang 4 kali berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **103%** ATK plus **618** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **83.9%** ATK plus **503** dan membuat target terpental sedikit ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **212.4%** ATK plus **1274** dan membuat target terpental sedikit ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **356.2%** ATK plus **2137** dan membuat target terpental ke atas.\r\nSaat Outburst aktif, ayunkan palu untuk menyerang 4 kali berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **102%** ATK plus **612** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **87.8%** ATK plus **527** dan membuat target terpental sedikit ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **231.3%** ATK plus **1388** dan membuat target terpental sedikit ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **425.7%** ATK plus **2554** dan membuat target **Terpental Ke Atas**.",
+				"icon": "pugong_hammer",
+				"id": "GA_FPlayerHammerMelee_Melee"
+			},
+			{
+				"name": "Pummel",
+				"description": "Saat di udara atau setelah melompat satu kali, gunakan Serangan Biasa untuk mengaktifkan Jumping Blast. Menimpakan DMG sebesar **164.3%** ATK plus **986** dan membuat target terpental ke atas.\r\nSaat Outburst aktif, menimpakan DMG sebesar **180.7%** ATK plus **1084** dan membuat target **Terpental Ke Atas**.\r\nMakin tinggi posisimu saat melancarkan serangan, makin besar pula DMG yang ditimpakan, maks **600%** DMG.",
+				"icon": "skill_hammer_air",
+				"id": "GA_FPlayerHammerMelee_AirAttack"
+			},
+			{
+				"name": "Shockwave",
+				"description": "Mengetuk dan menahan tombol saat di udara, melompat dua kali, mengetuk sebentar di udara saat ada target di sekitar, memanjat, melompat ke belakang, atau menyerang sambil menggunakan Jetpack akan melancarkan sebuah Shockwave, membuat target **Terpental Ke Atas** **4** kali, masing-masing menimpakan DMG sebesar **47%** ATK plus **282**. Mengonsumsi **250** Stamina.\r\nSaat Outburst aktif, Shockwave ini akan membuat target **Terpental Ke Atas** **5** kali, masing-masing menimpakan DMG sebesar **51.7%** ATK plus **310**.\r\nMakin tinggi posisi pemain saat melancarkan serangan, makin besar DMG yang ditimpakan, maks **600%** DMG.",
+				"icon": "skill_hammer_jump",
+				"id": "GA_FPlayerHammerMelee_JumpAttack"
+			},
+			{
+				"name": "Sneak Attack",
+				"description": "Dekati musuh dari belakang sambil berjongkok, lalu gunakan Serangan Biasa untuk mengaktifkan Sneak Attack, menimpakan DMG sebesar **427.5%** ATK plus **2565**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerHammerMelee_Sneak"
+			},
+			{
+				"name": "Focus Smash",
+				"description": "Tekan dan tahan tombol Serangan Biasa untuk mengaktifkan Focus Smash (bisa mengumpulkan tenaga sampai 3 tahap). Saat mengumpulkan tenaga, kamu kebal terhadap efek kontrol dan mendapatkan Hyperbody.\r\nTahap Pertama: Menimpakan DMG sebesar **207.6%** ATK plus **1245** dan membuat target terpental ke atas.\r\nTahap Kedua: Menimpakan DMG sebesar **519.1%** ATK plus **3114** dan membuat target **Terpental Ke Atas**.\r\nTahap Ketiga: Menimpakan DMG sebesar **973.2%** ATK plus **5839** dan membuat target **Terpental Ke Atas**.\r\nSaat Outburst aktif, tekan dan tahan tombol Serangan Biasa untuk mengaktifkan Furious Strike, menimpakan DMG sebesar **676.7%** ATK plus **4060** dan membuat target **Terpental Ke Atas**.",
+				"icon": "skill_hammer_jump-05",
+				"id": "GA_FPlayerHammerMelee_PowerAttack_OS"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Jumping Smash",
+				"description": "Gunakan tombol panah dan tombol menghindar untuk mengaktifkan Jumping Smash, melancarkan gelombang kejut yang membuat target terpental ke atas **4** kali, menimpakan DMG sebesar **218%** ATK plus **1308**.",
+				"icon": "skill_hammer_frontattack",
+				"id": "GA_FPlayerHammerEvade_FrontAttack"
+			},
+			{
+				"name": "Worldsplitter",
+				"description": "Tekan Serangan Biasa dalam rentang waktu singkat setelah menghindar untuk mengaktifkan Worldsplitter, melancarkan **3** gelombang kejut ke depan, masing-masing menimpakan DMG sebesar **70.8%** ATK plus **425** membuat target terpental ke atas.\r\nSaat di mode Outburst, menembakkan **5** gelombang kejut ke depan, masing-masing menimpakan DMG sebesar **70.8%** ATK plus **425** dan membuat target terpental ke atas.",
+				"icon": "skill_hammer_backattck",
+				"id": "GA_FPlayerHammerEvade_BackAttack"
+			},
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, yang akan memperlambat musuh dalam area tersebut. CD: 15 detik. Saat Menghindar, kamu akan menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerHammerEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Outburst",
+				"description": "Beralih ke Outburst, meningkatkan DMG yang ditimpakan selama **25** detik.\r\nSaat Outburst aktif, menggunakan Skill Senjata akan mengaktifkan Windfury, yang akan menimpakan DMG sebesar **295.2%** ATK plus **1771**, membuat target **Terpental Ke Atas**, dan menciptakan arus udara di tanah. Saat berada di arus tersebut, tidak butuh biaya apa pun untuk Menghindar. CD: **45** detik (CD Windfury: **10** detik).",
+				"icon": "hammer_skill2",
+				"id": "GA_FPlayerHammerBigSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Overwhelming Maul",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan membuat target di sekitar **terpental keras**, menimpakan DMG sebesar **206.9%** ATK plus **1241**. Selain itu, mengeluarkan palu yang akan jatuh menimpa target di sekitar, menimpakan DMG sebesar **206.9%** ATK plus **1241**.",
+				"icon": "skill_hammer_changeskill",
+				"id": "GA_FPlayerHammerChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "None"
+		},
+		{
+			"description": "Memberikan Taunt kepada target di dekatnya setelah beralih ke senjata ini, mencegah **1** DMG dalam waktu **8** detik berikutnya, dan memberikan Hyperbody selama **8** detik berikutnya. Cooldown: **15** detik.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar **10%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Setelah menerima DMG, mengurangi semua DMG yang diterima sebesar **50%** selama **6** detik berikutnya. Cooldown: **20** detik.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar **20%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Serangan Biasa akan mengakibatkan **Stun** kepada target selama **2,5** detik. Cooldown: **20** detik.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Skill Discharge menimpakan **10%** DMG tambahan kepada target dan meningkatkan Frost DMG sebesar **10%** lagi selama **25** detik.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		}
+	],
+	"id": "hammer_ice"
+}

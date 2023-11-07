@@ -1,0 +1,187 @@
+{
+	"name": "Cardiomanancial",
+	"avatar": {
+		"name": "Saki Fuwa",
+		"advanceId": "imitation_22L1",
+		"weapon": "dkatana_ice",
+		"icon": "imitation_22",
+		"avatarID": "bupoxiao",
+		"age": "11 de outubro",
+		"height": "1,57m",
+		"gender": "Feminino",
+		"state": "Forças Especiais de Segurança de Reflexia",
+		"city": "Reflexia",
+		"rating": "wuwei_imitation_22",
+		"gp": [
+			"metal",
+			"everydayObjects",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐小喜"
+			},
+			{
+				"Japanese": "CV : 雨宮 天"
+			},
+			{
+				"English": "CV : EmiLo"
+			},
+			{
+				"Korean": "CV : 김나율"
+			},
+			{
+				"Portuguese": "CV : Letícia Quinto"
+			}
+		],
+		"id": "imitation_22"
+	},
+	"description": "Uma tachi especial que se adapta aos experimentos de Superflow. Ela detecta o estado mental do usuário e gera uma sombra espádica para auxiliar em combate no momento certo.",
+	"icon": "item_Weapon_SSR_dkatana_Ice01",
+	"gachaIcon": "SSR_lh_bupoxiao",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "katana",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "dkatana_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Iramanancial",
+				"description": "No chão, execute 5 ataques de Cardiomanancial.\r\nPrimeiro ataque: Causa dano de **42.5%** do ATQ + **255** e repele o alvo uma curta distância.\r\nSegundo ataque: Causa dano de **29.5%** do ATQ + **177** e repele o alvo uma curta distância.\r\nTerceiro ataque: Causa dano de **45%** do ATQ + **270** e repele o alvo uma curta distância.\r\nQuarto ataque: Causa dano de **70.6%** do ATQ + **424** e repele o alvo uma curta distância.\r\nQuinto ataque: Causa dano de **102.6%** do ATQ + **616** e lança o alvo no ar.",
+				"icon": "skill_dkatana_melee",
+				"id": "GA_PlayerDkatanaMelee_Melee"
+			},
+			{
+				"name": "Parte-Ar",
+				"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **47.2%** do ATQ + **283**.\r\nSegundo ataque: Causa dano de **43.7%** do ATQ + **262**.\r\nTerceiro ataque: Causa dano de **54.2%** do ATQ + **325**.\r\nQuarto ataque: Causa dano de **76.9%** do ATQ + **461**.\r\nQuinto ataque: Causa dano de **170.2%** do ATQ + **1021**.",
+				"icon": "skill_dkatana_airattack",
+				"id": "GA_PlayerDkatanaMelee_AirAttack"
+			},
+			{
+				"name": "Flow Agitado: Vórtice",
+				"description": "No modo de Flow Agitado, segure o botão de ataque normal para usar a habilidade.\r\nInveste à frente com um multiataque rodopiante que causa dano de até **199.5%** do ATQ + **1197**.",
+				"icon": "skill_dkatana_branch1",
+				"id": "GA_PlayerDkatanaMelee_Branch1"
+			},
+			{
+				"name": "Flow Silencioso: Barreira",
+				"description": "No modo de Flow Silencioso, segure o botão de ataque normal imediatamente ou durante o uso de ataques normais para ativar a habilidade.\r\nSegure o botão de ataque para manter a Antecipação. Solte o botão para causar dano de **127.3%** do ATQ + **764**. Ao sofrer ataques durante o período de ataque, bloqueia o equivalente a **20%** da sua vida máxima.",
+				"icon": "skill_dkatana_branch2",
+				"id": "GA_PlayerDkatanaMelee_Branch2"
+			},
+			{
+				"name": "Geada Cadente",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar, ou use ao escalar, pular para trás ou usar a mochila a jato para usar.\r\nEnquanto cai, cada golpe causa dano de **30.4%** do ATQ + **182**. Ao aterrissar, causa dano de **76%** do ATQ + **456** a alvos próximos.",
+				"icon": "skill_dkatana_airjumpattack",
+				"id": "GA_PlayerDkatanaMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerDkatanaEvade_Evade"
+			},
+			{
+				"name": "Frente Polar",
+				"description": "Use o botão de ataque normal logo após se esquivar.\r\nArremete e gira para atacar o alvo, causando dano total de **277%** do ATQ + **1662**.",
+				"icon": "skill_dkatana_forwardevadeattack",
+				"id": "GA_FPlayerDkatanaEvade_ForwardAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Flow Agitado: Corrente Transitória",
+				"description": "Arremete na direção do alvo e imobiliza inimigos temporariamente ao longo do caminho, causando dano atrasado de até **445.3%** do ATQ + **2672**. Tempo de recarga: **30** seg.",
+				"icon": "skill_dkatana_skill1",
+				"id": "GA_FPlayerDkatanaSkill_Skill1"
+			},
+			{
+				"name": "Flow Silencioso: Corrente Concentrada",
+				"description": "Use habilidades de Flow Silencioso para começar a carregar por até **3** segundos, continuamente provocando alvos próximos e absorvendo dano equivalente a até **60%** da vida máxima. Ao final do estado de carregamento, causa dano gélido de **408%** do ATQ gélido mais **50%** do dano absorvido aos alvos, e **20%** do valor não consumido é convertido em recuperação de vida. Tempo de recarga: **30** seg.\r\n\r\nEntra em Flow Silencioso quando a ressonância de coragem estiver ativa. **Flow Agitado: Corrente Transitória** é substituído por **Flow Silencioso: Corrente Concentrada**. Entra em Flow Agitado quando a ressonância de coragem não estiver ativa.\r\nVocê pode ganhar sombra espádica, que acompanha você ao usar habilidades de Saki Fuwa. Sombra espádica gera ondulação quando você utilizar habilidades encadeadas ou habilidades de descarga de Saki Fuwa, causando dano a distância de **175%** do ATQ gélido. Tempo de recarga de ondulação: **10** seg.\r\nNo estado de Flow Agitado: Sombra espádica gera flow quando você causa dano com qualquer arma, causando dano de **45%** do ATQ gélido ao primeiro alvo atingido, e recupera vida equivalente a **57%** do dano. A vida máxima recuperada por vez não pode ultrapassar **100%** do ATQ. Tempo de recarga: **0,8** seg.\r\nNo estado de Flow Silencioso: Após sombra espádica gerar ondulação, você obtém **3** bloqueios durante **10** segundos, e a capacidade máxima de bloqueio não excede **15%** da vida máxima. A cada bloqueio bem-sucedido, causa dano de contra-ataque de **225%** do ATQ gélido ao alvo, e o despedaçar de ondulação aumenta em **100%** com o efeito de provocação adicionado.",
+				"icon": "skill_dkatana_skill2",
+				"id": "GA_FPlayerDkatanaSkill_Skill2"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Cardiolótus",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e arremete para a frente com um combo. Causa dano total de **590%** do ATQ + **3216**.",
+				"icon": "skill_dkatana_changeskill",
+				"id": "GA_FPlayerDkatanaChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância gélida**: Aumenta o ATQ gélido em **15%** e a resistência gélida em **25%**. Ativa-se ao equipar **2** ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Quando ressonância gélida estiver ativa, o tempo de recarga da habilidade de todas as armas é zerado a cada **5** vezes que habilidades de arma são usadas, e o dano de flow e contra-ataque aumenta em **1** vez durante os próximos **25** segundos.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Flow agitado: Aumenta o dano de sombra espádica: ondulação para **350%** do ATQ gélido.\r\nFlow silencioso: O tempo de recarga de sombra espádica: ondulação torna-se **5** segundos.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento da vida mínima da arma atual em **32%**.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Para o tempo e desencadeia Phantasia quando ondulação atingir um alvo. Compartilha tempo de recarga com a Phantasia desencadeada por esquivas.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Ao atingir um alvo com ondulação, aumenta o dano gélido em **11%** durante **15** segundos.\r\nAo bloquear com sombra espádica, reduz o dano gélido causado por inimigos próximos em **25%** durante **12** segundos.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		}
+	],
+	"id": "dkatana_ice"
+}

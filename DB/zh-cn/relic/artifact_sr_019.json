@@ -1,0 +1,11 @@
+{
+	"name": "菠菜罐头",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "菠菜罐头",
+	"source": "食用强化罐头，使玩家在**6**秒内不能进行除了使用源器外的其他操作，并每秒恢复**2%**最大生命值，期间受到伤害恢复等量伤害的生命值，冷却**30**秒。",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_n_001.png",
+	"shortIcon": "artifact_n_001",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_007",
+	"id": "artifact_sr_019"
+}

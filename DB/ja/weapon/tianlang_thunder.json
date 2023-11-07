@@ -1,0 +1,181 @@
+{
+	"name": "破重雷槍",
+	"avatar": {
+		"name": "Tian Lang",
+		"advanceId": "imitation_29L1",
+		"weapon": "tianlang_thunder",
+		"icon": "imitation_29",
+		"avatarID": "tianlang",
+		"age": "23 Maret",
+		"height": "185 cm",
+		"gender": "Laki-Laki",
+		"state": "ミラポリス生態緑化センター",
+		"city": "ミラポリス",
+		"rating": "wuwei_imitation_29",
+		"gp": [
+			"collection",
+			"decorate",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 淦子齐"
+			},
+			{
+				"Japanese": "CV : 石川 界人"
+			},
+			{
+				"English": "CV : Kaiji Tang"
+			},
+			{
+				"Korean": "CV : 박요한"
+			},
+			{
+				"Portuguese": "CV : Glauco Marques"
+			}
+		],
+		"id": "imitation_29"
+	},
+	"description": "稲妻ほとばしる長槍。コードネームはSMA1-TS00-破重雷槍。蓄積したエナジーが予想もつかぬ形で解き放たれる。破重雷槍が生成する電界は使用者の意識に干渉するため、並の人間では制御できない",
+	"icon": "item_Weapon_SSR_Tianlang_Thunder01",
+	"gachaIcon": "SSR_lh_tianlang",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Tianlang",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "tianlang_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "通常攻撃・パッシブ",
+				"description": "破重雷槍の通常攻撃が**4**回命中すると破重雷槍がチャージされ、チャージポイントを最大**5**回までスタックできる。チャージ後、任意の雷属性武器の回避スキルを使用すると放電して雷撃を付与し、自身が失ったHP×**3%**の雷撃ダメージを与える(最小で雷攻撃力×**100%**以上、最大で雷攻撃力×**1000%**未満)。さらに自身のインダクターを開放し、自身が失ったHP×**2%**の範囲雷ダメージを与える(最小で雷攻撃力×**40%**以上、最大で雷攻撃力×**400%**未満)",
+				"icon": "pugong_tianlang",
+				"id": "None"
+			},
+			{
+				"name": "武曲星",
+				"description": "地上にいる時、破重雷槍を使用して6回攻撃する\r\n1回目：攻撃力×**99.3%**+**543**のダメージとノックバック\r\n2回目：攻撃力×**73.2%**+**407**のダメージとノックバック\r\n3回目：攻撃力×**135.8%**+**738**のダメージとノックバック\r\n4回目：攻撃力×**240.5%**+**1307**のダメージとノックバック\r\n5回目：攻撃力×**240.1%**+**1332**のダメージとノックバック\r\n6回目：攻撃力×**314.1%**+**1751**のダメージとノックアップ",
+				"icon": "skill_tianlang_melee",
+				"id": "GA_PlayerTianLangMelee_Melee"
+			},
+			{
+				"name": "文曲星",
+				"description": "滞空時または1段ジャンプ使用後、通常攻撃を行うと空中で5回連続攻撃できる。ダメージは次の通り。\r\n1回目：攻撃力×**87.4%**+**524**\r\n2回目：攻撃力×**83%**+**498**\r\n3回目：攻撃力×**126.7%**+**760**\r\n4回目：攻撃力×**229.4%**+**1376**\r\n5回目：攻撃力×**256.5%**+**1539**",
+				"icon": "skill_tianlang_airattack",
+				"id": "GA_PlayerTianLangMelee_AirAttack"
+			},
+			{
+				"name": "禄存星",
+				"description": "地上で通常攻撃を長押しすると発動できる\r\nターゲットに最大で攻撃力×**342%**+**2052**のダメージを与え、モンスターを自身に引き付ける",
+				"icon": "skill_tianlang_branch",
+				"id": "GA_PlayerTianLangMelee_Branch"
+			},
+			{
+				"name": "巨門星",
+				"description": "滞空時に通常攻撃を長押し、またはクライミング、反転ジャンプ攻撃、ジェットパック使用時に通常攻撃を行うと発動する\r\n落下中、ターゲットに命中するごとに攻撃力×**38%**+**228**のダメージを与える。着地時に周囲のターゲットに攻撃力×**285%**+**1710**のダメージを与える",
+				"icon": "skill_tianlang_jumpattack",
+				"id": "GA_PlayerTianLangMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "回避",
+				"description": "ジャスト回避を成功させると幻想タイムが発動し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直効果を無効化する。**0.5**秒間持続",
+				"icon": "common_evade",
+				"id": "GA_FPlayerTianLangEvade_Evade"
+			},
+			{
+				"name": "廉貞星",
+				"description": "回避後すぐに通常攻撃をタップする\r\nターゲットにダッシュし、合計で攻撃力×**172.6%**+**1036**のダメージを与える",
+				"icon": "skill_tianlang_evadeattack",
+				"id": "GA_FPlayerTianLangEvade_ForwardAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "貪狼星",
+				"description": "多段連続攻撃を発動し、範囲内の敵に最大で攻撃力×**936.9%**+**5621**のダメージを与える。一定範囲の敵または自身の召喚物をインダクターとする。インダクターは最大3体まで存在できる。クールダウン**30**秒。\r\n\r\n雷感知：貪狼星発動後、自身が雷感知を獲得する。スキル発動時、装備する他の2個の武器のうち雷属性武器を感知し、1個感知するごとに雷ダメージ+**6%**、**25**秒間持続。\r\n\r\nインダクター：任意の雷属性武器の連携スキルを発動すると、インダクターは自身が失ったHP×**5%**(雷攻撃力×**100%**以上、雷攻撃力×**1000%**未満)の雷属性の範囲ダメージを発動する。\r\n\r\n破重雷槍を装備している場合、任意の雷属性武器スキルまたは連携スキル発動時に、現在のHPの**30%**を消費してターゲットに消費したHPの**45%**の追加雷ダメージ(雷攻撃力×**400%**以上、雷攻撃力×**3000%**未満)を与える。**8**秒後またはHPが**10%**未満になると、毎秒、失ったHPの**5%**を回復し、**8**秒間持続(治療と被治療の影響を受けない)、回復効果はスタック不可",
+				"icon": "skill_tianlang_skill",
+				"id": "GA_FPlayerTianLangSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "破軍星",
+				"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時に他の武器からこの武器に変更すると、**自身のステータス異常が解消**される。破重雷槍を使うと、広範囲に合計で攻撃力×**844.6%**+**5067**の雷ダメージを与える。さらに、一定範囲内の敵ユニットまたは自身の召喚物をインダクターとする。インダクターは最大3体まで存在できる\r\n\r\nインダクター：任意の雷属性武器の連携スキルを発動すると、インダクターは自身が失ったHP×**5%**の範囲雷ダメージを与える(最小で雷攻撃力×**100%**以上、最大で雷攻撃力×**1000%**未満)\r\n\r\n破重雷槍を装備している場合、任意の雷属性武器のスキルまたは連携スキル発動時に、現在のHPの**30%**を消費してターゲットに消費した値の**45%**の追加雷ダメージを与える(最小で雷攻撃力×**400%**以上、最大で雷攻撃力×**3000%**未満)。さらに**8**秒後またはHPが**10%**未満になると、毎秒、失ったHPの**5%**を回復し、**8**秒間持続する(回復効果と被回復効果の影響を受けない)、回復効果はスタック不可",
+				"icon": "skill_tianlang_changeskill",
+				"id": "GA_FPlayerTianLangChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**雷共鳴**：雷属性武器を**2**つ以上装備すると発動。雷攻撃力+**15%**、雷耐性+**25%**。装備すると常時有効、同系統の効果はスタック不可",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "チャージするごとに「超電導」を1スタック獲得。最大HP+**0%**、ただし自身の被ダメージ+**1%**(現在のHPが自身の雷攻撃力の{2倍未満、かつHPシールドがない場合は除く)。最大**8**スタックまで可能、**3**秒以内に「超電導」を更新しない場合は1スタックを失う",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		},
+		{
+			"description": "現在の武器の攻撃力基本成長率+**16%**。",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		},
+		{
+			"description": "任意の雷属性武器のスキルまたは連携スキルを発動するとチャージ**2**回を獲得、かつ超電導**8**スタックで不屈効果を獲得する",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		},
+		{
+			"description": "現在の武器のHP基本成長率+**32%**",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		},
+		{
+			"description": "「超電導」1スタックごとに**0%**の最終ダメージ UPを獲得する",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		},
+		{
+			"description": "貪狼星の雷感知効果がUP。その他の雷属性武器1個を感知するごとに**0%**の雷ダメージ UPを獲得し、**1**秒間持続",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		}
+	],
+	"id": "tianlang_thunder"
+}

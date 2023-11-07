@@ -1,0 +1,14 @@
+{
+	"name": "Barbarossa",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Dua kepala biasanya memperebutkan siapa yang akan membunuh mangsanya. Dengan sedikit hasutan, pertarungan itu akan berubah jadi pertarungan fisik.",
+	"icon": "icon_matrix_SR5_512",
+	"gachaIcon": "icon_matrix_SR5_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Setelah beralih ke senjata ini, mendapatkan **50%**/62,5%/75% Damage Reflection selama **3** detik. Cooldown: **30** detik. Setelah beralih ke senjata lain, mendapatkan **20%**/25%/30% Damage Boost selama **5** detik. Cooldown: **30** detik."
+		}
+	],
+	"id": "matrix_SR5_1"
+}

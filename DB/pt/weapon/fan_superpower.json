@@ -1,0 +1,185 @@
+{
+	"name": "Malhasombria",
+	"avatar": {
+		"name": "Lin",
+		"advanceId": "imitation_23L1",
+		"weapon": "fan_superpower",
+		"icon": "imitation_23",
+		"avatarID": "linye",
+		"age": "3 de setembro",
+		"height": "1,75m",
+		"gender": "Feminino",
+		"state": "Distrito 7 da Hykros",
+		"city": "Reflexia",
+		"rating": "wuwei_imitation_23",
+		"gp": [
+			"metal",
+			"decorate",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈婷婷"
+			},
+			{
+				"Japanese": "CV : 南條 愛乃"
+			},
+			{
+				"English": "CV : Erin Yvette"
+			},
+			{
+				"Korean": "CV : 조경이"
+			},
+			{
+				"Portuguese": "CV : Carol Valença"
+			}
+		],
+		"id": "imitation_23"
+	},
+	"description": "O design inicial indica que é uma arma leve e discreta, mas se transforma em um espadão a desejo do usuário. Fica pesada e nada discreta.",
+	"icon": "item_Weapon_SSR_fan_superpower01",
+	"gachaIcon": "SSR_lh_linye",
+	"rarity": "SSR",
+	"element": "Superpower",
+	"weaponType": "Fan",
+	"wc": "DPS",
+	"mats": {
+		"Item_breakthrough_A1": 28,
+		"Item_breakthrough_B1": 28,
+		"": null,
+		"Item_breakthrough_C1": 26,
+		"Item_breakthrough_D1": 26,
+		"Item_breakthrough_A2": 50,
+		"Item_breakthrough_B2": 50,
+		"Item_breakthrough_C2": 50,
+		"Item_breakthrough_D2": 50,
+		"Item_breakthrough_A3": 26,
+		"Item_breakthrough_B3": 26,
+		"Item_breakthrough_C3": 26,
+		"Item_breakthrough_D3": 26
+	},
+	"advanceID": "fan_superpower_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Ataque Normal",
+				"description": "No chão, use a Malhasombria para executar 5 ataques consecutivos.\r\nPrimeiro ataque: Causa dano de **59.9%** do ATQ + **359**.\r\nSegundo ataque: Causa dano de **57.1%** do ATQ + **343**.\r\nTerceiro ataque: Causa dano de **49.5%** do ATQ + **297**.\r\nQuarto ataque: Causa dano de **114.2%** do ATQ + **685** e suspende o alvo.\r\nQuinto ataque: Causa dano de **152.2%** do ATQ + **913**.",
+				"icon": "skill_Fan_melee",
+				"id": "GA_FPlayerFanMelee_Melee"
+			},
+			{
+				"name": "Detonação Aérea",
+				"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **30.6%** do ATQ + **184**.\r\nSegundo ataque: Causa dano de **55.6%** do ATQ + **334**.\r\nTerceiro ataque: Causa dano de **48.2%** do ATQ + **289**.\r\nQuarto ataque: Causa dano de **111.2%** do ATQ + **667**.\r\nQuinto ataque: Causa dano de **148.3%** do ATQ + **890**.",
+				"icon": "skill_Fan_air",
+				"id": "GA_FPlayerFanMelee_AirAttack"
+			},
+			{
+				"name": "Solo Semeado",
+				"description": "Após executar o segundo ataque normal no chão ou no ar, segure o botão de ataque normal para usar Solo Semeado.\r\nAtaca a área-alvo, causando dano de **83.2%** do ATQ + **499** e derrubando o alvo.\r\nPassiva: Logo após usar Solo Semeado no chão, usar o botão de ataque normal desencadeia Floração Sintética imediatamente (o 3.º acúmulo).",
+				"icon": "skill_Fan_branch",
+				"id": "GA_FPlayerFanMelee_Branch"
+			},
+			{
+				"name": "Floração Sintética",
+				"description": "Segure o botão de ataque normal para usar Floração Sintética. Pode ser carregado até 3 acúmulos, e você ganha corpo de aço e imunidade a controle enquanto carrega.\r\nPrimeiro acúmulo: causa dano de **73.9%** do ATQ + **443**.\r\nSegundo acúmulo: causa dano de **146.2%** do ATQ + **877**.\r\nTerceiro acúmulo: causa dano de **246.4%** do ATQ + **1478**.",
+				"icon": "skill_Fan_powerattack",
+				"id": "GA_FPlayerFanMelee_PowerAttack"
+			},
+			{
+				"name": "Sombra Cadente",
+				"description": "Segure o botão de ataque normal no ar para usar Sombra Cadente.\r\nMergulha dos ares, causa dano de **160%** do ATQ + **960** e derruba o alvo.",
+				"icon": "skill_Fan_jumpattack",
+				"id": "GA_FPlayerFanMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerFanEvade_Evade"
+			},
+			{
+				"name": "Verde Frondoso",
+				"description": "Desencadeia Verde Frondoso contra o alvo enquanto dá um mortal para trás. Causa dano de **70%** do ATQ + **420**, gerando **1 a 3** damas-da-noite ao atingir e formando um campo verde que dura **5** segundos. Quando os inimigos no campo verde têm você como alvo, a velocidade de movimento deles é reduzida em **50%**.\r\nPassiva: Pode ser usado no chão ou no ar.\r\nPassiva: Dissipa efeitos de controle (caso haja) imediatamente e usa Verde Frondoso automaticamente sem consumir tentativas de esquiva. Tempo de recarga da habilidade: **20** seg.",
+				"icon": "skill_Fan_rollattack",
+				"id": "GA_FPlayerFanEvade_RollAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Reino do Luar",
+				"description": "Cria um Reino do Luar ao redor de si durante **15** segundos. O seu ataque no Reino aumenta em **15%**, a altura do salto aumenta em **20%**, e o consumo de vigor diminui em **50%**. Tempo de recarga: **30** seg.\r\nEntra no estado especial de Florear ao usar a Malhasombria no Reino do Luar. A sua velocidade de queda diminui drasticamente, e você pode dar vários saltos duplos. Nesse estado, usar os controles direcionais e o botão de pular enquanto estiver no ar fará você executar um Passeio Doloroso e desferir um ataque contra o alvo. Causa dano de **66%** do ATQ + **396** e gera aleatoriamente **1 a 3** damas-da-noite.\r\n\r\nPassiva: No Reino do Luar, até **1** dama-da-noite será gerada perto de 1 alvo a cada **0,8** segundo.\r\nPassiva: Ao usar a Malhasombria no Reino do Luar, inimigos com vida inferior a **20%** sofrem **50%** a mais de dano.\r\nPassiva: Ao usar a Malhasombria no Reino do Luar, você detecta golpes antecipadamente e se teletransporta para longe do alvo. Tempo de recarga: **10** seg.\r\n\r\nPassiva: Mestre das armas\r\nFogo: Quando Malhasombria está equipada com 2 armas ígneas, o Reino do Luar se converte em Fogo: Reino do Luar, que queima alvos por **4** segundos a mais. Alvos com escudo sofrem **15%** a mais de dano ígneo.\r\n\r\nRaio: Quando Malhasombria está equipada com 2 armas elétricas, o Reino do Luar se converte em Raio: Reino do Luar, que possui **65%** de chance de não consumir tentativa de esquiva ao se esquivar, ataques de esquiva causam mais **5%** de dano, e o dano elétrico aumenta em mais **10%**.\r\n\r\nGelo: Quando Malhasombria está equipada com 2 armas gélidas, o Reino do Luar se converte em Gelo: Reino do Luar. Durante Gelo: Reino do Luar, o ATQ gélido aumenta em **10%**.\r\n\r\nFísico: Quando Malhasombria está equipada com 2 armas físicas, o Reino do Luar se converte em Físico: Reino do Luar. Durante Físico: Reino do Luar, causa dano de **50%** do ATQ + **300** por segundo aos alvos ao alcance.\r\n\r\nEquilíbrio: Quando Malhasombria está equipada com duas armas de elementos diferentes (dentre fogo, raio, gelo e físico), o seu ATQ aumenta em **15%** dentro do Reino do Luar, e considera-se que as ressonâncias ígnea, elétrica, gélida e física foram ativadas sem efeitos de ressonância.",
+				"icon": "skill_Fan_skill",
+				"id": "GA_FPlayerFanSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Tecelão Gravitacional",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você** e libera Tecelão Gravitacional com uma força de absorção mais potente. Causa dano de **368.5%** do ATQ + **2211**. Em seguida, explode e cria uma onda de difusão em área após **5** segundos, que causa dano de **184.3%** do ATQ + **1106**. A imunidade a dano dura **1,5** segundo enquanto a habilidade estiver ativa (indisponível na Liga do Apogeu).",
+				"icon": "skill_Fan_changeskill",
+				"id": "GA_FPlayerFanChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "Combinar a Malhasombria com outras armas cria o efeito **mestre das armas**.\r\nDamas-da-noite aparecem aleatoriamente ao redor do alvo e explodem dentro de **1 a 3** segundos, causando **37.5%** de dano em área.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Ataques normais agora causam dano em área ao atingir um inimigo.\r\nQuando há outra dama-da-noite na área da explosão, o dano de cada dama-da-noite subsequente aumenta em **1000%**, limitado a **5000%**.\r\nO intervalo em que **Reino do Luar** gera damas-da-noite diminui para **0,5** segundo.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "O intervalo em que **Reino do Luar** gera damas-da-noite diminui para **0,3** segundo.\r\nAs damas-da-noite vão se prender ao inimigo.\r\nA duração do **Reino do Luar** aumenta para **20** segundos.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Sob o efeito do **Reino do Luar**, ganha **30** cargas de arma por segundo e aumenta o dano causado por habilidades de descarga em **15%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Troque de modo no **Reino do Luar** até **2** vezes. Ganha **1** tentativa quando o tempo de recarga de habilidade termina e mais **1** tentativa por carregar a descarga.\r\nUsar a descarga de qualquer arma **3** vezes confere **+1** tentativa no **Reino do Luar**. Surte efeito mesmo quando Malhasombria estiver no espaço secundário.\r\nSob o efeito do **Reino do Luar**, aumenta o ataque em **23%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		}
+	],
+	"id": "fan_superpower"
+}

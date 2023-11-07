@@ -1,0 +1,14 @@
+{
+	"name": "セベク・策略",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "トーパーの潜む沼に足を踏み入れぬようご注意を",
+	"icon": "icon_matrix_SR4_512",
+	"gachaIcon": "icon_matrix_SR4_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "周囲に敵がいる場合、1体につきダメージ+**6%**/7.5%/9%。3スタックまで可能"
+		}
+	],
+	"id": "matrix_SR4_1"
+}

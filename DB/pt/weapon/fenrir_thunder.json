@@ -1,0 +1,193 @@
+{
+	"name": "Gleipnir",
+	"avatar": {
+		"name": "Fenrir",
+		"advanceId": "imitation_32L1",
+		"weapon": "fenrir_thunder",
+		"icon": "imitation_32",
+		"avatarID": "fenlier",
+		"age": "13 de fevereiro",
+		"height": "1,60m",
+		"gender": "Feminino",
+		"state": "Clube Oásis",
+		"city": "Desconhecido",
+		"rating": "wuwei_imitation_32",
+		"gp": [
+			"toy",
+			"collection",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 孙艳琦"
+			},
+			{
+				"Japanese": "CV : 丹下 桜"
+			},
+			{
+				"English": "CV : Corina Boetger"
+			},
+			{
+				"Korean": "CV : 강은애"
+			},
+			{
+				"Portuguese": "CV : Jullie"
+			}
+		],
+		"id": "imitation_32"
+	},
+	"description": "Um dispositivo especial que converte ondas sonoras em ataque. Quando os grilhões se despedaçam, as correntes da morte se tornam garras afiadas que destroem tudo.",
+	"icon": "item_Weapon_SSR_Fenrir_Thunder01",
+	"gachaIcon": "SSR_lh_fenlier",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Fenrir",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "fenrir_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Latido",
+				"description": "No chão, ataque 7 vezes.\r\nPrimeiro ataque: Causa dano de **48.6%** do ATQ + **482**.\r\nSegundo ataque: Causa dano de **54.1%** do ATQ + **537**.\r\nTerceiro ataque: Causa dano de **54.1%** do ATQ + **537**.\r\nQuarto ataque: Causa dano de **85.4%** do ATQ + **847**.\r\nQuinto ataque: Causa dano de **54.1%** do ATQ + **537**.\r\nSexto ataque: Causa dano de **152.9%** do ATQ + **1516**.\r\nSétimo ataque: Causa dano de **169%** do ATQ + **1676**.",
+				"icon": "skill_fenrir_melee",
+				"id": "GA_FPlayerFenrirMelee_Melee"
+			},
+			{
+				"name": "Libertação",
+				"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 7 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **52.9%** do ATQ + **524**.\r\nSegundo ataque: Causa dano de **60.8%** do ATQ + **603**.\r\nTerceiro ataque: Causa dano de **60.8%** do ATQ + **603**.\r\nQuarto ataque: Causa dano de **105.8%** do ATQ + **1049**.\r\nQuinto ataque: Causa dano de **79.3%** do ATQ + **787**.\r\nSexto ataque: Causa dano de **183.4%** do ATQ + **1819**.\r\nSétimo ataque: Causa dano de **202.8%** do ATQ + **2011**.",
+				"icon": "skill_fenrir_airattack",
+				"id": "GA_FPlayerFenrirMelee_AirAttack"
+			},
+			{
+				"name": "Mordida Lupina",
+				"description": "No chão, segure o botão de ataque normal durante o segundo ao quarto ataque normal para usar Mordida Lupina.\r\nInveste adiante rapidamente, causando dano de **69%** do ATQ + **684** e repelindo o alvo.\r\nApós usar Mordida Lupina, segure o botão de ataque normal para usar Golpe Alto.\r\nDá um golpe para cima, causando dano de **93.1%** do ATQ + **923** e suspendendo o alvo.",
+				"icon": "skill_fenrir_branch1",
+				"id": "GA_FPlayerFenrirMelee_MeleeBranch"
+			},
+			{
+				"name": "Caçada Perigosa",
+				"description": "No chão, segure o botão de ataque normal durante o quinto ou o sexto ataque normal para usar Caçada Perigosa.\r\nDespenca das alturas, recebe invencibilidade temporária e causa dano de **254.3%** do ATQ + **2522** ao alvo e o suspende.",
+				"icon": "skill_fenrir_branch3",
+				"id": "GA_FPlayerFenrirMelee_MeleeBranch3"
+			},
+			{
+				"name": "Rugido dos Céus",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (toque quando houver um alvo), ou use o ataque normal ao escalar, pular para trás ou usar a mochila a jato para usar Rugido dos Céus.\r\nDespenca das alturas, causa dano de **200%** do ATQ + **1983** ao aterrissar e suspende os alvos circundantes.\r\nApós usar Rugido dos Céus, segure o botão de ataque normal novamente para usar Rugido.\r\nSolta um rugido aterrorizante e recebe invencibilidade temporária. Causa dano de **200%** do ATQ + **1983** a alvos próximos e os repele.",
+				"icon": "skill_fenrir_jumpattack",
+				"id": "GA_FPlayerFenrirMelee_JumpAttack"
+			},
+			{
+				"name": "Última Nota",
+				"description": "No ar, segure o botão de ataque normal ao usar a segunda à sétima Libertação para usar Última Nota.\r\nPercorre o ar múltiplas vezes e causa dano de **277.3%** do ATQ + **2750** a alvos circundantes.",
+				"icon": "skill_fenrir_airattackbranch",
+				"id": "GA_FPlayerFenrirMelee_AirAttackBranch"
+			},
+			{
+				"name": "Reverberação",
+				"description": "Cada vez que um alvo é atingido por um ataque normal, há **50%** de chance de aplicar **1** nota musical no alvo, que dura **15** segundos. Acumula até **5** notas.\r\n**Mordida Lupina**, **Caçada Perigosa** e **Rugido dos Céus** têm **100%** de chance de aplicar **1** nota no alvo ao atingir.\r\nUma nota só pode ser aplicada uma vez a cada **1** segundo.\r\n**Passiva**: **Última Nota** e **Melodia** vão detonar todas as notas músicas aplicadas no alvo ao atingi-lo, causando dano de **20%** do ATQ × o número de notas musicais detonadas. O dano será em dobro se **3** ou mais notas forem detonadas.\r\n**Passiva**: deixa o alvo intoxicado após detonar **2** ou mais notas musicais. Causa dano equivalente a **1%** da vida máxima por segundo durante **16** segundos.\r\nO dano decorrente da detonação de notas musicais e da intoxicação é considerado dano de ataque de esquiva.",
+				"icon": "skill_fenrir_beidong",
+				"id": "GA_FPlayerFenrirMelee_Beidong"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Melodia",
+				"description": "Ataca com as garras. Causa dano de **210.8%** do ATQ + **1265** a alvos circundantes e os derruba.",
+				"icon": "skill_fenrir_evadeattack",
+				"id": "GA_FPlayerFenrirEvade_EvadeAttack"
+			},
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.\r\n**Passiva**: Aplica uma nota musical no alvo.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerFenrirEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Austro do Pop",
+				"description": "Separa a consciência do corpo do alvo e causa dano de **124.1%** do ATQ + **745** ao atingir. Cria um Mundo Musical na sua posição atual que dura **30** segundos, no qual o dano sofrido por você é reduzido em **8%** e **20%** da defesa do alvo são ignorados.\r\nA consciência tem vida equivalente a **30** vezes a sua vida máxima. Recebe apenas dano ativo da **Gleipnir**, e **100%** do dano são transferidos para o corpo do alvo (**1%** para Errantes inimigos), enquanto você recupera vida equivalente a **50%** do ATQ. Enquanto a consciência está separada, você sofre **12%** a menos de dano do corpo principal do alvo. A consciência dura até **15** segundos.\r\nQuando a consciência retorna para o corpo principal do alvo, ela causa dano em área de **705.4%** do ATQ + **4232**.\r\nRetorno da consciência: a consciência retorna para o corpo principal quando é derrotada, sua duração chega ao fim, se afasta demais do corpo ou uma nova consciência é separada.\r\nTempo de recarga de Austro do Pop: **30** seg.",
+				"icon": "fenrir_skill",
+				"id": "GA_FPlayerFenrirSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Auuuu!",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, ao trocar para esta arma, **remove todos os efeitos negativos de você**, em seguida corre para o alvo e ataca, causando dano de até **661.8%** do ATQ + **3971** aos alvos na área e aplicando **3** notas musicais neles. Fica brevemente invencível enquanto a habilidade estiver ativa (indisponível na Liga do Apogeu e nos Perigos Abissais).",
+				"icon": "skill_fenrir_changeskill",
+				"id": "GA_FPlayerFenrirChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância elétrica**: Aumenta o ATQ elétrico em **15%** e a resistência elétrica em **25%**. Ativa-se ao equipar **2** ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário e não se acumula com efeitos do mesmo tipo.\r\n**Equilíbrio elemental**: Aumenta todos os ATQs em **15%**. Ativa-se ao equipar **3** armas de elementos diferentes. O efeito deste conjunto funciona no espaço secundário.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Quando **Austro do Pop** separa uma consciência de um corpo e está recarregando, você recebe a habilidade **Febre Aurática**. Corre para o alvo e ataca várias vezes, causando dano de até **720%** do ATQ. Cada golpe acertado desacelera o inimigo brevemente e restaura vida equivalente a **100%** do ATQ. O último golpe a acertar o alvo aplica **2** notas musicais nele. Tempo de recarga da Febre Aurática: **15** segundos.\r\nQuando **3** ou mais notas forem detonadas e faltarem mais de **5** segundos para Febre Aurática recarregar, o tempo de recarga será zerado. Esse efeito só pode ser acionado uma vez a cada **15** segundos.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Quando Mundo Musical estiver ativo:\r\nA cada **45%** da vida máxima perdidos ou ao usar a habilidade **Febre Aurática**, aciona um **Abalo Musical** que causa dano de **650%** do ATQ aos alvos no Mundo Musical.\r\nA cada **99%** da vida máxima perdidos, recebe **1** escape da morte durante **45** segundos (bloqueia um efeito letal e fica imune a dano durante pouco tempo). Acumula até **1** vez.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Aumenta o multiplicador de dano da detonação de notas musicais para **40%** e o dano prolongado causado por intoxicação para **1,5%** da vida máxima por segundo.\r\nEnquanto Mundo Musical estiver ativo, **Abalo Musical** é acionado automaticamente se passar **12** segundos sem ser acionado durante o combate.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		},
+		{
+			"description": "Aumenta a taxa de crítico em **18%** enquanto usa a **Gleipnir**. O aumento da taxa de crítico dura mais **5** segundos após trocar para outra arma.",
+			"stats": {
+				"shatter": 13.5,
+				"charge": 10.5
+			},
+			"need": "fenrir_thunder_plasm"
+		}
+	],
+	"id": "fenrir_thunder"
+}

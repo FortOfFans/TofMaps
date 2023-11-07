@@ -1,0 +1,14 @@
+{
+	"name": "Pepper",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Quem pode explicar a ela que já faz muito tempo que ela trabalha feito cão?",
+	"icon": "icon_matrix_SR6_512",
+	"gachaIcon": "icon_matrix_SR6_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Aumenta a velocidade de obtenção de carga de arma em **10%**/12,5%/15%."
+		}
+	],
+	"id": "matrix_SR6_1"
+}

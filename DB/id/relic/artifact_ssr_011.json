@@ -1,0 +1,11 @@
+{
+	"name": "Alternate Destiny",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "Kata orang, suatu organisasi misterius menciptakan perangkat ini agar penggunanya tidak mati. Sebagian orang bilang bahwa perangkat ini didasarkan pada kisah tentang buah keemasan dan seorang pemanah satyr, sedangkan sebagian yang lain meyakini bahwa perangkat ini diciptakan khusus untuk mengatasi ledakan Menara Omnium.",
+	"source": "Menghasilkan Pocket Dimension selama **8** detik. Wanderer kawan mendapat kekebalan terhadap efek Hitstun dalam dimensi itu, dan HP tidak akan berkurang di bawah **20%** karena serangan musuh. CD: **90** detik. Semua buff akan dihapus jika keluar dari dimensi. Setelah menghabiskan waktu **8** detik di dalam dimensi, kamu tidak bisa menerima buff darinya selama **45** detik.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_011_icon.png",
+	"shortIcon": "artifact_ssr_011_icon",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_032",
+	"id": "artifact_ssr_011"
+}

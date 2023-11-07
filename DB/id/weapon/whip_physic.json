@@ -1,0 +1,198 @@
+{
+	"name": "Mobius",
+	"avatar": {
+		"name": "Umi",
+		"advanceId": "imitation_31L1",
+		"weapon": "whip_physic",
+		"icon": "imitation_31",
+		"avatarID": "wumi",
+		"age": "20 Oktober",
+		"height": "162 cm",
+		"gender": "Perempuan",
+		"state": "Hykros Distrik 7",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_31",
+		"gp": [
+			"game",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 刘雯"
+			},
+			{
+				"Japanese": "CV : M・A・O"
+			},
+			{
+				"English": "CV : Anne Yatco"
+			},
+			{
+				"Korean": "CV : 김연우"
+			},
+			{
+				"Portuguese": "CV : Pâmela Rodrigues"
+			}
+		],
+		"id": "imitation_31"
+	},
+	"description": "Cambuk yang disukai oleh si Eksekutor pemula, Umi. Bagian favorit Umi dari cambuk itu adalah bahwa kadang Umi tidak tersandung oleh cambuk itu.",
+	"icon": "item_Weapon_SSR_Whip_Phy01",
+	"gachaIcon": "SSR_lh_wumi",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Whip",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "Whip_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Basic Technique",
+				"description": "Saat di darat, gunakan Mobius untuk melakukan 5 serangan beruntun.\r\nSerangan Pertama: Menimpakan DMG sebesar **76.9%** ATK plus **461** dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **84.4%** ATK plus **506** dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **112.1%** ATK plus **673** dan membuat target terjatuh.\r\nSerangan Keempat: Menimpakan DMG sebesar **105.5%** ATK plus **633** dan menyeret target.\r\nSerangan Kelima: Menimpakan DMG sebesar **265.1%** ATK plus **1590** dan membuat target terpental ke atas.\r\nShatter meningkat **50%**.",
+				"icon": "skill_whip_melee",
+				"id": "GA_FPlayerWhipMelee_Melee"
+			},
+			{
+				"name": "Air Combo",
+				"description": "Saat di udara, gunakan Serangan Biasa yang mengonsumsi Stamina untuk menyerang 5 kali berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **46%** ATK plus **276**.\r\nSerangan Kedua: Menimpakan DMG sebesar **66.5%** ATK plus **399**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **88.4%** ATK plus **530**.\r\nSerangan Keempat: Menimpakan DMG sebesar **88.8%** ATK plus **533**.\r\nSerangan Kelima: Menimpakan DMG sebesar **260.5%** ATK plus **1563**.",
+				"icon": "skill_whip_airattack",
+				"id": "GA_FPlayerWhipMelee_AirAttack"
+			},
+			{
+				"name": "Out Of The Blue",
+				"description": "Saat menggunakan Basic Technique di darat, tekan dan tahan Serangan Biasa untuk mengaktifkan Out of the Blue secara langsung sesuai dengan target yang dibidik saat ini. Target terbidik yang ukurannya lebih kecil menerima DMG sebesar **105%** ATK plus **630** dan menarik target di sekitar. Target terbidik yang ukurannya lebih besar menerima DMG sebesar **85.5%** ATK plus **513** dan menarik target di sekitar. Shatter dari skill ini meningkat lagi sebesar **50%**.",
+				"icon": "skill_whip_branch",
+				"id": "GA_FPlayerWhipMelee_MeleeBranch"
+			},
+			{
+				"name": "Stage Rotation ",
+				"description": "Tekan dan tahan Serangan Biasa saat di udara atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Pummel.\r\nMelakukan hantaman dari angkasa, menimpakan DMG sebesar **121.5%** ATK plus **729** dan membuat target terpental ke atas.",
+				"icon": "skill_whip_jumpattack",
+				"id": "GA_FPlayerWhipMelee_JumpAttack"
+			},
+			{
+				"name": "Close-up Magic",
+				"description": "Tekan dan tahan Serangan Biasa di darat untuk mengisi Anticipation, lalu lepaskan tombol untuk memicu Close-up Magic sesuai dengan target yang dibidik saat ini. Target terbidik yang ukurannya lebih kecil menerima DMG sebesar **105%** ATK plus **630** dan menarik target di sekitar. Target terbidik yang ukurannya lebih besar menerima DMG sebesar **85.5%** ATK plus **513** dan menarik target di sekitar. Shatter dari skill ini meningkat lagi sebesar **50%**.",
+				"icon": "skill_whip_powerattack",
+				"id": "GA_FPlayerWhipMelee_PowerAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Grand Illusion",
+				"description": "Gunakan tombol Serangan Biasa dalam rentang waktu singkat setelah menghindar untuk mengaktifkan Grand Illusion, menimpakan DMG sebesar **187.2%** ATK **1123** kepada target di sekitar. Shatter dari skill ini meningkat lagi sebesar **50%**.",
+				"icon": "skill_whip_evadeattack",
+				"id": "GA_FPlayerWhipEvade_EvadeAttack"
+			},
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Saat menghindar, kamu menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerWhipEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "It's Magic Time",
+				"description": "Menimpakan DMG dengan senjata apa pun di slot utama akan mengakumulasi **Warm-Up Point**. CD: **0,06** detik. Senjata Physical mengakumulasi **1** Warm-Up Point di setiap serangan, sedangkan Senjata Non-Physical mengakumulasi **0,5** Warm-Up Point di setiap serangan. Jumlah **Warm-Up Point** yang kamu miliki bisa dilihat di **Magic Gauge**, maks **100** Warm-Up Point. Saat memasuki pertempuran, langsung mendapatkan **100** **Warm-Up Point**.\r\nSkill tertentu bisa digunakan setelah terkumpul **100** **Warm-Up Point** di **Magic Gauge**. Mengumpulkan musuh di suatu area dan menimpakan DMG sebesar **950%** ATK plus **5700** kepada target. Menjadi kebal untuk sementara (tidak berlaku di Apex League dan Critical Abyss) dan menurunkan kecepatan target di area serang (tidak berlaku di Apex League dan Critical Abyss). Di waktu yang sama, aktifkan **Magic Trick** untuk terus mengonsumsi **Warm-Up Point** selama **18** detik. CD: **30** detik. CD ini tidak terpengaruh oleh efek (termasuk penghapusan, reset, atau perubahan CD) yang tidak berasal dari Mobius. Selama durasi ini, tombol skill akan digantikan dengan tombol Cut Card.\r\nSelama **Magic Trick** aktif, mendapatkan satu kartu **Poker Card** **Spade** atau **Heart** secara otomatis setiap 2 detik. Tipe **Poker Card** yang akan diperoleh bisa diganti lebih awal dengan tombol Cut Card. Saat ada **2** **Poker Card**, **Card Magic** yang terkait akan digunakan secara otomatis. CD: **3,8** detik.\r\nSelama **Magic Trick** aktif, kamu mendapatkan Hyperbody dan dianggap sedang memiliki perisai. **Magic Gauge** juga tidak akan bertambah lagi secara otomatis. Meningkatkan Physical DMG serangan Mobius (Serangan Biasa dan Serangan Dodge) sebesar **10%** dan Shatter sebesar **20%**.\r\nKombinasi **Poker Card** yang berbeda akan mengaktifkan efek **Card Magic** yang berbeda pula.\r\nHeart + Spade → **Psychic Puppet**\r\nHeart + Heart → **Contradiction Corrosion**\r\nSpade + Spade → **Card Sweep**\r\n**Magic Trick** berakhir saat beralih ke senjata lain dengan cara apa pun atau saat mati.\r\nSaat Magic Trick berakhir, kamu mendapatkan Hyperbody selama **20** detik. Jika ini berakhir dengan sendirinya, menimpakan DMG tambahan sebesar **1.000%** ATK kepada target di sekitar.",
+				"icon": "whip_skill",
+				"id": "GA_FPlayerWhipSkill_Skill"
+			},
+			{
+				"name": "Psychic Puppet",
+				"description": "Mengeluarkan kawanan kelelawar dari topimu dan memperkuat dirimu. Selama **Magic Trick** aktif, Physical DMG yang ditimpakan Mobius meningkat **7,5%**, dan hanya **60%** dari total DMG yang diterima yang akan diberlakukan. **40%** DMG sisanya akan dikurangi dari HP kamu dalam waktu **10** detik setelah **Magic Trick** berakhir. Efek tertunda ini hanya berlaku jika Resonansi Fortitude tidak aktif.",
+				"icon": "whip_skillAB",
+				"id": "GA_FPlayerWhipSkill_Skill_MagicAB"
+			},
+			{
+				"name": "Contradiction Corrosion",
+				"description": "Langsung memulihkan **10%** Max HP dan menanam Corrosion Flower pada maks **7** target dalam radius tertentu yang menimpakan DMG sebesar **260%** ATK setiap detik selama **3** detik.",
+				"icon": "whip_skillAA",
+				"id": "GA_FPlayerWhipSkill_Skill_MagicAA"
+			},
+			{
+				"name": "Card Sweep",
+				"description": "Mengeluarkan sejumlah besar kartu yang beterbangan dan membentuk pusaran badai yang mengerubungi lokasi target, menyerang target hingga **12** kali dan menimpakan DMG dengan total **850%** ATK.",
+				"icon": "whip_skillBB",
+				"id": "GA_FPlayerWhipSkill_Skill_MagicBB"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Sleight of Hand",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan mengeluarkan Sleight of Hand sambil menjadi kebal untuk sementara (tak tersedia dalam Apex League dan Critical Abyss). Saat mendarat, menimpakan DMG sebesar **316.2%** ATK plus **1897** kepada target. Setelah mengayunkan cambuk, menimpakan DMG sebesar **737.8%** ATK plus **4426** kepada target dan membuat target **Terpental Keras** ke udara.",
+				"icon": "skill_whip_changeskill",
+				"id": "GA_FPlayerWhipChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonansi Physical**: Physical ATK meningkat **15%** dan Physical Resistance meningkat **25%**. Aktifkan dengan cara memakai **2** Senjata Physical atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "None"
+		},
+		{
+			"description": "Saat beralih ke Mobius, langsung mendapatkan **30** Warm-Up Point. CD: **17** detik. Saat memasuki Magic Trick, menimpakan DMG area sebesar **840%** ATK ke target di sekitar dan mengurangi Physical Resistance mereka sebesar **1000%** selama **20** detik.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Saat Magic Trick diakhiri lebih awal, menimpakan DMG dalam area yang luas selama **13** detik. CD dari skill Mobius saat ini akan dipersingkat dan Physical DMG meningkat **25%** untuk sementara (efek ini tidak berlaku bagi Mobius). Jika sisa waktu Magic Trick lebih dari **13** detik, mendapatkan **200** Charge Senjata. Makin lama sisa waktu saat Magic Trick berakhir, makin besar DMG area yang ditimpakan, makin banyak pengurangan CD skill, dan makin lama durasi peningkatan Physical DMG. DMG area yang ditimpakan tak bisa lebih dari **200%** ATK (DMG maksimumnya akan ditimpakan jika waktu yang tersisa lebih dari **13** detik). Batas maksimum pengurangan CD adalah **13** detik, sedangkan peningkatan Physical DMG memiliki durasi maksimal **20** detik.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Saat memasuki Magic Trick, mendapatkan efek Psychic Puppet yang meningkatkan Physical DMG Boost Mobius menjadi **15%**. Selama Magic Trick aktif, memulihkan **2%** Max HP dan **10** Charge Senjata setiap detik.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Selama durasi Magic Trick, Mobius mendapatkan satu cambuk tambahan yang akan diayunkan secara otomatis setiap kali Wanderer menggunakan Mobius untuk melancarkan Serangan Biasa atau Serangan Menghindar, menimpakan DMG sebesar **100%** ATK Mobius (DMG ini tidak dianggap sebagai DMG Serangan Biasa).",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		}
+	],
+	"id": "whip_physic"
+}

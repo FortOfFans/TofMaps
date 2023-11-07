@@ -1,0 +1,187 @@
+{
+	"name": "Tigre Alabastro",
+	"avatar": {
+		"name": "Ling Han",
+		"advanceId": "imitation_43L1",
+		"weapon": "linghan_ice",
+		"icon": "imitation_43",
+		"avatarID": "linghan",
+		"age": "7 de junho",
+		"height": "1,81 m",
+		"gender": "Feminino",
+		"state": "Pavilhão Longjian",
+		"city": "Vilagos",
+		"rating": "wuwei_imitation_43",
+		"gp": [
+			"collection",
+			"decorate",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : kiyo"
+			},
+			{
+				"Japanese": "CV : 原 由実"
+			},
+			{
+				"English": "CV : Dominique North"
+			},
+			{
+				"Korean": "CV : 김윤채"
+			},
+			{
+				"Portuguese": "CV : SAMIRA FERNANDES"
+			}
+		],
+		"id": "imitation_43"
+	},
+	"description": "Com espadas divinas e agitação, quem pode sondar as profundezas deste meu coração?",
+	"icon": "item_Weapon_SSR_Linghan_Ice01",
+	"gachaIcon": "UI_SSR_lh_linghan",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Linghan",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "Linghan_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Arte da Espada: Navalha Lunar",
+				"description": "No chão, use o botão de ataque normal para executar 6 ataques seguidos.\r\nPrimeiro ataque: Causa dano de **97.8%** do ATQ + **587** e repele o alvo.\r\nSegundo ataque: Causa dano de **129.4%** do ATQ + **776** e repele o alvo.\r\nTerceiro ataque: Causa dano de **207.2%** do ATQ + **1243** e repele o alvo.\r\nQuarto ataque: Causa dano de **125%** do ATQ + **750** e repele o alvo.\r\nQuinto ataque: Causa dano de **226%** do ATQ + **1356** e puxa os inimigos para a sua frente.\r\nSexto ataque: Causa dano de **253.6%** do ATQ + **1521** e lança o alvo no ar.\r\nApós acionar Arte da Espada: Navalha Lunar, segure o botão de ataque normal para acionar **Arte da Espada: Nevasca Infinita**.\r\n\r\nAcertar qualquer golpe do ataque normal do **Tigre Alabastro** aplica **1** acúmulo de **fenda cristalina** no alvo, que causa dano de ataque normal de **48%** do ATQ por segundo durante **15** segundos. Somente **1** acúmulo de fenda cristalina pode ser aplicado a um mesmo alvo a cada **4** segundos. Acumula até **3** vezes. Os acúmulos são removidos um a um depois que o efeito termina.",
+				"icon": "skill_linghan_melee",
+				"id": "GA_FPlayerLinghanMelee_Melee"
+			},
+			{
+				"name": "Arte da Espada: Clamor de Ameixa",
+				"description": "No ar, use o botão de ataque normal para atacar 6 vezes seguidas enquanto consome vigor.\r\nPrimeiro ataque: Causa dano de **95.9%** do ATQ + **575**.\r\nSegundo ataque: Causa dano de **100.7%** do ATQ + **604**.\r\nTerceiro ataque: Causa dano de **218.6%** do ATQ + **1311**.\r\nQuarto ataque: Causa dano de **130%** do ATQ + **780**.\r\nQuinto ataque: Causa dano de **213.7%** do ATQ + **1282**.\r\nSexto ataque: Causa dano de **256.9%** do ATQ + **1541**.",
+				"icon": "skill_linghan_airattack",
+				"id": "GA_FPlayerLinghanMelee_AirAttack"
+			},
+			{
+				"name": "Arte da Espada: Nevasca Infinita",
+				"description": "No chão, segure o botão de ataque normal para acionar Arte da Espada: Nevasca Infinita.\r\nUsa o controle mental para manipular a espada enquanto consome vigor, período no qual você recebe corpo de aço. Cada ataque acertado causa dano de **140.8%** do ATQ + **845** aos alvos próximos.\r\nQuando Arte da Espada: Nevasca Infinita termina, lança uma aura de espada poderosa que causa dano de **422.4%** do ATQ + **2534** aos alvos próximos.",
+				"icon": "skill_linghan_powerattack",
+				"id": "GA_FPlayerLinghanMelee_PowerAttack"
+			},
+			{
+				"name": "Arte da Espada: Graupel",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Arte da Espada: Graupel.\r\nEnquanto cai, cada golpe causa dano de **75%** do ATQ + **450**. Ao aterrissar, causa dano de **366.7%** do ATQ + **2200** aos alvos próximos.",
+				"icon": "skill_linghan_jumpattack",
+				"id": "GA_FPlayerLinghanMelee_JumpAttack"
+			},
+			{
+				"name": "Passos Leves",
+				"description": "No ar após um salto duplo, use o botão de saltar para acionar Passos Leves. Toma um impulso breve para cima, depois plana para baixo. No ar, Passos Leves pode ser usada até **2** vezes.\r\nNo chão, **1** chance de uso de Passos Leves é restaurada a cada **10** segundos. (Mudar de área ou desequipar o **Tigre Alabastro** zera as chances de uso.)",
+				"icon": "skill_linghan_qinggong",
+				"id": "GA_FPlayerLinghanMelee_QingGong"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerLinghanEvade_Evade"
+			},
+			{
+				"name": "Arte da Espada: Cerração",
+				"description": "Use o botão de ataque normal durante o tempo de esquiva perfeita (use o direcional antes de esquivar-se) para acionar Arte da Espada: Cerração. Causa dano de até **305%** do ATQ + **1830** aos alvos atingidos.",
+				"icon": "skill_linghan_fevadeattack",
+				"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Arte da Espada: Alma Mortal",
+				"description": "Use o botão de ataque normal logo após se esquivar para acionar Arte da Espada: Alma Mortal. Gera uma ilusão de tigre branco que causa dano de **174.3%** do ATQ + **1046** aos alvos à frente.",
+				"icon": "skill_linghan_bevadeattack",
+				"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Arte da Espada: Sinceno Sombrio",
+				"description": "Causa dano de **370.2%** do ATQ + **2221** aos alvos próximos e os puxa. Então, forma uma matriz de espadas para provocar uma chuvarada de espadas e **congelar forte** os alvos (indisponível na Liga do Apogeu e contra chefes) durante **4** segundos. Tempo de recarga: **30** seg.\r\nUsar Arte da Espada: Sinceno Sombrio com êxito faz você emitir **ar frio**, que causa dano de **68%** do ATQ aos alvos próximos por segundo e diminui a velocidade deles em **30%** (indisponível na Liga do Apogeu e contra chefes). Ao mesmo tempo, aumenta o seu dano gélido em **8%** durante **35** segundos.\r\nExecutar completamente Arte da Espada: Sinceno Sombrio faz você criar várias **lâminas gélidas**. Lança **1** lâmina a cada **7,5** segundos no alvo travado no momento, que causa dano de **360%** do ATQ e inflige **redução de temperatura** a ele. Até **3** **lâminas gélidas** podem ser criadas inicialmente, e todas as lâminas são removidas fora de combate.\r\n**Redução de temperatura**: Causa dano de **240%** do ATQ a cada **3** segundos durante **12** segundos aos alvos próximos.",
+				"icon": "skill_linghan_skill",
+				"id": "GA_FPlayerLinghanSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Arte da Espada: Gesto Gélido",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, trocar para esta arma **remove todos os efeitos negativos de você** e invoca uma matriz de espadas ao seu redor, que envolve a área em frio e causa dano de até **844.5%** do ATQ + **5067** aos alvos próximos. Logo depois, invoca um tigre branco que causa dano de **1971%** do ATQ + **11825**, período no qual a imunidade a dano dura **1,5** segundos (indisponível na Liga do Apogeu).\r\n**Passiva**: Acertar um golpe com Arte da Espada: Gesto Gélido aumenta o dano final em **8%** durante **30** segundos.",
+				"icon": "skill_linghan_changeskill",
+				"id": "GA_FPlayerLinghanChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância gélida**: Aumenta o ATQ gélido em **15%** e a resistência gélida em **25%**. Ativa-se ao equipar **2** ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos de mesmo tipo.\r\n**Frio extremo: Descarregar**: Após usar **Arte da Espada: Sinceno Sombrio**, a cada segundo causa dano equivalente a **70%** do ATQ gélido + **10%** da vida máxima do Errante + **36%** da soma de todos os tipos de resistência do Errante + **135%** do crítico aos alvos próximos durante **30** segundos. Danos múltiplos de descarregar não se acumulam, e o dano de frio extremo conta como dano de habilidade. Se houver **1** arma elétrica/ígnea/física de qualquer tipo equipada, o dano de frio extremo é multiplicado por **1.3**. Além disso, o dano de frio extremo não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Após lançar **lâminas gélidas**, o seu ATQ gélido aumenta em **10%**, e os alvos próximos sofrem dano de **104%** do ATQ por segundo durante **30** segundos.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "Você pode produzir até **4** **lâminas gélidas**, e o multiplicador básico de **redução de temperatura** aumenta para **468%**.\r\nSe o alvo for o único afetado por **redução de temperatura** em até **6** segundos, aplica também **bloqueio venoso** nele, diminuindo a velocidade do mesmo em **30%** (indisponível na Liga do Apogeu e contra chefes). Se o alvo sofrer dano de **lâmina gélida** novamente durante **bloqueio venoso**, aciona criodetonação, que causa dano de habilidade equivalente a **1700%** do ATQ + **2%** da vida faltante do alvo (o dano de criodetonação não será inferior a **2000%** do seu ATQ gélido nem superior a **2200%** do seu ATQ gélido). Depois disso, os efeitos **bloqueio venoso** e **redução de temperatura** são removidos do alvo.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "O dano causado por **fenda cristalina** e **ar frio** aumentam em mais **50%**. As chances de uso de **Passos Leves** aumentam para **10**, e a taxa de recuperação aumenta para **1** chance a cada **3** segundos.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "O efeito **redução de temperatura** infligido após lançar **lâminas gélidas** passa a ser aplicado em área e também causa dano adicional de **1.170%** do ATQ aos alvos próximos.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		}
+	],
+	"id": "linghan_ice"
+}

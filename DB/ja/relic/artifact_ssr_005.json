@@ -1,0 +1,11 @@
+{
+	"name": "時空の裂け目",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "もう時間停止能力に頼らなくても大丈夫。時空の裂け目さえあれば、空間崩壊を起こして時間の管理者となり、周囲のターゲットを引き寄せることができる",
+	"source": "陽子爆弾を利用して目の前の空間を崩壊させ、範囲内のターゲットを**10**秒間引き寄せる。1.5秒の遅延後、中心部では**0.5**秒ごとに攻撃力×**0%**のダメージを与える。クールダウン**100**秒",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_005.png",
+	"shortIcon": "artifact_ssr_005",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_026",
+	"id": "artifact_ssr_005"
+}

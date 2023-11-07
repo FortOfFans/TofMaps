@@ -1,0 +1,185 @@
+{
+	"name": "Shadoweave",
+	"avatar": {
+		"name": "Lin",
+		"advanceId": "imitation_23L1",
+		"weapon": "fan_superpower",
+		"icon": "imitation_23",
+		"avatarID": "linye",
+		"age": "3 September",
+		"height": "175cm",
+		"gender": "Perempuan",
+		"state": "Hykros Distrik 7",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_23",
+		"gp": [
+			"metal",
+			"decorate",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈婷婷"
+			},
+			{
+				"Japanese": "CV : 南條 愛乃"
+			},
+			{
+				"English": "CV : Erin Yvette"
+			},
+			{
+				"Korean": "CV : 조경이"
+			},
+			{
+				"Portuguese": "CV : Carol Valença"
+			}
+		],
+		"id": "imitation_23"
+	},
+	"description": "Awalnya, senjata ini dirancang agar menjadi seperti senjata rahasia yang ringan, tapi kemudian diubah menjadi seperti pedang besar atas permintaan dari penggunanya sendiri. Sama sekali tidak ringan dan tidak tampak seperti senjata rahasia.",
+	"icon": "item_Weapon_SSR_fan_superpower01",
+	"gachaIcon": "SSR_lh_linye",
+	"rarity": "SSR",
+	"element": "Superpower",
+	"weaponType": "Fan",
+	"wc": "DPS",
+	"mats": {
+		"Item_breakthrough_A1": 28,
+		"Item_breakthrough_B1": 28,
+		"": null,
+		"Item_breakthrough_C1": 26,
+		"Item_breakthrough_D1": 26,
+		"Item_breakthrough_A2": 50,
+		"Item_breakthrough_B2": 50,
+		"Item_breakthrough_C2": 50,
+		"Item_breakthrough_D2": 50,
+		"Item_breakthrough_A3": 26,
+		"Item_breakthrough_B3": 26,
+		"Item_breakthrough_C3": 26,
+		"Item_breakthrough_D3": 26
+	},
+	"advanceID": "fan_superpower_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Serangan Biasa",
+				"description": "Saat di darat, gunakan Shadoweave untuk melakukan 5 serangan beruntun.\r\nSerangan Pertama: Menimpakan DMG sebesar **59.9%** ATK plus **359**.\r\nSerangan Kedua: Menimpakan DMG sebesar **57.1%** ATK plus **343**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **49.5%** ATK plus **297**. \r\nSerangan Keempat: Menimpakan DMG sebesar **114.2%** ATK plus **685** dan membuat target terpental.\r\nSerangan Kelima: Menimpakan DMG sebesar **152.2%** ATK plus **913**.",
+				"icon": "skill_Fan_melee",
+				"id": "GA_FPlayerFanMelee_Melee"
+			},
+			{
+				"name": "Aerial Discharge",
+				"description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **30.6%** ATK plus **184**.\r\nSerangan Kedua: Menimpakan DMG sebesar **55.6%** ATK plus **334**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **48.2%** ATK plus **289**.\r\nSerangan Keempat: Menimpakan DMG sebesar **111.2%** ATK plus **667**.\r\nSerangan Kelima: Menimpakan DMG sebesar **148.3%** ATK plus **890**.",
+				"icon": "skill_Fan_air",
+				"id": "GA_FPlayerFanMelee_AirAttack"
+			},
+			{
+				"name": "Scattered Soil",
+				"description": "Setelah melakukan Serangan Biasa kedua di darat atau di udara, tahan Serangan Biasa untuk mengaktifkan Scattered Soil.\r\nSerang posisi yang ditentukan, menimpakan DMG sebesar **83.2%** ATK plus **499** dan menjatuhkan target.\r\nPasif: Setelah mengeluarkan Scattered Soil di darat, menekan Serangan Biasa dengan cepat bisa langsung mengeluarkan Brief Bloom (tumpukan ke-3).",
+				"icon": "skill_Fan_branch",
+				"id": "GA_FPlayerFanMelee_Branch"
+			},
+			{
+				"name": "Brief Bloom",
+				"description": "Tahan Serangan Biasa untuk mengeluarkan Brief Bloom. Bisa ditahan hingga terkumpul 3 tumpuk dan akan mendapatkan Hyperbody dan kebal terhadap efek kontrol selama proses ini.\r\nTumpukan Pertama: Menimpakan DMG sebesar **73.9%** ATK plus **443**.\r\nTumpukan Kedua: Menimpakan DMG sebesar **146.2%** ATK plus **877**.\r\nTumpukan Ketiga: Menimpakan DMG sebesar **246.4%** ATK plus **1478**.",
+				"icon": "skill_Fan_powerattack",
+				"id": "GA_FPlayerFanMelee_PowerAttack"
+			},
+			{
+				"name": "Falling Shadow",
+				"description": "Tahan Serangan Biasa saat di udara untuk mengaktifkan Falling Shadow.\r\nMelakukan serangan menukik ke bawah, menimpakan DMG sebesar **160%** ATK plus **960** dan menjatuhkan target.",
+				"icon": "skill_Fan_jumpattack",
+				"id": "GA_FPlayerFanMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Saat menghindar, kamu menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerFanEvade_Evade"
+			},
+			{
+				"name": "Leafy Green",
+				"description": "Menembakkan Leafy Green ke target sambil salto ke belakang, menimpakan DMG sebesar **70%** ATK plus **420**, menghasilkan **1–3** Epiphyllum saat menghantam target, dan membentuk area Green Field yang aktif selama **5** detik. Saat musuh dalam area Green Field mengincar Wanderer, kecepatan geraknya berkurang **50%**.\r\nPasif: Bisa dikeluarkan di darat atau di udara.\r\nPasif: Langsung melenyapkan efek kontrol yang dimiliki jika ada dan secara otomatis menembakkan Leafy Green tanpa mengonsumsi jatah menghindar. CD: **20** detik.",
+				"icon": "skill_Fan_rollattack",
+				"id": "GA_FPlayerFanEvade_RollAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Moonlight Realm",
+				"description": "Menciptakan zona Moonlight Realm di sekelilingmu yang aktif selama **15** detik. Seranganmu di dalam zona ini meningkat **15%**, tinggi lompatan meningkat **20%**, dan konsumsi Stamina berkurang **50%**. CD: **30** detik.\r\nMemasuki kondisi Airbloom saat menggunakan Shadoweave di dalam zona ini. Kecepatan jatuhmu berkurang drastis dan kamu bisa lompat di udara berkali-kali. Dalam kondisi ini, menekan tombol arah dan lompat saat di udara akan mengaktifkan Roam dan melancarkan serangan kepada target. Jika serangan ini menghantam musuh, menimpakan DMG sebesar **66%** ATK plus **396** dan memunculkan **1–3** Epiphyllum secara acak.\r\n\r\nPasif: Dalam zona Moonlight Realm, **1** Epiphyllum akan muncul di dekat 1 target setiap **0,8** detik. \r\nPasif: Saat menggunakan Shadoweave di dalam Moonlight Realm, menimpakan DMG **50%** lebih besar kepada musuh dengan HP kurang dari **20%**.\r\nPasif: Saat menggunakan Shadoweave di dalam Moonlight Realm, kamu akan langsung bergerak menjauh dari target saat ada DMG yang akan kamu terima. CD: **10** detik.\r\n\r\nPasif: Weapons Master\r\nFlame: Saat Shadoweave dipasangkan dengan 2 Senjata Flame, Moonlight Realm dikonversi menjadi Flame: Moonlight Realm. Saat membakar target dengan Shadoweave: Moonlight Realm, target akan terbakar **4** detik lebih lama. Target dengan Perisai menerima Flame DMG **15%** lebih besar. \r\n\r\nVolt: Saat Shadoweave dipasangkan dengan 2 Senjata Volt, Moonlight Realm dikonversi menjadi Volt: Moonlight Realm. Selama dalam Volt: Moonlight Realm, mendapatkan peluang **65%** untuk tidak memakai jatah menghindar saat menghindar, peningkatan **5%** pada DMG Serangan Menghindar, dan Volt DMG meningkat **10%**.\r\n\r\nFrost: Saat Shadoweave dipasangkan dengan 2 Senjata Frost, Moonlight Realm dikonversi menjadi Frost: Moonlight Realm. Selama dalam Frost: Moonlight Realm, Frost ATK meningkat **10%**.\r\n\r\nPhysical: Saat Shadoweave dipasangkan dengan 2 Senjata Physical, Moonlight Realm dikonversi menjadi Physical: Moonlight Realm. Selama dalam Physical: Moonlight Realm, menimpakan DMG sebesar **50%** ATK plus **300** tiap detik kepada target dalam jangkauan.\r\n\r\nBalance: Saat Shadoweave dipasangkan dengan dua senjata dengan elemen berbeda (antara Senjata Flame, Volt, Frost, atau Physical), ATK Wanderer meningkat **15%** selama ada di dalam zona ini dan dianggap sedang mengaktifkan Resonansi Flame, Volt, Frost, dan Physical, namun tidak mendapatkan efek Resonansi.",
+				"icon": "skill_Fan_skill",
+				"id": "GA_FPlayerFanSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Gravity Weave",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke Senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan mengeluarkan Gravity Weave dengan kekuatan tarikan yang lebih besar, menimpakan DMG sebesar **368.5%** ATK plus **2211**. Kemudian, ia meledak dan menciptakan gelombang yang menyebar luas dalam **5** detik, menimpakan DMG sebesar **184.3%** plus **1106**. Kebal terhadap DMG selama **1,5** detik selama Skill ini aktif (tak bisa digunakan di Apex League).",
+				"icon": "skill_Fan_changeskill",
+				"id": "GA_FPlayerFanChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "Saat memasangkan Shadoweave dengan senjata lain, efek **Weapons Master** akan tercipta.\r\nEpiphyllum akan muncul di sekitar target secara acak dan meledak dalam waktu **1–3** detik, sehingga menimpakan **37,5%** DMG area.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Serangan Biasa kini menimpakan DMG area saat menghantam target.\r\nSaat ada Epiphyllum lain dalam area ledakan Epiphyllum, meningkatkan DMG dari setiap ledakan Epiphyllum berikutnya sebesar **1000%**. Maks **5000%**.\r\nInterval kemunculan Epiphyllum dari **Moonlight Realm** kini berkurang menjadi **0,5** detik.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Interval kemunculan epiphyllum dari **Moonlight Realm** kini berkurang menjadi **0,3** detik.\r\nEpiphyllum akan menempel pada musuh.\r\nDurasi **Moonlight Realm** kini meningkat menjadi **20** detik.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Saat dalam efek **Moonlight Realm**, memperoleh **30** Charge Senjata setiap detik dan meningkatkan DMG Skill Discharge sebesar **15%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Beralih mode di **Moonlight Realm** maks **2** kali. Memperoleh **1** jatah penggunaan setelah skill memasuki CD dan **1** lagi dengan mengisi Discharge.\r\nLakukan Skill Discharge dengan senjata apa pun **3** kali untuk mendapatkan **+1** pada hitungan **Moonlight Realm**. Berlaku bahkan saat Shadoweave ada di slot sampingan.\r\nSaat dalam efek **Moonlight Realm**, Serangan meningkat **23%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		}
+	],
+	"id": "fan_superpower"
+}

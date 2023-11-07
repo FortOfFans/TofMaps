@@ -1,0 +1,11 @@
+{
+	"name": "巨擎手臂",
+	"type": "ITEM_TYPE_BREAK_FATE_ARTIFACT",
+	"description": "当你不满足于自己手臂力量的时候，可以选择巨擎手臂。强而有力的手臂，光滑的机械外表，炫酷拉风的造型，不论是战斗还是旅行，都是你的不二选择。",
+	"source": "使用巨擎手臂进行战斗，持续20秒，冷却**300**秒，免疫硬直，再次点击取消使用。普攻总计可造成**0%***攻击伤害和**强控击飞**效果；技能造成**1%***攻击伤害和**强控浮空**效果，冷却**10**秒。",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_001.png",
+	"shortIcon": "artifact_ssr_001",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_030",
+	"id": "wormhole_artifact_ssr_001"
+}

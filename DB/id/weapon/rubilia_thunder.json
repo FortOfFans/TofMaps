@@ -1,0 +1,192 @@
+{
+	"name": "Lost Art",
+	"avatar": {
+		"name": "Rubilia",
+		"advanceId": "imitation_48L1",
+		"weapon": "rubilia_thunder",
+		"icon": "imitation_48",
+		"avatarID": "leibiliya",
+		"age": "24 April",
+		"height": "195 cm",
+		"gender": "Perempuan",
+		"state": "Mirroria",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_48",
+		"gp": [
+			"decorate",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 穆雪婷"
+			},
+			{
+				"Japanese": "CV : 三石 琴乃"
+			},
+			{
+				"English": "CV : Samantha Berman"
+			},
+			{
+				"Korean": "CV : 이새벽"
+			},
+			{
+				"Portuguese": "CV : Jussara Marques"
+			}
+		],
+		"id": "imitation_48"
+	},
+	"description": "Ayunan lembut di Abyss yang kacau akan menimbulkan badai yang memengaruhi takdir semua orang.",
+	"icon": "item_Weapon_SSR_Rubilia_Thunder01",
+	"gachaIcon": "UI_SSR_lh_laibiliya",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Rubilia",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "Rubilia_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Wingspan",
+				"description": "Saat di darat, gunakan Serangan Biasa untuk melakukan 5 serangan beruntun.\r\nSerangan Pertama: Menimpakan DMG sebesar **98.9%** ATK plus **593** dan membuat target terpental ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **72.9%** ATK plus **437** dan membuat target terpental ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **138.1%** ATK plus **829** dan membuat target terpental ke atas.\r\nSerangan Keempat: Menimpakan DMG sebesar **316.5%** ATK plus **1899** dan membuat target terpental ke belakang.\r\nSerangan Kelima: Menimpakan DMG sebesar **199.1%** ATK plus **1194** dan menjatuhkan target.",
+				"icon": "skill_rubilia_melee",
+				"id": "GA_FPlayerRubiliaMelee_Melee"
+			},
+			{
+				"name": "Suppress",
+				"description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut sambil mengonsumsi Stamina.\r\nSerangan Pertama: Menimpakan DMG sebesar **113.7%** ATK plus **682**.\r\nSerangan Kedua: Menimpakan DMG sebesar **89.6%** ATK plus **538**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **175.1%** ATK plus **1051**.\r\nSerangan Keempat: Menimpakan DMG sebesar **343.3%** ATK plus **2060**.\r\nSerangan Kelima: Menimpakan DMG sebesar **170.6%** ATK plus **1024**.",
+				"icon": "skill_rubilia_airattack",
+				"id": "GA_FPlayerRubiliaMelee_AirAttack"
+			},
+			{
+				"name": "Tingkatkan",
+				"description": "Saat menyerang di darat, tekan dan tahan Serangan Biasa untuk mengaktifkan Advance, menimpakan DMG sebesar **211.7%** ATK plus **1270**.",
+				"icon": "skill_rubilia_branch",
+				"id": "GA_FPlayerRubiliaMelee_Branch"
+			},
+			{
+				"name": "Descent",
+				"description": "Tekan dan tahan Serangan Biasa saat di udara (tekan saat ada musuh yang ditarget), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Descent.\r\nTerbang menukik dari atas sambil mengonsumsi Stamina, menimpakan DMG sebesar **241.9%** ATK plus **1451** pada target di sekitar saat mendarat.",
+				"icon": "skill_rubilia_jumpattack",
+				"id": "GA_FPlayerRubiliaMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, memperlambat target di dalam area tersebut. Saat menghindar, menjadi kebal terhadap Hitstun.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerRubiliaEvade_Evade"
+			},
+			{
+				"name": "Pillage",
+				"description": "Tekan Serangan Biasa dalam rentang waktu Perfect Dodge (tekan tombol panah sebelum menghindar ke depan) untuk mengaktifkan Pillage, menimpakan DMG sebesar **55.9%** ATK plus **335** pada target di sekitar dan membuat mereka terpental ke atas.\r\nMenggunakan Pillage dapat memicu **Feedback**.",
+				"icon": "skill_rubilia_fevadeattack",
+				"id": "GA_FPlayerRubiliaEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Swarm",
+				"description": "Tekan tombol Serangan Biasa tepat setelah menghindar untuk mengaktifkan Swarm, memanggil dua ilusi Abyssant yang menimpakan DMG sebesar **88.2%** ATK plus **529** pada target di depan.\r\nMenggunakan Swarm dapat memicu **Feedback**.",
+				"icon": "skill_rubilia_bevadeattack",
+				"id": "GA_FPlayerRubiliaEvadeAttack_BackAttack"
+			},
+			{
+				"name": "Weave",
+				"description": "Saat di darat, tahan tombol Menghindar untuk mengaktifkan Weave, membuatmu melesat ke udara dalam jarak tertentu (tidak berlaku di area di mana Jetpack tidak bisa digunakan).",
+				"icon": "skill_rubilia_fly",
+				"id": "GA_FPlayerRubiliaEvade_Move"
+			},
+			{
+				"name": "Seal",
+				"description": "Tekan dan tahan Serangan Biasa tepat setelah menghindar untuk mengaktifkan Seal, melancarkan Hive Consciousness ke depan dan mengendalikan Grayspace Entity yang terhantam, mengubahnya menjadi kawan (tidak berlaku pada Boss) selama **60** detik.\r\nSaat Seal digunakan lagi pada target yang terkena efek atau saat durasinya berakhir, efek kontrol ini akan lenyap dan menimpakan **45%** dari semua DMG yang kamu timpakan kepadanya selama durasi kontrol.\r\nTarget selain Grayspace Entity tidak terpengaruh oleh efek kontrol Hive Consciousness.",
+				"icon": "skill_rubilia_control",
+				"id": "GA_FPlayerRubiliaEvade_Control"
+			}
+		],
+		"skill": [
+			{
+				"name": "Field",
+				"description": "Melesat cepat di antara dua lokasi **10** kali, menarik target di sekitar dan menimpakan DMG hingga **371.7%** ATK plus **2230** pada target di sekitar. Saat mendarat, menimpakan DMG sebesar **198.3%** ATK plus **1190** pada target di sekitar. CD: **20** detik.\r\nSetiap kali melesat, **10%** Max HP dari semua Crystamax Thorn akan diserap (tak berlaku di Apex League), dan menimpakan DMG tambahan sebesar jumlah Crystamax Thorn dikali **40%** ATK atau jumlah Crystamax Thorn dikali **1%** Max HP Wanderer, mana pun yang lebih besar, hingga Crystamax Thorn habis.\r\n**Rasio berkurangnya HP** dari Max HP Crystamax Thorn terhitung sebagai **rasio berkurangnya HP** dari Max HP Wanderer.",
+				"icon": "skill_rubilia_skill",
+				"id": "GA_FPlayerRubiliaSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Harrah's Embrace",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan memanggil Harrah untuk mengeluarkan **12** Tempest Round, masing-masing menimpakan DMG sebesar **68.8%** ATK plus **413** pada target di sekitar dan Wanderer akan menjadi kebal terhadap DMG selama **1,5** detik (tak berlaku di Apex League).\r\nSetelah berhasil menggunakan Harrah Embrace, Volt DMG meningkat **7%** selama **30** detik. Selain itu, **3** Crystamax Thorn akan muncul (maks **5** buah dalam satu waktu). Saat muncul, Crystamax Thorn memiliki **100%** Max HP, tak bisa diserang, hanya bisa disembuhkan oleh **Feedback**, dan akan aktif selama **150** detik.\r\nSetelah Harrah Embrace menghantam lawan, mendapatkan **2** **Feedback** (maks **4** tumpuk). Lost Art akan mengonsumsi **1** **Feedback** di setiap Serangan Menghindar, menimpakan DMG pada target sebesar jumlah Crystamax Thorn dikali **72%** ATK, memulihkan **25%** Max HP semua Crystamax Thorn, serta mereset lokasi dan durasi Crystamax Thorn.\r\nSaat Harrah Embrace menghantam lawan, kamu bisa menghindar **1** kali tanpa mengonsumsi jatah menghindar.",
+				"icon": "skill_rubilia_changeskill",
+				"id": "GA_FPlayerRubiliaChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonansi Volt**: Volt ATK meningkat **15%** dan Volt Resistance meningkat **25%**. Aktifkan dengan memakai **2** Senjata Volt atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bertumpuk dengan efek Resonansi Volt atau efek Volt Reaction lain, di mana Resonansi Volt akan diutamakan.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "None"
+		},
+		{
+			"description": "Setelah memicu **Feedback**, setiap Crystamax Thorn akan menimpakan DMG sebesar **66,7%** ATK pada target di sekitar setiap **2** detik selama **NaN** detik.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		},
+		{
+			"description": "Menggunakan Skill Senjata atau Skill Discharge dengan senjata lainnya akan menghasilkan **1** Crystamax Thorn.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		},
+		{
+			"description": "Pemulihan Max HP dari Crystamax Thorn melalui **Feedback** meningkat menjadi **NaN%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		},
+		{
+			"description": "Setelah berhasil menggunakan Harrah Embrace, Volt DMG meningkat lagi sebesar **NaN%** selama **NaN** detik.",
+			"stats": {
+				"shatter": 10,
+				"charge": 12
+			},
+			"need": "Rubilia_thunder_plasm"
+		}
+	],
+	"id": "rubilia_thunder"
+}

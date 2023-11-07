@@ -1,0 +1,90 @@
+{
+	"name": "複合弓",
+	"description": "雪原の狩人がよく使う武器。簡単に獲物を射止めることができる。販売促進の結果、今では低価格帯市場で半分以上のシェアを誇っている",
+	"icon": "item_Weapon_SR_Bow_Fire01",
+	"gachaIcon": "Weapon_R_Bow_Phy01",
+	"rarity": "R",
+	"element": "Flame",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 15,
+		"Item_Mine_fire_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_C2": 25,
+		"Item_Mine_fire_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_C3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_C1": 12
+	},
+	"advanceID": "bow_fire_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "通常攻撃",
+				"description": "地上にいる時、連続で弓を引き、5回連続で攻撃する。ターゲットに与えるダメージと効果は次の通り。\r\n1回目：攻撃力×**27.3%**+**164**\r\n2回目：攻撃力×**24.4%**+**146**\r\n3回目：攻撃力×**43.8%**+**263**\r\n4回目：攻撃力×**67.8%**+**407**\r\n5回目：攻撃力×**62.9%**+**377**のダメージと少しのノックバック",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_Melee"
+			},
+			{
+				"name": "チャージの矢",
+				"description": "通常攻撃長押しでチャージ攻撃を発動。基礎ダメージは攻撃力×**49.1%**+**295**、チャージ時間+**1**秒ごとにダメージが+**50**%、**3**秒で最大になる。ターゲットの頭部または弱点に命中すると、ヘッドショット効果を発動(ヘッドショット効果は探索者には無効)、2倍のダメージを与えてターゲットをノックダウンする",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttack"
+			},
+			{
+				"name": "矢の雨",
+				"description": "任意の回数の通常攻撃の後、通常攻撃を長押しすると矢の雨を発動し、範囲内のターゲットに最大で攻撃力×**160%**+**960**のダメージを与える",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_Branch"
+			},
+			{
+				"name": "空中連撃",
+				"description": "滞空時、通常攻撃を行うと空中で4回連続攻撃できる。ダメージは次の通り。\r\n1回目：攻撃力×**31.5%**+**189**\r\n2回目：攻撃力×**41.4%**+**248**\r\n3回目：攻撃力×**63%**+**378**\r\n4回目：攻撃力×**94.8%**+**569**",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "回避",
+				"description": "ジャスト回避を成功させると幻想タイムを発動(クールダウン15秒)し、一定範囲内にいるターゲットの行動速度が低下する。回避中は硬直無効、**0.5**秒間持続",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_Evade"
+			},
+			{
+				"name": "チャージの一撃",
+				"description": "回避後、攻撃をタップするとチャージの一撃を発動でき、ターゲットを少しノックバックする。さらにターゲットに攻撃力×**69.3%**+**416**のダメージを与える",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "貫く矢",
+				"description": "後方転回して前方に貫く矢を**1**本放ち、ターゲットに攻撃力×**125.4%**+**752**のダメージを与え、ターゲットをノックバックする。クールダウン**12**秒",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "爆裂矢の雨",
+				"description": "**武器エナジー値がMAX**の時または**幻想タイム**発動時、他の武器からこの武器に変更すると、**自身のステータス異常を解消**する。同時に爆裂矢の雨を召喚し、ターゲット単体に攻撃力×**396%**+**2376**のダメージを与え、ターゲットを浮遊させる",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 4.8,
+				"charge": 8
+			},
+			"need": "None"
+		}
+	],
+	"id": "bow_fire"
+}

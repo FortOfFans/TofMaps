@@ -1,0 +1,11 @@
+{
+	"name": "閃光弾",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "閃光弾",
+	"source": "前方に閃光弾を投げ、落下地点に広範囲の閃光(敵味方いずれも有効)を生成し、**5**秒間持続する。自身や味方ユニットが背を向けている場合、閃光の影響を受けない",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_n_003.png",
+	"shortIcon": "artifact_n_003",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_007",
+	"id": "artifact_sr_018"
+}

@@ -1,0 +1,198 @@
+{
+	"name": "Vesper",
+	"avatar": {
+		"name": "Lyra",
+		"advanceId": "imitation_24L1",
+		"weapon": "arm_physic",
+		"icon": "imitation_24",
+		"avatarID": "xinghuan",
+		"age": "23 Juni",
+		"height": "174cm",
+		"gender": "Perempuan",
+		"state": "Maidelin Fund",
+		"city": "Tak Diketahui",
+		"rating": "wuwei_imitation_24",
+		"gp": [
+			"everydayObjects",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 常佳梦"
+			},
+			{
+				"Japanese": "CV : 大原 さやか"
+			},
+			{
+				"English": "CV : Ryan Bartley"
+			},
+			{
+				"Korean": "CV : 윤은서"
+			},
+			{
+				"Portuguese": "CV : Maitê Cunha"
+			}
+		],
+		"id": "imitation_24"
+	},
+	"description": "Senjata Support yang dibuat khusus untuk orang dalam di Maidelin Foundation. Nona Maidelin percaya bahwa Lyra bisa menggunakannya dengan baik.",
+	"icon": "item_Weapon_SSR_Arm_Physic01",
+	"gachaIcon": "SSR_lh_xinghuan",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Arm",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "arm_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Normal Vesper Attack Passive",
+				"description": "**Enlightenment**: Saat berhasil didaratkan, Serangan Biasa Vesper tanpa Resonansi Benediction menimpakan DMG tambahan kepada target yang memiliki **tanda Enlightenment** sebesar jumlah Guard yang kamu miliki × **2,1%** ATK (totalnya tidak lebih dari 12,6% × ATK). DMG tersebut tidak akan memicu efek serangan tambahan dan dianggap sebagai DMG dari Skill Discharge atau Skill Senjata.\r\n\r\nSaat berhasil didaratkan, Serangan Biasa Vesper dengan Resonansi Benediction menimpakan DMG tambahan kepada target yang memiliki **tanda Enlightenment** sebesar jumlah Guard yang dimiliki kamu dan rekan timmu × **1,5%** ATK (totalnya tidak lebih dari 12% × ATK). DMG tersebut tidak akan memicu efek serangan tambahan dan dianggap sebagai DMG dari Skill Discharge dan Skill Senjata.\r\n**Glowing**: Saat berhasil didaratkan, semua Serangan Biasa Vesper memulihkan HP sebesar **15%** ATK.\r\n**Sacred Strike**: Serangan Vesper saat di udara dan Accumulator bisa mengonversi 60% Charge menjadi Shatter.\r\n**Guard**: Untuk setiap **15%** HP yang hilang atau setiap **300** Charge Senjata yang diperoleh, kamu mendapatkan hingga **5** Enlightenment Guard (bisa dihasilkan saat senjata ada di slot sampingan). Enlightenment Guard aktif selama **25** detik. Jika Enlightenment Guard milikmu sendiri sudah penuh, Enlightenment Guard yang baru akan menyerang musuh, menimpakan Physical DMG sebesar **48%** ATK, lalu lenyap. DMG tersebut tidak akan memicu efek serangan tambahan.\r\n\r\nCatatan: Di Bygone Phantasm, Vesper tidak dianggap sebagai Senjata Support.",
+				"icon": "skill_arm_skill1",
+				"id": "None"
+			},
+			{
+				"name": "Normal Vesper Attack",
+				"description": "Saat di darat, gunakan Vesper untuk melakukan 5 serangan beruntun.\r\nSerangan Pertama: Menimpakan DMG sebesar **81.6%** ATK plus **490** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **59.1%** ATK plus **355** dan membuat target terpental jauh ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **123.9%** ATK plus **743** dan membuat target terpental sedikit ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **173%** ATK plus **1038** dan membuat target terkena Suspend.\r\nSerangan Kelima: Menimpakan DMG sebesar **196.4%** ATK plus **1178** dan membuat target terpental ke atas.",
+				"icon": "skill_arm_melee",
+				"id": "GA_FPlayerArmMeleePhy_Melee"
+			},
+			{
+				"name": "Frustration",
+				"description": "Saat di udara, tekan Serangan Biasa untuk mengeluarkan Frustration. Setiap pukulan menimpakan DMG sebesar **33.2%** ATK plus **199** dan mengonsumsi **10** Stamina. Hantaman terakhir menimpakan DMG sebesar **124.5%** ATK plus **747** dan membuat target terpental ke atas.\r\nSaat mengeluarkan Frustration, tangkap target jika memungkinkan dan lempar ke tanah, menimpakan DMG dengan total sebesar **556.6%** ATK plus **3339**.",
+				"icon": "skill_arm_airattack",
+				"id": "GA_FPlayerArmMeleePhy_AirAttack"
+			},
+			{
+				"name": "Accumulator",
+				"description": "Tahan Serangan Biasa untuk mengumpulkan tenaga hingga **3** tahap. **Suspend Keras** target yang terhantam dan menjadi kebal terhadap DMG dan efek kontrol selama serangan Accumulator. Menghantam sebelum kena serang bisa memicu Phantasia.\r\nSerangan Charge Tahap 1: Menimpakan DMG sebesar **96%** ATK plus **576**.\r\nSerangan Charge Tahap 2: Menimpakan DMG sebesar **223%** ATK plus **1338**.\r\nSerangan Charge Tahap 3: Menimpakan DMG sebesar **360.5%** ATK plus **2163**.",
+				"icon": "skill_arm_powerattack",
+				"id": "GA_FPlayerArmMeleePhy_PowerAttack"
+			},
+			{
+				"name": "Shimmer",
+				"description": "Tahan Serangan Biasa selama melakukan Serangan Biasa atau setelah Menghindar untuk mengeluarkan Shimmer. Setiap pukulan menimpakan DMG sebesar **20%** ATK plus **120** dan mengonsumsi **10** Stamina. Lepaskan untuk mengaktifkan Accumulator.",
+				"icon": "skill_arm_branch",
+				"id": "GA_FPlayerArmMeleePhy_Branch"
+			},
+			{
+				"name": "Pummel",
+				"description": "Saat di udara, tekan dan tahan Serangan Biasa untuk mengumpulkan tenaga hingga 3 tahap. Lepaskan untuk menghantam tanah dan membuat target terkena **Suspend Keras**. Melepas tombol tepat sebelum kena serang bisa memicu Phantasia.\r\nSerangan Charge Tahap 1: Menimpakan DMG sebesar **166.3%** ATK plus **998**.\r\nSerangan Charge Tahap 2: Menimpakan DMG sebesar **288.2%** ATK plus **1729**.\r\nSerangan Charge Tahap 3: Menimpakan DMG sebesar **454.4%** ATK plus **2726**.",
+				"icon": "skill_arm_jumpattack",
+				"id": "GA_FPlayerArmMeleePhy_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Mind Capture",
+				"description": "Setelah Menghindar, tekan Serangan Biasa untuk menarik target ke arahmu dan menyeretnya selama **2** detik, menimpakan DMG sebesar **261.4%** ATK plus **1568**. Menahan Serangan Biasa setelah Menghindar bisa mengaktifkan **Shimmer** setelah mengeluarkan **Mind Capture**.",
+				"icon": "skill_arm_evadeattack",
+				"id": "GA_FPlayerArmEvadePhy_BackAttack"
+			},
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum kena serangan untuk memicu Phantasia, yang memperlambat musuh di dalam area. Saat menghindar, kamu menjadi kebal terhadap Hitstun selama **0,5** detik dan memulihkan **250** Stamina.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerArmEvadePhy_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Forgiveness Guard",
+				"description": "**Forgiveness Guard**: Saat efek penyembuhan berlebih, menciptakan Perisai HP sebesar **25%** Max HP. Saat Vesper memiliki Forgiveness Guard, berbagai efek Guard akan diaktifkan sesuai dengan Resonansi.\r\n**Benediction Guard**: Skill ini digantikan dengan **Shinerise**, dan Wanderer tidak lagi mendapatkan Enlightenment Guard, yang dikonversi menjadi Forgiveness Guard untuk anggota tim. Dapatkan 1 Forgiveness Guard untuk setiap **15%** Max HP yang disembuhkan, dan memberikan hingga 1 Forgiveness Guard untuk setiap anggota tim. Jika semua anggota tim sudah memilikinya, Forgiveness Guard menimpakan Physical DMG sebesar **60%** ATK kepada musuh, lalu lenyap. DMG tersebut tidak memicu efek serangan tambahan. Selain itu, meningkatkan Max HP sebesar **10%** untuk diri sendiri dan anggota tim. Tak bisa ditumpuk.\r\n**Attack Guard**: Saat Skill Vesper berhasil didaratkan, langsung mendapatkan Perisai sebesar **30%** Max HP. CD: **30** detik.\r\n**Fortitude Guard**: Saat Skill Vesper berhasil didaratkan, langsung mendapatkan penyembuhan, memulihkan **2%** Max HP per detik selama **20** detik. CD: **30** detik.\r\n**Balance Guard**: Saat HP lebih dari **50%**, meningkatkan Shatter sebesar **20%**. Saat HP kurang dari **50%**, meningkatkan Final DMG sebesar **10%** dan Shatter sebesar **10%**.",
+				"icon": "skill_arm_skill1",
+				"id": "GA_FPlayerArmSkillPhyPas"
+			},
+			{
+				"name": "Starfall",
+				"description": "Melompat ke arah target, menimpakan DMG sebesar **771%** ATK plus **4212** dan menerapkan **Suspend Keras**. Memberikan tanda Enlightenment kepada target selama **18** detik. CD: **20** detik.",
+				"icon": "skill_arm_airattack2",
+				"id": "GA_FPlayerArmPublishSkillPhy"
+			},
+			{
+				"name": "Shinerise",
+				"description": "Menghantam tanah dan membuat target di depanmu **Terpental Keras**, menimpakan DMG sebesar **771%** ATK plus **4212** dan mengeluarkan maks **3** **Blade** yang aktif selama **75** detik (maks 1 Blade setiap 2 meter). Skill ini bisa digunakan hingga **3** kali dengan CD **20** detik untuk masing-masing penggunaan. Saat ada 2 **Blade** di medan tempur, sebuah **Clearshine** akan tercipta. Saat **Blade** disentuh, ia akan menyembuhkan target dalam radius gerakan, memulihkan HP sebesar **25%** ATK targetnya. Saat ada 3 **Blade** di medan tempur, sebuah **Nebula** akan tercipta. Saat **Blade** disentuh, ia akan menimpakan DMG kepada target dalam radius gerakan sebesar **150%** ATK × jarak gerakan / **5** m.",
+				"icon": "skill_arm_skill2",
+				"id": "GA_FPlayerArmLawSkillPhy"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Chanting Sigh",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke Senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan mengeluarkan Chanting Sigh, menimpakan DMG sebesar **748.1%** ATK plus **4488**, dan menambahkan tanda Enlightenment kepada target selama **18** detik. Selama durasi tersebut, kebal terhadap DMG selama **1,5** detik (tak berlaku di Apex League).",
+				"icon": "skill_arm_changeskill",
+				"id": "GA_FPlayerArmChangeSkillPhy_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonansi Physical**: Physical ATK meningkat **15%** dan Physical Resistance meningkat **25%**. Aktifkan dengan cara memakai **2** Senjata Physical atau lebih. Efek ini juga aktif saat senjata ada di slot sampingan. Tidak bisa ditumpuk dengan efek yang tipenya sama.\r\n**Physical Benediction**: Saat Resonansi Benediction diaktifkan, Physical ATK seluruh anggota tim meningkat **5%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Saat menggunakan Skill Senjata atau Skill Discharge, jika Guard kamu maksimum, durasi Guard akan direset dan menimpakan Physical DMG kepada musuh sebesar **3000%** Physical ATK × jumlah Guard. Dengan Benediction, bisa mengumpulkan hingga 8 Guard. Tanpa Benediction, hanya bisa mengumpulkan 6.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Meningkatkan semua DMG yang ditimpakan Guard sebesar **20%** dan meningkatkan Final DMG target Guard sebesar **15%** selama **10** detik saat menggunakan Skill Senjata atau Skill Discharge dalam efek Resonansi Benediction.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Forgiveness Guard: Setelah mengeluarkan Resonansi 5 kali, mendapatkan **1** kesempatan untuk membatalkan DMG mematikan pada penggunanya dan target Guard. Setelah rekan tim membatalkan DMG mematikan, ia akan mengonsumsi Forgiveness Guard dan memulihkan **5%** Max HP. Tak berlaku di Apex League.\r\nEnlightenment Guard: Setelah mengeluarkan Resonansi 5 kali dan saat memiliki Enlightenment Guard, penggunanya menerima **2** kesempatan untuk membatalkan DMG mematikan. Bisa bertumpuk **5** kali. Setelah penggunanya membatalkan DMG mematikan, ia akan mengonsumsi 1 tumpuk Enlightenment Guard dan memulihkan **5%** Max HP. Tak berlaku di Apex League.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Saat menggunakan Skill Senjata atau Skill Discharge, peningkatan Final DMG dan penyembuhan bergantung pada jumlah Guard. Setiap Guard meningkatkan Final DMG dan penyembuhan sebesar **1.6%**, maks **8%**, selama **25** detik.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		}
+	],
+	"id": "arm_physic"
+}

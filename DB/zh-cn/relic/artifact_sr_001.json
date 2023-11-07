@@ -1,0 +1,11 @@
+{
+	"name": "浮游冰炮",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "当你在攻击时，浮游冰炮可为你产生额外技能，再次伤害你面前的敌人。有了浮游冰炮，不用再担心自己伤害不够的事了。",
+	"source": "召唤浮游冰炮，持续**20**秒，冷却**240**秒。浮游炮拥有技能：激光束，每次对目标造成**5.6%***攻击力伤害。",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_sr_001.png",
+	"shortIcon": "artifact_sr_001",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_018",
+	"id": "artifact_sr_001"
+}

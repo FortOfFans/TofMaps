@@ -1,0 +1,181 @@
+{
+	"name": "Zero Absoluto",
+	"avatar": {
+		"name": "Cocoritter",
+		"advanceId": "imitation_11L1",
+		"weapon": "stave_ice",
+		"icon": "imitation_11",
+		"avatarID": "kekelite",
+		"age": "1.º de junho",
+		"height": "1,47 m",
+		"gender": "Feminino",
+		"state": "Departamento Médico da Hykros",
+		"city": "Hykros",
+		"rating": "wuwei_imitation_11",
+		"gp": [
+			"toy",
+			"decorate",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 胡婷婷"
+			},
+			{
+				"Japanese": "CV : 鬼頭 明里"
+			},
+			{
+				"English": "CV : Lexi Fontaine"
+			},
+			{
+				"Korean": "CV : 강시현"
+			},
+			{
+				"Portuguese": "CV : Mari Guedes"
+			}
+		],
+		"id": "imitation_11"
+	},
+	"description": "Mantenha a baixa temperatura estável para curar aliados.",
+	"icon": "item_Weapon_SSR_Stave_Ice01",
+	"gachaIcon": "SSR_lh_mtzz",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Staves",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "stave_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Ataque Normal",
+				"description": "No chão, branda o cajado para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **59.8%** do ATQ + **359**.\r\nSegundo ataque: Causa dano de **44.9%** do ATQ + **270**.\r\nTerceiro ataque: Causa dano de **72.2%** do ATQ + **433**.\r\nQuarto ataque: Causa dano de **98.7%** do ATQ + **592**.\r\nQuinto ataque: Causa dano de **174.2%** do ATQ + **1045**.",
+				"icon": "pugong_staves",
+				"id": "GA_FPlayerStavesMelee_Melee_SSR"
+			},
+			{
+				"name": "Cajadada Elevada",
+				"description": "No ar ou após pular uma vez, use o botão de ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **77.6%** do ATQ + **465**.\r\nSegundo ataque: Causa dano de **55.9%** do ATQ + **336**.\r\nTerceiro ataque: Causa dano de **60.6%** do ATQ + **364**.\r\nQuarto ataque: Causa dano de **109%** do ATQ + **655**.\r\nQuinto ataque: Causa dano de **113.5%** do ATQ + **681**.",
+				"icon": "skill_staves_air",
+				"id": "GA_FPlayerStavesMelee_AirAttack_SSR"
+			},
+			{
+				"name": "Lua Cadente",
+				"description": "No ar, segure o botão de ataque normal para usar Lua Cadente.\r\nAo aterrissar, causa dano uma vez a cada **0,2** segundo, totalizando dano de **136.2%** do ATQ + **817**.",
+				"icon": "skill_staves_jump",
+				"id": "GA_FPlayerStavesMelee_JumpAttack_SSR"
+			},
+			{
+				"name": "Ataque Determinado",
+				"description": "Após o terceiro ataque normal, mantenha o botão pressionado para desferir ataques encadeados, o que consome **300** de vigor.\r\nPrimeiro ataque: Puxa inimigos que estão na sua frente, os **suspende muito** e causa dano de **38.4%** do ATQ + **230** a cada **0,3** segundo (no máximo **4** vezes).\r\nSegundo ataque: A cada **0,3** segundo, causa dano de **44.4%** do ATQ + **266** ao alvo e a alvos próximos.",
+				"icon": "skill_staves_branch",
+				"id": "GA_FPlayerStavesMelee_Branch_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Tempo de recarga: 15 segundos. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerStavesEvade_Evade_SSR"
+			},
+			{
+				"name": "Ondulação",
+				"description": "Use o botão de ataque normal dentro do tempo de esquiva perfeita (use um botão direcional antes de se esquivar) para acionar Ondulação.\r\nCada pulso energético causa dano de **45.9%** do ATQ + **275** a alvos.\r\nRecupera **75** pontos de carga de arma ao usar.",
+				"icon": "skill_staves_frontattack",
+				"id": "GA_FPlayerStavesEvade_FrontAttack_SSR"
+			},
+			{
+				"name": "Tesserato",
+				"description": "Use o botão de ataque normal logo após se esquivar para usar Explosão Evasiva.\r\nDispara um orbe de energia para frente. A cada **0,3** segundo, causa dano de **66.4%** do ATQ + **398** a alvos no caminho (no máximo 5 vezes).\r\nRecupera **75** pontos de carga de arma ao usar.",
+				"icon": "skill_staves_frontattack",
+				"id": "GA_FPlayerStavesEvade_BackAttack_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "Santuário",
+				"description": "Cria uma área de cura que acompanha o Errante e cura aliados próximos em **95%** do ATQ + **570** a cada **0,5** segundo durante **6** segundos. Tempo de recarga: **60** seg.",
+				"icon": "staves_skill1",
+				"id": "GA_FPlayerStavesSkill_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Livramento",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você**. O cajado continua removendo efeitos negativos de você e de aliados, além de curar vocês o equivalente a **118.8%** do ATQ + **713** durante **7** segundos.",
+				"icon": "skill_staves_changeskill",
+				"id": "GA_FPlayerStavesChangeSkill_Success_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância gélida**: aumenta o ATQ gélido em **15%** e a resistência gélida em **25%**. Ativa-se ao equipar **2** ou mais armas gélidas. O efeito deste conjunto funciona no espaço secundário. Não se acumula com efeitos de mesmo tipo.\r\n**Bendição gélida**: aumenta o ATQ gélido de toda a equipe em **5%** enquanto ressonância de bendição estiver ativa.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Após se esquivar, invoca uma abelha de cura que segue você e cura o aliado com a menor porcentagem de vida em um raio de **15** metros. Cura o equivalente a **25%** do ATQ e restaura **50** pontos de carga de arma por vez. Dura **25** segundos. Tempo de recarga: **25** seg.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento da vida mínima da arma atual em **16%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Use **Santuário** ou habilidades de descarga para remover efeitos negativos de alvos. Pode ser usado enquanto sofre efeito de controle. Aumenta em **20%** o despedaçar e o dano causado de todos os colegas dentro do raio e os deixa imunes a efeitos de controle e a despedaçar.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento da vida mínima da arma atual em **32%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Aumenta em **15%** o efeito de cura, mais um adicional de **20%** ao curar alvos com menos de **60%** de vida.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Quando uma abelha é invocada ou sai da batalha, todos os aliados são curados em **100%** do ATQ do usuário. Todos os aliados em um raio de **10** metros da abelha de cura também ganham **15%** de reforço de todo dano e cura (não acumula).",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		}
+	],
+	"id": "stave_ice"
+}

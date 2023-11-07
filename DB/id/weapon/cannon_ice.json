@@ -1,0 +1,149 @@
+{
+	"name": "The Terminator",
+	"avatar": {
+		"name": "Hilda",
+		"weapon": "cannon_ice",
+		"icon": "imitation_15",
+		"avatarID": "hida",
+		"age": "11 April",
+		"height": "165 cm",
+		"gender": "Perempuan",
+		"state": "Banges",
+		"city": "Tak Diketahui",
+		"rating": "wuwei_imitation_15",
+		"gp": [
+			"restrictedGoods",
+			"garageKit",
+			"toy"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 裴致莹"
+			},
+			{
+				"Japanese": "CV : 花澤 香菜"
+			},
+			{
+				"English": "CV : Kira Buckland"
+			},
+			{
+				"Korean": "CV : 윤아영"
+			},
+			{
+				"Portuguese": "CV : Bruna Matta"
+			}
+		],
+		"id": "imitation_15"
+	},
+	"description": "Senjata api paling keras kepala yang pernah dibuat, juga dikenal sebagai turret berjalan.",
+	"icon": "item_Weapon_SR_Cannon_Ice01",
+	"gachaIcon": "SR_lh_zjz",
+	"rarity": "SR",
+	"element": "Ice",
+	"weaponType": "Cannon",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 28,
+		"Item_Mine_ice_02": 42,
+		"Item_breakthrough_A2": 42,
+		"Item_breakthrough_D2": 42,
+		"Item_Mine_ice_03": 22,
+		"Item_breakthrough_A3": 22,
+		"Item_breakthrough_D3": 22,
+		"Item_breakthrough_A1": 25,
+		"Item_breakthrough_D1": 23
+	},
+	"advanceID": "cannon_ice_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Serangan Biasa",
+				"description": "Tekan Serangan Biasa untuk memasuki mode bidik. Tahan Serangan Biasa untuk terus menembak, maks **40** tembakan. Setiap tembakan menimpakan DMG sebesar **15.4%** ATK plus **92**. Menimpakan DMG dua kali lipat saat Headshot atau saat mengenai titik lemah musuh dan menjatuhkan target (efek Headshot tidak berlaku bagi Wanderer).",
+				"icon": "pugong_cannon",
+				"id": "GA_FPlayerCannonMelee_Melee"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, yang akan memperlambat musuh dalam area tersebut. CD: 15 detik. Saat Menghindar, kamu akan menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerCannonEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Turret",
+				"description": "Mengaktifkan mode Turret dan menembakkan peluru-peluru energi yang besar, masing-masing menimpakan DMG sebesar **287.9%** ATK plus **1727** dan membuat target terpental ke atas. Menjadi kebal terhadap Hitstun dan efek kontrol saat dalam mode Turret. CD: **3.5** detik.",
+				"icon": "skill_cannon",
+				"id": "GA_FPlayerCannonSkillNew"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Arctic Beam",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan menembakkan Arctic Beam, menimpakan DMG sebesar **444.5%** ATK plus **2667** dan mengakibatkan efek **Freeze Kuat** selama **3** detik. Selain itu, Frost Resistance target juga berkurang **50%** selama **10** detik.",
+				"icon": "skill_cannon_skill3",
+				"id": "GA_FPlayerCannonChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Setiap Serangan Biasa yang berhasil akan meningkatkan DMG sebesar **1%** selama **2** detik. Bisa ditumpuk maks **15** kali. Menambah jumlah amunisi menjadi **60**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebesar **10%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "Dalam waktu **10** detik setelah beralih ke senjata ini, meningkatkan DMG dari Serangan Biasa dan Shatter sebesar **30%**. Cooldown: **25** detik. Menambah jumlah amunisi menjadi **80**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar untuk senjata saat ini sebesar **20%**.",
+			"stats": {
+				"shatter": 13,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "Mengurangi cooldown untuk Serangan Biasa selama dalam mode Turret sebesar **2** detik.",
+			"stats": {
+				"shatter": 13,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		},
+		{
+			"description": "Dalam waktu **10** detik setelah beralih ke senjata ini, meningkatkan DMG dari Serangan Biasa dan Shatter sebesar **60%**. Cooldown: **25** detik.",
+			"stats": {
+				"shatter": 16,
+				"charge": 10
+			},
+			"need": "cannon_ice_plasm"
+		}
+	],
+	"id": "cannon_ice"
+}

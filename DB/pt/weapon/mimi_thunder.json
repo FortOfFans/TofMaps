@@ -1,0 +1,187 @@
+{
+	"name": "Dragão Azul",
+	"avatar": {
+		"name": "Huang",
+		"advanceId": "imitation_41L1",
+		"weapon": "mimi_thunder",
+		"icon": "imitation_41",
+		"avatarID": "mimi",
+		"age": "23 de julho",
+		"height": "135 cm",
+		"gender": "Feminino",
+		"state": "Pavilhão Tianzhang",
+		"city": "Trovoado",
+		"rating": "wuwei_imitation_41",
+		"gp": [
+			"toy",
+			"garageKit",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 裴致莹"
+			},
+			{
+				"Japanese": "CV : 新井 里美"
+			},
+			{
+				"English": "CV : Alexis Tipton"
+			},
+			{
+				"Korean": "CV : 윤은서"
+			},
+			{
+				"Portuguese": "CV : BIANCA ALENCAR"
+			}
+		],
+		"id": "imitation_41"
+	},
+	"description": "Dois leques que contêm um volume imenso de energia, capazes de derrubar montanhas e dividir mundos.\r\nQuando o Dragão Azul sobe nas nuvens, o mundo é varrido pelo vento.",
+	"icon": "item_Weapon_SSR_mimi",
+	"gachaIcon": "SSR_lh_MiMi",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Dfan",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "mimi_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Pérolas e Jades",
+				"description": "No chão, use o ataque normal para atacar 5 vezes seguidas.\r\nPrimeiro ataque: Causa dano de **91.1%** do ATQ + **547**.\r\nSegundo ataque: Causa dano de **137.6%** do ATQ + **826**.\r\nTerceiro ataque: Causa dano de **400%** do ATQ + **2400**.\r\nQuarto ataque: Causa dano de **331.7%** do ATQ + **1990**.\r\nQuinto ataque: Causa dano de **165.3%** do ATQ + **992**.",
+				"icon": "skill_mimi_melee",
+				"id": "GA_FPlayerMiMiMelee_Melee"
+			},
+			{
+				"name": "Observação Aérea",
+				"description": "No ar, use o botão de ataque normal para atacar 5 vezes seguidas, consumindo vigor.\r\nPrimeiro ataque: Causa dano de **92.6%** do ATQ + **556**.\r\nSegundo ataque: Causa dano de **150.5%** do ATQ + **903**.\r\nTerceiro ataque: Causa dano de **413.3%** do ATQ + **2480**.\r\nQuarto ataque: Causa dano de **284.6%** do ATQ + **1707**.\r\nQuinto ataque: Causa dano de **184.6%** do ATQ + **1108**.",
+				"icon": "skill_mimi_airattack",
+				"id": "GA_FPlayerMiMiMelee_AirAttack"
+			},
+			{
+				"name": "Dragão Azul Perfura o Sol",
+				"description": "No chão, segure o botão de ataque normal do primeiro ao quarto ataque normal para acionar Dragão Azul Perfura o Sol e consumir vigor.\r\nDesfere um ataque à frente, causando dano de **329.7%** do ATQ + **1978** aos alvos próximos e os suspendendo.\r\nApós acionar Dragão Azul Perfura o Sol, segure o botão de ataque normal para acionar Explosão do Trovão.",
+				"icon": "skill_mimi_meleebranch",
+				"id": "GA_FPlayerMiMiMelee_MeleeBranch"
+			},
+			{
+				"name": "Explosão do Trovão",
+				"description": "No chão, segure o botão de ataque normal para acionar Explosão do Trovão.\r\nAtira relâmpagos continuamente nos alvos, consumindo vigor, e recebe corpo de aço. Cada ataque causa dano de **53.5%** do ATQ + **321** aos alvos próximos. Ao mesmo tempo, invoca **1** Azura a cada **1,5** segundo, que lança ondas de choque que causam dano de **99%** do ATQ + **594** aos alvos próximos.\r\nO Errante recebe um escudo de **10%** da vida máxima a cada **1,5** segundo, acumula até **15%**, durante **15** segundos a partir da criação do primeiro escudo.\r\nApós ativar ressonância de coragem:\r\nQuando Explosão do Trovão ou uma onda de choque atinge um inimigo, os alvos próximos são provocados durante **2** segundos.\r\nSempre que Explosão do Trovão produzir um escudo, os colegas próximos também receberão um escudo de até **10%** da vida máxima do Errante.",
+				"icon": "skill_mimi_powerattack",
+				"id": "GA_FPlayerMiMiMelee_PowerAttack"
+			},
+			{
+				"name": "Dragão Vagante",
+				"description": "No ar, segure o botão de ataque normal do primeiro ao quarto ataque normal para acionar Dragão Vagante e consumir vigor.\r\nDesfere um ataque à frente, causando dano de **329.7%** do ATQ +**1978** aos alvos próximos e os suspendendo.",
+				"icon": "skill_mimi_airbranch",
+				"id": "GA_FPlayerMiMiMelee_AirAttackBranch"
+			},
+			{
+				"name": "Poder de Qinglong",
+				"description": "Cada **3** ataques normais que atingem o inimigo enquanto usa Dragão Azul conferem **1** acúmulo de poder de Qinglong durante **30** segundos. Acumula até **8** vezes.\r\nApós ativar a ressonância de coragem:\r\nCada acúmulo de poder de Qinglong reduz o dano sofrido pelo Errante em **1,5%**.",
+				"icon": "skill_mimi_beidong",
+				"id": "GA_FPlayerMiMiMelee_Beidong"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.\r\n**Passiva**: Lança uma esfera de relâmpago para a frente.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerMiMiEvade_Evade"
+			},
+			{
+				"name": "Centelha Relâmpago",
+				"description": "Use o botão de ataque normal logo após se esquivar para acionar a Centelha Relâmpago.\r\nAparece instantaneamente no lugar da esfera de relâmpago, causando dano de **106.4%** do ATQ + **638** a alvos próximos e produzindo uma concentração de relâmpagos, depois retorna para a posição original do Errante. A concentração de relâmpagos causará dano prolongado total de **149.5%** do ATQ + **897** e puxará os alvos próximos continuamente.\r\n**Passiva:** O Errante recebe corpo de aço durante a Centelha Relâmpago. Recebe **1** acúmulo do Poder de Qinglong após a Centelha Relâmpago atingir um inimigo.\r\nApós acionar a Centelha Relâmpago, segure o botão de ataque normal para acionar a Explosão do Trovão.",
+				"icon": "skill_mimi_evadeattack",
+				"id": "GA_FPlayerMiMiEvade_EvadeAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Lua Azul",
+				"description": "Um dragão azul se eleva aos céus. Nesse período, confere corpo de aço ao Errante e causa dano de **1777.5%** do ATQ + **10664** aos alvos próximos. O dragão azul voará em círculos durante **8** segundos. Nesse período, consome continuamente poder de Qinglong e invoca até **8** ataques de relâmpagos. Cada relâmpago causa dano de **649.9%** do ATQ + **3899** aos alvos próximos, além disso, causa dano de **1485%** do ATQ + **8909** aos alvos próximos quando o dragão azul desaparece.\r\nTempo de recarga: **30** seg., e esse tempo de recarga não pode ser reduzido para menos do que **20** segundos. Lua Azul pode ter até **2** acúmulos de uso.\r\n**Passiva:** Com **3** armas elétricas equipadas e após atingir um inimigo com Lua Azul, causa dano de habilidade de **250%** do ATQ ao alvo a cada **2** segundos durante **30** segundos.",
+				"icon": "skill_mimi_skill",
+				"id": "GA_FPlayerMiMiSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Dragão Ascendente",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você** e acumula chi. Esmaga o chão, gerando uma explosão que causa dano de **1514.7%** do ATQ + **9087** aos alvos próximos e os suspende. Neste período, recebe imunidade a dano durante **1,5** segundo (indisponível na Liga do Apogeu).\r\n**Passiva:** Quando Phantasia é desencadeada, se Dragão Azul estiver equipada ou ao trocar para esta arma, causa dano de **5.000%** do ATQ aos alvos próximos. Esse dano não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos. Isso só pode ser acionado até 1 vez por desencadeamento de Phantasia.",
+				"icon": "skill_mimi_changeskill",
+				"id": "GA_FPlayerMiMiChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância elétrica**: Aumenta o ATQ elétrico em **15%** e a resistência elétrica em **25%**. Ativa-se ao equipar **2** ou mais armas elétricas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.\r\n\r\n**Trovejante: Em campo**: Ao acertar um golpe com **Dragão Azul**, causa dano de **131.3%** do ATQ elétrico + **1.9%** da vida máxima do Errante + **68.8%** da soma de todos os tipos de resistência do Errante + **250%** do crítico a alvos próximos. Esse efeito pode ser acionado até 1 vez a cada **1,5** segundo. O dano de Trovejante conta como dano de ataque normal. Se houver **1** arma ígnea/gélida/física de qualquer tipo equipada, o dano de Trovejante é multiplicado por **1.3**. Além disso, o dano de Trovejante não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "None"
+		},
+		{
+			"description": "Após **Explosão do Trovão** carregar, surgirão **2** Azuras. Cada Azura restaura **20%** da vida máxima das outras invocações.\r\nAumenta o dano do ataque concentrado e da onda de choque de **Explosão do Trovão** em **30%**.\r\nRecebe imediatamente **3** acúmulos de poder de Qinglong após usar **Lua Azul**. Usar outras habilidades de armas elétricas confere **1** acúmulo de poder de Qinglong.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Com **Dragão Azul** equipada, reduz o tempo de recarga de todas as habilidades básicas de arma elétrica em **20%**. Isso não é afetado por outros efeitos de redução, redefinição ou mudança de tempo de recarga.\r\nAlém disso, aumenta o dano elétrico do Errante em **15%**. O efeito funciona no espaço secundário.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Previne dano letal 1 vez e recebe imunidade a dano por um curto período de tempo quando o Errante sofrer dano letal. Esse efeito só pode ser acionado uma vez a cada **60** segundos e funciona no espaço secundário.\r\nApós ativar a ressonância de coragem:\r\nUsar **Dragão Ascendente** puxa os alvos próximos, ignorando corpo de aço(ineficaz contra chefes).\r\nNo jogo em equipe, **Explosão do Trovão** irá produzir **1** selo temporal elétrico a cada **6** segundos enquanto estiver carregando, e os selos vão se unir na ordem em que foram produzidos para formar uma rede elétrica. A rede elétrica pode bloquear o movimento dos inimigos e o dano dos projéteis deles. Cada selo temporal elétrico pode durar até **20** segundos.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Usar **Lua Azul** aumenta o dano elétrico do Errante em **10%** e o dano final em **10%** durante **30** segundos.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		}
+	],
+	"id": "mimi_thunder"
+}

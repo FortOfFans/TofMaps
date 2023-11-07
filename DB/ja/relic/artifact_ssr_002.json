@@ -1,0 +1,11 @@
+{
+	"name": "オムニアムの盾",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "映画の主人公になりたい？銃弾による攻撃を受けた時、手ですべての銃弾を防ぎたい？それならオムニアムの盾がおすすめ。強固なオムニアムバリアで銃弾の攻撃を防ぎ、映画の主人公のような能力を手に入れよう",
+	"source": "オムニアムの盾が現れ、銃弾の貫通を防ぐ。持続時間**10**秒。盾は探索者の最大HP×**200%**のエナジーを持つ。クールダウン**90**秒",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_002.png",
+	"shortIcon": "artifact_ssr_002",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_029",
+	"id": "artifact_ssr_002"
+}

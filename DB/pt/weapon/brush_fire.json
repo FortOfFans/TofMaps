@@ -1,0 +1,205 @@
+{
+	"name": "Cometa Pinheiro",
+	"avatar": {
+		"name": "Liu Huo",
+		"advanceId": "imitation_37L1",
+		"weapon": "brush_fire",
+		"icon": "imitation_37",
+		"avatarID": "liuhuo",
+		"age": "19 de agosto",
+		"height": "1,53 m",
+		"gender": "Feminino",
+		"state": "Mansão Fogarejo",
+		"city": "Fogarejo",
+		"rating": "wuwei_imitation_37",
+		"gp": [
+			"everydayObjects",
+			"metal",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 葛子瑞"
+			},
+			{
+				"Japanese": "CV : 徳井 青空"
+			},
+			{
+				"English": "CV : Michelle Marie"
+			},
+			{
+				"Korean": "CV : 문유정"
+			},
+			{
+				"Portuguese": "CV : ISABELLA GUARNIERI"
+			}
+		],
+		"id": "imitation_37"
+	},
+	"description": "\"Sem violência! Acadêmicos de verdade não bateriam em ninguém usando artigos de papelaria!\" —Rong Jin",
+	"icon": "item_Weapon_SSR_liuhuo",
+	"gachaIcon": "SSR_lh_liuhuo",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Brush",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "brush_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Pincel no Papel",
+				"description": "No chão, use o botão de ataque normal para atacar 7 vezes consecutivas.\r\nPrimeiro ataque: Causa dano de **179.8%** do ATQ + **1079**.\r\nSegundo ataque: Causa dano de **151%** do ATQ + **906**.\r\nTerceiro ataque: Causa dano de **182.3%** do ATQ + **1094**.\r\nQuarto ataque: Causa dano de **179.8%** do ATQ + **1079**.\r\nQuinto ataque: Causa dano de **204.5%** do ATQ + **1227**.\r\nSexto ataque: Causa dano de **466.8%** do ATQ + **2801**.\r\nSétimo ataque: Causa dano de **779.6%** do ATQ + **4677**.",
+				"icon": "skill_brush_melee",
+				"id": "GA_FPlayerBrushMelee_Melee"
+			},
+			{
+				"name": "Palavras Voadoras",
+				"description": "No ar, use o botão de ataque normal para atacar 7 vezes seguidas enquanto consome vigor.\r\nPrimeiro ataque: Causa dano de **171.3%** do ATQ + **1028**.\r\nSegundo ataque: Causa dano de **171.3%** do ATQ + **1028**.\r\nTerceiro ataque: Causa dano de **140%** do ATQ + **840**.\r\nQuarto ataque: Causa dano de **171.3%** do ATQ + **1028**.\r\nQuinto ataque: Causa dano de **200.7%** do ATQ + **1204**.\r\nSexto ataque: Causa dano de **466.8%** do ATQ + **2801**.\r\nSétimo ataque: Causa dano de **779.6%** do ATQ + **4677**.",
+				"icon": "skill_brush_airattack",
+				"id": "GA_FPlayerBrushMelee_AirAttack"
+			},
+			{
+				"name": "Escrita Livre",
+				"description": "No chão, segure o botão de ataque normal do segundo ao quarto ataque normal para usar Escrita Livre.\r\nExecuta um ataque giratório, causando dano de **793.6%** do ATQ + **4761** a alvos próximos e repelindo-os.\r\nApós acionar Escrita Livre, use o ataque normal para acionar Pinceladas Elegantes.\r\nExecuta um deslocamento em arco, causando dano de **93.4%** do ATQ + **560** a alvos próximos e suspendendo-os.\r\nApós acionar Pinceladas Elegantes, use o ataque normal para acionar Papel Cadente.\r\nApós acionar Papel Cadente, segure o botão de ataque normal para acionar Pinceladas Elegantes.",
+				"icon": "skill_brush_branch1",
+				"id": "GA_FPlayerBrushMelee_MeleeBranch"
+			},
+			{
+				"name": "Papel Cadente",
+				"description": "No chão, use o botão de ataque normal após acionar Pinceladas Elegantes ou segure o botão de ataque normal do quinto ao sétimo ataque normal para acionar Papel Cadente.\r\nChuta o alvo para o ar, causando dano de **186.7%** do ATQ + **1120** a alvos próximos e os suspendendo. Libera um pássaro flamejante que ataca alvos próximos, causando dano de até **233.4%** do ATQ + **1400**. Cai do alto, causando dano de **513.5%** do ATQ + **3081** a alvos próximos e os suspendendo.\r\nApós acionar Papel Cadente, segure o botão de ataque normal para acionar Pinceladas Elegantes.",
+				"icon": "skill_brush_branch2",
+				"id": "GA_FPlayerBrushMelee_MeleeBranch1"
+			},
+			{
+				"name": "Toque Final",
+				"description": "No ar, segure o botão de ataque normal do segundo ao sexto ataque normal para acionar Toque Final.\r\nChamas entram em erupção, causando dano de **490.2%** do ATQ + **2941** aos alvos à frente.",
+				"icon": "skill_brush_airbranch",
+				"id": "GA_FPlayerBrushMelee_AirAttackBranch"
+			},
+			{
+				"name": "Textos Fragmentados",
+				"description": "Segure o botão de ataque normal enquanto estiver no ar (quando houver um alvo), ou use um ataque normal ao escalar, pular para trás ou usar a Mochila a Jato para acionar Textos Fragmentados.\r\nDespenca dos céus, causando dano de **256.8%** do ATQ + **1541** aos alvos circundantes ao aterrissar e os suspendendo.",
+				"icon": "skill_brush_jumpattack",
+				"id": "GA_FPlayerBrushMelee_JumpAttack"
+			},
+			{
+				"name": "Selo Pequeno",
+				"description": "Ao causar dano ao alvo travado usando ataques normais, há **50%** de chance de acumular selos pequenos.\r\n**Fogo**: Acumula poder ígneo, causando dano de **120%** do ATQ + **720** a alvos próximos. Pode ser acionado apenas 1 vez a cada **12** segundos.\r\n**Explosão**: Detona as chamas, causando dano de **30%** do ATQ + **180** a alvos próximos. Pode ser acionado apenas 1 vez a cada **7** segundos.\r\n**Atrair**: Usa chamas intensas para puxar os alvos ao alcance, causando dano de **120%** do ATQ + **720** a alvos próximos. Pode ser acionado apenas 1 vez a cada **15** segundos.",
+				"icon": "skill_brush_beidong",
+				"id": "GA_FPlayerBrushMelee_Beidong"
+			},
+			{
+				"name": "Pena de pardal",
+				"description": "Quando o usuário tiver uma **pena de pardal**:\r\nQualquer ataque usando **Cometa Pinheiro** lançará uma **pena de pardal** na direção do alvo travado e causará dano de **40.8%** do ATQ a alvos próximos. Pode ser acionado 1 vez a cada **1** segundo.\r\nQuando **Cometa Pinheiro** estiver no espaço secundário, atacar com outras armas também pode lançar 1 **pena de pardal** na direção do alvo travado, o que poderá ser acionado 1 vez a cada **2** segundos.\r\nO número inicial de **penas de pardal** é **30**, e podem ser armazenadas até **60** por vez.",
+				"icon": "skill_brush_queyu",
+				"id": "GA_FPlayerBrushMelee_QueYu"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos alvos dentro da área. Fica imune a interrupção enquanto se esquiva.\r\n**Passiva**: Recebe **15** **penas de pardal**.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBrushEvade_Evade"
+			},
+			{
+				"name": "Gota de Tinta",
+				"description": "Use o botão de ataque normal logo depois de se esquivar para acionar Gota de Tinta.\r\nRespinga tinta, causando dano de **392.1%** do ATQ + **2352** a alvos próximos.\r\n**Passiva**: Inflige um atraso de **65%** durante **2** segundos a alvos próximos (ineficaz contra chefes em jogo em equipe) e forma uma linha de chamas que inflige **50%** de lentidão a alvos próximos, causando dano de **36%** do ATQ + **216** por segundo (esse efeito não se acumula quando ocorre sobreposição de linhas/anéis de chamas). Dura **7** segundos.",
+				"icon": "skill_brush_evadeattack",
+				"id": "GA_FPlayerBrushEvade_EvadeAttack"
+			},
+			{
+				"name": "Artesã da Caligrafia",
+				"description": "Quando Gota de Tinta for acionada, segure o botão de ataque normal para acionar Artesã da Caligrafia.\r\nRespinga tinta, causando dano de **835.4%** do ATQ + **5012** a alvos próximos.\r\n**Passiva**: Inflige um atraso de **65%** durante **2** segundos a alvos próximos (ineficaz contra chefes em jogo em equipe) e forma um anel de chamas que inflige **50%** de lentidão a alvos próximos, causando dano de **36%** do ATQ + **216** por segundo (esse efeito não se acumula quando ocorre sobreposição de linhas/anéis de chamas). Dura **7** segundos.",
+				"icon": "skill_brush_evadeattack1",
+				"id": "GA_FPlayerBrushEvade_BD"
+			}
+		],
+		"skill": [
+			{
+				"name": "Omnidirecional",
+				"description": "Transforma-se em múltiplos sósias de tinta e se torna invencível por um curto tempo, causando dano de **254.8%** do ATQ + **1529** a alvos próximos. A tinta em seguida converge, puxando todos os alvos próximos e lançando um ataque de tinta que causa dano de até **619.8%** do ATQ + **3718**. Tempo de recarga: **25** seg.\r\nOmnidirecional coleta **ideogramas de caligrafia** no campo e usa a transformação de pássaro flamejante, causando dano equivalente a (número de invocações mais ideogramas de caligrafia no campo, até **8**) vezes **191.4%** do ATQ a alvos próximos. Entra no estado de **Pináculo**, ignorando **15%** da resistência ígnea do alvo durante **30** segundos.\r\nO estado de **Pináculo** concede diferentes efeitos dependendo do tipo e número de **ideogramas de caligrafia** coletados:\r\nColete **1** ideograma de descarga \"携\" para um aumento de **8%** no dano de descarga. Colete **2** ideogramas de descarga \"携\" para um aumento de **20%** em despedaçar.\r\nColete **1** ideograma de habilidade \"技\" para um aumento de **8%** no dano de habilidade. Colete **2** ideogramas de habilidade \"技\" para reduzir o tempo de recarga de Omnidirecional em **5** segundos.\r\nColete **1** ideograma de esquiva \"闪\" para um aumento de **10%** no dano do ataque de esquiva. Colete **2** ideogramas de esquiva \"闪\" para receber **3** tentativas de esquiva.\r\nColete **1** ideograma de ataque \"攻\" para um aumento de **10%** no dano do ataque normal. Colete **2** ideogramas de ataque \"攻\" para ganhar redução de dano de ataques normais de **5%**.\r\nColetar **1** ideograma de caligrafia confere corpo de aço durante **2** segundos, limitado a **16** segundos.\r\n\r\n**Passiva: Ideogramas de caligrafia**\r\nUsar o ataque normal/esquiva/habilidade/descarga de qualquer arma concederá o **ideograma de caligrafia** correspondente.\r\n**Descarga**: Usar **1** habilidade de descarga deixa **1** ideograma de descarga \"携\". Até **2** ideogramas \"携\" podem existir no campo ao mesmo tempo.\r\n**Habilidade**: Usar **1** habilidade deixa **1** ideograma de habilidade \"技\". Até **2** ideogramas \"技\" podem existir no campo ao mesmo tempo.\r\n**Esquiva**: Esquivar-se **2** vezes deixa **1** ideograma de esquiva \"闪\", deixando um máximo de até **2** ideogramas \"闪\" em campo ao mesmo tempo.\r\n**Ataque**: Usar **4** ataques normais deixa **1** ideograma de ataque \"攻\", deixando um máximo de até **2** ideogramas \"攻\" em campo ao mesmo tempo.",
+				"icon": "skill_brush_skill",
+				"id": "GA_FPlayerBrushSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Centelha de Genialidade",
+				"description": "Quando a **carga da arma estiver completa** ou **Phantasia** for desencadeada, **remove todos os efeitos negativos de você** e golpeia à frente ao trocar para esta arma. Causa dano de até **1021.4%** do ATQ + **6128** a alvos próximos e os suspende. Neste período, a imunidade a dano dura **1,5** segundo (indisponível na Liga do Apogeu).\r\n\r\n**Passiva: Ardal**\r\nAo usar a habilidade de descarga de qualquer arma ígnea, aplica **1** acúmulo de **ardal** ao alvo travado. Causa dano de **30%** do ATQ por segundo durante **15** segundos e acumula até **2** vezes.",
+				"icon": "skill_brush_changeskill",
+				"id": "GA_FPlayerBrushChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Ressonância ígnea**: Aumenta o ATQ ígneo em **15%** e a resistência ígnea em **25%**. Ativa-se ao equipar **2** ou mais armas ígneas. O efeito deste conjunto funciona no espaço secundário. Não é possível acumular com efeitos do mesmo tipo.\r\n**Explosão ardente: Em campo**: Ao acertar um golpe com **Cometa Pinheiro**, causa dano equivalente a **105%** do ATQ ígneo + **1.5%** da vida máxima do Errante + **55%** da soma de todos os tipos de resistência do Errante + **200%** do crítico a alvos próximos. Esse efeito pode ser acionado uma vez a cada **1,5** segundo. O dano da explosão ardente conta como dano de ataque normal. Se houver **1** arma elétrica/gélida/física de qualquer tipo equipada, o dano da explosão ardente é multiplicado por **1.3**. Além disso, o dano da explosão ardente não é afetado por nenhum efeito de reforço de dano, com a exceção dos atributos raros de equipamentos Titânicos, e não aciona nenhum efeito de ataque adicional.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 15
+			},
+			"need": "None"
+		},
+		{
+			"description": "Quando uma **pena de pardal** atingir um alvo, ela aciona um efeito de propagação, causa dano em área adicional de **50%** do dano total por queimadura. O efeito também propaga o **ardal** do alvo principal para os alvos próximos e reinicia a duração do **ardal**. O efeito de propagação pode ser acionado 1 vez a cada **5** segundos.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 15
+			},
+			"need": "brush_fire_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 15
+			},
+			"need": "brush_fire_plasm"
+		},
+		{
+			"description": "Quando a vida do usuário estiver abaixo de **50%** da vida máxima, a cada **0,5** segundo, consome **1** **pena de pardal** e recupera **1.5%** da vida máxima (aumenta para **3%** da vida máxima em jogo individual) até encher a vida do usuário ou consumir todas as **penas de pardal**. Este efeito funciona no espaço secundário.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 15
+			},
+			"need": "brush_fire_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 15
+			},
+			"need": "brush_fire_plasm"
+		},
+		{
+			"description": "Ao sofrer dano letal, impede o dano letal 1 vez, confere imunidade a dano por uma duração curta e imediatamente recebe **60** **penas de pardal** e **1000** cargas de arma. Pode ser acionado 1 vez a cada **60** segundos. O efeito deste conjunto funciona no espaço secundário.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 15
+			},
+			"need": "brush_fire_plasm"
+		},
+		{
+			"description": "Aumenta o dano ígneo em mais **14%** quando estiver no estado de **Pináculo**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 15
+			},
+			"need": "brush_fire_plasm"
+		}
+	],
+	"id": "brush_fire"
+}

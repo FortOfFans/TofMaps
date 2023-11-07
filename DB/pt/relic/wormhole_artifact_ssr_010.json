@@ -1,0 +1,11 @@
+{
+	"name": "Projetor de Holograma",
+	"type": "ITEM_TYPE_BREAK_FATE_ARTIFACT",
+	"description": "Equipado com um sistema teleguiado, os mísseis causam dano de todas as direções, e os seus inimigos ficam sem ter para onde correr. Lute ao lado do seu melhor parceiro!",
+	"source": "Materializa um lança-mísseis durante **8** segundos. Tempo de recarga: **90** seg. Dispara vários mísseis em inimigos próximos. Cada míssil causa dano de **30%** do ATQ.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_010.png",
+	"shortIcon": "artifact_ssr_010",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_021",
+	"id": "wormhole_artifact_ssr_010"
+}

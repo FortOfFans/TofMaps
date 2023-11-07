@@ -1,0 +1,173 @@
+{
+	"name": "Estrelas Eletromagnéticas",
+	"avatar": {
+		"name": "Samir",
+		"advanceId": "imitation_5L1",
+		"weapon": "dgun_thunder",
+		"icon": "imitation_5",
+		"avatarID": "saimier",
+		"age": "20 de maio",
+		"height": "1,71 m",
+		"gender": "Feminino",
+		"state": "Hykros",
+		"city": "Desconhecido",
+		"rating": "wuwei_imitation_5",
+		"gp": [
+			"game",
+			"toy"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐雅菁"
+			},
+			{
+				"Japanese": "CV : 水樹 奈々"
+			},
+			{
+				"English": "CV : Brittany Cox"
+			},
+			{
+				"Korean": "CV : 서유리"
+			},
+			{
+				"Portuguese": "CV : Fernanda Bullara"
+			}
+		],
+		"id": "imitation_5"
+	},
+	"description": "Estas armas de fogo foram criadas com base em canhões eletromagnéticos e devem ser usadas em par.",
+	"icon": "item_Weapon_SSR_DGun_Thunder",
+	"gachaIcon": "SSR_lh_Sq",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "DoubleGun",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "dgun_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Tiro Duplo",
+				"description": "No chão, use o botão de ataque normal para atacar 5 vezes seguidas com as pistolas.\r\nPrimeiro ataque: Causa dano total de **56.5%** do ATQ + **340**.\r\nSegundo ataque: Causa dano total de **43%** do ATQ + **258**.\r\nTerceiro ataque: Causa dano total de **143.6%** do ATQ + **862**.\r\nQuarto ataque: Causa dano total de **135.7%** do ATQ + **815**.\r\nQuinto ataque: Causa dano total de **184.8%** do ATQ + **1109** e **lança o alvo no ar**.",
+				"icon": "skill_dgun_melee",
+				"id": "GA_FPlayerDgunMeleeThu_Melee"
+			},
+			{
+				"name": "Chuva de Balas",
+				"description": "No ar, use o botão de ataque normal para atirar sem parar no chão. Cada disparo causa dano de **54.3%** do ATQ + **365** e custa **150** de vigor.",
+				"icon": "skill_dgun_airattack",
+				"id": "GA_FPlayerDgunMeleeThu_AirAttack"
+			},
+			{
+				"name": "Rajada de Energia",
+				"description": "Segure o botão de ataque para continuar atirando. Cada acerto causa dano mínimo de **27.6%** do ATQ + **166**.",
+				"icon": "skill_dgun_changeskill",
+				"id": "GA_FPlayerDgunMeleeThu_PowerAttack"
+			},
+			{
+				"name": "Chute Fantasma",
+				"description": "No ar, segure o botão de ataque normal para usar Chute Fantasma. Derruba o alvo e causa dano de **84.6%** do ATQ + **508**. Ao aterrissar, causa dano de **118.4%** do ATQ + **710** a alvos próximos e os **lança alto no ar**.",
+				"icon": "skill_dgun_evadeattack",
+				"id": "GA_FPlayerDgunMeleeThu_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiva Desacelerante",
+				"description": "Use o botão de ataque normal após se esquivar para **suspender muito** os alvos e causar dano de **147.1%** do ATQ + **883**.",
+				"icon": "skill_dgun_branch",
+				"id": "GA_FPlayeDgunEvadeThu_FrontAttack"
+			},
+			{
+				"name": "Esquiva",
+				"description": "Esquive-se logo antes de sofrer um golpe para criar uma Phantasia, reduzindo a velocidade dos inimigos dentro da área. Fica imune a interrupção enquanto se esquiva durante **0,5** segundo.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayeDgunEvadeThu_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Campo Elétrico",
+				"description": "Gera um escudo energético na posição do alvo que emite feixes dentro da barreira. Causa dano de **323.8%** do ATQ + **1943**. O último golpe **suspende muito** os alvos. Tempo de recarga: **45** seg.",
+				"icon": "skill_dgun",
+				"id": "GA_FPlayerDgunSkillThu"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Área Relampejante",
+				"description": "Quando a **carga da arma** estiver completa ou **Phantasia for desencadeada**, ao trocar para esta arma, **remove todos os efeitos negativos de você** e cria uma Área Relampejante na posição selecionada ao trocar para esta arma. **Suspende muito** os alvos no alcance, causa dano total de **286%** do ATQ + **1716** distribuído em 3 ataques e anula os efeitos positivos deles. A área dura **3,5** segundos e causa dano de **50.9%** do ATQ + **305** ao alvo a cada **0,5** segundo.",
+				"icon": "skill_dgun_changeskill2",
+				"id": "GA_FPlayerDgunChangeSkillThu_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "None"
+		},
+		{
+			"description": "Provoca uma explosão elétrica no alvo após desferir um golpe crítico, causando dano adicional de **30%** do ATQ ao alvo e inimigos próximos. Tempo de recarga: **0,2** seg.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **16%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Aumenta a taxa de crítico contra alvos eletrocutados em **40%**. Explosões elétricas prolongam a duração de efeitos de eletrocussão em **0,5** segundo, até no máximo **5** segundos.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Aumenta o crescimento do ATQ mínimo da arma atual em **32%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Dobra a duração do Campo Elétrico e puxa alvos para o centro do ataque.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Desencadear uma explosão elétrica reduz em **1** segundo a recarga de habilidades.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		}
+	],
+	"id": "dgun_thunder"
+}

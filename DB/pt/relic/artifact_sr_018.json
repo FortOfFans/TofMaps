@@ -1,0 +1,11 @@
+{
+	"name": "Granada de Luz",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "Granada de Luz",
+	"source": "Arremessa uma granada de luz à frente que afeta tanto aliados quanto inimigos em área durante **5** segundos. Para evitar o efeito dela, olhem para outro lado.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_n_003.png",
+	"shortIcon": "artifact_n_003",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_007",
+	"id": "artifact_sr_018"
+}

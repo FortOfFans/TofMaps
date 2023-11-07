@@ -1,0 +1,11 @@
+{
+	"name": "Agilizadores",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"description": "Corra como o vento.",
+	"source": "Agilizadores podem ser usados para entrar no estado zéfiro, que permite movimento livre em paredes e saltos para percorrer rapidamente distâncias curtas durante **15** segundos. Tempo de recarga: **90** seg. Agilizadores só podem ser usados no Dominio 9.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_019.png",
+	"shortIcon": "artifact_ssr_019",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_043",
+	"id": "artifact_ssr_019"
+}

@@ -1,0 +1,174 @@
+{
+	"name": "Molten Shield V2",
+	"avatar": {
+		"name": "Huma",
+		"advanceId": "imitation_6L1",
+		"weapon": "shieldaxe_fire",
+		"icon": "imitation_6",
+		"avatarID": "xiuma",
+		"age": "12 Januari",
+		"height": "167 cm",
+		"gender": "Perempuan",
+		"state": "Hykros",
+		"city": "Tak Diketahui",
+		"rating": "wuwei_imitation_6",
+		"gp": [
+			"everydayObjects",
+			"game",
+			"decorate"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐雅菁"
+			},
+			{
+				"Japanese": "CV : 高橋 李依"
+			},
+			{
+				"English": "CV : Colleen O Shaughnessey"
+			},
+			{
+				"Korean": "CV : 김보나"
+			},
+			{
+				"Portuguese": "CV : Marli Bortoletto"
+			}
+		],
+		"id": "imitation_6"
+	},
+	"description": "Kapak perisai yang termasuk dalam seri senjata V2, sebuah koleksi senjata yang ditempa dengan suatu teknik khusus.",
+	"icon": "item_Weapon_SSR_ShieldAxe_Fire01",
+	"gachaIcon": "SSR_lh_yyz",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "ShieldAxe",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "ShieldAxe_Fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Serangan Biasa",
+				"description": "Saat di darat, mengayunkan kapak perisai untuk menyerang 4 kali berturut-turut.\r\nSerangan Pertama Mode Perisai: Menimpakan DMG sebesar **77.7%** ATK plus **466** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **56.9%** ATK plus **341** dan membuat target terpental sedikit ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **62.8%** ATK plus **377** dan membuat target terpental sedikit ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **184%** ATK plus **1104** dan membuat target **Terpental Ke Atas**.\r\nSerangan Pertama Mode Kapak: Menimpakan DMG sebesar **135.2%** ATK plus **811** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **79.4%** ATK plus **476** dan membuat target terpental sedikit ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **119.9%** ATK plus **719** dan membuat target terpental sedikit ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **221.3%** ATK plus **1328** dan membuat target terpental ke belakang.",
+				"icon": "pugong_Shield",
+				"id": "GA_FPlayerShieldMelee_Melee"
+			},
+			{
+				"name": "Aerial Strike",
+				"description": "Saat di udara atau setelah melompat satu kali, menyerang 3 kali berturut-turut.\r\nSerangan Pertama Mode Perisai: Menimpakan DMG sebesar **75.9%** ATK plus **455**.\r\nSerangan Kedua: Menimpakan DMG sebesar **80.2%** ATK plus **481**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **103%** ATK plus **618**.\r\nSerangan Pertama Mode Kapak: Menimpakan DMG sebesar **118.6%** ATK plus **712**.\r\nSerangan Kedua: Menimpakan DMG sebesar **91.1%** ATK plus **547**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **277.9%** ATK plus **1667**.",
+				"icon": "skill_shield_airattack",
+				"id": "GA_FPlayerShieldMelee_AirAttack"
+			},
+			{
+				"name": "Anticipation",
+				"description": "Mode Perisai: Saat di darat, tekan dan tahan Serangan Biasa untuk mengangkat perisai (lepaskan untuk mengakhirinya) selama **3** detik. Dalam durasi tersebut, Wanderer tidak bisa bergerak dan semua DMG yang diterima berkurang **50%**. Saat mengangkat perisai, melepaskan tombol Serangan Biasa setelah menerima DMG atau setelah menahan tombol selama **3** detik akan membuatmu melancarkan Fire Crash, menimpakan DMG sebesar **167.3%** ATK plus **1004** dan membuat target **Stun** selama **1** detik.\r\nMode Kapak: Menghantam target, menimpakan DMG sebesar **122.2%** ATK plus **733** dan membuat target terpental ke atas.",
+				"icon": "skill_shieldpowerattack",
+				"id": "GA_FPlayerShieldMelee_PowerAttack"
+			},
+			{
+				"name": "Valor",
+				"description": "Saat di udara, tekan dan tahan Serangan Biasa (tekan saat ada musuh yang ditarget), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan melakukan Serangan Branch di udara.\r\nMode Perisai: Melakukan serangan menukik ke bawah, menimpakan DMG sebesar **12.5%** ATK plus **75** di tiap hantaman. Saat mendarat, menimpakan DMG sebesar **89.2%** ATK plus **535** dan membuat target terpental ke atas.\r\nMode Kapak: Melakukan serangan menukik ke bawah, menimpakan DMG sebesar **12.5%** ATK plus **75** di tiap hantaman. Saat mendarat, menimpakan DMG sebesar **128.3%** ATK plus **770** dan membuat target terpental ke atas.\r\nMakin tinggi posisi pemain saat melakukan serangan, makin besar DMG yang ditimpakan, maks **600%** DMG.",
+				"icon": "skill_shield_airbranch",
+				"id": "GA_FPlayerShieldMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Erupt",
+				"description": "Gunakan Serangan Biasa selama rentang waktu singkat setelah Menghindar untuk melakukan Serangan Menghindar.\r\nMode Perisai: Menembakkan api dari perisai, menimpakan DMG sebesar **55.8%** ATK plus **335** dan membuat target terpental ke belakang. Selain itu, memicu ledakan yang menimpakan DMG sebesar **55.8%** ATK plus **335** dan membuat target **Stun** selama **0,5** detik. Penyembuhan yang diterima target berkurang **30%** selama **10** detik berikutnya.\r\nMode Kapak: Mengayunkan kapak, menimpakan DMG sebesar **226.3%** ATK plus **1358** dan mengurangi penyembuhan yang diterima target sebesar **30%** selama **10** detik berikutnya.",
+				"icon": "skill_shieldevade",
+				"id": "GA_FPlayerShieldEvade_EvadeAttack"
+			},
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, yang akan memperlambat musuh dalam area tersebut. CD: 15 detik. Saat Menghindar, kamu akan menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerShieldEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Fission",
+				"description": "Konversi Perisai: Beralih dari Mode Perisai ke Mode Kapak, lalu menghantamkannya ke tanah, menimpakan DMG sebesar **373.8%** ATK plus **2243**, plus DMG sebesar **4%** Max HP Wanderer, dan membuat target **Terpental Ke Atas**. Membuat zona api besar selama **5** detik yang akan membakar target dan menimpakan DMG terus-menerus sebesar **233.6%** ATK plus **1401**.\r\nKonversi Kapak: Beralih dari Mode Kapak ke Mode Perisai, lalu menghantamkannya ke tanah, menimpakan DMG sebesar **309.5%** ATK plus **1857**, plus DMG sebesar **4%** Max HP Wanderer, kepada target dan membuat mereka terpental ke belakang. Target yang terhantam serangan ini tak bisa berganti senjata selama **5** detik.\r\nCD: **25** detik. Konversi Perisai dan Konversi Kapak berbagi waktu CD yang sama.",
+				"icon": "skill_shield",
+				"id": "GA_FPlayerShieldSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Seething Rage",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua debuff dari Wanderer** dan mengeluarkan gelombang api yang menimpakan DMG sebesar **352%** ATK plus **2112**, ditambah DMG sebesar **5%** Max HP Wanderer. Menerapkan Taunt kepada musuh selama **5** detik yang akan memaksa musuh untuk menarget Wanderer, dan selama itu DMG yang diterima Wanderer akan berkurang **15%**. Menyebarkan objek berbentuk perisai berdasarkan jumlah target yang kena Taunt. Objek tersebut aktif di area tersebut selama **20** detik. Saat diambil, objek itu akan mengurangi DMG yang diterima sebesar **5%** selama **10** detik (bisa ditumpuk), dan langsung memulihkan 1 jatah menghindar.",
+				"icon": "skill_shield_changeskill",
+				"id": "GA_FPlayerShieldChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Mendapatkan Perisai Kuat setelah menggunakan Discharge: Seething Rage. Jika menggunakan Skill Dodge atau Skill Branch selama dalam Bentuk Perisai, akan mendapatkan satu tumpuk Perisai Kuat, yang memberikan **10%** Pengurangan DMG selama **15** detik dan bisa ditumpuk hingga **3** kali. Jika beralih ke Axe Form, semua tumpukan Perisai Kuat akan berubah menjadi tumpukan Sharp Axe, yang masing-masing akan meningkatkan DMG sebesar **15%** selama **15** detik. Jika beralih ke senjata yang berbeda, efek ini akan dibatalkan.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan HP dasar untuk senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Selama dalam wujud perisai, Branch/Serangan Dodge akan menimpakan DMG tambahan kepada target sebesar **4%** dari HP saat ini pengguna.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Setelah beralih ke Shield Axe, langsung memberikan **30%** Damage Reduction yang akan berkurang **10%** setiap **3** detik, hingga minimal **10%**. Jika berganti senjata, efek ini akan dibatalkan. Cooldown: **30** detik.",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		},
+		{
+			"description": "Memperkuat skill perubahan wujud senjata.\r\nPenguatan Konversi Perisai: DMG Skill yang ditimpakan meningkat **60%** dan radius zona api bertambah luas **30%**.\r\nPenguatan Konversi Kapak: CD menjadi terpisah dengan CD konversi perisai. Selama **5** detik berikutnya setelah menggunakan skill ini, semua DMG yang diterima akan diubah menjadi HP (maks **15%** dari Max HP pengguna).",
+			"stats": {
+				"shatter": 10,
+				"charge": 10
+			},
+			"need": "ShieldAxe_Fire_plasm"
+		}
+	],
+	"id": "shieldaxe_fire"
+}

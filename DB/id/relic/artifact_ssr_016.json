@@ -1,0 +1,10 @@
+{
+	"name": "Overdrive Shot",
+	"type": "ITEM_TYPE_ARTIFACT",
+	"source": "Saat digunakan, menandai senjata saat ini dan memberinya **3** Dosis yang aktif selama **200** detik. Kamu juga mendapatkan efek **Micro Attack**: Meningkatkan DMG yang ditimpakan sebesar **4%** selama **200** detik. Setiap kali menggunakan Skill Senjata dari senjata yang sudah ditandai, **1** Dosis akan ditukar dengan **Overdrive**: Meningkatkan DMG yang ditimpakan sebesar **15%** selama **20** detik. Overdrive akan lenyap saat berganti senjata. Overdrive Shot memiliki CD **240** detik.\r\nSaat Overdrive Shot lenyap atau berganti Relik, semua dosis yang tersisa, efek Micro Attack, dan Overdrive akan lenyap. Saat suatu senjata ditandai untuk yang kedua kalinya, Dosis dari tanda pertama akan lenyap.",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_ssr_016.png",
+	"shortIcon": "artifact_ssr_016",
+	"rarity": "LEGENDRY",
+	"AttributeID": "artifact_adv_040_OS",
+	"id": "artifact_ssr_016"
+}

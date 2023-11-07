@@ -1,0 +1,14 @@
+{
+	"name": "Bai Ling",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Apa yang harus dilakukan saat yang kamu pikirkan justru menyebar?",
+	"icon": "icon_matrix_SR9_512",
+	"gachaIcon": "icon_matrix_SR9_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Meningkatkan DMG yang ditimpakan kepada target yang terkena Grievous sebesar **12%**/15%/18%."
+		}
+	],
+	"id": "matrix_SR9_1"
+}

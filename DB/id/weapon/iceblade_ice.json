@@ -1,0 +1,187 @@
+{
+	"name": "Unyielding Wing",
+	"avatar": {
+		"name": "Alyss",
+		"advanceId": "imitation_30L1",
+		"weapon": "iceblade_ice",
+		"icon": "imitation_30",
+		"avatarID": "ailisi",
+		"age": "28 Mei",
+		"height": "177 cm",
+		"gender": "Perempuan",
+		"state": "Pasukan Keamanan Khusus Mirroria",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_30",
+		"gp": [
+			"collection",
+			"restrictedGoods",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 杜晴晴"
+			},
+			{
+				"Japanese": "CV : 安済 知佳"
+			},
+			{
+				"English": "CV : Risa Mei"
+			},
+			{
+				"Korean": "CV : 유영"
+			},
+			{
+				"Portuguese": "CV : Michelle Giudice"
+			}
+		],
+		"id": "imitation_30"
+	},
+	"description": "Armor tempur yang dibuat dengan pisau kaki sebagai intinya. Ditenagai oleh energi mental penggunanya, ini adalah hasil dari ilmu pengetahuan dan teknologi mutakhir dari pra-Cataclysm, dan meledak dengan kekuatan yang menakutkan bila diperlukan.",
+	"icon": "item_Weapon_SSR_iceblade_Ice01",
+	"gachaIcon": "SSR_lh_ailisi",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "IceBlade",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "iceblade_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Swan Arc",
+				"description": "Saat di darat, gunakan Unyielding Wing untuk melakukan 5 serangan beruntun.\r\nSerangan Pertama: Menimpakan DMG sebesar **101.3%** ATK plus **608** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **107.3%** ATK plus **644** dan membuat target terpental jauh ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **116.4%** ATK plus **698** dan membuat target terpental sedikit ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **141.8%** ATK plus **851** dan membuat target terkena Suspend.\r\nSerangan Kelima: Menimpakan DMG sebesar **241.5%** ATK plus **1449** dan membuat target terpental ke atas.",
+				"icon": "skill_iceblade_melee",
+				"id": "GA_FPlayerIceBladeMeleeIce_Melee"
+			},
+			{
+				"name": "Sweeping Combo",
+				"description": "Saat di udara, gunakan Serangan Biasa untuk menyerang 5 kali berturut-turut sambil mengonsumsi Stamina.\r\nSerangan Pertama: Menimpakan DMG sebesar **72.1%** ATK plus **433**.\r\nSerangan Kedua: Menimpakan DMG sebesar **65.6%** ATK plus **394**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **115.8%** ATK plus **695**.\r\nSerangan Keempat: Menimpakan DMG sebesar **131.1%** ATK plus **787**.\r\nSerangan Kelima: Menimpakan DMG sebesar **343.9%** ATK plus **2063** dan **menjatuhkan** target.",
+				"icon": "skill_iceblade_airattack",
+				"id": "GA_FPlayerIceBladeMeleeIce_AirAttack"
+			},
+			{
+				"name": "Dancing Flash",
+				"description": "Selama menggunakan Swan Arc, tekan dan tahan Serangan Biasa untuk menarik target dan menimpakan DMG sebesar **303.9%** ATK plus **1823** kepada semua target dalam jangkauan. Serangan terakhirnya membuat target **Terpental Ke Atas** dan menimpakan DMG sebesar **95%** ATK plus **570**.\r\n**Pasif**: Setelah **4** detik berada dalam Latent State, pada saat berikutnya kamu menggunakan Dancing Flash, kamu kebal terhadap DMG.",
+				"icon": "skill_iceblade_branch",
+				"id": "GA_FPlayerIceBladeMeleeIce_Branch"
+			},
+			{
+				"name": "Sweeping Dive",
+				"description": "Tekan dan tahan Serangan Biasa saat di udara (tekan saat ada target yang tersedia), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Pummel.\r\nSaat jatuh, menimpakan DMG sebesar **95%** ATK plus **570** setiap kali mendaratkan serangan sambil terus menguras Stamina.",
+				"icon": "skill_iceblade_jumpattack",
+				"id": "GA_FPlayerIceBladeMeleeIce_JumpAttack"
+			},
+			{
+				"name": "Waltz",
+				"description": "Tekan dan tahan Serangan Biasa untuk menimpakan DMG sebesar **104.5%** ATK plus **627** kepada target setiap kali serangan ini menghantam target. Serangan terakhirnya menimpakan DMG sebesar **190%** ATK plus **1140**. Mendapatkan **Hyperbody** selama waktu ini sambil terus menguras Stamina.",
+				"icon": "skill_iceblade_powerattack",
+				"id": "GA_FPlayerIceBladeMeleeIce_PowerAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Dance Form",
+				"description": "Setelah menghindar ke belakang, tekan Serangan Biasa 3 kali berturut-turut untuk menimpakan DMG dengan total sebesar **572.8%** ATK plus **3436** kepada target dan membuat target yang pertama kali terhantam terkena **Suspend Keras**.",
+				"icon": "skill_iceblade_evadeattack",
+				"id": "GA_FPlayerIceBladeEvadeIce_BackAttack"
+			},
+			{
+				"name": "Latent State",
+				"description": "Menghindar dan tahan tombol untuk memasuki Latent State. Selama durasi ini, Stamina akan terus terkuras dan kecepatan meningkat **50%**. Selama berada di dalam Chilling Field, kecepatan meningkat **50%**. Saat keluar dari Latent State, menimpakan DMG sebesar **305.1%** ATK plus **1830** kepada semua target di sekitar dan menerapkan Freeze, membuat mereka membeku selama **2** detik.",
+				"icon": "skill_iceblade_evadeon",
+				"id": "GA_FPlayerIceBladeEvadeIce_EvadeOn"
+			},
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, memperlambat target di dalam area tersebut. Saat menghindar, menjadi kebal terhadap Hitstun.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerIceBladeEvadeIce_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Chilling Field",
+				"description": "Menarik musuh di sekitar, lalu menimpakan DMG sebesar **857.7%** ATK plus **5146** dan menerapkan **Suspend Keras** kepada mereka. Kemudian, Wanderer menciptakan Chilling Field yang aktif selama **30** detik. CD: **25** detik. Saat mengaktifkan skill, Wanderer akan mendapatkan Hyperbody.\r\n**Pasif**: Saat menggunakan Skill Discharge dengan Senjata Frost di dalam Chilling Field, menimpakan DMG Hoarfrost sebesar **125.8%** ATK plus **755** sebanyak 1 kali, lalu memperlambat target selama **2** detik (efek Slow ini tidak berlaku bagi Boss). Selama berada di area ini, setiap kali efek serangan Unyielding Wing terpicu **12** kali, memicu Spatial Slice satu kali, yang menimpakan DMG sebesar **165%** ATK plus **990** sebanyak 1 kali kepada musuh dalam lingkup area setiap 2 detik selama **25** detik (ini juga akan terhenti saat area menghilang).",
+				"icon": "iceblade_skill",
+				"id": "GA_FPlayerIceBladeSkillIce_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Starry Night",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan melakukan Skill Discharge yang menimpakan DMG sebesar **553.2%** ATK plus **3319**, serta membuat target **terpental keras ke atas**. Selama durasi ini, Wanderer menjadi kebal terhadap DMG selama **2,6** detik (tidak berlaku di Apex League).",
+				"icon": "skill_iceblade_changeskill",
+				"id": "GA_FPlayerIceBladeChangeSkillIce"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonansi Frost**: Meningkatkan Frost ATK sebesar **15%** dan Frost Resistance sebesar **25%**. Aktifkan dengan cara memakai **2** Senjata Frost atau lebih. Efek set ini juga aktif saat senjata ada di slot sampingan. Tak bisa bertumpuk dengan efek dari tipe yang sama",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "None"
+		},
+		{
+			"description": "Saat menggunakan Skill Senjata dengan Senjata Frost di dalam Chilling Field, mendapatkan Alyss Support, yang akan memanggil Alyss untuk melakukan Skill Discharge di area tersebut. Ini juga akan dianggap sebagai Wanderer sedang melakukan Skill Discharge. Skill yang memicu Skill Discharge tersebut akan digunakan sekali lagi setelahnya. DMG Skill Discharge dan DMG Skill dari Alyss Support adalah sebesar **70%** dari DMG Skill Discharge yang asli.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **16%**.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Setiap kali Starry Night terpicu, mendapatkan Alyss Support yang akan meningkatkan DMG dari Starry Night dan Hoarfrost sebesar **0%** selama **1** detik. Maks **3** tumpuk.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan pertumbuhan ATK dasar senjata saat ini sebesar **32%**.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan DMG dari Serangan Biasa Unyielding Wing dan Spatial Slice sebesar **0%**. Saat menerima DMG mematikan, Wanderer akan mendapatkan Alyss Protection yang akan melindunginya dari kematian sebanyak 1 kali dan membuat Wanderer kebal terhadap DMG untuk sementara. CD: **1** detik.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Meningkatkan Frost DMG sebesar **0%** saat Alyss Support mencapai 3 tumpuk.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		}
+	],
+	"id": "iceblade_ice"
+}

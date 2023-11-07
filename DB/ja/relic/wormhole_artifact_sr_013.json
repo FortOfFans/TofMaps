@@ -1,0 +1,11 @@
+{
+	"name": "シンギュラリティキューブ",
+	"type": "ITEM_TYPE_BREAK_FATE_ARTIFACT",
+	"description": "これこそが魔法の力なのかもしれない。ターゲットを宙に浮かせてノックアップできる",
+	"source": "周囲のターゲットに攻撃力×**0%**のダメージを与え、**5**秒間**強制スタン**させる。ベンジス重工製の青いオムニアム物質を**10**秒間ロックできる。時空ロック中、ターゲットが攻撃を受けるとエナジーを蓄積する。ロック終了時に力の方向へと飛んでいき、ターゲットに衝突して攻撃力×**0%**のダメージを与える。クールダウン**30**秒",
+	"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_sr_012.png",
+	"shortIcon": "artifact_sr_012",
+	"rarity": "EPIC",
+	"AttributeID": "artifact_adv_033",
+	"id": "wormhole_artifact_sr_013"
+}

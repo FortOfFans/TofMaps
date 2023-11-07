@@ -1,0 +1,102 @@
+{
+	"name": "Frosted Spear",
+	"description": "Senjata umum di kalangan penduduk Tundra Warren. Diisi dengan es untuk mencerminkan cita rasa setempat. Karena murah dan sangat efektif, ini jadi benda yang sangat populer.",
+	"icon": "item_Weapon_R_Spear_Ice01",
+	"gachaIcon": "Weapon_R_Spear_Ice01",
+	"rarity": "R",
+	"element": "Ice",
+	"weaponType": "Spear",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 15,
+		"Item_Mine_ice_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_ice_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "spear_ice_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Thrust",
+				"description": "Saat di darat, ayunkan Long Spear untuk menyerang 5 kali berturut-turut.\r\nSerangan Pertama: Menimpakan DMG sebesar **20.1%** ATK plus **121** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kedua: Menimpakan DMG sebesar **18.5%** ATK plus **111** membuat target terpental sedikit ke belakang.\r\nSerangan Ketiga: Menimpakan DMG sebesar **38.5%** ATK plus **231** dan membuat target terpental sedikit ke belakang.\r\nSerangan Keempat: Menimpakan DMG sebesar **59.2%** ATK plus **355** dan membuat target terpental sedikit ke belakang.\r\nSerangan Kelima: Menimpakan DMG sebesar **93.8%** ATK plus **563** dan membuat target terpental cukup jauh ke belakang.",
+				"icon": "skill_spear_melee",
+				"id": "GA_FPlayerSpearMelee_Melee_R"
+			},
+			{
+				"name": "Jumping Strike",
+				"description": "Saat di udara, tekan Serangan Biasa untuk menyerang 4 kali berturut-turut di udara.\r\nSerangan Pertama: Menimpakan DMG sebesar **22.3%** ATK plus **134**.\r\nSerangan Kedua: Menimpakan DMG sebesar **18.8%** ATK plus **113**.\r\nSerangan Ketiga: Menimpakan DMG sebesar **37.1%** ATK plus **223**.\r\nSerangan Keempat: Menimpakan DMG sebesar **89%** ATK plus **534**.",
+				"icon": "skill_spear_air",
+				"id": "GA_FPlayerSpearMelee_AirAttack_R"
+			},
+			{
+				"name": "Crashing Drive",
+				"description": "Tahan Serangan Biasa saat di udara (tekan saat ada target yang tersedia), atau gunakan Serangan Biasa saat memanjat, melompat ke belakang, atau menggunakan Jetpack untuk mengaktifkan Crashing Drive.\r\nSaat terjun, menimpakan DMG sebesar **6.4%** ATK plus **38** tiap menghantam target. Saat mendarat, menimpakan DMG sebesar **39.3%** ATK plus **236** dan mengakibatkan Suspend kepada target.\r\nMakin tinggi posisimu saat mengaktifkan serangan, makin besar pula DMG yang ditimpakan, maks **600%** DMG.",
+				"icon": "skill_spear_jump",
+				"id": "GA_FPlayerSpearMelee_JumpAttack_R"
+			},
+			{
+				"name": "Spear Flurry",
+				"description": "Setelah Serangan Biasa ketiga, tahan tombol Serangan Biasa untuk mengaktifkan Spear Flurry.\r\nSetelah kena, mengakibatkan **Suspend Keras** kepada target, menimpakan DMG sebesar **39.8%** ATK plus **239**. Tekan lagi untuk terus menyerang target yang tertahan di udara, menimpakan DMG sebesar maks **79.5%** ATK plus **477** DMG kepada satu target.",
+				"icon": "skill_spear_branch",
+				"id": "GA_FPlayerSpearMelee_Branch_R"
+			},
+			{
+				"name": "Sneak Attack",
+				"description": "Tusukkan Long Spear ke depan, menimpakan DMG sebesar **256.5%** ATK plus **1539**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSpearMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Flying Kick",
+				"description": "Gunakan tombol Serangan Biasa selama rentang waktu Dodge Sempurna yang singkat (pakai tombol arah sebelum menghindar) untuk mengaktifkan Flying Kick.\r\nSetelah mengenai target, menimpakan DMG sebesar **58.2%** ATK + **349**, memukul mundur target cukup jauh, dan memberikan efek **Stun** kepada target selama **1** detik atau **0,5** detik kepada Wanderer.",
+				"icon": "skill_spear_frontattack",
+				"id": "GA_FPlayerSpearEvade_FrontAttack_R"
+			},
+			{
+				"name": "Lunging Smash",
+				"description": "Gunakan Serangan Biasa dalam rentang waktu singkat setelah Menghindar untuk melakukan Lunging Smash.\r\nHantamkan tombak panjang ke tanah, menimpakan DMG sebesar **42.8%** ATK plus **257** dan membuat target terkena **Suspend Keras**.",
+				"icon": "skill_spear_backattck",
+				"id": "GA_FPlayerSpearEvade_BackAttack_R"
+			},
+			{
+				"name": "Menghindar",
+				"description": "Menghindar tepat sebelum terkena serangan untuk memicu Phantasia, mengurangi SPD musuh di dalam area tersebut. Saat menghindar, kamu menjadi kebal terhadap Hitstun selama **0,5** detik.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSpearEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Moonchaser",
+				"description": "Mengakibatkan **Suspend Keras** kepada target dan mengudara, menimpakan DMG sebesar **103.1%** ATK plus **619**. CD: **25** detik.",
+				"icon": "spear_skill1",
+				"id": "GA_FPlayerSpearSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Spear Dance",
+				"description": "Saat **Charge Senjata** penuh atau **Phantasia** terpicu, beralih ke senjata ini akan **melenyapkan semua Debuff dari Wanderer** dan mencengkeram target lalu mengguncang mereka beberapa kali, menimpakan DMG sebesar **205.4%** ATK plus **1232**. Serangan yang terakhir akan membuat target **terpental keras**.",
+				"icon": "skill_spear_changeskill",
+				"id": "GA_FPlayerSpearChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6.9,
+				"charge": 5.6
+			},
+			"need": "None"
+		}
+	],
+	"id": "spear_ice"
+}
