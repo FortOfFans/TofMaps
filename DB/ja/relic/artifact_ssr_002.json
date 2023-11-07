@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_002",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_029",
+	"advancement": [
+		{
+			"description": "敵がオムニアムの盾をくぐり抜けた場合、速度‐**50%**、**2**秒間持続",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "クールダウンが**60**秒に短縮",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "持続時間が**20**秒に延長",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "氷被ダメージ-**2%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "探索者または味方がオムニアムの盾をくぐり抜けた場合、与ダメージ+**25%**、**7**秒間持続",
+			"id": "artifact_adv_029"
+		}
+	],
 	"id": "artifact_ssr_002"
 }

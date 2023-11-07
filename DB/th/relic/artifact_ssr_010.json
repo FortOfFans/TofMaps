@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_010",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_021_OS",
+	"advancement": [
+		{
+			"description": "เพิ่มระยะเวลาเป็น **20** วินาที",
+			"id": "artifact_adv_021_OS"
+		},
+		{
+			"description": "คูลดาวน์ของสกิลลดลงเหลือ **120** วินาที",
+			"id": "artifact_adv_021_OS"
+		},
+		{
+			"description": "แตะอีกครั้งเพื่อเคลื่อนย้าย\r\nไปยังตำแหน่งของ\r\nโฮโลแกรม",
+			"id": "artifact_adv_021_OS"
+		},
+		{
+			"description": "เพิ่มดาเมจไฟฟ้า **2%** แม้ว่าจะไม่ได้ใช้งานก็ตาม ใช้ในลีกแข่งยอดฝีมือไม่ได้",
+			"id": "artifact_adv_021_OS"
+		},
+		{
+			"description": "ดาเมจที่สร้างโดยโฮโลแกรมเพิ่มขึ้นไปที่ระดับ **50%** ของดาเมจของนักพเนจร การเคลื่อนย้ายตำแหน่งจะทำให้เอฟเฟกต์ควบคุมหายไป",
+			"id": "artifact_adv_021_OS"
+		}
+	],
 	"id": "artifact_ssr_010"
 }

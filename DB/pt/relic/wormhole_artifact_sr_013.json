@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_012",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_033",
+	"advancement": [
+		{
+			"description": "Ativar o Cubo Estranho aumenta o dano causado em **10%** durante **10** segundos.",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "Após ativar o Cubo Estranho, reduz a carga de arma de inimigos próximos em **200**.",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "Aumenta as utilizações do Cubo Estranho para **2**.",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "Aumenta o dano elétrico em **1,5%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "Após ativar o Cubo Estranho, receba carga de arma com base na vida perdida. Cada **1%** de vida perdida gera **10** cargas de arma.",
+			"id": "artifact_adv_033"
+		}
+	],
 	"id": "wormhole_artifact_sr_013"
 }

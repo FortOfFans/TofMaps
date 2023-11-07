@@ -1,0 +1,14 @@
+{
+	"name": "Apophis",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Riesengroß und jede Bewegung erzeugt große Veränderungen.",
+	"icon": "icon_matrix_SR2_512",
+	"gachaIcon": "icon_matrix_SR2_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Je niedriger die LP des Anwenders, desto stärker wird der durch ihn verursachte Schaden erhöht. Der Schaden kann maximal um **20%**/25%/30% erhöht werden und der maximale Schadensbonus wird bei **20%** erreicht."
+		}
+	],
+	"id": "matrix_SR2_1"
+}

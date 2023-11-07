@@ -1,0 +1,174 @@
+{
+	"name": "Eiswind-Pfeil",
+	"avatar": {
+		"name": "Tsubasa",
+		"advanceId": "imitation_7L1",
+		"weapon": "bow_ice",
+		"icon": "imitation_7",
+		"avatarID": "sifengyuanyu",
+		"age": "24. März",
+		"height": "169 cm",
+		"gender": "Weiblich",
+		"state": "Erben von Aida",
+		"city": "Astra",
+		"rating": "wuwei_imitation_7",
+		"gp": [
+			"garageKit",
+			"restrictedGoods",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 徐徐"
+			},
+			{
+				"Japanese": "CV : 小原 好美"
+			},
+			{
+				"English": "CV : Amber Lee Connors"
+			},
+			{
+				"Korean": "CV : 손선영"
+			},
+			{
+				"Portuguese": "CV : Tânia Gaidarji"
+			}
+		],
+		"id": "imitation_7"
+	},
+	"description": "Die Pfeile dieses Bogens tragen die Kraft des Frosts in sich.",
+	"icon": "item_Weapon_SSR_Bow_Ice01",
+	"gachaIcon": "SSR_lh_Mg",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "bow_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Schnelles Ziehen",
+				"description": "Der Anwender spannt den Bogen am Boden mehrfach, um 5-mal anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **53.7%** des ANG +**322**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **48.1%** des ANG +**288**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **86.5%** des ANG +**519**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **133.3%** des ANG +**800**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **123.8%** des ANG +**743** und stößt das Ziel eine kurze Strecke zurück.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_MeleeIce_SSR"
+			},
+			{
+				"name": "Aufgeladener Pfeil",
+				"description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen. Verursacht Grundschaden in Höhe von **96.6** des ANG +**580**, der pro **1** Sek. Aufladen um **50%** steigt (bis zu **3** Sek.). Bei Kopfschüssen oder einem Treffer an der Schwachstelle des Gegners wird der Schaden verdoppelt und der Gegner zu Fall gebracht (Kopfschüsse sind gegen Wanderer unwirksam).",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttackIce_SSR"
+			},
+			{
+				"name": "Pfeilhagel",
+				"description": "Halte den normalen Angriff nach einem beliebigen normalen Angriff, um „Pfeilhagel“ auszulösen. Dies fügt Zielen Flächenschaden in Höhe von bis zu **315.9%** des ANG +**1895**.",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_BranchIce_SSR"
+			},
+			{
+				"name": "Luft-Salve",
+				"description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **61.9%** des ANG +**372**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **81.4%** des ANG +**488**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **124%** des ANG +**744**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **186.8%** des ANG +**1121**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttackIce_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Gegner in der Umgebung verlangsamt. Abklingzeit: 15 Sek. Gewährt für **0,5** Sek. Immunität gegen Trefferlähmung.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_EvadeIce_SSR"
+			},
+			{
+				"name": "Geladener Pfeil",
+				"description": "Tippe nach dem Ausweichen auf den normalen Angriff, um „Geladener Pfeil“ auszulösen. Dieser **stößt das Ziel zurück** und verursacht Schaden in Höhe von **136.4%** des ANG +**818**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttackIce_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "Durchdringender Schuss",
+				"description": "Schießt im Rückwärtssalto **3**-mal „Durchdringender Schuss“ ab. Der Hauptschuss verursacht Schaden in Höhe von **284.1%** des ANG +**1705** und die anderen beiden Schüsse verursachen 60% Schaden. Außerdem werden **Ziele zurückgestoßen** und für **5** Sek. betäubt, wenn sie auf ein Hindernis prallen. Abklingzeit: **12** Sek.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkillIce_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Explosives Sperrfeuer",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und am Zielort ein Hagelsturm erzeugt. Dies verursacht Schaden in Höhe von **655.5%** des ANG + **3933**. Der Sturm bewirkt mit einer Chance von **10%** für **2**Sek. einen **starken Einfrieren-Effekt**. Der Wanderer erhält den Effekt „Kaltfront“ und seine Geschwindigkeit wird für **7**Sek. um **45%** erhöht.",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_SuccessIce_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Gewährt jedes Mal, wenn der durch einen Ausweichangriff abgeschossene Pfeil ein Ziel trifft, einen Stapel von „Spitzer Pfeil“. Jeder Stapel erhöht den Schaden für **15** Sek. um **5%**. Der Effekt kann bis zu **3**-mal gestapelt werden.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Bei Ausweichangriffen werden **3** aufgeladene Pfeile abgeschossen.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "„Pfeilhagel“ hält doppelt so lang an und verlangsamt Ziele um **25%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "„Spitzer Pfeil“ kann bis zu **5**-mal gestapelt werden. Treffer mit „Aufgeladener Pfeil“ gewähren sofort **3** und Kopfschüsse **5** Stapel.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		}
+	],
+	"id": "bow_ice"
+}

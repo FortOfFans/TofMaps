@@ -1,0 +1,181 @@
+{
+	"name": "Chispa",
+	"avatar": {
+		"name": "Ruby",
+		"advanceId": "imitation_21L1",
+		"weapon": "funnel_fire",
+		"icon": "imitation_21",
+		"avatarID": "leibei",
+		"age": "15 de julio",
+		"height": "140 cm",
+		"gender": "Femenino",
+		"state": "Desconocido",
+		"city": "Desconocido",
+		"rating": "wuwei_imitation_21",
+		"gp": [
+			"game",
+			"toy",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 赵爽"
+			},
+			{
+				"Japanese": "CV : 小倉 唯"
+			},
+			{
+				"English": "CV : Lizzie Freeman"
+			},
+			{
+				"Korean": "CV : 이다은"
+			},
+			{
+				"Portuguese": "CV : Letícia Celini"
+			}
+		],
+		"id": "imitation_21"
+	},
+	"description": "Un arma especial que Lin le pidió al equipo de desarrollo de Espejia para Ruby. Sus funciones principales incluyen: hacer de intendente en el juego de la casita, despertar a Ruby por las mañanas... Y lo más importante, proteger a Ruby. ",
+	"icon": "item_Weapon_SSR_funnel_Fire01",
+	"gachaIcon": "SSR_lh_leibei",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Funnel",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "funnel_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Ataque de Chispa",
+				"description": "Mientras estás en el suelo, pulsa el botón de ataque normal para ordenar a Chispa que ataque 5 veces seguidas.\r\nPrimer ataque: Inflige daño total igual a **84.6%** del ATQ más **508** contra cada objetivo.\r\nSegundo ataque: Inflige daño total igual a **93%** del ATQ más **558** contra cada objetivo.\r\nTercer ataque: Inflige daño total igual a **101.5%** del ATQ más **609** contra cada objetivo.\r\nCuarto ataque: Inflige daño total igual a **109.9%** del ATQ más **659** contra cada objetivo.\r\nQuinto ataque: Inflige daño total igual a **253.7%** del ATQ más **1522** contra cada objetivo y **lanza** a los objetivos.",
+				"icon": "skill_funnel_melee",
+				"id": "GA_FPlayerFunnelMeleeFire_Melee"
+			},
+			{
+				"name": "Descarga Aérea",
+				"description": "En el aire, pulsa el botón de ataque normal para ordenar a Chispa que ataque 4 veces seguidas.\r\nPrimer ataque: Inflige daño total igual a **97.1%** del ATQ más **583** contra cada objetivo.\r\nSegundo ataque: Inflige daño total igual a **106.8%** del ATQ más **641** contra cada objetivo.\r\nTercer ataque: Inflige daño total igual a **121.3%** del ATQ más **728** contra cada objetivo.\r\nCuarto ataque: Inflige daño total igual a **145.6%** del ATQ más **874** contra cada objetivo.",
+				"icon": "skill_funnel_airattack",
+				"id": "GA_FPlayerFunnelMeleeFire_AirAttack"
+			},
+			{
+				"name": "¡Te tengo!",
+				"description": "Pulsa y mantén pulsado el ataque normal o hazlo después de que se active la Zona Bloqueada para disparar continuamente rayos de energía abrasadores a los enemigos en una dirección objetivo, lo que inflige daño igual a un **40%** del ATQ más **240**. Consume la resistencia de los nómadas.",
+				"icon": "skill_funnel_power",
+				"id": "GA_FPlayerFunnelMeleeFire_AimAttack"
+			},
+			{
+				"name": "Buceo Abrasador",
+				"description": "Mantén pulsado el ataque normal mientras estás en el aire para activar Buceo Abrasador.\r\nEnvuelve el cuerpo en energía antes de infligir rápidamente una zambullida profunda en el suelo, lo que inflige daño igual a **172.1%** del ATQ más **1033** a los objetivos cercanos.",
+				"icon": "skill_funnel_jumpattack",
+				"id": "GA_FPlayerFunnelMeleeFire_JumpAttack"
+			},
+			{
+				"name": "Zona Bloqueada",
+				"description": "Después del segundo ataque normal, mantén el botón durante cualquier ataque para infligir daño igual a **40%** del ATQ más **240** contra el objetivo. El objetivo fijado queda confinado lo quema por **3**seg, y le inflige daño igual a **26.2%** del ATQ más **157** cada segundo (no funciona con jefes).",
+				"icon": "skill_funnel_branch",
+				"id": "GA_FPlayerFunnelMeleeFire_Branch"
+			}
+		],
+		"dodge": [
+			{
+				"name": "¡Vamos, Dolly!",
+				"description": "Lanza a Dolly después de esquivar. Dolly permanece durante **10**seg atrayendo a los enemigos cercanos e infligiendo daño igual a **84.6%** del ATQ más **508** contra ellos, además de provocarlos por **1.5**seg, lo que hace que desvíen sus ataques hacia Dolly (no puede provocar a los enemigos cuando se está en un equipo).",
+				"icon": "skill_funnel_evadeattack",
+				"id": "GA_FPlayerFunnelEvadeFire_BackAttack"
+			},
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante **0.5**seg.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayeFunnelEvadeFire_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Colisionador Chispeante",
+				"description": "Chispa dispara Chispas que duran 15seg y rebotan entre el objetivo y el nómada. Al impactar al objetivo, las Chispas lo ralentizan por **4**seg con un enfriamiento de **15**seg. Las Chispas infligen más daño cuanto más lejos viajan. Al impacto, infligen daño de hasta **380%** del ATQ más **4200** e infligen una marca de Arder de **25**seg al objetivo. Al mismo tiempo, Chispa dispara 4 balas. Cada una inflige daño igual a **50%** del ATQ más **300** contra su objetivo. Los ataques normales de Chispa infligen **30%** de daño adicional a los objetivos marcados con Arder. Cuando Chispas impacta en los objetivos quemados por el nómada, quema o enciende al objetivo una vez e inflige daño adicional igual a **45%** del daño total restante (los efectos de quemadura o incendiarios múltiples se cuentan juntos) y se volverán a contar automáticamente 1 vez. El enfriamiento del cálculo de resultados es de **6**seg y el enfriamiento de las habilidades es de **30**seg.\r\n**Pasiva**: Cuando Chispas está activado, cada vez que Ataque de Chispa o Chispas inflige daño, el nómada obtiene **1** Punto de Calor con un enfriamiento de **0.9**seg, hasta **8** Puntos de Calor. Cuando el Calor alcanza el máximo, el nómada obtiene el efecto Calor Definitivo, que aumenta el ATQ de Fuego en **10%** por **25**seg.",
+				"icon": "funnel_skill",
+				"id": "GA_FPlayerFunnelSkillFire"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Supernova",
+				"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada**. Chispa entra en estado cargado y causa continuamente rayos abrasadores de energía en un área amplia hacia delante; luego, explota, lo que causa daño igual a **750%** del ATQ más **4500**. Cuando Chispas impacta a los objetivos quemados por el nómada, quema o enciende al objetivo 1 vez e inflige daño adicional igual a **45%** del daño total restante (los efectos de quemadura o incendiarios múltiples se cuentan juntos). El enfriamiento del recuento de quemaduras es de **6**seg. Cuando la habilidad está activa, obtienes inmunidad al daño durante **1.5**seg (no disponible en la Liga Ápex).",
+				"icon": "skill_funnel_changeskill",
+				"id": "GA_FPlayerFunnelChangeSkillFire_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia de Fuego**: Aumenta el ATQ de Fuego en **15%** y la Resistencia al Fuego en **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Arder aumenta el daño de Ataque de Chispa a **0%**. El enfriamiento de habilidad baja a **24**seg.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Arder aumenta el Refuerzo de Fuego en **0%** y el multiplicador de recuento de quemadura a **75%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Restablece **75** puntos adicionales de carga de arma cada vez que el Ataque de Chispa impacte a un enemigo. Enfriamiento: 0.9 segundos. La destrucción aumenta en **25%** cuando Calor Definitivo está activo.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Arder aumenta el daño del Ataque de Chispa a **0%** y duplica la eficiencia de adquisición de Calor. El enfriamiento de habilidad baja a **16** segundos.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		}
+	],
+	"id": "funnel_fire"
+}

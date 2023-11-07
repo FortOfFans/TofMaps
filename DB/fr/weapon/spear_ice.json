@@ -1,0 +1,102 @@
+{
+	"name": "Lance givrée",
+	"description": "Une arme répandue parmi les habitants du Champ de neige de Warren. Infusée de givre pour refléter l'atmosphère locale. Elle est très populaire, car très efficace sans être chère.",
+	"icon": "item_Weapon_R_Spear_Ice01",
+	"gachaIcon": "Weapon_R_Spear_Ice01",
+	"rarity": "R",
+	"element": "Ice",
+	"weaponType": "Spear",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 15,
+		"Item_Mine_ice_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_ice_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "spear_ice_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Percée",
+				"description": "Lorsque vous êtes au sol, brandissez la lance longue pour attaquer 5fois de suite.\r\nPremière attaque: vous infligez des dégâts correspondant à **20.1%** de l'ATQ + **121**, et repoussez la cible sur une courte distance.\r\nDeuxième attaque: vous infligez des dégâts correspondant à **18.5%** de l'ATQ + **111**, et repoussez la cible sur une courte distance.\r\nTroisième attaque: vous infligez des dégâts correspondant à **38.5%** de l'ATQ + **231**, et repoussez la cible sur une courte distance.\r\nQuatrième attaque: vous infligez des dégâts correspondant à **59.2%** de l'ATQ + **355**, et repoussez la cible sur une courte distance.\r\nCinquième attaque: vous infligez des dégâts correspondant à **93.8%** de l'ATQ + **563**, et repoussez la cible sur une distance importante.",
+				"icon": "skill_spear_melee",
+				"id": "GA_FPlayerSpearMelee_Melee_R"
+			},
+			{
+				"name": "Coup sauté",
+				"description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 4fois de suite.\r\nPremière attaque: inflige des dégâts équivalant à **22.3%** de l'ATQ + **134**.\r\nDeuxième attaque: inflige des dégâts équivalant à **18.8%** de l'ATQ + **113**.\r\nTroisième attaque: inflige des dégâts équivalant à **37.1%** de l'ATQ + **223**.\r\nQuatrième attaque: inflige des dégâts équivalant à **89%** de l'ATQ + **534**.",
+				"icon": "skill_spear_air",
+				"id": "GA_FPlayerSpearMelee_AirAttack_R"
+			},
+			{
+				"name": "Frappe écrasante",
+				"description": "Appuyez et maintenez Attaque normale en l'air (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Frappe écrasante.\r\nLorsque vous tombez, vous infligez des dégâts équivalant à **6.4%** de l'ATQ + **38** à chaque coup. À l'atterrissage, vous infligez des dégâts équivalant à **39.3%** de l'ATQ + **236**, et suspendez la cible.\r\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à **600%** de dégâts.",
+				"icon": "skill_spear_jump",
+				"id": "GA_FPlayerSpearMelee_JumpAttack_R"
+			},
+			{
+				"name": "Déluge de lances",
+				"description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher Déluge de lances.\r\nLorsque vous touchez la cible, vous la **suspendez longuement**, lui infligeant des dégâts équivalant à **39.8%** de l'ATQ + **239**. Appuyez à nouveau pour continuer à attaquer la cible dans les airs, et infliger jusqu'à **79.5%** de l'ATQ + **477** de dégâts à une seule cible.",
+				"icon": "skill_spear_branch",
+				"id": "GA_FPlayerSpearMelee_Branch_R"
+			},
+			{
+				"name": "Attaque furtive",
+				"description": "Vous projetez la lance longue vers l'avant et infligez des dégâts correspondant à **256.5%** de l'ATQ + **1539**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSpearMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Coup de pied volant",
+				"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez un bouton directionnel avant d'esquiver) pour déclencher Coup de pied volant.\r\nLorsque vous touchez la cible, vous lui infligez des dégâts équivalant à **58.2%** de l'ATQ + **349**, et repoussez les ennemis sur une grande distance, et vous les **étourdissez**pendant **1**seconde ou pendant **0,5**seconde aux Explorateurs.",
+				"icon": "skill_spear_frontattack",
+				"id": "GA_FPlayerSpearEvade_FrontAttack_R"
+			},
+			{
+				"name": "Frappe en fente",
+				"description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Frappe en fente.\r\nHeurte le sol avec la lance longue, infligeant aux cibles des dégâts équivalant à **42.8%** de l'ATQ + **257** et les **suspendant longuement dans les airs**.",
+				"icon": "skill_spear_backattck",
+				"id": "GA_FPlayerSpearEvade_BackAttack_R"
+			},
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSpearEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Chasselune",
+				"description": "**Suspend longuement** la cible et vous fait décoller du sol, infligeant des dégâts équivalant à **103.1%** de l'ATQ + **619**. Temps de recharge: **25**secondes.",
+				"icon": "spear_skill1",
+				"id": "GA_FPlayerSpearSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Danse de la lance",
+				"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur**, et attrape la cible au moment où vous changez d'arme pour passer à celle-ci, avant de la secouer à de nombreuses reprises, lui infligeant des dégâts équivalant à **205.4%** de l'ATQ + **1232**. Le dernier coup **suspend longuement** la cible.",
+				"icon": "skill_spear_changeskill",
+				"id": "GA_FPlayerSpearChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6.9,
+				"charge": 5.6
+			},
+			"need": "None"
+		}
+	],
+	"id": "spear_ice"
+}

@@ -1,0 +1,181 @@
+{
+	"name": "Donnerbrecher",
+	"avatar": {
+		"name": "Tian Lang",
+		"advanceId": "imitation_29L1",
+		"weapon": "tianlang_thunder",
+		"icon": "imitation_29",
+		"avatarID": "tianlang",
+		"age": "23. März",
+		"height": "185cm",
+		"gender": "Männlich",
+		"state": "Zuchtstation von Mirroria",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_29",
+		"gp": [
+			"collection",
+			"decorate",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 淦子齐"
+			},
+			{
+				"Japanese": "CV : 石川 界人"
+			},
+			{
+				"English": "CV : Kaiji Tang"
+			},
+			{
+				"Korean": "CV : 박요한"
+			},
+			{
+				"Portuguese": "CV : Glauco Marques"
+			}
+		],
+		"id": "imitation_29"
+	},
+	"description": "Dieser mit Blitzen bedeckte Langspeer ist der SMA1-TS00-Donnerbrecher. Er kann die gespeicherte Kraft mit unvorstellbaren Mitteln entfesseln. Das vom Speer erzeugte elektrische Feld stört den Verstand seines Trägers, sodass er von normalen Menschen nicht beherrscht werden kann.",
+	"icon": "item_Weapon_SSR_Tianlang_Thunder01",
+	"gachaIcon": "SSR_lh_tianlang",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Tianlang",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "tianlang_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Passiveffekt des normalen Angriffs",
+				"description": "Jeder **4**. Treffer mit normalen Angriffen gegen ein Ziel lädt Donnerbrecher auf. Die Waffe kann bis zu **5**Ladepunkte speichern. Nach dem Aufladen löst jede Elektromantie-Ausweichfähigkeit einen Blitzschlag aus. Der Blitz verursacht Schaden in Höhe von **3%** der verlorenen LP zu (nicht weniger als **100%** des Volt-ANG und nicht mehr als **1000%** des Volt-ANG) und löst „Elektroentität“ aus. Dies verursacht Volt-Flächenschaden in Höhe von **2%** der verlorenen LP (nicht weniger als **40%** des Volt-ANG und nicht mehr als **400%** des Volt-ANG).",
+				"icon": "pugong_tianlang",
+				"id": "None"
+			},
+			{
+				"name": "Mizar",
+				"description": "Greift auf dem Boden 6-mal hintereinander mit Donnerbrecher an.\r\nErster Angriff: Verursacht Schaden in Höhe von **99.3%** des ANG +**543** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **73.2%** des ANG +**407** und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **135.8%** des ANG +**738** und stößt das Ziel zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **240.5%** des ANG +**1307** und stößt das Ziel zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **240.1%** des ANG +**1332** und stößt das Ziel zurück.\r\nSechster Angriff: Verursacht Schaden in Höhe von **314.1%** des ANG +**1751** und schleudert das Ziel hoch.",
+				"icon": "skill_tianlang_melee",
+				"id": "GA_PlayerTianLangMelee_Melee"
+			},
+			{
+				"name": "Megrez",
+				"description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **87.4%** des ANG +**524**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **83%** des ANG +**498**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **126.7%** des ANG +**760**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **229.4%** des ANG +**1376**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **256.5%** des ANG +**1539**.",
+				"icon": "skill_tianlang_airattack",
+				"id": "GA_PlayerTianLangMelee_AirAttack"
+			},
+			{
+				"name": "Phecda",
+				"description": "Tippe und halte zum Auslösen den normalen Angriff am Boden.\r\nDies fügt dem Ziel Schaden in Höhe von bis zu **342%** des ANG +**2052** zu und sammelt die Gegner um dich herum.",
+				"icon": "skill_tianlang_branch",
+				"id": "GA_PlayerTianLangMelee_Branch"
+			},
+			{
+				"name": "Merak",
+				"description": "Tippe und halte zum Auslösen den normalen Angriff, während du in der Luft bist oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt.\r\nVerursacht beim Fallen mit jedem Treffer Schaden in Höhe von **38%** des ANG +**228**. Fügt Zielen in der Nähe bei der Landung Schaden in Höhe von **285%** des ANG +**1710** zu.",
+				"icon": "skill_tianlang_jumpattack",
+				"id": "GA_PlayerTianLangMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für **0,5** Sek. immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerTianLangEvade_Evade"
+			},
+			{
+				"name": "Alioth",
+				"description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff.\r\nSprinte los und greife das Ziel an, um Gesamtschaden in Höhe von **172.6%** des ANG +**1036** zu verursachen.",
+				"icon": "skill_tianlang_evadeattack",
+				"id": "GA_FPlayerTianLangEvade_ForwardAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Dubhe",
+				"description": "Entfesselt ein Sperrfeuer von Angriffen, die Gegnern in Reichweite Schaden in Höhe von bis zu **936.9%** des ANG +**5621** zufügen sowie Gegner oder eigene Beschwörungen innerhalb einer bestimmten Reichweite in Elektroentitäten verwandeln, wobei bis zu 3Elektroentitäten gleichzeitig existieren können. Abklingzeit: **30**Sek.\r\n\r\nErhalte „Voltsinn“, wenn „Dubhe“ benutzt wird: Scanne die beiden anderen ausgerüsteten Waffen, wenn du deine Fähigkeiten einsetzt. Jedes Mal, wenn eine Voltwaffe gescannt wird, erhöht sich der Voltschaden für **25**Sek. um **6%**.\r\n\r\nElektroentität: Beim Entfesseln einer Voltwaffen-Entladungsfähigkeit verursachen die Elektroentitäten einen Volt-Flächenschaden in Höhe von **5%** der fehlenden LP (nicht weniger als **100%** des Volt-ANG, nicht mehr als **1.000%** des Volt-ANG).\r\n\r\nBeim Einsatz von Donnerbrecher verbraucht die Entfesselung einer beliebigen Volt-Waffenfähigkeit oder Entladungsfähigkeit **30%** der aktuellen LP, um zusätzlichen Voltschaden in Höhe von **45%** der verbrauchten LP zu verursachen (nicht weniger als **400%** des Volt-ANG, nicht mehr als **3.000%** des Volt-ANG). **8**Sek. später oder wenn die LP niedriger als **10%** sind, werden für **8**Sek. **5%** der fehlenden LP pro Sek. wiederhergestellt (nicht beeinflusst von Heileffekten). Dieser Wiederherstellungseffekt kann nicht gestapelt werden.",
+				"icon": "skill_tianlang_skill",
+				"id": "GA_FPlayerTianLangSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Vernichter",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Donnerbrecher entfesselt weitreichenden Voltschaden, der Schaden in Höhe von **844.6%** des ANG + **5067** verursacht und Gegner oder eigene Beschwörungen innerhalb einer bestimmten Reichweite in Elektroentitäten verwandelt. Bis zu 3Elektroentitäten können gleichzeitig existieren.\r\n\r\nElektroentität: Beim Entfesseln einer Volt-Waffenfähigkeit oder -Entladung verursachen die Elektroentitäten einen Volt-Flächenschaden in Höhe von **5%** der fehlenden LP (nicht weniger als **100%** des Volt-ANG, nicht mehr als **1.000%** des Volt-ANG).\r\n\r\nBeim Einsatz von Donnerbrecher verbraucht die Entfesselung einer beliebigen Volt-Waffenfähigkeit oder Entladungsfähigkeit **30%** der aktuellen LP, um zusätzlichen Voltschaden in Höhe von **45%** der verbrauchten LP zu verursachen (nicht weniger als **400%** des Volt-ANG und nicht mehr als **3.000%** des Volt-ANG). Nach **8**Sek. oder wenn die LP niedriger als **10%** sind, werden jede Sek. für **8**Sek. **5%** der fehlenden LP wiederhergestellt (nicht beeinflusst von Heileffekten). Dieser Wiederherstellungseffekt kann nicht gestapelt werden.",
+				"icon": "skill_tianlang_changeskill",
+				"id": "GA_FPlayerTianLangChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Voltresonanz**: Erhöht den Volt-ANG um **15%** und den Voltwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Effekte desselben Typs können nicht gestapelt werden.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Erhalte 1 Stapel Superleiter pro Ladung: Erhöht die maximalen LP um **0%** und den erlittenen Schaden um **1%**– es sei denn, der Wert der aktuellen LP ist niedriger als das {2fache des Volt-ANG und es ist kein LP-Schild ausgerüstet. Bis zu **8**-mal stapelbar. 1 Stapel wird abgezogen, wenn innerhalb von **3** Sekunden kein Superleiter aktualisiert wird.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		},
+		{
+			"description": "Entlade eine beliebige Entladungs- oder Volt-Waffenfähigkeit, um **2** Ladungen zu erhalten. Gewährt Hyperkörper, wenn Superleiter **8**-fach gestapelt wurde.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		},
+		{
+			"description": "Jeder Superleiter-Stapel erhöht den Endschaden um **0%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		},
+		{
+			"description": "Verstärke Dubhes Voltsinn: Erhalte für jede weitere erspürte Voltwaffe **1** Sek. lang **0%** Volt-Schadensbonus.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 8
+			},
+			"need": "tianlang_thunder_plasm"
+		}
+	],
+	"id": "tianlang_thunder"
+}

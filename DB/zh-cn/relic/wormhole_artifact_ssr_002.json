@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_002",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_029",
+	"advancement": [
+		{
+			"description": "若敌方目标穿过原能护盾，减速**50%**持续**2**秒",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "冷却时间缩短至**60**秒     ",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "持续时间延长至**20**秒     ",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "降低**2%**受到的寒冰伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "拓荒者及友方穿过原能护盾会获得伤害提升**25%**持续**7**秒",
+			"id": "artifact_adv_029"
+		}
+	],
 	"id": "wormhole_artifact_ssr_002"
 }

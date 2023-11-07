@@ -1,0 +1,188 @@
+{
+	"name": "Preciosa",
+	"avatar": {
+		"name": "Ícaro",
+		"advanceId": "imitation_35L1",
+		"weapon": "yoyo_ice",
+		"icon": "imitation_35",
+		"avatarID": "yikaluosi",
+		"age": "24 de octubre",
+		"height": "161cm",
+		"gender": "Masculino",
+		"state": "Escuadrón de Mooke",
+		"city": "Hykros",
+		"rating": "wuwei_imitation_35",
+		"gp": [
+			"collection",
+			"metal",
+			"Vera",
+			"Asshai"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 沐霏"
+			},
+			{
+				"Japanese": "CV : 梶原 岳人"
+			},
+			{
+				"English": "CV : RyMcKeand"
+			},
+			{
+				"Korean": "CV : 김유림"
+			},
+			{
+				"Portuguese": "CV : Úrsula Bezerra"
+			}
+		],
+		"id": "imitation_35"
+	},
+	"description": "Una inusual arma de colección fusionada con renovaciones de moda únicas. Que el portador camine con valor hacia la desolada oscuridad, aunque sea como una polilla volando hacia la llama.",
+	"icon": "item_Weapon_SSR_yoyo_Ice01",
+	"gachaIcon": "SSR_lh_yikaluosi",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "YoYo",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "yoyo_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Frío Marchito",
+				"description": "Mientras estás en el suelo, usa el ataque normal para lanzar 5 ataques consecutivos.\r\nPrimer ataque: Inflige daño igual al **112.1%** del ATQ más **673** y hace retroceder al objetivo.\r\nSegundo ataque: Inflige daño igual al **130.5%** del ATQ más **783** y hace retroceder al objetivo. \r\nTercer ataque: Inflige daño igual al **213.2%** del ATQ más **1279** y suspende al objetivo.\r\nCuarto ataque: Inflige daño igual al **329%** del ATQ más **1974** y hace retroceder al objetivo.\r\nQuinto ataque: Inflige daño igual al **222.5%** del ATQ más **1335** y lanza al objetivo.",
+				"icon": "skill_iceyoyo_pugong",
+				"id": "GA_FPlayerYoyoMelee_Melee"
+			},
+			{
+				"name": "Descongelación",
+				"description": "Mientras estás en el aire, usas el ataque normal 5 veces seguidas en el aire y consumes tu resistencia.\r\nPrimer ataque: Inflige daño igual a **132.2%** del ATQ más **793**.\r\nSegundo ataque: Inflige daño igual a **158.6%** del ATQ más **952**.\r\nTercer ataque: Inflige daño igual a **248.6%** del ATQ más **1491**.\r\nCuarto ataque: Inflige daño igual a **343.5%** del ATQ más **2061**.\r\nQuinto ataque: Inflige daño igual a **334.5%** del ATQ más **2007** y lanza al objetivo.",
+				"icon": "skill_iceyoyo_airattack",
+				"id": "GA_FPlayerYoyoMelee_AirAttack"
+			},
+			{
+				"name": "Frío Perforante",
+				"description": "Mientras usas un ataque normal en el suelo, pulsa y mantén pulsado el ataque normal para activar Frío Perforante, lo que inflige daño igual a **345.1%** del ATQ más **2070**.",
+				"icon": "skill_iceyoyo_branch",
+				"id": "GA_FPlayerYoyoMelee_Branch"
+			},
+			{
+				"name": "Frío Filoso",
+				"description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire (pulsa cuando haya un objetivo disponible), o usa el ataque normal mientras escalas, saltas hacia atrás o utilizas el propulsor para activar Frío Filoso.\r\nMientras caes, inflige daño igual a **57.5%** del ATQ más **345** en cada impacto. Al aterrizar, inflige daño igual a **344.9%** del ATQ más **2069** y lanza al objetivo.",
+				"icon": "skill_iceyoyo_airbranch",
+				"id": "GA_FPlayerYoyoMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerYoyoEvade_Evade"
+			},
+			{
+				"name": "Ráfaga de Nieve",
+				"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (usa un botón de dirección antes de evadir) para activar Ráfaga de Nieve, lo que inflige daño igual a **162.8%** del ATQ más **977** a los objetivos cercanos.",
+				"icon": "skill_iceyoyo_frontattack",
+				"id": "GA_FPlayerYoyoEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Solsticio de Invierno",
+				"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Solsticio de Invierno, lo que inflige daño igual a **162.9%** del ATQ más **977** de daño a los objetivos cercanos.",
+				"icon": "skill_iceyoyo_backattack",
+				"id": "GA_FPlayerYoyoEvadeAttack_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Día Desolado",
+				"description": "Inflige daño a los objetivos cercanos hasta **660%** del ATQ más **3960** y crea 2 VelociYo-yos reglamentarios. Enfriamiento: **60**seg. Reduce la velocidad de los objetivos al alcance de Día Desolado un **50%** (no afecta a los nómadas ni a los jefes).\r\nCada VelociYo-yo pasa por el centro de la trayectoria unas 4 veces en cada ciclo de movimiento, lo que inflige daño igual a **30%** del ATQ más **180** a los objetivos dentro de la trayectoria por **70**seg. El ciclo de movimiento dura 4seg cuando el arma tiene 0 estrellas. Durante este periodo, usar Día Desolado restablecerá la posición y duración del VelociYo-yo. Enfriamiento: **4**seg.\r\nMientras Día Desolado está en uso, reduce el daño recibido un **50%** y restaura un **5%** de tus PS máx. Ningún refuerzo de curación puede afectar a esto. La recuperación y la reducción de daño no tendrán efecto en la Liga Ápex.",
+				"icon": "skill_iceyoyo_skill",
+				"id": "GA_FPlayerYoyoSkill_Skill"
+			},
+			{
+				"name": "Regreso a la Soledad",
+				"description": "Usa Conocimiento Limitado para obtener hasta **2** usos de la nueva habilidad, Regreso a la Soledad. Esta habilidad solo se puede usar mientras Día Desolado está en enfriamiento. Inflige daño de habilidad igual a **440%** del ATQ más **2640**. Mientras la habilidad está en uso, reduce el daño recibido un **50%** y restaura un **5%** de tus PS Máx. Ningún efecto de refuerzo de curación recibido o realizado puede afectar a esto. La recuperación y la reducción de daño no tendrán efecto en la Liga Ápex.\r\nMientras Resonancia de Fortaleza esté activa: Usa Regreso a la Soledad y provoca a los objetivos cercanos para obtener **1** acumulación de escudo de bloqueo, hasta **3** acumulaciones por **20**seg. Los **puntos de bloqueo** son iguales a la **suma de los 5 tipos de resistencia del nómada**. Cuando el escudo de bloqueo se agota o se desborda, inflige daño igual a **200% de los puntos de bloqueo** al objetivo principal.\r\nMientras Resonancia de Sacramento está activa: Si utilizas Regreso a la Soledad contra objetivos con más del **95%** de sus PS, infligirás daño igual a **8%** de sus respectivos PS Máx. (no afecta a los nómadas). Ningún refuerzo o reducción de daño puede afectar a esto.",
+				"icon": "skill_iceyoyo_skill1",
+				"id": "GA_FPlayerYoyoSkill_SkillSpec"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Conocimiento Limitado",
+				"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada**, inflige daño igual a **1113.9%** del ATQ más **6683** a los objetivos cercanos y lanza al objetivo. Durante este periodo, ganas inmunidad al daño por **1.5**seg (no disponible en la Liga Ápex).",
+				"icon": "skill_iceyoyo_changeskill",
+				"id": "GA_FPlayerYoyoChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Elementalista**: Aumenta el daño final un **NaN%** por cada **1** tipo de elemento de arma equipado. Este efecto de set también funciona con armas en la ranura secundaria.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Al usar cualquier habilidad de arma, VelociYo-yo puede activar **armonía**, lo que inflige daño a los objetivos cercanos igual a **NaN%** de los PS perdidos del nómada. El daño infligido no será inferior a **NaN%** del ATQ máx. del nómada, ni superior a **NaN%** del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.\r\nCuando se usa cualquier descarga de arma, VelociYo-yo puede activar **ajuste**, lo que inflige daño a los objetivos cercanos igual a un **NaN%** de los PS máx. del nómada. El daño infligido no será superior a **NaN%** del ATQ máx. del nómada. El tipo de daño elemental infligido será el del arma actual.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Al usar Día Desolado, VelociYo-yo puede activar **NaN**seg de **rapidez**: Aumenta la velocidad del VelociYo-yo un **NaN%**, aumenta el daño un **160%**, y el daño causado al atravesar al objetivo se convierte en un daño de área pequeña.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Aumenta el daño de VelociYo-yo y Regreso a la Soledad en un **NaN%**.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		},
+		{
+			"description": "Aumenta el daño final en un **NaN%** mientras VelociYo-yo está activo.",
+			"stats": {
+				"shatter": 9.5,
+				"charge": 8
+			},
+			"need": "Yoyo_ice_plasm"
+		}
+	],
+	"id": "yoyo_ice"
+}

@@ -1,0 +1,187 @@
+{
+	"name": "Corriente del Corazón",
+	"avatar": {
+		"name": "Saki Fuwa",
+		"advanceId": "imitation_22L1",
+		"weapon": "dkatana_ice",
+		"icon": "imitation_22",
+		"avatarID": "bupoxiao",
+		"age": "11 de octubre",
+		"height": "157cm",
+		"gender": "Femenino",
+		"state": "Fuerzas Especiales de las Fuerzas de Seguridad de Espejia",
+		"city": "Espejia",
+		"rating": "wuwei_imitation_22",
+		"gp": [
+			"metal",
+			"everydayObjects",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐小喜"
+			},
+			{
+				"Japanese": "CV : 雨宮 天"
+			},
+			{
+				"English": "CV : EmiLo"
+			},
+			{
+				"Korean": "CV : 김나율"
+			},
+			{
+				"Portuguese": "CV : Letícia Quinto"
+			}
+		],
+		"id": "imitation_22"
+	},
+	"description": "Un tachi especial que se adapta a los experimentos del Superflujo. Puede sentir el estado mental del usuario y generar una Sombra de Espada para asistirle en el combate en el momento adecuado.",
+	"icon": "item_Weapon_SSR_dkatana_Ice01",
+	"gachaIcon": "SSR_lh_bupoxiao",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "katana",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "dkatana_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Corriente de furia",
+				"description": "Lanza 5 ataques de Corriente del Corazón mientras estás en el suelo.\r\nEl primer ataque inflige **42.5%** del ATQ más **255** de daño al objetivo y lo hace retroceder una corta distancia.\r\nEl segundo ataque inflige **29.5%** del ATQ más **177** de daño al objetivo y lo hace retroceder una corta distancia.\r\nEl tercer ataque inflige **45%** del ATQ más **270** de daño al objetivo y lo hace retroceder una corta distancia.\r\nEl cuarto ataque inflige **70.6%** del ATQ más **424** de daño al objetivo y lo hace retroceder una corta distancia.\r\nEl quinto ataque inflige **102.6%** del ATQ más **616** de daño al objetivo y lo lanza al aire.",
+				"icon": "skill_dkatana_melee",
+				"id": "GA_PlayerDkatanaMelee_Melee"
+			},
+			{
+				"name": "División aérea",
+				"description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\r\nPrimer ataque: Inflige daño igual a **47.2%** del ATQ más **283**.\r\nSegundo ataque: Inflige daño igual a **43.7%** del ATQ más **262**.\r\nTercer ataque: Inflige daño igual a **54.2%** del ATQ más **325**.\r\nCuarto ataque: Inflige daño igual a **76.9%** del ATQ más **461**.\r\nQuinto ataque: Inflige daño igual a **170.2%** del ATQ más **1021**.",
+				"icon": "skill_dkatana_airattack",
+				"id": "GA_PlayerDkatanaMelee_AirAttack"
+			},
+			{
+				"name": "Flujo Emocionado: Vórtice",
+				"description": "En el modo Flujo Emocionado, pulsa y mantén pulsado el ataque normal para activar la habilidad.\r\nTe desplazas hacia adelante con un torbellino multiataque que inflige un máximo del **199.5%** del ATQ más **1197** de daño.",
+				"icon": "skill_dkatana_branch1",
+				"id": "GA_PlayerDkatanaMelee_Branch1"
+			},
+			{
+				"name": "Flujo Silencioso: Barrera",
+				"description": "En el modo Flujo Silencioso, mantén el ataque normal inmediatamente o mientras lanzas ataques normales para activar la habilidad.\r\nMantén presionado el botón de ataque para mantener la Anticipación. Suelta el botón para infligir **127.3%** del ATQ más **764** de daño. Al recibir impactos durante el periodo de ataque, bloquea **20%** de tus PS Máx.",
+				"icon": "skill_dkatana_branch2",
+				"id": "GA_PlayerDkatanaMelee_Branch2"
+			},
+			{
+				"name": "Caída helada",
+				"description": "Pulsa y mantén pulsado el ataque normal mientras estás en el aire, o usa el ataque normal mientras escalas, saltas hacia atrás o usas el propulsor para activar.\r\nMientras caes, inflige daño igual a **30.4%** del ATQ más **182** en cada impacto. Al aterrizar, inflige daño igual a **76%** del ATQ más **456** a los objetivos cercanos.",
+				"icon": "skill_dkatana_airjumpattack",
+				"id": "GA_PlayerDkatanaMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante **0.5**seg.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerDkatanaEvade_Evade"
+			},
+			{
+				"name": "Frente polar",
+				"description": "Pulsa el ataque normal durante el breve periodo que sigue a la evasión.\r\nCorre y gira para atacar al objetivo, lo que inflige daño igual a **277%** del ATQ más **1662**.",
+				"icon": "skill_dkatana_forwardevadeattack",
+				"id": "GA_FPlayerDkatanaEvade_ForwardAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Flujo Emocionado: Flujo Intermitente",
+				"description": "Corres hacia el objetivo e inmovilizas temporalmente a los enemigos que se encuentren en el camino, lo que inflige daño demorado de hasta **445.3%** del ATQ más **2672**. Enfriamiento: **30**seg.",
+				"icon": "skill_dkatana_skill1",
+				"id": "GA_FPlayerDkatanaSkill_Skill1"
+			},
+			{
+				"name": "Flujo Silencioso: Flujo Concentrado",
+				"description": "Lanza las habilidades de Flujo Silencioso para empezar a cargar hasta **3**seg, lo que provoca continuamente a los objetivos cercanos y absorbe daño hasta **60%** de los PS Máx. Al final de la carga, inflige daño de escarcha igual a **408%** del ATQ de escarcha más **50%** del daño absorbido a los objetivos, y **20%** del valor no consumido se convierte en recuperación de PS. Enfriamiento: **30**seg.\r\n\r\nEntra en Flujo Silencioso cuando se activa Resonancia de Fortaleza. **Flujo Emocionado: Flujo Intermitente** se sustituye por **Flujo Silencioso: Flujo Concentrado**. Entra en el Flujo Emocionado cuando la Resonancia de Fortaleza no está activada.\r\nEl nómada puede obtener la Sombra de Espada, que lo sigue cuando utiliza las habilidades de Saki Fuwa. Sombra de Espada desatará Sobrecarga cuando el nómada utilice las habilidades divergentes o de descarga de Saki Fuwa, lo que inflige daño de área igual a **175%** del ATQ de escarcha. Enfriamiento de Sobrecarga: **10**seg.\r\nMientras estás en Flujo Emocionado: Sombra de Espada desatará Flujo cuando el nómada inflija daño con cualquier arma, lo que inflige daño igual a **45%** del ATQ de escarcha en al primer objetivo alcanzado y restaura PS iguales a **57%** del daño. La recuperación máxima no puede superar el **100%** del ATQ cada vez. Enfriamiento: **0.8**seg.\r\nMientras estás en Flujo Silencioso: Después de que Sombra de Espada libere la Sobrecarga, el nómada obtiene **3** bloqueos por **10**seg, y la capacidad de bloqueos máxima no puede superar **15%** de los PS Máx. Cada bloqueo exitoso inflige daño de contraataque igual a **225%** del ATQ de escarcha al objetivo, y la destrucción de Sobrecarga aumenta en **100%** con el efecto de provocación añadido.",
+				"icon": "skill_dkatana_skill2",
+				"id": "GA_FPlayerDkatanaSkill_Skill2"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Loto de corazón",
+				"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y te desplazas hacia el objetivo con un combo de ataques, lo que inflige daño igual a **590%** del ATQ más **3216**.",
+				"icon": "skill_dkatana_changeskill",
+				"id": "GA_FPlayerDkatanaChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha en **15%** y la resistencia a la escarcha en **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Cuando se activa Resonancia de Escarcha, todos los enfriamientos de las habilidades de arma se eliminan cada **5** veces que se usan habilidades de arma, y el daño de Flujo y Contraataque aumenta **1** vez por **25**seg.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Flujo Emocionado: Aumenta el daño de Sombra de Espada: Sobrecarga a **350%** del ATQ de escarcha.\r\nFlujo Silencioso: El enfriamiento de Sombra de Espada: Sobrecarga se vuelve **5** segundos.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de los PS base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Congela el tiempo y activa Phantasia al impactar al objetivo con Sobrecarga. Comparte enfriamiento con la Phantasia que se activa al evadir.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Al impactar a un objetivo con Sobrecarga, aumenta el daño de escarcha un **11%** por **15**seg.\r\nAl activar un bloqueo con Sombra de Espada, reduce el daño de escarcha que infligen los objetivos enemigos un **25%** por **12**seg.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		}
+	],
+	"id": "dkatana_ice"
+}

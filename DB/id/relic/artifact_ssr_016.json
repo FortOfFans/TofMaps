@@ -6,5 +6,27 @@
 	"shortIcon": "artifact_ssr_016",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_040_OS",
+	"advancement": [
+		{
+			"description": "Setiap kali efeknya aktif, menambahkan **5** Dosis.",
+			"id": "artifact_adv_040_OS"
+		},
+		{
+			"description": "Saat menandai suatu senjata dengan Overdrive Shot, HP akan dipulihkan sampai penuh. Di Apex League, HP yang dipulihkan hanya sebesar **20%** Max HP.",
+			"id": "artifact_adv_040_OS"
+		},
+		{
+			"description": "Mempersingkat CD menjadi **150** detik.",
+			"id": "artifact_adv_040_OS"
+		},
+		{
+			"description": "Meningkatkan Physical DMG sebesar **2%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_040_OS"
+		},
+		{
+			"description": "Selama **Micro Attack** aktif, DMG yang ditimpakan kepada target yang terkena Grievous meningkat **4%**.",
+			"id": "artifact_adv_040_OS"
+		}
+	],
 	"id": "artifact_ssr_016"
 }

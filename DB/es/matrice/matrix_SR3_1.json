@@ -1,0 +1,14 @@
+{
+	"name": "Robohielo",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Parece ser comida, cierto, pero de todos modos deberías tener cuidado.",
+	"icon": "icon_matrix_SR3_512",
+	"gachaIcon": "icon_matrix_SR3_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Cuando los PS están debajo del **40%**, usar una habilidad de descarga para cambiar el arma actual restaura PS equivalentes al **160%**/200%/240% del ATQ."
+		}
+	],
+	"id": "matrix_SR3_1"
+}

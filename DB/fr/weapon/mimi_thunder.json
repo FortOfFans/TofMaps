@@ -1,0 +1,187 @@
+{
+	"name": "Dragon azur",
+	"avatar": {
+		"name": "Huang",
+		"advanceId": "imitation_41L1",
+		"weapon": "mimi_thunder",
+		"icon": "imitation_41",
+		"avatarID": "mimi",
+		"age": "23juillet",
+		"height": "135cm",
+		"gender": "Féminin",
+		"state": "Pavillon de Tianzhang",
+		"city": "Tonnerreville",
+		"rating": "wuwei_imitation_41",
+		"gp": [
+			"toy",
+			"garageKit",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 裴致莹"
+			},
+			{
+				"Japanese": "CV : 新井 里美"
+			},
+			{
+				"English": "CV : Alexis Tipton"
+			},
+			{
+				"Korean": "CV : 윤은서"
+			},
+			{
+				"Portuguese": "CV : BIANCA ALENCAR"
+			}
+		],
+		"id": "imitation_41"
+	},
+	"description": "Une paire d'éventails qui renferme une énergie considérable, capable de raser les montagnes et de détruire le monde.\r\nLorsque le Dragon azur chevauche les nuages, le vent se lève aux quatre coins du monde.",
+	"icon": "item_Weapon_SSR_mimi",
+	"gachaIcon": "SSR_lh_MiMi",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Dfan",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "mimi_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Perles et jades",
+				"description": "Lorsque vous êtes au sol, utilisez l'attaque normale pour attaquer 5fois d'affilée.\r\nPremière attaque: inflige des dégâts équivalant à **91.1%** de l'ATQ + **547**.\r\nDeuxième attaque: inflige des dégâts équivalant à **137.6%** de l'ATQ + **826**.\r\nTroisième attaque: inflige des dégâts équivalant à **400%** de l'ATQ + **2400**.\r\nQuatrième attaque: inflige des dégâts équivalant à **331.7%** de l'ATQ + **1990**.\r\nCinquième attaque: inflige des dégâts équivalant à **165.3%** de l'ATQ + **992**.",
+				"icon": "skill_mimi_melee",
+				"id": "GA_FPlayerMiMiMelee_Melee"
+			},
+			{
+				"name": "Incontournable",
+				"description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour lancer 5attaques consécutives en l'air, consommant de l'endurance.\r\nPremière attaque: Inflige des dégâts équivalant à **92.6%** de l'ATQ + **556** à la cible.\r\nDeuxième attaque: Inflige des dégâts équivalant à **150.5%** de l'ATQ + **903** à la cible.\r\nTroisième attaque: Inflige des dégâts équivalant à **413.3%** de l'ATQ + **2480** à la cible.\r\nQuatrième attaque: Inflige des dégâts équivalant à **284.6%** de l'ATQ + **1707** à la cible.\r\nCinquième attaque: Inflige des dégâts équivalant à **184.6%** de l'ATQ + **1108** à la cible.",
+				"icon": "skill_mimi_airattack",
+				"id": "GA_FPlayerMiMiMelee_AirAttack"
+			},
+			{
+				"name": "Dragon azur transperce le soleil",
+				"description": "Au sol, appuyez et maintenez Attaque normale lors de l'utilisation des quatre premières attaques normales pour déclencher Dragon azur transperce le soleil et consommer de l'endurance.\r\nLance une attaque droit devant, infligeant des dégâts équivalant à **329.7%** de l'ATQ + **1978** aux cibles proches et les suspendant.\r\nAprès avoir déclenché Dragon azur transperce le soleil, appuyez et maintenez Attaque normale pour déclencher Rafale-tonnerre.",
+				"icon": "skill_mimi_meleebranch",
+				"id": "GA_FPlayerMiMiMelee_MeleeBranch"
+			},
+			{
+				"name": "Rafale-tonnerre",
+				"description": "Lorsque vous êtes au sol, appuyez et maintenez Attaque normale pour déclencher Rafale-tonnerre.\r\nTirez continuellement de la foudre sur les cibles tout en consommant de l'endurance, pendant que l'Explorateur gagne Hypercorps. Chaque attaque réussie inflige des dégâts équivalant à **53.5%** de l'ATQ + **321** aux cibles proches. Au même moment, invoque **1** Azura toutes les **1,5**seconde qui lance des ondes de choc, infligeant des dégâts équivalant à **99%** de l'ATQ + **594** aux cibles proches.\r\nL'Explorateur gagne un bouclier équivalant à **10%** des PV max toutes les **1,5** seconde, cumulable jusqu'à **15%**, d'une durée de **15** secondes à partir de la création du premier bouclier.\r\nAprès avoir activé Résonance de fortitude:\r\nChaque fois que l'onde de choc de Rafale-tonnerre touche une cible, les cibles proches sont provoquées pendant **2**secondes.\r\nChaque fois que Rafale-tonnerre produit un bouclier, les coéquipiers proches reçoivent un bouclier supplémentaire équivalant au maximum à **10%** des PV max de l'Explorateur.",
+				"icon": "skill_mimi_powerattack",
+				"id": "GA_FPlayerMiMiMelee_PowerAttack"
+			},
+			{
+				"name": "Dragon ambulant",
+				"description": "Dans les airs, appuyez et maintenez Attaque normale lors de l'utilisation des quatre premières attaques normales pour déclencher Dragon ambulant et consommer de l'endurance.\r\nLance une attaque droit devant, infligeant des dégâts équivalant à **329.7%** de l'ATQ + **1978** aux cibles proches et les suspendant.",
+				"icon": "skill_mimi_airbranch",
+				"id": "GA_FPlayerMiMiMelee_AirAttackBranch"
+			},
+			{
+				"name": "Puissance de Qinglong",
+				"description": "Pendant l'utilisation de Dragon azur, confère **1**cumul de Puissance de Qinglong toutes les **3**attaques normales réussies pendant **30**secondes. Cumulable jusqu'à **8**fois.\r\nAprès avoir activé Résonance de fortitude:\r\nChaque cumul de Puissance de Qinglong réduit les dégâts subis par l'Explorateur de **1,5%**.",
+				"icon": "skill_mimi_beidong",
+				"id": "GA_FPlayerMiMiMelee_Beidong"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, ce qui réduit la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.\r\n**Effet passif**: lance une boule de foudre droit devant.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerMiMiEvade_Evade"
+			},
+			{
+				"name": "Illuminéclair",
+				"description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Illuminéclair.\r\nApparaît instantanément à l'emplacement de la boule de foudre, infligeant des dégâts équivalant à **106.4%** de l'ATQ + **638** aux cibles proches et créant une flaque de foudre, puis retourne à l'emplacement d'origine de l'Explorateur. La flaque de foudre inflige des dégâts sur la durée totaux équivalant à **149.5%** de l'ATQ + **897** et attire les cibles proches de manière continue.\r\n**Effet passif:** pendant Illuminéclair, l'Explorateur reçoit Hypercorps. Quand Illuminéclair touche une cible, vous recevez **1**cumul de Puissance de Qinglong.\r\nAprès avoir déclenché Illuminéclair, appuyez et maintenez Attaque normale pour déclencher Rafale-tonnerre.",
+				"icon": "skill_mimi_evadeattack",
+				"id": "GA_FPlayerMiMiEvade_EvadeAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Lune azur",
+				"description": "Un dragon azur s'élance dans le ciel. Pendant ce laps de temps, confère Hypercorps à l'Explorateur et inflige des dégâts équivalant à **1777.5%** de l'ATQ + **10664** aux cibles proches. Le dragon azur décrit des cercles pendant **8**secondes. Pendant ce laps de temps, vous consommez en continu la Puissance de Qinglong et la foudre frappe jusqu'à **8**fois. Chaque frappe de foudre inflige des dégâts équivalant à **649.9%** de l'ATQ + **3899** aux cibles proches, puis le dragon azur disparaît, infligeant à nouveau des dégâts équivalant à **1485%** de l'ATQ + **8909** aux cibles proches.\r\nTemps de recharge: **30**secondes, et ce temps de recharge ne peut pas descendre en dessous de **20**secondes. Lune azur peut amasser jusqu'à **2**cumuls d'utilisations de compétences.\r\n**Effet passif:** quand **3**armes de foudre sont équipées, après que Lune azur touche une cible, inflige des dégâts de la compétence équivalant à **250%** de l'ATQ à la cible toutes les **2**secondes pendant **30**secondes.",
+				"icon": "skill_mimi_skill",
+				"id": "GA_FPlayerMiMiSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Dragon fulgurant",
+				"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, au moment où vous changez d'arme pour passer à celle-ci, **élimine toutes les altérations sur l'Explorateur** et concentre du chi. Frappe ensuite le sol, causant une explosion, et inflige des dégâts équivalant à **1514.7%** de l'ATQ + **9087** aux cibles proches, les suspendant. Pendant cette compétence, confère une immunité aux dégâts pendant **1,5**seconde (non disponible en Ligue ultime).\r\n**Effet passif:** lorsque Fantaisie est déclenchée, si Dragon azur est équipé ou si vous changez d'arme pour utiliser Dragon azur, inflige des dégâts équivalant à **5000%** de l'ATQ aux cibles proches. Les dégâts ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan. Cet effet ne peut être déclenché qu'une fois par déclenchement de Fantaisie.",
+				"icon": "skill_mimi_changeskill",
+				"id": "GA_FPlayerMiMiChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Résonance de foudre**: accroît l'ATQ de foudre de **15%** et la résistance à la foudre de **25%**. S'active en équipant au moins **2**armes de foudre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n\r\n**Gronde-tonnerre: Sur le terrain**: quand un coup est réussi avec **Dragon azur**, inflige des dégâts aux cibles proches équivalant à **131.3%** de l'ATQ de foudre + **1.9%** des PV max de l'Explorateur + **68.8%** de la somme de tous les types de résistance de l'Explorateur + **250%** de crit. Cet effet peut être déclenché une fois toutes les **1,5**seconde. Les dégâts de Gronde-tonnerre sont comptabilisés comme des dégâts d'attaque normale. Si **1**arme de feu, de givre ou physique est équipée, les dégâts de Gronde-tonnerre sont multipliés par **1.3**. De plus, les dégâts de Gronde-tonnerre ne sont affectés par aucun effet de bonus de dégâts, à l'exception des stats rares de l'équipement de Titan et ne déclenchent pas d'effets d'attaque supplémentaires.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "None"
+		},
+		{
+			"description": "Chaque fois que **Rafale-tonnerre** est chargée, **2**Azuras apparaissent. Chaque Azura restaure **20%** des PV max des autres invocations.\r\nAccroît l'attaque chargée de **Rafale-tonnerre** et les dégâts d'onde de choc de **30%**.\r\nAprès avoir utilisé **Lune azur**, confère immédiatement **3**cumuls de Puissance de Qinglong. Les compétences d'autres armes de foudre conféreront **1**cumul de Puissance de Qinglong à la place.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Quand **Dragon azur** est équipé, réduit tous les temps de recharge des compétences de base des armes de foudre de **20%**. Ceci n'est pas affecté par d'autres effets de réduction, de réinitialisation ou de modification du temps de recharge.\r\nDe plus, accroît les dégâts de foudre de l'Explorateur de **15%**. Cet effet fonctionne dans l'emplacement main libre.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Lorsque l'Explorateur subit des dégâts fatals, évite les dégâts fatals 1fois et confère une immunité aux dégâts pendant une courte durée. Cet effet ne peut être déclenché qu'une fois toutes les **60**secondes et fonctionne dans l'emplacement main libre.\r\nAprès avoir activé Résonance de fortitude:\r\nL'utilisation de **Dragon fulgurant** attire les cibles proches, ignorant Hypercorps (inefficace contre les boss).\r\nLorsque vous jouez en équipe, **Rafale-tonnerre** génère **1**sceau temporel de foudre toutes les **6**secondes pendant la charge. Les sceaux se connectent dans l'ordre où ils sont créés pour former une grille d'énergie. La grille d'énergie peut bloquer les déplacements des ennemis et les dégâts de leurs projectiles. Chaque sceau temporel de foudre dure jusqu'à **20**secondes.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Après avoir utilisé **Lune azur**, accroît les dégâts de foudre de l'Explorateur de **10%** et les dégâts finaux de **10%** pendant **30**secondes.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		}
+	],
+	"id": "mimi_thunder"
+}

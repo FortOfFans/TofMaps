@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_018",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_042",
+	"advancement": [
+		{
+			"description": "海洋之心每**15**秒发动**1**次潮汐，对附近目标造成**15%**（巅峰联赛为**1.5%**）*自身最大生命值点伤害",
+			"id": "artifact_adv_042"
+		},
+		{
+			"description": "海洋之心持续时间提升至**90**秒",
+			"id": "artifact_adv_042"
+		},
+		{
+			"description": "被海洋之心命中目标受到的伤害额外提升**5.5%**",
+			"id": "artifact_adv_042"
+		},
+		{
+			"description": "增加**2%**雷电伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_042"
+		},
+		{
+			"description": "当拓荒者潜海时，释放海洋之心可变身为一条海豚，**15**秒内不会被怪物攻击，且移动速度提升，变身至多持续**45**秒\r\n变身状态下，下次攻击将拍打海水，对附近目标造成**25%**（巅峰联赛为**2.5%**）*自身最大生命值点伤害，并解除变身",
+			"id": "artifact_adv_042"
+		}
+	],
 	"id": "artifact_ssr_018"
 }

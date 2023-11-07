@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_008",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_035",
+	"advancement": [
+		{
+			"description": "機械式オムニアムの柱の存在時間が**30**秒に延びる",
+			"id": "artifact_adv_035"
+		},
+		{
+			"description": "オムニアム砲に変更すると、スタミナ回復速度+30%。**20**秒間持続",
+			"id": "artifact_adv_035"
+		},
+		{
+			"description": "エナジー注入を**3**回まで蓄積できる",
+			"id": "artifact_adv_035"
+		},
+		{
+			"description": "炎ダメージ+**1.5%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_035"
+		},
+		{
+			"description": "エナジー注入時間が**40**秒に短縮",
+			"id": "artifact_adv_035"
+		}
+	],
 	"id": "wormhole_artifact_sr_014"
 }

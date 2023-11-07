@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_009",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_010",
+	"advancement": [
+		{
+			"description": "Status kuantum berlangsung selama **20** detik.         ",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "Mengurangi cooldown menjadi **80** detik.          ",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "+**100%** DMG dalam Quantum State, yang akan lenyap setelah mendaratkan **1** serangan.",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "Meningkatkan Volt DMG sebesar **1,5%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "+**100%** DMG dalam Quantum State, yang akan lenyap setelah mendaratkan **3** serangan.",
+			"id": "artifact_adv_010"
+		}
+	],
 	"id": "artifact_sr_009"
 }

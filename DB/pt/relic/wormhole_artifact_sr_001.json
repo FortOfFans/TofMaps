@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_001",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_018",
+	"advancement": [
+		{
+			"description": "O Canhão Flutuante dura **24** segundos.   ",
+			"id": "artifact_adv_018"
+		},
+		{
+			"description": "Adiciona a habilidade **Matriz de Laser**: Congela o alvo após causar dano a ele **4** vezes seguidas e causa dano de até **93,2%** do ATQ.",
+			"id": "artifact_adv_018"
+		},
+		{
+			"description": "Reduz o tempo de recarga para **150** segundos.     ",
+			"id": "artifact_adv_018"
+		},
+		{
+			"description": "Aumenta o dano gélido em **1,5%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+			"id": "artifact_adv_018"
+		},
+		{
+			"description": "Adiciona a habilidade **Colisão**: causa dano de **55,9%** do ATQ ao alvo e o atordoa durante **0,5** segundo.",
+			"id": "artifact_adv_018"
+		}
+	],
 	"id": "wormhole_artifact_sr_001"
 }

@@ -1,0 +1,102 @@
+{
+	"name": "Frostspeer",
+	"description": "Eine gewöhnliche Waffe unter den Einwohnern des Warren-Schneefelds. Mit Frost bearbeitet, ganz nach dem Geschmack vor Ort. Sehr beliebt, da sie günstig, jedoch gleichzeitig auch sehr wirksam ist.",
+	"icon": "item_Weapon_R_Spear_Ice01",
+	"gachaIcon": "Weapon_R_Spear_Ice01",
+	"rarity": "R",
+	"element": "Ice",
+	"weaponType": "Spear",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 15,
+		"Item_Mine_ice_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_ice_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "spear_ice_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Stoß",
+				"description": "Wenn der Anwender am Boden den Langspeer schwingt, greift er 5-mal hintereinander an.\r\nErster Angriff: Verursacht Schaden in Höhe von **20.1%** des ANG +**121** und stößt das Ziel eine kurze Strecke zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **18.5%** des ANG +**111** und stößt das Ziel eine kurze Strecke zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **38.5%** des ANG +**231** und stößt das Ziel eine kurze Strecke zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **59.2%** des ANG +**355** und stößt das Ziel eine kurze Strecke zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **93.8%** des ANG +**563** und stößt das Ziel deutlich zurück.",
+				"icon": "skill_spear_melee",
+				"id": "GA_FPlayerSpearMelee_Melee_R"
+			},
+			{
+				"name": "Sprungschlag",
+				"description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **22.3%** des ANG +**134**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **18.8%** des ANG +**113**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **37.1%** des ANG +**223**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **89%** des ANG +**534**.",
+				"icon": "skill_spear_air",
+				"id": "GA_FPlayerSpearMelee_AirAttack_R"
+			},
+			{
+				"name": "Kopfspalter",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Kopfspalter“ auszulösen.\r\nVerursacht beim Fallen pro Treffer Schaden in Höhe von **6.4%** des ANG +**38**. Verursacht bei der Landung Schaden in Höhe von **39.3%** des ANG +**236** und lässt das Ziel schweben.\r\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu **600%**).",
+				"icon": "skill_spear_jump",
+				"id": "GA_FPlayerSpearMelee_JumpAttack_R"
+			},
+			{
+				"name": "Speerhagel",
+				"description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um „Speerhagel“ auszulösen.\r\nLässt das Ziel bei einem Treffer **länger schweben** und verursacht Schaden in Höhe von **39.8%** des ANG +**239**. Tippe erneut, um das Ziel in der Luft weiter anzugreifen und ihm Schaden in Höhe von bis zu **79.5%** des ANG +**477** zuzufügen.",
+				"icon": "skill_spear_branch",
+				"id": "GA_FPlayerSpearMelee_Branch_R"
+			},
+			{
+				"name": "Schleichattacke",
+				"description": "Stößt den Langspeer nach vorne, um Schaden in Höhe von **256.5%** des ANG +**1539** zu verursachen.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSpearMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Fliegender Tritt",
+				"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen einen normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste), um „Fliegender Tritt“ auszulösen.\r\nDies fügt getroffenen Gegnern Schaden in Höhe von **58.2%** des ANG +**349** zu, stößt sie deutlich zurück und **betäubt** sie für **1** Sek. oder für **0,5** Sek., wenn das Ziel ein Wanderer ist.",
+				"icon": "skill_spear_frontattack",
+				"id": "GA_FPlayerSpearEvade_FrontAttack_R"
+			},
+			{
+				"name": "Stürzender Aufprall",
+				"description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um „Stürzender Aufprall“ auszulösen.\r\nDies rammt den Langspeer in den Boden, verursacht Schaden in Höhe von **42.8%** des ANG +**257** und lässt Ziele **länger schweben**.",
+				"icon": "skill_spear_backattck",
+				"id": "GA_FPlayerSpearEvade_BackAttack_R"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für **0,5** Sek. immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSpearEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Mondjäger",
+				"description": "Lässt Ziele **länger schweben** und den Anwender in die Luft springen, um Schaden in Höhe von **103.1%** des ANG +**619** zu verursachen. Abklingzeit: **25** Sek.",
+				"icon": "spear_skill1",
+				"id": "GA_FPlayerSpearSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Speertanz",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und das Ziel gepackt und mehrfach geschüttelt. Dies verursacht Schaden in Höhe von **205.4%** des ANG + **1232**. Der letzte Treffer lässt das Ziel **länger schweben**.",
+				"icon": "skill_spear_changeskill",
+				"id": "GA_FPlayerSpearChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6.9,
+				"charge": 5.6
+			},
+			"need": "None"
+		}
+	],
+	"id": "spear_ice"
+}

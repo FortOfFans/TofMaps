@@ -6,5 +6,27 @@
 	"shortIcon": "artifact_sr_007",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_012_OS",
+	"advancement": [
+		{
+			"description": "**2**個帯電粒子の旋風を放つ   ",
+			"id": "artifact_adv_012_OS"
+		},
+		{
+			"description": "旋風のダメージ+**20%**     ",
+			"id": "artifact_adv_012_OS"
+		},
+		{
+			"description": "**3**個帯電粒子の旋風を放つ  ",
+			"id": "artifact_adv_012_OS"
+		},
+		{
+			"description": "雷ダメージ+**1.5%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_012_OS"
+		},
+		{
+			"description": "旋風内にいる場合、**50%**の確率で**3**秒混乱状態に陥る可能性がある(移動方向と操作方向が逆)",
+			"id": "artifact_adv_012_OS"
+		}
+	],
 	"id": "artifact_sr_007"
 }

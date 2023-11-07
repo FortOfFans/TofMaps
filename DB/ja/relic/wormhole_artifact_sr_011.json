@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_011",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_008",
+	"advancement": [
+		{
+			"description": "使用後に電磁シールドを獲得する。自身の被ダメージ-**20%**、持続時間**7**秒",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "**15**秒に**1**回使用回数を回復する  ",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "最大使用回数が**3**回になる",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "氷ダメージ+**1．5%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "命中するとターゲットは**7**秒間最終与ダメージ‐**30%**",
+			"id": "artifact_adv_008"
+		}
+	],
 	"id": "wormhole_artifact_sr_011"
 }

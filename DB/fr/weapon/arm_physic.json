@@ -1,0 +1,198 @@
+{
+	"name": "Vesper",
+	"avatar": {
+		"name": "Lyre",
+		"advanceId": "imitation_24L1",
+		"weapon": "arm_physic",
+		"icon": "imitation_24",
+		"avatarID": "xinghuan",
+		"age": "23 juin",
+		"height": "174cm",
+		"gender": "Féminin",
+		"state": "Fonds de Maidelin",
+		"city": "Inconnu",
+		"rating": "wuwei_imitation_24",
+		"gp": [
+			"everydayObjects",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 常佳梦"
+			},
+			{
+				"Japanese": "CV : 大原 さやか"
+			},
+			{
+				"English": "CV : Ryan Bartley"
+			},
+			{
+				"Korean": "CV : 윤은서"
+			},
+			{
+				"Portuguese": "CV : Maitê Cunha"
+			}
+		],
+		"id": "imitation_24"
+	},
+	"description": "Arme de soutien faite sur mesure pour un membre de la fondation Maidelin. Mme Maidelin est persuadée que Lyra saurait en faire bon usage.",
+	"icon": "item_Weapon_SSR_Arm_Physic01",
+	"gachaIcon": "SSR_lh_xinghuan",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Arm",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "arm_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Attaque Vesper normale passive",
+				"description": "**Illumination**: au contact, l'attaque normale de Vesper sans Résonance de Bénédiction inflige des dégâts supplémentaires aux cibles portant la **marque de l'Illumination**, équivalant au nombre de gardes que vous portez × **2,1%** de l'ATQ (sans dépasser 12,6% x ATQ au total). Ces dégâts ne déclenchent pas d'effets d'attaque supplémentaires et sont considérés comme des compétences de décharge et des dégâts de compétence d'arme.\r\n\r\nAu contact, une attaque Vesper normale avec Résonance de Bénédiction inflige des dégâts supplémentaires aux cibles portant la **marque de l'Illumination**, équivalant au nombre de gardes que vous et les membres de votre équipe portez × **1,5%** de l'ATQ (sans dépasser 12% x ATQ au total). Ces dégâts ne déclenchent pas d'effets d'attaque supplémentaires et sont considérés comme des compétences de décharge et des dégâts de compétence d'arme.\r\n**Rayonnement**: au contact, toutes les attaques normales de Vesper récupèrent des PV équivalant à **15%** de l'ATQ.\r\n**Frappe sacrée**: la décharge aérienne et l'accumulateur de Vesper convertissent 60% de la charge en fracture.\r\n**Garde**: pour chaque perte de **15%** des PV max ou toutes les **300**recharges d'arme gagnées, obtenez jusqu'à **5**gardes de l'illumination (peut apparaître dans l'emplacement main libre). Les gardes de l'illumination durent **25**secondes. Si vous possédez le maximum de gardes de l'illumination, les gardes nouvellement produites attaqueront les ennemis, en infligeant des dégâts physiques équivalant à **48%** de l'ATQ, avant de disparaître. Ces dégâts ne déclenchent pas d'effets d'attaque supplémentaires.\r\n\r\nRemarque: dans Fantasme révolu, Vesper n'est pas considérée comme une arme d'assistance.",
+				"icon": "skill_arm_skill1",
+				"id": "None"
+			},
+			{
+				"name": "Attaque Vesper normale",
+				"description": "Lorsque vous êtes au sol, utilisez Vesper pour lancer 5attaques consécutives.\r\nPremière attaque: inflige des dégâts équivalant à **81.6%** de l'ATQ + **490** et repousse la cible sur une courte distance.\r\nDeuxième attaque: inflige des dégâts équivalant à **59.1%** de l'ATQ + **355** et repousse la cible de manière significative.\r\nTroisième attaque: inflige des dégâts équivalant à **123.9%** de l'ATQ + **743** et fait reculer la cible d'une courte distance.\r\nQuatrième attaque: inflige des dégâts équivalant à **173%** de l'ATQ + **1038** et suspend la cible.\r\nCinquième attaque: inflige des dégâts équivalant à **196.4%** de l'ATQ + **1178** et projette la cible dans les airs.",
+				"icon": "skill_arm_melee",
+				"id": "GA_FPlayerArmMeleePhy_Melee"
+			},
+			{
+				"name": "Frustration",
+				"description": "Lorsque vous êtes en l'air, appuyez sur Attaque normale pour utiliser Frustration. Chaque coup inflige des dégâts équivalant à **33.2%** de l'ATQ + **199** et consomme **10**points d'endurance. Le dernier coup inflige des dégâts équivalant à **124.5%** de l'ATQ + **747** et projette la cible dans les airs.\r\nLors du recours à Frustration, tentez de saisir la cible pour l'envoyer au sol et lui infliger des dégâts équivalant à **556.6%** de l'ATQ + **3339** au total.",
+				"icon": "skill_arm_airattack",
+				"id": "GA_FPlayerArmMeleePhy_AirAttack"
+			},
+			{
+				"name": "Accumulateur",
+				"description": "Maintenez Attaque normale pour déclencher jusqu'à **3**charges. Au contact, **suspendez longuement** la cible et gagnez l'immunité contre les dégâts et effets de contrôle pendant l'attaque de type Accumulateur. Relâcher avant d'être touché peut déclencher Fantaisie.\r\nPhase1 de l'impact chargé: inflige des dégâts équivalant à **96%** de l'ATQ + **576**.\r\nPhase2 de l'impact chargé: inflige des dégâts équivalant à **223%** de l'ATQ + **1338**.\r\nPhase3 de l'impact chargé: inflige des dégâts équivalant à **360.5%** de l'ATQ + **2163**.",
+				"icon": "skill_arm_powerattack",
+				"id": "GA_FPlayerArmMeleePhy_PowerAttack"
+			},
+			{
+				"name": "Scintillement",
+				"description": "Appuyez et maintenez Attaque normale pendant les attaques normales ou après une esquive pour déclencher Scintillement. Chaque coup inflige des dégâts équivalant à **20%** de l'ATQ + **120** et consomme **10**points d'endurance. Relâchez le bouton pour déclencher Accumulateur.",
+				"icon": "skill_arm_branch",
+				"id": "GA_FPlayerArmMeleePhy_Branch"
+			},
+			{
+				"name": "Pilonner",
+				"description": "Lorsque vous êtes dans les airs, maintenez Attaque normale pour déclencher 3charges en l'air. Relâchez pour pilonner le sol et **suspendre longuement** les cibles. Relâcher avant d'être touché peut déclencher Fantaisie.\r\nPhase1 de l'attaque chargée: inflige des dégâts équivalant à **166.3%** de l'ATQ + **998**.\r\nPhase2 de l'attaque chargée: inflige des dégâts équivalant à **288.2%** de l'ATQ + **1729**.\r\nPhase3 de l'attaque chargée: inflige des dégâts équivalant à **454.4%** de l'ATQ + **2726**.",
+				"icon": "skill_arm_jumpattack",
+				"id": "GA_FPlayerArmMeleePhy_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Capture d'esprit",
+				"description": "Après une esquive, appuyez sur Attaque normale pour attirer la cible à vous pendant **2**secondes et lui infliger des dégâts équivalant à **261.4%** de l'ATQ + **1568**. Maintenir Attaque normale après une esquive peut déclencher **Scintillement** après avoir lancé **Capture d'esprit**.",
+				"icon": "skill_arm_evadeattack",
+				"id": "GA_FPlayerArmEvadePhy_BackAttack"
+			},
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde et vous récupérez **250** d'endurance.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerArmEvadePhy_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Garde du pardon",
+				"description": "**Garde du pardon**: en cas de surplus de l'effet de guérison, garantit un bouclier de PV pouvant aller jusqu'à **25%** des PV max. Lorsque Vesper est associé à une garde du pardon, différentes résonances vont activer différents effets de garde.\r\n**Garde de la bénédiction**: cette compétence est remplacée par **Lèvebrillance** et l'Explorateur ne remporte plus de garde de l'illumination, convertie en garde du pardon pour les membres du groupe. Rapporte 1garde du pardon tous les **15%** de PV max soignés et rapporte jusqu'à 1garde du pardon à chaque membre du groupe. Si chaque membre en possède une, la garde du pardon inflige à l'ennemi des dégâts physiques équivalant à **60%** de l'ATQ avant de disparaître. Ces dégâts ne déclenchent pas d'effets d'attaque supplémentaires. Accroît également les PV max de **10%** pour vous et les membres du groupe. L'effet ne peut pas être cumulé.\r\n **Garde d'attaque**: lorsqu'une compétence de Vesper touche sa cible, gagne immédiatement un bouclier équivalant à **30%** des PV max. Temps de recharge: **30**secondes.\r\n**Garde de fortitude**: lorsqu'une compétence de Vesper touche sa cible, gagne immédiatement un soin restaurant **2%** des PV max par seconde pendant **20**secondes, avec un temps de recharge de **30**secondes.\r\n **Garde d'équilibre**: lorsque les PV sont supérieurs à **50%**, la fracture s'accroît de **20%**. Lorsque les PV sont inférieurs à **50%**, les dégâts finaux augmentent de **10%** et la fracture de **10%**.",
+				"icon": "skill_arm_skill1",
+				"id": "GA_FPlayerArmSkillPhyPas"
+			},
+			{
+				"name": "Tombétoile",
+				"description": "Bondir sur la cible inflige des dégâts équivalant à **771%** de l'ATQ + **4212** et la **suspend longuement**. Inflige une marque de l'Illumination sur la cible pendant **18** secondes. Temps de recharge: **20**secondes.",
+				"icon": "skill_arm_airattack2",
+				"id": "GA_FPlayerArmPublishSkillPhy"
+			},
+			{
+				"name": "Lèvebrillance",
+				"description": "Pilonne le sol et **projette fortement** les cibles en face, infligeant des dégâts équivalant à **771%** de l'ATQ + **4212** et invoque jusqu'à **3****lames** pendant **75**secondes (jusqu'à 1lame tous les 2mètres). Cette compétence peut être utilisée jusqu'à **3**fois, avec un temps de recharge de **20**secondes à chaque fois. La coexistence de 2**lames** sur le terrain crée une **Clairbrillance**. Lorsqu'une **lame** est touchée, elle soigne les cibles au sein du rayon de mouvement, restaurant des PV équivalant à **25%** de l'ATQ de la cible. La coexistence de 3**lames** crée une **Nébuleuse**. Lorsqu'une **lame** est touchée, elle inflige des dégâts aux cibles se trouvant dans le rayon de mouvement équivalant à **150%** de l'ATQ x la distance de mouvement / **5**m.",
+				"icon": "skill_arm_skill2",
+				"id": "GA_FPlayerArmLawSkillPhy"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Soupir chantant",
+				"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, au moment où vous changez d'arme pour passer à celle-ci, ** supprime toutes les altérations sur l'Explorateur** et déclenche un Soupir chantant sur la cible, infligeant des dégâts équivalant à **748.1%** de l'ATQ + **4488** et ajoutant une marque de l'Illumination sur la cible pendant **18**secondes, au cours desquelles l'immunité aux dégâts dure **1,5**seconde (non disponible en Ligue ultime).",
+				"icon": "skill_arm_changeskill",
+				"id": "GA_FPlayerArmChangeSkillPhy_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Résonance physique**: accroît l'ATQ physique de **15%** et la résistance physique de **25%**. Activez-la en équipant au moins **2**armes physiques. Les effets du kit fonctionnent également dans l'emplacement main libre. Non cumulable avec des effets du même type.\r\n**Bénédiction physique**: accroît l'ATQ physique de toute l'équipe de **5%** lorsque l'effet Résonance de Bénédiction est actif.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Lorsque vous déclenchez une compétence d'armes ou de décharge, si vos gardes sont au maximum, la durée de la garde sera réactualisée et infligera des dégâts physiques équivalant à **3000%** de l'ATQ physique x le nombre de gardes contre l'ennemi. Jusqu'à 8gardes avec l'effet de Bénédiction, et jusqu'à 6sans.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Accroît tous les dégâts infligés par les gardes de **20%**, et les dégâts finaux de **15%** sur la cible en garde pendant **10secondes** lorsque vous déclenchez une compétence d'armes ou de décharge sous l'effet de Résonance de bénédiction.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Garde du pardon: après avoir déclenché Résonance 5fois, vous avez **1**chance d'annuler des dégâts fatals pour l'utilisateur et la cible gardée. Après qu'un membre du groupe annule des dégâts fatals, il consomme la garde du pardon et récupère **5%** des PV max. Non disponible en Ligue ultime.\r\nGarde de l'illumination: après avoir déclenché Résonance 5fois et en présence de la garde de l'illumination, l'utilisateur a **2**chances d'annuler des dégâts fatals. Se cumule jusqu'à **5**fois. Après que l'utilisateur annule des dégâts fatals, il consomme 1cumul de Garde de l'illumination et récupère **5%** des PV max. Non disponible en Ligue ultime.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		},
+		{
+			"description": "Lorsque vous déclenchez une compétence d'arme ou de décharge, l'augmentation des dégâts finaux et des soins dépend du nombre de gardes. Chaque garde augmente de **1.6%**les dégâts finaux et les effets de soin, jusqu'à **8%** maximum pendant **25secondes**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 10
+			},
+			"need": "arm_physic_plasm"
+		}
+	],
+	"id": "arm_physic"
+}

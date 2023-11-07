@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_005",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_014",
+	"advancement": [
+		{
+			"description": "命中附带**2**秒**强控眩晕**和灼烧效果  ",
+			"id": "artifact_adv_014"
+		},
+		{
+			"description": "爆炸范围扩大**50%**     ",
+			"id": "artifact_adv_014"
+		},
+		{
+			"description": "冷却时间缩短至**30**秒     ",
+			"id": "artifact_adv_014"
+		},
+		{
+			"description": "增加**1.5%**火焰伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_014"
+		},
+		{
+			"description": "命中附带**3**秒**强控眩晕**，给目标添加**10**秒耐力灼烧，每次使用技能扣除**100**点耐力。",
+			"id": "artifact_adv_014"
+		}
+	],
 	"id": "artifact_sr_005_WXM"
 }

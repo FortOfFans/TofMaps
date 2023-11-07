@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_021",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_045",
+	"advancement": [
+		{
+			"description": "狩猟マスクが開放される。トリプルマスク発動時に選択し、確定をすることで装着できる。狩猟マスクの装着中、九域にいる精鋭アチーブメントモンスターの位置をマップで確認できる",
+			"id": "artifact_adv_045"
+		},
+		{
+			"description": "トリプルマスクのセット時、移動速度+**8%**、属性ダメージ+**8%**",
+			"id": "artifact_adv_045"
+		},
+		{
+			"description": "探知マスクが開放される。探知マスクを装着中かつ未開放の宝箱が近くにあるとき、その宝箱の位置ヒントとガイドを表示してくれる",
+			"id": "artifact_adv_045"
+		},
+		{
+			"description": "氷ダメージ+**2%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_045"
+		},
+		{
+			"description": "トリプルマスクのセット時、追加で属性ダメージ+**8%**",
+			"id": "artifact_adv_045"
+		}
+	],
 	"id": "artifact_ssr_021"
 }

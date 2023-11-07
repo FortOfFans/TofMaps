@@ -6,5 +6,27 @@
 	"shortIcon": "artifact_ssr_014",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_038",
+	"advancement": [
+		{
+			"description": "每个骰子的获得时间缩短为**20**秒",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "**热核**增伤效果提升：获得**25%**的伤害提升，持续**45**秒",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "每次投出骰子后有**50%**概率获得1个骰子，**15**秒冷却",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "增加**2%**寒冰伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "投出**3**个骰子时必定获得全部元素增伤效果，如果点数之和大于等于**14**，也可获得**超频**效果",
+			"id": "artifact_adv_038"
+		}
+	],
 	"id": "artifact_ssr_014"
 }

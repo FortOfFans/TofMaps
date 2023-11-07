@@ -1,0 +1,14 @@
+{
+	"name": "Barbarossa",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Die beiden Köpfe streiten sich häufig darüber, wer die Beute töten darf. Der Streit kann schon bei kleinen Sticheleien in Gewalt ausarten.",
+	"icon": "icon_matrix_SR5_512",
+	"gachaIcon": "icon_matrix_SR5_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Beim Wechsel zu dieser Waffe, erhält der Anwender für **3** Sek. **50%**/62,5%/75% Schadensreflexion. Abklingzeit: **30** Sek. Beim Wechsel zu einer anderen Waffe, erhält der Anwender für **5** Sek. **20%**/25%/30% Schadensbonus. Abklingzeit: **30** Sek."
+		}
+	],
+	"id": "matrix_SR5_1"
+}

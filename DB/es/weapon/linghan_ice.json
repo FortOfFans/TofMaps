@@ -1,0 +1,187 @@
+{
+	"name": "Tigre de Alabastro",
+	"avatar": {
+		"name": "Ling Han",
+		"advanceId": "imitation_43L1",
+		"weapon": "linghan_ice",
+		"icon": "imitation_43",
+		"avatarID": "linghan",
+		"age": "7 de junio",
+		"height": "181cm",
+		"gender": "Femenino",
+		"state": "Pabellón Longjian",
+		"city": "Pantanovilla",
+		"rating": "wuwei_imitation_43",
+		"gp": [
+			"collection",
+			"decorate",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : kiyo"
+			},
+			{
+				"Japanese": "CV : 原 由実"
+			},
+			{
+				"English": "CV : Dominique North"
+			},
+			{
+				"Korean": "CV : 김윤채"
+			},
+			{
+				"Portuguese": "CV : SAMIRA FERNANDES"
+			}
+		],
+		"id": "imitation_43"
+	},
+	"description": "Con una floritura de prestidigitación y una danza divina de espadas, ¿quién podrá explorar las profundidades de este corazón mío?",
+	"icon": "item_Weapon_SSR_Linghan_Ice01",
+	"gachaIcon": "UI_SSR_lh_linghan",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Linghan",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "Linghan_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Arte de Espada: Corte Lunar",
+				"description": "Mientras estás en el suelo, usa tu ataque normal para lanzar 6 ataques seguidos.\r\nPrimer ataque: Infliges daño igual a **97.8%** del ATQ más **587** y haces retroceder al objetivo.\r\nSegundo ataque: Infliges daño igual a **129.4%** del ATQ más **776** y haces retroceder al objetivo.\r\nTercer ataque: Infliges daño igual a **207.2%** del ATQ más **1243** y haces retroceder al objetivo.\r\nCuarto ataque: Infliges daño igual a **125%** del ATQ más **750** y haces retroceder al objetivo.\r\nQuinto ataque: Infliges daño igual a **226%** del ATQ más **1356** y atraes a los enemigos al frente.\r\nSexto ataque: Infliges daño igual a **253.6%** del ATQ más **1521** y lanzas al objetivo.\r\nTras activar Arte de Espada: Corte Lunar, pulsa y mantén pulsado el ataque normal para activar **Arte de Espada: Nieve Eterna**.\r\n\r\nTras impactar a un objetivo con cualquiera de los ataques normales de **Tigre de Alabastro**, aplicas **1** acumulación de **Grieta Cristalina** al objetivo, lo que inflige daño de ataque normal igual a **48%** del ATQ cada segundo durante **15**seg. Solo puedes aplicar **1** acumulación de Grieta Cristalina al mismo objetivo cada **4**seg, se acumula hasta **3** veces. Las acumulaciones desaparecerán una a una cuando termine el efecto.",
+				"icon": "skill_linghan_melee",
+				"id": "GA_FPlayerLinghanMelee_Melee"
+			},
+			{
+				"name": "Arte de Espada: Sollozo de Pureza",
+				"description": "Mientras estás en el aire, usa el ataque normal para lanzar 6 ataques consecutivos; esto consume resistencia.\r\nPrimer ataque: Inflige daño igual a **95.9%** del ATQ más **575**.\r\nSegundo ataque: Inflige daño igual a **100.7%** del ATQ más **604**.\r\nTercer ataque: Inflige daño igual a **218.6%** del ATQ más **1311**.\r\nCuarto ataque: Inflige daño igual a **130%** del ATQ más **780**.\r\nQuinto ataque: Inflige daño igual a **213.7%** del ATQ más **1282**.\r\nSexto ataque: Inflige daño igual a **256.9%** del ATQ más **1541**.",
+				"icon": "skill_linghan_airattack",
+				"id": "GA_FPlayerLinghanMelee_AirAttack"
+			},
+			{
+				"name": "Arte de Espada: Nieve Eterna",
+				"description": "Mientras usas el ataque normal en el suelo, pulsa y mantén pulsado el ataque normal para activar Arte de Espada: Nieve Eterna.\r\nUsa el control mental para manipular la espada mientras consumes resistencia, durante lo cual el nómada gana hipercuerpo. Cada ataque inflige daño igual a **140.8%** del ATQ más **845** a los objetivos cercanos.\r\nCuando Arte de Espada: Nieve Eterna termina, liberas una poderosa aura de espada que inflige daño igual a **422.4%** de tu ATQ más **2534** a los objetivos cercanos.",
+				"icon": "skill_linghan_powerattack",
+				"id": "GA_FPlayerLinghanMelee_PowerAttack"
+			},
+			{
+				"name": "Arte de Espada: Caída de Escarcha",
+				"description": "Pulsa y mantén pulsado tu ataque normal en el aire (pulsa cuando haya un objetivo disponible), o utiliza tu ataque normal mientras escalas, saltas hacia atrás o utilizas tu propulsor para activar Arte de Espada: Caída de Escarcha.\r\nMientras caes, infliges daño igual a **75%** del ATQ más **450** cada vez que impactas al objetivo. Al aterrizar, infliges daño igual a **366.7%** del ATQ más **2200** a los objetivos cercanos.",
+				"icon": "skill_linghan_jumpattack",
+				"id": "GA_FPlayerLinghanMelee_JumpAttack"
+			},
+			{
+				"name": "Pasos Ligeros",
+				"description": "Mientras estás en el aire tras un salto doble, pulsa salto para activar Pasos Ligeros. Te desplazas brevemente hacia arriba antes de planear. Mientras estás en el aire, puedes usar Pasos Ligeros hasta **2** veces.\r\nMientras estás en tierra, Pasos Ligeros recupera **1** intento de uso cada **10**seg (al cambiar de área, cambiar arma o desequipar **Tigre de Alabastro**, se restablecerán los intentos de uso).",
+				"icon": "skill_linghan_qinggong",
+				"id": "GA_FPlayerLinghanMelee_QingGong"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerLinghanEvade_Evade"
+			},
+			{
+				"name": "Arte de Espada: Nublamiento",
+				"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Arte de Espada: Nublamiento, lo que inflige daño de hasta **305%** del ATQ más **1830** a los objetivos impactados.",
+				"icon": "skill_linghan_fevadeattack",
+				"id": "GA_FPlayerLinghanEvadeAttack_ForwardAttack"
+			},
+			{
+				"name": "Arte de Espada: Alma Mortal",
+				"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Arte de Espada: Alma Mortal. Libera una ilusión del Tigre Blanco para infligir daño igual a **174.3%** del ATQ más **1046** a los objetivos que tengas delante.",
+				"icon": "skill_linghan_bevadeattack",
+				"id": "GA_FPlayerLinghanEvadeAttack_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Arte de Espada: Hielo Oscuro",
+				"description": "Infliges daño igual a **370.2%** del ATQ más **2221** a los objetivos cercanos y los atraes. Luego, formas un Conjunto de Espadas para invocar una fuerte lluvia de espadas y **congelar con fuerza** a los objetivos (no disponible en la Liga Ápex ni contra jefes) durante **4**seg. Enfriamiento: **30**seg.\r\nDespués de usar Arte de Espada: Hielo Oscuro, emites un **Aire frío** que inflige daño igual a **68%** del ATQ a los objetivos cercanos cada segundo y reduce la velocidad de los objetivos un **30%** (no disponible en la Liga Ápex ni contra jefes).\r\nDespués de ejecutar completamente Arte de Espada: Hielo Oscuro creas una gran cantidad de **Cuchillas de Hielo** que disparan **1** cuchilla cada **7.5**seg al objetivo actualmente fijado; esto inflige daño igual a **360%** de tu ATQ y le aplica **Reducción de Temperatura** al objetivo. Puede haber hasta **3** **Cuchillas de Hielo** creadas inicialmente, y todas las cuchillas se eliminarán si no estás en estado de combate.\r\n**Reducción de Temperatura**: Infliges daño igual a **240%** del ATQ cada **3**seg a los objetivos cercanos durante **12**seg.",
+				"icon": "skill_linghan_skill",
+				"id": "GA_FPlayerLinghanSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Arte de Espada: Llamado Gélido",
+				"description": "Cuando tu **carga de arma está completa** o se activa **Phantasia**, al cambiar a esta arma, **te disipa todas las debilitaciones** e invoca un Conjunto de Espadas a tu alrededor que envuelve el área en frío e inflige daño de hasta **844.5%** de tu ATQ más **5067** a los objetivos cercanos. Poco después, invocas a un Tigre Blanco para infligir daño igual a **1971%** del ATQ más **11825**, durante el cual la inmunidad al daño dura **1.5**seg (no disponible en la Liga Ápex).\r\n**Pasiva**: Después de que Arte de Espada: Llamado Gélido logra un impacto, aumenta tu daño final un **8%** durante **30**seg.",
+				"icon": "skill_linghan_changeskill",
+				"id": "GA_FPlayerLinghanChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Frío Extremo: Descarga**: Después de usar **Arte de Espada: Hielo Oscuro**, cada segundo infliges daño igual a la suma de: **70%** de tu ATQ de escarcha, **10%** de tus PS Máx., **36%** de todos tus tipos de resistencias, y **135%** de tu crítico. Ocurre durante **30**seg. El daño de múltiples Descargas no se acumula, y el daño de Frío Extremo contará como daño de habilidad. Si tienes **1** arma eléctrica/de fuego/física de cualquier tipo equipada, el daño de Frío Extremo se multiplica por **1.3**. Además, el daño de Frío Extremo no se ve afectado por ningún efecto de refuerzo de daño, excepto por las estadísticas raras del equipo titán, y no activará efectos de ataque adicionales.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Tras lanzar **Cuchilla de Hielo**, aumenta tu ATQ de escarcha un **10%** y los objetivos cercanos recibirán daño igual a **80%** del ATQ cada segundo durante **30**seg.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "Puedes producir hasta **4** **Cuchillas de Hielo**, y el multiplicador base del daño de **Reducción de Temperatura** aumenta a **360%**.\r\nSi tu objetivo es el único afectado por **Reducción de Temperatura**, dentro de **6**seg le aplicas adicionalmente **Sello de Vena**, lo que reduce su velocidad un **30%** (no disponible en la Liga Ápex ni contra jefes). Si el objetivo vuelve a recibir daño de **Cuchilla de Hielo** durante el **Sello de Vena**, desencadena Estallido Gélido, lo que inflige daño de habilidad igual a **1700%** del ATQ más **2%** de los PS ya perdidos del objetivo en ese momento (el daño de Estallido Gélido no será inferior a **2000%** del ATQ de escarcha del nómada ni superior a **2200%** del ATQ de escarcha del nómada). A continuación, elimina los efectos de **Sello de Vena** y **Reducción de Temperatura** en el objetivo.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "Aumenta el daño infligido por **Grieta Cristalina** y **Aire Frío** adicionalmente un **50%**. Aumenta los intentos de uso de **Pasos Ligeros** a **10** y aumenta la tasa de recuperación a **1** intento cada **3**seg.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		},
+		{
+			"description": "El efecto de **Reducción de Temperatura** infligido después de disparar **Cuchillas de Hielo** ahora se aplica a un área y también inflige daño adicional igual a **990%** del ATQ a los objetivos cercanos.",
+			"stats": {
+				"shatter": 16,
+				"charge": 8
+			},
+			"need": "Linghan_ice_plasm"
+		}
+	],
+	"id": "linghan_ice"
+}

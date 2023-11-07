@@ -6,5 +6,27 @@
 	"shortIcon": "artifact_ssr_014",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_038",
+	"advancement": [
+		{
+			"description": "Reduz a disponibilidade de cada dado para **20** segundos.",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "Reforço de dano de **termonuclear**: Confere **25%** de reforço de dano durante **45** segundos.",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "Após cada lançamento de dados, há **50%** de chance de obter 1 dado. Tempo de recarga: **15 seg.**",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "Aumenta o dano gélido em **2%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "Rolar **3** dados confere reforço de dano a todos os elementos. Se a soma for **14** ou mais, recebe o efeito **dados modificados**.",
+			"id": "artifact_adv_038"
+		}
+	],
 	"id": "artifact_ssr_014"
 }

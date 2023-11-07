@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_004",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_027",
+	"advancement": [
+		{
+			"description": "メカを操縦時、炎被ダメージと行動制限を無効化する",
+			"id": "artifact_adv_027"
+		},
+		{
+			"description": "獲得する新スキル：**砲撃**\r\n**砲撃**：ターゲットをロックオンし、**6**回砲撃を放つ。命中するたび攻撃力×**155.2%**のダメージを付与する。",
+			"id": "artifact_adv_027"
+		},
+		{
+			"description": "メカを操縦時、ダメージに燃焼効果が追加される     ",
+			"id": "artifact_adv_027"
+		},
+		{
+			"description": "炎ダメージ+**2%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_027"
+		},
+		{
+			"description": "獲得する新スキル：**火炎フィールド**\r\n**火炎フィールド**：その場に大規模な火炎フィールドを作り出し、最大で攻撃力×**1146.8%**のダメージを付与する。",
+			"id": "artifact_adv_027"
+		}
+	],
 	"id": "wormhole_artifact_ssr_004"
 }

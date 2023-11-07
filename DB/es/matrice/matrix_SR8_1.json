@@ -1,0 +1,14 @@
+{
+	"name": "Ene",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Cuando el poder aumenta, su potencia acelerada se traslada al arma con un leve estremecimiento.",
+	"icon": "icon_matrix_SR8_512",
+	"gachaIcon": "icon_matrix_SR8_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Al infligir daño superior al **100%** del ATQ, inflige daño adicional equivalente al **60%**/75%/90% del ATQ. Enfriamiento: **3** segundos."
+		}
+	],
+	"id": "matrix_SR8_1"
+}

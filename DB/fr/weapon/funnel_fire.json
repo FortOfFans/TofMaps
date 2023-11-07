@@ -1,0 +1,181 @@
+{
+	"name": "Étincelle",
+	"avatar": {
+		"name": "Ruby",
+		"advanceId": "imitation_21L1",
+		"weapon": "funnel_fire",
+		"icon": "imitation_21",
+		"avatarID": "leibei",
+		"age": "15 juillet",
+		"height": "140cm",
+		"gender": "Féminin",
+		"state": "Inconnu",
+		"city": "Inconnu",
+		"rating": "wuwei_imitation_21",
+		"gp": [
+			"game",
+			"toy",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 赵爽"
+			},
+			{
+				"Japanese": "CV : 小倉 唯"
+			},
+			{
+				"English": "CV : Lizzie Freeman"
+			},
+			{
+				"Korean": "CV : 이다은"
+			},
+			{
+				"Portuguese": "CV : Letícia Celini"
+			}
+		],
+		"id": "imitation_21"
+	},
+	"description": "Une arme spéciale que Lin a demandé au département R&D de Mirroria de mettre au point pour Ruby. Ses fonctions principales sont de jouer à la maison de poupée avec Ruby, de la réveiller le matin, de l'accompagner partout, et surtout de la protéger. ",
+	"icon": "item_Weapon_SSR_funnel_Fire01",
+	"gachaIcon": "SSR_lh_leibei",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Funnel",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "funnel_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Attaque d'étincelles",
+				"description": "Au sol, appuyez sur le bouton d'attaque normale pour ordonner à Étincelle d'attaquer 5fois de suite.\r\nPremière attaque: inflige un total de dégâts équivalant à **84.6%** de l'ATQ + **508** à chaque cible.\r\nDeuxième attaque: inflige un total de dégâts équivalant à **93%** de l'ATQ + **558** à chaque cible.\r\nTroisième attaque: inflige un total de dégâts équivalant à **101.5%** de l'ATQ + **609** à chaque cible.\r\nQuatrième attaque: inflige un total de dégâts équivalant à **109.9%** de l'ATQ + **659** à chaque cible.\r\nCinquième attaque: inflige un total de dégâts équivalant à **253.7%** de l'ATQ + **1522** à chaque cible et **projette** les cibles.",
+				"icon": "skill_funnel_melee",
+				"id": "GA_FPlayerFunnelMeleeFire_Melee"
+			},
+			{
+				"name": "Décharge aérienne",
+				"description": "Lorsque vous êtes dans les airs, appuyez sur le bouton Attaque normale pour ordonner à Étincelle d'attaquer 4fois de suite.\r\nPremière attaque: inflige un total de dégâts équivalant à **97.1%** de l'ATQ + **583** à chaque cible.\r\nDeuxième attaque: inflige un total de dégâts équivalant à **106.8%** de l'ATQ + **641** à chaque cible.\r\nTroisième attaque: inflige un total de dégâts équivalant à **121.3%** de l'ATQ + **728** à chaque cible.\r\nQuatrième attaque: inflige un total de dégâts équivalant à **145.6%** de l'ATQ + **874** à chaque cible.",
+				"icon": "skill_funnel_airattack",
+				"id": "GA_FPlayerFunnelMeleeFire_AirAttack"
+			},
+			{
+				"name": "Compris !",
+				"description": "Maintenez Attaque normale ou faites ceci après le déclenchement de Zone de confinement pour tirer des rayons d'énergie en continu vers vos ennemis dans la direction choisie, ce qui inflige des dégâts équivalant à **40%** de l'ATQ + **240**. Consomme l'endurance de l'Explorateur.",
+				"icon": "skill_funnel_power",
+				"id": "GA_FPlayerFunnelMeleeFire_AimAttack"
+			},
+			{
+				"name": "Plongeon ardent",
+				"description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Plongeon ardent.\r\nEnveloppe le corps d'énergie avant de plonger à toute vitesse vers le sol, infligeant des dégâts équivalant à **172.1%** de l'ATQ + **1033** aux cibles à proximité.",
+				"icon": "skill_funnel_jumpattack",
+				"id": "GA_FPlayerFunnelMeleeFire_JumpAttack"
+			},
+			{
+				"name": "Zone de confinement",
+				"description": "Après la deuxième attaque normale, maintenez le bouton durant n'importe quelle attaque pour infliger des dégâts équivalant à **40%** de l'ATQ + **240** à la cible. La cible verrouillée est emprisonnée et brûlée pendant **3** secondes, ce qui lui inflige des dégâts équivalant à **26.2%** de l'ATQ + **157** toutes les secondes (ne fonctionne pas contre les boss).",
+				"icon": "skill_funnel_branch",
+				"id": "GA_FPlayerFunnelMeleeFire_Branch"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Vas-y, Dolly!",
+				"description": "Lance Dolly après une esquive. Dolly reste pendant **10** secondes, attire les ennemis proches et leur inflige des dégâts équivalant à **84.6%** de l'ATQ + **508**, et les provoque pendant **1,5** seconde (ne peut pas provoquer les ennemis en équipe) afin de détourner leurs attaques vers Dolly.",
+				"icon": "skill_funnel_evadeattack",
+				"id": "GA_FPlayerFunnelEvadeFire_BackAttack"
+			},
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayeFunnelEvadeFire_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Collisionneur d'étincelles",
+				"description": "Étincelle lance l'attaque Étincelles, qui dure 15secondes et rebondit entre les cibles et l'Explorateur. Lorsqu'elles touchent une cible, les étincelles la ralentissent pendant **4**secondes avec un temps de recharge de **15**secondes. Plus les étincelles mettent de temps à atteindre leur cible, plus elles infligent de dégâts. À l'impact, elles infligent des dégâts équivalant à **380%** de l'ATQ + **4200** et appliquent une marque d'Inflammation sur la cible qui persiste pendant **25**secondes. Au même moment, Étincelle tire 4balles en direction de sa cible. Chacune de ces balles inflige des dégâts équivalant à **50%** de l'ATQ + **300**. Les attaques normales d'Étincelle infligent **30%** de dégâts supplémentaires aux cibles marquées par Inflammation. Lorsque les étincelles atteignent des cibles brûlées par l'Explorateur, elles brûlent ou embrasent la cible une fois, ce qui inflige des dégâts supplémentaires équivalant à **45%** du total de dégâts restants (les effets de brûlure ou d'embrasement multiples sont comptés ensemble) et seront automatiquement décomptés une fois. Le résultat du calcul du temps de recharge est de **6**secondes. Le temps de recharge de la compétence est de **30**secondes.\r\n**Effet passif**: pendant toute la durée d'Étincelles, chaque fois que des dégâts sont infligés par Étincelles ou Attaque d'étincelles, l'Explorateur gagne **1**point de Chaleur (à intervalle de **0,9**seconde) jusqu'à un plafond de **8**points. Lorsque ce plafond est atteint, l'Explorateur reçoit l'effet Chaleur ultime qui augmente son ATQ de feu de **10%** pendant **25**secondes.",
+				"icon": "funnel_skill",
+				"id": "GA_FPlayerFunnelSkillFire"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Supernova",
+				"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur** au moment où vous changez d'arme pour passer à celle-ci. Étincelle entre dans un état de charge, tirant des rayons d'énergie ardente sur une zone étendue en continu vers l'avant avant d'exploser. Inflige des dégâts équivalant à **750%** de l'ATQ + **4500**. Lorsque les étincelles atteignent des cibles brûlées par l'Explorateur, elle brûlent ou embrasent la cible une fois, ce qui inflige des dégâts supplémentaires équivalant à **45%** du total des dégâts restants (s'il y a plus d'un effet de brûlure ou d'embrasement actif, ceux-ci se cumulent). Le temps de recharge du décompte de brûlure est de **6**secondes. Lorsque la compétence est active, confère une immunité aux dégâts pendant **1,5** seconde (non disponible en Ligue ultime).",
+				"icon": "skill_funnel_changeskill",
+				"id": "GA_FPlayerFunnelChangeSkillFire_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Résonance de feu**: accroît l'ATQ de feu de **15%** et la résistance au feu de **25%**. Activez-la en équipant au moins **2**armes de feu. Cet effet fonctionne également avec les armes dans l'emplacement main libre. L'effet ne peut pas être cumulé plusieurs fois.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Inflammation augmente les dégâts d'Attaque d'étincelles jusqu'à **0%**. Le temps de recharge de la compétence diminue pour atteindre **24** secondes.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Inflammation accroît le bonus de flammes de **0%** et le multiplicateur du décompte de brûlure de **75%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Régénère **75** points supplémentaires de la recharge d'arme chaque fois qu'Attaque d'étincelles frappe un ennemi. Temps de recharge: 0,9 seconde. Fracture augmente de **25%** lorsque Chaleur ultime est active.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		},
+		{
+			"description": "Inflammation augmente les dégâts d'Attaque d'étincelles jusqu'à **0%** et double l'efficacité d'Acquisition de chaleur. Le temps de recharge de la compétence diminue pour atteindre **16**secondes.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 8
+			},
+			"need": "funnel_fire_plasm"
+		}
+	],
+	"id": "funnel_fire"
+}

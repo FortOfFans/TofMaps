@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_012",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_033",
+	"advancement": [
+		{
+			"description": "Setelah mengaktifkan Strange Cube, DMG yang ditimpakan meningkat **10%** selama **10** detik.",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "Setelah Strange Cube aktif, Charge Senjata musuh di sekitar akan berkurang **200**.",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "Menambah penggunaan Strange Cube menjadi **2**.",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "Meningkatkan Volt DMG sebesar **1,5%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "Setelah mengaktifkan Strange Cube, mendapatkan Charge Senjata sesuai dengan HP yang hilang. Untuk setiap **1%** HP yang hilang, mendapatkan **10** Charge Senjata.",
+			"id": "artifact_adv_033"
+		}
+	],
 	"id": "artifact_sr_013"
 }

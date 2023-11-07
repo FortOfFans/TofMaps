@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_005",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_026",
+	"advancement": [
+		{
+			"description": "Musuh yang terperangkap di dalam retakan yang dekat dengan tanah tidak akan bisa menghindar, dan durasi vakum meningkat menjadi **15** detik. ",
+			"id": "artifact_adv_026"
+		},
+		{
+			"description": "Memperluas area target sebesar **100%**.     ",
+			"id": "artifact_adv_026"
+		},
+		{
+			"description": "Meningkatkan DMG yang ditimpakan kepada target dalam area sebesar **20%**.  ",
+			"id": "artifact_adv_026"
+		},
+		{
+			"description": "Mengurangi Flame Damage yang diterima sebesar **2%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_026"
+		},
+		{
+			"description": "Musuh dalam retakan tak bisa menerima penyembuhan.  ",
+			"id": "artifact_adv_026"
+		}
+	],
 	"id": "wormhole_artifact_ssr_005"
 }

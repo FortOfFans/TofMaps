@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_018",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_042",
+	"advancement": [
+		{
+			"description": "Thalassic Heart akan mengeluarkan gelombang **1** kali setiap **15** detik, menimpakan DMG sebesar **15%** (**1.5%** di Apex League) Max HP Wanderer kepada target di sekitar.",
+			"id": "artifact_adv_042"
+		},
+		{
+			"description": "Durasi Thalassic Heart diperpanjang menjadi **90** detik.",
+			"id": "artifact_adv_042"
+		},
+		{
+			"description": "DMG yang ditimpakan pada target yang terhantam oleh Thalassic Heart meningkat lagi sebesar **5,5%**.",
+			"id": "artifact_adv_042"
+		},
+		{
+			"description": "Meningkatkan Volt DMG sebesar **2%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_042"
+		},
+		{
+			"description": "Saat Wanderer menyelam, gunakan Thalassic Heart untuk berubah menjadi lumba-lumba selama maks **45** detik. Selama periode tersebut, lawan tidak akan menyerang selama **15** detik, dan kecepatan gerakmu akan meningkat.\r\nSetelah berubah wujud, serangan berikutnya akan menghasilkan gelombang ombak yang menimpakan DMG sebesar **25%** Max HP kamu (**2,5%** Max HP kamu di Apex League) kepada target di sekitar, lalu kamu akan kembali ke wujud manusia.",
+			"id": "artifact_adv_042"
+		}
+	],
 	"id": "artifact_ssr_018"
 }

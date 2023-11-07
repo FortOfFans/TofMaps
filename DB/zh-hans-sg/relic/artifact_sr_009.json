@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_009",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_010",
+	"advancement": [
+		{
+			"description": "量子态持续**20**秒         ",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "冷却缩短至**80**秒          ",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "量子态下发动的攻击伤害增加**100%**，**1**次伤害后解除此效果",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "增加**1.5%**雷电伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "量子态下**3**次伤害后解除伤害增加**100%**效果   ",
+			"id": "artifact_adv_010"
+		}
+	],
 	"id": "artifact_sr_009"
 }

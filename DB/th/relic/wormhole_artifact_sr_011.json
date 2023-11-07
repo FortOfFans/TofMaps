@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_011",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_008",
+	"advancement": [
+		{
+			"description": "สร้างโล่ EMที่สามารถลดดาเมจที่ได้รับลง **20%** เป็นเวลา **7** วินาที",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "เติมชาร์จ **1** ขีด ทุก **15** วินาที ",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "สะสมชาร์จได้สูงสุด **3** ขีด",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "เพิ่มดาเมจน้ำแข็ง **1.5%** แม้ว่าจะไม่ได้ใช้งานก็ตาม ใช้ในลีกแข่งยอดฝีมือไม่ได้",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "ดาเมจสุดท้ายที่เป้าหมายได้รับลดลง **30%** เป็นเวลา **7** วินาที",
+			"id": "artifact_adv_008"
+		}
+	],
 	"id": "wormhole_artifact_sr_011"
 }

@@ -1,0 +1,187 @@
+{
+	"name": "Herzstrom",
+	"avatar": {
+		"name": "Saki Fuwa",
+		"advanceId": "imitation_22L1",
+		"weapon": "dkatana_ice",
+		"icon": "imitation_22",
+		"avatarID": "bupoxiao",
+		"age": "11. Oktober",
+		"height": "157 cm",
+		"gender": "Weiblich",
+		"state": "Spezialkräfte des Sicherheitsdiensts von Mirroria",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_22",
+		"gp": [
+			"metal",
+			"everydayObjects",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐小喜"
+			},
+			{
+				"Japanese": "CV : 雨宮 天"
+			},
+			{
+				"English": "CV : EmiLo"
+			},
+			{
+				"Korean": "CV : 김나율"
+			},
+			{
+				"Portuguese": "CV : Letícia Quinto"
+			}
+		],
+		"id": "imitation_22"
+	},
+	"description": "Ein spezielles Tachi, das sich den Super-Flow-Experimenten anpasst. Es ist in der Lage, die mentale Verfassung des Benutzers zu erkennen und erzeugt im richtigen Moment „Schwertschatten“, um im Kampf zu unterstützen.",
+	"icon": "item_Weapon_SSR_dkatana_Ice01",
+	"gachaIcon": "SSR_lh_bupoxiao",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "katana",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "dkatana_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Wutstrom",
+				"description": "Führt am Boden 5 Herzstrom-Angriffe aus.\r\nDer erste Angriff fügt dem Ziel Schaden in Höhe von **42.5%** des ANG +**255** zu und stößt es eine kurze Strecke zurück.\r\nDer zweite Angriff fügt dem Ziel Schaden in Höhe von **29.5%** des ANG +**177** zu und stößt es eine kurze Strecke zurück.\r\nDer dritte Angriff fügt dem Ziel Schaden in Höhe von **45%** des ANG +**270** zu und stößt es eine kurze Strecke zurück.\r\nDer vierte Angriff fügt dem Ziel Schaden in Höhe von **70.6%** des ANG +**424** zu und stößt es eine kurze Strecke zurück.\r\nDer fünfte Angriff fügt dem Ziel Schaden in Höhe von **102.6%** des ANG +**616** zu und schleudert es hoch.",
+				"icon": "skill_dkatana_melee",
+				"id": "GA_PlayerDkatanaMelee_Melee"
+			},
+			{
+				"name": "Luftteilung",
+				"description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **47.2%** des ANG +**283**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **43.7%** des ANG +**262**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **54.2%** des ANG +**325**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **76.9%** des ANG +**461**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **170.2%** des ANG +**1021**.",
+				"icon": "skill_dkatana_airattack",
+				"id": "GA_PlayerDkatanaMelee_AirAttack"
+			},
+			{
+				"name": "Aufgeregter Flow: Vortex",
+				"description": "Tippe und halte im „Aufgeregter Flow“-Modus den normalen Angriff, um die Fähigkeit auszulösen.\r\nSprinte mit einem wirbelnden Mehrfachangriff nach vorne und verursache dabei bis zu **199.5%** des ANG +**1197** Schaden.",
+				"icon": "skill_dkatana_branch1",
+				"id": "GA_PlayerDkatanaMelee_Branch1"
+			},
+			{
+				"name": "Stiller Flow: Barriere",
+				"description": "Halte im „Stiller Flow“-Modus den normalen Angriff sofort oder während du normale Angriffe ausführst, um die Fähigkeit auszulösen.\r\nHalte die Angriffstaste gedrückt, um „Das Unerwartete“ aufrechtzuerhalten. Lass die Taste los und verursache **127.3%** des ANG +**764** Schaden. Wirst du während des Angriffs selbst angegriffen, wird Schaden in Höhe von **20%** deiner max. LP geblockt.",
+				"icon": "skill_dkatana_branch2",
+				"id": "GA_PlayerDkatanaMelee_Branch2"
+			},
+			{
+				"name": "Frostfall",
+				"description": "Tippe und halte zum Auslösen den normalen Angriff, während du in der Luft bist oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt.\r\nVerursacht beim Fallen mit jedem Treffer Schaden in Höhe von **30.4%** des ANG +**182**. Fügt Zielen in der Nähe bei der Landung Schaden in Höhe von **76%** des ANG +**456** zu.",
+				"icon": "skill_dkatana_airjumpattack",
+				"id": "GA_PlayerDkatanaMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für **0,5** Sek. immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerDkatanaEvade_Evade"
+			},
+			{
+				"name": "Polarfront",
+				"description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff.\r\nSprinte los, drehe dich und greife das Ziel an, um Gesamtschaden in Höhe von **277%** des ANG +**1662** zu verursachen.",
+				"icon": "skill_dkatana_forwardevadeattack",
+				"id": "GA_FPlayerDkatanaEvade_ForwardAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Aufgeregter Flow: Rauschender Strom",
+				"description": "Sprinte auf das Ziel zu und mache Gegner entlang des Wegs vorübergehend bewegungsunfähig. Du verursachst dabei verzögerten Schaden in Höhe von bis zu **445.3%** des ANG +**2672**. Abklingzeit: **30** Sek.",
+				"icon": "skill_dkatana_skill1",
+				"id": "GA_FPlayerDkatanaSkill_Skill1"
+			},
+			{
+				"name": "Stiller Flow: Konzentrierter Strom",
+				"description": "Setzt die „Stiller Flow“-Fähigkeiten ein, um bis zu **3**Sek. lang aufzuladen und so Ziele in der Nähe kontinuierlich zu verspotten und Schaden in Höhe von bis zu **60%** der max. LP zu absorbieren. Am Ende des Aufladens wird Zielen Frostschaden in Höhe von **408%** des Frost-ANG + **50%** des absorbierten Schadens zugefügt. **20%** des nicht verbrauchten Werts wird in LP-Wiederherstellung umgewandelt. Abklingzeit: **30**Sek.\r\n\r\nWechselt zu „Stiller Flow“, wenn Standhaftigkeit-Resonanz aktiviert ist. **Aufgeregter Flow: Rauschender Strom** wird durch **Stiller Flow: Konzentrierter Strom** ersetzt. Wechselt zu „Aufgeregter Flow“, wenn Standhaftigkeit-Resonanz nicht aktiviert ist.\r\nDer Wanderer kann „Schwertschatten“ erlangen, der ihm folgt, wenn er Saki Fuwas Fähigkeiten einsetzt. Schwertschatten löst „Volt-Welle“ aus, wenn der Wanderer Saki Fuwas Varianten- oder Entladungsfähigkeiten einsetzt, und verursacht Flächenschaden in Höhe von **175%** des Frost-ANG. Abklingzeit von „Volt-Welle“: **10**Sek.\r\nWährend „Aufgeregter Flow“: Wenn der Wanderer mit einer beliebigen Waffe Schaden verursacht, löst „Schwertschatten“ „Flow“ aus, der dem ersten getroffenen Ziel Schaden in Höhe von **45%** des Frost-ANG zufügt und LP in Höhe von **57%** des Schadens wiederherstellt. Die maximale Wiederherstellung übersteigt jeweils nicht **100%** des ANG. Abklingzeit: **0,8**Sek.\r\nWährend „Stiller Flow“: Nachdem „Schwertschatten“ „Volt-Welle“ ausgelöst hat, erhält der Wanderer **10**Sek. lang **3**Blocks, deren maximale Blockkapazität höchstens **15%** der max. LP beträgt. Jeder erfolgreiche Block fügt dem Ziel Gegenangriffsschaden in Höhe von **225%** des Frost-ANG zu, und das Zertrümmern von „Volt-Welle“ erhöht sich um **100%** und erhält zusätzlich einen Verspottungseffekt.",
+				"icon": "skill_dkatana_skill2",
+				"id": "GA_FPlayerDkatanaSkill_Skill2"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Herzlotus",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Du sprintest außerdem mit einem Komboangriff auf das Ziel zu. Dies verursacht Schaden in Höhe von **590%** des ANG +**3216**.",
+				"icon": "skill_dkatana_changeskill",
+				"id": "GA_FPlayerDkatanaChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Frostresonanz**: Erhöht den Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "Wenn Frostresonanz aktiviert ist, werden pro **5** eingesetzter Waffenfähigkeiten jeweils die Abklingzeiten aller Waffenfähigkeiten zurückgesetzt. Außerdem wird der Schaden von Flow und Gegenangriff für **25** Sek. **1**-fach erhöht.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Aufgeregter Flow: Erhöht den Schaden des „Schwertschatten: Volt-Welle“ auf **350%** des Frost-ANG.\r\nStiller Flow: Die Abklingzeit des Schwertschattens „Volt-Welle“ beträgt jetzt **5** Sek.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Halte die Zeit an und löse „Trugbild“ aus, wenn „Volt-Welle“ das Ziel trifft. Teilt sich die Abklingzeit mit dem durch Ausweichen ausgelösten „Trugbild“.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		},
+		{
+			"description": "Treffer mit „Volt-Welle“ gegen ein Ziel erhöhen den Frostschaden für **15**Sek. um **11%**.\r\nDurch „Schwertschatten“ ausgelöste Blocks verringern den von gegnerischen Zielen in der Nähe verursachten Frostschaden für **12**Sek. um **25%**.",
+			"stats": {
+				"shatter": 13.9,
+				"charge": 8
+			},
+			"need": "Dkatana_ice_plasm"
+		}
+	],
+	"id": "dkatana_ice"
+}

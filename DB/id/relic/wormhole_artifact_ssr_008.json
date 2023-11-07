@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_008",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_023",
+	"advancement": [
+		{
+			"description": "Melenyapkan semua efek kontrol dan memberikan kekebalan terhadap efek kontrol selama **5** detik berikutnya. ",
+			"id": "artifact_adv_023"
+		},
+		{
+			"description": "Memperpanjang durasinya menjadi **25** detik.   ",
+			"id": "artifact_adv_023"
+		},
+		{
+			"description": "Setiap **5** detik, juga memberikan satu tumpuk Inspiration kepada Wanderer, yang meningkatkan DMG yang ditimpakan sebesar **5%** per tumpuk.",
+			"id": "artifact_adv_023"
+		},
+		{
+			"description": "Mengurangi Volt Damage yang diterima sebesar **2%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_023"
+		},
+		{
+			"description": "Selama Drone aktif, serangan Wanderer mengubah **20%** DMG yang ditimpakan menjadi HP.",
+			"id": "artifact_adv_023"
+		}
+	],
 	"id": "wormhole_artifact_ssr_008"
 }

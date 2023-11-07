@@ -1,0 +1,174 @@
+{
+	"name": "Flecha Helada",
+	"avatar": {
+		"name": "Tsubasa",
+		"advanceId": "imitation_7L1",
+		"weapon": "bow_ice",
+		"icon": "imitation_7",
+		"avatarID": "sifengyuanyu",
+		"age": "24 de marzo",
+		"height": "169cm",
+		"gender": "Femenino",
+		"state": "Herederos de Aida",
+		"city": "Astra",
+		"rating": "wuwei_imitation_7",
+		"gp": [
+			"garageKit",
+			"restrictedGoods",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 徐徐"
+			},
+			{
+				"Japanese": "CV : 小原 好美"
+			},
+			{
+				"English": "CV : Amber Lee Connors"
+			},
+			{
+				"Korean": "CV : 손선영"
+			},
+			{
+				"Portuguese": "CV : Tânia Gaidarji"
+			}
+		],
+		"id": "imitation_7"
+	},
+	"description": "Las flechas de este arco llevan el poder de la escarcha.",
+	"icon": "item_Weapon_SSR_Bow_Ice01",
+	"gachaIcon": "SSR_lh_Mg",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Bow",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "bow_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Reflejos Rápidos",
+				"description": "Mientras estás en el suelo, tira del arco repetidamente para atacar 5 veces.\r\nPrimer ataque: Inflige daño igual a **53.7%** del ATQ más **322**.\r\nSegundo ataque: Inflige daño igual a **48.1%** del ATQ más **288**.\r\nTercer ataque: Inflige daño igual a **86.5%** del ATQ más **519**.\r\nCuarto ataque: Inflige daño igual a **133.3%** del ATQ más **800**.\r\nQuinto ataque: Inflige daño igual a **123.8%** del ATQ más **743** y hace retroceder un poco al objetivo.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowMeleeNew_MeleeIce_SSR"
+			},
+			{
+				"name": "Flecha Cargada",
+				"description": "Pulsa y mantén pulsado el ataque normal para cargar un ataque. Inflige daño base igual a **96.6%** del ATQ más **580**, y **50%** más por cada **1**seg de carga, hasta **3**seg. Inflige el doble de daño al hacer un tiro en la cabeza o al golpear el punto débil de un enemigo, y derriba al objetivo (los tiros en la cabeza no son efectivos contra los nómadas).",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_PowerAttackIce_SSR"
+			},
+			{
+				"name": "Lluvia de Flechas",
+				"description": "Después de cualquier ataque normal, mantén pulsado el botón de ataque normal para desatar Lluvia de Flechas que inflige hasta el **315.9%** del ATQ más **1895** de daño de área a los objetivos.",
+				"icon": "skill_bow_changeskill",
+				"id": "GA_FPlayerBowMeleeNew_BranchIce_SSR"
+			},
+			{
+				"name": "Descarga Aérea",
+				"description": "Mientras estás en el aire, utiliza el ataque normal para atacar 4 veces seguidas en el aire.\r\nPrimer ataque: Inflige daño igual a **61.9%** del ATQ más **372**.\r\nSegundo ataque: Inflige daño igual a **81.4%** del ATQ más **488**.\r\nTercer ataque: Inflige daño igual a **124%** del ATQ más **744**.\r\nCuarto ataque: Inflige daño igual a **186.8%** del ATQ más **1121**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowMeleeNew_AirAttackIce_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Enfriamiento: 15seg. Te vuelves inmune a la conmoción mientras evades durante **0.5**seg.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerBowEvadeNew_EvadeIce_SSR"
+			},
+			{
+				"name": "Flecha Equipada",
+				"description": "Pulsa el ataque tras evadir para activar una Flecha Equipada, lo que **hace retroceder al objetivo** e inflige daño igual a **136.4%** del ATQ más **818**.",
+				"icon": "skill_bow_power",
+				"id": "GA_FPlayerBowEvadeNew_FrontAttackIce_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "Disparo Perforante",
+				"description": "Realiza una voltereta hacia atrás y **3** disparos perforantes, el principal inflige daño igual a **284.1%** del ATQ más **1705**, y los otros dos infligen un 60% de daño. Además, **hace retroceder a los objetivos** y los aturde durante **5**seg si chocan con un obstáculo. Enfriamiento: **12**seg.",
+				"icon": "bow_skill",
+				"id": "GA_FPlayerBowSkillIce_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Ráfaga Explosiva",
+				"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** y crea una tormenta de granizo en la ubicación objetivo, lo que inflige daño igual a **655.5%** del ATQ más **3933**. La tormenta tiene una probabilidad de **10%** de **congelar con fuerza** al objetivo por **2**seg. Obtienes Frente Frío y aumenta tu velocidad un **45%** por **7**seg.",
+				"icon": "skill_artifact11_1",
+				"id": "GA_FPlayerBowChangeSkill_SuccessIce_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Otorga una acumulación de Flecha Aguda cada vez que una flecha disparada durante un ataque de evasión golpea a un enemigo. Cada acumulación aumenta el daño en un **5%** por **15** segundos. Se acumula hasta **3** veces.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Iniciar un ataque al evadir lanza **3** flechas cargadas.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Duplica la duración de Lluvia de Flechas y ralentiza a los objetivos un **25%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		},
+		{
+			"description": "Flecha Aguda se acumula hasta **5** veces. Golpear a un objetivo con una Flecha Cargada inmediatamente otorga **3** acumulaciones, y los tiros en la cabeza otorgan **5** acumulaciones.",
+			"stats": {
+				"shatter": 4,
+				"charge": 11.5
+			},
+			"need": "bow_ice_plasm"
+		}
+	],
+	"id": "bow_ice"
+}

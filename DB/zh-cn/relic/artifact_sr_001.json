@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_001",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_018",
+	"advancement": [
+		{
+			"description": "浮游冰炮持续**24**秒   ",
+			"id": "artifact_adv_018"
+		},
+		{
+			"description": "获得新技能：**激光阵**，连续伤害目标**4**次可冰冻目标，对目标造成最多**93.2%***攻击力伤害",
+			"id": "artifact_adv_018"
+		},
+		{
+			"description": "冷却时间缩短至**150**秒     ",
+			"id": "artifact_adv_018"
+		},
+		{
+			"description": "增加**1.5%**寒冰伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_018"
+		},
+		{
+			"description": "获得新技能：**冲击**，对目标造成**55.9%***攻击力伤害，并强控眩晕目标**0.5**秒",
+			"id": "artifact_adv_018"
+		}
+	],
 	"id": "artifact_sr_001"
 }

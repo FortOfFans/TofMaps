@@ -1,0 +1,181 @@
+{
+	"name": "Zéro absolu",
+	"avatar": {
+		"name": "Cocoritter",
+		"advanceId": "imitation_11L1",
+		"weapon": "stave_ice",
+		"icon": "imitation_11",
+		"avatarID": "kekelite",
+		"age": "1er juin",
+		"height": "147cm",
+		"gender": "Féminin",
+		"state": "Service médical d'Hykros",
+		"city": "Hykros",
+		"rating": "wuwei_imitation_11",
+		"gp": [
+			"toy",
+			"decorate",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 胡婷婷"
+			},
+			{
+				"Japanese": "CV : 鬼頭 明里"
+			},
+			{
+				"English": "CV : Lexi Fontaine"
+			},
+			{
+				"Korean": "CV : 강시현"
+			},
+			{
+				"Portuguese": "CV : Mari Guedes"
+			}
+		],
+		"id": "imitation_11"
+	},
+	"description": "Maintient un froid constant pour soigner les alliés.",
+	"icon": "item_Weapon_SSR_Stave_Ice01",
+	"gachaIcon": "SSR_lh_mtzz",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Staves",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "stave_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Attaque normale",
+				"description": "Lorsque vous êtes au sol, brandissez le bâton pour attaquer 5fois de suite.\r\nPremière attaque: vous infligez des dégâts correspondant à **59.8%** de l'ATQ + **359**.\r\nDeuxième attaque: vous infligez des dégâts correspondant à **44.9%** de l'ATQ + **270**.\r\nTroisième attaque: vous infligez des dégâts correspondant à **72.2%** de l'ATQ + **433**.\r\nQuatrième attaque: vous infligez des dégâts correspondant à **98.7%** de l'ATQ + **592**.\r\nCinquième attaque: vous infligez des dégâts correspondant à **174.2%** de l'ATQ + **1045**.",
+				"icon": "pugong_staves",
+				"id": "GA_FPlayerStavesMelee_Melee_SSR"
+			},
+			{
+				"name": "Barrage aérien",
+				"description": "Lorsque vous êtes dans les airs ou après avoir sauté une fois, utilisez l'attaque normale pour attaquer 5fois de suite.\r\nPremière attaque: inflige des dégâts équivalant à **77.6%** de l'ATQ + **465**.\r\nDeuxième attaque: inflige des dégâts équivalant à **55.9%** de l'ATQ + **336**.\r\nTroisième attaque: inflige des dégâts équivalant à **60.6%** de l'ATQ + **364**.\r\nQuatrième attaque: inflige des dégâts équivalant à **109%** de l'ATQ + **655**.\r\nCinquième attaque: inflige des dégâts équivalant à **113.5%** de l'ATQ + **681**.",
+				"icon": "skill_staves_air",
+				"id": "GA_FPlayerStavesMelee_AirAttack_SSR"
+			},
+			{
+				"name": "Tombelune",
+				"description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs pour déclencher Tombelune.\r\nÀ l'atterrissage, vous infligez des dégâts toutes les **0,2**seconde, pour un total de dégâts correspondant à **136.2%** de l'ATQ + **817**.",
+				"icon": "skill_staves_jump",
+				"id": "GA_FPlayerStavesMelee_JumpAttack_SSR"
+			},
+			{
+				"name": "Attaque concentrée",
+				"description": "Après la troisième attaque normale, maintenez Attaque normale pour déclencher des attaques ramifiées, consommant **300**points d'endurance.\r\nPremière attaque: attire les ennemis devant l'utilisateur, les **suspendant** et leur infligeant des dégâts équivalant à **38.4%** de l'ATQ + **230** chaque **0,3**seconde (jusqu'à **4**fois).\r\nDeuxième attaque: inflige des dégâts équivalant à **44.4%** de l'ATQ + **266** à l'emplacement ciblé et aux ennemis proches chaque **0,3**seconde.",
+				"icon": "skill_staves_branch",
+				"id": "GA_FPlayerStavesMelee_Branch_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. Temps de recharge : 15 secondes. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerStavesEvade_Evade_SSR"
+			},
+			{
+				"name": "Déferlement",
+				"description": "Utilisez l'attaque normale pendant la courte fenêtre d'esquive parfaite (utilisez un bouton directionnel avant d'esquiver) pour déclencher Déferlement.\r\nChaque impulsion d'énergie inflige aux cibles des dégâts équivalant à **45.9%** de l'ATQ + **275**.\r\nConfère **75**points de recharge d'arme au moment de l'utilisation.",
+				"icon": "skill_staves_frontattack",
+				"id": "GA_FPlayerStavesEvade_FrontAttack_SSR"
+			},
+			{
+				"name": "Tesseract",
+				"description": "Utilisez l'attaque normale rapidement après une esquive pour déclencher Explosion évasive.\r\nProjette un orbe d'énergie vers l'avant, infligeant des dégâts équivalant à **66.4%** de l'ATQ + **398** aux cibles sur sa trajectoire chaque **0,3**seconde (jusqu'à 5fois).\r\nConfère **75**points de recharge d'arme au moment de l'utilisation.",
+				"icon": "skill_staves_frontattack",
+				"id": "GA_FPlayerStavesEvade_BackAttack_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "Sanctuaire",
+				"description": "Vous créez une zone de soin qui se déplace avec l'Explorateur et procure aux alliés proches des soins correspondant à **95%** de l'ATQ + **570** toutes les **0,5**seconde pendant **6**secondes. Temps de recharge: **60**secondes.",
+				"icon": "staves_skill1",
+				"id": "GA_FPlayerStavesSkill_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Délivrance rapide",
+				"description": "Lorsque la **recharge d'arme** est pleine ou lorsque **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur** au moment où vous changez d'arme pour passer à celle-ci, et le bâton continue à éliminer les altérations sur l'Explorateur et ses alliés, tout en guérissant les Explorateurs proches et leurs alliés de **118.8%** de l'ATQ + **713**PV pendant **7**secondes.",
+				"icon": "skill_staves_changeskill",
+				"id": "GA_FPlayerStavesChangeSkill_Success_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Résonance de givre**: Accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. S'active en équipant au moins **2**armes de givre. Les effets du kit fonctionnent également dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.\r\n**Bénédiction de givre**: Lorsque Résonance de Bénédiction est activée, accroît l'ATQ de givre de toute l'équipe de **5%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Après avoir esquivé, invoque une abeille guérisseuse qui suit l'utilisateur et soigne l'allié avec le plus faible pourcentage de PV dans un rayon de **15** mètres. Soigne un nombre de PV équivalant à **25%** de l'ATQ et régénère **50** points de recharge d'arme à chaque fois. Dure **25**secondes. Temps de recharge: **25**secondes.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Augmente de **16%** la croissance de PV de base actuelle de l'arme.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Utilisez **Sanctuaire** ou des compétences de décharge pour supprimer les altérations des cibles. Peut être utilisé même si vous êtes affecté par des effets de contrôle. Augmente de **20%** la fracture et les dégâts infligés pour tous les membres du groupe à portée, et les immunise aux effets de contrôle et de fracture.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance de PV de base actuelle de l'arme.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Augmente de **15%** l'effet de guérison, + ** 20%** supplémentaires lorsque vous soignez des cibles à moins de **60%** de leurs PV.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Lorsqu'une abeille guérisseuse est invoquée ou disparaît du combat, soigne tous les alliés d'un nombre de PV égal à **100%** de l'ATQ de l'utilisateur. Tous les alliés dans un rayon de **10** mètres de l'abeille guérisseuse gagnent aussi un bonus de dégâts et de soin de **15%** (effet non cumulable).",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		}
+	],
+	"id": "stave_ice"
+}

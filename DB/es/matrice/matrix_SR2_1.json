@@ -1,0 +1,14 @@
+{
+	"name": "Apophis",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "De tamaño gigante, cada uno de sus movimientos produce grandes cambios.",
+	"icon": "icon_matrix_SR2_512",
+	"gachaIcon": "icon_matrix_SR2_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Inflige daño más alto cuando los PS están más bajos. Inflige daño máximo cuando los PS están en **20%**. Se puede aumentar el daño hasta un **20%**/25%/30%."
+		}
+	],
+	"id": "matrix_SR2_1"
+}

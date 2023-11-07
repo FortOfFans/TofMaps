@@ -6,5 +6,27 @@
 	"shortIcon": "artifact_ssr_014",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_038",
+	"advancement": [
+		{
+			"description": "Mengurangi ketersediaan setiap dadu menjadi **20** detik.",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "Peningkatan **Thermonuclear** DMG: Memperoleh **25%** Peningkatan DMG selama **45** detik.",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "Setelah melempar dadu, ada peluang **50%** mendapat 1 dadu. CD: **15** detik.",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "Meningkatkan Frost DMG sebesar **2%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "Melempar **3** dadu akan memberimu peningkatan semua DMG elemen. Jika total angka pada dadu adalah **14** atau lebih, dapatkan efek **Overclock**.",
+			"id": "artifact_adv_038"
+		}
+	],
 	"id": "artifact_ssr_014"
 }

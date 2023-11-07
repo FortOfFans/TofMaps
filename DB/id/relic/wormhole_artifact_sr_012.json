@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_012_card",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_031",
+	"advancement": [
+		{
+			"description": "Saat Perisai hancur, memperlambat penyerang dan musuh di sekitar sebesar **35%** selama **6** detik.",
+			"id": "artifact_adv_031"
+		},
+		{
+			"description": "Setelah Perisai hancur atau durasinya berakhir, meningkatkan Final DMG sesuai dengan jumlah persentase HP yang hilang. Ini berlangsung selama **10** detik. Meningkatkan DMG minimal **30%**.",
+			"id": "artifact_adv_031"
+		},
+		{
+			"description": "Setelah Perisai hancur atau durasinya berakhir, meningkatkan kecepatan sebesar **30%** selama **6** detik.",
+			"id": "artifact_adv_031"
+		},
+		{
+			"description": "Mengurangi Flame Damage yang diterima sebesar **1,5%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_031"
+		},
+		{
+			"description": "Saat Perisai hancur, mendapatkan efek DMG Reflection selama **5** detik yang memantulkan kembali **0,6**× DMG yang diterima kepada penyerang.",
+			"id": "artifact_adv_031"
+		}
+	],
 	"id": "wormhole_artifact_sr_012"
 }

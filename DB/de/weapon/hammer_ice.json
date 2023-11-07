@@ -1,0 +1,185 @@
+{
+	"name": "Die Breitseite",
+	"avatar": {
+		"name": "Ene",
+		"weapon": "hammer_ice",
+		"icon": "imitation_2",
+		"avatarID": "xi",
+		"age": "17. August",
+		"height": "145 cm",
+		"gender": "Weiblich",
+		"state": "Victoria Security",
+		"city": "Krone",
+		"rating": "wuwei_imitation_2",
+		"gp": [
+			"game",
+			"decorate",
+			"toy"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 王燕华"
+			},
+			{
+				"Japanese": "CV : 小清水 亜美"
+			},
+			{
+				"English": "CV : Melissa Fahn"
+			},
+			{
+				"Korean": "CV : 박리나"
+			},
+			{
+				"Portuguese": "CV : Amanda Tavares"
+			}
+		],
+		"id": "imitation_2"
+	},
+	"description": "Niemand will von diesem Vorschlaghammer eine volle Breitseite abbekommen.",
+	"icon": "item_Weapon_SR_Hammer_Ice01",
+	"gachaIcon": "SR_lh_cdzj",
+	"rarity": "SR",
+	"element": "Ice",
+	"weaponType": "Hammer",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_ice": 28,
+		"Item_Mine_ice_02": 42,
+		"Item_breakthrough_B2": 42,
+		"Item_breakthrough_C2": 42,
+		"Item_Mine_ice_03": 22,
+		"Item_breakthrough_B3": 22,
+		"Item_breakthrough_C3": 22,
+		"Item_breakthrough_B1": 25,
+		"Item_breakthrough_C1": 23
+	},
+	"advanceID": "hammer_ice_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Normaler Angriff",
+				"description": "Wenn der Anwender am Boden den Vorschlaghammer schwingt, kann er 4-mal hintereinander angreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **103%** des ANG +**618** und stößt das Ziel eine kurze Strecke zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **83.9%** des ANG +**503** und stößt das Ziel eine kurze Strecke zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **212.4%** des ANG +**1274** und stößt das Ziel eine kurze Strecke zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **356.2%** des ANG +**2137** und schleudert das Ziel hoch.\r\nWenn der Anwender den Hammer schwingt, während „Rage“ aktiv ist, kann er 4-mal hintereinander angreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **102%** des ANG +**612** und stößt das Ziel eine kurze Strecke zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **87.8%** des ANG +**527** und stößt das Ziel eine kurze Strecke zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **231.3%** des ANG +**1388** und stößt das Ziel eine kurze Strecke zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **425.7%** des ANG +**2554** und lässt das Ziel **länger schweben**.",
+				"icon": "pugong_hammer",
+				"id": "GA_FPlayerHammerMelee_Melee"
+			},
+			{
+				"name": "Stampfen",
+				"description": "Setze in der Luft oder nach einmaligem Springen einen normalen Angriff ein, um „Sprungbombe“ auszulösen. Verursacht Schaden in Höhe von **164.3%** des ANG +**986** und lässt das Ziel schweben.\r\nWährend „Rage“ aktiv ist, verursachst du Schaden in Höhe von **180.7%** des ANG +**1084** und lässt das Ziel **länger schweben**.\r\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu **600%**).",
+				"icon": "skill_hammer_air",
+				"id": "GA_FPlayerHammerMelee_AirAttack"
+			},
+			{
+				"name": "Schockwelle",
+				"description": "Eine Schockwelle wird ausgelöst durch Tippen und Halten in der Luft, bei einem Doppelsprung, durch kurzes Tippen in der Luft, wenn sich Ziele in der Nähe befinden, beim Klettern, beim Rückwärtsspringen oder durch Angriffe mit dem Jetpack. Lässt das Ziel **4**-mal **länger schweben** und verursacht jedes Mal Schaden in Höhe von **47%** des ANG +**282**. Ausdauerkosten **250**.\r\nWährend „Rage“ aktiv ist, lässt „Schockwelle“ das Ziel **5**-mal **länger schweben** und verursacht jedes Mal Schaden in Höhe von **51.7%** des *ANG +**310**.\r\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden. Der Höchstwert beträgt **600%** des Schadens.",
+				"icon": "skill_hammer_jump",
+				"id": "GA_FPlayerHammerMelee_JumpAttack"
+			},
+			{
+				"name": "Schleichattacke",
+				"description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von **427.5%** des ANG +**2565** verursacht.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerHammerMelee_Sneak"
+			},
+			{
+				"name": "Gezielter Aufprall",
+				"description": "Tippe und halte den normalen Angriff, um „Gezielter Aufprall“ auszulösen (kann bis zu 3-mal gestapelt werden). Gewährt während des Aufladens Immunität gegen alle Kontrolleffekte und „Hyperkörper“.\r\nErster Stapel: Verursacht Schaden in Höhe von **207.6%** des ANG +**1245** und lässt das Ziel schweben.\r\nZweiter Stapel: Verursacht Schaden in Höhe von **519.1%** des ANG +**3114** und lässt das Ziel **länger schweben**.\r\nDritter Stapel: Verursacht Schaden in Höhe von **973.2%** des ANG +**5839** und lässt das Ziel **länger schweben**.\r\nWährend „Rage“ aktiv ist, halte die normale Angriffstaste gedrückt, um „Rasende Schläge“ auszulösen. Dies verursacht Schaden in Höhe von **676.7%** des ANG +**4060** und lässt das Ziel **länger schweben**.",
+				"icon": "skill_hammer_jump-05",
+				"id": "GA_FPlayerHammerMelee_PowerAttack_OS"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Springender Aufprall",
+				"description": "Benutze die Pfeiltasten und die Ausweichen-Taste, um „Springender Aufprall“ auszulösen. Dadurch wird eine Schockwelle entfesselt, die den Gegner **4** Mal schweben lässt, um Schaden in Höhe von **218%** des ANG +**1308** zu verursachen.",
+				"icon": "skill_hammer_frontattack",
+				"id": "GA_FPlayerHammerEvade_FrontAttack"
+			},
+			{
+				"name": "Weltenspalter",
+				"description": "Tippe während des kurzen Zeitraums nach dem Ausweichen auf einen normalen Angriff, um „Weltenspalter“ auszulösen. Dadurch werden **3** Schockwellen nach vorne geschickt, die jeweils Schaden in Höhe von **70.8%** des ANG +**425** verursachen und Ziele schweben lassen.\r\nWährend „Rage“ aktiv ist, feuerst du **5** Schockwellen nach vorne, die jeweils Schaden in Höhe von **70.8%** des ANG +**425** verursachen und das Ziel schweben lassen.",
+				"icon": "skill_hammer_backattck",
+				"id": "GA_FPlayerHammerEvade_BackAttack"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Gegner in der Umgebung verlangsamt. Abklingzeit: 15 Sek. Gewährt für **0,5** Sek. Immunität gegen Trefferlähmung.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerHammerEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Rage",
+				"description": "Wechseln, um „Rage“ zu aktivieren und den verursachten Schaden **25** Sek. lang zu erhöhen.\r\nWährend „Rage“ aktiv ist, lösen Fähigkeiten „Zorn der Lüfte“ aus. Dies verursacht Schaden in Höhe von **295.2%** des ANG +**1771**, lässt das Ziel **länger schweben** und erzeugt einen Luftstrom auf dem Boden. Solange man im Luftstrom steht, kostet das Ausweichen nichts. Abklingzeit: **45** Sek. (Abklingzeit von „Zorn der Lüfte“: **10** Sek).",
+				"icon": "hammer_skill2",
+				"id": "GA_FPlayerHammerBigSkill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Zerfleischen",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe Ziele in der Nähe **länger schweben** gelassen und **alle Debuffs vom Wanderer entfernt**. Dies verursacht Schaden in Höhe von **206.9%** des ANG +**1241**. Außerdem wird ein Vorschlaghammer beschworen, der auf Ziele in der Nähe fällt und Schaden in Höhe von **206.9%** des ANG +**1241** verursacht.",
+				"icon": "skill_hammer_changeskill",
+				"id": "GA_FPlayerHammerChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "None"
+		},
+		{
+			"description": "Verspottet Ziele in der Nähe nach dem Wechsel zu dieser Waffe, verhindert innerhalb der nächsten **8** Sek. **1**-mal eingehenden Schaden und gewährt Hyperkörper für die nächsten **8** Sek. Abklingzeit: **15** Sek.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um **10%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Reduziert nach erlittenem Schaden für die nächsten **6** Sek. allen erlittenen Schaden um **50%**. Abklingzeit: **20** Sek.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um **20%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Normale Angriffe **betäuben** Ziele für **2,5** Sek. Abklingzeit: **20** Sek.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		},
+		{
+			"description": "Entladungsfähigkeiten fügen Zielen für **25** Sek. **10%** zusätzlichen Schaden zu und erhöhen den Frostschaden zusätzlich um **10%**.",
+			"stats": {
+				"shatter": 10,
+				"charge": 6
+			},
+			"need": "hammer_ice_plasm"
+		}
+	],
+	"id": "hammer_ice"
+}

@@ -1,0 +1,102 @@
+{
+	"name": "Frosted Spear",
+	"description": "A common weapon among residents of Warren Snowfield. Infused with frost to reflect the local flavor. It's very popular, because it's cheap yet highly effective.",
+	"icon": "item_Weapon_R_Spear_Ice01",
+	"gachaIcon": "Weapon_R_Spear_Ice01",
+	"rarity": "R",
+	"element": "Ice",
+	"weaponType": "Spear",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 15,
+		"Item_Mine_ice_02": 25,
+		"Item_breakthrough_A2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_ice_03": 14,
+		"Item_breakthrough_A3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_A1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "spear_ice_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Thrust",
+				"description": "While on the ground, swing the long spear to attack 5 times in a row.\r\nFirst Attack: Deal damage equal to **20.1%** of ATK plus **121** and knock the target back a short distance.\r\nSecond Attack: Deal damage equal to **18.5%** of ATK plus **111** and knock the target back a short distance.\r\nThird Attack: Deal damage equal to **38.5%** of ATK plus **231** and knock the target back a short distance.\r\nFourth Attack: Deal damage equal to **59.2%** of ATK plus **355** and knock the target back a short distance.\r\nFifth Attack: Deal damage equal to **93.8%** of ATK plus **563** and knock the target back a significant distance.",
+				"icon": "skill_spear_melee",
+				"id": "GA_FPlayerSpearMelee_Melee_R"
+			},
+			{
+				"name": "Jumping Strike",
+				"description": "While airborne, use normal attack to attack 4 times in a row in the air.\r\nFirst Attack: Deal damage equal to **22.3%** of ATK plus **134**.\r\nSecond Attack: Deal damage equal to **18.8%** of ATK plus **113**.\r\nThird Attack: Deal damage equal to **37.1%** of ATK plus **223**.\r\nFourth Attack: Deal damage equal to **89%** of ATK plus **534**.",
+				"icon": "skill_spear_air",
+				"id": "GA_FPlayerSpearMelee_AirAttack_R"
+			},
+			{
+				"name": "Crashing Drive",
+				"description": "Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Crashing Drive.\r\nWhile falling, deal damage equal to **6.4%** of ATK plus **38** each hit. Upon landing, deal damage equal to **39.3%** of ATK plus **236** and suspend the target.\r\nThe higher the altitude when triggering the attack, the greater the damage dealt, up to **600%** damage.",
+				"icon": "skill_spear_jump",
+				"id": "GA_FPlayerSpearMelee_JumpAttack_R"
+			},
+			{
+				"name": "Spear Flurry",
+				"description": "After the third normal attack, hold the normal attack button to trigger Spear Flurry.\r\nUpon hit, **strongly suspend** the target, dealing damage equal to **39.8%** of ATK plus **239**. Tap again to continue attacking the airborne target, dealing up to **79.5%** of ATK plus **477** damage to a single target.",
+				"icon": "skill_spear_branch",
+				"id": "GA_FPlayerSpearMelee_Branch_R"
+			},
+			{
+				"name": "Sneak Attack",
+				"description": "Thrust the long spear forward, dealing damage equal to **256.5%** of ATK plus **1539**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSpearMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Flying Kick",
+				"description": "Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Flying Kick.\r\nOnce hit the target, deal damage equal to **58.2%** of ATK plus **349**, knock the enemies back significantly, and **stun** enemies for **1** second or **0.5** seconds to Wanderers.",
+				"icon": "skill_spear_frontattack",
+				"id": "GA_FPlayerSpearEvade_FrontAttack_R"
+			},
+			{
+				"name": "Lunging Smash",
+				"description": "Use normal attack during the short period after dodging to trigger Lunging Smash.\r\nSlam the long spear into the ground, dealing damage equal to **42.8%** of ATK plus **257** and **strongly suspending** targets.",
+				"icon": "skill_spear_backattck",
+				"id": "GA_FPlayerSpearEvade_BackAttack_R"
+			},
+			{
+				"name": "Dodge",
+				"description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun while dodging for **0.5** seconds.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSpearEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Moonchaser",
+				"description": "**Strongly suspend** targets and go airborne, dealing damage equal to **103.1%** of ATK plus **619**. Cooldown: **25** seconds.",
+				"icon": "spear_skill1",
+				"id": "GA_FPlayerSpearSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Spear Dance",
+				"description": "When **weapon charge** is full or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer** and grab the target and shake them multiple times, dealing damage equal to **205.4%** of ATK plus **1232**. The last hit **strongly suspends** the target.",
+				"icon": "skill_spear_changeskill",
+				"id": "GA_FPlayerSpearChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6.9,
+				"charge": 5.6
+			},
+			"need": "None"
+		}
+	],
+	"id": "spear_ice"
+}

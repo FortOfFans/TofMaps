@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_001",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_030",
+	"advancement": [
+		{
+			"description": "Dispara **2** mísseis a cada ataque, causando dano ao alvo. Cada míssil causa dano de **34,8%** do ATQ.",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "Reduz o tempo de recarga para **200** segundos.     ",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "Dispara **4** mísseis a cada ataque, causando dano ao alvo. Cada míssil causa dano de **34,8%** do ATQ.",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "Reduz o dano físico sofrido em **2%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "O Braço Colossal dura **30** segundos. Todo dano sofrido durante esse período é reduzido em **20%**.",
+			"id": "artifact_adv_030"
+		}
+	],
 	"id": "wormhole_artifact_ssr_001"
 }

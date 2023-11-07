@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_001",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_030",
+	"advancement": [
+		{
+			"description": "攻撃のたびに**2**発のミサイルを発射し、ターゲットにダメージを与える。ミサイルは**34.8%**のダメージを付与する",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "クールダウンが**200**秒に短縮",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "攻撃のたびに**4**発のミサイルを発射し、ターゲットにダメージを与えます。ミサイルは**34.8%**のダメージを与えます",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "物理被ダメージ-**2%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "ジャイアントアームが**30**秒間持続。持続中、全ての被ダメージ‐**20%**",
+			"id": "artifact_adv_030"
+		}
+	],
 	"id": "wormhole_artifact_ssr_001"
 }

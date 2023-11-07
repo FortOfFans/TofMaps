@@ -1,0 +1,181 @@
+{
+	"name": "Cero Absoluto",
+	"avatar": {
+		"name": "Cocoritter",
+		"advanceId": "imitation_11L1",
+		"weapon": "stave_ice",
+		"icon": "imitation_11",
+		"avatarID": "kekelite",
+		"age": "1 de junio",
+		"height": "147 cm",
+		"gender": "Femenino",
+		"state": "Departamento Médico de Hykros",
+		"city": "Hykros",
+		"rating": "wuwei_imitation_11",
+		"gp": [
+			"toy",
+			"decorate",
+			"Rarity"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 胡婷婷"
+			},
+			{
+				"Japanese": "CV : 鬼頭 明里"
+			},
+			{
+				"English": "CV : Lexi Fontaine"
+			},
+			{
+				"Korean": "CV : 강시현"
+			},
+			{
+				"Portuguese": "CV : Mari Guedes"
+			}
+		],
+		"id": "imitation_11"
+	},
+	"description": "Mantiene la temperatura baja para curar aliados.",
+	"icon": "item_Weapon_SSR_Stave_Ice01",
+	"gachaIcon": "SSR_lh_mtzz",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "Staves",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "stave_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Ataque normal",
+				"description": "Mientras estás en el suelo, blande el bastón para atacar 5 veces seguidas.\r\nPrimer ataque: Inflige daño igual a **59.8%** del ATQ más **359**.\r\nSegundo ataque: Inflige daño igual a **44.9%** del ATQ más **270**.\r\nTercer ataque: Inflige daño igual a **72.2%** del ATQ más **433**.\r\nCuarto ataque: Inflige daño igual a **98.7%** del ATQ más **592**.\r\nQuinto ataque: Inflige daño igual a **174.2%** del ATQ más **1045**.",
+				"icon": "pugong_staves",
+				"id": "GA_FPlayerStavesMelee_Melee_SSR"
+			},
+			{
+				"name": "Ráfaga Elevada",
+				"description": "Mientras estás en el aire o después de saltar una vez, utiliza el ataque normal para atacar 5 veces seguidas en el aire.\r\nPrimer ataque: Inflige daño igual a **77.6%** del ATQ más **465**.\r\nSegundo ataque: Inflige daño igual a **55.9%** del ATQ más **336**.\r\nTercer ataque: Inflige daño igual a **60.6%** del ATQ más **364**.\r\nCuarto ataque: Inflige daño igual a **109%** del ATQ más **655**.\r\nQuinto ataque: Inflige daño igual a **113.5%** del ATQ más **681**.",
+				"icon": "skill_staves_air",
+				"id": "GA_FPlayerStavesMelee_AirAttack_SSR"
+			},
+			{
+				"name": "Cascada Lunar",
+				"description": "Mantén pulsado el ataque normal en el aire para activar Cascada Lunar.\r\nAl aterrizar, inflige daño una vez cada **0.2**seg, por un total de daño equivalente al **136.2%** del ATQ más **817**.",
+				"icon": "skill_staves_jump",
+				"id": "GA_FPlayerStavesMelee_JumpAttack_SSR"
+			},
+			{
+				"name": "Asalto Enfocado",
+				"description": "Después del tercer ataque normal, mantén pulsado el botón de ataque normal para activar los ataques divergentes, lo que consume **300** puntos de resistencia.\r\nPrimer ataque: Atrae a los enemigos frente al usuario, los **suspende fuerte** e inflige daño igual a **38.4%** del ATQ más **230** cada **0.3**seg (hasta **4** veces).\r\nSegundo ataque: Inflige daño igual a **44.4%** del ATQ más **266** en la ubicación objetivo y a los enemigos cercanos cada **0.3**seg.",
+				"icon": "skill_staves_branch",
+				"id": "GA_FPlayerStavesMelee_Branch_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Enfriamiento: 15seg. Te vuelves inmune a la conmoción mientras evades durante **0.5**seg.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerStavesEvade_Evade_SSR"
+			},
+			{
+				"name": "Sobrecarga",
+				"description": "Usa tu ataque normal durante la breve oportunidad de evasión perfecta (pulsa un botón de dirección antes de evadir) para activar Sobrecarga.\r\nCada pulso de energía inflige daño igual a un **45.9%** del ATQ más **275** a los objetivos.\r\nObtienes **75** puntos de carga de arma al usarlo.",
+				"icon": "skill_staves_frontattack",
+				"id": "GA_FPlayerStavesEvade_FrontAttack_SSR"
+			},
+			{
+				"name": "Teseracto",
+				"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Explosión evasiva.\r\nDispara un orbe de energía hacia adelante, lo que inflige daño igual a **66.4%** del ATQ más **398** a los objetivos en el camino cada **0.3**seg (hasta 5 veces).\r\nOtorga **75** puntos de carga de arma al usarse.",
+				"icon": "skill_staves_frontattack",
+				"id": "GA_FPlayerStavesEvade_BackAttack_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "Santuario",
+				"description": "Crea una zona de curación que se mueve con el nómada y cura a los aliados cercanos el equivalente al **95%** del ATQ más **570** una vez cada **0.5**seg durante **6**seg. **60**seg de enfriamiento.",
+				"icon": "staves_skill1",
+				"id": "GA_FPlayerStavesSkill_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Liberación Rápida",
+				"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada**; además, el bastón seguirá eliminando desventajas de nómadas y aliados, además de curar a los nómadas cercanos y a las camaradas por **118.8%** del ATQ más **713** PS por **7**seg.",
+				"icon": "skill_staves_changeskill",
+				"id": "GA_FPlayerStavesChangeSkill_Success_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia de Escarcha**: Aumenta el ATQ de escarcha un **15%** y la resistencia a la escarcha un **25%**. Se activa equipando **2** o más armas de escarcha. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.\r\n**Sacramento de Escarcha**: Aumenta el ATQ de escarcha de todo el equipo un **5%** cuando Resonancia de Sacramento está activa.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Tras evadir, invoca una abeja de curación que sigue al usuario y cura al aliado con el porcentaje más bajo de PS en un radio de **15** metros. Cura un **25%** del ATQ y restaura **50** puntos de carga de arma cada vez, dura **25**seg. Enfriamiento: **25**seg.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de los PS base del arma actual en un **16%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Usa **Santuario** o habilidades de descarga para quitar desventajas a los objetivos. Se puede usar bajo efectos de control. Aumenta la destrucción y el daño infligido por todos los compañeros de grupo dentro del rango en un **20%**, y les otorga inmunidad a los efectos de control y destrucción.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de los PS base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Aumenta el efecto de curación en un **15%** más un **20%** adicional al curar objetivos que tengan menos del **60%** de sus PS.",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		},
+		{
+			"description": "Siempre que una abeja de curación se invoque o desaparezca de la batalla, cura a todos los aliados por el **100%** del ATQ del usuario. Todos los aliados en **10** metros a la redonda de la abeja de curación también ganan un **15%** de refuerzo de daño y curación (no se puede acumular).",
+			"stats": {
+				"shatter": 4,
+				"charge": 12.5
+			},
+			"need": "stave_ice_plasm"
+		}
+	],
+	"id": "stave_ice"
+}

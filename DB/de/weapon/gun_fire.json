@@ -1,0 +1,181 @@
+{
+	"name": "Flammenchaos",
+	"avatar": {
+		"name": "Cobalt-B ",
+		"advanceId": "imitation_10L1",
+		"weapon": "gun_fire",
+		"icon": "imitation_10",
+		"avatarID": "gulan",
+		"age": "26. Juni",
+		"height": "157 cm",
+		"gender": "Weiblich",
+		"state": "Banges-Technik",
+		"city": "Krone",
+		"rating": "wuwei_imitation_10",
+		"gp": [
+			"metal",
+			"collection",
+			"restrictedGoods"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈睿婕"
+			},
+			{
+				"Japanese": "CV : 川澄 綾子"
+			},
+			{
+				"English": "CV : Stephanie Kerbis"
+			},
+			{
+				"Korean": "CV : 김예림"
+			},
+			{
+				"Portuguese": "CV : Jussara Marques"
+			}
+		],
+		"id": "imitation_10"
+	},
+	"description": "Wurde von einem verrückten Wissenschaftler erfunden. Die Testergebnisse waren bereits sehr beeindruckend. Man mag sich gar nicht vorstellen, was die Waffe bei voller Leistung schafft.",
+	"icon": "item_Weapon_SSR_Gun_Fire01",
+	"gachaIcon": "SSR_lh_zl",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Gun",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "gun_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Normaler Angriff",
+				"description": "Verwende auf dem Boden normale Angriffe, um 5-mal hintereinander anzugreifen.\r\nDer erste Angriff verursacht Schaden in Höhe von **52.3%** des ANG +**314**.\r\nDer zweite Angriff verursacht Schaden in Höhe von **75.6%** des ANG +**454**.\r\nDer dritte Angriff verursacht Schaden in Höhe von **94.5%** des ANG +**567**.\r\nDer vierte Angriff verursacht Schaden in Höhe von **142.8%** des ANG +**857**.\r\nDer fünfte Angriff verursacht Schaden in Höhe von **137.8%** des ANG +**827**.",
+				"icon": "pugong_gun",
+				"id": "GA_FPlayerGunMelee_New_Melee"
+			},
+			{
+				"name": "Aufgeladener Schuss",
+				"description": "Tippe und halte den normalen Angriff, um einen Angriff aufzuladen, und lasse sie los, um zu schießen. Dies verursacht Schaden in Höhe von **95.4%** des ANG +**572** und 3 Sek. später (oder wenn das Ziel stirbt) eine Explosion, die Gegnern in der Nähe Schaden in Höhe von **23.9%** des ANG zufügt. Jedes Mal, wenn das Ziel während der Explosion Schaden erleidet, werden der Wirkungsbereich verdoppelt und der Schaden erhöht (bis zu **4**-mal).",
+				"icon": "skill_gun_power",
+				"id": "GA_FPlayerGunMelee_New_PowerAttack"
+			},
+			{
+				"name": "Sprungbombe",
+				"description": "Zünde in der Luft oder nach einem Sprung „Sprungbombe“.\r\nWirft eine Bombe, die Gegnern in einem Kreis vor dem Anwender Schaden in Höhe von **90.8%** des ANG +**545** zufügt und sie eine kurze Strecke zurückstößt. Verbraucht **250** Ausdauer.",
+				"icon": "skill_gun_jump",
+				"id": "GA_FPlayerGunMelee_New_JumpAttack"
+			},
+			{
+				"name": "Luftsprengung",
+				"description": "Zünde nach einem Doppelsprung eine Luftsprengung in der Luft.\r\nSchieße einen Omnium-Strahl nach unten. Der Strahl schwingt dann nach vorne und verursacht Schaden in Höhe von **33.8%** des ANG + **203**.",
+				"icon": "skill_gun_air",
+				"id": "GA_FPlayerGunMelee_New_AirAttack"
+			},
+			{
+				"name": "Schweres Sperrfeuer",
+				"description": "Halte die Angriffstaste während eines normalen Angriffs gedrückt, um „Suppressionsfeuer“ nach vorne zu entfesseln. Fügt Gegnern Flächenschaden in Höhe von insgesamt **102%** des ANG + **612** zu.",
+				"icon": "skill_gun_branch",
+				"id": "GA_FPlayerGunMelee_New_Branch"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Gegner in der Umgebung verlangsamt. Abklingzeit: 15 Sek. Gewährt für **0,5** Sek. Immunität gegen Trefferlähmung.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerGunEvade_New_Evade"
+			},
+			{
+				"name": "Nahkampf",
+				"description": "Verwende den normalen Angriff direkt nach dem Ausweichen, um „Nahkampf“ auszulösen.\r\nVerursacht Schaden in Höhe von **156.1%** des ANG + **937** an Zielen in einem frontalen Kegelbereich.",
+				"icon": "skill_gun_frontattack",
+				"id": "GA_FPlayerGunEvade_New_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Sperrfeuer",
+				"description": "Verursacht kontinuierlich in einem frontalen Kegelbereich Schaden in Höhe von **705.1%** des ANG + **4231**. Abklingzeit: **60** Sek.",
+				"icon": "gun_skill",
+				"id": "GA_FPlayerGunSkill_New"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Feuerregen",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und **3** Granaten nach vorne gefeuert. Dies verursacht insgesamt Flächenschaden in Höhe von **570%** des ANG +**3420** und **schleudert** das Ziel hoch.",
+				"icon": "skill_gun_changeskill",
+				"id": "GA_FPlayerGunChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Flammenresonanz**: Erhöht Flammen-ANG um **15%** und Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "None"
+		},
+		{
+			"description": "Jede Runde Sperrfeuer fügt zusätzlichen Schaden in Höhe von **0%** der aktuellen LP des Ziels zu. Kann max. **1%** des ANG betragen.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "Die Variantenfähigkeit „Schweres Sperrfeuer“ und der Ausweichangriff „Nahkampf“ verursachen **Ionenversengung** bei Zielen, die bereits verbrannt wurden, und fügen ihnen für **10** Sek. pro Sek. Flammenschaden in Höhe von **40%** des ANG zu.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "Der von **Ionenversengung** verursachte Schaden wird auf **60%** des ANG erhöht. Erfolgreiche Angriffe mit der Ausweichfähigkeit einer beliebigen Waffe setzen die Dauer von **Ionenversengung** zurück.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		},
+		{
+			"description": "**Sperrfeuer** verfügt über einen **15** Sek. anhaltenden Verbrenneneffekt. Erfolgreiche Angriffe mit den Ausweichfähigkeiten von Waffen verringern die Abklingzeit von **Sperrfeuer** um **4** Sek. Abklingzeit dieses Effekts: **1,5** Sek. Der DoT durch Verbrennungen der Ausweichfähigkeiten löst ebenfalls einen Effekt für Abklingzeitverringerung aus.",
+			"stats": {
+				"shatter": 12.5,
+				"charge": 10
+			},
+			"need": "gun_fire_plasm"
+		}
+	],
+	"id": "gun_fire"
+}

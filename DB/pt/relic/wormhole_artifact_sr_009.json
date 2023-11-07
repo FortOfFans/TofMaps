@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_009",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_010",
+	"advancement": [
+		{
+			"description": "O estado quântico dura **20** segundos.         ",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "Reduz o tempo de recarga para **80** segundos.          ",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "Aumenta o dano em **100%** durante o estado quântico. Vale apenas para **1** ataque bem-sucedido.",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "Aumenta o dano elétrico em **1,5%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+			"id": "artifact_adv_010"
+		},
+		{
+			"description": "Aumenta o dano em **100%** durante o estado quântico. Vale apenas para **3** ataques bem-sucedidos.",
+			"id": "artifact_adv_010"
+		}
+	],
 	"id": "wormhole_artifact_sr_009"
 }

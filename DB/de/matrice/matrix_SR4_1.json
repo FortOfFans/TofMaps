@@ -1,0 +1,14 @@
+{
+	"name": "Sobek",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Pass auf, dass es dich nicht in den Sumpf zieht.",
+	"icon": "icon_matrix_SR4_512",
+	"gachaIcon": "icon_matrix_SR4_512",
+	"rarity": "SR",
+	"set": [
+		{
+			"2": "Erhöht den verursachten Schaden für jeden Gegner in der Nähe um **6%**/7,5%/9%. Der Effekt kann bis zu bis zu 3-mal gestapelt werden."
+		}
+	],
+	"id": "matrix_SR4_1"
+}

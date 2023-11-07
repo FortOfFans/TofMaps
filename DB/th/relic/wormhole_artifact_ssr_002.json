@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_002",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_029",
+	"advancement": [
+		{
+			"description": "ทำให้ศัตรูที่ทะลุผ่านโล่\r\nเข้ามาช้าลง **50%**\r\nเป็นเวลา **2** วินาที",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "ลดเวลาคูลดาวน์เหลือ **60** วินาที  ",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "เพิ่มระยะเวลาเป็น **20** วินาที",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "ลดดาเมจน้ำแข็งที่ได้รับ **2%** แม้ว่าจะไม่ได้ใช้งานก็ตาม ใช้ในลีกแข่งยอดฝีมือไม่ได้",
+			"id": "artifact_adv_029"
+		},
+		{
+			"description": "เมื่อผู้เพนจรหรือพันธมิตรผ่านโล่ออมเนียมเข้ามา ดาเมจที่สร้างจะเพิ่มขึ้น **25%** เป็นเวลา **7** วินาที",
+			"id": "artifact_adv_029"
+		}
+	],
 	"id": "wormhole_artifact_ssr_002"
 }

@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_019",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_043",
+	"advancement": [
+		{
+			"description": "疾风神行持续时间提升至**30**秒",
+			"id": "artifact_adv_043"
+		},
+		{
+			"description": "疾风神行状态下地面与墙面移动速度提升**15%**，跳跃高度增加",
+			"id": "artifact_adv_043"
+		},
+		{
+			"description": "疾行履可积攒**2**次充能使用",
+			"id": "artifact_adv_043"
+		},
+		{
+			"description": "降低**2%**受到的物理伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_043"
+		},
+		{
+			"description": "疾风神行持续期间，空中攻击命中恢复闪避次数，使用闪避恢复所有耐力",
+			"id": "artifact_adv_043"
+		}
+	],
 	"id": "artifact_ssr_019"
 }

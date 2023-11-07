@@ -1,0 +1,90 @@
+{
+	"name": "Lame EM",
+	"description": "Le tout premier projet d'omnium électromagnétique. Cette lame est facile à manier, et est très appréciée des Explorateurs qui ne sont pas de très grands combattants.",
+	"icon": "item_Weapon_R_Sword_Thunder01",
+	"gachaIcon": "Weapon_R_Sword_Thunder01",
+	"rarity": "R",
+	"element": "Thunder",
+	"weaponType": "Sword",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 15,
+		"Item_Mine_thunder_02": 25,
+		"Item_breakthrough_B2": 25,
+		"Item_breakthrough_D2": 25,
+		"Item_Mine_thunder_03": 14,
+		"Item_breakthrough_B3": 14,
+		"Item_breakthrough_D3": 14,
+		"Item_breakthrough_B1": 13,
+		"Item_breakthrough_D1": 12
+	},
+	"advanceID": "sword_thunder_r_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Taillade rapide",
+				"description": "Lorsque vous êtes au sol, attaquez 5fois de suite avec la lame.\r\nPremière attaque: vous infligez des dégâts correspondant à **34.6%** de l'ATQ + **208**, et repoussez la cible sur une courte distance.\r\nDeuxième attaque: vous infligez des dégâts correspondant à **30.1%** de l'ATQ + **181**, et repoussez la cible sur une courte distance.\r\nTroisième attaque: vous infligez des dégâts correspondant à **27.4%** de l'ATQ + **164**, et repoussez la cible sur une courte distance.\r\nQuatrième attaque: vous infligez des dégâts correspondant à **47.9%** de l'ATQ + **287**, et repoussez la cible sur une courte distance.\r\nCinquième attaque: vous infligez des dégâts correspondant à **72.2%** de l'ATQ + **433**, et **projetez** la cible.",
+				"icon": "skill_sword_melee",
+				"id": "GA_FPlayerSwordMelee_Melee_R"
+			},
+			{
+				"name": "Coup sauté",
+				"description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 4fois de suite.\r\nPremière attaque: inflige des dégâts correspondant à **15.7%** de l'ATQ + **94**.\r\nDeuxième attaque: inflige des dégâts correspondant à **25.3%** de l'ATQ + **152**.\r\nTroisième attaque: inflige des dégâts correspondant à **45.1%** de l'ATQ + **271**.\r\nQuatrième attaque: inflige des dégâts correspondant à **67.4%** de l'ATQ + **404**, ainsi qu'un **renversement**.",
+				"icon": "skill_sword_air",
+				"id": "GA_FPlayerSwordMelee_AirAttack_R"
+			},
+			{
+				"name": "de mer-sable",
+				"description": "Pressez et maintenez appuyé le bouton d'attaque normale après des attaques normales pour déclencher Cyclone.\r\nLorsque vous touchez la cible, vous la suspendez et infligez des dégâts équivalant à **22.3%** de l'ATQ + **134** à une seule cible.",
+				"icon": "skill_sword_branch",
+				"id": "GA_FPlayerSwordMelee_Branch_R"
+			},
+			{
+				"name": "Lame plongeante",
+				"description": "Appuyez et maintenez Attaque normale lorsque vous êtes dans les airs, ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Lame plongeante.\r\nLorsque vous tombez, vous infligez des dégâts équivalant à **6.4%** de l'ATQ + **38** à chaque coup sur la cible. À l'atterrissage, vous infligez des dégâts équivalant à **35.6%** de l'ATQ + **214** aux cibles proches et vous les repoussez.\r\nInflige une plus grande quantité de dégâts en fonction de l'altitude de l'utilisateur au moment où l'attaque est déclenchée, jusqu'à **600%** de dégâts.",
+				"icon": "skill_sword_jump",
+				"id": "GA_FPlayerSwordMelee_JumpAttack_R"
+			},
+			{
+				"name": "Attaque furtive",
+				"description": "Accroupissez-vous et approchez-vous de l'ennemi par-derrière, puis utilisez l'attaque normale pour déclencher Attaque furtive et infliger des dégâts équivalant à **256.5%** de l'ATQ + **1539**.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSwordMelee_Sneak_R"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. Temps de recharge : 15 secondes. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSwordEvade_Evade_R"
+			}
+		],
+		"skill": [
+			{
+				"name": "Itinérance",
+				"description": "Circulez entre les cibles et infligez des dégâts équivalant à **227.1%** de l'ATQ + **1362** à **5**cibles max. Le dernier coup suspend la cible. Itinérance vous immunise contre l'hébétement. Les dégâts infligés à la même cible sont réduits de **40%** à chaque fois. Temps de recharge: **10**secondes.",
+				"icon": "sword_skill1",
+				"id": "GA_FPlayerSwordSkill_R"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Déluge effréné",
+				"description": "Lorsque la **recharge d'arme** est pleine ou que **Fantaisie** est déclenchée, en passant à cette arme, **supprime toutes les altérations sur l'Explorateur**. Vous foncez sur la cible et la **suspendez longuement**, lui infligeant des dégâts équivalant à **266.6%** de l'ATQ + **1599**.",
+				"icon": "skill_sword_changeskill",
+				"id": "GA_FPlayerSwordChangeSkill_Success_R"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 3.6,
+				"charge": 8.8
+			},
+			"need": "None"
+		}
+	],
+	"id": "sword_thunder"
+}

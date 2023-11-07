@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_011_icon",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_032",
+	"advancement": [
+		{
+			"description": "Wanderer teman yang ada di dalam dimensi akan memulihkan **15%** HP dalam **8** detik berikutnya.",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "Unit kawan di dalam dimensi akan mendapatkan **25%** Lifesteal.",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "Wanderer teman di dalam dimensi akan mendapatkan kekebalan terhadap semua Efek Kontrol.",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "Meningkatkan Frost DMG sebesar **2%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "Hingga Relik menghilang, semua efek Lifesteal akan digandakan untuk Wanderer teman di dalam dimensi jika HP turun sampai **40%** atau kurang.",
+			"id": "artifact_adv_032"
+		}
+	],
 	"id": "artifact_ssr_011"
 }

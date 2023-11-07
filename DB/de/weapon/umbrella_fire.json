@@ -1,0 +1,194 @@
+{
+	"name": "Purpurköpfchen",
+	"avatar": {
+		"name": "Lan",
+		"advanceId": "imitation_34L1",
+		"weapon": "umbrella_fire",
+		"icon": "imitation_34",
+		"avatarID": "lan",
+		"age": "5. Mai",
+		"height": "172 cm",
+		"gender": "Weiblich",
+		"state": "Die Schattenwächter",
+		"city": "Unbekannt",
+		"rating": "wuwei_imitation_34",
+		"gp": [
+			"Rarity",
+			"everydayObjects",
+			"Vera",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈雨"
+			},
+			{
+				"Japanese": "CV : 内田 真礼"
+			},
+			{
+				"English": "CV : Sarah Wiedenheft"
+			},
+			{
+				"Korean": "CV : 박리나"
+			},
+			{
+				"Portuguese": "CV : Luiza Caspary"
+			}
+		],
+		"id": "imitation_34"
+	},
+	"description": "Eine Sonnenschirmwaffe, die ausschließlich von Zhuque verwendet wird und über verschiedene versteckte Funktionen verfügt. Das Purpurköpfchen kann nicht nur ein mächtiges Werkzeug sein, um Feinde mit Energie zu zerstören, sondern ist auch in der Lage, anderen die Sicht zu versperren und das Handeln des Besitzers zu verbergen …",
+	"icon": "item_Weapon_SSR_umbrella_Fire01",
+	"gachaIcon": "SSR_lh_lan",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Umbrella",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "umbrella_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Tanzende Flammen",
+				"description": "Wenn der Anwender auf dem Boden steht und normale Angriffe nutzt, kann er 5-mal hintereinander angreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **94.8%** des ANG +**569** und stößt das Ziel eine kurze Strecke zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **129.8%** des ANG +**779** und stößt das Ziel deutlich zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **221.3%** des ANG plus **1328** und lässt das Ziel schweben.\r\nVierter Angriff: Verursacht Schaden in Höhe von **241.3%** des ANG +**1448** und bringt das Ziel zu Fall.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **304.1%** des ANG +**1824** und stößt das Ziel zurück.",
+				"icon": "skill_umbrella_melee",
+				"id": "GA_FPlayerUmbrellaMeleeFire_Melee"
+			},
+			{
+				"name": "Schwungschlag",
+				"description": "Setze in der Luft einen normalen Angriff ein, um Ausdauer zu verbrauchen und 5-mal hintereinander in der Luft anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **106.3%** des ANG +**638**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **129.8%** des ANG +**779**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **158.1%** des ANG +**949**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **165.3%** des ANG +**992**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **296.3%** des ANG +**1778**.",
+				"icon": "skill_umbrella_airattack",
+				"id": "GA_FPlayerUmbrellaMeleeFire_AirAttack"
+			},
+			{
+				"name": "Glutflügel",
+				"description": "Tippe und halte am Boden den normalen Angriff, wenn du den zweiten bis fünften normalen Angriff ausführst, um „Glutflügel“ auszulösen.\r\nStürmt schnell vorwärts und bringt sich selbst zum Schweben, um so Zielen in der Nähe Schaden in Höhe von **125%** des ANG +**750** zuzufügen und sie **länger schweben zu lassen**.",
+				"icon": "skill_umbrella_branch",
+				"id": "GA_FPlayerUmbrellaMeleeFire_Branch"
+			},
+			{
+				"name": "Schmelzendes Herz",
+				"description": "Tippe und halte in der Luft den normalen Angriff, um „Schmelzendes Herz“ auszulösen. Verbrauche weiterhin Ausdauer und erhalte Hyperkörper.\r\nKontrolliert Purpurköpfchen, um Zielen in der Nähe Schaden in Höhe von **25%** des ANG + **150** zuzufügen und die Sonnenschirme schnell zum Drehen zu bringen.\r\nLass den normalen Angriff los, um zu fallen. Während des Fallens fügt jeder Treffer dem Ziel Schaden in Höhe von **50%** des ANG + **300** zu und **bringt es zu Fall**.\r\n**Passiv**: Wenn sich die Sonnenschirme schnell drehen, werden Schaden, Ladung, Zertrümmern-Effekte und die von „Flammenvortex“ sekündlich verbrauchten Federn mit **Vielfeder-Sonnenschirm** multipliziert.\r\n**Federn**: Gewährt automatisch **1** pro Sek. und **1** weitere jedes Mal, wenn Schaden verursacht wird. Abklingzeit: **0,5**Sek. Kann bis zu **30**-mal gestapelt werden.\r\n**Vielfeder-Sonnenschirm** = **1** + Anzahl der Sonnenschirme.",
+				"icon": "icon_skill_umbrella_beidong2",
+				"id": "GA_FPlayerUmbrellaMeleeFire_PowerAttack"
+			},
+			{
+				"name": "Sonnenschirm beschwören",
+				"description": "Tippe und halte außerhalb des Kampfs den normalen Angriff am Boden, um für **15**Sek. oder bis zum Beginn des Kampfs einen Sonnenschirm an der vorgesehenen Position zu erzeugen.\r\nSetze die Fähigkeit außerhalb des Kampfs ein, um dich zum Sonnenschirm zu bewegen und mithilfe von Doppelsprung zu gleiten. Abklingzeit: **6**Sek.",
+				"icon": "skill_umbrella_skill_InPeace",
+				"id": "GA_FPlayerUmbrellaAimAttackFire"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerUmbrellaEvadeFire_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Verheerendes Gleiten",
+				"description": "Fliegt auf die Sonnenschirme in der Reihenfolge zu, in der sie erzeugt wurden, und kehrt an die ursprüngliche Position zurück. Die Spur in der Luft hält 5Sek. an und Ziele in der Nähe der Spur werden um **50%** verlangsamt. Gewährt Immunität gegen Schaden während des Gleitens (nicht in der Apex-Liga verfügbar). Abklingzeit: **12**Sek.\r\nJedes Mal, wenn ein Wanderer einen Sonnenschirm passiert, wird Flächenschaden in Höhe von **220%** des ANG + **1320** verursacht und der Sonnenschirm rotiert für **5**Sek. schnell.",
+				"icon": "skill_umbrella_skill",
+				"id": "GA_FPlayerUmbrellaSkillFire_Skill"
+			},
+			{
+				"name": "Sonnenschirm",
+				"description": "Treffer mit einem normalen Angriff oder Ausweichangriff einer Waffe erzeugen für **20**Sek. **1**Sonnenschirm in der Nähe des Ziels. Abklingzeit: **1,5**Sek. Bis zu **3**Sonnenschirme können gleichzeitig aktiv sein.\r\n**Gleißender Aufprall**: Während du „Verheerendes Gleiten“ verwendest, verursachst du für jeden Sonnenschirm, der durchschritten wurde, zusätzlichen Schaden in Höhe von **64,8%** des ANG multipliziert mit „Vielfeder-Sonnenschirm“.\r\n**Korrosion**: Ziele in der Nähe der Sonnenschirme erleiden **6%** mehr Flammenschaden und **8%** mehr Schaden von aufgeladenen Angriffen.\r\n**Leuchtende Flammen**: Sonnenschirme verbrennen Ziele in der Nähe und verursachen für **4** Sek. jede Sek. Schaden in Höhe von **105%** des ANG.\r\n**Flammenvortex**: Aktive Sonnenschirme verbrauchen jede Sek. **1** Feder und verursachen Flächenschaden in Höhe von **54%** des ANG + **324** (Schaden und Federkosten werden durch mehrere Sonnenschirme nicht erhöht).",
+				"icon": "icon_skill_umbrella_beidong2",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas1"
+			},
+			{
+				"name": "Purpurdomäne",
+				"description": "Passiere bei der Verwendung von „Verheerendes Gleiten“ 3Sonnenschirme und kehre an die ursprüngliche Position zurück, um „Purpurdomäne“ zu erzeugen, die für **8**Sek. Hyperkörper und **40%** Schadensreduktion gewährt.\r\nWährend des Tauchens fügt „Purpurdomäne“ Zielen im Wirkbereich pro Sek. Schaden in Höhe von **50%** des ANG + **300** zu und erhöht die Geschwindigkeit des Wanderers um **30%**.",
+				"icon": "icon_skill_umbrella_beidong3",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas2"
+			},
+			{
+				"name": "Standhaftigkeit",
+				"description": "Nach Aktivierung von Standhaftigkeit-Resonanz:\r\nDie Verwendung einer Waffenfähigkeit verspottet Ziele in der Nähe für **2,5**Sek.\r\nBei der Verwendung von „Verheerendes Gleiten“ dehnt sich die „Purpurdomäne“ aus und gewährt Teammitgliedern in der Nähe **20%** Schadensreduktion.\r\nBei der Verwendung von „Schmelzendes Herz“ wird der Timer von „Purpurdomäne“ angehalten.",
+				"icon": "icon_skill_umbrella_beidong1",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas3"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Phönixhieb",
+				"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und es wird Schaden in Höhe von **849.6%** des ANG + **5097** verursacht. Während dieser Zeit hält die Schadensimmunität **1,5**Sek. lang an (nicht in der Apex-Liga verfügbar).\r\n**Passiv**: Ein erfolgreicher Treffer erhöht den Flammenschaden um **1.2% von „Vielfeder-Sonnenschirm“**. Hält **20** Sek. lang an.",
+				"icon": "skill_umbrella_changeskill",
+				"id": "GA_FPlayerUmbrellaChangeSkillFire"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Flammenresonanz**: Erhöht Flammen-ANG um **15%** und Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "**Purpurstärke**: Wenn Purpurköpfchen ausgerüstet ist, werden **Munitionskosten**, Schaden, Ladung und Zertrümmern-Effekte anderer Waffen mit **Vielfeder-Sonnenschirm** multipliziert.\r\n**Glühendes Feuer**: Wenn Ziele in der Nähe „Verbrennen“ auslösen oder Schaden durch „Gleißender Aufprall“ erleiden, werden **30%** des Schadens an die **3** Einheiten mit dem höchsten LP-Prozentsatz übertragen (das Ziel eingeschlossen).",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Passiv1: Bei Verwendung eines beliebigen Entladungsangriffs einer Waffe oder beim Zertrümmern lösen alle Sonnenschirme in der Nähe **1**-mal „Gleißender Aufprall“ in Höhe von **30%** aus. Verringert den ANG von Gegnern in der Nähe der Sonnenschirme um **15%**. Im Kampf erscheinen in der Nähe des Ziels sofort **3**Sonnenschirme, nachdem das erste Mal Schaden verursacht wird.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "„Gleißender Aufprall“ und der übertragene Schaden ignorieren **60%** des Flammenwiderstands des Ziels.\r\nDer von „Korrosion“ verursachte Flammenschaden wird um **10%** erhöht.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Erhöht den von „Tanzende Flammen“ und „Schwungschlag“ verursachten Schaden um **50%**.\r\nDer Multiplikator für schnell rotierende Sonnenschirme, „Phönixhieb“ und „Gleißender Aufprall“ beträgt jetzt „Vielfeder-Sonnenschirm“ + **2**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		}
+	],
+	"id": "umbrella_fire"
+}

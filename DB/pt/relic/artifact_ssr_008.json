@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_008",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_023",
+	"advancement": [
+		{
+			"description": "Remove todos os efeitos de controle e confere imunidade a efeitos de controle pelos próximos **5** segundos. ",
+			"id": "artifact_adv_023"
+		},
+		{
+			"description": "Prolonga a duração para **25** segundos.   ",
+			"id": "artifact_adv_023"
+		},
+		{
+			"description": "A cada **5** segundos, dá a Errantes um acúmulo de inspiração. Cada acúmulo aumenta o dano causado em **5%**.",
+			"id": "artifact_adv_023"
+		},
+		{
+			"description": "Reduz o dano elétrico sofrido em **2%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+			"id": "artifact_adv_023"
+		},
+		{
+			"description": "**20%** do dano causado pelos seus ataques serão convertidos em vida enquanto o drone durar.",
+			"id": "artifact_adv_023"
+		}
+	],
 	"id": "artifact_ssr_008"
 }

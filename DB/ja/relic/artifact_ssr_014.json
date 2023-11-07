@@ -6,5 +6,27 @@
 	"shortIcon": "artifact_ssr_014",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_038",
+	"advancement": [
+		{
+			"description": "ダイス1個が獲得した時間が**20**秒に短縮される",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "**熱核**ダメージ UP効果がUP。ダメージ UP+**25%**、**45**秒間持続",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "ダイスを振るたび**50%**の確率でダイス1個を獲得する。クールダウン**15**秒",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "氷ダメージ+**2%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_038"
+		},
+		{
+			"description": "**3**個のダイスを振ると、必ず全属性へのバフ効果を獲得できる。目の数の合計が**14**以上の場合も**オーバークロック**効果を獲得する",
+			"id": "artifact_adv_038"
+		}
+	],
 	"id": "artifact_ssr_014"
 }

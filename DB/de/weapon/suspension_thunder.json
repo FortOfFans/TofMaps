@@ -1,0 +1,181 @@
+{
+	"name": "Venus",
+	"avatar": {
+		"name": "Nemesis",
+		"advanceId": "imitation_17L1",
+		"weapon": "suspension_thunder",
+		"icon": "imitation_17",
+		"avatarID": "Avatar06",
+		"age": "23. Mai",
+		"height": "165 cm",
+		"gender": "Weiblich",
+		"state": "Engel der Gnade",
+		"city": "Unbekannt",
+		"rating": "wuwei_imitation_17",
+		"gp": [
+			"toy",
+			"decorate",
+			"everydayObjects"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 宋媛媛"
+			},
+			{
+				"Japanese": "CV : 戸松 遥"
+			},
+			{
+				"English": "CV : Suzie Yeung"
+			},
+			{
+				"Korean": "CV : 이새아"
+			},
+			{
+				"Portuguese": "CV : Tatiane Keplmair"
+			}
+		],
+		"id": "imitation_17"
+	},
+	"description": "Sein Entwickler ist unbekannt und die Prototyp-Blaupause des EM-Schwebeblasters ist verloren gegangen. Er enthält in seinem Inneren einzigartige elektrische Speicherprozesse. Es ist außerordentlich aufwendig, ihn zu reparieren, wenn er verschlissen ist, aber Cobalt-B von Banges Tech scheint dazu in der Lage zu sein. ",
+	"icon": "item_Weapon_SSR_naimxs_Thunder01",
+	"gachaIcon": "SSR_lh_nmxs",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Suspension",
+	"wc": "SUP",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "Suspension_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Normaler Angriff",
+				"description": "Der Anwender kann am Boden Venus benutzen, um 5-mal hintereinander anzugreifen.\r\nDer erste Angriff verursacht Schaden in Höhe von **50.8%** des ANG +**305**.\r\nDer zweite Angriff verursacht Schaden in Höhe von **36.3%** des ANG +**218**.\r\nDer dritte Angriff verursacht Schaden in Höhe von **98.3%** des ANG +**590**.\r\nDer vierte Angriff verursacht Schaden in Höhe von **67.3%** des ANG +**404**.\r\nDer fünfte Angriff verursacht Schaden in Höhe von **148.3%** des ANG +**890**.",
+				"icon": "skill_suspension_melee",
+				"id": "GA_PlayerSuspensionMelee_Melee"
+			},
+			{
+				"name": "Luftsprengung",
+				"description": "Setze in der Luft einen normalen Angriff ein, um 5-mal hintereinander anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **62.5%** des ANG +**375**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **62.5%** des ANG +**375**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **120%** des ANG +**720**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **71.2%** des ANG +**427**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **126%** des ANG +**756**.",
+				"icon": "skill_suspension_air",
+				"id": "GA_PlayerSuspensionMelee_AirAttack"
+			},
+			{
+				"name": "Schnelle Verfolgung",
+				"description": "Halte nach dem zweiten normalen Angriff den normalen Angriff gedrückt, um „Schnelle Verfolgung“ auszulösen.\r\nFeuert eine lasergesteuerte Rakete auf das Ziel, die Schaden in Höhe von **107.5%** des ANG +**645** verursacht.",
+				"icon": "skill_suspension_branch",
+				"id": "GA_PlayerSuspensionMelee_Branch"
+			},
+			{
+				"name": "Doppelfokus",
+				"description": "Tippe und halte den normalen Angriff, um eine Elektrokugel aufzuladen, die beim Aufprall explodiert und Gegnern in der Nähe Schaden in Höhe von **118.4%** des ANG +**710** zufügt.",
+				"icon": "skill_suspension_powerattack",
+				"id": "GA_PlayerSuspensionMelee_PowerAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für **0,5** Sek. immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSuspensionEvade_Evade"
+			},
+			{
+				"name": "Doppelwirbelfokus",
+				"description": "Ein normaler Angriff während des kurzen Zeitraums zum perfekten Ausweichen löst ein verlangsamendes magnetisches Feld aus.\r\nVenus feuert eine aufgeladene Kugel ab, die explodiert, nachdem sie sich eine bestimmte Strecke vorwärts bewegt hat oder mit einem Ziel in Kontakt gekommen ist. Verursacht Schaden in Höhe von **171.6%** des ANG +**1030** und erzeugt für **3** Sek. ein verlangsamendes magnetisches Feld, das die Bewegungs- und Angriffsgeschwindigkeit von Gegnern darin um **35%** verringert.\r\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um **67,7%** des ANG des Wanderers heilt. Während der nächsten **10** Sek. wird alle **2** Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um **22,5%** des ANG des Wanderers heilt. Ausweichen gewährt für **30** Sek. **1** Stapel „Heilketten-Verbesserung“, was den Effekt von „Heilkette“ um je **25%** erhöht. Kann bis zu **5**-mal gestapelt werden. Beim Waffenwechsel bleibt der Effekt bestehen.",
+				"icon": "skill_suspension_backattack",
+				"id": "GA_FPlayerSuspensionEvade_BackAttack"
+			},
+			{
+				"name": "Parallelstrahlen",
+				"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste), um „Parallelstrahlen“ auszulösen.\r\nVenus feuert zwei parallele Energiestrahlen ab, die Durchschlagschaden in Höhe von **171.6%** des ANG +**1030** verursachen.\r\nAusweichen löst eine „Heilkette“ aus, die Verbündete in der Nähe um **67,7%** des ANG des Wanderers heilt. Während der nächsten **10** Sek. wird alle **2** Sek. eine kleine „Heilkette“ ausgelöst, die Verbündete in der Nähe um **22,5%** des ANG des Wanderers heilt. Ausweichen gewährt für **30** Sek. **1** Stapel „Heilketten-Verbesserung“, der den Effekt von „Heilkette“ um je **25%** erhöht (stapelbar bis **5**-mal). Beim Waffenwechsel bleibt der Effekt bestehen.",
+				"icon": "skill_suspension_rollattack",
+				"id": "GA_FPlayerSuspensionEvade_RollAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Impulsverschluss",
+				"description": "Venus feuert eine Lenkrakete ab, die beim Kontakt mit gegnerischen Zielen explodiert, ihnen Schaden in Höhe von **233.2%** des ANG +**1399** zufügt und sie zu Fall bringt. Abklingzeit: **25** Sek.",
+				"icon": "skill_suspension_skill",
+				"id": "GA_FPlayerSuspensionSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Teilchenstrahl-Explosion",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Venus feuert einen kreuzförmigen Strahl auf den Boden und erzeugt dort ein instabiles Feld, das Ziele für **5** Sek. um **70%** verlangsamt. Kurz darauf verursacht eine elektromagnetische Explosion Schaden in Höhe von **393.9%** des ANG + **2363**.\r\nEntladungsangriffe erzeugen beim Gegner **1** Elektrode, die einmal alle **1,5** Sek. angreift und Schaden in Höhe von **44%** des ANG + **264** verursacht.\r\nDie Elektrode erhält **100%** der Werte des Wanderers, kann angegriffen und geheilt werden und verliert pro Sekunde **3%** ihrer max. LP.\r\nEs kann immer nur jeweils **1** Elektrode aktiv sein und neu herbeigerufene Elektroden ersetzen ihre Vorgänger.",
+				"icon": "skill_suspension_changeskill",
+				"id": "GA_FPlayerSuspensionChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Voltresonanz**: Erhöht den Volt-ANG um **15%** und den Voltwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Voltsegnung**: Erhöht den Volt-ANG des gesamten Teams um **5%**, wenn Segnungsresonanz aktiv ist.",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "**Impulsverschluss** und **Teilchenstrahl-Explosion** erzeugen **1** Elektrode, die dem Anwender sofort **5** Stapel „Heilketten-Verbesserung“ gewährt. Außerdem wird eine „Heilkette“ ausgelöst, die Verbündete in der Nähe um **135%** des ANG des Wanderers heilt.",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "Suspension_thunder_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "Suspension_thunder_plasm"
+		},
+		{
+			"description": "Alle **6** Sekunden entfesselt die Elektrode einen **Blitzring**, der Flächenschaden in Höhe von bis zu **230%** des ANG verursacht.",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "Suspension_thunder_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "Suspension_thunder_plasm"
+		},
+		{
+			"description": "Nach dem Einsatz von **Impulsverschluss** werden der ANG des Wanderers **25** Sek. lang um (**5** + (Anzahl der Elektroden × **5**))% erhöht.",
+			"stats": {
+				"shatter": 6,
+				"charge": 8
+			},
+			"need": "Suspension_thunder_plasm"
+		},
+		{
+			"description": "Es können bis zu **2** Elektroden gleichzeitig aktiv sein. Das Herbeirufen neuer Elektroden ersetzt die am weitesten entfernte.",
+			"stats": {
+				"shatter": 6,
+				"charge": 11
+			},
+			"need": "Suspension_thunder_plasm"
+		}
+	],
+	"id": "suspension_thunder"
+}

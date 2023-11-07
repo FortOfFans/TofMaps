@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_020",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_044",
+	"advancement": [
+		{
+			"description": "Meningkatkan jumlah gelembung kecil yang ditembakkan. Saat menembakkan gelembung kecil, penggunanya akan melangkah ke belakang. Setelah menembakkan relik, SPD meningkat **10%** selama **30** detik.",
+			"id": "artifact_adv_044"
+		},
+		{
+			"description": "Dapatkan **1** tumpuk Happy Time setelah menembakkan gelembung kecil dan **3** tumpuk setelah menembakkan gelembung besar. Setiap tumpuk meningkatkan DMG yang ditimpakan Wanderer sebesar **1,8%** selama **60** detik. Bisa ditumpuk maks **5** kali.",
+			"id": "artifact_adv_044"
+		},
+		{
+			"description": "Gunakan Bubble Gun untuk memunculkan Bubble Spirit yang menembakkan gelembung dan mereset durasi Happy Time. Bubble Spirit aktif selama **150** detik.",
+			"id": "artifact_adv_044"
+		},
+		{
+			"description": "Meningkatkan Flame DMG sebesar **2%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_044"
+		},
+		{
+			"description": "Setiap tumpuk memberikan Peningkatan DMG Happy Time tambahan sebesar **0,6%**.",
+			"id": "artifact_adv_044"
+		}
+	],
 	"id": "artifact_ssr_020"
 }

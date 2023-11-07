@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_005",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_014_OS",
+	"advancement": [
+		{
+			"description": "Mengakibatkan **Stun** kepada target selama **2** detik saat mengenainya, dan memberi efek Burn kepada mereka.  ",
+			"id": "artifact_adv_014_OS"
+		},
+		{
+			"description": "Memperluas radius ledakan sebesar **50%**.     ",
+			"id": "artifact_adv_014_OS"
+		},
+		{
+			"description": "Mengurangi cooldown menjadi **30** detik.     ",
+			"id": "artifact_adv_014_OS"
+		},
+		{
+			"description": "Meningkatkan Flame DMG sebesar **1,5%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_014_OS"
+		},
+		{
+			"description": "Mengakibatkan **Stun** kepada target selama **3** detik saat terkena serangan dan mengakibatkan Tire selama **10** detik sehingga target akan kehilangan **100** Stamina setiap kali menggunakan Ability.",
+			"id": "artifact_adv_014_OS"
+		}
+	],
 	"id": "artifact_sr_005"
 }

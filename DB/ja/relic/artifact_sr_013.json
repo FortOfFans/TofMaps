@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_012",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_033",
+	"advancement": [
+		{
+			"description": "シンギュラリティキューブを発動させると、自身の与ダメージ+**10%**。**10**秒間持続",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "キューブを発動すると、周囲の敵の武器エナジー値‐**200**Pt",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "キューブの使用回数が**2**回に増える",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "雷ダメージ+**1.5%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_033"
+		},
+		{
+			"description": "シンギュラリティキューブ発動後、失ったHPに基づいて武器エナジー値を獲得する。HPを**1%**を失うごとに、**10**Ptの武器エナジー値を獲得する",
+			"id": "artifact_adv_033"
+		}
+	],
 	"id": "artifact_sr_013"
 }

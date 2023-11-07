@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_012_card",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_031",
+	"advancement": [
+		{
+			"description": "护盾被打碎时，使攻击者以及附近的敌人移动速度降低**35%**，持续**6**秒。",
+			"id": "artifact_adv_031"
+		},
+		{
+			"description": "护盾结束（破碎）后，根据已损失的血量的百分比，增加等额的最终伤害，持续**10**秒，最低**30%**。",
+			"id": "artifact_adv_031"
+		},
+		{
+			"description": "护盾结束（破碎）后，增加**30%**的移速，持续**6**秒。",
+			"id": "artifact_adv_031"
+		},
+		{
+			"description": "降低**1.5%**受到的火焰伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_031"
+		},
+		{
+			"description": "护盾破碎时，获得**5**秒的反伤效果，将受到的伤害以**0.6**倍返还给攻击者。",
+			"id": "artifact_adv_031"
+		}
+	],
 	"id": "wormhole_artifact_sr_012"
 }

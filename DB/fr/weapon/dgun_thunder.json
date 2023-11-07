@@ -1,0 +1,173 @@
+{
+	"name": "Étoiles EM doubles",
+	"avatar": {
+		"name": "Samir",
+		"advanceId": "imitation_5L1",
+		"weapon": "dgun_thunder",
+		"icon": "imitation_5",
+		"avatarID": "saimier",
+		"age": "20 mai",
+		"height": "171cm",
+		"gender": "Féminin",
+		"state": "Hykros",
+		"city": "Inconnu",
+		"rating": "wuwei_imitation_5",
+		"gp": [
+			"game",
+			"toy"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐雅菁"
+			},
+			{
+				"Japanese": "CV : 水樹 奈々"
+			},
+			{
+				"English": "CV : Brittany Cox"
+			},
+			{
+				"Korean": "CV : 서유리"
+			},
+			{
+				"Portuguese": "CV : Fernanda Bullara"
+			}
+		],
+		"id": "imitation_5"
+	},
+	"description": "Ces armes à feu s'inspirent des canons à rails, et doivent être utilisées par deux.",
+	"icon": "item_Weapon_SSR_DGun_Thunder",
+	"gachaIcon": "SSR_lh_Sq",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "DoubleGun",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "dgun_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Double feu",
+				"description": "Lorsque vous êtes au sol, appuyez sur Attaque normale pour lancer jusqu'à 5attaques consécutives avec les pistolets doubles.\r\nPremière attaque: inflige des dégâts équivalant à **56.5%** de l'ATQ + **340**.\r\nDeuxième attaque: inflige des dégâts équivalant à **43%** de l'ATQ + **258**.\r\nTroisième attaque: inflige des dégâts équivalant à **143.6%** de l'ATQ + **862**.\r\nQuatrième attaque: inflige des dégâts équivalant à **135.7%** de l'ATQ + **815**.\r\nCinquième attaque: inflige des dégâts équivalant à **184.8%** de l'ATQ + **1109**, et **projette** la cible.",
+				"icon": "skill_dgun_melee",
+				"id": "GA_FPlayerDgunMeleeThu_Melee"
+			},
+			{
+				"name": "Pluie de balles",
+				"description": "Utilisez l'attaque normale lorsque vous êtes dans les airs pour tirer continuellement au sol, et infliger des dégâts équivalant à **54.3%** de l'ATQ + **365**. Chaque frappe consomme **150**d'endurance.",
+				"icon": "skill_dgun_airattack",
+				"id": "GA_FPlayerDgunMeleeThu_AirAttack"
+			},
+			{
+				"name": "Explosion d'énergie",
+				"description": "Maintenez Attaque pour tirer de façon continue, chaque coup infligeant **27.6%** de l'ATQ + **166**de dégâts de base.",
+				"icon": "skill_dgun_changeskill",
+				"id": "GA_FPlayerDgunMeleeThu_PowerAttack"
+			},
+			{
+				"name": "Coup de pied fantôme",
+				"description": "Lorsque vous êtes dans les airs, appuyez et maintenez Attaque normale pour déclencher Coup de pied fantôme. Renverse la cible et inflige des dégâts équivalant à **84.6%** de l'ATQ + **508**. À l'atterrissage, inflige des dégâts équivalant à **118.4%** de l'ATQ + **710** aux cibles proches et les **projette fortement**.",
+				"icon": "skill_dgun_evadeattack",
+				"id": "GA_FPlayerDgunMeleeThu_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Coup de pied de foudre ascendant",
+				"description": "Après avoir esquivé, appuyez sur Attaque normale pour **suspendre longuement** les ennemis et leur infliger des dégâts équivalant à **147.1%** de l'ATQ + **883**.",
+				"icon": "skill_dgun_branch",
+				"id": "GA_FPlayeDgunEvadeThu_FrontAttack"
+			},
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayeDgunEvadeThu_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Champ électrique",
+				"description": "Lance un bouclier d'énergie à l'emplacement ciblé qui reflète les rayons dans la barrière. Inflige des dégâts équivalant à **323.8%** de l'ATQ + **1943**; le dernier coup **suspend longuement les cibles**. Temps de recharge: **45**secondes.",
+				"icon": "skill_dgun",
+				"id": "GA_FPlayerDgunSkillThu"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Domaine du tonnerre",
+				"description": "Lorsque la **recharge de l'arme** est pleine ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur** et crée un Domaine du tonnerre à l'emplacement ciblé en passant à cette arme, **suspendant longuement** les cibles à portée et infligeant un total de dégâts égal à **286%** de l'ATQ + **1716** en 3attaques, tout en dissipant leurs effets bénéfiques. Le domaine dure **3,5**secondes et inflige des dégâts équivalant à **50.9%** de l'ATQ + **305** à une cible chaque **0,5**seconde.",
+				"icon": "skill_dgun_changeskill2",
+				"id": "GA_FPlayerDgunChangeSkillThu_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "None"
+		},
+		{
+			"description": "Déclenche une explosion électrique sur la cible après avoir porté un coup critique, infligeant des dégâts supplémentaires correspondant à **30%** de l'ATQ à la cible et aux ennemis proches. Temps de recharge: **0,2**seconde.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Accroît de **40%** le taux de critique aux cibles électrifiées. Les explosions électriques prolongent de **0,5**seconde la durée des effets électrifiés, dans la limite de **5**secondes.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Double la durée de Champ électrique et attire les cibles au centre de l'attaque.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		},
+		{
+			"description": "Le déclenchement d'une explosion électrique réduit de **1**seconde les temps de recharge des compétences.",
+			"stats": {
+				"shatter": 6,
+				"charge": 10.7
+			},
+			"need": "dgun_thunder_plasm"
+		}
+	],
+	"id": "dgun_thunder"
+}

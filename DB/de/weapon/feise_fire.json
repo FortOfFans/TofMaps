@@ -1,0 +1,199 @@
+{
+	"name": "Endlose Blüte",
+	"avatar": {
+		"name": "Fei Se",
+		"advanceId": "imitation_51L1",
+		"weapon": "feise_fire",
+		"icon": "imitation_51",
+		"avatarID": "feise",
+		"age": "23. August",
+		"height": "175 cm",
+		"gender": "Weiblich",
+		"state": "Phantompalast",
+		"city": "Flammenstadt",
+		"rating": "wuwei_imitation_51",
+		"gp": [
+			"everydayObjects",
+			"collection",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈彦亦"
+			},
+			{
+				"Japanese": "CV : 田中 理恵"
+			},
+			{
+				"English": "CV : Alexis Tipton"
+			},
+			{
+				"Korean": "CV : 강새봄"
+			},
+			{
+				"Portuguese": "CV : LUCIANA BAROLI"
+			}
+		],
+		"id": "imitation_51"
+	},
+	"description": "Hinter manchen Blüten verbirgt sich harter Stahl.",
+	"icon": "item_Weapon_SSR_feise",
+	"gachaIcon": "SSR_lh_feise",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Feise",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "feise_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Manöver",
+				"description": "Verwende auf dem Boden den normalen Angriff, um 6 Angriffe hintereinander auszulösen.\r\nErster Angriff: Verursacht Schaden in Höhe von **82%** des ANG +**492** und stößt das Ziel zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **122%** des ANG +**732** und stößt das Ziel zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **132%** des ANG +**792** und bringt das Ziel zu Fall.\r\nVierter Angriff: Verursacht Schaden in Höhe von **144%** des ANG +**864** und lässt das Ziel schweben.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **146%** des ANG +**876** und bringt das Ziel zu Fall.\r\nSechster Angriff: Verursacht Schaden in Höhe von **115%** des ANG +**690** und zieht das Ziel heran.",
+				"icon": "feise_melee",
+				"id": "GA_FPlayerFeiseMelee_Melee"
+			},
+			{
+				"name": "Wandernde Wolken",
+				"description": "Verwende in der Luft den normalen Angriff, um 6 Angriffe hintereinander in der Luft auszuführen, wobei Ausdauer verbraucht wird.\r\nErster Angriff: Verursacht Schaden in Höhe von **72%** des ANG + **432**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **98%** des ANG + **588**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **142%** des ANG + **852**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **142%** des ANG + **852**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **173%** des ANG + **1038**.\r\nSechster Angriff: Verursacht Schaden in Höhe von **144%** des ANG + **864**.",
+				"icon": "feise_airattack",
+				"id": "GA_FPlayerFeiseMelee_AirAttack"
+			},
+			{
+				"name": "Goldene Blätter",
+				"description": "Tippe und halte auf dem Boden den normalen Angriff, wenn du den ersten bis dritten normalen Angriff ausführst, um „Goldene Blätter“ auszulösen.\r\nZieht Ziele in der Nähe heran, fügt ihnen Schaden in Höhe von **259%** des ANG + **1554** zu und lässt sie schweben.",
+				"icon": "feise_branch1",
+				"id": "GA_FPlayerFeiseMelee_Branch1"
+			},
+			{
+				"name": "Klangvolle Anhänger",
+				"description": "Tippe und halte auf dem Boden den normalen Angriff, wenn du den vierten bis sechsten normalen Angriff ausführst, um „Klangvolle Anhänger“ auszulösen.\r\nFügt Schaden in Höhe von **158%** des ANG + **948** zu und stößt die Ziele zurück.",
+				"icon": "feise_branch3",
+				"id": "GA_FPlayerFeiseMelee_Bracnh3"
+			},
+			{
+				"name": "Lotus-Apsara",
+				"description": "Tippe und halte auf dem Boden oder in der Luft den normalen Angriff, um „Lotus-Apsara“ auszulösen.\r\nSchwebe kontinuerlich in der Luft vorwärts. Dies verbraucht Ausdauer. Verwende die Richtungssteuerung, um während „Lotus-Apsara“ die Richtung anzupassen.",
+				"icon": "feise_branch2",
+				"id": "GA_FPlayerFeiseMelee_Branch2"
+			},
+			{
+				"name": "Fallende Blumen",
+				"description": "Tippe und halte während **Wandernde Wolken** den normalen Angriff, um „Fallende Blumen“ auszulösen.\r\nStürzt von oben herab. Fügt Zielen in der Nähe nach der Landung Schaden in Höhe von **74%** des ANG + **444** zu und schleudert sie hoch.",
+				"icon": "feise_jumpattack",
+				"id": "GA_FPlayerFeiseMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerFeiseEvade_Evade"
+			},
+			{
+				"name": "Verstreuen",
+				"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen den normalen Angriff (verwende vor dem Ausweichen eine Pfeiltaste), um „Blütenwind“ auszulösen, was Zielen in der Nähe Schaden in Höhe von **209%** des ANG + **1254** zufügt.\r\n\r\nWährend das durch **Wirbelwind** erzeugte **Wunderwerk: Fantasie** aktiv ist, wird nach dem ersten Treffer eines Ausweichangriffs mit einer beliebigen Waffe „Blumenspross“ ausgelöst, was „Fei Ses Trugbild“ und „Lotusblütenblatt“ auslöst.\r\n**Fei Ses Trugbild**: „Fei Ses Trugbild“ kopiert bei der Erzeugung **25%** des max. ANG des Ziels und wandelt ihn in **Basis-Flammen-ANG** des Wanderers um (nicht geringer als **3300** und nicht höher als **3450**; dieser Flammen-ANG ist nicht in den Werten des Wanderers sichtbar und nicht in der Apex-Liga verfügbar), bis „Fei Ses Trugbild“ verschwindet. Wird für jede Einheit von „Fei Ses Trugbild“ einzeln berechnet. Es kann nur **1**„Fei Ses Trugbild“ gleichzeitig erzeugt werden.\r\n**Lotusblütenblatt**: Bei der Erzeugung entspricht die Anzahl an Lotusblütenblättern der Anzahl an Herbeirufungen durch die Waffen des Wanderers (Endlose Blüte ausgenommen). Nach der Erzeugung verändert sich die Anzahl an Lotusblütenblättern nicht entsprechend der Anzahl an Herbeirufungen. Lotusblütenblätter gelten als Herbeirufungen.",
+				"icon": "feise_evadefront",
+				"id": "GA_FPlayerFeiseEvade_ForwardAttack"
+			},
+			{
+				"name": "Blütenwirbel",
+				"description": "Verwende zum Auslösen von „Blütenwirbel“ während des kurzen Zeitraums nach dem Ausweichen den normalen Angriff, was allen Zielen in der Nähe Schaden in Höhe von **120%** des ANG + **720** zufügt.",
+				"icon": "feise_evadeback",
+				"id": "GA_FPlayerFeiseEvade_BackAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Wirbelwind",
+				"description": "Verursacht bei Zielen in der Nähe Schaden in Höhe von **1008%** des ANG + **6047** und erzeugt ein „Wunderwerk: Fantasie“, das bis zu **25**Sek. lang anhält.\r\nGewährt während der Abklingzeit von „Wirbelwind“ die Fähigkeit „Wendigkeit“. „Wendigkeit“ kann verwendet werden, nachdem „Wunderwerk“ **20**Sek. aktiv ist.\r\nSetzt die Abklingzeit von „Wirbelwind“ sofort nach dem Verschwinden von „Wunderwerk“ zurück. Dies wird von anderen Effekten, die die Abklingzeit zurücksetzen, verringern oder anpassen, nicht beeinflusst.\r\n\r\nWährend „Wunderwerk“:\r\nPro Sekunde wird Seelenschwere-Schaden in Höhe von **135%** des ANG im Wunderwerk verursacht. Seelenschwere-Schaden zählt als Schaden von normalen Angriffen.\r\nVerursacht bei Zielen im Wunderwerk alle **5**Sek. „Flammendes Herz“ und fügt ihnen **5**Sek. lang Brandschaden in Höhe von **20%** des ANG zu. Pro **1****Fei Ses Trugbild** oder vom Wanderer erzeugtem **Lotusblütenblatt** im Wunderwerk wird der Schaden durch „Flammendes Herz“ zusätzlich um **6%** erhöht.",
+				"icon": "feise_skill1",
+				"id": "GA_FPlayerFeiseSkill_Skill1"
+			},
+			{
+				"name": "Wendigkeit",
+				"description": "Gewährt während der Abklingzeit von „Wirbelwind“ die Fähigkeit „Wendigkeit“. „Wendigkeit“ kann verwendet werden, nachdem „Wunderwerk“ **20**Sek. aktiv ist.\r\nBeseitigt alle Einheiten von **Fei Ses Trugbild** und alle **Lotusblütenblätter**, die im Wunderwerk vom Wanderer erzeugt wurden. Fügt pro **1** beseitigtem **Fei Ses Trugbild** oder **Lotusblütenblatt** Zielen in der Nähe Schaden in Höhe von **180%** des ANG + **1080** zu. Zertrümmere dann „Wunderwerk: Fantasie“, um Zielen in der Nähe Schaden in Höhe von **450%** des ANG + **2700** zuzufügen.",
+				"icon": "feise_skill2",
+				"id": "GA_FPlayerFeiseSkill_Skill2"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Ewiger Jadesee",
+				"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt**. Dies verursacht Schaden in Höhe von **1090%** des ANG + **6539**. Währenddessen erhältst du für **1,5**Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).",
+				"icon": "feise_changeskill",
+				"id": "GA_FPlayerFeiseChangeSkill_ChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **20%** und den Flammenwiderstand um **40%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n**Flammenexplosion: Schneller Hieb**: Wenn **Endlose Blüte** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **37.5%** des Flammen-ANG + **0.5%** der max. LP des Wanderers + **18.75%** der Summe aller Widerstandsarten des Wanderers + **68.75%** des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle **0,5** Sekunden zusätzlich um das **1**-fache erhöht, bis zu einem Maximum von **30**-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das **1.3**-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "None"
+		},
+		{
+			"description": "Der Basismultiplikator des Schadens von **Flammendes Herz** wird auf **120%** des ANG erhöht. Wenn der Wanderer im Kampfstatus mehrere „Verbrennen“-Effekte auslöst, wird der Basismultiplikator des Schadens von **Flammendes Herz** zusätzlich auf den höchsten Multiplikatoreffekt erhöht.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		},
+		{
+			"description": "Die maximale Anzahl von **Fei Ses Trugbild** wird auf **2** erhöht. Nach einem Treffer mit **Wirbelwind** wird **1** zusätzliches **Fei Ses Trugbild** erzeugt.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		},
+		{
+			"description": "Pro **1** **Fei Ses Trugbild** oder **Lotusblütenblatt** im **Wunderwerk** wird der Schaden von **Flammendes Herz** zusätzlich um **15%** erhöht.\r\nDer Ausdauerverbrauch von **Lotus-Apsara** wird um **75%** gesenkt.",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		},
+		{
+			"description": "Der Basismultiplikator für den Schaden durch **Seelenschwere** wird auf **900%** des ANG erhöht, Zertrümmern wird verdoppelt und es besteht eine Chance von **15%**, nach einem Treffer für **2** Sek. eine Verzögerung von **65%** zuzufügen (gegen Bosse im Teamspiel unwirksam und nicht in der Apex-Liga verfügbar).",
+			"stats": {
+				"shatter": 14,
+				"charge": 12
+			},
+			"need": "feise_fire_plasm"
+		}
+	],
+	"id": "feise_fire"
+}

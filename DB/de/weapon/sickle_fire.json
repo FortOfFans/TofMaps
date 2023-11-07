@@ -1,0 +1,186 @@
+{
+	"name": "Sense der Krähe",
+	"avatar": {
+		"name": "KING",
+		"advanceId": "imitation_9L1",
+		"weapon": "sickle_fire",
+		"icon": "imitation_9",
+		"avatarID": "KING",
+		"age": "3. November",
+		"height": "190 cm",
+		"gender": "Männlich",
+		"state": "Ravager",
+		"city": "Krone",
+		"rating": "wuwei_imitation_9",
+		"gp": [
+			"collection",
+			"Rarity",
+			"restrictedGoods"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 唐子晰"
+			},
+			{
+				"Japanese": "CV : 松岡 禎丞"
+			},
+			{
+				"English": "CV : Johnny Young"
+			},
+			{
+				"Korean": "CV : 류승곤"
+			},
+			{
+				"Portuguese": "CV : Leonardo Camillo"
+			}
+		],
+		"id": "imitation_9"
+	},
+	"description": "Eine mächtige Sense, die sich sowohl für den Angriff als auch für die Verteidigung eignet. Sie kann ihr Ziel innerhalb einer bestimmten Entfernung sofort töten.",
+	"icon": "item_Weapon_SSR_Sickle_Fire01",
+	"gachaIcon": "SSR_lh_ml",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Sickle",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "sickle_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Normaler Angriff",
+				"description": "Wenn der Anwender am Boden die Sense schwingt, kann er 5-mal hintereinander angreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **57.1%** des ANG +**343** und stößt das Ziel eine kurze Strecke zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **49.1%** des ANG +**295** und stößt das Ziel eine kurze Strecke zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **106.8%** des ANG +**641** und stößt das Ziel eine kurze Strecke zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **109.5%** des ANG +**657** und stößt das Ziel eine kurze Strecke zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **104.2%** des ANG +**625**, lässt das Ziel **länger schweben** und den Wanderer in die Luft steigen.",
+				"icon": "pugong_sickle",
+				"id": "GA_FPlayerSickleMelee_MeleeFire_SSR"
+			},
+			{
+				"name": "Sensen-Aufschwung",
+				"description": "Greift in der Luft oder nach einmaligem Springen 5-mal hintereinander an.\r\nErster Angriff: Verursacht Schaden in Höhe von **63.4%** des ANG +**380**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **68.8%** des ANG +**413**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **190.5%** des ANG +**1143**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **213.6%** des ANG +**1281**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **173.9%** des ANG +**1043** und bringt das Ziel zu Fall. Je höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu **600%**).",
+				"icon": "skill_sickle_air",
+				"id": "GA_FPlayerSickleMelee_AirAttackFire_SSR"
+			},
+			{
+				"name": "Zerschlagen",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Zerschlagen“ auszulösen.\r\nVerursacht beim Fallen pro Treffer Schaden in Höhe von **12.5%** des ANG +**75**. Verursacht bei der Landung Schaden in Höhe von **71.9%** des ANG +**431** und einen **Knockdown**.\r\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu **600%**).",
+				"icon": "skill_sickle_jump",
+				"id": "GA_FPlayerSickleMelee_JumpAttackFire_SSR"
+			},
+			{
+				"name": "Bumerang-Kettenklinge",
+				"description": "Halte nach dem vierten normalen Angriff die normale Angriffstaste gedrückt, um „Bumerang-Kettenklinge“ auszulösen.\r\nVerwandelt sich in eine Kettenklinge, die Zielen in der Nähe Schaden in Höhe von **137.4%** des ANG +**824** zufügt und sie anzieht.",
+				"icon": "skill_sickle_branch",
+				"id": "GA_FPlayerSickleMelee_BranchFire_SSR"
+			},
+			{
+				"name": "Schleichattacke",
+				"description": "Nähert sich der Anwender dem Gegner geduckt von hinten und setzt einen normalen Angriff ein, wird eine Schleichattacke ausgelöst, die Schaden in Höhe von **570%** des ANG +**3420** verursacht.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSickleMelee_SneakFire_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Bumerang-Kettenklinge",
+				"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen einen normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste), um „Schneller Stoß“ auszulösen.\r\nVerursacht Schaden in Höhe von bis zu **126.9%** des ANG +**761** und zieht Gegner in der Nähe an.",
+				"icon": "skill_sickle_branch",
+				"id": "GA_FPlayerSickleEvade_FrontAttackFire_SSR"
+			},
+			{
+				"name": "Domäne der Fledermaus",
+				"description": "Beschwöre beim Ausweichen eine Domäne der Fledermaus, die das Ziel in die Mitte zieht. Tippe während des kurzen Zeitraums nach dem Ausweichen auf den normalen Angriff, um die Sense zu schwingen und dem Ziel bis zu **114.3%** des ANG +**686** Schaden zuzufügen.",
+				"icon": "skill_sickle_backattck",
+				"id": "GA_FPlayerSickleEvade_BackAttackFire_SSR"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für **0,5** Sek. immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSickleEvade_EvadeFire_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "Todesspirale",
+				"description": "Schwinge die Sense, um Schaden in Höhe von **499.9%** des ANG +**2999** zu verursachen. Abklingzeit: **45** Sek.",
+				"icon": "sickle_skill1",
+				"id": "GA_FPlayerSickleSkillFire_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Flammensense",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und eine Flammensense erzeugt. Dies verursacht Schaden in Höhe von **398.3%** des ANG +**2390**. Hält **10** Sek. an. Außerdem wird alle **2** Sek. ein Flammensensen-Gebiet erzeugt. Die Sensen erzeugen Vulkanausbrüche am Boden, die Zielen Schaden in Höhe von **95%** des ANG +**396** zufügen und sie schweben lassen.",
+				"icon": "skill_sickle_changeskill",
+				"id": "GA_FPlayerSickleChangeSkill_SuccessFire_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 12.5,
+				"charge": 5
+			},
+			"need": "None"
+		},
+		{
+			"description": "Erhöht Zertrümmern um **15%**. Wenn der Schild des Ziels zertrümmert wurde, erleidet das Ziel **15** Sek. lang pro Sek. Flammenschaden in Höhe von **120%** des ANG.",
+			"stats": {
+				"shatter": 14.3,
+				"charge": 5
+			},
+			"need": "sickle_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 14.3,
+				"charge": 5
+			},
+			"need": "sickle_fire_plasm"
+		},
+		{
+			"description": "Erhöht den verursachten Schaden für jedes gegnerische Ziel innerhalb von **6** Metern um **15%** (bis zu **30%**).",
+			"stats": {
+				"shatter": 14.3,
+				"charge": 5
+			},
+			"need": "sickle_fire_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 14.3,
+				"charge": 5
+			},
+			"need": "sickle_fire_plasm"
+		},
+		{
+			"description": "Erhöht den Schaden gegen LP-Schilde oder Gegner mit Schild um **100%**.",
+			"stats": {
+				"shatter": 14.3,
+				"charge": 5
+			},
+			"need": "sickle_fire_plasm"
+		},
+		{
+			"description": "Erhöht den verursachten Schaden für jeden getöteten Gegner **30** Sek. lang um **10%**. Kann bis zu **3**-mal gestapelt werden.",
+			"stats": {
+				"shatter": 14.3,
+				"charge": 5
+			},
+			"need": "sickle_fire_plasm"
+		}
+	],
+	"id": "sickle_fire"
+}

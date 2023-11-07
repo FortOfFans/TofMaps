@@ -1,0 +1,187 @@
+{
+	"name": "Unnachgiebiger Flügel",
+	"avatar": {
+		"name": "Alyss",
+		"advanceId": "imitation_30L1",
+		"weapon": "iceblade_ice",
+		"icon": "imitation_30",
+		"avatarID": "ailisi",
+		"age": "28. Mai",
+		"height": "177 cm",
+		"gender": "Weiblich",
+		"state": "Spezialkräfte des Sicherheitsdiensts von Mirroria",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_30",
+		"gp": [
+			"collection",
+			"restrictedGoods",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 杜晴晴"
+			},
+			{
+				"Japanese": "CV : 安済 知佳"
+			},
+			{
+				"English": "CV : Risa Mei"
+			},
+			{
+				"Korean": "CV : 유영"
+			},
+			{
+				"Portuguese": "CV : Michelle Giudice"
+			}
+		],
+		"id": "imitation_30"
+	},
+	"description": "Eine Kampfrüstung mit einer Fußklinge als Kernelement. Sie ist das Ergebnis modernster Wissenschaft und Technik aus der Zeit vor der Katastrophe und wird durch die bloße Kraft der Gedanken angetrieben. Falls nötig, setzt sie eine gewaltige Explosion frei.",
+	"icon": "item_Weapon_SSR_iceblade_Ice01",
+	"gachaIcon": "SSR_lh_ailisi",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "IceBlade",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "iceblade_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Schwanbogen",
+				"description": "Wenn der Anwender am Boden „Unnachgiebiger Flügel“ nutzt, kann er 5-mal hintereinander angreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **101.3%** des ANG +**608** und stößt das Ziel eine kurze Strecke zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **107.3%** des ANG +**644** und stößt das Ziel deutlich zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **116.4%** des ANG +**698** und stößt das Ziel eine kurze Strecke zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **141.8%** des ANG +**851** und lässt das Ziel schweben.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **241.5%** des ANG +**1449** und schleudert das Ziel hoch.",
+				"icon": "skill_iceblade_melee",
+				"id": "GA_FPlayerIceBladeMeleeIce_Melee"
+			},
+			{
+				"name": "Schwungvolle Kombo",
+				"description": "Setze in der Luft einen normalen Angriff ein, um 5-mal hintereinander anzugreifen und Ausdauer zu verbrauchen.\r\nErster Angriff: Verursacht Schaden in Höhe von **72.1%** des ANG +**433**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **65.6%** des ANG +**394**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **115.8%** des ANG +**695**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **131.1%** des ANG +**787**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **343.9%** des ANG +**2063** und verursacht einen **Knockdown**.",
+				"icon": "skill_iceblade_airattack",
+				"id": "GA_FPlayerIceBladeMeleeIce_AirAttack"
+			},
+			{
+				"name": "Tanzblitz",
+				"description": "Tippe und halte bei der Verwendung von „Schwanbogen“ den normalen Angriff, um Gegner zusammenzuziehen und füge ihnen dabei Schaden in Höhe von **303.9%** des ANG + **1823** zu. Der letzte Treffer lässt das Ziel **länger schweben** und fügt ihm Schaden in Höhe von **95%** des ANG + **570** zu.\r\n**Passiv**: Gewährt nach dem Verwenden einer beliebigen Waffenfähigkeit oder **4**Sek. nach dem Wechsel in „Verborgener Zustand“ beim nächsten „Tanzblitz“ Schadensimmunität.",
+				"icon": "skill_iceblade_branch",
+				"id": "GA_FPlayerIceBladeMeleeIce_Branch"
+			},
+			{
+				"name": "Schwungvoller Sturzflug",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder das Jetpack benutzt, um „Stampfen“ auszulösen.\r\nVerursacht beim Fallen mit jedem Treffer Schaden in Höhe von **95%** des ANG + **570** und verbraucht durchgehend Ausdauer.",
+				"icon": "skill_iceblade_jumpattack",
+				"id": "GA_FPlayerIceBladeMeleeIce_JumpAttack"
+			},
+			{
+				"name": "Walzer",
+				"description": "Tippe und halte den normalen Angriff, um dem Ziel mit jedem Treffer Schaden in Höhe von **104.5%** des ANG +**627** zuzufügen. Der letzte Treffer verursacht Schaden in Höhe von **190%** des ANG +**1140**. Erhalte währenddessen **Hyperkörper**, wobei durchgehend Ausdauer verbraucht wird.",
+				"icon": "skill_iceblade_powerattack",
+				"id": "GA_FPlayerIceBladeMeleeIce_PowerAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Tanzform",
+				"description": "Tippe nach dem Ausweichen nach hinten 3-mal hintereinander den normalen Angriff, um dem Ziel Gesamtschaden in Höhe von **572.8%** des ANG +**3436** zuzufügen und es mit dem ersten Treffer **länger schweben** zu lassen.",
+				"icon": "skill_iceblade_evadeattack",
+				"id": "GA_FPlayerIceBladeEvadeIce_BackAttack"
+			},
+			{
+				"name": "Verborgener Zustand",
+				"description": "Weiche vor dem Halten aus, um in „Verborgener Zustand“ überzugehen. In diesem Zustand wird durchgehend Ausdauer verbraucht und die Geschwindigkeit wird um **50%** erhöht. Im „Kältefeld“ wird die Geschwindigkeit um zusätzliche **50%** erhöht. Beim Verlassen von „Verborgener Zustand“ wird allen Zielen in der Nähe Schaden in Höhe von **305.1%** des ANG +**1830** zugefügt und sie werden für **2** Sek. eingefroren.",
+				"icon": "skill_iceblade_evadeon",
+				"id": "GA_FPlayerIceBladeEvadeIce_EvadeOn"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerIceBladeEvadeIce_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Kältefeld",
+				"description": "Ziehe alle Ziele in der Nähe zusammen, füge ihnen Schaden in Höhe von **857.7%** des ANG +**5146** zu und lasse sie **länger schweben**. Der Wanderer betritt das „Kältefeld“ für **30**Sek. Abklingzeit: **25**Sek. Erhalte beim Aktivieren der Fähigkeit „Hyperkörper“.\r\n**Passiv**: Fügt bei Verwendung einer beliebigen Entladungsfähigkeit einer Frostwaffe innerhalb von „Kältefeld“ 1-mal Raureif-Schaden in Höhe von **125.8%** des ANG +**755** zu und verlangsamt das Ziel **2**Sek. lang (der Verlangsamungseffekt ist unwirksam gegen Bosse). Innerhalb des Felds wird bei jedem **12.** Treffereffekt von „Unnachgiebiger Flügel“ zusätzlich „Raumschlitzer“ ausgelöst, was allen Zielen im Raum für **25**Sek. alle 2Sek. 1-mal Schaden in Höhe von **165%** des ANG +**990** zufügt (dieser Effekt endet mit dem Verschwinden des Raums.).",
+				"icon": "iceblade_skill",
+				"id": "GA_FPlayerIceBladeSkillIce_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Sternennacht",
+				"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und eine Entladungsfähigkeit ausgelöst. Dies verursacht Schaden in Höhe von **553.2%** des ANG +**3319** und **schleudert das Ziel stark hoch**. Währenddessen hält die Schadensimmunität **2,6**Sek. lang an (nicht in der Apex-Liga verfügbar).",
+				"icon": "skill_iceblade_changeskill",
+				"id": "GA_FPlayerIceBladeChangeSkillIce"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Frostresonanz**: Erhöht Frost-ANG um **15%** und den Frostwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Frostwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "None"
+		},
+		{
+			"description": "Der Wanderer erhält durch Verwendung einer beliebigen Frost-Waffenfähigkeit im „Kältefeld“ „Alyss’ Unterstützung“, was sie herbeiruft, um eine Entladungsfähigkeit einzusetzen, die einer Entladungsfähigkeit des Wanderers entspricht. Die Fähigkeit, die die Entladungsfähigkeit auslöst, wird im Anschluss erneut verwendet. Der Schaden von Alyss’ unterstützender Entladungsfähigkeit sowie des Fähigkeitsschadens entspricht **70%** des ursprünglichen Schadens ihrer Fähigkeit.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Erhalte jedes Mal „Alyss’ Unterstützung“, wenn „Sternennacht“ ausgelöst wird, wobei der Schaden von „Sternennacht“ und „Raureif“ für **1**Sek. um **0%** erhöht wird. Kann bis zu **3**-mal gestapelt werden.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Erhöht den Schaden von normalen Angriffen und „Raumschlitzer“ von Unnachgiebiger Flügel um **0%**. Wenn tödlicher Schaden erlitten wird, erhält der Wanderer „Alyss’ Schutz“, welcher den Wanderer 1-mal vor dem Tod bewahrt und ihn für kurze Zeit immun gegen Schaden macht. Abklingzeit: **1**Sek.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Bei 3 Stapeln von „Alyss’ Unterstützung“ wird der Frostschaden um **0%** erhöht.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		}
+	],
+	"id": "iceblade_ice"
+}

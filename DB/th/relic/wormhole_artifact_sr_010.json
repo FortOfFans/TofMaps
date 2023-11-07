@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_003",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_009",
+	"advancement": [
+		{
+			"description": "ยิงขีปนาวุธเพิ่มทุกวินาที",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "เพิ่มดาเมจป้อมขีปนาวุธ **20%**",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "ป้อมขีปนาวุธ มีผลเป็นเวลา **12** วินาที",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "เพิ่มดาเมจกายภาพ **1.5%** แม้ว่าจะไม่ได้ใช้งานก็ตาม ใช้ในลีกแข่งยอดฝีมือไม่ได้",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "ยิงมิสไซล์เพิ่มขึ้นทุกวินาที",
+			"id": "artifact_adv_009"
+		}
+	],
 	"id": "wormhole_artifact_sr_010"
 }

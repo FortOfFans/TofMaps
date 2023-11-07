@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_001",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_030",
+	"advancement": [
+		{
+			"description": "每次攻击可射出**2**枚飞弹对目标造成伤害，每枚飞弹造成**34.8%**攻击伤害。",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "冷却时间缩短至**200**秒     ",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "每次攻击可射出**4**枚飞弹对目标造成伤害，每枚飞弹造成**34.8%**攻击伤害。",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "降低**2%**受到的物理伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "巨擎手臂持续**30**秒，持续期间受到所有伤害减少**20%**",
+			"id": "artifact_adv_030"
+		}
+	],
 	"id": "artifact_ssr_001"
 }

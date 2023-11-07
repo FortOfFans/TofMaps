@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_005",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_026",
+	"advancement": [
+		{
+			"description": "处于坍缩空间离地面近的敌人无法使用闪避，吸附时间延长至**15**秒 ",
+			"id": "artifact_adv_026"
+		},
+		{
+			"description": "伤害范围提升**1**倍     ",
+			"id": "artifact_adv_026"
+		},
+		{
+			"description": "区域内的目标受到伤害增加**20%**  ",
+			"id": "artifact_adv_026"
+		},
+		{
+			"description": "降低**2%**受到的火焰伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_026"
+		},
+		{
+			"description": "处于坍缩空间内的敌方单位无法被治疗  ",
+			"id": "artifact_adv_026"
+		}
+	],
 	"id": "wormhole_artifact_ssr_005"
 }

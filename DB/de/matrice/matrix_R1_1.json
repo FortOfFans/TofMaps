@@ -1,0 +1,14 @@
+{
+	"name": "Explosiver Kern",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "Der Omnium-Kern brennt heiß im Inneren.",
+	"icon": "icon_matrix_R1_512",
+	"gachaIcon": "icon_matrix_R1_512",
+	"rarity": "R",
+	"set": [
+		{
+			"2": "Erhöht den durch Flammenwaffen verursachten Schaden um **6%**."
+		}
+	],
+	"id": "matrix_R1_1"
+}

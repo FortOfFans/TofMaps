@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_001",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_030",
+	"advancement": [
+		{
+			"description": "Menembakkan **2** misil di setiap serangan, menimpakan DMG kepada target. Tiap misil menimpakan DMG sebesar **34,8%** ATK.",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "Mengurangi cooldown menjadi **200** detik.     ",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "Menembakkan **4** misil di setiap serangan, menimpakan DMG kepada target. Tiap misil menimpakan DMG sebesar **34,8%** ATK.",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "Mengurangi Physical Damage yang diterima sebesar **2%**, bahkan saat tidak dikerahkan. Tidak tersedia di Apex League.",
+			"id": "artifact_adv_030"
+		},
+		{
+			"description": "Colossus Arm berlangsung selama **30** detik. Semua DMG yang diterima selama durasi tersebut dikurangi sebesar **20%**.",
+			"id": "artifact_adv_030"
+		}
+	],
 	"id": "wormhole_artifact_ssr_001"
 }

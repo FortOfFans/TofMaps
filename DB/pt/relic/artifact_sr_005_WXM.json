@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_005",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_014",
+	"advancement": [
+		{
+			"description": "**Atordoa** alvos atingidos durante **2** segundos e inflige queimadura.",
+			"id": "artifact_adv_014"
+		},
+		{
+			"description": "Aumenta o raio da explosão em **50%**.     ",
+			"id": "artifact_adv_014"
+		},
+		{
+			"description": "Reduz o tempo de recarga para **30** segundos.     ",
+			"id": "artifact_adv_014"
+		},
+		{
+			"description": "Aumenta o dano ígneo em **1,5%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+			"id": "artifact_adv_014"
+		},
+		{
+			"description": "**Atordoa** alvos atingidos durante **3** segundos e causa exaustão durante **10** segundos, fazendo-lhes perder **100** de vigor após cada uso de habilidade.",
+			"id": "artifact_adv_014"
+		}
+	],
 	"id": "artifact_sr_005_WXM"
 }

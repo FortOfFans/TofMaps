@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_011_icon",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_032",
+	"advancement": [
+		{
+			"description": "**8** segundos depois, Errantes aliados na dimensão recuperam **15%** de vida.",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "Unidades aliadas na dimensão recebem **25%** de roubo de vida.",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "Errantes aliados na dimensão ficam imunes a todos os efeitos de controle.",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "Aumenta o dano gélido em **2%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "Enquanto a Relíquia durar, dobra os efeitos de roubo de vida dos Errantes aliados na dimensão quando a vida for igual ou inferior a **40%**.",
+			"id": "artifact_adv_032"
+		}
+	],
 	"id": "artifact_ssr_011"
 }

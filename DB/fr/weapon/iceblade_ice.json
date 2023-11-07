@@ -1,0 +1,187 @@
+{
+	"name": "Aile inflexible",
+	"avatar": {
+		"name": "Alyss",
+		"advanceId": "imitation_30L1",
+		"weapon": "iceblade_ice",
+		"icon": "imitation_30",
+		"avatarID": "ailisi",
+		"age": "28 mai",
+		"height": "177cm",
+		"gender": "Féminin",
+		"state": "Forces spéciales de sécurité de Mirroria",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_30",
+		"gp": [
+			"collection",
+			"restrictedGoods",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 杜晴晴"
+			},
+			{
+				"Japanese": "CV : 安済 知佳"
+			},
+			{
+				"English": "CV : Risa Mei"
+			},
+			{
+				"Korean": "CV : 유영"
+			},
+			{
+				"Portuguese": "CV : Michelle Giudice"
+			}
+		],
+		"id": "imitation_30"
+	},
+	"description": "Une armure de combat avec une lame de pied. Alimentée par l'énergie mentale de son porteur, elle est le résultat de la science et la technologie de pointe pré-Cataclysme. Elle explose avec une puissance terrifiante si nécessaire.",
+	"icon": "item_Weapon_SSR_iceblade_Ice01",
+	"gachaIcon": "SSR_lh_ailisi",
+	"rarity": "SSR",
+	"element": "Ice",
+	"weaponType": "IceBlade",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_ice": 39,
+		"Item_Mine_ice_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_ice_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "iceblade_ice_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Arc du cygne",
+				"description": "Lorsque vous êtes au sol, utilisez Aile inflexible pour lancer 5attaques consécutives.\r\nPremière attaque: inflige des dégâts équivalant à **101.3%** de l'ATQ + **608** et repousse la cible sur une courte distance.\r\nDeuxième attaque: inflige des dégâts équivalant à **107.3%** de l'ATQ + **644** et repousse la cible de manière significative.\r\nTroisième attaque: inflige des dégâts équivalant à **116.4%** de l'ATQ + **698** et fait reculer la cible d'une courte distance.\r\nQuatrième attaque: inflige des dégâts équivalant à **141.8%** de l'ATQ + **851** et suspend la cible.\r\nCinquième attaque: inflige des dégâts équivalant à **241.5%** de l'ATQ + **1449** et projette la cible dans les airs.",
+				"icon": "skill_iceblade_melee",
+				"id": "GA_FPlayerIceBladeMeleeIce_Melee"
+			},
+			{
+				"name": "Combo balayage",
+				"description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 5fois de suite et consommer de l'endurance.\r\nPremière attaque: inflige des dégâts équivalant à **72.1%** de l'ATQ + **433**.\r\nDeuxième attaque: inflige des dégâts équivalant à **65.6%** de l'ATQ + **394**.\r\nTroisième attaque: inflige des dégâts équivalant à **115.8%** de l'ATQ + **695**.\r\nQuatrième attaque: inflige des dégâts équivalant à **131.1%** de l'ATQ + **787**.\r\nCinquième attaque: inflige des dégâts équivalant à **343.9%** de l'ATQ + **2063** et **renverse** la cible.",
+				"icon": "skill_iceblade_airattack",
+				"id": "GA_FPlayerIceBladeMeleeIce_AirAttack"
+			},
+			{
+				"name": "Flash de danse",
+				"description": "Pendant l'utilisation d'Arc du cygne, appuyez et maintenez Attaque normale pour rassembler les cibles et infliger des dégâts équivalant à **303.9%** de l'ATQ + **1823** à toutes les cibles à portée. Au dernier coup, **suspend longuement** la cible et inflige des dégâts équivalant à **95%** de l'ATQ + **570**.\r\n**Effet passif**: après l'utilisation d'une compétence d'arme ou dans les **4** secondes suivant l'entrée en état latent, vous devenez immunisé aux dégâts lors du prochain Flash de danse.",
+				"icon": "skill_iceblade_branch",
+				"id": "GA_FPlayerIceBladeMeleeIce_Branch"
+			},
+			{
+				"name": "Plongeon rapide",
+				"description": "Appuyez et maintenez Attaque normale en l'air (appuyez quand une cible est disponible), ou utilisez l'attaque normale lorsque vous escaladez, sautez en arrière ou utilisez le jetpack pour déclencher Pilonner.\r\nEn descendant, vous infligez des dégâts équivalant à **95%** de l'ATQ + **570** à chaque coup et consommez de l'endurance en continu.",
+				"icon": "skill_iceblade_jumpattack",
+				"id": "GA_FPlayerIceBladeMeleeIce_JumpAttack"
+			},
+			{
+				"name": "Valse",
+				"description": "Appuyez et maintenez Attaque normale pour infliger des dégâts équivalant à **104.5%** de l'ATQ + **627** chaque fois que la cible est touchée. Le dernier coup inflige des dégâts équivalant à **190%** de l'ATQ + **1140**. Pendant cette période, vous gagnez **Hypercorps** et consommez de l'endurance en continu.",
+				"icon": "skill_iceblade_powerattack",
+				"id": "GA_FPlayerIceBladeMeleeIce_PowerAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Forme de danse",
+				"description": "Après avoir esquivé vers l'arrière, appuyez sur Attaque normale 3fois pour infliger un total de dégâts équivalant à **572.8%** de l'ATQ + **3436** à la cible, et la **suspendre longuement** au premier coup.",
+				"icon": "skill_iceblade_evadeattack",
+				"id": "GA_FPlayerIceBladeEvadeIce_BackAttack"
+			},
+			{
+				"name": "État latent",
+				"description": "Esquivez avant de maintenir pour entrer en État latent, pendant lequel l'endurance est constamment consommée et la vitesse est augmentée de **50%**. Augmente la vitesse de **50%** supplémentaires dans le Champ glaçant. À la sortie de l'État latent, inflige des dégâts équivalant à **305.1%** de l'ATQ + **1830** à toutes les cibles proches et les gèle pendant **2**secondes.",
+				"icon": "skill_iceblade_evadeon",
+				"id": "GA_FPlayerIceBladeEvadeIce_EvadeOn"
+			},
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des cibles dans la zone. Immunise contre l'effet d'hébétement lors d'une esquive.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerIceBladeEvadeIce_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Champ glaçant",
+				"description": "Rassemble les cibles proches, puis leur inflige des dégâts équivalant à **857.7%** de l'ATQ + **5146** et les **suspend longuement**. L'Explorateur entre dans le Champ glaçant pendant **30**secondes. Temps de recharge: **25**secondes. Vous gagnez Hypercorps en activant la compétence.\r\n**Effet passif**: lorsque vous utilisez la compétence de décharge d'arme de givre dans le Champ glaçant, vous infligez des dégâts de Gelée équivalant à **125.8%** de l'ATQ + **755** 1fois et ralentissez la cible pendant **2**secondes (l'effet de ralentissement est inefficace contre les boss). Lorsque vous êtes dans le champ, à chaque fois que l'effet d'Aile inflexible se déclenche à l'impact **12**fois, il déclenche à son tour Taillade spatiale, infligeant des dégâts équivalant à **165%** de l'ATQ + **990** 1fois aux cibles dans la zone toutes les 2secondes pendant **25**secondes (cet effet prend fin également lorsque la zone disparaît).",
+				"icon": "iceblade_skill",
+				"id": "GA_FPlayerIceBladeSkillIce_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Nuit étoilée",
+				"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur** et déclenche une compétence de décharge sur la cible au moment où vous changez d'arme pour utiliser celle-ci, infligeant des dégâts équivalant à **553.2%** de l'ATQ + **3319** et **projetant fortement** la cible. Pendant ce laps de temps, confère une immunité aux dégâts pendant **2,6** secondes. (non disponible en Ligue ultime).",
+				"icon": "skill_iceblade_changeskill",
+				"id": "GA_FPlayerIceBladeChangeSkillIce"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Résonance de givre**: accroît l'ATQ de givre de **15%** et la résistance au givre de **25%**. Activez-la en équipant au moins **2**armes de givre. Cet effet fonctionne également avec les armes dans l'emplacement main libre. Ne se cumule pas avec des effets du même type.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "None"
+		},
+		{
+			"description": "Vous recevez le soutien d'Alyss lorsque vous utilisez n'importe quelle compétence d'arme de givre dans le Champ glaçant, invoquant Alyss afin qu'elle lance une compétence de décharge sur le terrain équivalente à l'utilisation d'une compétence de décharge par un Explorateur. La compétence qui déclenche la décharge sera ensuite utilisée à nouveau. Les dégâts de la compétence et de la compétence de décharge de soutien d'Alyss équivalent à **70%** des dégâts de sa compétence d'origine.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Reçoit le Soutien d'Alyss chaque fois que Nuit étoilée se déclenche et accroît les dégâts de Nuit étoilée et de Gelée de **0%** pendant **1**secondes. Cumulable jusqu'à **3**fois.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Accroît les dégâts de l'attaque normale d'Aile inflexible et de Taillade spatiale de **0%**. Si des dégâts fatals sont subis, l'Explorateur reçoit la Protection d'Alyss qui le sauve de la mort 1fois, l'immunisant contre les dégâts pendant un court instant. Temps de recharge: **1**secondes.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		},
+		{
+			"description": "Accroît les dégâts de givre de **0%** quand le Soutien d'Alyss atteint 3cumuls.",
+			"stats": {
+				"shatter": 8,
+				"charge": 12
+			},
+			"need": "iceblade_ice_plasm"
+		}
+	],
+	"id": "iceblade_ice"
+}

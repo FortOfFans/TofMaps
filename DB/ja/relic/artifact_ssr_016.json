@@ -6,5 +6,27 @@
 	"shortIcon": "artifact_ssr_016",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_040_OS",
+	"advancement": [
+		{
+			"description": "毎回獲得する注射薬の数が**5**本まで UP ",
+			"id": "artifact_adv_040_OS"
+		},
+		{
+			"description": "ダメージブースターで武器にマークをつけると、HPが全回復する(トップリーグでは最大HPの**20%**を回復)",
+			"id": "artifact_adv_040_OS"
+		},
+		{
+			"description": "クールダウンが**150**秒に短縮",
+			"id": "artifact_adv_040_OS"
+		},
+		{
+			"description": "物理ダメージ+**2%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_040_OS"
+		},
+		{
+			"description": "**マイクロブースト**効果持続中に「重傷」を持つターゲットに命中した場合、ダメージ+**4%**",
+			"id": "artifact_adv_040_OS"
+		}
+	],
 	"id": "artifact_ssr_016"
 }

@@ -1,0 +1,187 @@
+{
+	"name": "Azurdrache",
+	"avatar": {
+		"name": "Huang",
+		"advanceId": "imitation_41L1",
+		"weapon": "mimi_thunder",
+		"icon": "imitation_41",
+		"avatarID": "mimi",
+		"age": "23. Juli",
+		"height": "135 cm",
+		"gender": "Weiblich",
+		"state": "Tianzhang-Pavillon",
+		"city": "Donnerstadt",
+		"rating": "wuwei_imitation_41",
+		"gp": [
+			"toy",
+			"garageKit",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 裴致莹"
+			},
+			{
+				"Japanese": "CV : 新井 里美"
+			},
+			{
+				"English": "CV : Alexis Tipton"
+			},
+			{
+				"Korean": "CV : 윤은서"
+			},
+			{
+				"Portuguese": "CV : BIANCA ALENCAR"
+			}
+		],
+		"id": "imitation_41"
+	},
+	"description": "Ein Paar Fächer mit enormer Energie und der Macht, Berge zum Einsturz zu bringen oder die Welt entzweizureißen.\r\nWenn Azurdrache in die Wolken emporsteigt, wird die Welt vom Wind erschüttert.",
+	"icon": "item_Weapon_SSR_mimi",
+	"gachaIcon": "SSR_lh_MiMi",
+	"rarity": "SSR",
+	"element": "Thunder",
+	"weaponType": "Dfan",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_thunder": 39,
+		"Item_Mine_thunder_02": 65,
+		"Item_breakthrough_B2": 65,
+		"Item_breakthrough_D2": 65,
+		"Item_Mine_thunder_03": 32,
+		"Item_breakthrough_B3": 32,
+		"Item_breakthrough_D3": 32,
+		"Item_breakthrough_B1": 35,
+		"Item_breakthrough_D1": 32
+	},
+	"advanceID": "mimi_thunder_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Perlen & Jade",
+				"description": "Verwende am Boden den normalen Angriff, um 5-mal hintereinander anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **91.1%** des ANG + **547**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **137.6%** des ANG + **826**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **400%** des ANG + **2400**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **331.7%** des ANG + **1990**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **165.3%** des ANG + **992**.",
+				"icon": "skill_mimi_melee",
+				"id": "GA_FPlayerMiMiMelee_Melee"
+			},
+			{
+				"name": "Sightseeing",
+				"description": "Setze in der Luft einen normalen Angriff ein, um Ausdauer zu verbrauchen und 5-mal hintereinander in der Luft anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **92.6%** des ANG +**556**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **150.5%** des ANG +**903**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **413.3%** des ANG +**2480**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **284.6%** des ANG +**1707**.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **184.6%** des ANG +**1108**.",
+				"icon": "skill_mimi_airattack",
+				"id": "GA_FPlayerMiMiMelee_AirAttack"
+			},
+			{
+				"name": "Der Azurdrache durchdringt die Sonne",
+				"description": "Tippe und halte auf dem Boden den normalen Angriff während des ersten bis vierten Angriffs, um „Der Azurdrache durchdringt die Sonne“ auszulösen und Ausdauer zu verbrauchen.\r\nFührt einen Angriff nach vorn aus, fügt Zielen in der Nähe Schaden in Höhe von **329.7%** des ANG + **1978** zu und lässt sie schweben.\r\nTippe und halte nach dem Auslösen von „Der Azurdrache durchdringt die Sonne“ den normalen Angriff, um „Donnerausbruch“ auszulösen.",
+				"icon": "skill_mimi_meleebranch",
+				"id": "GA_FPlayerMiMiMelee_MeleeBranch"
+			},
+			{
+				"name": "Donnerausbruch",
+				"description": "Tippe und halte den normalen Angriff auf dem Boden, um „Donnerausbruch“ auszulösen.\r\nWirft kontinuierlich mit Blitzen nach Zielen und verbraucht Ausdauer. Gewährt währenddessen „Hyperkörper“. Jeder Treffer fügt Zielen in der Nähe Schaden in Höhe von **53.5%** des ANG + **321** zu. Gleichzeitig wird alle **1,5**Sek. **1** Azura beschworen, das Schockwellen abfeuert, die Zielen in der Nähe Schaden in Höhe von **99%** des ANG + **594** zufügen.\r\nDer Wanderer erhält für **15**Sek. ab der Erstellung des ersten Schilds alle **1,5**Sek. einen LP-Schild in Höhe von **10%** der max. LP (bis zu **15%**).\r\nNach Aktivierung von Standhaftigkeit-Resonanz:\r\nJedes Mal, wenn eine Schockwelle von „Donnerausbruch“ trifft, werden Ziele in der Nähe für **2**Sek. verspottet.\r\nJedes Mal, wenn „Donnerausbruch“ einen Schild erzeugt, erhalten Teammitglieder in der Nähe zusätzlich einen Schild in Höhe von bis zu **10%** der max. LP des Wanderers.",
+				"icon": "skill_mimi_powerattack",
+				"id": "GA_FPlayerMiMiMelee_PowerAttack"
+			},
+			{
+				"name": "Umherziehender Drache",
+				"description": "Tippe und halte in der Luft den normalen Angriff während des ersten bis vierten normalen Angriffs, um „Umherziehender Drache“ auszulösen und Ausdauer zu verbrauchen.\r\nFührt einen Angriff nach vorn aus, fügt Zielen in der Nähe Schaden in Höhe von **329.7%** des ANG + **1978** zu und lässt sie schweben.",
+				"icon": "skill_mimi_airbranch",
+				"id": "GA_FPlayerMiMiMelee_AirAttackBranch"
+			},
+			{
+				"name": "Macht von Qinglong",
+				"description": "Jeder **3.** Treffer mit Azurdraches normalen Angriffen gewährt für **30**Sek. **1**Stapel „Macht von Qinglong“ (bis zu **8**-mal stapelbar).\r\nNach Aktivierung von Standhaftigkeit-Resonanz:\r\nJeder Stapel „Macht von Qinglong“ verringert den erlittenen Schaden des Wanderers um **1,5%**.",
+				"icon": "skill_mimi_beidong",
+				"id": "GA_FPlayerMiMiMelee_Beidong"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Zielen im umliegenden Bereich reduziert. Werde immun gegen Trefferlähmung, während du ausweichst.\r\n**Passiv**: Feuert mit einem Kugelblitz nach vorn.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerMiMiEvade_Evade"
+			},
+			{
+				"name": "Donnerblitz",
+				"description": "Verwende zum Auslösen von „Donnerblitz“ während des kurzen Zeitraums nach dem Ausweichen den normalen Angriff.\r\nTauche sofort am Standort des Kugelblitzes auf, füge Zielen in der Nähe Schaden in Höhe von **106.4%** des ANG + **638** zu und erzeuge einen Blitzpool, bevor du wieder zum ursprünglichen Standort zurückkehrst. Der Blitzpool verursacht DoT-Schaden in Höhe von **149.5%** des ANG + **897** und zieht kontinuierlich Ziele in der Nähe heran.\r\n**Passiv:** Der Wanderer erhält „Hyperkörper“ während „Donnerblitz“. Nachdem „Donnerblitz“ trifft, wird **1** Stapel von „Macht von Qinglong“ erzeugt.\r\nTippe und halte nach dem Auslösen von „Donnerblitz“ den normalen Angriff, um „Donnerausbruch“ auszulösen.",
+				"icon": "skill_mimi_evadeattack",
+				"id": "GA_FPlayerMiMiEvade_EvadeAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Azurmond",
+				"description": "Ein Azurdrache fliegt durch den Himmel. Währenddessen erhält der Wanderer „Hyperkörper“ und Ziele in der Nähe erleiden Schaden in Höhe von **1777.5%** des ANG + **10664**. Der Azurdrache umkreist das Gebiet für **8**Sek., wobei kontinuierlich „Macht von Qinglong“ verbraucht wird und bis zu **8** Blitze einschlagen. Jeder Blitzschlag fügt Zielen in der Nähe Schaden in Höhe von **649.9%** des ANG + **3899** zu. Wenn der Azurdrache verschwindet, wird Zielen in der Nähe noch einmal Schaden in Höhe von **1485%** des ANG + **8909** zugefügt.\r\nAbklingzeit: **30**Sek. Die Abklingzeit kann nicht auf unter **20**Sek. reduziert werden. „Azurmond“ kann bis zu **2**-mal verwendet werden.\r\n**Passiv:** Wenn **3** Voltwaffen ausgerüstet sind und „Azurmond“ trifft, wird dem Ziel für **30**Sek. alle **2**Sek. Fähigkeitsschaden in Höhe von **250%** des ANG zugefügt.",
+				"icon": "skill_mimi_skill",
+				"id": "GA_FPlayerMiMiSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Aufsteigender Drache",
+				"description": "Wenn die **Waffenladung voll ist** oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe **alle Debuffs vom Wanderer entfernt** und es wird Chi gesammelt. Der Anwender zerschmettert anschließend den Boden, wobei eine Explosion ausgelöst wird, die Zielen in der Nähe Schaden in Höhe von **1514.7%** des ANG + **9087** zufügt und sie schweben lässt. Während dieser Phase erhältst du für **1,5**Sek. Schadensimmunität (nicht in der Apex-Liga verfügbar).\r\n**Passiv:** Wenn „Trugbild“ ausgelöst wird, während Azurdrache ausgerüstet ist, oder wenn von einer anderen Waffe zu Azurdrache gewechselt wird, wird Zielen in der Nähe Schaden in Höhe von **5000%** des ANG zugefügt. Der Schaden wird nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung. Außerdem kann dies nur 1-mal pro Einsatz von „Trugbild“ ausgelöst werden.",
+				"icon": "skill_mimi_changeskill",
+				"id": "GA_FPlayerMiMiChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Voltresonanz**: Erhöht den Volt-ANG um **15%** und den Voltwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Voltwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n\r\n**Donnergroll: Auf dem Feld**: Bei jedem Treffer mit **Azurdrache** wird Zielen in der Nähe Schaden in Höhe von **131.3%** des Volt-ANG + **1.9%** der max. LP des Wanderers + **68.8%** der Summe aller Widerstandsarten des Wanderers + **250%** des krit. Schadens zugefügt. Dieser Effekt kann einmal alle **1,5**Sek. ausgelöst werden. Der Schaden von „Donnergroll“ zählt als normaler Angriffsschaden. Wenn **1** Flammen-/Frost-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Donnergroll“ um das **1.3**-fache multipliziert. Außerdem wird der Schaden von „Donnergroll“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "None"
+		},
+		{
+			"description": "Jedes Mal, wenn **Donnerausbruch** auflädt, erscheinen **2** Azuras. Jedes Azura stellt bei anderen Beschwörungen **20%** ihrer max. LP wieder her.\r\nErhöht den Schaden vom aufgeladenen Angriff und von der Schockwelle von **Donnerausbruch** um **30%**.\r\nNach der Verwendung von **Azurmond** werden sofort **3** Stapel von „Macht von Qinglong“ erzeugt. Das Verwenden von anderen Voltwaffenfähigkeiten erzeugt stattdessen **1** Stapel von „Macht von Qinglong“.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Wenn **Azurdrache** ausgerüstet ist, wird die Abklingzeit von allen Basisfähigeiten aller Voltwaffen um **20%** verringert. Dies wird von anderen Effekten, die die Abklingzeit zurücksetzen, verringern oder anpassen, nicht beeinflusst.\r\nZusätzlich wird der Voltschaden des Wanderers um **15%** erhöht. Der Effekt funktioniert auch im Nebenhand-Slot.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Wenn der Wanderer tödlichen Schaden erleidet, wird der tödliche Schaden 1-mal verhindert, und er erhält für kurze Zeit Schadensimmunität. Kann 1-mal alle **60**Sek. ausgelöst werden. Der Set-Effekt funktioniert auch im Nebenhand-Slot.\r\nNach Aktivierung von Standhaftigkeit-Resonanz:\r\nDas Verwenden von **Aufsteigender Drache** zieht Ziele in der Nähe heran und ignoriert dabei „Hyperkörper“ (unwirksam gegen Bosse).\r\nIm Teamspiel erzeugt **Donnerausbruch** beim Aufladen alle **6**Sek. **1**Volt-Zeitstempel, die in der Reihenfolge verbunden werden, in der sie auftauchen und so ein Stromnetz erzeugen. Das Stromnetz hindert Gegner, sich zu bewegen und blockt ihren Projektilschaden. Jeder Volt-Zeitstempel bleibt für bis zu **20**Sek. aktiv.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		},
+		{
+			"description": "Das Verwenden von **Azurmond** erhöht den Volt- und Endschaden des Wanderers für **30**Sek. um jeweils **10%** und **10%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 15
+			},
+			"need": "mimi_thunder_plasm"
+		}
+	],
+	"id": "mimi_thunder"
+}

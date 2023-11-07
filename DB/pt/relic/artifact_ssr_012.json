@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_012_icon",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_036_OS",
+	"advancement": [
+		{
+			"description": "Concede **100** de energia no momento do uso caso possua mais do que **90%** de vida. Concede imediatamente **50** de energia se a vida estiver abaixo de **90%** e mais **50** de energia quando o aumento de dano acabar.",
+			"id": "artifact_adv_036_OS"
+		},
+		{
+			"description": "Aumenta a duração do reforço de dano para **12** segundos.",
+			"id": "artifact_adv_036_OS"
+		},
+		{
+			"description": "Cada acúmulo de bênção também aumenta o dano final em **1%** durante **12** segundos.",
+			"id": "artifact_adv_036_OS"
+		},
+		{
+			"description": "Aumenta o dano ígneo em **2%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+			"id": "artifact_adv_036_OS"
+		},
+		{
+			"description": "Quando houver 5 acúmulos de bênção, também aumenta o dano final em **2,5%** e reduz o dano sofrido em **5%** durante **12** segundos.",
+			"id": "artifact_adv_036_OS"
+		}
+	],
 	"id": "artifact_ssr_012"
 }

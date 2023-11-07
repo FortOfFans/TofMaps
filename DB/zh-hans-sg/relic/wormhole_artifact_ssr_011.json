@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_011_icon",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_032",
+	"advancement": [
+		{
+			"description": "**8**秒后，友方玩家在空间内恢复**15%**的生命值。",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "友方单位在空间内时获得**25%**的吸血效果。",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "友方玩家在空间内免疫一切控制",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "增加**2%**寒冰伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_032"
+		},
+		{
+			"description": "在空间内的友方玩家的生命值低于或等于**40%**时，吸血效果翻倍，直到源器消失。",
+			"id": "artifact_adv_032"
+		}
+	],
 	"id": "wormhole_artifact_ssr_011"
 }

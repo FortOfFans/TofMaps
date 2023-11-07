@@ -1,0 +1,194 @@
+{
+	"name": "Ave Bermellón",
+	"avatar": {
+		"name": "Lan",
+		"advanceId": "imitation_34L1",
+		"weapon": "umbrella_fire",
+		"icon": "imitation_34",
+		"avatarID": "lan",
+		"age": "5 de mayo",
+		"height": "172 cm",
+		"gender": "Femenino",
+		"state": "Los Guardias Sombríos",
+		"city": "Desconocido",
+		"rating": "wuwei_imitation_34",
+		"gp": [
+			"Rarity",
+			"everydayObjects",
+			"Vera",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈雨"
+			},
+			{
+				"Japanese": "CV : 内田 真礼"
+			},
+			{
+				"English": "CV : Sarah Wiedenheft"
+			},
+			{
+				"Korean": "CV : 박리나"
+			},
+			{
+				"Portuguese": "CV : Luiza Caspary"
+			}
+		],
+		"id": "imitation_34"
+	},
+	"description": "Arma en forma de paraguas exclusiva de Zhuque. Por su estructura única, Ave Bermellón no solo puede convertirse en una herramienta para destruir enemigos con energía, sino que también bloquea la vista de los demás y oculta a quien la porta.",
+	"icon": "item_Weapon_SSR_umbrella_Fire01",
+	"gachaIcon": "SSR_lh_lan",
+	"rarity": "SSR",
+	"element": "Flame",
+	"weaponType": "Umbrella",
+	"wc": "Tank",
+	"mats": {
+		"Item_Mine_fire": 39,
+		"Item_Mine_fire_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_fire_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "umbrella_fire_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Llamas Danzantes",
+				"description": "Mientras estás en el suelo, usa el ataque normal para lanzar 5 ataques consecutivos.\r\nPrimer ataque: Inflige daño igual a **94.8%** del ATQ más **569** y hace retroceder un poco al objetivo.\r\nSegundo ataque: Inflige daño igual a **129.8%** del ATQ más **779** y hace retroceder al objetivo considerablemente.\r\nTercer ataque: Inflige daño igual a **221.3%** del ATQ más **1328** y suspende al objetivo.\r\nCuarto ataque: Inflige daño igual a **241.3%** del ATQ más **1448** y derriba al objetivo.\r\nQuinto ataque: Inflige daño igual a **304.1%** del ATQ más **1824** y hace retroceder al objetivo.",
+				"icon": "skill_umbrella_melee",
+				"id": "GA_FPlayerUmbrellaMeleeFire_Melee"
+			},
+			{
+				"name": "Impacto Aéreo",
+				"description": "Mientras estás en el aire, usa tu ataque normal para lanzar 5 ataques seguidos en el aire; esto consume resistencia.\r\nPrimer ataque: Inflige daño igual a **106.3%** del ATQ más **638**.\r\nSegundo ataque: Inflige daño igual a **129.8%** del ATQ más **779**.\r\nTercer ataque: Inflige daño igual a **158.1%** del ATQ más **949**.\r\nCuarto ataque: Inflige daño igual a **165.3%** del ATQ más **992**.\r\nQuinto ataque: Inflige daño igual a **296.3%** del ATQ más **1778**.",
+				"icon": "skill_umbrella_airattack",
+				"id": "GA_FPlayerUmbrellaMeleeFire_AirAttack"
+			},
+			{
+				"name": "Alas Llameantes",
+				"description": "Mientras estás en el suelo, pulsa y mantén pulsado el ataque normal durante el segundo al quinto ataque normal para activar Alas Llameantes.\r\nCorres hacia delante rápidamente y te suspendes, lo que inflige daño igual a **125%** del ATQ más **750** a los objetivos cercanos y los **suspende fuerte**.",
+				"icon": "skill_umbrella_branch",
+				"id": "GA_FPlayerUmbrellaMeleeFire_Branch"
+			},
+			{
+				"name": "Corazón Fundido",
+				"description": "Mientras estás en el aire, pulsa y mantén pulsado el ataque normal para activar Corazón Fundido. Seguirá gastando resistencia y ganando hipercuerpo.\r\nControla al Ave Bermellón e inflige daño igual a **25%** del ATQ más **150** a los objetivos cercanos, y ordena a las sombrillas que giren rápidamente.\r\nSuelta el ataque normal para caer. Mientras caes, cada ataque sobre el objetivo inflige daño igual a **50%** del ATQ más **300** y **derriba** al objetivo.\r\n**Pasiva**: Cuando las sombrillas giran rápidamente, las plumas consumidas cada segundo por el Vórtice de Fuego se multiplican por **Sombrilla de Polipluma**, y los efectos de daño, carga y destrucción del Vórtice de Fuego también se multiplican por **Sombrilla de Polipluma**.\r\n**Plumas**: Ganas **1** automáticamente cada segundo, y **1** por cada vez que se inflige daño. Enfriamiento: **0.5**seg. Puedes guardar hasta **30** plumas.\r\n**Sombrilla de Polipluma** = **1** más la cantidad de sombrillas.",
+				"icon": "icon_skill_umbrella_beidong2",
+				"id": "GA_FPlayerUmbrellaMeleeFire_PowerAttack"
+			},
+			{
+				"name": "Invocar Sombrilla",
+				"description": "Mientras no estés en combate, pulsa y mantén pulsado el ataque normal en el suelo para que aparezca una sombrilla en la ubicación designada por **15**seg, o hasta que comience el combate.\r\nMientras no estés en combate, usa la habilidad para moverte hasta donde esté la sombrilla, y utiliza el salto doble para planear. Enfriamiento: **6**seg.",
+				"icon": "skill_umbrella_skill_InPeace",
+				"id": "GA_FPlayerUmbrellaAimAttackFire"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los objetivos dentro del área. Te vuelves inmune a la conmoción mientras evades.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerUmbrellaEvadeFire_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Vuelo Devastador",
+				"description": "Vuela hacia las sombrillas en el mismo orden en que aparecieron, y vuelve a la posición original. La estela de vuelo dura 5seg; los objetivos cercanos a la estela quedan ralentizados un **50%**. Mientras planeas, te vuelves inmune al daño (no disponible en la Liga Ápex). Enfriamiento: **12**seg.\r\nCada vez que el nómada pasa por una sombrilla, inflige daño de área igual a **220%** del ATQ más **1320** y hace que la sombrilla gire rápidamente por **5**seg.",
+				"icon": "skill_umbrella_skill",
+				"id": "GA_FPlayerUmbrellaSkillFire_Skill"
+			},
+			{
+				"name": "Sombrilla",
+				"description": "Cuando el ataque normal de un arma o un ataque de evasión impacta, aparece **1** sombrilla cerca del objetivo por **20**seg. Enfriamiento: **1.5**seg. Puede haber hasta **3** sombrillas activas al mismo tiempo.\r\n**Choque Ardiente**: Durante Vuelo Devastador, por cada sombrilla por la que pases, infliges daño adicional igual a **64.8%** del ATQ multiplicado por Sombrilla de Polipluma.\r\n**Corrosión**: Los objetivos cercanos a las sombrillas reciben **6%** de daño de fuego adicional y **8%** de daño adicional de ataques cargados.\r\n**Llamas Radiantes**: Las sombrillas infligen quemaduras a los objetivos cercanos, lo que inflige daño igual a **105%** del ATQ cada segundo por **4**seg.\r\n**Vórtice de Fuego**: Las sombrillas activas consumen **1** pluma cada seg e infligen daño de área igual a **54%** del ATQ más **324** (no se acumulan el daño y el costo de las plumas de varias sombrillas).",
+				"icon": "icon_skill_umbrella_beidong2",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas1"
+			},
+			{
+				"name": "Dominio Bermellón",
+				"description": "Mientras utilizas el Vuelo Devastador, atraviesa 3 sombrillas antes de volver a la posición original para obtener Dominio Bermellón, lo que otorga hipercuerpo y una reducción de daño de **40%** durante **8**seg.\r\nMientras avanzas, Dominio Bermellón inflige daño igual a **50%** del ATQ más **300** a los objetivos del área cada segundo y aumenta la velocidad del nómada en **30%**.",
+				"icon": "icon_skill_umbrella_beidong3",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas2"
+			},
+			{
+				"name": "Fortaleza",
+				"description": "Después de activar Resonancia de Fortaleza:\r\nUsar cualquier habilidad de arma provocará a los objetivos cercanos por **2.5**seg.\r\nAl usar Vuelo Devastador, Dominio Bermellón se expande, lo que otorga un **20%** de reducción de daño a tus compañeros cercanos.\r\nAl usar Corazón Fundido, el temporizador de Dominio Bermellón se detiene.",
+				"icon": "icon_skill_umbrella_beidong1",
+				"id": "GA_FPlayerUmbrellaSkillFire_Pas3"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Barrido Fénix",
+				"description": "Cuando la **carga de arma** está completa o **se activa Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada** e inflige daño igual a **849.6%** del ATQ más **5097** al objetivo, durante el cual la inmunidad al daño dura **1.5**seg (no disponible en la Liga Ápex).\r\n**Pasiva**: Al impacto, aumenta el daño de fuego un **1.2% de Sombrilla de Polipluma** por **20**seg.",
+				"icon": "skill_umbrella_changeskill",
+				"id": "GA_FPlayerUmbrellaChangeSkillFire"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia de Fuego**: Aumenta el ATQ de Fuego en **15%** y la Resistencia al Fuego en **25%**. Se activa equipando **2** o más armas de fuego. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "None"
+		},
+		{
+			"description": "**Fuerza Bermellón**: Al equipar Ave Bermellón, los **costos de munición**, el daño, la carga y los efectos de destrucción de otras armas se multiplican por **Sombrilla de Polipluma**.\r\n**Fuego Brillante**: Cuando los objetivos cercanos activan el recuento de quemadura o reciben daño de Choque Ardiente, **30%** del daño se transfiere a las **3** unidades con mayor porcentaje de PS cercanas al objetivo (incluido el propio objetivo).",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de los PS base del arma actual en un **16%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Pasiva 1: Al activar un ataque de descarga de arma o de destrucción, todas las sombrillas cercanas activan **1** Choque Ardiente con un **30%** de efectividad. Reduce el ATQ de los enemigos cercanos a las sombrillas un **15%**. En combate, aparecen **3** sombrillas cerca del objetivo inmediatamente después de infligir daño por primera vez.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Choque Ardiente y el daño transferido ignoran **60%** de la resistencia al fuego del objetivo.\r\nEl daño de fuego causado por Corrosión aumenta un **10%**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		},
+		{
+			"description": "Aumenta el daño infligido por Llamas Danzantes e Impacto Aéreo en **50%**.\r\nEl multiplicador de las sombrillas que giran rápidamente, Barrido Fénix y Choque Ardiente, ahora es Sombrilla de Polipluma más **2**.",
+			"stats": {
+				"shatter": 14,
+				"charge": 8
+			},
+			"need": "umbrella_fire_plasm"
+		}
+	],
+	"id": "umbrella_fire"
+}

@@ -1,0 +1,185 @@
+{
+	"name": "Donner-Hellebarde",
+	"avatar": {
+		"name": "Echo",
+		"weapon": "spear_thunder",
+		"icon": "imitation_4",
+		"avatarID": "aige",
+		"age": "14. August",
+		"height": "162 cm",
+		"gender": "Weiblich",
+		"state": "Unbekannt",
+		"city": "Warren",
+		"rating": "wuwei_imitation_4",
+		"gp": [
+			"everydayObjects",
+			"restrictedGoods",
+			"game"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 曹雅雯"
+			},
+			{
+				"Japanese": "CV : 大久保 瑠美"
+			},
+			{
+				"English": "CV : Jeannie Tirado"
+			},
+			{
+				"Korean": "CV : 정유정"
+			},
+			{
+				"Portuguese": "CV : Rebeca Zadra"
+			}
+		],
+		"id": "imitation_4"
+	},
+	"description": "Eine Hellebarde mit der Kraft des Donners. Gut für Explosionsschaden, und durch die Länge ist sie in unterschiedlichen Entfernungen einsetzbar.",
+	"icon": "item_Weapon_SSR_Spear_Thunder01",
+	"gachaIcon": "SR_lh_ltzj",
+	"rarity": "SR",
+	"element": "Thunder",
+	"weaponType": "Spear",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_thunder": 28,
+		"Item_Mine_thunder_02": 42,
+		"Item_breakthrough_A2": 42,
+		"Item_breakthrough_C2": 42,
+		"Item_Mine_thunder_03": 22,
+		"Item_breakthrough_A3": 22,
+		"Item_breakthrough_C3": 22,
+		"Item_breakthrough_A1": 25,
+		"Item_breakthrough_C1": 23
+	},
+	"advanceID": "spear_thunder_sr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Stoß",
+				"description": "Wenn der Anwender am Boden den Langspeer schwingt, greift er 5-mal hintereinander an.\r\nErster Angriff: Verursacht Schaden in Höhe von **33.3%** des ANG +**200** und stößt das Ziel eine kurze Strecke zurück.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **30.5%** des ANG +**183** und stößt das Ziel eine kurze Strecke zurück.\r\nDritter Angriff: Verursacht Schaden in Höhe von **63.8%** des ANG +**383** und stößt das Ziel eine kurze Strecke zurück.\r\nVierter Angriff: Verursacht Schaden in Höhe von **88%** des ANG +**528** und stößt das Ziel eine kurze Strecke zurück.\r\nFünfter Angriff: Verursacht Schaden in Höhe von **155.1%** des ANG +**931** und stößt das Ziel deutlich zurück.",
+				"icon": "skill_spear_melee",
+				"id": "GA_FPlayerSpearMelee_MeleeThu_SSR"
+			},
+			{
+				"name": "Sprungschlag",
+				"description": "Setze in der Luft einen normalen Angriff ein, um 4-mal hintereinander in der Luft anzugreifen.\r\nErster Angriff: Verursacht Schaden in Höhe von **37%** des ANG +**222**.\r\nZweiter Angriff: Verursacht Schaden in Höhe von **31.4%** des ANG +**188**.\r\nDritter Angriff: Verursacht Schaden in Höhe von **61.8%** des ANG +**371**.\r\nVierter Angriff: Verursacht Schaden in Höhe von **148.4%** des ANG +**890**.",
+				"icon": "skill_spear_air",
+				"id": "GA_FPlayerSpearMelee_AirAttackThu_SSR"
+			},
+			{
+				"name": "Kopfspalter",
+				"description": "Tippe und halte den normalen Angriff, während du in der Luft bist (tippe, wenn ein Ziel verfügbar ist), oder setze einen normalen Angriff ein, während du kletterst, rückwärts springst oder den Jetpack benutzt, um „Kopfspalter“ auszulösen.\r\nVerursacht beim Fallen pro Treffer Schaden in Höhe von **8%** des ANG +**48**. Verursacht bei der Landung Schaden in Höhe von **65.4%** des ANG +**392** und bringt das Ziel zu Fall.\r\nJe höher du dich zum Zeitpunkt des Auslösens des Angriffs befindest, desto höher ist auch der verursachte Schaden (bis zu **600%**).",
+				"icon": "skill_spear_jump",
+				"id": "GA_FPlayerSpearMelee_JumpAttackThu_SSR"
+			},
+			{
+				"name": "Speerhagel",
+				"description": "Halte nach dem dritten normalen Angriff die normale Angriffstaste gedrückt, um „Speerhagel“ auszulösen.\r\nLässt das Ziel bei einem Treffer **länger schweben** und verursacht Schaden in Höhe von **66.4%** des ANG +**398**. Tippe erneut, um das Ziel in der Luft weiter anzugreifen und ihm Schaden in Höhe von bis zu **132.5%** des ANG +**795** zuzufügen.",
+				"icon": "skill_spear_branch",
+				"id": "GA_FPlayerSpearMelee_BranchThu_SSR"
+			},
+			{
+				"name": "Schleichattacke",
+				"description": "Stößt den Langspeer nach vorne, um Schaden in Höhe von **570%** des ANG +**3420** zu verursachen.",
+				"icon": "common_sneak",
+				"id": "GA_FPlayerSpearMelee_SneakThu_SSR"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Fliegender Tritt",
+				"description": "Verwende während des kurzen Zeitraums zum perfekten Ausweichen einen normalen Angriff (verwende vor dem Ausweichen eine Richtungstaste), um „Fliegender Tritt“ auszulösen.\r\nDies fügt getroffenen Gegnern Schaden in Höhe von **97.2%** des ANG +**583** zu, stößt sie deutlich zurück und **betäubt** sie für **1** Sek. oder für **0,5** Sek., wenn das Ziel ein Wanderer ist.",
+				"icon": "skill_spear_frontattack",
+				"id": "GA_FPlayerSpearEvade_FrontAttackThu_SSR"
+			},
+			{
+				"name": "Stürzender Aufprall",
+				"description": "Verwende während des kurzen Zeitraums nach dem Ausweichen einen normalen Angriff, um „Stürzender Aufprall“ auszulösen.\r\nDies rammt den Langspeer in den Boden, verursacht Schaden in Höhe von **71.4%** des ANG +**428** und lässt Ziele **länger schweben**.",
+				"icon": "skill_spear_backattck",
+				"id": "GA_FPlayerSpearEvade_BackAttackThu_SSR"
+			},
+			{
+				"name": "Ausweichen",
+				"description": "Wenn du einem Angriff ausweichst, kurz bevor er trifft, löst du „Trugbild“ aus, was die Geschwindigkeit von Gegnern in der Umgebung reduziert. Werde für **0,5** Sek. immun gegen Trefferlähmung, während du ausweichst.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerSpearEvade_EvadeThu_SSR"
+			}
+		],
+		"skill": [
+			{
+				"name": "Mondjäger",
+				"description": "Lässt Ziele **länger schweben** und den Anwender in die Luft springen, um Schaden in Höhe von **171.9%** des ANG +**1031** zu verursachen. Abklingzeit: **25** Sek.",
+				"icon": "spear_skill1",
+				"id": "GA_FPlayerSpearSkillThu_SSR"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Donnerschlag",
+				"description": "Wenn die **Waffenladung** voll ist oder **Trugbild** ausgelöst wird, werden beim Wechsel zu dieser Waffe zu dieser Waffe **alle Debuffs vom Wanderer entfernt**, er springt in die Luft und wirft einen donnernden Speer. Dieser explodiert bei Bodenkontakt und verursacht Schaden in Höhe von **400.5%** des ANG + **2403** und **betäubt** die Ziele **1** Sek. lang stark.",
+				"icon": "skill_spear_changeskill",
+				"id": "GA_FPlayerSpearChangeSkill_SuccessThu_SSR"
+			}
+		]
+	},
+	"stars": [
+		{
+			"stats": {
+				"shatter": 11,
+				"charge": 7
+			},
+			"need": "None"
+		},
+		{
+			"description": "Erhöht Zertrümmern um **15%**. Wenn der Schild des Ziels zertrümmert wurde, wird der ANG aller Teammitglieder für **30 Sek.** um **15%** erhöht. Kann nicht gestapelt werden.",
+			"stats": {
+				"shatter": 12.6,
+				"charge": 7
+			},
+			"need": "spear_thunder_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-LP-Wachstum der aktuellen Waffe um **10%**.",
+			"stats": {
+				"shatter": 12.6,
+				"charge": 7
+			},
+			"need": "spear_thunder_plasm"
+		},
+		{
+			"description": "Nachdem ein Ziel mit **Mondjäger** getroffen wurde, wird sein ANG für **15** Sek. um **5%** verringert und der ANG des Anwenders um **5%** erhöht (Effekt bis zu **3**-mal stapelbar, indem mehrere Ziele getroffen werden). Der Effekt wird gegen Ziele mit Verwunden verdoppelt.",
+			"stats": {
+				"shatter": 12.6,
+				"charge": 7
+			},
+			"need": "spear_thunder_plasm"
+		},
+		{
+			"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **20%**.",
+			"stats": {
+				"shatter": 12.6,
+				"charge": 7
+			},
+			"need": "spear_thunder_plasm"
+		},
+		{
+			"description": "Verdoppelt die Betäubungsdauer von Ausweichfähigkeiten.",
+			"stats": {
+				"shatter": 12.6,
+				"charge": 7
+			},
+			"need": "spear_thunder_plasm"
+		},
+		{
+			"description": "Je höher die zurückgelegte Entfernung der Entladungsfähigkeit ist, desto mehr Schaden verursacht sie (bis zu **100%** mehr Schaden).",
+			"stats": {
+				"shatter": 12.6,
+				"charge": 7
+			},
+			"need": "spear_thunder_plasm"
+		}
+	],
+	"id": "spear_thunder"
+}

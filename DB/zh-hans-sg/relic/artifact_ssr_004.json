@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_004",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_027",
+	"advancement": [
+		{
+			"description": "驾驶机甲时，免疫火焰伤害和控制效果    ",
+			"id": "artifact_adv_027"
+		},
+		{
+			"description": "获得新技能：**炮击**\r\n**炮击**：向锁定目标释放**6**次炮击，每次命中造成**155.2%***攻击力伤害",
+			"id": "artifact_adv_027"
+		},
+		{
+			"description": "驾驶机甲时，伤害附带灼烧效果     ",
+			"id": "artifact_adv_027"
+		},
+		{
+			"description": "增加**2%**火焰伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_027"
+		},
+		{
+			"description": "获得新技能：**火焰力场**\r\n**火焰力场**：原地释放大范围火焰力场，最多可造成**1146.8%***攻击力伤害",
+			"id": "artifact_adv_027"
+		}
+	],
 	"id": "artifact_ssr_004"
 }

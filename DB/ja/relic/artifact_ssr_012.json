@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_012_icon",
 	"rarity": "LEGENDRY",
 	"AttributeID": "artifact_adv_036_OS",
+	"advancement": [
+		{
+			"description": "使用時、HPが**90%**以上の場合は直ちに**100**Ptのエナジーを獲得し、HPが**90%**未満の場合は直ちに**50**Ptのエナジーを獲得する。ダメージ UP終了時、さらに**50**Ptのエナジーを獲得する",
+			"id": "artifact_adv_036_OS"
+		},
+		{
+			"description": "ダメージ UP時間が**12**秒に延長される",
+			"id": "artifact_adv_036_OS"
+		},
+		{
+			"description": "「祝福」が1スタックされるごとに、追加で最終与ダメージ+**1%**、**12**秒間持続",
+			"id": "artifact_adv_036_OS"
+		},
+		{
+			"description": "炎ダメージ+**2%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_036_OS"
+		},
+		{
+			"description": "「祝福」が5スタックになると、追加で最終与ダメージ+**2.5%**、最終被ダメージ-**5%**、**12**秒間持続",
+			"id": "artifact_adv_036_OS"
+		}
+	],
 	"id": "artifact_ssr_012"
 }

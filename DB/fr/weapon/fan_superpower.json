@@ -1,0 +1,185 @@
+{
+	"name": "Tissombre",
+	"avatar": {
+		"name": "Lin",
+		"advanceId": "imitation_23L1",
+		"weapon": "fan_superpower",
+		"icon": "imitation_23",
+		"avatarID": "linye",
+		"age": "3 septembre",
+		"height": "175cm",
+		"gender": "Féminin",
+		"state": "District7 d'Hykros",
+		"city": "Mirroria",
+		"rating": "wuwei_imitation_23",
+		"gp": [
+			"metal",
+			"decorate",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 陈婷婷"
+			},
+			{
+				"Japanese": "CV : 南條 愛乃"
+			},
+			{
+				"English": "CV : Erin Yvette"
+			},
+			{
+				"Korean": "CV : 조경이"
+			},
+			{
+				"Portuguese": "CV : Carol Valença"
+			}
+		],
+		"id": "imitation_23"
+	},
+	"description": "D'après le design initial, il s'agit d'une arme légère et dissimulée qui peut se transformer en une lame imposante par son utilisateur. Du coup, cette arme n'est plus du tout légère et encore moins dissimulée.",
+	"icon": "item_Weapon_SSR_fan_superpower01",
+	"gachaIcon": "SSR_lh_linye",
+	"rarity": "SSR",
+	"element": "Superpower",
+	"weaponType": "Fan",
+	"wc": "DPS",
+	"mats": {
+		"Item_breakthrough_A1": 28,
+		"Item_breakthrough_B1": 28,
+		"": null,
+		"Item_breakthrough_C1": 26,
+		"Item_breakthrough_D1": 26,
+		"Item_breakthrough_A2": 50,
+		"Item_breakthrough_B2": 50,
+		"Item_breakthrough_C2": 50,
+		"Item_breakthrough_D2": 50,
+		"Item_breakthrough_A3": 26,
+		"Item_breakthrough_B3": 26,
+		"Item_breakthrough_C3": 26,
+		"Item_breakthrough_D3": 26
+	},
+	"advanceID": "fan_superpower_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Attaque normale",
+				"description": "Lorsque vous êtes au sol, lancez Tissombre et envoyez 5attaques consécutives.\r\nPremière attaque: inflige des dégâts équivalant à **59.9%** de l'ATQ + **359**.\r\nDeuxième attaque: inflige des dégâts équivalant à **57.1%** de l'ATQ + **343**.\r\nTroisième attaque: inflige des dégâts équivalant à **49.5%** de l'ATQ + **297**. \r\nQuatrième attaque: inflige des dégâts équivalant à **114.2%** de l'ATQ + **685** et suspend la cible dans les airs.\r\nCinquième attaque: inflige des dégâts équivalant à **152.2%** de l'ATQ + **913**.",
+				"icon": "skill_Fan_melee",
+				"id": "GA_FPlayerFanMelee_Melee"
+			},
+			{
+				"name": "Décharge aérienne",
+				"description": "Lorsque vous êtes dans les airs, utilisez l'attaque normale pour attaquer 5fois de suite.\r\nPremière attaque: inflige des dégâts équivalant à **30.6%** de l'ATQ + **184**.\r\nDeuxième attaque: inflige des dégâts équivalant à **55.6%** de l'ATQ + **334**.\r\nTroisième attaque: inflige des dégâts équivalant à **48.2%** de l'ATQ + **289**.\r\nQuatrième attaque: inflige des dégâts équivalant à **111.2%** de l'ATQ + **667**.\r\nCinquième attaque: inflige des dégâts équivalant à **148.3%** de l'ATQ + **890**.",
+				"icon": "skill_Fan_air",
+				"id": "GA_FPlayerFanMelee_AirAttack"
+			},
+			{
+				"name": "Sol dispersé",
+				"description": "Après avoir effectué deux attaques normales au sol ou dans les airs, maintenez Attaque normale pour déclencher Sol dispersé.\r\nAttaque la position de la cible, inflige des dégâts équivalant à **83.2%** de l'ATQ + **499** et renverse la cible.\r\nEffet passif: après avoir lancé Sol dispersé au sol, appuyer rapidement sur Attaque normale lance immédiatement Floraison rapide (au 3ecumul).",
+				"icon": "skill_Fan_branch",
+				"id": "GA_FPlayerFanMelee_Branch"
+			},
+			{
+				"name": "Floraison rapide",
+				"description": "Maintenez Attaque normale pour lancer Floraison rapide. L'effet peut être chargé jusqu'à 3cumuls, octroyant Hypercorps et une immunité au contrôle pendant le chargement.\r\nPremier cumul: inflige des dégâts équivalant à **73.9%** de l'ATQ + **443**.\r\nDeuxième cumul: inflige des dégâts équivalant à **146.2%** de l'ATQ + **877**.\r\nTroisième cumul: inflige des dégâts équivalant à **246.4%** de l'ATQ + **1478**.",
+				"icon": "skill_Fan_powerattack",
+				"id": "GA_FPlayerFanMelee_PowerAttack"
+			},
+			{
+				"name": "Ombre tombante",
+				"description": "Maintenez Attaque normale lorsque vous êtes en l'air pour déclencher Ombre tombante.\r\nEn tombant des cieux, vous infligez des dégâts équivalant à **160%** de l'ATQ + **960** et renversez la cible.",
+				"icon": "skill_Fan_jumpattack",
+				"id": "GA_FPlayerFanMelee_JumpAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Esquiver",
+				"description": "Esquivez juste avant de recevoir un coup pour déclencher Fantaisie, réduisant la vitesse des ennemis dans la zone. L'esquive vous immunise contre l'hébétement pendant **0,5** seconde.",
+				"icon": "common_evade",
+				"id": "GA_FPlayerFanEvade_Evade"
+			},
+			{
+				"name": "Vert feuille",
+				"description": "Envoie Vert feuille sur la cible tout en effectuant un salto arrière, infligeant des dégâts équivalant à **70%** de l'ATQ + **420**, générant entre **1 et 3**épicactus en cas d'impact et formant un champ vert qui dure **5**secondes. La vitesse de déplacement des ennemis est réduite de **50%** lorsqu'ils verrouillent l'Explorateur.\r\nEffet passif: disponible à la fois au sol et dans les airs.\r\nEffet passif: rompt immédiatement les effets de contrôle actifs et libère Vert feuille sans dépenser de tentative d'esquive. Le temps de recharge de la compétence est de **20**secondes.",
+				"icon": "skill_Fan_rollattack",
+				"id": "GA_FPlayerFanEvade_RollAttack"
+			}
+		],
+		"skill": [
+			{
+				"name": "Royaume du Clair de lune",
+				"description": "Crée un Royaume du Clair de lune autour de vous pendant **15** secondes. Les dégâts que vous infligez dans le royaume sont accrus de **15%**, la capacité de saut de **20%** et la consommation d'endurance est réduite de **50%**. Temps de recharge : **30** secondes.\r\nEntrez dans l'état spécial Fleur d'air lorsque Tissombre est déclenché dans le Royaume du Clair de lune, permettant des doubles sauts multiples et entraînant une réduction importante de la vitesse de chute. Dans cet état, utiliser les touches directionnelles ou le bouton de saut lorsque vous êtes en l'air entraîne Itinérance et lance une attaque sur la cible. Au contact, inflige des dégâts équivalant à **66%** de l'ATQ + **396** et génère de manière aléatoire **1 à 3** épicactus.\r\n\r\nEffet passif : dans le Royaume du Clair de lune, **1** épicactus apparaît près de 1 cible toutes les **0,8** seconde. \r\nEffet passif : lorsque vous utilisez Tissombre dans le Royaume du Clair de lune, vous infligez **50%** de dégâts supplémentaires aux ennemis dont les PV sont inférieurs à **20%**.\r\nEffet passif : lorsque vous utilisez Tissombre dans le Royaume du Clair de lune, les dégâts subis seront détectés et vous vous téléporterez loin de leur source. Temps de recharge : **10** secondes.\r\n\r\nEffet passif : Maître d'armes\r\nFeu : lorsque Tissombre est associé à 2 armes de feu, le Royaume du Clair de lune se transforme en Royaume du Clair de feu. Les cibles brûlées dans le Royaume du Clair de feu brûlent pendant **4** secondes supplémentaires. Les cibles dotées d'un bouclier subissent **15%** de dégâts de feu supplémentaires. \r\n\r\nFoudre : lorsque Tissombre est associé à 2 armes de foudre, le Royaume du Clair de lune se transforme en Royaume du Clair de foudre, avec **65%** de chances de ne pas utiliser de tentative d'esquive pendant une esquive et un bonus de **5%** aux dégâts issus des attaques d'esquive. Les dégâts de foudre gagnent **10%** supplémentaires.\r\n\r\nGivre : lorsque Tissombre est associé à 2 armes de givre, le Royaume du Clair de lune se transforme en Royaume du Clair de givre. L'attaque de givre gagne **10%**.\r\n\r\nPhysique : lorsque Tissombre est associé à 2 armes physiques, le Royaume du Clair de lune se transforme en Royaume du Clair physique. Dans le Royaume du Clair physique, vous infligez des dégâts équivalant à **50%** de l'ATQ + **300** aux cibles à portée par seconde.\r\n\r\nÉquilibre : lorsque Tissombre est associé à 2 armes élémentaires différentes (parmi les armes de feu, de foudre, de givre et physiques), l'ATQ de l'Explorateur augmente de **15%** dans le Royaume et active une résonance de feu, de foudre, de givre et physique sans les effets de résonance.",
+				"icon": "skill_Fan_skill",
+				"id": "GA_FPlayerFanSkill_Skill"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Gravitisse",
+				"description": "Lorsque la **recharge d'arme est pleine** ou que **Fantaisie** est déclenchée, **supprime toutes les altérations sur l'Explorateur** et déclenche Gravitisse avec une force d'absorption supérieure au moment où vous changez d'arme pour passer à celle-ci, infligeant des dégâts équivalant à **368.5%** de l'ATQ + **2211**. Après **5**secondes, cela crée une explosion et une onde de diffusion à distance, infligeant des dégâts équivalant à **184.3%** + **1106**. L'immunité aux dégâts dure **1,5**seconde lorsque la compétence est activée (non disponible en Ligue ultime).",
+				"icon": "skill_Fan_changeskill",
+				"id": "GA_FPlayerFanChangeSkill_Success"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "Combiner Tissombre avec d'autres armes permet de déclencher l'effet **Maître d'armes**.\r\nDe l'épicactus apparaîtra aléatoirement autour de la cible et explosera dans un délai de **1 à 3**secondes en infligeant **37,5%** de dégâts de zone.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "None"
+		},
+		{
+			"description": "À l'impact, les attaques normales infligent des dégâts de zone.\r\nLorsqu'un autre épicactus se trouve dans la zone d'explosion d'un épicactus, les dégâts infligés par les explosions d'épicactus suivantes augmentent de **1000%**, jusqu'à un maximum de **5000%**.\r\nRéduit l'intervalle de génération d'épicactus du **Royaume du Clair de lune** à **0,5**seconde.\r\n",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Accroît de **16%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Réduit l'intervalle de génération d'épicactus du **Royaume du Clair de lune** à **0,3**seconde.\r\nLes épicactus s'accrochent à l'ennemi.\r\nAugmente la durée de **Royaume du Clair de lune** à **20**secondes.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Accroît de **32%** la croissance d'ATQ de base de l'arme actuelle.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Lorsque vous bénéficiez de l'effet de **Royaume du Clair de lune**, gagnez **30**points de recharge d'arme chaque seconde, augmentant les dégâts infligés par les compétences de décharge de **15%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		},
+		{
+			"description": "Vous pouvez passer en mode **Royaume du Clair de lune** jusqu'à **2**fois. Vous gagnez **1**tentative après le temps de recharge de la compétence et **1**tentative par décharge.\r\nUtilisez n'importe quelle décharge d'arme **3**fois pour obtenir **+1**tentative de **Royaume du Clair de lune** supplémentaire. Efficace même lorsque Tissombre est dans l'emplacement main libre.\r\nSous l'effet de **Royaume du Clair de lune**, l'attaque augmente de **23%**.",
+			"stats": {
+				"shatter": 11.5,
+				"charge": 11.5
+			},
+			"need": "fan_superpower_plasm"
+		}
+	],
+	"id": "fan_superpower"
+}

@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_003",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_009",
+	"advancement": [
+		{
+			"description": "毎秒発射するミサイルの数が増加する    ",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "多連装ミサイルのダメージ+**20%**     ",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "多連装ミサイルが**12**秒間持続     ",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "物理ダメージ+**1.5%**。セットしていなくても有効(トップリーグでは無効)",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "毎秒発射するミサイルの数が再度増加する      ",
+			"id": "artifact_adv_009"
+		}
+	],
 	"id": "artifact_sr_010"
 }

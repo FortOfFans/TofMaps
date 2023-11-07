@@ -1,0 +1,198 @@
+{
+	"name": "Mobius",
+	"avatar": {
+		"name": "Umi",
+		"advanceId": "imitation_31L1",
+		"weapon": "whip_physic",
+		"icon": "imitation_31",
+		"avatarID": "wumi",
+		"age": "20 de octubre",
+		"height": "162cm",
+		"gender": "Femenino",
+		"state": "Distrito 7 de Hykros",
+		"city": "Espejia",
+		"rating": "wuwei_imitation_31",
+		"gp": [
+			"game",
+			"Vera"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 刘雯"
+			},
+			{
+				"Japanese": "CV : M・A・O"
+			},
+			{
+				"English": "CV : Anne Yatco"
+			},
+			{
+				"Korean": "CV : 김연우"
+			},
+			{
+				"Portuguese": "CV : Pâmela Rodrigues"
+			}
+		],
+		"id": "imitation_31"
+	},
+	"description": "El látigo preferido de la nueva Ejecutora, Umi. Lo que más le gusta a Umi es que normalmente no se tropieza con él.",
+	"icon": "item_Weapon_SSR_Whip_Phy01",
+	"gachaIcon": "SSR_lh_wumi",
+	"rarity": "SSR",
+	"element": "Physics",
+	"weaponType": "Whip",
+	"wc": "DPS",
+	"mats": {
+		"Item_Mine_physic": 39,
+		"Item_Mine_physic_02": 65,
+		"Item_breakthrough_A2": 65,
+		"Item_breakthrough_C2": 65,
+		"Item_Mine_physic_03": 32,
+		"Item_breakthrough_A3": 32,
+		"Item_breakthrough_C3": 32,
+		"Item_breakthrough_A1": 35,
+		"Item_breakthrough_C1": 32
+	},
+	"advanceID": "Whip_physic_ssr_star",
+	"skills": {
+		"normals": [
+			{
+				"name": "Técnica Básica",
+				"description": "Mientras estás en el suelo, usa a Mobius para lanzar 5 ataques consecutivos.\r\nPrimer ataque: Inflige daño igual a **76.9%** del ATQ más **461** y hace retroceder al objetivo.\r\nSegundo ataque: Inflige daño igual a **84.4%** del ATQ más **506** y hace retroceder al objetivo.\r\nTercer ataque: Inflige daño igual a **112.1%** del ATQ más **673** y derriba al objetivo.\r\nCuarto ataque: Inflige daño igual a **105.5%** del ATQ más **633** y arrastra y suelta al objetivo.\r\nQuinto ataque: Inflige daño igual a **265.1%** del ATQ más **1590** y lanza al objetivo.\r\nAumenta la destrucción un **50%** adicional.",
+				"icon": "skill_whip_melee",
+				"id": "GA_FPlayerWhipMelee_Melee"
+			},
+			{
+				"name": "Combo Aéreo",
+				"description": "Mientras estás en el aire, usas el ataque normal 5 veces seguidas en el aire y consumes tu resistencia.\r\nPrimer ataque: Inflige daño igual a **46%** del ATQ más **276**.\r\nSegundo ataque: Inflige daño igual a **66.5%** del ATQ más **399**.\r\nTercer ataque: Inflige daño igual a **88.4%** del ATQ más **530**.\r\nCuarto ataque: Inflige daño igual a **88.8%** del ATQ más **533**.\r\nQuinto ataque: Inflige daño igual a **260.5%** del ATQ más **1563**.",
+				"icon": "skill_whip_airattack",
+				"id": "GA_FPlayerWhipMelee_AirAttack"
+			},
+			{
+				"name": "De la nada",
+				"description": "Mientras utilizas la Técnica Básica en el suelo, pulsa y mantén pulsado el ataque normal para activar De la Nada directamente según el objetivo fijado en ese momento. Los objetivos fijados más pequeños reciben daño igual a **105%** del ATQ más **630** y atrae a los objetivos cercanos. Los objetivos fijados más grandes reciben daño igual a **85.5%** del ATQ más **513** y atrae a los objetivos cercanos. Aumenta la destrucción de esta habilidad un **50%** adicional.",
+				"icon": "skill_whip_branch",
+				"id": "GA_FPlayerWhipMelee_MeleeBranch"
+			},
+			{
+				"name": "Rotación de Etapa ",
+				"description": "Pulsa y mantén pulsado el ataque normal en el aire, o usa el ataque normal al escalar, saltar hacia atrás o usar el Propulsor para activar Vapuleador.\r\nCae en picado desde el cielo e inflige daño igual al **121.5%** del ATQ más **729** y lanza al objetivo.",
+				"icon": "skill_whip_jumpattack",
+				"id": "GA_FPlayerWhipMelee_JumpAttack"
+			},
+			{
+				"name": "Magia de Cerca",
+				"description": "Pulsa y mantén pulsado el ataque normal en el suelo para cargar Anticipación, y suelta el botón para activar Magia de Cerca según el objetivo fijado en ese momento. Los objetivos fijados más pequeños reciben daño igual a **105%** del ATQ más **630** y atrae a los objetivos cercanos. Los objetivos fijados más grandes reciben daño igual a **85.5%** del ATQ más **513** y atrae a los objetivos cercanos. Aumenta la destrucción de esta habilidad un **50%** adicional.",
+				"icon": "skill_whip_powerattack",
+				"id": "GA_FPlayerWhipMelee_PowerAttack"
+			}
+		],
+		"dodge": [
+			{
+				"name": "Gran Ilusión",
+				"description": "Usa tu ataque normal durante el breve periodo tras evadir para activar Gran Ilusión, lo que inflige daño igual a **187.2%** del ATQ más **1123** a los objetivos cercanos. Aumenta la destrucción de esta habilidad un **50%** adicional.",
+				"icon": "skill_whip_evadeattack",
+				"id": "GA_FPlayerWhipEvade_EvadeAttack"
+			},
+			{
+				"name": "Evasión",
+				"description": "Evade justo antes de recibir un impacto para activar Phantasia, lo que reduce la velocidad de los enemigos dentro del área. Te vuelves inmune a la conmoción mientras evades durante **0.5**seg.",
+				"icon": "skill_dgun_evade",
+				"id": "GA_FPlayerWhipEvade_Evade"
+			}
+		],
+		"skill": [
+			{
+				"name": "Hora de la Magia",
+				"description": "Infligir daño con cualquier arma de la ranura principal acumulará **puntos de calentamiento**. Enfriamiento: **0.06**seg. Las armas físicas acumulan **1** punto con cada impacto, y las armas que no sean físicas acumulan **0.5** puntos con cada impacto. El número de **puntos de calentamiento** que tienes se muestran en el **medidor mágico**, hasta **100** puntos. Al entrar en batalla, ganas inmediatamente **100** **puntos de calentamiento**.\r\nPuedes lanzar las habilidades una vez que haya **100** **puntos de calentamiento** en el **medidor mágico**. Atrae a los enemigos de un área determinada e inflige daño igual a **950%** del ATQ más **5700** al objetivo. Te vuelves temporalmente invencible (no disponible en la Liga Ápex ni en el Abismo Crítico) y reduces la velocidad de los objetivos dentro del área de impacto (no disponible en la Liga Ápex ni en el Abismo Crítico). Al mismo tiempo, activa **Truco de Magia** para consumir continuamente **puntos de calentamiento** por **18**seg. Enfriamiento: **30**seg. Este enfriamiento no se ve afectado por efectos (incluyendo completar niveles, reiniciarlos o cambios del tiempo de enfriamiento) que no sean de Mobius. Durante este tiempo, el botón de habilidad se sustituye por un botón de Cortar Cartas.\r\nDurante **Truco de Magia**, obtienes automáticamente una **carta de póquer** de **pica** o de **corazón** cada 2seg. Puedes cambiar de antemano el tipo de **cartas de póquer** que obtendrás con el botón de Cortar Cartas. Cuando haya **2** **cartas de póquer**, se utilizará automáticamente la **Magia de Cartas** correspondiente. Enfriamiento: **3.8**seg.\r\nDurante **Truco de Magia**, ganas hipercuerpo y se considera que tienes un escudo. Tu **medidor mágico** tampoco se repondrá automáticamente. Aumenta el daño físico de los ataques de Mobius (ataque normal y ataque de evasión) un **10%** y la destrucción un **20%**.\r\nUsar diferentes combinaciones de **cartas de póquer** activará diferentes efectos de **Magia de Cartas**.\r\nCorazón + Pica → **Marioneta Psíquica**\r\nCorazón + Corazón → **Corrosión Contradictoria**\r\nPica + Pica → **Barrido de Cartas**\r\n**Truco de Magia** termina al cambiar a otra arma de cualquier forma o si te derrotan.\r\nGanas hipercuerpo por **20**seg cuando Truco de Magia termina. Si termina de forma natural, inflige daño adicional igual a **1000%** del ATQ a los objetivos cercanos.",
+				"icon": "whip_skill",
+				"id": "GA_FPlayerWhipSkill_Skill"
+			},
+			{
+				"name": "Marioneta Psíquica",
+				"description": "Saca una colonia de murciélagos de tu sombrero, lo que te potencia. Durante **Truco de Magia**, aumenta el daño físico infligido por Mobius un **7.5%**, y solo se contabilizará el **60%** del daño recibido. El **40%** restante se deduce lentamente de tu PS por **10**seg después de que **Truco de Magia** termina. El efecto de recuento retrasado solo se aplica cuando Resonancia de Fortaleza no está activa.",
+				"icon": "whip_skillAB",
+				"id": "GA_FPlayerWhipSkill_Skill_MagicAB"
+			},
+			{
+				"name": "Corrosión Contradictoria",
+				"description": "Recuperas de inmediato el **10%** de los PS Máx. y planta una Flor de Corrosión hasta en **7** objetivos dentro de un radio determinado, lo que inflige daño igual al **260%** del ATQ cada segundo por **3**seg.",
+				"icon": "whip_skillAA",
+				"id": "GA_FPlayerWhipSkill_Skill_MagicAA"
+			},
+			{
+				"name": "Barrido de Cartas",
+				"description": "Invoca un gran número de cartas voladoras, las que forman un huracán que se dirige a la ubicación objetivo, atacan al objetivo hasta **12** veces y causan un daño total igual al **850%** del ATQ.",
+				"icon": "whip_skillBB",
+				"id": "GA_FPlayerWhipSkill_Skill_MagicBB"
+			}
+		],
+		"discharge": [
+			{
+				"name": "Prestidigitación",
+				"description": "Cuando la **carga de arma** está completa o se activa **Phantasia**, al cambiar a esta arma, **elimina todas las desventajas del nómada**, lanzas Prestidigitación y te otorga invencibilidad temporal (no disponible en la Liga Ápex ni en el Abismo Crítico). Al aterrizar, inflige daño igual a **316.2%** del ATQ más **1897** al objetivo. Tras blandir el látigo, inflige daño igual a **737.8%** del ATQ más **4426** al objetivo y **lanza fuerte** al objetivo.",
+				"icon": "skill_whip_changeskill",
+				"id": "GA_FPlayerWhipChangeSkill"
+			}
+		]
+	},
+	"stars": [
+		{
+			"description": "**Resonancia Física**: Aumenta el ATQ físico un **15%** y la resistencia física un **25%**. Se activa equipando **2** o más armas físicas. Este efecto de set funciona en la ranura secundaria. No se puede acumular con efectos del mismo tipo.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "None"
+		},
+		{
+			"description": "Al cambiar a Mobius, ganas inmediatamente **30** puntos de calentamiento. Enfriamiento: **17**seg. Al entrar a Truco de Magia, inflige daño de área igual a **840%** del ATQ a los objetivos cercanos y reduce su resistencia física un **1000%** por **20**seg.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **16%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Al terminar Truco de Magia antes de tiempo, infliges daño de área amplio por **13**seg. Reduce el enfriamiento actual de la habilidad de Mobius y aumenta el daño físico un **25%** por un periodo (este efecto no se aplica a Mobius). Si al Truco de Magia le quedan más de **13**seg, ganas **200** de carga de arma. Cuanto más tiempo quede cuando termine el Truco de Magia, mayor será el daño de área, mayor será la reducción de enfriamiento de habilidades y más durará el refuerzo de daño físico. El daño de área infligido tiene un límite de **200%** del ATQ (el daño máximo se inflige cuando el tiempo restante es superior a **13**seg). La reducción de enfriamiento máxima es de **13**seg, y el refuerzo de daño físico puede durar hasta **20**seg.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Aumenta el crecimiento de ATQ base del arma actual un **32%**.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Obtienes el efecto Marioneta Psíquica al entrar en el Truco de Magia, lo que aumenta el Refuerzo de Daño Físico de Mobius a **15%**. Durante Truco de Magia, recuperas **2%** de tus PS Máx. y **10** carga de arma cada segundo.",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		},
+		{
+			"description": "Durante Truco de Magia, Mobius tiene un látigo adicional que se lanza automáticamente cada vez que el nómada usa a Mobius para realizar ataques normales o ataques de evasión, lo que inflige daño igual a **100%** del ATQ de Mobius (este daño no cuenta como de ataques normales).",
+			"stats": {
+				"shatter": 12,
+				"charge": 9
+			},
+			"need": "Whip_physic_plasm"
+		}
+	],
+	"id": "whip_physic"
+}

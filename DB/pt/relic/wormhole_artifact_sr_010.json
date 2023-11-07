@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_ssr_003",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_009",
+	"advancement": [
+		{
+			"description": "Aumenta o número de mísseis lançados por segundo.    ",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "Aumenta em **20%** o dano de Salva de Mísseis.     ",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "Salva de Mísseis dura **12** segundos.     ",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "Aumenta o dano físico em **1,5%**, mesmo se não utilizada. Indisponível na Liga do Apogeu.",
+			"id": "artifact_adv_009"
+		},
+		{
+			"description": "Aumenta mais o número de mísseis lançados por segundo.      ",
+			"id": "artifact_adv_009"
+		}
+	],
 	"id": "wormhole_artifact_sr_010"
 }

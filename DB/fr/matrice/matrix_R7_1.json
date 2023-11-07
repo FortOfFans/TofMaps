@@ -1,0 +1,14 @@
+{
+	"name": "Pacte de purge",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "C'est l'heure du nettoyage de printemps.",
+	"icon": "icon_matrix_R7_512",
+	"gachaIcon": "icon_matrix_R7_512",
+	"rarity": "R",
+	"set": [
+		{
+			"2": "Réduit de **6%** les dégâts reçus."
+		}
+	],
+	"id": "matrix_R7_1"
+}

@@ -1,0 +1,14 @@
+{
+	"name": "Purge Pact",
+	"type": "ITEM_TYPE_MATRIX",
+	"description": "It's time for spring cleaning.",
+	"icon": "icon_matrix_R7_512",
+	"gachaIcon": "icon_matrix_R7_512",
+	"rarity": "R",
+	"set": [
+		{
+			"2": "Reduce damage received by **6%**."
+		}
+	],
+	"id": "matrix_R7_1"
+}

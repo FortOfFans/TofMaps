@@ -7,5 +7,27 @@
 	"shortIcon": "artifact_sr_011",
 	"rarity": "EPIC",
 	"AttributeID": "artifact_adv_008",
+	"advancement": [
+		{
+			"description": "使用后获得电磁护盾，使自身受到伤害减少**20%**，持续**7**秒",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "每**15**秒恢复**1**次充能  ",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "最多可积攒**3**次",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "增加**1.5%**寒冰伤害，不上阵也生效，巅峰联赛中不生效",
+			"id": "artifact_adv_008"
+		},
+		{
+			"description": "命中使目标在**7**秒内最终伤害降低**30%**",
+			"id": "artifact_adv_008"
+		}
+	],
 	"id": "artifact_sr_011"
 }
