@@ -4094,7 +4094,7 @@
 			0.04,
 			1800
 		],
-		"effect": "Meningkatkan **Volt Attack +4%Volt Resistance +%** selama **Volt Attack +undefined%Volt Resistance +%** detik."
+		"effect": "Meningkatkan **Volt Attack +4% Volt Resistance +1800** selama **Volt Attack +undefined%Volt Resistance +%** detik."
 	},
 	"item_Cooking_5007": {
 		"name": "Salad Lobak",
@@ -4124,7 +4124,7 @@
 			0.04,
 			1800
 		],
-		"effect": "Meningkatkan **Flame Attack +4%Flame Resistance +%** selama **Flame Attack +undefined%Flame Resistance +%** detik."
+		"effect": "Meningkatkan **Flame Attack +4% Flame Resistance +1800** selama **Flame Attack +undefined%Flame Resistance +%** detik."
 	},
 	"item_activity_cooking_001": {
 		"name": "Kambing Guling",

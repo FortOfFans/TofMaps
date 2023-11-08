@@ -4094,7 +4094,7 @@
 			0.04,
 			1800
 		],
-		"effect": "**Volt Attack +4%Volt Resistance +%** увеличивается на **Volt Attack +undefined%Volt Resistance +%** сек."
+		"effect": "**Volt Attack +4% Volt Resistance +1800** увеличивается на **Volt Attack +undefined%Volt Resistance +%** сек."
 	},
 	"item_Cooking_5007": {
 		"name": "Нефритовая бегония",
@@ -4124,7 +4124,7 @@
 			0.04,
 			1800
 		],
-		"effect": "**Flame Attack +4%Flame Resistance +%** увеличивается на **Flame Attack +undefined%Flame Resistance +%** сек."
+		"effect": "**Flame Attack +4% Flame Resistance +1800** увеличивается на **Flame Attack +undefined%Flame Resistance +%** сек."
 	},
 	"item_activity_cooking_001": {
 		"name": "Жареный молочный поросёнок",

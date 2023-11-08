@@ -4094,7 +4094,7 @@
 			0.04,
 			1800
 		],
-		"effect": "Accroît **Volt Attack +4%Volt Resistance +%** pendant **Volt Attack +undefined%Volt Resistance +%**secondes."
+		"effect": "Accroît **Volt Attack +4% Volt Resistance +1800** pendant **Volt Attack +undefined%Volt Resistance +%**secondes."
 	},
 	"item_Cooking_5007": {
 		"name": "Bégonia blanc de jade",
@@ -4124,7 +4124,7 @@
 			0.04,
 			1800
 		],
-		"effect": "Accroît **Flame Attack +4%Flame Resistance +%** pendant **Flame Attack +undefined%Flame Resistance +%**secondes."
+		"effect": "Accroît **Flame Attack +4% Flame Resistance +1800** pendant **Flame Attack +undefined%Flame Resistance +%**secondes."
 	},
 	"item_activity_cooking_001": {
 		"name": "Cochon de lait rôti",
