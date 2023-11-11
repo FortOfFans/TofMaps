@@ -3,14 +3,14 @@
 		"name": "Линхань",
 		"advanceId": "imitation_43L1",
 		"weapon": "linghan_ice",
-		"icon": "imitation_43",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_43",
 		"avatarID": "linghan",
 		"age": "7 июня",
 		"height": "181 см",
 		"gender": "Женский",
 		"state": "Павильон Лунцзянь",
 		"city": "Город Болот",
-		"rating": "wuwei_imitation_43",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_43",
 		"gp": [
 			"collection",
 			"decorate",
@@ -33,20 +33,31 @@
 				"Portuguese": "CV : SAMIRA FERNANDES"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Надзирающий клинок",
+				"description": "Увеличивает конечный урон на **0%**. Когда **Алебастровый тигр** в экипировке, **каждое** оружие холода в экипировке увеличивает урон от холода на **1%**."
+			},
+			"level2": {
+				"name": "Господствующий клинок",
+				"description": "Увеличивает конечный урон на **0%**.\r\nКогда **Алебастровый тигр** в экипировке, использование навыка **«Мастер меча: Ледяное возвращение»** дает невосприимчивость к урону на **4** сек. (недоступно в Высшей лиге). **Каждое** оружие холода в экипировке увеличивает урон от холода на **1%**. Когда в экипировке **3** предмета оружия холода, использование любого навыка оружия холода дополнительно дает **2**ед. заряда оружия. После использования любого навыка оружия холода или разрядки любого оружия, кроме **Алебастрового тигра**, наносит ближайшим целям дополнительный урон в размере **1456%** от АТК."
+			},
+			"id": "imitation_43"
+		},
 		"id": "imitation_43"
 	},
 	"imitation_51": {
 		"name": "Фэй Сэ",
 		"advanceId": "imitation_51L1",
 		"weapon": "feise_fire",
-		"icon": "imitation_51",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_51",
 		"avatarID": "feise",
 		"age": "23 августа",
 		"height": "175 см",
 		"gender": "Женский",
 		"state": "Призрачный дворец",
 		"city": "Город Огня",
-		"rating": "wuwei_imitation_51",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_51",
 		"gp": [
 			"everydayObjects",
 			"collection",
@@ -69,20 +80,31 @@
 				"Portuguese": "CV : LUCIANA BAROLI"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Танец лотоса",
+				"description": "Увеличивает конечный урон на **0%**.\r\nПосле использования **Кружения** **каждое** оружие огня в экипировке увеличивает конечный урон на **1%** на **2** сек."
+			},
+			"level2": {
+				"name": "Черная тень",
+				"description": "Увеличивает конечный урон на **0%**.\r\nПосле использования **Кружения** **каждое** оружие огня в экипировке увеличивает конечный урон на **1%** на **2** сек."
+			},
+			"id": "imitation_51"
+		},
 		"id": "imitation_51"
 	},
 	"imitation_33": {
 		"name": "Молиния",
 		"advanceId": "imitation_33L1",
 		"weapon": "none",
-		"icon": "imitation_21",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21",
 		"avatarID": "moliniya",
 		"age": "6 января",
 		"height": "155 см",
 		"gender": "Женский",
 		"state": "Округ 9 Гикроса",
 		"city": "Уоррен",
-		"rating": "wuwei_imitation_33",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_33",
 		"gp": [
 			"everydayObjects",
 			"decorate",
@@ -105,20 +127,31 @@
 				"Portuguese": "Nina Carvalho"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Тихий звон",
+				"description": "Получаемое лечение увеличено на **15%**."
+			},
+			"level2": {
+				"name": "Глубокое чувство",
+				"description": "Получаемое лечение увеличено на **30%**."
+			},
+			"id": "imitation_33"
+		},
 		"id": "imitation_33"
 	},
 	"imitation_41": {
 		"name": "Хуан",
 		"advanceId": "imitation_41L1",
 		"weapon": "mimi_thunder",
-		"icon": "imitation_41",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_41",
 		"avatarID": "mimi",
 		"age": "23 июля",
 		"height": "135 см",
 		"gender": "Женский",
 		"state": "Павильон Тяньчжан",
 		"city": "Город Гроз",
-		"rating": "wuwei_imitation_41",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_41",
 		"gp": [
 			"toy",
 			"garageKit",
@@ -141,20 +174,31 @@
 				"Portuguese": "CV : BIANCA ALENCAR"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Бамбуковые колья",
+				"description": "Увеличивает конечный урон на **0%**.\r\nКогда в экипировке **3** предмета оружия электричества, увеличивает урон от электричества на **1%**."
+			},
+			"level2": {
+				"name": "Нефритовое сияние",
+				"description": "Увеличивает конечный урон на **0%**.\r\nКогда в экипировке **3** предмета оружия электричества, увеличивает урон от электричества на **1%**, а длительность баффа, повышающего шанс крит. удара, дополнительно увеличивается на **2** сек."
+			},
+			"id": "imitation_41"
+		},
 		"id": "imitation_41"
 	},
 	"imitation_50": {
 		"name": "Мин Цзин",
 		"advanceId": "imitation_50L1",
 		"weapon": "zeke_physic",
-		"icon": "imitation_50",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_50",
 		"avatarID": "mingjing",
 		"age": "12 ноября",
 		"height": "191 см",
 		"gender": "Мужской",
 		"state": "Территория 9",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_50",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_50",
 		"gp": [
 			"everydayObjects",
 			"Asshai",
@@ -178,20 +222,31 @@
 				"Portuguese": "CV : Wendel Bezerra"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Найти себя",
+				"description": "Увеличивает конечный урон на **0%**.\r\nБазовая физическая АТК странника увеличивается до наибольшего среди значений базовой атаки огнем/холодом/электричеством или физической атаки. Когда в ячейке основного оружия **Ониксовая черепаха**, урон от обычных атак увеличивается на **1%**."
+			},
+			"level2": {
+				"name": "Бескорыстие",
+				"description": "Увеличивает конечный урон на **0%**.\r\nБазовая физическая АТК странника увеличивается до наибольшего среди значений базовой атаки огнем/холодом/электричеством или физической атаки. Когда в ячейке основного оружия **Ониксовая черепаха**, урон от обычных атак увеличивается на **1%**."
+			},
+			"id": "imitation_50"
+		},
 		"id": "imitation_50"
 	},
 	"imitation_38": {
 		"name": "Юйлань",
 		"advanceId": "imitation_38L1",
 		"weapon": "yulan_ice",
-		"icon": "imitation_38",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38",
 		"avatarID": "yulan",
 		"age": "9 февраля",
 		"height": "175 см",
 		"gender": "Женский",
 		"state": "Страж Солнечных Часов",
 		"city": "Территория 9",
-		"rating": "wuwei_imitation_38",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_38",
 		"gp": [
 			"everydayObjects",
 			"collection",
@@ -214,20 +269,31 @@
 				"Portuguese": "CV : LUIZA PORTO"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Устойчивая ци",
+				"description": "Увеличивает конечный урон на **0%**.\r\nВ **боевой форме** дополнительно увеличивает конечный урон на **1%**.\r\nВ форме **Сметающей силы** за **каждое** применяемое оружие холода увеличивает урон, наносимый поглощением **Бойцовского духа**, на **3%**. Когда в экипировке **3** предмета оружия холода, увеличивает урон от холода на **4%**."
+			},
+			"level2": {
+				"name": "Внимание",
+				"description": "Увеличивает конечный урон на **0%**.\r\nВ **боевой форме** дополнительно увеличивает конечный урон на **1%**.\r\nВ форме **Сметающей силы** за **каждое** применяемое оружие холода увеличивает урон, наносимый поглощением **Бойцовского духа**, на **3%**. Когда в экипировке **3** предмета оружия холода, увеличивает урон от холода на **4%**."
+			},
+			"id": "imitation_38"
+		},
 		"id": "imitation_38"
 	},
 	"imitation_37": {
 		"name": "Лю Хо",
 		"advanceId": "imitation_37L1",
 		"weapon": "brush_fire",
-		"icon": "imitation_37",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_37",
 		"avatarID": "liuhuo",
 		"age": "19 августа",
 		"height": "153 см",
 		"gender": "Женский",
 		"state": "Чертог Огня",
 		"city": "Город Огня",
-		"rating": "wuwei_imitation_37",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_37",
 		"gp": [
 			"everydayObjects",
 			"metal",
@@ -250,20 +316,31 @@
 				"Portuguese": "CV : ISABELLA GUARNIERI"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Экономия чернил",
+				"description": "Увеличивает конечный урон на **0%**. Когда **Сосновая комета** находится в ячейке дополнительного оружия, частота запуска **воробьиного перышка** увеличивается до **1** в секунду."
+			},
+			"level2": {
+				"name": "Кисть наперевес",
+				"description": "Увеличивает конечный урон на **0%**. Когда **Сосновая комета** находится в ячейке дополнительного оружия, частота запуска **воробьиного перышка** увеличивается до **1** в секунду.\r\nКогда **воробьиное перышко** попадает в цель и вызывает эффект рассеивания, оно дополнительно рассеивает **Ионную вспышку** и **Перекрестное горение**.\r\nВ командной игре ваш урон, получаемый от приманенной цели, снижается на **1%**. Когда активирован резонанс силы духа, снижение урона увеличивается до **2%**."
+			},
+			"id": "imitation_37"
+		},
 		"id": "imitation_37"
 	},
 	"imitation_48": {
 		"name": "Рубилия",
 		"advanceId": "imitation_48L1",
 		"weapon": "rubilia_thunder",
-		"icon": "imitation_48",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_48",
 		"avatarID": "leibiliya",
 		"age": "24 апреля",
 		"height": "195см",
 		"gender": "Женский",
 		"state": "Миррория",
 		"city": "Миррория",
-		"rating": "wuwei_imitation_48",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_48",
 		"gp": [
 			"decorate",
 			"Vera"
@@ -285,20 +362,31 @@
 				"Portuguese": "CV : Jussara Marques"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Синергия",
+				"description": "Увеличивает урон от электричества на **0%** за **каждое** используемое оружие электричества."
+			},
+			"level2": {
+				"name": "Просветление",
+				"description": "Увеличивает урон от электричества на **0%** за **каждое** используемое оружие электричества. Время, в течение которого сущности Серой зоны контролируются Печатью, увеличено до **1** сек."
+			},
+			"id": "imitation_48"
+		},
 		"id": "imitation_48"
 	},
 	"imitation_27": {
 		"name": "Гнонно",
 		"advanceId": "imitation_27L1",
 		"weapon": "chainsaw_physic",
-		"icon": "imitation_27",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_27",
 		"avatarID": "genuonuo",
 		"age": "6 марта",
 		"height": "134см",
 		"gender": "Женский",
 		"state": "Неизвестно",
 		"city": "Иннарс",
-		"rating": "wuwei_imitation_27",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_27",
 		"gp": [
 			"Rarity",
 			"collection",
@@ -321,20 +409,31 @@
 				"Portuguese": "CV : Nina Carvalho"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Гнонно: Рябь",
+				"description": "Когда **Удар команды разведчиков** вызывает срабатывание **Тотального озверения**, увеличивает конечный урон на **0%**. Действует **30** секунд."
+			},
+			"level2": {
+				"name": "Гнонно: Рокот волн",
+				"description": "Когда **Удар команды разведчиков** вызывает срабатывание **Тотального озверения**, увеличивает конечный урон на **0%**. Действует **30** секунд.\r\nУвеличивает скорость передвижения под водой на **1%**."
+			},
+			"id": "imitation_27"
+		},
 		"id": "imitation_27"
 	},
 	"imitation_36": {
 		"name": "Фиона",
 		"advanceId": "imitation_36L1",
 		"weapon": "queen_superpower",
-		"icon": "imitation_36",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36",
 		"avatarID": "feiouna",
 		"age": "17 апреля",
 		"height": "185см",
 		"gender": "Женский",
 		"state": "Иннарс",
 		"city": "Иннарс",
-		"rating": "wuwei_imitation_36",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_36",
 		"gp": [
 			"collection",
 			"decorate",
@@ -357,20 +456,31 @@
 				"Portuguese": "CV : Mayara Stefane"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Мерцание",
+				"description": "Конечный урон увеличен на **0%**."
+			},
+			"level2": {
+				"name": "Отражение луны",
+				"description": "Увеличивает конечный урон на **0%**.\r\n**Усиление техники россыпи**\r\nУсиление гидрофокуса: весь стихийный урон увеличивается на **12%**.\r\nУсиление водоворота: если **Браслет луны и звезд** находится в ячейке основного оружия, урон от Водоворота увеличивается на **30%**.\r\nУсиление бурной силы: урон от разряда увеличивается на **12%**.\r\nУсиление Мальстрёма: при нанесении физического урона во время действия Мальстрёма дополнительно усиливает конечный урон вплоть до **33%** (достигает максимума за 10 секунд).\r\nУсиление водных кандалов: если активен резонанс посвящения, длительность Водной тюрьмы увеличивается до **5** секунд, а параметр снижения базового сопротивления Водной тюрьмы увеличивается до **10%**.\r\nУсиление неистощимого источника: пока действует резонанс силы духа, сопротивление увеличивается на (**макс. ОЗ**/**100000**)%, но не более чем на **10%**."
+			},
+			"id": "imitation_36"
+		},
 		"id": "imitation_36"
 	},
 	"imitation_35": {
 		"name": "Икар",
 		"advanceId": "imitation_35L1",
 		"weapon": "yoyo_ice",
-		"icon": "imitation_35",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_35",
 		"avatarID": "yikaluosi",
 		"age": "24 октября",
 		"height": "161 см",
 		"gender": "Мужской",
 		"state": "Отряд Муке",
 		"city": "Гикрос",
-		"rating": "wuwei_imitation_35",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_35",
 		"gp": [
 			"collection",
 			"metal",
@@ -394,20 +504,31 @@
 				"Portuguese": "CV : Úrsula Bezerra"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Сильный мороз",
+				"description": "Добавьте в экипировку Драгоценность, чтобы увеличить конечный урон на **0%**. При использовании Драгоценности повышает раскол на **1%**."
+			},
+			"level2": {
+				"name": "Расплавленные перья",
+				"description": "Добавьте в экипировку Драгоценность, чтобы увеличить конечный урон на **0%**. При использовании Драгоценности повышает раскол на **1%**."
+			},
+			"id": "imitation_35"
+		},
 		"id": "imitation_35"
 	},
 	"imitation_34": {
 		"name": "Лань",
 		"advanceId": "imitation_34L1",
 		"weapon": "umbrella_fire",
-		"icon": "imitation_34",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34",
 		"avatarID": "lan",
 		"age": "5 мая",
 		"height": "172см",
 		"gender": "Женский",
 		"state": "Стражи тени",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_34",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_34",
 		"gp": [
 			"Rarity",
 			"everydayObjects",
@@ -431,20 +552,31 @@
 				"Portuguese": "CV : Luiza Caspary"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Бушующий огонь",
+				"description": "Во время действия резонанса силы духа урон от огня и холода, который вы и ваши товарищи получаете в Алом царстве, снижается на **0%**."
+			},
+			"level2": {
+				"name": "Башня пламени",
+				"description": "Во время действия резонанса силы духа урон от огня и холода, который вы и ваши товарищи получаете в Алом царстве, снижается на **0%**, а конечный урон увеличивается на **1%**."
+			},
+			"id": "imitation_34"
+		},
 		"id": "imitation_34"
 	},
 	"imitation_32": {
 		"name": "Фенрир",
 		"advanceId": "imitation_32L1",
 		"weapon": "fenrir_thunder",
-		"icon": "imitation_32",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32",
 		"avatarID": "fenlier",
 		"age": "13 февраля",
 		"height": "160см",
 		"gender": "Женский",
 		"state": "Клуб «Оазис»",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_32",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_32",
 		"gp": [
 			"toy",
 			"collection",
@@ -467,20 +599,31 @@
 				"Portuguese": "CV : Jullie"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Измерение X",
+				"description": "Повышает конечный урон на **0%**. Для активации добавьте в экипировку **2** предмета оружия разных стихий. Повышает конечный урон на **1%**. Для активации добавьте в экипировку **3** предмета оружия разных стихий."
+			},
+			"level2": {
+				"name": "Измерение Z",
+				"description": "Повышает конечный урон на **0%**. Для активации добавьте в экипировку **2** предмета оружия разных стихий. Повышает конечный урон на **1%**. Для активации добавьте в экипировку **3** предмета оружия разных стихий."
+			},
+			"id": "imitation_32"
+		},
 		"id": "imitation_32"
 	},
 	"imitation_31": {
 		"name": "Уми",
 		"advanceId": "imitation_31L1",
 		"weapon": "whip_physic",
-		"icon": "imitation_31",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31",
 		"avatarID": "wumi",
 		"age": "20 октября",
 		"height": "162см",
 		"gender": "Женский",
 		"state": "Округ 7 Гикроса",
 		"city": "Миррория",
-		"rating": "wuwei_imitation_31",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_31",
 		"gp": [
 			"game",
 			"Vera"
@@ -502,20 +645,31 @@
 				"Portuguese": "CV : Pâmela Rodrigues"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Уми: Хорошее шоу",
+				"description": "Увеличивает конечный урон на **0%** на **1** сек., когда Уми использует **Время для фокусов**. Этот эффект не накапливается."
+			},
+			"level2": {
+				"name": "Уми: Великолепное представление",
+				"description": "Увеличивает конечный урон на **0%** на **1** сек., когда Уми использует **Время для фокусов**. Этот эффект не накапливается."
+			},
+			"id": "imitation_31"
+		},
 		"id": "imitation_31"
 	},
 	"imitation_30": {
 		"name": "Алисс",
 		"advanceId": "imitation_30L1",
 		"weapon": "iceblade_ice",
-		"icon": "imitation_30",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_30",
 		"avatarID": "ailisi",
 		"age": "28 мая",
 		"height": "177см",
 		"gender": "Женский",
 		"state": "Спецназ Службы безопасности Миррории",
 		"city": "Миррория",
-		"rating": "wuwei_imitation_30",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_30",
 		"gp": [
 			"collection",
 			"restrictedGoods",
@@ -538,20 +692,31 @@
 				"Portuguese": "CV : Michelle Giudice"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Стрекозы",
+				"description": "После успешного применения навыка оружия увеличивает конечный урон на **0%** в течение **1** сек."
+			},
+			"level2": {
+				"name": "Бабочки",
+				"description": "После успешного применения навыка оружия увеличивает конечный урон на **0%** в течение **1** сек. Когда Непоколебимое крыло улучшается до 1 звезды, вы при использовании навыка **физического/огненного/электрического** оружия в Охлаждающем поле получаете поддержку Алисс, которая применяет на поле навык разрядки, что эквивалентно применению навыка разрядки странником. После этого еще раз будет использован навык, который запускает навык разрядки."
+			},
+			"id": "imitation_30"
+		},
 		"id": "imitation_30"
 	},
 	"imitation_26": {
 		"name": "Аннабелла",
 		"advanceId": "imitation_26L1",
 		"weapon": "snipe_fire",
-		"icon": "imitation_26",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_26",
 		"avatarID": "annabeila",
 		"age": "28 апреля",
 		"height": "166 см",
 		"gender": "Женский",
 		"state": "Неизвестно",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_26",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_26",
 		"gp": [
 			"decorate",
 			"Rarity",
@@ -575,20 +740,31 @@
 				"Portuguese": "CV : Ágatha Paulita"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Газ (ба-бах!)",
+				"description": "За каждого **1** врага, пораженного газовым взрывом, увеличивает урон Клеверного креста на **0%**. Длится **1** сек. и накапливается до **2** раз."
+			},
+			"level2": {
+				"name": "Газ (БА-БАХ!)",
+				"description": "За **каждого** врага, пораженного Взрывом газа, увеличивает урон Клеверного креста на **0%**. Длится **1 сек.** и накапливается до **2** раз."
+			},
+			"id": "imitation_26"
+		},
 		"id": "imitation_26"
 	},
 	"imitation_29": {
 		"name": "Тянь Лан",
 		"advanceId": "imitation_29L1",
 		"weapon": "tianlang_thunder",
-		"icon": "imitation_29",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_29",
 		"avatarID": "tianlang",
 		"age": "23 марта",
 		"height": "185см",
 		"gender": "Мужской",
 		"state": "Питомник Миррории",
 		"city": "Миррория",
-		"rating": "wuwei_imitation_29",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_29",
 		"gp": [
 			"collection",
 			"decorate",
@@ -611,20 +787,31 @@
 				"Portuguese": "CV : Glauco Marques"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Тянь Лан: Шаровая молния",
+				"description": "Каждое применение навыка оружия электричества или навыка разрядки дает **1** бесплатную попытку уклонения, но не больше **2**. При одновременном применении навыка оружия электричества и навыка разрядки урон от электричества увеличивается на **0%** на **8** сек. Этот эффект не накапливается."
+			},
+			"level2": {
+				"name": "Тянь Лан: Громовой раскат",
+				"description": "Каждое применение навыка оружия электричества или навыка разрядки дает **1** бесплатную попытку уклонения, но не больше **3**. При одновременном применении навыка оружия электричества и навыка разрядки урон от электричества увеличивается на **0%** на **8** сек. Этот эффект не накапливается."
+			},
+			"id": "imitation_29"
+		},
 		"id": "imitation_29"
 	},
 	"imitation_24": {
 		"name": "Лира",
 		"advanceId": "imitation_24L1",
 		"weapon": "arm_physic",
-		"icon": "imitation_24",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_24",
 		"avatarID": "xinghuan",
 		"age": "23 июня",
 		"height": "174 см",
 		"gender": "Женский",
 		"state": "Фонд Мейделин",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_24",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_24",
 		"gp": [
 			"everydayObjects",
 			"Vera"
@@ -646,20 +833,31 @@
 				"Portuguese": "CV : Maitê Cunha"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Обмен сердцами",
+				"description": "Резонанс посвящения: увеличивает макс. ОЗ на {0% для всей команды. Не накапливается."
+			},
+			"level2": {
+				"name": "Благословение",
+				"description": "Резонанс посвящения: увеличивает макс. ОЗ на {0% для всей команды. Этот эффект не накапливается. Дополнительно увеличивает ваши макс. ОЗ на {1%. Если вы успешно используете навык при наличии гипертела или более 50% ОЗ, дает гипертело всем союзникам на {2 сек."
+			},
+			"id": "imitation_24"
+		},
 		"id": "imitation_24"
 	},
 	"imitation_23": {
 		"name": "Линь",
 		"advanceId": "imitation_23L1",
 		"weapon": "fan_superpower",
-		"icon": "imitation_23",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_23",
 		"avatarID": "linye",
 		"age": "3 сентября",
 		"height": "175 см",
 		"gender": "Женский",
 		"state": "Округ 7 Гикроса",
 		"city": "Миррория",
-		"rating": "wuwei_imitation_23",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_23",
 		"gp": [
 			"metal",
 			"decorate",
@@ -682,20 +880,31 @@
 				"Portuguese": "CV : Carol Valença"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Линь. Цветок филлокактуса",
+				"description": "Увеличивает урон от взрыва филлокактуса на **15%**."
+			},
+			"level2": {
+				"name": "Линь. Изящество филлокактуса",
+				"description": "Увеличивает урон от взрыва филлокактуса на **20%**. Попадание взрыва филлокактуса снижает сопротивление всему у целей на **7%** в течение **7** сек. Этот эффект не накапливается."
+			},
+			"id": "imitation_23"
+		},
 		"id": "imitation_23"
 	},
 	"imitation_22": {
 		"name": "Саки Фува",
 		"advanceId": "imitation_22L1",
 		"weapon": "dkatana_ice",
-		"icon": "imitation_22",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22",
 		"avatarID": "bupoxiao",
 		"age": "11 октября",
 		"height": "157см",
 		"gender": "Женский",
 		"state": "Спецназ Службы безопасности Миррории",
 		"city": "Миррория",
-		"rating": "wuwei_imitation_22",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_22",
 		"gp": [
 			"metal",
 			"everydayObjects",
@@ -718,20 +927,31 @@
 				"Portuguese": "CV : Letícia Quinto"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Саки Фува. Состояние силы духа",
+				"description": "Когда ОЗ ниже **70%**, увеличивает всё сопротивление на **40%**."
+			},
+			"level2": {
+				"name": "Саки Фува. Охраняющий меч",
+				"description": "Когда ОЗ ниже **70%**, повышает всё сопротивление на **40%** и дополнительно сопротивление холоду на **60%**. В состоянии Тихого потока: после того, как Тень меча использует Всплеск и блокирует атаку, товарищ по команде с наименьшим процентом ОЗ (кроме вас самих) получает 3 способности блокирования на **10** сек. Макс. блокируемый урон не превышает **15%** от макс. ОЗ товарища по команде."
+			},
+			"id": "imitation_22"
+		},
 		"id": "imitation_22"
 	},
 	"imitation_21": {
 		"name": "Руби",
 		"advanceId": "imitation_21L1",
 		"weapon": "funnel_fire",
-		"icon": "imitation_21",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21",
 		"avatarID": "leibei",
 		"age": "15 июля",
 		"height": "140 см",
 		"gender": "Женский",
 		"state": "Неизвестно",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_21",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_21",
 		"gp": [
 			"game",
 			"toy",
@@ -754,20 +974,31 @@
 				"Portuguese": "CV : Letícia Celini"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Ловец снов",
+				"description": "Увеличивает урон от огня, получаемый всеми противниками в радиусе **5** м. от Долли, на **8%**. Этот эффект не накапливается."
+			},
+			"level2": {
+				"name": "Территория Долли",
+				"description": "Увеличивает урон от огня, получаемый всеми противниками в радиусе 5 метров от Долли, на **8%**. Не накапливается. После выбрасывания Долли увеличивает АТК огнем на **12%** на **10** сек. Этот эффект не накапливается."
+			},
+			"id": "imitation_21"
+		},
 		"id": "imitation_21"
 	},
 	"imitation_28": {
 		"name": "Фригг",
 		"advanceId": "imitation_28L1",
 		"weapon": "frigg_ice",
-		"icon": "imitation_28",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_28",
 		"avatarID": "Avatar12",
 		"age": "1 февраля",
 		"height": "190см",
 		"gender": "Женский",
 		"state": "Ангел Милосердия",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_28",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_28",
 		"gp": [
 			"metal",
 			"everydayObjects"
@@ -789,20 +1020,31 @@
 				"Portuguese": "CV : Adriana Pissardini"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Заморозка",
+				"description": "После вступления в бой АТК холодом каждые **3** сек. увеличивается на **1,5%** на **5** сек. Эффект накапливается до **10** раз."
+			},
+			"level2": {
+				"name": "Скованный льдом",
+				"description": "После вступления в бой АТК холодом каждые **3** сек. увеличивается на **2,4%** в течение **5** сек. Эффект накапливается до **10** раз. Кроме того, на Холодной территории вы получаете гипертело и невосприимчивость к эффектам контроля."
+			},
+			"id": "imitation_28"
+		},
 		"id": "imitation_28"
 	},
 	"imitation_17": {
 		"name": "Немезида",
 		"advanceId": "imitation_17L1",
 		"weapon": "suspension_thunder",
-		"icon": "imitation_17",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_17",
 		"avatarID": "Avatar06",
 		"age": "23 мая",
 		"height": "165 см",
 		"gender": "Женский",
 		"state": "Ангел Милосердия",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_17",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_17",
 		"gp": [
 			"toy",
 			"decorate",
@@ -825,20 +1067,31 @@
 				"Portuguese": "CV : Tatiane Keplmair"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Немезида. Метаморфоза",
+				"description": "После призыва электрода наносит урон от электричества в размере **60%** от АТК всем врагам в радиусе **30** м от электрода и лечит всех союзников (включая самого персонажа) в радиусе действия на **120%** от АТК."
+			},
+			"level2": {
+				"name": "Немезида. Сублимация",
+				"description": "После призыва электрода наносит урон от электричества в размере **100%** от АТК всем врагам в радиусе **30** м от электрода и лечит всех союзников (включая самого персонажа) в радиусе действия на **200%** от АТК."
+			},
+			"id": "imitation_17"
+		},
 		"id": "imitation_17"
 	},
 	"imitation_1": {
 		"name": "Зеро",
 		"advanceId": "imitation_1L1",
 		"weapon": "cube_fire",
-		"icon": "imitation_1",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_1",
 		"avatarID": "ling",
 		"age": "6 июня",
 		"height": "155 см",
 		"gender": "Мужской",
 		"state": "Неизвестно",
 		"city": "Бэнджи",
-		"rating": "wuwei_imitation_1",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_1",
 		"gp": [
 			"game",
 			"restrictedGoods"
@@ -860,19 +1113,30 @@
 				"Portuguese": "CV : Henry Walnut"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Зеро. Точный расчет",
+				"description": "Когда Зеро использует навык оружия, время перезарядки реликвий уменьшается на **1,5**сек. Для одного оружия может активироваться **1**раз в **5**сек."
+			},
+			"level2": {
+				"name": "Зеро. Тщательное планирование",
+				"description": "Когда Зеро использует навык оружия, время перезарядки реликвий уменьшается на **3**сек. Для одного оружия может активироваться **1**раз в **5**сек."
+			},
+			"id": "imitation_1"
+		},
 		"id": "imitation_1"
 	},
 	"imitation_2": {
 		"name": "Ина",
 		"weapon": "hammer_ice",
-		"icon": "imitation_2",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_2",
 		"avatarID": "xi",
 		"age": "17 августа",
 		"height": "145 см",
 		"gender": "Женский",
 		"state": "Служба охраны «Виктория»",
 		"city": "Краун",
-		"rating": "wuwei_imitation_2",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_2",
 		"gp": [
 			"game",
 			"decorate",
@@ -895,20 +1159,31 @@
 				"Portuguese": "CV : Amanda Tavares"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Ина. Быстрый режим",
+				"description": "Когда Ина плавает, поднимается или планирует, расход выносливости снижается на **12%**."
+			},
+			"level2": {
+				"name": "Ина. Режим вне пределов",
+				"description": "Когда Ина плавает, поднимается или планирует, снижает расход выносливости на **20%**."
+			},
+			"id": "imitation_2"
+		},
 		"id": "imitation_2"
 	},
 	"imitation_3": {
 		"name": "Мерил",
 		"advanceId": "imitation_3L1",
 		"weapon": "bigsword_ice",
-		"icon": "imitation_3",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_3",
 		"avatarID": "meilier",
 		"age": "10 октября",
 		"height": "170 см",
 		"gender": "Женский",
 		"state": "Гикрос",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_3",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_3",
 		"gp": [
 			"collection",
 			"Rarity"
@@ -930,19 +1205,30 @@
 				"Portuguese": "CV : Patt Souza"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Мерил. Прохладная роза",
+				"description": "Уменьшает получаемый Мерил урон от холода на **20%**, дает невосприимчивость к эффекту обморожения и снижает длительность заморозки на **50%**."
+			},
+			"level2": {
+				"name": "Мерил. Иней",
+				"description": "Уменьшает получаемый Мерил урон от холода на **25%**, дает невосприимчивость к эффекту обморожения и снижает длительность заморозки на **50%**. Воздух вокруг Мерил охлаждается, а вода начинает замерзать."
+			},
+			"id": "imitation_3"
+		},
 		"id": "imitation_3"
 	},
 	"imitation_4": {
 		"name": "Эхо",
 		"weapon": "spear_thunder",
-		"icon": "imitation_4",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_4",
 		"avatarID": "aige",
 		"age": "14 августа",
 		"height": "162 см",
 		"gender": "Женский",
 		"state": "Неизвестно",
 		"city": "Уоррен",
-		"rating": "wuwei_imitation_4",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_4",
 		"gp": [
 			"everydayObjects",
 			"restrictedGoods",
@@ -971,14 +1257,14 @@
 		"name": "Самир",
 		"advanceId": "imitation_5L1",
 		"weapon": "dgun_thunder",
-		"icon": "imitation_5",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_5",
 		"avatarID": "saimier",
 		"age": "20 мая",
 		"height": "171 см",
 		"gender": "Женский",
 		"state": "Гикрос",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_5",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_5",
 		"gp": [
 			"game",
 			"toy"
@@ -1006,14 +1292,14 @@
 		"name": "Юма",
 		"advanceId": "imitation_6L1",
 		"weapon": "shieldaxe_fire",
-		"icon": "imitation_6",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_6",
 		"avatarID": "xiuma",
 		"age": "12 января",
 		"height": "167см",
 		"gender": "Женский",
 		"state": "Гикрос",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_6",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_6",
 		"gp": [
 			"everydayObjects",
 			"game",
@@ -1042,14 +1328,14 @@
 		"name": "Цубаса",
 		"advanceId": "imitation_7L1",
 		"weapon": "bow_ice",
-		"icon": "imitation_7",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_7",
 		"avatarID": "sifengyuanyu",
 		"age": "24 марта",
 		"height": "169см",
 		"gender": "Женский",
 		"state": "Наследники Аиды",
 		"city": "Астра",
-		"rating": "wuwei_imitation_7",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_7",
 		"gp": [
 			"garageKit",
 			"restrictedGoods",
@@ -1078,14 +1364,14 @@
 		"name": "Широ",
 		"advanceId": "imitation_8L1",
 		"weapon": "darts_physic",
-		"icon": "imitation_8",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_8",
 		"avatarID": "xiluo",
 		"age": "22 сентября",
 		"height": "163 см",
 		"gender": "Женский",
 		"state": "Неизвестно",
 		"city": "Уоррен",
-		"rating": "wuwei_imitation_8",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_8",
 		"gp": [
 			"metal",
 			"collection",
@@ -1114,14 +1400,14 @@
 		"name": "Кинг",
 		"advanceId": "imitation_9L1",
 		"weapon": "sickle_fire",
-		"icon": "imitation_9",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_9",
 		"avatarID": "KING",
 		"age": "3 ноября",
 		"height": "190 см",
 		"gender": "Мужской",
 		"state": "Опустошители",
 		"city": "Краун",
-		"rating": "wuwei_imitation_9",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_9",
 		"gp": [
 			"collection",
 			"Rarity",
@@ -1150,14 +1436,14 @@
 		"name": "Кобальт-Би",
 		"advanceId": "imitation_10L1",
 		"weapon": "gun_fire",
-		"icon": "imitation_10",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_10",
 		"avatarID": "gulan",
 		"age": "26 июня",
 		"height": "157см",
 		"gender": "Женский",
 		"state": "Компания «БэнджиТех»",
 		"city": "Краун",
-		"rating": "wuwei_imitation_10",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_10",
 		"gp": [
 			"metal",
 			"collection",
@@ -1180,20 +1466,31 @@
 				"Portuguese": "CV : Jussara Marques"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Кобальт-Би. Остаток тепла",
+				"description": "Когда Кобальт-Би использует навык разрядки, она восстанавливает случайное количество заряда оружия — от **50** до **120** очков."
+			},
+			"level2": {
+				"name": "Кобальт-Би. Искры",
+				"description": "Когда Кобальт-Би использует навык разрядки, она восстанавливает случайное количество заряда оружия — от **90** до **180** очков."
+			},
+			"id": "imitation_10"
+		},
 		"id": "imitation_10"
 	},
 	"imitation_11": {
 		"name": "Коко Риттер",
 		"advanceId": "imitation_11L1",
 		"weapon": "stave_ice",
-		"icon": "imitation_11",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_11",
 		"avatarID": "kekelite",
 		"age": "1 июня",
 		"height": "147см",
 		"gender": "Женский",
 		"state": "Медицинский отдел Гикроса",
 		"city": "Гикрос",
-		"rating": "wuwei_imitation_11",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_11",
 		"gp": [
 			"toy",
 			"decorate",
@@ -1222,14 +1519,14 @@
 		"name": "Клаудия",
 		"advanceId": "imitation_12L1",
 		"weapon": "sword_physic",
-		"icon": "imitation_12",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_12",
 		"avatarID": "kelaodiya",
 		"age": "16 января",
 		"height": "170 см",
 		"gender": "Женский",
 		"state": "Гикрос",
 		"city": "Гикрос",
-		"rating": "wuwei_imitation_12",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_12",
 		"gp": [
 			"everydayObjects",
 			"Rarity",
@@ -1258,14 +1555,14 @@
 		"name": "Кроу",
 		"advanceId": "imitation_13L1",
 		"weapon": "digger_thunder",
-		"icon": "imitation_13",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_13",
 		"avatarID": "wuwan",
 		"age": "17 декабря",
 		"height": "162 см",
 		"gender": "Мужской",
 		"state": "Неизвестно",
 		"city": "Астра",
-		"rating": "wuwei_imitation_13",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_13",
 		"gp": [
 			"everydayObjects",
 			"garageKit",
@@ -1293,14 +1590,14 @@
 	"imitation_14": {
 		"name": "Пеппер",
 		"weapon": "stave_thunder",
-		"icon": "imitation_14",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_14",
 		"avatarID": "peipei",
 		"age": "9 июля",
 		"height": "160см",
 		"gender": "Женский",
 		"state": "Медицинский отдел Гикроса",
 		"city": "Бэнджи",
-		"rating": "wuwei_imitation_14",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_14",
 		"gp": [
 			"everydayObjects",
 			"decorate",
@@ -1328,14 +1625,14 @@
 	"imitation_15": {
 		"name": "Хильда",
 		"weapon": "cannon_ice",
-		"icon": "imitation_15",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_15",
 		"avatarID": "hida",
 		"age": "11 апреля",
 		"height": "165см",
 		"gender": "Женский",
 		"state": "Бэнджи",
 		"city": "Неизвестно",
-		"rating": "wuwei_imitation_15",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_15",
 		"gp": [
 			"restrictedGoods",
 			"garageKit",
@@ -1363,14 +1660,14 @@
 	"imitation_16": {
 		"name": "Бай Лин",
 		"weapon": "bow_physic",
-		"icon": "imitation_16",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_16",
 		"avatarID": "bailing",
 		"age": "8 мая",
 		"height": "163 см",
 		"gender": "Женский",
 		"state": "Убежище HT201",
 		"city": "Убежище HT201",
-		"rating": "wuwei_imitation_16",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_16",
 		"gp": [
 			"Rarity",
 			"collection",
@@ -1393,649 +1690,17 @@
 				"Portuguese": "CV : Adriana Pissardini"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Бай Лин. Доблесть",
+				"description": "Когда Бай Лин убирает глайдер или турбоглайдер, скорость увеличивается на **8%** на **12** сек. Перезарядка: **60** сек."
+			},
+			"level2": {
+				"name": "Бай Лин. Решимость",
+				"description": "Когда Бай Лин убирает глайдер или турбоглайдер, скорость увеличивается на **15%** на **12** сек. Перезарядка: **60** сек."
+			},
+			"id": "imitation_16"
+		},
 		"id": "imitation_16"
-	},
-	"imitation_1L1": {
-		"name": "Зеро",
-		"weapon": "cube_fire",
-		"icon": "erjie_imitation_1",
-		"avatarID": "ling",
-		"age": "6 июня",
-		"height": "Неизвестно",
-		"gender": "Мужской",
-		"state": "Неизвестно",
-		"city": "Неизвестно",
-		"rating": "wuwei_imitation_1",
-		"gp": [
-			"game",
-			"restrictedGoods"
-		],
-		"va": [],
-		"id": "imitation_1L1"
-	},
-	"imitation_3L1": {
-		"name": "Мерил",
-		"weapon": "bigsword_ice",
-		"icon": "erjie_imitation_3",
-		"avatarID": "None",
-		"age": "Дата рождения: 14 августа",
-		"rating": "wuwei_imitation_3",
-		"gp": [
-			"collection",
-			"Rarity"
-		],
-		"va": [],
-		"id": "imitation_3L1"
-	},
-	"imitation_5L1": {
-		"name": "Самир",
-		"weapon": "dgun_thunder",
-		"icon": "erjie_imitation_5",
-		"avatarID": "None",
-		"age": "Дата рождения: 14 августа",
-		"rating": "wuwei_imitation_5",
-		"gp": [
-			"game",
-			"toy"
-		],
-		"va": [],
-		"id": "imitation_5L1"
-	},
-	"imitation_6L1": {
-		"name": "Юма",
-		"weapon": "shieldaxe_fire",
-		"icon": "erjie_imitation_6",
-		"avatarID": "None",
-		"age": "Дата рождения: 14 августа",
-		"rating": "wuwei_imitation_6",
-		"gp": [
-			"everydayObjects",
-			"game",
-			"decorate"
-		],
-		"va": [],
-		"id": "imitation_6L1"
-	},
-	"imitation_7L1": {
-		"name": "Цубаса",
-		"weapon": "bow_ice",
-		"icon": "erjie_imitation_7",
-		"avatarID": "sifengyuanyu",
-		"age": "Дата рождения: 14 августа",
-		"rating": "wuwei_imitation_7",
-		"gp": [
-			"garageKit",
-			"restrictedGoods",
-			"Rarity"
-		],
-		"va": [],
-		"id": "imitation_7L1"
-	},
-	"imitation_8L1": {
-		"name": "Широ",
-		"weapon": "darts_physic",
-		"icon": "erjie_imitation_8",
-		"avatarID": "None",
-		"age": "Дата рождения: 14 августа",
-		"rating": "wuwei_imitation_8",
-		"gp": [
-			"metal",
-			"collection",
-			"Rarity"
-		],
-		"va": [],
-		"id": "imitation_8L1"
-	},
-	"imitation_9L1": {
-		"name": "Кинг",
-		"weapon": "sickle_fire",
-		"icon": "erjie_imitation_9",
-		"avatarID": "KING",
-		"age": "3 ноября",
-		"height": "Неизвестно",
-		"gender": "Мужской",
-		"state": "Опустошители",
-		"city": "Неизвестно",
-		"rating": "wuwei_imitation_9",
-		"gp": [
-			"collection",
-			"Rarity",
-			"restrictedGoods"
-		],
-		"va": [],
-		"id": "imitation_9L1"
-	},
-	"imitation_10L1": {
-		"name": "Кобальт-Би",
-		"weapon": "gun_fire",
-		"icon": "erjie_imitation_10",
-		"avatarID": "None",
-		"age": "Дата рождения: 14 августа",
-		"rating": "wuwei_imitation_10",
-		"gp": [
-			"metal",
-			"collection",
-			"restrictedGoods"
-		],
-		"va": [],
-		"id": "imitation_10L1"
-	},
-	"imitation_11L1": {
-		"name": "Коко Риттер",
-		"weapon": "stave_ice",
-		"icon": "erjie_imitation_11",
-		"avatarID": "None",
-		"age": "Дата рождения: 14 августа",
-		"rating": "wuwei_imitation_11",
-		"gp": [
-			"toy",
-			"decorate",
-			"Rarity"
-		],
-		"va": [],
-		"id": "imitation_11L1"
-	},
-	"imitation_12L1": {
-		"name": "Клаудия",
-		"weapon": "sword_physic",
-		"icon": "erjie_imitation_12",
-		"avatarID": "kelaodiya",
-		"age": "16 января",
-		"height": "Неизвестно",
-		"gender": "Женский",
-		"state": "Гикрос",
-		"city": "Неизвестно",
-		"rating": "wuwei_imitation_12",
-		"gp": [
-			"everydayObjects",
-			"Rarity",
-			"decorate"
-		],
-		"va": [],
-		"id": "imitation_12L1"
-	},
-	"imitation_13L1": {
-		"name": "Кроу",
-		"weapon": "digger_thunder",
-		"icon": "erjie_imitation_13",
-		"avatarID": "wuwan",
-		"age": "17 декабря",
-		"height": "Неизвестно",
-		"gender": "Мужской",
-		"state": "Неизвестно",
-		"city": "Неизвестно",
-		"rating": "wuwei_imitation_13",
-		"gp": [
-			"everydayObjects",
-			"garageKit",
-			"restrictedGoods"
-		],
-		"va": [],
-		"id": "imitation_13L1"
-	},
-	"imitation_17L1": {
-		"name": "Немезида",
-		"weapon": "suspension_thunder",
-		"icon": "erjie_imitation_17",
-		"avatarID": "naimeixisi",
-		"age": "23 мая",
-		"height": "165 см",
-		"gender": "Женский",
-		"state": "Ангел Милосердия",
-		"city": "Неизвестно",
-		"rating": "wuwei_imitation_17",
-		"gp": [
-			"everydayObjects",
-			"Rarity",
-			"decorate"
-		],
-		"va": [],
-		"id": "imitation_17L1"
-	},
-	"imitation_28L1": {
-		"name": "Фригг",
-		"advanceId": "None",
-		"weapon": "frigg_ice",
-		"icon": "erjie_imitation_28",
-		"avatarID": "fulijia",
-		"age": "1 февраля",
-		"height": "190см",
-		"gender": "Женский",
-		"state": "Неизвестно",
-		"city": "Неизвестно",
-		"rating": "wuwei_imitation_28",
-		"gp": [
-			"metal",
-			"everydayObjects"
-		],
-		"va": [],
-		"id": "imitation_28L1"
-	},
-	"imitation_22L1": {
-		"name": "Саки Фува",
-		"advanceId": "imitation_22L1",
-		"weapon": "dkatana_ice",
-		"icon": "erjie_imitation_22",
-		"avatarID": "bupoxiao",
-		"age": "9 июля",
-		"height": "160см",
-		"gender": "Женский",
-		"state": "Медицинский отдел Гикроса",
-		"city": "Бэнджи",
-		"rating": "wuwei_imitation_22",
-		"gp": [
-			"metal",
-			"everydayObjects",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_22L1"
-	},
-	"imitation_23L1": {
-		"name": "Линь",
-		"weapon": "fan_superpower",
-		"icon": "erjie_imitation_23",
-		"avatarID": "linye",
-		"age": "9 июля",
-		"height": "160см",
-		"gender": "Женский",
-		"state": "Медицинский отдел Гикроса",
-		"city": "Бэнджи",
-		"rating": "wuwei_imitation_23",
-		"gp": [
-			"metal",
-			"decorate",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_23L1"
-	},
-	"imitation_21L1": {
-		"name": "Руби",
-		"weapon": "funnel_fire",
-		"icon": "imitation_21L1",
-		"avatarID": "leibei",
-		"age": "9 июля",
-		"height": "160см",
-		"gender": "Женский",
-		"state": "Медицинский отдел Гикроса",
-		"city": "Бэнджи",
-		"rating": "wuwei_imitation_21",
-		"gp": [
-			"game",
-			"toy",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_21L1"
-	},
-	"imitation_24L1": {
-		"name": "Лира",
-		"weapon": "arm_physiclv3",
-		"icon": "imitation_24L1",
-		"avatarID": "xinghuan",
-		"age": "9 июля",
-		"height": "160см",
-		"gender": "Женский",
-		"state": "Медицинский отдел Гикроса",
-		"city": "Бэнджи",
-		"rating": "wuwei_imitation_24",
-		"gp": [
-			"everydayObjects",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_24L1"
-	},
-	"imitation_26L1": {
-		"name": "Аннабелла",
-		"weapon": "snipe_fire",
-		"icon": "erjie_imitation_26",
-		"avatarID": "Annabella",
-		"age": "9 июля",
-		"height": "160см",
-		"gender": "Женский",
-		"state": "Медицинский отдел Гикроса",
-		"city": "Бэнджи",
-		"rating": "wuwei_imitation_26",
-		"gp": [
-			"decorate",
-			"Rarity",
-			"game",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_26L1"
-	},
-	"imitation_29L1": {
-		"name": "Тянь Лан",
-		"advanceId": "imitation_29L1",
-		"weapon": "tianlang_thunder_level3",
-		"icon": "erjie_imitation_29",
-		"avatarID": "tianlang",
-		"age": "23 марта",
-		"height": "185см",
-		"gender": "Мужской",
-		"state": "Неизвестно",
-		"city": "Миррория",
-		"rating": "wuwei_imitation_29",
-		"gp": [
-			"collection",
-			"decorate",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_29L1"
-	},
-	"imitation_32L1": {
-		"name": "Фенрир",
-		"advanceId": "imitation_32L1",
-		"weapon": "fenrir_thunder_lv3",
-		"icon": "erjie_imitation_32",
-		"avatarID": "fenlier",
-		"age": "13 февраля",
-		"height": "160см",
-		"gender": "Женский",
-		"state": "Неизвестно",
-		"city": "Неизвестно",
-		"rating": "wuwei_imitation_32",
-		"gp": [
-			"toy",
-			"collection",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_32L1"
-	},
-	"imitation_30L1": {
-		"name": "Алисс",
-		"advanceId": "imitation_30L1",
-		"weapon": "iceblade_ice_lv3",
-		"icon": "erjie_imitation_30",
-		"avatarID": "ailisi",
-		"age": "9 июля",
-		"height": "160см",
-		"gender": "Женский",
-		"state": "Медицинский отдел Гикроса",
-		"city": "Бэнджи",
-		"rating": "wuwei_imitation_30",
-		"gp": [
-			"collection",
-			"restrictedGoods",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_30L1"
-	},
-	"imitation_34L1": {
-		"name": "Лань",
-		"advanceId": "imitation_34L1",
-		"weapon": "umbrella_fire_lv3",
-		"icon": "erjie_imitation_34",
-		"avatarID": "lan",
-		"age": "9 июля",
-		"height": "160см",
-		"gender": "Женский",
-		"state": "Медицинский отдел Гикроса",
-		"city": "Бэнджи",
-		"rating": "wuwei_imitation_34",
-		"gp": [
-			"everydayObjects",
-			"decorate",
-			"collection"
-		],
-		"va": [],
-		"id": "imitation_34L1"
-	},
-	"imitation_31L1": {
-		"name": "Уми",
-		"advanceId": "imitation_31L1",
-		"weapon": "whip_physic_lv3",
-		"icon": "erjie_imitation_31",
-		"avatarID": "wumi",
-		"age": "9 июля",
-		"height": "160см",
-		"gender": "Женский",
-		"state": "Медицинский отдел Гикроса",
-		"city": "Бэнджи",
-		"rating": "wuwei_imitation_31",
-		"gp": [
-			"game",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_31L1"
-	},
-	"imitation_35L1": {
-		"name": "Икар",
-		"weapon": "yoyo_ice_level3",
-		"icon": "erjie_imitation_35",
-		"avatarID": "Icarus",
-		"age": "24 октября",
-		"height": "161 см",
-		"gender": "Мужской",
-		"state": "Отряд Муке",
-		"city": "Гикрос",
-		"rating": "wuwei_imitation_35",
-		"gp": [
-			"collection",
-			"metal",
-			"Vera",
-			"Asshai"
-		],
-		"va": [],
-		"id": "imitation_35L1"
-	},
-	"imitation_36L1": {
-		"name": "Фиона",
-		"weapon": "queen_superpower_lv3",
-		"icon": "erjie_imitation_36",
-		"avatarID": "feiouna",
-		"age": "8 мая",
-		"height": "163 см",
-		"gender": "Женский",
-		"state": "Убежище HT201",
-		"city": "Убежище HT201",
-		"rating": "wuwei_imitation_36",
-		"gp": [
-			"Rarity",
-			"collection",
-			"decorate"
-		],
-		"va": [],
-		"id": "imitation_36L1"
-	},
-	"imitation_27L1": {
-		"name": "Гнонно",
-		"weapon": "chainsaw_physic_lv3",
-		"icon": "imitation_27_2",
-		"avatarID": "genuonuo",
-		"age": "8 мая",
-		"height": "163 см",
-		"gender": "Женский",
-		"state": "Убежище HT201",
-		"city": "Убежище HT201",
-		"rating": "wuwei_imitation_27",
-		"gp": [
-			"Rarity",
-			"collection",
-			"decorate"
-		],
-		"va": [],
-		"id": "imitation_27L1"
-	},
-	"imitation_38L1": {
-		"name": "Юйлань",
-		"advanceId": "None",
-		"weapon": "yulan_ice_lv3",
-		"icon": "erjie_imitation_38",
-		"avatarID": "yulan",
-		"age": "8 мая",
-		"height": "163 см",
-		"gender": "Женский",
-		"state": "Убежище HT201",
-		"city": "Убежище HT201",
-		"rating": "wuwei_imitation_38",
-		"gp": [
-			"everydayObjects",
-			"collection",
-			"Jiuyu"
-		],
-		"va": [],
-		"id": "imitation_38L1"
-	},
-	"imitation_48L1": {
-		"name": "Рубилия",
-		"weapon": "rubilia_thunder_level3",
-		"icon": "erjie_imitation_48",
-		"avatarID": "leibiliya",
-		"age": "24 апреля",
-		"height": "195см",
-		"gender": "Женский",
-		"state": "Миррория",
-		"city": "Миррория",
-		"rating": "wuwei_imitation_48",
-		"gp": [
-			"decorate",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_48L1"
-	},
-	"imitation_37L1": {
-		"name": "Лю Хо",
-		"weapon": "brush_fire_lv3",
-		"icon": "erjie_imitation_37",
-		"avatarID": "feiouna",
-		"age": "17 апреля",
-		"height": "185см",
-		"gender": "Женский",
-		"state": "Иннарс",
-		"city": "Иннарс",
-		"rating": "wuwei_imitation_37",
-		"gp": [
-			"everydayObjects",
-			"metal",
-			"Jiuyu"
-		],
-		"va": [],
-		"id": "imitation_37L1"
-	},
-	"imitation_41L1": {
-		"name": "Хуан",
-		"weapon": "mimi_thunder_lv3",
-		"icon": "erjie_imitation_41",
-		"avatarID": "mimi",
-		"age": "17 апреля",
-		"height": "185см",
-		"gender": "Женский",
-		"state": "Иннарс",
-		"city": "Иннарс",
-		"rating": "wuwei_imitation_41",
-		"gp": [
-			"toy",
-			"garageKit",
-			"Jiuyu"
-		],
-		"va": [
-			{
-				"Chinese": "CV : 裴致莹"
-			},
-			{
-				"Japanese": "CV : "
-			},
-			{
-				"English": "CV : Corina Boetger"
-			}
-		],
-		"id": "imitation_41L1"
-	},
-	"imitation_43L1": {
-		"name": "Линхань",
-		"weapon": "linghan_ice_level3",
-		"icon": "erjie_imitation_43",
-		"avatarID": "linghan",
-		"age": "17 апреля",
-		"height": "185см",
-		"gender": "Женский",
-		"state": "Иннарс",
-		"city": "Иннарс",
-		"rating": "wuwei_imitation_43",
-		"gp": [
-			"collection",
-			"decorate",
-			"Jiuyu"
-		],
-		"va": [
-			{
-				"Chinese": "CV : 陈彦亦"
-			},
-			{
-				"Japanese": ""
-			},
-			{
-				"English": ""
-			}
-		],
-		"id": "imitation_43L1"
-	},
-	"imitation_50L1": {
-		"name": "Мин Цзин",
-		"weapon": "zeke_physic_level3",
-		"icon": "erjie_imitation_50",
-		"avatarID": "mingjing",
-		"age": "12 ноября",
-		"height": "191 см",
-		"gender": "Мужской",
-		"state": "Территория 9",
-		"city": "Неизвестно",
-		"rating": "wuwei_imitation_50",
-		"gp": [
-			"everydayObjects",
-			"Asshai",
-			"Vera",
-			"Jiuyu"
-		],
-		"va": [
-			{
-				"Chinese": "CV : 马洋"
-			},
-			{
-				"Japanese": ""
-			},
-			{
-				"English": ""
-			}
-		],
-		"id": "imitation_50L1"
-	},
-	"imitation_51L1": {
-		"name": "Фэй Сэ",
-		"weapon": "feise_fire_lv3",
-		"icon": "erjie_imitation_51",
-		"avatarID": "feise",
-		"age": "17 апреля",
-		"height": "185см",
-		"gender": "Женский",
-		"state": "Иннарс",
-		"city": "Иннарс",
-		"rating": "wuwei_imitation_51",
-		"gp": [
-			"everydayObjects",
-			"collection",
-			"Jiuyu"
-		],
-		"va": [
-			{
-				"Chinese": "CV : 陈彦亦"
-			},
-			{
-				"Japanese": ""
-			},
-			{
-				"English": ""
-			}
-		],
-		"id": "imitation_51L1"
 	}
 }

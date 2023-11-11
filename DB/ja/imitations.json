@@ -3,14 +3,14 @@
 		"name": "Ling Han",
 		"advanceId": "imitation_43L1",
 		"weapon": "linghan_ice",
-		"icon": "imitation_43",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_43",
 		"avatarID": "linghan",
 		"age": "7 Juni",
 		"height": "181 cm",
 		"gender": "Perempuan",
 		"state": "竜剣閣",
 		"city": "沢州",
-		"rating": "wuwei_imitation_43",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_43",
 		"gp": [
 			"collection",
 			"decorate",
@@ -33,20 +33,31 @@
 				"Portuguese": "CV : SAMIRA FERNANDES"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "臨剣",
+				"description": "最終ダメージ+**0%**。**監兵**装備時、氷属性武器を**1**つ装備するごとに氷ダメージ+**1%**。"
+			},
+			"level2": {
+				"name": "御剣",
+				"description": "最終ダメージ+**0%**。\r\n**監兵**装備時、**剣訣・氷帰嘯**を発動すると被ダメージ無効、**4**秒間持続(トップリーグでは無効)。また、氷属性武器を**1**つ装備するごとに氷ダメージ+**1%**。氷属性武器を**3**つ装備しているとき、自身が任意の氷属性武器の武器スキルを発動すると追加で**2**の武器エナジー値を獲得する。**監兵**以外の任意の氷属性武器の武器スキルまたは連携スキルを発動すると、付近のターゲットに追加で攻撃力×**1456%**のダメージを与える。"
+			},
+			"id": "imitation_43"
+		},
 		"id": "imitation_43"
 	},
 	"imitation_51": {
 		"name": "Fei Se",
 		"advanceId": "imitation_51L1",
 		"weapon": "feise_fire",
-		"icon": "imitation_51",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_51",
 		"avatarID": "feise",
 		"age": "23 Agustus",
 		"height": "175cm",
 		"gender": "Perempuan",
 		"state": "玄影宮",
 		"city": "火州",
-		"rating": "wuwei_imitation_51",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_51",
 		"gp": [
 			"everydayObjects",
 			"collection",
@@ -69,20 +80,31 @@
 				"Portuguese": "CV : LUCIANA BAROLI"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "蓮舞",
+				"description": "最終ダメージ+**0%**。\r\n**扶揺**の発動後、炎属性武器を**1**つ装備するごとに最終ダメージ+**1%**。**2**秒間持続。"
+			},
+			"level2": {
+				"name": "Darkshadow",
+				"description": "最終ダメージ+**0%**。\r\n**扶揺**の発動後、炎属性武器を**1**つ装備するごとに最終ダメージ+**1%**。**2**秒間持続。"
+			},
+			"id": "imitation_51"
+		},
 		"id": "imitation_51"
 	},
 	"imitation_33": {
 		"name": "モリニア",
 		"advanceId": "imitation_33L1",
 		"weapon": "none",
-		"icon": "imitation_21",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21",
 		"avatarID": "moliniya",
 		"age": "6 Januari",
 		"height": "155 cm",
 		"gender": "Perempuan",
 		"state": "ハガード第9地区",
 		"city": "フォラント",
-		"rating": "wuwei_imitation_33",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_33",
 		"gp": [
 			"everydayObjects",
 			"decorate",
@@ -105,20 +127,31 @@
 				"Portuguese": "Nina Carvalho"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "柔奏",
+				"description": "被回復効果+**15%**。"
+			},
+			"level2": {
+				"name": "深奏",
+				"description": "被回復効果+**30%**。"
+			},
+			"id": "imitation_33"
+		},
 		"id": "imitation_33"
 	},
 	"imitation_41": {
 		"name": "Huang",
 		"advanceId": "imitation_41L1",
 		"weapon": "mimi_thunder",
-		"icon": "imitation_41",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_41",
 		"avatarID": "mimi",
 		"age": "23 Juli",
 		"height": "135 cm",
 		"gender": "Perempuan",
 		"state": "天章閣",
 		"city": "雷州",
-		"rating": "wuwei_imitation_41",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_41",
 		"gp": [
 			"toy",
 			"garageKit",
@@ -141,20 +174,31 @@
 				"Portuguese": "CV : BIANCA ALENCAR"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "竹篾",
+				"description": "最終ダメージ+**0%**。\r\n雷属性武器を**3**つ装備すると、雷ダメージ+**1%**。"
+			},
+			"level2": {
+				"name": "Jade Luster",
+				"description": "最終ダメージ+**0%**。\r\n雷属性武器を**3**つ装備すると、雷ダメージ+**1%**、会心率 UP効果の持続時間が追加で+**2**秒"
+			},
+			"id": "imitation_41"
+		},
 		"id": "imitation_41"
 	},
 	"imitation_50": {
 		"name": "Ming Jing",
 		"advanceId": "imitation_50L1",
 		"weapon": "zeke_physic",
-		"icon": "imitation_50",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_50",
 		"avatarID": "mingjing",
 		"age": "12 November",
 		"height": "191 cm",
 		"gender": "Laki-Laki",
 		"state": "Domain 9",
 		"city": "Tak Diketahui",
-		"rating": "wuwei_imitation_50",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_50",
 		"gp": [
 			"everydayObjects",
 			"Asshai",
@@ -178,20 +222,31 @@
 				"Portuguese": "CV : Wendel Bezerra"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "究道",
+				"description": "最終与ダメージ+**0%**。\r\n自身の物理の基礎攻撃力が、自身の物理/炎/氷/雷の基礎攻撃力のうち最も高いものと同値になる。**執明**がフロントにある時、通常攻撃ダメージ+**1%**。"
+			},
+			"level2": {
+				"name": "忘我",
+				"description": "最終与ダメージ+**0%**。\r\n自身の物理の基礎攻撃力が、自身の物理/炎/氷/雷の基礎攻撃力のうち最も高いものと同値になる。**執明**がフロントにある時、通常攻撃ダメージ+**1%**。"
+			},
+			"id": "imitation_50"
+		},
 		"id": "imitation_50"
 	},
 	"imitation_38": {
 		"name": "玉蘭",
 		"advanceId": "imitation_38L1",
 		"weapon": "yulan_ice",
-		"icon": "imitation_38",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38",
 		"avatarID": "yulan",
 		"age": "9 Februari",
 		"height": "175cm",
 		"gender": "Perempuan",
 		"state": "刻衛",
 		"city": "Domain 9",
-		"rating": "wuwei_imitation_38",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_38",
 		"gp": [
 			"everydayObjects",
 			"collection",
@@ -214,20 +269,31 @@
 				"Portuguese": "CV : LUIZA PORTO"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "静気",
+				"description": "最終ダメージ+**0%**\r\n**武闘**形態時、自身の最終ダメージに追加で+**1%**。\r\n**掠陣**形態時、氷属性武器を**1**つ装備するごとに**戦意**消費時の与ダメージ+**3%**。氷属性武器を**3**つ装備すると、自身が与える氷ダメージ+**4%**。"
+			},
+			"level2": {
+				"name": "凝心",
+				"description": "最終ダメージ+**0%**\r\n**武闘**形態時、自身の最終ダメージに追加で+**1%**。\r\n**掠陣**形態時、氷属性武器を**1**つ装備するごとに**戦意**消費時の与ダメージ+**3%**。氷属性武器を**3**つ装備すると、自身が与える氷ダメージ+**4%**。"
+			},
+			"id": "imitation_38"
+		},
 		"id": "imitation_38"
 	},
 	"imitation_37": {
 		"name": "Liu Huo",
 		"advanceId": "imitation_37L1",
 		"weapon": "brush_fire",
-		"icon": "imitation_37",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_37",
 		"avatarID": "liuhuo",
 		"age": "19 Agustus",
 		"height": "153 cm",
 		"gender": "Perempuan",
 		"state": "火州府",
 		"city": "火州",
-		"rating": "wuwei_imitation_37",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_37",
 		"gp": [
 			"everydayObjects",
 			"metal",
@@ -250,20 +316,31 @@
 				"Portuguese": "CV : ISABELLA GUARNIERI"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Counting Ink",
+				"description": "最終ダメージ+**0%**。**松慧**を装備しており、なおかつバックグラウンドにある時、**雀羽**による攻撃頻度が**1**回/秒に UP する"
+			},
+			"level2": {
+				"name": "執筆",
+				"description": "最終ダメージ+**0%**。**松慧**を装備しており、なおかつバックグラウンドにある時、**雀羽**による攻撃頻度が**1**回/秒に UP する。\r\n**雀羽**が命中して拡散効果が発動した時、追加で**イオン燃焼**と**十字燃焼**が拡散される。\r\nチームプレイ時、自身がヘイトターゲットから受けるダメージ-**1%**(剛毅共鳴発動中は-**2%**になる)"
+			},
+			"id": "imitation_37"
+		},
 		"id": "imitation_37"
 	},
 	"imitation_48": {
 		"name": "レビリア",
 		"advanceId": "imitation_48L1",
 		"weapon": "rubilia_thunder",
-		"icon": "imitation_48",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_48",
 		"avatarID": "leibiliya",
 		"age": "24 April",
 		"height": "195 cm",
 		"gender": "Perempuan",
 		"state": "ミラポリス",
 		"city": "ミラポリス",
-		"rating": "wuwei_imitation_48",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_48",
 		"gp": [
 			"decorate",
 			"Vera"
@@ -285,20 +362,31 @@
 				"Portuguese": "CV : Jussara Marques"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Synergy",
+				"description": "雷属性武器を**1**つ装備するごとに、雷ダメージ+**0%**"
+			},
+			"level2": {
+				"name": "Enlightenment",
+				"description": "雷属性武器を**1**つ装備するごとに、雷ダメージ+**0%**。封印による灰域種への行動制限の持続時間が**1**秒まで UPする"
+			},
+			"id": "imitation_48"
+		},
 		"id": "imitation_48"
 	},
 	"imitation_27": {
 		"name": "グノノ",
 		"advanceId": "imitation_27L1",
 		"weapon": "chainsaw_physic",
-		"icon": "imitation_27",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_27",
 		"avatarID": "genuonuo",
 		"age": "6 Maret",
 		"height": "134 cm",
 		"gender": "Perempuan",
 		"state": "記録なし",
 		"city": "インニス",
-		"rating": "wuwei_imitation_27",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_27",
 		"gp": [
 			"Rarity",
 			"collection",
@@ -321,20 +409,31 @@
 				"Portuguese": "CV : Nina Carvalho"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "グノノ・さざ波",
+				"description": "**探検隊パーティアタック**で**完全暴走**を発動すると、最終与ダメージ+**0%**、**30**秒間持続"
+			},
+			"level2": {
+				"name": "グノノ・大波",
+				"description": "**探検隊パーティアタック**で**完全暴走**を発動すると、最終与ダメージ+**0%**、**30**秒間持続。\r\nプレイヤーが海中に潜ったとき、移動速度+**1%**。"
+			},
+			"id": "imitation_27"
+		},
 		"id": "imitation_27"
 	},
 	"imitation_36": {
 		"name": "フィオナ",
 		"advanceId": "imitation_36L1",
 		"weapon": "queen_superpower",
-		"icon": "imitation_36",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36",
 		"avatarID": "feiouna",
 		"age": "17 April",
 		"height": "185 cm",
 		"gender": "Perempuan",
 		"state": "インニス",
 		"city": "インニス",
-		"rating": "wuwei_imitation_36",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_36",
 		"gp": [
 			"collection",
 			"decorate",
@@ -357,20 +456,31 @@
 				"Portuguese": "CV : Mayara Stefane"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "スター・フラッシュ",
+				"description": "自身の最終ダメージ+**0%**"
+			},
+			"level2": {
+				"name": "ムーン・ライト",
+				"description": "自身の最終ダメージ+**0%**。\r\n**散流スキル強化**\r\nハイドロ・フォーカス強化：自身の全属性ダメージが**12%**まで UP。\r\nボルテックス強化：**「月星の環」**がフロントにある時、ボルテックスのダメージが追加で+**30%**。\r\nトレンドフォース強化：自身の連携ダメージが**12%**まで UP。\r\nメイルストロム強化：渦流有効中に物理ダメージを与えると、最終ダメージが更に UP、最大で+**33%**(10秒で最大値に到達)\r\nアクア・シャックル強化：自身の恩恵共鳴発動時、水牢の持続時間が**5**秒まで UP。水牢の基本耐性減少効果が**10%**まで UP。\r\nウェルスプリング強化：自身の剛毅共鳴発動時、自身の耐性が追加で+(**最大HP**/**100000**)%、最大で**10%**まで UP。"
+			},
+			"id": "imitation_36"
+		},
 		"id": "imitation_36"
 	},
 	"imitation_35": {
 		"name": "イカロス",
 		"advanceId": "imitation_35L1",
 		"weapon": "yoyo_ice",
-		"icon": "imitation_35",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_35",
 		"avatarID": "yikaluosi",
 		"age": "24 Oktober",
 		"height": "161 cm",
 		"gender": "Laki-Laki",
 		"state": "マーク小隊",
 		"city": "ハガード",
-		"rating": "wuwei_imitation_35",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_35",
 		"gp": [
 			"collection",
 			"metal",
@@ -394,20 +504,31 @@
 				"Portuguese": "CV : Úrsula Bezerra"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "アイスブレイク",
+				"description": "グロリアスライトを装備すると最終与ダメージ+**0%**、グロリアスライトの使用中はシールドブレイク効果+**1%**"
+			},
+			"level2": {
+				"name": "メルティウイング",
+				"description": "グロリアスライトを装備すると最終与ダメージ+**0%**、グロリアスライトの使用中はシールドブレイク効果+**1%**"
+			},
+			"id": "imitation_35"
+		},
 		"id": "imitation_35"
 	},
 	"imitation_34": {
 		"name": "嵐",
 		"advanceId": "imitation_34L1",
 		"weapon": "umbrella_fire",
-		"icon": "imitation_34",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34",
 		"avatarID": "lan",
 		"age": "5 Mei",
 		"height": "172 cm",
 		"gender": "Perempuan",
 		"state": "影衛",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_34",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_34",
 		"gp": [
 			"Rarity",
 			"everydayObjects",
@@ -431,20 +552,31 @@
 				"Portuguese": "CV : Luiza Caspary"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "業火",
+				"description": "剛毅共鳴時、結界内の自身と仲間の炎/氷被ダメージ-**0%**"
+			},
+			"level2": {
+				"name": "瀾炎",
+				"description": "剛毅共鳴時、結界内の自身と仲間の炎/氷被ダメージ-**0%**。最終与ダメージ+**1%**"
+			},
+			"id": "imitation_34"
+		},
 		"id": "imitation_34"
 	},
 	"imitation_32": {
 		"name": "フェンリル",
 		"advanceId": "imitation_32L1",
 		"weapon": "fenrir_thunder",
-		"icon": "imitation_32",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32",
 		"avatarID": "fenlier",
 		"age": "13 Februari",
 		"height": "160 cm",
 		"gender": "Perempuan",
 		"state": "オアシスクラブ",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_32",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_32",
 		"gp": [
 			"toy",
 			"collection",
@@ -467,20 +599,31 @@
 				"Portuguese": "CV : Jullie"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "Dimensi X",
+				"description": "異なる属性の武器を**2**点装備すると自身の最終ダメージ+**0%**。異なる属性の武器を**3**点装備すると自身の最終ダメージ+**1%**"
+			},
+			"level2": {
+				"name": "Dimensi Z",
+				"description": "異なる属性の武器を**2**点装備すると自身の最終ダメージ+**0%**。異なる属性の武器を**3**点装備すると自身の最終ダメージ+**1%**"
+			},
+			"id": "imitation_32"
+		},
 		"id": "imitation_32"
 	},
 	"imitation_31": {
 		"name": "ウーミィ",
 		"advanceId": "imitation_31L1",
 		"weapon": "whip_physic",
-		"icon": "imitation_31",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31",
 		"avatarID": "wumi",
 		"age": "20 Oktober",
 		"height": "162 cm",
 		"gender": "Perempuan",
 		"state": "ハガード第7地区",
 		"city": "ミラポリス",
-		"rating": "wuwei_imitation_31",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_31",
 		"gp": [
 			"game",
 			"Vera"
@@ -502,20 +645,31 @@
 				"Portuguese": "CV : Pâmela Rodrigues"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "ウーミィ・十八番",
+				"description": "ウーミィが**【マジックタイム】**を発動するたびに、最終ダメージ+**0%**を獲得、**1**秒間持続、スタック不可"
+			},
+			"level2": {
+				"name": "ウーミィ・ドレスアップ",
+				"description": "ウーミィが**【マジックタイム】**を発動するたびに、最終ダメージ+**0%**を獲得、**1**秒間持続、スタック不可"
+			},
+			"id": "imitation_31"
+		},
 		"id": "imitation_31"
 	},
 	"imitation_30": {
 		"name": "アリス",
 		"advanceId": "imitation_30L1",
 		"weapon": "iceblade_ice",
-		"icon": "imitation_30",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_30",
 		"avatarID": "ailisi",
 		"age": "28 Mei",
 		"height": "177 cm",
 		"gender": "Perempuan",
 		"state": "ミラポリス保安部特殊部隊",
 		"city": "ミラポリス",
-		"rating": "wuwei_imitation_30",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_30",
 		"gp": [
 			"collection",
 			"restrictedGoods",
@@ -538,20 +692,31 @@
 				"Portuguese": "CV : Michelle Giudice"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "燦めく翅",
+				"description": "武器スキルの発動に成功すると最終ダメージ+**0%**、**1**秒間持続"
+			},
+			"level2": {
+				"name": "輝く翅",
+				"description": "武器スキルの発動に成功すると最終ダメージ+**0%**、**1**秒間持続。不滅の翼★1以降はコールドフィールド内で**物理\\炎\\雷**属性の武器をスキル使用するとアリスのサポートを獲得し、アリスをフィールドに召喚して連携スキル扱いの攻撃を1回行う。その後、発動済みの属性武器スキルをさらに1回発動する"
+			},
+			"id": "imitation_30"
+		},
 		"id": "imitation_30"
 	},
 	"imitation_26": {
 		"name": "アナベラ",
 		"advanceId": "imitation_26L1",
 		"weapon": "snipe_fire",
-		"icon": "imitation_26",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_26",
 		"avatarID": "annabeila",
 		"age": "28 April",
 		"height": "166 cm",
 		"gender": "Perempuan",
 		"state": "記録なし",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_26",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_26",
 		"gp": [
 			"decorate",
 			"Rarity",
@@ -575,20 +740,31 @@
 				"Portuguese": "CV : Ágatha Paulita"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "ガス(ドカーン！)",
+				"description": "ガス爆発が敵**1**体に命中するたびに、クローバークロスのダメージ+**0%**、**1**秒間持続。最大**2**スタックまで可能"
+			},
+			"level2": {
+				"name": "ガス(ドッカーーン！)",
+				"description": "ガス爆発が敵**1**体に命中するたびに、クローバークロスのダメージ+**0%**、**1**秒間持続。最大**2**スタックまで可能"
+			},
+			"id": "imitation_26"
+		},
 		"id": "imitation_26"
 	},
 	"imitation_29": {
 		"name": "Tian Lang",
 		"advanceId": "imitation_29L1",
 		"weapon": "tianlang_thunder",
-		"icon": "imitation_29",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_29",
 		"avatarID": "tianlang",
 		"age": "23 Maret",
 		"height": "185 cm",
 		"gender": "Laki-Laki",
 		"state": "ミラポリス生態緑化センター",
 		"city": "ミラポリス",
-		"rating": "wuwei_imitation_29",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_29",
 		"gp": [
 			"collection",
 			"decorate",
@@ -611,20 +787,31 @@
 				"Portuguese": "CV : Glauco Marques"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "天琅・廻雷",
+				"description": "雷属性武器のスキルまたは連携スキルを発動するごとに、回避回数の消費なしに回避できる機会を**1**回分獲得し、最大**2**回までスタック可能。それとともに雷属性武器または連携スキルを発動すると雷ダメージ+**0%**、**8**秒間持続。スタック不可"
+			},
+			"level2": {
+				"name": "天琅・動雷",
+				"description": "雷属性武器のスキルまたは連携スキルを発動するごとに、回避回数の消費なしに回避できる機会を**1**回分獲得し、最大**3**回までスタック可能。それとともに雷属性武器または連携スキルを発動すると雷ダメージ+**0%**、**8**秒間持続。スタック不可"
+			},
+			"id": "imitation_29"
+		},
 		"id": "imitation_29"
 	},
 	"imitation_24": {
 		"name": "エスター",
 		"advanceId": "imitation_24L1",
 		"weapon": "arm_physic",
-		"icon": "imitation_24",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_24",
 		"avatarID": "xinghuan",
 		"age": "23 Juni",
 		"height": "174cm",
 		"gender": "Perempuan",
 		"state": "マデリーン・ファンド",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_24",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_24",
 		"gp": [
 			"everydayObjects",
 			"Vera"
@@ -646,20 +833,31 @@
 				"Portuguese": "CV : Maitê Cunha"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "共感",
+				"description": "恩恵共鳴時：チーム全体の最大HP+{0%、複数の場合はスタック不可"
+			},
+			"level2": {
+				"name": "加護",
+				"description": "恩恵共鳴時：チーム全体の最大HP+{0%、複数の場合はスタック不可、自身の最大HPがさらに+{1%。スキル発動に成功した時、自身が不屈効果を有するか、またはHPが50%以上ある場合は、そのたび味方全体に{2秒間の不屈効果を付与する"
+			},
+			"id": "imitation_24"
+		},
 		"id": "imitation_24"
 	},
 	"imitation_23": {
 		"name": "Lin",
 		"advanceId": "imitation_23L1",
 		"weapon": "fan_superpower",
-		"icon": "imitation_23",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_23",
 		"avatarID": "linye",
 		"age": "3 September",
 		"height": "175cm",
 		"gender": "Perempuan",
 		"state": "ハガード第7地区",
 		"city": "ミラポリス",
-		"rating": "wuwei_imitation_23",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_23",
 		"gp": [
 			"metal",
 			"decorate",
@@ -682,20 +880,31 @@
 				"Portuguese": "CV : Carol Valença"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "凛夜・月華満開",
+				"description": "月下美人の花の爆発ダメージ+**15%**"
+			},
+			"level2": {
+				"name": "凛夜・月華絢爛",
+				"description": "月下美人の花の爆発ダメージ+**20%**。月下美人の花がターゲットに命中すると全属性耐性が**7%**減少、**7**秒間持続、スタック不可"
+			},
+			"id": "imitation_23"
+		},
 		"id": "imitation_23"
 	},
 	"imitation_22": {
 		"name": "Saki Fuwa",
 		"advanceId": "imitation_22L1",
 		"weapon": "dkatana_ice",
-		"icon": "imitation_22",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22",
 		"avatarID": "bupoxiao",
 		"age": "11 Oktober",
 		"height": "157 cm",
 		"gender": "Perempuan",
 		"state": "ミラポリス保安部特殊部隊",
 		"city": "ミラポリス",
-		"rating": "wuwei_imitation_22",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_22",
 		"gp": [
 			"metal",
 			"everydayObjects",
@@ -718,20 +927,31 @@
 				"Portuguese": "CV : Letícia Quinto"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "不破咲-不屈の姿勢",
+				"description": "HPが**70%**未満の時、全属性耐性**40%**を獲得"
+			},
+			"level2": {
+				"name": "不破咲-守護の剣",
+				"description": "HPが**70%**未満の時、全属性耐性**40%**を獲得し、氷耐性を追加で**60%**獲得。静心流時、【奔流】がブロックするとHP比率の最も低い味方(自分以外)にブロック能力を3回付与する。ブロック量は味方の最大HPの**15%**以下。**10**秒間持続"
+			},
+			"id": "imitation_22"
+		},
 		"id": "imitation_22"
 	},
 	"imitation_21": {
 		"name": "ラビィ",
 		"advanceId": "imitation_21L1",
 		"weapon": "funnel_fire",
-		"icon": "imitation_21",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21",
 		"avatarID": "leibei",
 		"age": "15 Juli",
 		"height": "140 cm",
 		"gender": "Perempuan",
 		"state": "記録なし",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_21",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_21",
 		"gp": [
 			"game",
 			"toy",
@@ -754,20 +974,31 @@
 				"Portuguese": "CV : Letícia Celini"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "ドリームキャッチャー",
+				"description": "ドリーの**5**m以内にいるモンスターが受ける炎ダメージ+**8%**、スタック不可"
+			},
+			"level2": {
+				"name": "ドリーテリトリー",
+				"description": "ドリーの5m以内にいるモンスターが受ける炎ダメージ+**8%**、スタック不可。ドリーを投げると炎攻撃力+**12%**、**10**秒間持続、スタック不可"
+			},
+			"id": "imitation_21"
+		},
 		"id": "imitation_21"
 	},
 	"imitation_28": {
 		"name": "フレイヤ",
 		"advanceId": "imitation_28L1",
 		"weapon": "frigg_ice",
-		"icon": "imitation_28",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_28",
 		"avatarID": "Avatar12",
 		"age": "1 Februari",
 		"height": "190 cm",
 		"gender": "Perempuan",
 		"state": "赦しの天使",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_28",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_28",
 		"gp": [
 			"metal",
 			"everydayObjects"
@@ -789,20 +1020,31 @@
 				"Portuguese": "CV : Adriana Pissardini"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "凍結",
+				"description": "戦闘開始時、**3**秒ごとに氷攻撃力+**1.5%**を獲得、最大**10**スタックまで可能、**5**秒持続"
+			},
+			"level2": {
+				"name": "フリーズ",
+				"description": "戦闘開始時、**3**秒ごとに氷攻撃力+**2.4%**を獲得、最大**10**スタックまで可能、**5**秒間持続。さらに氷テリトリー内では不屈効果と行動制限無効効果を獲得する"
+			},
+			"id": "imitation_28"
+		},
 		"id": "imitation_28"
 	},
 	"imitation_17": {
 		"name": "ネメシス",
 		"advanceId": "imitation_17L1",
 		"weapon": "suspension_thunder",
-		"icon": "imitation_17",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_17",
 		"avatarID": "Avatar06",
 		"age": "23 Mei",
 		"height": "165 cm",
 		"gender": "Perempuan",
 		"state": "赦しの天使",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_17",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_17",
 		"gp": [
 			"toy",
 			"decorate",
@@ -825,20 +1067,31 @@
 				"Portuguese": "CV : Tatiane Keplmair"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "ネメシス・変化",
+				"description": "電極を生成すると、電極の周囲**30**メートル以内にいるすべての敵に攻撃力の**60%**の雷ダメージを与え、自身を含むすべての味方が攻撃力の**120%**の回復を受ける"
+			},
+			"level2": {
+				"name": "ネメシス・昇華",
+				"description": "電極を生成すると、電極の周囲**30**メートル以内にいるすべての敵に攻撃力の**100%**の雷ダメージを与え、自身を含むすべての味方が攻撃力×**200%**の回復を受ける"
+			},
+			"id": "imitation_17"
+		},
 		"id": "imitation_17"
 	},
 	"imitation_1": {
 		"name": "ゼロ",
 		"advanceId": "imitation_1L1",
 		"weapon": "cube_fire",
-		"icon": "imitation_1",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_1",
 		"avatarID": "ling",
 		"age": "6 Juni",
 		"height": "155 cm",
 		"gender": "Laki-Laki",
 		"state": "記録なし",
 		"city": "ベンジス",
-		"rating": "wuwei_imitation_1",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_1",
 		"gp": [
 			"game",
 			"restrictedGoods"
@@ -860,19 +1113,30 @@
 				"Portuguese": "CV : Henry Walnut"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "ゼロ・精密計算",
+				"description": "ゼロが武器スキルを発動すると、クールダウン中のアルケーのクールダウンが**1.5**秒短縮される。同じ武器は**5**秒間に**1**回しか発動できない"
+			},
+			"level2": {
+				"name": "ゼロ・トータルプラン",
+				"description": "ゼロが武器スキルを発動すると、クールダウン中のアルケーのクールダウンが**3**秒短縮される。同じ武器は**5**秒間に**1**回しか発動できない"
+			},
+			"id": "imitation_1"
+		},
 		"id": "imitation_1"
 	},
 	"imitation_2": {
 		"name": "イーネ",
 		"weapon": "hammer_ice",
-		"icon": "imitation_2",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_2",
 		"avatarID": "xi",
 		"age": "17 Agustus",
 		"height": "145 cm",
 		"gender": "Perempuan",
 		"state": "ヴィクトリア・セキュリティカンパニー",
 		"city": "キリオン",
-		"rating": "wuwei_imitation_2",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_2",
 		"gp": [
 			"game",
 			"decorate",
@@ -895,20 +1159,31 @@
 				"Portuguese": "CV : Amanda Tavares"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "イーネ・高速モード",
+				"description": "イーネのスイミング、クライミング、滑空時、スタミナ消費-**12%**"
+			},
+			"level2": {
+				"name": "イーネ・超過モード",
+				"description": "イーネのスイミング、クライミング、滑空時、スタミナ消費-**20%**"
+			},
+			"id": "imitation_2"
+		},
 		"id": "imitation_2"
 	},
 	"imitation_3": {
 		"name": "メリル",
 		"advanceId": "imitation_3L1",
 		"weapon": "bigsword_ice",
-		"icon": "imitation_3",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_3",
 		"avatarID": "meilier",
 		"age": "10 Oktober",
 		"height": "170 cm",
 		"gender": "Perempuan",
 		"state": "ハガード",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_3",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_3",
 		"gp": [
 			"collection",
 			"Rarity"
@@ -930,19 +1205,30 @@
 				"Portuguese": "CV : Patt Souza"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "メリル・クールなバラ",
+				"description": "メリルの氷被ダメージ-**20%**、凍傷効果無効、凍結状態の持続時間-**50%**"
+			},
+			"level2": {
+				"name": "メリル・極寒",
+				"description": "メリルの氷被ダメージ-**25%**、凍傷効果無効、凍結状態の持続時間-**50%**。メリルの周囲は氷結する"
+			},
+			"id": "imitation_3"
+		},
 		"id": "imitation_3"
 	},
 	"imitation_4": {
 		"name": "エコー",
 		"weapon": "spear_thunder",
-		"icon": "imitation_4",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_4",
 		"avatarID": "aige",
 		"age": "14 Agustus",
 		"height": "162 cm",
 		"gender": "Perempuan",
 		"state": "記録なし",
 		"city": "フォラント",
-		"rating": "wuwei_imitation_4",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_4",
 		"gp": [
 			"everydayObjects",
 			"restrictedGoods",
@@ -971,14 +1257,14 @@
 		"name": "セミール",
 		"advanceId": "imitation_5L1",
 		"weapon": "dgun_thunder",
-		"icon": "imitation_5",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_5",
 		"avatarID": "saimier",
 		"age": "20 Mei",
 		"height": "171 cm",
 		"gender": "Perempuan",
 		"state": "ハガード",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_5",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_5",
 		"gp": [
 			"game",
 			"toy"
@@ -1006,14 +1292,14 @@
 		"name": "シューマー",
 		"advanceId": "imitation_6L1",
 		"weapon": "shieldaxe_fire",
-		"icon": "imitation_6",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_6",
 		"avatarID": "xiuma",
 		"age": "12 Januari",
 		"height": "167 cm",
 		"gender": "Perempuan",
 		"state": "ハガード",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_6",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_6",
 		"gp": [
 			"everydayObjects",
 			"game",
@@ -1042,14 +1328,14 @@
 		"name": "ツバサ",
 		"advanceId": "imitation_7L1",
 		"weapon": "bow_ice",
-		"icon": "imitation_7",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_7",
 		"avatarID": "sifengyuanyu",
 		"age": "24 Maret",
 		"height": "169 cm",
 		"gender": "Perempuan",
 		"state": "アイダの子",
 		"city": "アストラ島",
-		"rating": "wuwei_imitation_7",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_7",
 		"gp": [
 			"garageKit",
 			"restrictedGoods",
@@ -1078,14 +1364,14 @@
 		"name": "シロ",
 		"advanceId": "imitation_8L1",
 		"weapon": "darts_physic",
-		"icon": "imitation_8",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_8",
 		"avatarID": "xiluo",
 		"age": "22 September",
 		"height": "163 cm",
 		"gender": "Perempuan",
 		"state": "記録なし",
 		"city": "フォラント",
-		"rating": "wuwei_imitation_8",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_8",
 		"gp": [
 			"metal",
 			"collection",
@@ -1114,14 +1400,14 @@
 		"name": "キング",
 		"advanceId": "imitation_9L1",
 		"weapon": "sickle_fire",
-		"icon": "imitation_9",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_9",
 		"avatarID": "KING",
 		"age": "3 November",
 		"height": "190 cm",
 		"gender": "Laki-Laki",
 		"state": "ラヴェンジャーの傭兵",
 		"city": "キリオン",
-		"rating": "wuwei_imitation_9",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_9",
 		"gp": [
 			"collection",
 			"Rarity",
@@ -1150,14 +1436,14 @@
 		"name": "コバルト",
 		"advanceId": "imitation_10L1",
 		"weapon": "gun_fire",
-		"icon": "imitation_10",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_10",
 		"avatarID": "gulan",
 		"age": "26 Juni",
 		"height": "157 cm",
 		"gender": "Perempuan",
 		"state": "ベンジス重工",
 		"city": "キリオン",
-		"rating": "wuwei_imitation_10",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_10",
 		"gp": [
 			"metal",
 			"collection",
@@ -1180,20 +1466,31 @@
 				"Portuguese": "CV : Jussara Marques"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "コバルト・余熱",
+				"description": "コバルトが連携スキルを発動すると、自身の武器エナジー値をランダムに**50**～**120**回復する"
+			},
+			"level2": {
+				"name": "コバルト・火花",
+				"description": "コバルトが連携スキルを発動すると、自身の武器エナジー値をランダムに**90**～**180**回復する"
+			},
+			"id": "imitation_10"
+		},
 		"id": "imitation_10"
 	},
 	"imitation_11": {
 		"name": "ココリッタ",
 		"advanceId": "imitation_11L1",
 		"weapon": "stave_ice",
-		"icon": "imitation_11",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_11",
 		"avatarID": "kekelite",
 		"age": "1 Juni",
 		"height": "147 cm",
 		"gender": "Perempuan",
 		"state": "ハガード医療部門",
 		"city": "ハガード",
-		"rating": "wuwei_imitation_11",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_11",
 		"gp": [
 			"toy",
 			"decorate",
@@ -1222,14 +1519,14 @@
 		"name": "クローディア",
 		"advanceId": "imitation_12L1",
 		"weapon": "sword_physic",
-		"icon": "imitation_12",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_12",
 		"avatarID": "kelaodiya",
 		"age": "16 Januari",
 		"height": "170 cm",
 		"gender": "Perempuan",
 		"state": "ハガード",
 		"city": "ハガード",
-		"rating": "wuwei_imitation_12",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_12",
 		"gp": [
 			"everydayObjects",
 			"Rarity",
@@ -1258,14 +1555,14 @@
 		"name": "クロウ",
 		"advanceId": "imitation_13L1",
 		"weapon": "digger_thunder",
-		"icon": "imitation_13",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_13",
 		"avatarID": "wuwan",
 		"age": "17 Desember",
 		"height": "162 cm",
 		"gender": "Laki-Laki",
 		"state": "記録なし",
 		"city": "アストラ島",
-		"rating": "wuwei_imitation_13",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_13",
 		"gp": [
 			"everydayObjects",
 			"garageKit",
@@ -1293,14 +1590,14 @@
 	"imitation_14": {
 		"name": "ペペ",
 		"weapon": "stave_thunder",
-		"icon": "imitation_14",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_14",
 		"avatarID": "peipei",
 		"age": "9 Juli",
 		"height": "160 cm",
 		"gender": "Perempuan",
 		"state": "ハガード医療部門",
 		"city": "ベンジス",
-		"rating": "wuwei_imitation_14",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_14",
 		"gp": [
 			"everydayObjects",
 			"decorate",
@@ -1328,14 +1625,14 @@
 	"imitation_15": {
 		"name": "ヒルダ",
 		"weapon": "cannon_ice",
-		"icon": "imitation_15",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_15",
 		"avatarID": "hida",
 		"age": "11 April",
 		"height": "165 cm",
 		"gender": "Perempuan",
 		"state": "ベンジス",
 		"city": "記録なし",
-		"rating": "wuwei_imitation_15",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_15",
 		"gp": [
 			"restrictedGoods",
 			"garageKit",
@@ -1363,14 +1660,14 @@
 	"imitation_16": {
 		"name": "バイリン",
 		"weapon": "bow_physic",
-		"icon": "imitation_16",
+		"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_16",
 		"avatarID": "bailing",
 		"age": "8 Mei",
 		"height": "163 cm",
 		"gender": "Perempuan",
 		"state": "HT201シェルター",
 		"city": "HT201シェルター",
-		"rating": "wuwei_imitation_16",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_16",
 		"gp": [
 			"Rarity",
 			"collection",
@@ -1393,649 +1690,17 @@
 				"Portuguese": "CV : Adriana Pissardini"
 			}
 		],
+		"trait": {
+			"level1": {
+				"name": "バイリン・勇気",
+				"description": "バイリンがパラグライダーかスライダーを格納すると、移動速度+**8%**。**12**秒間持続、クールダウン**60**秒"
+			},
+			"level2": {
+				"name": "バイリン・果敢",
+				"description": "バイリンがパラグライダーかスライダーを格納すると、移動速度+**15%**。**12**秒間持続、クールダウン**60**秒"
+			},
+			"id": "imitation_16"
+		},
 		"id": "imitation_16"
-	},
-	"imitation_1L1": {
-		"name": "ゼロ",
-		"weapon": "cube_fire",
-		"icon": "erjie_imitation_1",
-		"avatarID": "ling",
-		"age": "6 Juni",
-		"height": "記録なし",
-		"gender": "Laki-Laki",
-		"state": "記録なし",
-		"city": "記録なし",
-		"rating": "wuwei_imitation_1",
-		"gp": [
-			"game",
-			"restrictedGoods"
-		],
-		"va": [],
-		"id": "imitation_1L1"
-	},
-	"imitation_3L1": {
-		"name": "メリル",
-		"weapon": "bigsword_ice",
-		"icon": "erjie_imitation_3",
-		"avatarID": "None",
-		"age": "誕生日:8月14日",
-		"rating": "wuwei_imitation_3",
-		"gp": [
-			"collection",
-			"Rarity"
-		],
-		"va": [],
-		"id": "imitation_3L1"
-	},
-	"imitation_5L1": {
-		"name": "セミール",
-		"weapon": "dgun_thunder",
-		"icon": "erjie_imitation_5",
-		"avatarID": "None",
-		"age": "誕生日:8月14日",
-		"rating": "wuwei_imitation_5",
-		"gp": [
-			"game",
-			"toy"
-		],
-		"va": [],
-		"id": "imitation_5L1"
-	},
-	"imitation_6L1": {
-		"name": "シューマー",
-		"weapon": "shieldaxe_fire",
-		"icon": "erjie_imitation_6",
-		"avatarID": "None",
-		"age": "誕生日:8月14日",
-		"rating": "wuwei_imitation_6",
-		"gp": [
-			"everydayObjects",
-			"game",
-			"decorate"
-		],
-		"va": [],
-		"id": "imitation_6L1"
-	},
-	"imitation_7L1": {
-		"name": "ツバサ",
-		"weapon": "bow_ice",
-		"icon": "erjie_imitation_7",
-		"avatarID": "sifengyuanyu",
-		"age": "誕生日:8月14日",
-		"rating": "wuwei_imitation_7",
-		"gp": [
-			"garageKit",
-			"restrictedGoods",
-			"Rarity"
-		],
-		"va": [],
-		"id": "imitation_7L1"
-	},
-	"imitation_8L1": {
-		"name": "シロ",
-		"weapon": "darts_physic",
-		"icon": "erjie_imitation_8",
-		"avatarID": "None",
-		"age": "誕生日:8月14日",
-		"rating": "wuwei_imitation_8",
-		"gp": [
-			"metal",
-			"collection",
-			"Rarity"
-		],
-		"va": [],
-		"id": "imitation_8L1"
-	},
-	"imitation_9L1": {
-		"name": "キング",
-		"weapon": "sickle_fire",
-		"icon": "erjie_imitation_9",
-		"avatarID": "KING",
-		"age": "3 November",
-		"height": "記録なし",
-		"gender": "Laki-Laki",
-		"state": "ラヴェンジャーの傭兵",
-		"city": "記録なし",
-		"rating": "wuwei_imitation_9",
-		"gp": [
-			"collection",
-			"Rarity",
-			"restrictedGoods"
-		],
-		"va": [],
-		"id": "imitation_9L1"
-	},
-	"imitation_10L1": {
-		"name": "コバルト",
-		"weapon": "gun_fire",
-		"icon": "erjie_imitation_10",
-		"avatarID": "None",
-		"age": "誕生日:8月14日",
-		"rating": "wuwei_imitation_10",
-		"gp": [
-			"metal",
-			"collection",
-			"restrictedGoods"
-		],
-		"va": [],
-		"id": "imitation_10L1"
-	},
-	"imitation_11L1": {
-		"name": "ココリッタ",
-		"weapon": "stave_ice",
-		"icon": "erjie_imitation_11",
-		"avatarID": "None",
-		"age": "誕生日:8月14日",
-		"rating": "wuwei_imitation_11",
-		"gp": [
-			"toy",
-			"decorate",
-			"Rarity"
-		],
-		"va": [],
-		"id": "imitation_11L1"
-	},
-	"imitation_12L1": {
-		"name": "クローディア",
-		"weapon": "sword_physic",
-		"icon": "erjie_imitation_12",
-		"avatarID": "kelaodiya",
-		"age": "16 Januari",
-		"height": "記録なし",
-		"gender": "Perempuan",
-		"state": "ハガード",
-		"city": "記録なし",
-		"rating": "wuwei_imitation_12",
-		"gp": [
-			"everydayObjects",
-			"Rarity",
-			"decorate"
-		],
-		"va": [],
-		"id": "imitation_12L1"
-	},
-	"imitation_13L1": {
-		"name": "クロウ",
-		"weapon": "digger_thunder",
-		"icon": "erjie_imitation_13",
-		"avatarID": "wuwan",
-		"age": "17 Desember",
-		"height": "記録なし",
-		"gender": "Laki-Laki",
-		"state": "記録なし",
-		"city": "記録なし",
-		"rating": "wuwei_imitation_13",
-		"gp": [
-			"everydayObjects",
-			"garageKit",
-			"restrictedGoods"
-		],
-		"va": [],
-		"id": "imitation_13L1"
-	},
-	"imitation_17L1": {
-		"name": "ネメシス",
-		"weapon": "suspension_thunder",
-		"icon": "erjie_imitation_17",
-		"avatarID": "naimeixisi",
-		"age": "23 Mei",
-		"height": "165 cm",
-		"gender": "Perempuan",
-		"state": "赦しの天使",
-		"city": "記録なし",
-		"rating": "wuwei_imitation_17",
-		"gp": [
-			"everydayObjects",
-			"Rarity",
-			"decorate"
-		],
-		"va": [],
-		"id": "imitation_17L1"
-	},
-	"imitation_28L1": {
-		"name": "フレイヤ",
-		"advanceId": "None",
-		"weapon": "frigg_ice",
-		"icon": "erjie_imitation_28",
-		"avatarID": "fulijia",
-		"age": "1 Februari",
-		"height": "190 cm",
-		"gender": "Perempuan",
-		"state": "記録なし",
-		"city": "記録なし",
-		"rating": "wuwei_imitation_28",
-		"gp": [
-			"metal",
-			"everydayObjects"
-		],
-		"va": [],
-		"id": "imitation_28L1"
-	},
-	"imitation_22L1": {
-		"name": "Saki Fuwa",
-		"advanceId": "imitation_22L1",
-		"weapon": "dkatana_ice",
-		"icon": "erjie_imitation_22",
-		"avatarID": "bupoxiao",
-		"age": "9 Juli",
-		"height": "160 cm",
-		"gender": "Perempuan",
-		"state": "ハガード医療部門",
-		"city": "ベンジス",
-		"rating": "wuwei_imitation_22",
-		"gp": [
-			"metal",
-			"everydayObjects",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_22L1"
-	},
-	"imitation_23L1": {
-		"name": "Lin",
-		"weapon": "fan_superpower",
-		"icon": "erjie_imitation_23",
-		"avatarID": "linye",
-		"age": "9 Juli",
-		"height": "160 cm",
-		"gender": "Perempuan",
-		"state": "ハガード医療部門",
-		"city": "ベンジス",
-		"rating": "wuwei_imitation_23",
-		"gp": [
-			"metal",
-			"decorate",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_23L1"
-	},
-	"imitation_21L1": {
-		"name": "ラビィ",
-		"weapon": "funnel_fire",
-		"icon": "imitation_21L1",
-		"avatarID": "leibei",
-		"age": "9 Juli",
-		"height": "160 cm",
-		"gender": "Perempuan",
-		"state": "ハガード医療部門",
-		"city": "ベンジス",
-		"rating": "wuwei_imitation_21",
-		"gp": [
-			"game",
-			"toy",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_21L1"
-	},
-	"imitation_24L1": {
-		"name": "エスター",
-		"weapon": "arm_physiclv3",
-		"icon": "imitation_24L1",
-		"avatarID": "xinghuan",
-		"age": "9 Juli",
-		"height": "160 cm",
-		"gender": "Perempuan",
-		"state": "ハガード医療部門",
-		"city": "ベンジス",
-		"rating": "wuwei_imitation_24",
-		"gp": [
-			"everydayObjects",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_24L1"
-	},
-	"imitation_26L1": {
-		"name": "アナベラ",
-		"weapon": "snipe_fire",
-		"icon": "erjie_imitation_26",
-		"avatarID": "Annabella",
-		"age": "9 Juli",
-		"height": "160 cm",
-		"gender": "Perempuan",
-		"state": "ハガード医療部門",
-		"city": "ベンジス",
-		"rating": "wuwei_imitation_26",
-		"gp": [
-			"decorate",
-			"Rarity",
-			"game",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_26L1"
-	},
-	"imitation_29L1": {
-		"name": "Tian Lang",
-		"advanceId": "imitation_29L1",
-		"weapon": "tianlang_thunder_level3",
-		"icon": "erjie_imitation_29",
-		"avatarID": "tianlang",
-		"age": "23 Maret",
-		"height": "185 cm",
-		"gender": "Laki-Laki",
-		"state": "記録なし",
-		"city": "ミラポリス",
-		"rating": "wuwei_imitation_29",
-		"gp": [
-			"collection",
-			"decorate",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_29L1"
-	},
-	"imitation_32L1": {
-		"name": "フェンリル",
-		"advanceId": "imitation_32L1",
-		"weapon": "fenrir_thunder_lv3",
-		"icon": "erjie_imitation_32",
-		"avatarID": "fenlier",
-		"age": "13 Februari",
-		"height": "160 cm",
-		"gender": "Perempuan",
-		"state": "記録なし",
-		"city": "記録なし",
-		"rating": "wuwei_imitation_32",
-		"gp": [
-			"toy",
-			"collection",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_32L1"
-	},
-	"imitation_30L1": {
-		"name": "アリス",
-		"advanceId": "imitation_30L1",
-		"weapon": "iceblade_ice_lv3",
-		"icon": "erjie_imitation_30",
-		"avatarID": "ailisi",
-		"age": "9 Juli",
-		"height": "160 cm",
-		"gender": "Perempuan",
-		"state": "ハガード医療部門",
-		"city": "ベンジス",
-		"rating": "wuwei_imitation_30",
-		"gp": [
-			"collection",
-			"restrictedGoods",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_30L1"
-	},
-	"imitation_34L1": {
-		"name": "嵐",
-		"advanceId": "imitation_34L1",
-		"weapon": "umbrella_fire_lv3",
-		"icon": "erjie_imitation_34",
-		"avatarID": "lan",
-		"age": "9 Juli",
-		"height": "160 cm",
-		"gender": "Perempuan",
-		"state": "ハガード医療部門",
-		"city": "ベンジス",
-		"rating": "wuwei_imitation_34",
-		"gp": [
-			"everydayObjects",
-			"decorate",
-			"collection"
-		],
-		"va": [],
-		"id": "imitation_34L1"
-	},
-	"imitation_31L1": {
-		"name": "ウーミィ",
-		"advanceId": "imitation_31L1",
-		"weapon": "whip_physic_lv3",
-		"icon": "erjie_imitation_31",
-		"avatarID": "wumi",
-		"age": "9 Juli",
-		"height": "160 cm",
-		"gender": "Perempuan",
-		"state": "ハガード医療部門",
-		"city": "ベンジス",
-		"rating": "wuwei_imitation_31",
-		"gp": [
-			"game",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_31L1"
-	},
-	"imitation_35L1": {
-		"name": "イカロス",
-		"weapon": "yoyo_ice_level3",
-		"icon": "erjie_imitation_35",
-		"avatarID": "Icarus",
-		"age": "24 Oktober",
-		"height": "161 cm",
-		"gender": "Laki-Laki",
-		"state": "マーク小隊",
-		"city": "ハガード",
-		"rating": "wuwei_imitation_35",
-		"gp": [
-			"collection",
-			"metal",
-			"Vera",
-			"Asshai"
-		],
-		"va": [],
-		"id": "imitation_35L1"
-	},
-	"imitation_36L1": {
-		"name": "フィオナ",
-		"weapon": "queen_superpower_lv3",
-		"icon": "erjie_imitation_36",
-		"avatarID": "feiouna",
-		"age": "8 Mei",
-		"height": "163 cm",
-		"gender": "Perempuan",
-		"state": "HT201シェルター",
-		"city": "HT201シェルター",
-		"rating": "wuwei_imitation_36",
-		"gp": [
-			"Rarity",
-			"collection",
-			"decorate"
-		],
-		"va": [],
-		"id": "imitation_36L1"
-	},
-	"imitation_27L1": {
-		"name": "グノノ",
-		"weapon": "chainsaw_physic_lv3",
-		"icon": "imitation_27_2",
-		"avatarID": "genuonuo",
-		"age": "8 Mei",
-		"height": "163 cm",
-		"gender": "Perempuan",
-		"state": "HT201シェルター",
-		"city": "HT201シェルター",
-		"rating": "wuwei_imitation_27",
-		"gp": [
-			"Rarity",
-			"collection",
-			"decorate"
-		],
-		"va": [],
-		"id": "imitation_27L1"
-	},
-	"imitation_38L1": {
-		"name": "玉蘭",
-		"advanceId": "None",
-		"weapon": "yulan_ice_lv3",
-		"icon": "erjie_imitation_38",
-		"avatarID": "yulan",
-		"age": "8 Mei",
-		"height": "163 cm",
-		"gender": "Perempuan",
-		"state": "HT201シェルター",
-		"city": "HT201シェルター",
-		"rating": "wuwei_imitation_38",
-		"gp": [
-			"everydayObjects",
-			"collection",
-			"Jiuyu"
-		],
-		"va": [],
-		"id": "imitation_38L1"
-	},
-	"imitation_48L1": {
-		"name": "レビリア",
-		"weapon": "rubilia_thunder_level3",
-		"icon": "erjie_imitation_48",
-		"avatarID": "leibiliya",
-		"age": "24 April",
-		"height": "195 cm",
-		"gender": "Perempuan",
-		"state": "ミラポリス",
-		"city": "ミラポリス",
-		"rating": "wuwei_imitation_48",
-		"gp": [
-			"decorate",
-			"Vera"
-		],
-		"va": [],
-		"id": "imitation_48L1"
-	},
-	"imitation_37L1": {
-		"name": "Liu Huo",
-		"weapon": "brush_fire_lv3",
-		"icon": "erjie_imitation_37",
-		"avatarID": "feiouna",
-		"age": "17 April",
-		"height": "185 cm",
-		"gender": "Perempuan",
-		"state": "インニス",
-		"city": "インニス",
-		"rating": "wuwei_imitation_37",
-		"gp": [
-			"everydayObjects",
-			"metal",
-			"Jiuyu"
-		],
-		"va": [],
-		"id": "imitation_37L1"
-	},
-	"imitation_41L1": {
-		"name": "Huang",
-		"weapon": "mimi_thunder_lv3",
-		"icon": "erjie_imitation_41",
-		"avatarID": "mimi",
-		"age": "17 April",
-		"height": "185 cm",
-		"gender": "Perempuan",
-		"state": "インニス",
-		"city": "インニス",
-		"rating": "wuwei_imitation_41",
-		"gp": [
-			"toy",
-			"garageKit",
-			"Jiuyu"
-		],
-		"va": [
-			{
-				"Chinese": "CV : 裴致莹"
-			},
-			{
-				"Japanese": "CV : "
-			},
-			{
-				"English": "CV : Corina Boetger"
-			}
-		],
-		"id": "imitation_41L1"
-	},
-	"imitation_43L1": {
-		"name": "Ling Han",
-		"weapon": "linghan_ice_level3",
-		"icon": "erjie_imitation_43",
-		"avatarID": "linghan",
-		"age": "17 April",
-		"height": "185 cm",
-		"gender": "Perempuan",
-		"state": "インニス",
-		"city": "インニス",
-		"rating": "wuwei_imitation_43",
-		"gp": [
-			"collection",
-			"decorate",
-			"Jiuyu"
-		],
-		"va": [
-			{
-				"Chinese": "CV : 陈彦亦"
-			},
-			{
-				"Japanese": ""
-			},
-			{
-				"English": ""
-			}
-		],
-		"id": "imitation_43L1"
-	},
-	"imitation_50L1": {
-		"name": "Ming Jing",
-		"weapon": "zeke_physic_level3",
-		"icon": "erjie_imitation_50",
-		"avatarID": "mingjing",
-		"age": "12 November",
-		"height": "191 cm",
-		"gender": "Laki-Laki",
-		"state": "Domain 9",
-		"city": "Tak Diketahui",
-		"rating": "wuwei_imitation_50",
-		"gp": [
-			"everydayObjects",
-			"Asshai",
-			"Vera",
-			"Jiuyu"
-		],
-		"va": [
-			{
-				"Chinese": "CV : 马洋"
-			},
-			{
-				"Japanese": ""
-			},
-			{
-				"English": ""
-			}
-		],
-		"id": "imitation_50L1"
-	},
-	"imitation_51L1": {
-		"name": "Fei Se",
-		"weapon": "feise_fire_lv3",
-		"icon": "erjie_imitation_51",
-		"avatarID": "feise",
-		"age": "17 April",
-		"height": "185 cm",
-		"gender": "Perempuan",
-		"state": "インニス",
-		"city": "インニス",
-		"rating": "wuwei_imitation_51",
-		"gp": [
-			"everydayObjects",
-			"collection",
-			"Jiuyu"
-		],
-		"va": [
-			{
-				"Chinese": "CV : 陈彦亦"
-			},
-			{
-				"Japanese": ""
-			},
-			{
-				"English": ""
-			}
-		],
-		"id": "imitation_51L1"
 	}
 }
