@@ -2,10 +2,12 @@
 	"spear_ice": {
 		"name": "Морозное копье",
 		"description": "Распространенное оружие среди жителей Снежного поля Уоррена. В него влита энергия мороза, чтобы отразить местный колорит. Очень популярно, потому что дешево и при этом весьма эффективно.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Spear_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Spear_Ice01",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01",
-		"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Spear_Ice01",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Spear_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Spear_Ice01",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01",
+			"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Spear_Ice01"
+		},
 		"rarity": "R",
 		"element": "Ice",
 		"weaponType": "Spear",
@@ -106,10 +108,12 @@
 	"digger_physic": {
 		"name": "Боевой клинок",
 		"description": "Базовое оружие, разработанное в «БэнджиТех». Изготавливается из особого сплава и отличается легкостью и простотой применения.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Ds_Phy01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Ds_Phy01",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01",
-		"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Ds_Phy01",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Ds_Phy01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Ds_Phy01",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01",
+			"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Ds_Phy01"
+		},
 		"rarity": "R",
 		"element": "Physics",
 		"weaponType": "DoubleSword",
@@ -204,10 +208,12 @@
 	"sword_thunder": {
 		"name": "ЭМ-клинок",
 		"description": "Самый ранний проект электромагнитного омния. Клинок прост в обращении и популярен среди не очень опытных странников.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Sword_Thunder01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Sword_Thunder01",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01",
-		"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Sword_Thunder01",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Sword_Thunder01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Sword_Thunder01",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01",
+			"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Sword_Thunder01"
+		},
 		"rarity": "R",
 		"element": "Thunder",
 		"weaponType": "Sword",
@@ -296,10 +302,12 @@
 	"bow_fire": {
 		"name": "Составной лук",
 		"description": "Обычное оружие охотников из Снежных полей. Точное и легкое в обращении. После нескольких усовершенствований оно прочно завоевало себе место на рынке гражданского оружия.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Bow_Fire01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Bow_Phy01",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01",
-		"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Bow_Phy01",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Bow_Fire01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Bow_Phy01",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01",
+			"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Bow_Phy01"
+		},
 		"rarity": "R",
 		"element": "Flame",
 		"weaponType": "Bow",
@@ -388,10 +396,12 @@
 	"stave_thunder": {
 		"name": "Посох шрамов",
 		"description": "Механический посох с вырезанной на нем руной креста, способный как отпускать грехи, так и карать.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Stave_Thunder01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/sr_lh_shqz",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_14",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Stave_Thunder01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/sr_lh_shqz",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_14"
+		},
 		"rarity": "SR",
 		"element": "Thunder",
 		"weaponType": "Staves",
@@ -399,7 +409,9 @@
 		"avatar": {
 			"name": "Пеппер",
 			"weapon": "stave_thunder",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_14",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_14"
+			},
 			"avatarID": "peipei",
 			"age": "9 июля",
 			"height": "160см",
@@ -569,10 +581,12 @@
 	"cannon_ice": {
 		"name": "Терминатор",
 		"description": "Самое чудовищное огнестрельное оружие, когда-либо созданное человеком. Его еще называют передвижной турелью.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Cannon_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_zjz",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_15",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Cannon_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_zjz",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_15"
+		},
 		"rarity": "SR",
 		"element": "Ice",
 		"weaponType": "Cannon",
@@ -580,7 +594,9 @@
 		"avatar": {
 			"name": "Хильда",
 			"weapon": "cannon_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_15",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_15"
+			},
 			"avatarID": "hida",
 			"age": "11 апреля",
 			"height": "165см",
@@ -720,10 +736,12 @@
 	"chainsaw_physic": {
 		"name": "Мини-ураган",
 		"description": "Это слишком опасная штука для детской игрушки — честным путем ребенку такую не достать. Кто знает, какие технологии использовали для переделки?.. Возможно, эту штуку просто подобрали где-нибудь в стороне от хоженых путей.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Chainsaw_physic01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_genuonuo",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_27",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Chainsaw_physic01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_genuonuo",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_27"
+		},
 		"rarity": "SSR",
 		"element": "Physics",
 		"weaponType": "Chainsaw",
@@ -732,7 +750,9 @@
 			"name": "Гнонно",
 			"advanceId": "imitation_27L1",
 			"weapon": "chainsaw_physic",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_27",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_27"
+			},
 			"avatarID": "genuonuo",
 			"age": "6 марта",
 			"height": "134см",
@@ -765,11 +785,11 @@
 			"trait": {
 				"level1": {
 					"name": "Гнонно: Рябь",
-					"description": "Когда **Удар команды разведчиков** вызывает срабатывание **Тотального озверения**, увеличивает конечный урон на **0%**. Действует **30** секунд."
+					"description": "Когда **Удар команды разведчиков** вызывает срабатывание **Тотального озверения**, увеличивает конечный урон на **12%**. Действует **30** секунд."
 				},
 				"level2": {
 					"name": "Гнонно: Рокот волн",
-					"description": "Когда **Удар команды разведчиков** вызывает срабатывание **Тотального озверения**, увеличивает конечный урон на **0%**. Действует **30** секунд.\r\nУвеличивает скорость передвижения под водой на **1%**."
+					"description": "Когда **Удар команды разведчиков** вызывает срабатывание **Тотального озверения**, увеличивает конечный урон на **23%**. Действует **30** секунд."
 				},
 				"id": "imitation_27"
 			},
@@ -924,11 +944,11 @@
 		"trait": {
 			"level1": {
 				"name": "Гнонно: Рябь",
-				"description": "Когда **Удар команды разведчиков** вызывает срабатывание **Тотального озверения**, увеличивает конечный урон на **0%**. Действует **30** секунд."
+				"description": "Когда **Удар команды разведчиков** вызывает срабатывание **Тотального озверения**, увеличивает конечный урон на **12%**. Действует **30** секунд."
 			},
 			"level2": {
 				"name": "Гнонно: Рокот волн",
-				"description": "Когда **Удар команды разведчиков** вызывает срабатывание **Тотального озверения**, увеличивает конечный урон на **0%**. Действует **30** секунд.\r\nУвеличивает скорость передвижения под водой на **1%**."
+				"description": "Когда **Удар команды разведчиков** вызывает срабатывание **Тотального озверения**, увеличивает конечный урон на **23%**. Действует **30** секунд."
 			},
 			"id": "imitation_27"
 		},
@@ -937,10 +957,12 @@
 	"hammer_ice": {
 		"name": "Громила",
 		"description": "Никому не хотелось бы получить такой булавой.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Hammer_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_cdzj",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_2",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Hammer_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_cdzj",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_2"
+		},
 		"rarity": "SR",
 		"element": "Ice",
 		"weaponType": "Hammer",
@@ -948,7 +970,9 @@
 		"avatar": {
 			"name": "Ина",
 			"weapon": "hammer_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_2",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_2"
+			},
 			"avatarID": "xi",
 			"age": "17 августа",
 			"height": "145 см",
@@ -1146,10 +1170,12 @@
 	"bow_physic": {
 		"name": "Соловьиное перышко",
 		"description": "Идеально сливается с ночной тьмой.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Bow_Phy01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_yqzy",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_16",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Bow_Phy01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_yqzy",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_16"
+		},
 		"rarity": "SR",
 		"element": "Physics",
 		"weaponType": "Bow",
@@ -1157,7 +1183,9 @@
 		"avatar": {
 			"name": "Бай Лин",
 			"weapon": "bow_physic",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_16",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_16"
+			},
 			"avatarID": "bailing",
 			"age": "8 мая",
 			"height": "163 см",
@@ -1343,10 +1371,12 @@
 	"spear_thunder": {
 		"name": "Громовая алебарда",
 		"description": "Алебарда, напитанная мощью грозы. Обладает огромной взрывной силой, а длина позволяет поражать противника на любом расстоянии.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Spear_Thunder01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_ltzj",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_4",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Spear_Thunder01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_ltzj",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_4"
+		},
 		"rarity": "SR",
 		"element": "Thunder",
 		"weaponType": "Spear",
@@ -1354,7 +1384,9 @@
 		"avatar": {
 			"name": "Эхо",
 			"weapon": "spear_thunder",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_4",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_4"
+			},
 			"avatarID": "aige",
 			"age": "14 августа",
 			"height": "162 см",
@@ -1530,10 +1562,12 @@
 	"digger_thunder": {
 		"name": "Грозовые клинки",
 		"description": "Непредсказуемые, бесшумные и смертоносные.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Ds_Thunder01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_jkxd",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_13",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Ds_Thunder01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_jkxd",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_13"
+		},
 		"rarity": "SSR",
 		"element": "Thunder",
 		"weaponType": "DoubleSword",
@@ -1542,7 +1576,9 @@
 			"name": "Кроу",
 			"advanceId": "imitation_13L1",
 			"weapon": "digger_thunder",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_13",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_13"
+			},
 			"avatarID": "wuwan",
 			"age": "17 декабря",
 			"height": "162 см",
@@ -1712,10 +1748,12 @@
 	"bigsword_ice": {
 		"name": "Лезвие розы",
 		"description": "Изящный морозный клинок, навевающий образ белоснежного цветка на краю заснеженного утеса.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_BigSword_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_qwjf",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_3",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_BigSword_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_qwjf",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_3"
+		},
 		"rarity": "SSR",
 		"element": "Ice",
 		"weaponType": "BigSword",
@@ -1724,7 +1762,9 @@
 			"name": "Мерил",
 			"advanceId": "imitation_3L1",
 			"weapon": "bigsword_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_3",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_3"
+			},
 			"avatarID": "meilier",
 			"age": "10 октября",
 			"height": "170 см",
@@ -1927,10 +1967,12 @@
 	"bow_ice": {
 		"name": "Ледяная стрела",
 		"description": "Стрелы, выпущенные из этого лука, поражают цель стихией холода.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Bow_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_Mg",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_7",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Bow_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_Mg",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_7"
+		},
 		"rarity": "SSR",
 		"element": "Ice",
 		"weaponType": "Bow",
@@ -1939,7 +1981,9 @@
 			"name": "Цубаса",
 			"advanceId": "imitation_7L1",
 			"weapon": "bow_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_7",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_7"
+			},
 			"avatarID": "sifengyuanyu",
 			"age": "24 марта",
 			"height": "169см",
@@ -2103,10 +2147,12 @@
 	"stave_ice": {
 		"name": "Абсолютный ноль",
 		"description": "Поддерживайте постоянную холодную температуру, чтобы лечить союзников.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Stave_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_mtzz",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_11",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Stave_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_mtzz",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_11"
+		},
 		"rarity": "SSR",
 		"element": "Ice",
 		"weaponType": "Staves",
@@ -2115,7 +2161,9 @@
 			"name": "Коко Риттер",
 			"advanceId": "imitation_11L1",
 			"weapon": "stave_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_11",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_11"
+			},
 			"avatarID": "kekelite",
 			"age": "1 июня",
 			"height": "147см",
@@ -2286,10 +2334,12 @@
 	"sickle_fire": {
 		"name": "Коса ворона",
 		"description": "Мощная коса, которая отлично подходит как для нападения, так и для защиты. Способна мгновенно убить цель на определенном расстоянии.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Sickle_Fire01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_ml",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_9",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Sickle_Fire01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_ml",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_9"
+		},
 		"rarity": "SSR",
 		"element": "Flame",
 		"weaponType": "Sickle",
@@ -2298,7 +2348,9 @@
 			"name": "Кинг",
 			"advanceId": "imitation_9L1",
 			"weapon": "sickle_fire",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_9",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_9"
+			},
 			"avatarID": "KING",
 			"age": "3 ноября",
 			"height": "190 см",
@@ -2474,10 +2526,12 @@
 	"gun_fire": {
 		"name": "Пылающий револьвер",
 		"description": "Изобретение сумасшедшего ученого. Впечатляющие показатели при испытаниях позволяют представить, насколько разрушительным оно может быть на полной мощности.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Gun_Fire01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_zl",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_10",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Gun_Fire01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_zl",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_10"
+		},
 		"rarity": "SSR",
 		"element": "Flame",
 		"weaponType": "Gun",
@@ -2486,7 +2540,9 @@
 			"name": "Кобальт-Би",
 			"advanceId": "imitation_10L1",
 			"weapon": "gun_fire",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_10",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_10"
+			},
 			"avatarID": "gulan",
 			"age": "26 июня",
 			"height": "157см",
@@ -2679,10 +2735,12 @@
 	"sword_physic": {
 		"name": "Клинок Гурена",
 		"description": "Этот алый клинок символизирует мужество и решительность, а острое лезвие вершит правосудие.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Sword_Fire01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_hlr",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_12",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Sword_Fire01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_hlr",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_12"
+		},
 		"rarity": "SSR",
 		"element": "Physics",
 		"weaponType": "Sword",
@@ -2691,7 +2749,9 @@
 			"name": "Клаудия",
 			"advanceId": "imitation_12L1",
 			"weapon": "sword_physic",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_12",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_12"
+			},
 			"avatarID": "kelaodiya",
 			"age": "16 января",
 			"height": "170 см",
@@ -2862,10 +2922,12 @@
 	"darts_physic": {
 		"name": "Чакра морей",
 		"description": "Круглое и острое оружие, которое вместе со своей хозяйкой обошло все моря.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Darts_Phy01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_hr",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_8",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Darts_Phy01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_hr",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_8"
+		},
 		"rarity": "SSR",
 		"element": "Physics",
 		"weaponType": "Darts",
@@ -2874,7 +2936,9 @@
 			"name": "Широ",
 			"advanceId": "imitation_8L1",
 			"weapon": "darts_physic",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_8",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_8"
+			},
 			"avatarID": "xiluo",
 			"age": "22 сентября",
 			"height": "163 см",
@@ -3044,10 +3108,12 @@
 	"cube_fire": {
 		"name": "Куб отрицания",
 		"description": "Владельцы странного куба могут придумать кучу возможностей обойти ненужные требования.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Cube_Fire01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_mf",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_1",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Cube_Fire01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_mf",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_1"
+		},
 		"rarity": "SSR",
 		"element": "Flame",
 		"weaponType": "Cube",
@@ -3056,7 +3122,9 @@
 			"name": "Зеро",
 			"advanceId": "imitation_1L1",
 			"weapon": "cube_fire",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_1",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_1"
+			},
 			"avatarID": "ling",
 			"age": "6 июня",
 			"height": "155 см",
@@ -3248,10 +3316,12 @@
 	"dgun_thunder": {
 		"name": "Парные ЭМ-звезды",
 		"description": "Это оружие разработано на базе рельсотрона и применяется только в паре с таким же.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_DGun_Thunder",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_Sq",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_5",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_DGun_Thunder",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_Sq",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_5"
+		},
 		"rarity": "SSR",
 		"element": "Thunder",
 		"weaponType": "DoubleGun",
@@ -3260,7 +3330,9 @@
 			"name": "Самир",
 			"advanceId": "imitation_5L1",
 			"weapon": "dgun_thunder",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_5",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_5"
+			},
 			"avatarID": "saimier",
 			"age": "20 мая",
 			"height": "171 см",
@@ -3423,10 +3495,12 @@
 	"shieldaxe_fire": {
 		"name": "Расплавленный щит V2",
 		"description": "Щитовой топор из оружейной серии V2 — коллекции оружия, выкованного с использованием особых техник.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_ShieldAxe_Fire01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yyz",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_6",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_ShieldAxe_Fire01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yyz",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_6"
+		},
 		"rarity": "SSR",
 		"element": "Flame",
 		"weaponType": "ShieldAxe",
@@ -3435,7 +3509,9 @@
 			"name": "Юма",
 			"advanceId": "imitation_6L1",
 			"weapon": "shieldaxe_fire",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_6",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_6"
+			},
 			"avatarID": "xiuma",
 			"age": "12 января",
 			"height": "167см",
@@ -3599,10 +3675,12 @@
 	"mimi_thunder": {
 		"name": "Лазурный дракон",
 		"description": "Пара вееров, которые содержат огромный запас энергии, способной свернуть горы и разорвать мир в клочья.\r\nКогда лазурный дракон взмывает за облака, мир наполняется ветром.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_mimi",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_MiMi",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_41",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_mimi",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_MiMi",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_41"
+		},
 		"rarity": "SSR",
 		"element": "Thunder",
 		"weaponType": "Dfan",
@@ -3611,7 +3689,9 @@
 			"name": "Хуан",
 			"advanceId": "imitation_41L1",
 			"weapon": "mimi_thunder",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_41",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_41"
+			},
 			"avatarID": "mimi",
 			"age": "23 июля",
 			"height": "135 см",
@@ -3644,11 +3724,11 @@
 			"trait": {
 				"level1": {
 					"name": "Бамбуковые колья",
-					"description": "Увеличивает конечный урон на **0%**.\r\nКогда в экипировке **3** предмета оружия электричества, увеличивает урон от электричества на **1%**."
+					"description": "Увеличивает конечный урон на **13%**.\r\nКогда в экипировке **3** предмета оружия электричества, увеличивает урон от электричества на **6%**."
 				},
 				"level2": {
 					"name": "Нефритовое сияние",
-					"description": "Увеличивает конечный урон на **0%**.\r\nКогда в экипировке **3** предмета оружия электричества, увеличивает урон от электричества на **1%**, а длительность баффа, повышающего шанс крит. удара, дополнительно увеличивается на **2** сек."
+					"description": "Увеличивает конечный урон на **18%**.\r\nКогда в экипировке **3** предмета оружия электричества, увеличивает урон от электричества на **6%**."
 				},
 				"id": "imitation_41"
 			},
@@ -3797,11 +3877,11 @@
 		"trait": {
 			"level1": {
 				"name": "Бамбуковые колья",
-				"description": "Увеличивает конечный урон на **0%**.\r\nКогда в экипировке **3** предмета оружия электричества, увеличивает урон от электричества на **1%**."
+				"description": "Увеличивает конечный урон на **13%**.\r\nКогда в экипировке **3** предмета оружия электричества, увеличивает урон от электричества на **6%**."
 			},
 			"level2": {
 				"name": "Нефритовое сияние",
-				"description": "Увеличивает конечный урон на **0%**.\r\nКогда в экипировке **3** предмета оружия электричества, увеличивает урон от электричества на **1%**, а длительность баффа, повышающего шанс крит. удара, дополнительно увеличивается на **2** сек."
+				"description": "Увеличивает конечный урон на **18%**.\r\nКогда в экипировке **3** предмета оружия электричества, увеличивает урон от электричества на **6%**."
 			},
 			"id": "imitation_41"
 		},
@@ -3810,10 +3890,12 @@
 	"linghan_ice": {
 		"name": "Алебастровый тигр",
 		"description": "За чарующим танцем меча сложно разглядеть тайны, что хранит ее сердце.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/UI_SSR_lh_linghan",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_43",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/UI_SSR_lh_linghan",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_43"
+		},
 		"rarity": "SSR",
 		"element": "Ice",
 		"weaponType": "Linghan",
@@ -3822,7 +3904,9 @@
 			"name": "Линхань",
 			"advanceId": "imitation_43L1",
 			"weapon": "linghan_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_43",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_43"
+			},
 			"avatarID": "linghan",
 			"age": "7 июня",
 			"height": "181 см",
@@ -3855,11 +3939,11 @@
 			"trait": {
 				"level1": {
 					"name": "Надзирающий клинок",
-					"description": "Увеличивает конечный урон на **0%**. Когда **Алебастровый тигр** в экипировке, **каждое** оружие холода в экипировке увеличивает урон от холода на **1%**."
+					"description": "Увеличивает конечный урон на **13%**. Когда **Алебастровый тигр** в экипировке, **каждое** оружие холода в экипировке увеличивает урон от холода на **1%**."
 				},
 				"level2": {
 					"name": "Господствующий клинок",
-					"description": "Увеличивает конечный урон на **0%**.\r\nКогда **Алебастровый тигр** в экипировке, использование навыка **«Мастер меча: Ледяное возвращение»** дает невосприимчивость к урону на **4** сек. (недоступно в Высшей лиге). **Каждое** оружие холода в экипировке увеличивает урон от холода на **1%**. Когда в экипировке **3** предмета оружия холода, использование любого навыка оружия холода дополнительно дает **2**ед. заряда оружия. После использования любого навыка оружия холода или разрядки любого оружия, кроме **Алебастрового тигра**, наносит ближайшим целям дополнительный урон в размере **1456%** от АТК."
+					"description": "Увеличивает конечный урон на **18%**. Когда **Алебастровый тигр** в экипировке, **каждое** оружие холода в экипировке увеличивает урон от холода на **2.5%**."
 				},
 				"id": "imitation_43"
 			},
@@ -4008,11 +4092,11 @@
 		"trait": {
 			"level1": {
 				"name": "Надзирающий клинок",
-				"description": "Увеличивает конечный урон на **0%**. Когда **Алебастровый тигр** в экипировке, **каждое** оружие холода в экипировке увеличивает урон от холода на **1%**."
+				"description": "Увеличивает конечный урон на **13%**. Когда **Алебастровый тигр** в экипировке, **каждое** оружие холода в экипировке увеличивает урон от холода на **1%**."
 			},
 			"level2": {
 				"name": "Господствующий клинок",
-				"description": "Увеличивает конечный урон на **0%**.\r\nКогда **Алебастровый тигр** в экипировке, использование навыка **«Мастер меча: Ледяное возвращение»** дает невосприимчивость к урону на **4** сек. (недоступно в Высшей лиге). **Каждое** оружие холода в экипировке увеличивает урон от холода на **1%**. Когда в экипировке **3** предмета оружия холода, использование любого навыка оружия холода дополнительно дает **2**ед. заряда оружия. После использования любого навыка оружия холода или разрядки любого оружия, кроме **Алебастрового тигра**, наносит ближайшим целям дополнительный урон в размере **1456%** от АТК."
+				"description": "Увеличивает конечный урон на **18%**. Когда **Алебастровый тигр** в экипировке, **каждое** оружие холода в экипировке увеличивает урон от холода на **2.5%**."
 			},
 			"id": "imitation_43"
 		},
@@ -4021,10 +4105,12 @@
 	"suspension_thunder": {
 		"name": "Венера",
 		"description": "Конструктор особого парящего ЭМ-бластера неизвестен, а его чертежи утеряны. Внутри бластера происходит уникальный процесс электросбережения. Его очень сложно починить, когда он ломается, но, кажется, Кобальт-Би из компании «БэнджиТех» может это сделать. ",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_naimxs_Thunder01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_nmxs",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_17",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_naimxs_Thunder01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_nmxs",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_17"
+		},
 		"rarity": "SSR",
 		"element": "Thunder",
 		"weaponType": "Suspension",
@@ -4033,7 +4119,9 @@
 			"name": "Немезида",
 			"advanceId": "imitation_17L1",
 			"weapon": "suspension_thunder",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_17",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_17"
+			},
 			"avatarID": "Avatar06",
 			"age": "23 мая",
 			"height": "165 см",
@@ -4226,10 +4314,12 @@
 	"frigg_ice": {
 		"name": "Бальмунг",
 		"description": "Двуручный меч и сабля, принадлежащие Ангелу Милосердия, Фригг. При изготовлении их адаптировали к кибернетическому телу Фригг. Это два разных предмета оружия, но Фригг называет Бальмунгом их сочетание.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_frigg_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_flj",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_28",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_frigg_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_flj",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_28"
+		},
 		"rarity": "SSR",
 		"element": "Ice",
 		"weaponType": "Frigg",
@@ -4238,7 +4328,9 @@
 			"name": "Фригг",
 			"advanceId": "imitation_28L1",
 			"weapon": "frigg_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_28",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_28"
+			},
 			"avatarID": "Avatar12",
 			"age": "1 февраля",
 			"height": "190см",
@@ -4424,10 +4516,12 @@
 	"funnel_fire": {
 		"name": "Искра",
 		"description": "Особое оружие, которое инженеры Миррории сделали для Руби по просьбе Линь. Его основные функции: играть с Руби в ее любимую игру, будить Руби по утрам, указывать Руби дорогу... но самое главное — защищать ее.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_funnel_Fire01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_leibei",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_funnel_Fire01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_leibei",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21"
+		},
 		"rarity": "SSR",
 		"element": "Flame",
 		"weaponType": "Funnel",
@@ -4436,7 +4530,9 @@
 			"name": "Руби",
 			"advanceId": "imitation_21L1",
 			"weapon": "funnel_fire",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21"
+			},
 			"avatarID": "leibei",
 			"age": "15 июля",
 			"height": "140 см",
@@ -4629,10 +4725,12 @@
 	"dkatana_ice": {
 		"name": "Сердечный поток",
 		"description": "Особое тати, адаптированное под эксперименты с суперпотоком. Оно может определять психическое состояние владельца и в нужный момент призывать Тень меча, которая поможет ему в бою.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_dkatana_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_bupoxiao",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_dkatana_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_bupoxiao",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22"
+		},
 		"rarity": "SSR",
 		"element": "Ice",
 		"weaponType": "katana",
@@ -4641,7 +4739,9 @@
 			"name": "Саки Фува",
 			"advanceId": "imitation_22L1",
 			"weapon": "dkatana_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22"
+			},
 			"avatarID": "bupoxiao",
 			"age": "11 октября",
 			"height": "157см",
@@ -4840,10 +4940,12 @@
 	"fan_superpower": {
 		"name": "Плетение теней",
 		"description": "Изначально предполагалось, что это будет легкое оружие для скрытого ношения, но по желанию пользователя оно было изменено на тяжелый клинок. Теперь это тяжелое оружие и совсем не скрытое.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_fan_superpower01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_linye",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_23",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_fan_superpower01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_linye",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_23"
+		},
 		"rarity": "SSR",
 		"element": "Superpower",
 		"weaponType": "Fan",
@@ -4852,7 +4954,9 @@
 			"name": "Линь",
 			"advanceId": "imitation_23L1",
 			"weapon": "fan_superpower",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_23",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_23"
+			},
 			"avatarID": "linye",
 			"age": "3 сентября",
 			"height": "175 см",
@@ -5048,10 +5152,12 @@
 	"tianlang_thunder": {
 		"name": "Грозолом",
 		"description": "Это длинное искрящее молниями копье высвобождает накопленную силу совершенно невообразимыми способами. Электрическое поле, которое оно генерирует, разрушает разум владельца, поэтому им не могут владеть обычные люди.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Tianlang_Thunder01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_tianlang",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_29",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Tianlang_Thunder01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_tianlang",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_29"
+		},
 		"rarity": "SSR",
 		"element": "Thunder",
 		"weaponType": "Tianlang",
@@ -5060,7 +5166,9 @@
 			"name": "Тянь Лан",
 			"advanceId": "imitation_29L1",
 			"weapon": "tianlang_thunder",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_29",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_29"
+			},
 			"avatarID": "tianlang",
 			"age": "23 марта",
 			"height": "185см",
@@ -5093,11 +5201,11 @@
 			"trait": {
 				"level1": {
 					"name": "Тянь Лан: Шаровая молния",
-					"description": "Каждое применение навыка оружия электричества или навыка разрядки дает **1** бесплатную попытку уклонения, но не больше **2**. При одновременном применении навыка оружия электричества и навыка разрядки урон от электричества увеличивается на **0%** на **8** сек. Этот эффект не накапливается."
+					"description": "Каждое применение навыка оружия электричества или навыка разрядки дает **1** бесплатную попытку уклонения, но не больше **2**. При одновременном применении навыка оружия электричества и навыка разрядки урон от электричества увеличивается на **12%** на **8** сек. Этот эффект не накапливается."
 				},
 				"level2": {
 					"name": "Тянь Лан: Громовой раскат",
-					"description": "Каждое применение навыка оружия электричества или навыка разрядки дает **1** бесплатную попытку уклонения, но не больше **3**. При одновременном применении навыка оружия электричества и навыка разрядки урон от электричества увеличивается на **0%** на **8** сек. Этот эффект не накапливается."
+					"description": "Каждое применение навыка оружия электричества или навыка разрядки дает **1** бесплатную попытку уклонения, но не больше **2**. При одновременном применении навыка оружия электричества и навыка разрядки урон от электричества увеличивается на **18%** на **8** сек. Этот эффект не накапливается."
 				},
 				"id": "imitation_29"
 			},
@@ -5240,11 +5348,11 @@
 		"trait": {
 			"level1": {
 				"name": "Тянь Лан: Шаровая молния",
-				"description": "Каждое применение навыка оружия электричества или навыка разрядки дает **1** бесплатную попытку уклонения, но не больше **2**. При одновременном применении навыка оружия электричества и навыка разрядки урон от электричества увеличивается на **0%** на **8** сек. Этот эффект не накапливается."
+				"description": "Каждое применение навыка оружия электричества или навыка разрядки дает **1** бесплатную попытку уклонения, но не больше **2**. При одновременном применении навыка оружия электричества и навыка разрядки урон от электричества увеличивается на **12%** на **8** сек. Этот эффект не накапливается."
 			},
 			"level2": {
 				"name": "Тянь Лан: Громовой раскат",
-				"description": "Каждое применение навыка оружия электричества или навыка разрядки дает **1** бесплатную попытку уклонения, но не больше **3**. При одновременном применении навыка оружия электричества и навыка разрядки урон от электричества увеличивается на **0%** на **8** сек. Этот эффект не накапливается."
+				"description": "Каждое применение навыка оружия электричества или навыка разрядки дает **1** бесплатную попытку уклонения, но не больше **2**. При одновременном применении навыка оружия электричества и навыка разрядки урон от электричества увеличивается на **18%** на **8** сек. Этот эффект не накапливается."
 			},
 			"id": "imitation_29"
 		},
@@ -5253,10 +5361,12 @@
 	"arm_physic": {
 		"name": "Веспер",
 		"description": "Оружие поддержки, специально сделанное для инсайдера Фонда Мейделин. Госпожа Мейделин считает, что Лира сумеет как следует им воспользоваться.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Arm_Physic01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_xinghuan",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_24",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Arm_Physic01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_xinghuan",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_24"
+		},
 		"rarity": "SSR",
 		"element": "Physics",
 		"weaponType": "Arm",
@@ -5265,7 +5375,9 @@
 			"name": "Лира",
 			"advanceId": "imitation_24L1",
 			"weapon": "arm_physic",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_24",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_24"
+			},
 			"avatarID": "xinghuan",
 			"age": "23 июня",
 			"height": "174 см",
@@ -5297,11 +5409,11 @@
 			"trait": {
 				"level1": {
 					"name": "Обмен сердцами",
-					"description": "Резонанс посвящения: увеличивает макс. ОЗ на {0% для всей команды. Не накапливается."
+					"description": "Резонанс посвящения: увеличивает макс. ОЗ на 10% для всей команды. Не накапливается."
 				},
 				"level2": {
 					"name": "Благословение",
-					"description": "Резонанс посвящения: увеличивает макс. ОЗ на {0% для всей команды. Этот эффект не накапливается. Дополнительно увеличивает ваши макс. ОЗ на {1%. Если вы успешно используете навык при наличии гипертела или более 50% ОЗ, дает гипертело всем союзникам на {2 сек."
+					"description": "Резонанс посвящения: увеличивает макс. ОЗ на 10% для всей команды. Не накапливается."
 				},
 				"id": "imitation_24"
 			},
@@ -5462,11 +5574,11 @@
 		"trait": {
 			"level1": {
 				"name": "Обмен сердцами",
-				"description": "Резонанс посвящения: увеличивает макс. ОЗ на {0% для всей команды. Не накапливается."
+				"description": "Резонанс посвящения: увеличивает макс. ОЗ на 10% для всей команды. Не накапливается."
 			},
 			"level2": {
 				"name": "Благословение",
-				"description": "Резонанс посвящения: увеличивает макс. ОЗ на {0% для всей команды. Этот эффект не накапливается. Дополнительно увеличивает ваши макс. ОЗ на {1%. Если вы успешно используете навык при наличии гипертела или более 50% ОЗ, дает гипертело всем союзникам на {2 сек."
+				"description": "Резонанс посвящения: увеличивает макс. ОЗ на 10% для всей команды. Не накапливается."
 			},
 			"id": "imitation_24"
 		},
@@ -5475,10 +5587,12 @@
 	"rubilia_thunder": {
 		"name": "Забытое искусство",
 		"description": "Легкое колебание в хаосе бездны вызовет бурю, которая затронет судьбу каждого.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Rubilia_Thunder01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/UI_SSR_lh_laibiliya",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_48",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Rubilia_Thunder01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/UI_SSR_lh_laibiliya",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_48"
+		},
 		"rarity": "SSR",
 		"element": "Thunder",
 		"weaponType": "Rubilia",
@@ -5487,7 +5601,9 @@
 			"name": "Рубилия",
 			"advanceId": "imitation_48L1",
 			"weapon": "rubilia_thunder",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_48",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_48"
+			},
 			"avatarID": "leibiliya",
 			"age": "24 апреля",
 			"height": "195см",
@@ -5519,11 +5635,11 @@
 			"trait": {
 				"level1": {
 					"name": "Синергия",
-					"description": "Увеличивает урон от электричества на **0%** за **каждое** используемое оружие электричества."
+					"description": "Увеличивает урон от электричества на **6%** за **каждое** используемое оружие электричества."
 				},
 				"level2": {
 					"name": "Просветление",
-					"description": "Увеличивает урон от электричества на **0%** за **каждое** используемое оружие электричества. Время, в течение которого сущности Серой зоны контролируются Печатью, увеличено до **1** сек."
+					"description": "Увеличивает урон от электричества на **8%** за **каждое** используемое оружие электричества."
 				},
 				"id": "imitation_48"
 			},
@@ -5678,11 +5794,11 @@
 		"trait": {
 			"level1": {
 				"name": "Синергия",
-				"description": "Увеличивает урон от электричества на **0%** за **каждое** используемое оружие электричества."
+				"description": "Увеличивает урон от электричества на **6%** за **каждое** используемое оружие электричества."
 			},
 			"level2": {
 				"name": "Просветление",
-				"description": "Увеличивает урон от электричества на **0%** за **каждое** используемое оружие электричества. Время, в течение которого сущности Серой зоны контролируются Печатью, увеличено до **1** сек."
+				"description": "Увеличивает урон от электричества на **8%** за **каждое** используемое оружие электричества."
 			},
 			"id": "imitation_48"
 		},
@@ -5691,10 +5807,12 @@
 	"iceblade_ice": {
 		"name": "Непоколебимое крыло",
 		"description": "Боевая броня, в основу которой положен принцип ножных лезвий. Она работает на психической энергии владельца и стала результатом передовых достижений науки и техники до Катаклизма. При необходимости она взрывается с ужасающей силой.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_iceblade_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_ailisi",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_30",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_iceblade_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_ailisi",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_30"
+		},
 		"rarity": "SSR",
 		"element": "Ice",
 		"weaponType": "IceBlade",
@@ -5703,7 +5821,9 @@
 			"name": "Алисс",
 			"advanceId": "imitation_30L1",
 			"weapon": "iceblade_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_30",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_30"
+			},
 			"avatarID": "ailisi",
 			"age": "28 мая",
 			"height": "177см",
@@ -5736,11 +5856,11 @@
 			"trait": {
 				"level1": {
 					"name": "Стрекозы",
-					"description": "После успешного применения навыка оружия увеличивает конечный урон на **0%** в течение **1** сек."
+					"description": "После успешного применения навыка оружия увеличивает конечный урон на **13%** в течение **12** сек."
 				},
 				"level2": {
 					"name": "Бабочки",
-					"description": "После успешного применения навыка оружия увеличивает конечный урон на **0%** в течение **1** сек. Когда Непоколебимое крыло улучшается до 1 звезды, вы при использовании навыка **физического/огненного/электрического** оружия в Охлаждающем поле получаете поддержку Алисс, которая применяет на поле навык разрядки, что эквивалентно применению навыка разрядки странником. После этого еще раз будет использован навык, который запускает навык разрядки."
+					"description": "После успешного применения навыка оружия увеличивает конечный урон на **18%** в течение **18** сек."
 				},
 				"id": "imitation_30"
 			},
@@ -5889,11 +6009,11 @@
 		"trait": {
 			"level1": {
 				"name": "Стрекозы",
-				"description": "После успешного применения навыка оружия увеличивает конечный урон на **0%** в течение **1** сек."
+				"description": "После успешного применения навыка оружия увеличивает конечный урон на **13%** в течение **12** сек."
 			},
 			"level2": {
 				"name": "Бабочки",
-				"description": "После успешного применения навыка оружия увеличивает конечный урон на **0%** в течение **1** сек. Когда Непоколебимое крыло улучшается до 1 звезды, вы при использовании навыка **физического/огненного/электрического** оружия в Охлаждающем поле получаете поддержку Алисс, которая применяет на поле навык разрядки, что эквивалентно применению навыка разрядки странником. После этого еще раз будет использован навык, который запускает навык разрядки."
+				"description": "После успешного применения навыка оружия увеличивает конечный урон на **18%** в течение **18** сек."
 			},
 			"id": "imitation_30"
 		},
@@ -5902,10 +6022,12 @@
 	"snipe_fire": {
 		"name": "Клеверный крест",
 		"description": "Создатели популярного в Миррории сетевого VR-шутера спроектировали это эксклюзивное оружие для лучшего игрока одного из сезонов. Ему также была отправлена особая физическая модель этой пушки, но никто и не подозревал, что ее можно применять прямо как в игре...",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Snipe_fire01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_annabeila",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_26",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Snipe_fire01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_annabeila",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_26"
+		},
 		"rarity": "SSR",
 		"element": "Flame",
 		"weaponType": "Snipe",
@@ -5914,7 +6036,9 @@
 			"name": "Аннабелла",
 			"advanceId": "imitation_26L1",
 			"weapon": "snipe_fire",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_26",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_26"
+			},
 			"avatarID": "annabeila",
 			"age": "28 апреля",
 			"height": "166 см",
@@ -5948,11 +6072,11 @@
 			"trait": {
 				"level1": {
 					"name": "Газ (ба-бах!)",
-					"description": "За каждого **1** врага, пораженного газовым взрывом, увеличивает урон Клеверного креста на **0%**. Длится **1** сек. и накапливается до **2** раз."
+					"description": "За каждого **1** врага, пораженного газовым взрывом, увеличивает урон Клеверного креста на **8%**. Длится **20** сек. и накапливается до **2** раз."
 				},
 				"level2": {
 					"name": "Газ (БА-БАХ!)",
-					"description": "За **каждого** врага, пораженного Взрывом газа, увеличивает урон Клеверного креста на **0%**. Длится **1 сек.** и накапливается до **2** раз."
+					"description": "За каждого **1** врага, пораженного газовым взрывом, увеличивает урон Клеверного креста на **15%**. Длится **20** сек. и накапливается до **2** раз."
 				},
 				"id": "imitation_26"
 			},
@@ -6089,11 +6213,11 @@
 		"trait": {
 			"level1": {
 				"name": "Газ (ба-бах!)",
-				"description": "За каждого **1** врага, пораженного газовым взрывом, увеличивает урон Клеверного креста на **0%**. Длится **1** сек. и накапливается до **2** раз."
+				"description": "За каждого **1** врага, пораженного газовым взрывом, увеличивает урон Клеверного креста на **8%**. Длится **20** сек. и накапливается до **2** раз."
 			},
 			"level2": {
 				"name": "Газ (БА-БАХ!)",
-				"description": "За **каждого** врага, пораженного Взрывом газа, увеличивает урон Клеверного креста на **0%**. Длится **1 сек.** и накапливается до **2** раз."
+				"description": "За каждого **1** врага, пораженного газовым взрывом, увеличивает урон Клеверного креста на **15%**. Длится **20** сек. и накапливается до **2** раз."
 			},
 			"id": "imitation_26"
 		},
@@ -6102,10 +6226,12 @@
 	"brush_fire": {
 		"name": "Сосновая комета",
 		"description": "«Поспокойнее, пожалуйста! Настоящие ученые никогда не станут драться принадлежностями для письма!» — Жун Цзинь",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_liuhuo",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_liuhuo",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_37",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_liuhuo",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_liuhuo",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_37"
+		},
 		"rarity": "SSR",
 		"element": "Flame",
 		"weaponType": "Brush",
@@ -6114,7 +6240,9 @@
 			"name": "Лю Хо",
 			"advanceId": "imitation_37L1",
 			"weapon": "brush_fire",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_37",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_37"
+			},
 			"avatarID": "liuhuo",
 			"age": "19 августа",
 			"height": "153 см",
@@ -6147,11 +6275,11 @@
 			"trait": {
 				"level1": {
 					"name": "Экономия чернил",
-					"description": "Увеличивает конечный урон на **0%**. Когда **Сосновая комета** находится в ячейке дополнительного оружия, частота запуска **воробьиного перышка** увеличивается до **1** в секунду."
+					"description": "Увеличивает конечный урон на **13%**. Когда **Сосновая комета** находится в ячейке дополнительного оружия, частота запуска **воробьиного перышка** увеличивается до **1** в секунду."
 				},
 				"level2": {
 					"name": "Кисть наперевес",
-					"description": "Увеличивает конечный урон на **0%**. Когда **Сосновая комета** находится в ячейке дополнительного оружия, частота запуска **воробьиного перышка** увеличивается до **1** в секунду.\r\nКогда **воробьиное перышко** попадает в цель и вызывает эффект рассеивания, оно дополнительно рассеивает **Ионную вспышку** и **Перекрестное горение**.\r\nВ командной игре ваш урон, получаемый от приманенной цели, снижается на **1%**. Когда активирован резонанс силы духа, снижение урона увеличивается до **2%**."
+					"description": "Увеличивает конечный урон на **18%**. Когда **Сосновая комета** находится в ячейке дополнительного оружия, частота запуска **воробьиного перышка** увеличивается до **1** в секунду."
 				},
 				"id": "imitation_37"
 			},
@@ -6318,11 +6446,11 @@
 		"trait": {
 			"level1": {
 				"name": "Экономия чернил",
-				"description": "Увеличивает конечный урон на **0%**. Когда **Сосновая комета** находится в ячейке дополнительного оружия, частота запуска **воробьиного перышка** увеличивается до **1** в секунду."
+				"description": "Увеличивает конечный урон на **13%**. Когда **Сосновая комета** находится в ячейке дополнительного оружия, частота запуска **воробьиного перышка** увеличивается до **1** в секунду."
 			},
 			"level2": {
 				"name": "Кисть наперевес",
-				"description": "Увеличивает конечный урон на **0%**. Когда **Сосновая комета** находится в ячейке дополнительного оружия, частота запуска **воробьиного перышка** увеличивается до **1** в секунду.\r\nКогда **воробьиное перышко** попадает в цель и вызывает эффект рассеивания, оно дополнительно рассеивает **Ионную вспышку** и **Перекрестное горение**.\r\nВ командной игре ваш урон, получаемый от приманенной цели, снижается на **1%**. Когда активирован резонанс силы духа, снижение урона увеличивается до **2%**."
+				"description": "Увеличивает конечный урон на **18%**. Когда **Сосновая комета** находится в ячейке дополнительного оружия, частота запуска **воробьиного перышка** увеличивается до **1** в секунду."
 			},
 			"id": "imitation_37"
 		},
@@ -6331,10 +6459,12 @@
 	"whip_physic": {
 		"name": "Мёбиус",
 		"description": "Любимый кнут нового Исполнителя Уми. Больше всего Уми любит его за то, что она об него не спотыкается. Как правило.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Whip_Phy01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_wumi",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Whip_Phy01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_wumi",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31"
+		},
 		"rarity": "SSR",
 		"element": "Physics",
 		"weaponType": "Whip",
@@ -6343,7 +6473,9 @@
 			"name": "Уми",
 			"advanceId": "imitation_31L1",
 			"weapon": "whip_physic",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31"
+			},
 			"avatarID": "wumi",
 			"age": "20 октября",
 			"height": "162см",
@@ -6375,11 +6507,11 @@
 			"trait": {
 				"level1": {
 					"name": "Уми: Хорошее шоу",
-					"description": "Увеличивает конечный урон на **0%** на **1** сек., когда Уми использует **Время для фокусов**. Этот эффект не накапливается."
+					"description": "Увеличивает конечный урон на **12%** на **30** сек., когда Уми использует **Время для фокусов**. Этот эффект не накапливается."
 				},
 				"level2": {
 					"name": "Уми: Великолепное представление",
-					"description": "Увеличивает конечный урон на **0%** на **1** сек., когда Уми использует **Время для фокусов**. Этот эффект не накапливается."
+					"description": "Увеличивает конечный урон на **18%** на **30** сек., когда Уми использует **Время для фокусов**. Этот эффект не накапливается."
 				},
 				"id": "imitation_31"
 			},
@@ -6540,11 +6672,11 @@
 		"trait": {
 			"level1": {
 				"name": "Уми: Хорошее шоу",
-				"description": "Увеличивает конечный урон на **0%** на **1** сек., когда Уми использует **Время для фокусов**. Этот эффект не накапливается."
+				"description": "Увеличивает конечный урон на **12%** на **30** сек., когда Уми использует **Время для фокусов**. Этот эффект не накапливается."
 			},
 			"level2": {
 				"name": "Уми: Великолепное представление",
-				"description": "Увеличивает конечный урон на **0%** на **1** сек., когда Уми использует **Время для фокусов**. Этот эффект не накапливается."
+				"description": "Увеличивает конечный урон на **18%** на **30** сек., когда Уми использует **Время для фокусов**. Этот эффект не накапливается."
 			},
 			"id": "imitation_31"
 		},
@@ -6553,10 +6685,12 @@
 	"feise_fire": {
 		"name": "Бесконечное цветение",
 		"description": "Некоторые цветы таят смертельную опасность.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feise",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_feise",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_51",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feise",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_feise",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_51"
+		},
 		"rarity": "SSR",
 		"element": "Flame",
 		"weaponType": "Feise",
@@ -6565,7 +6699,9 @@
 			"name": "Фэй Сэ",
 			"advanceId": "imitation_51L1",
 			"weapon": "feise_fire",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_51",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_51"
+			},
 			"avatarID": "feise",
 			"age": "23 августа",
 			"height": "175 см",
@@ -6598,11 +6734,11 @@
 			"trait": {
 				"level1": {
 					"name": "Танец лотоса",
-					"description": "Увеличивает конечный урон на **0%**.\r\nПосле использования **Кружения** **каждое** оружие огня в экипировке увеличивает конечный урон на **1%** на **2** сек."
+					"description": "Увеличивает конечный урон на **0%**.\r\nПосле использования **Кружения** **каждое** оружие огня в экипировке увеличивает конечный урон на **4.5%** на **30** сек."
 				},
 				"level2": {
 					"name": "Черная тень",
-					"description": "Увеличивает конечный урон на **0%**.\r\nПосле использования **Кружения** **каждое** оружие огня в экипировке увеличивает конечный урон на **1%** на **2** сек."
+					"description": "Увеличивает конечный урон на **0%**.\r\nПосле использования **Кружения** **каждое** оружие огня в экипировке увеличивает конечный урон на **9%** на **30** сек."
 				},
 				"id": "imitation_51"
 			},
@@ -6763,11 +6899,11 @@
 		"trait": {
 			"level1": {
 				"name": "Танец лотоса",
-				"description": "Увеличивает конечный урон на **0%**.\r\nПосле использования **Кружения** **каждое** оружие огня в экипировке увеличивает конечный урон на **1%** на **2** сек."
+				"description": "Увеличивает конечный урон на **0%**.\r\nПосле использования **Кружения** **каждое** оружие огня в экипировке увеличивает конечный урон на **4.5%** на **30** сек."
 			},
 			"level2": {
 				"name": "Черная тень",
-				"description": "Увеличивает конечный урон на **0%**.\r\nПосле использования **Кружения** **каждое** оружие огня в экипировке увеличивает конечный урон на **1%** на **2** сек."
+				"description": "Увеличивает конечный урон на **0%**.\r\nПосле использования **Кружения** **каждое** оружие огня в экипировке увеличивает конечный урон на **9%** на **30** сек."
 			},
 			"id": "imitation_51"
 		},
@@ -6776,10 +6912,12 @@
 	"fenrir_thunder": {
 		"name": "Глейпнир",
 		"description": "Особое устройство, преобразующее звуковые волны в урон. Когда оковы разбиваются, потоки смерти превращаются в острые когти, разрывающие всё на части.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Fenrir_Thunder01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_fenlier",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Fenrir_Thunder01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_fenlier",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32"
+		},
 		"rarity": "SSR",
 		"element": "Thunder",
 		"weaponType": "Fenrir",
@@ -6788,7 +6926,9 @@
 			"name": "Фенрир",
 			"advanceId": "imitation_32L1",
 			"weapon": "fenrir_thunder",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32"
+			},
 			"avatarID": "fenlier",
 			"age": "13 февраля",
 			"height": "160см",
@@ -6821,11 +6961,11 @@
 			"trait": {
 				"level1": {
 					"name": "Измерение X",
-					"description": "Повышает конечный урон на **0%**. Для активации добавьте в экипировку **2** предмета оружия разных стихий. Повышает конечный урон на **1%**. Для активации добавьте в экипировку **3** предмета оружия разных стихий."
+					"description": "Повышает конечный урон на **13%**. Для активации добавьте в экипировку **2** предмета оружия разных стихий. Повышает конечный урон на **18%**. Для активации добавьте в экипировку **3** предмета оружия разных стихий."
 				},
 				"level2": {
 					"name": "Измерение Z",
-					"description": "Повышает конечный урон на **0%**. Для активации добавьте в экипировку **2** предмета оружия разных стихий. Повышает конечный урон на **1%**. Для активации добавьте в экипировку **3** предмета оружия разных стихий."
+					"description": "Повышает конечный урон на **18%**. Для активации добавьте в экипировку **2** предмета оружия разных стихий. Повышает конечный урон на **23%**. Для активации добавьте в экипировку **3** предмета оружия разных стихий."
 				},
 				"id": "imitation_32"
 			},
@@ -6980,11 +7120,11 @@
 		"trait": {
 			"level1": {
 				"name": "Измерение X",
-				"description": "Повышает конечный урон на **0%**. Для активации добавьте в экипировку **2** предмета оружия разных стихий. Повышает конечный урон на **1%**. Для активации добавьте в экипировку **3** предмета оружия разных стихий."
+				"description": "Повышает конечный урон на **13%**. Для активации добавьте в экипировку **2** предмета оружия разных стихий. Повышает конечный урон на **18%**. Для активации добавьте в экипировку **3** предмета оружия разных стихий."
 			},
 			"level2": {
 				"name": "Измерение Z",
-				"description": "Повышает конечный урон на **0%**. Для активации добавьте в экипировку **2** предмета оружия разных стихий. Повышает конечный урон на **1%**. Для активации добавьте в экипировку **3** предмета оружия разных стихий."
+				"description": "Повышает конечный урон на **18%**. Для активации добавьте в экипировку **2** предмета оружия разных стихий. Повышает конечный урон на **23%**. Для активации добавьте в экипировку **3** предмета оружия разных стихий."
 			},
 			"id": "imitation_32"
 		},
@@ -6993,10 +7133,12 @@
 	"umbrella_fire": {
 		"name": "Алая птица",
 		"description": "Боевой зонтик Чжуцюэ. Имеет различные скрытые механизмы. Большой корпус Алой птицы позволяет не только уничтожать врагов путем мощного высвобождения энергии, но и блокировать обзор и скрывать действия владельца...",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_umbrella_Fire01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_lan",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_umbrella_Fire01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_lan",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34"
+		},
 		"rarity": "SSR",
 		"element": "Flame",
 		"weaponType": "Umbrella",
@@ -7005,7 +7147,9 @@
 			"name": "Лань",
 			"advanceId": "imitation_34L1",
 			"weapon": "umbrella_fire",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34"
+			},
 			"avatarID": "lan",
 			"age": "5 мая",
 			"height": "172см",
@@ -7039,11 +7183,11 @@
 			"trait": {
 				"level1": {
 					"name": "Бушующий огонь",
-					"description": "Во время действия резонанса силы духа урон от огня и холода, который вы и ваши товарищи получаете в Алом царстве, снижается на **0%**."
+					"description": "Во время действия резонанса силы духа урон от огня и холода, который вы и ваши товарищи получаете в Алом царстве, снижается на **16%**."
 				},
 				"level2": {
 					"name": "Башня пламени",
-					"description": "Во время действия резонанса силы духа урон от огня и холода, который вы и ваши товарищи получаете в Алом царстве, снижается на **0%**, а конечный урон увеличивается на **1%**."
+					"description": "Во время действия резонанса силы духа урон от огня и холода, который вы и ваши товарищи получаете в Алом царстве, снижается на **24%**."
 				},
 				"id": "imitation_34"
 			},
@@ -7198,11 +7342,11 @@
 		"trait": {
 			"level1": {
 				"name": "Бушующий огонь",
-				"description": "Во время действия резонанса силы духа урон от огня и холода, который вы и ваши товарищи получаете в Алом царстве, снижается на **0%**."
+				"description": "Во время действия резонанса силы духа урон от огня и холода, который вы и ваши товарищи получаете в Алом царстве, снижается на **16%**."
 			},
 			"level2": {
 				"name": "Башня пламени",
-				"description": "Во время действия резонанса силы духа урон от огня и холода, который вы и ваши товарищи получаете в Алом царстве, снижается на **0%**, а конечный урон увеличивается на **1%**."
+				"description": "Во время действия резонанса силы духа урон от огня и холода, который вы и ваши товарищи получаете в Алом царстве, снижается на **24%**."
 			},
 			"id": "imitation_34"
 		},
@@ -7211,10 +7355,12 @@
 	"yoyo_ice": {
 		"name": "Драгоценность",
 		"description": "Редкое коллекционное оружие, синтезированное с применением уникальных и модных предметов переоснащения. И его владелец может смело отправиться в безрадостную тьму — пусть даже подобно мотыльку, летящему на жгучее пламя.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yoyo_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yikaluosi",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_35",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yoyo_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yikaluosi",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_35"
+		},
 		"rarity": "SSR",
 		"element": "Ice",
 		"weaponType": "YoYo",
@@ -7223,7 +7369,9 @@
 			"name": "Икар",
 			"advanceId": "imitation_35L1",
 			"weapon": "yoyo_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_35",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_35"
+			},
 			"avatarID": "yikaluosi",
 			"age": "24 октября",
 			"height": "161 см",
@@ -7257,11 +7405,11 @@
 			"trait": {
 				"level1": {
 					"name": "Сильный мороз",
-					"description": "Добавьте в экипировку Драгоценность, чтобы увеличить конечный урон на **0%**. При использовании Драгоценности повышает раскол на **1%**."
+					"description": "Добавьте в экипировку Драгоценность, чтобы увеличить конечный урон на **10%**. При использовании Драгоценности повышает раскол на **20%**."
 				},
 				"level2": {
 					"name": "Расплавленные перья",
-					"description": "Добавьте в экипировку Драгоценность, чтобы увеличить конечный урон на **0%**. При использовании Драгоценности повышает раскол на **1%**."
+					"description": "Добавьте в экипировку Драгоценность, чтобы увеличить конечный урон на **15%**. При использовании Драгоценности повышает раскол на **45%**."
 				},
 				"id": "imitation_35"
 			},
@@ -7410,11 +7558,11 @@
 		"trait": {
 			"level1": {
 				"name": "Сильный мороз",
-				"description": "Добавьте в экипировку Драгоценность, чтобы увеличить конечный урон на **0%**. При использовании Драгоценности повышает раскол на **1%**."
+				"description": "Добавьте в экипировку Драгоценность, чтобы увеличить конечный урон на **10%**. При использовании Драгоценности повышает раскол на **20%**."
 			},
 			"level2": {
 				"name": "Расплавленные перья",
-				"description": "Добавьте в экипировку Драгоценность, чтобы увеличить конечный урон на **0%**. При использовании Драгоценности повышает раскол на **1%**."
+				"description": "Добавьте в экипировку Драгоценность, чтобы увеличить конечный урон на **15%**. При использовании Драгоценности повышает раскол на **45%**."
 			},
 			"id": "imitation_35"
 		},
@@ -7423,10 +7571,12 @@
 	"yulan_ice": {
 		"name": "Единство",
 		"description": "Это оружие Цзи Юй лично выбрала для Юйлань, и оно оснащено новейшими технологиями Территории 9. Не удивляйтесь, если после его использования с временной меткой вы увидите нечто совершенно чудесное.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yulan_Ice01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yulan",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yulan_Ice01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yulan",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38"
+		},
 		"rarity": "SSR",
 		"element": "Ice",
 		"weaponType": "yulan",
@@ -7435,7 +7585,9 @@
 			"name": "Юйлань",
 			"advanceId": "imitation_38L1",
 			"weapon": "yulan_ice",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38"
+			},
 			"avatarID": "yulan",
 			"age": "9 февраля",
 			"height": "175 см",
@@ -7468,11 +7620,11 @@
 			"trait": {
 				"level1": {
 					"name": "Устойчивая ци",
-					"description": "Увеличивает конечный урон на **0%**.\r\nВ **боевой форме** дополнительно увеличивает конечный урон на **1%**.\r\nВ форме **Сметающей силы** за **каждое** применяемое оружие холода увеличивает урон, наносимый поглощением **Бойцовского духа**, на **3%**. Когда в экипировке **3** предмета оружия холода, увеличивает урон от холода на **4%**."
+					"description": "Увеличивает конечный урон на **13%**.\r\nВ **боевой форме** дополнительно увеличивает конечный урон на **7%**.\r\nВ форме **Сметающей силы** за **каждое** применяемое оружие холода увеличивает урон, наносимый поглощением **Бойцовского духа**, на **9%**. Когда в экипировке **3** предмета оружия холода, увеличивает урон от холода на **8%**."
 				},
 				"level2": {
 					"name": "Внимание",
-					"description": "Увеличивает конечный урон на **0%**.\r\nВ **боевой форме** дополнительно увеличивает конечный урон на **1%**.\r\nВ форме **Сметающей силы** за **каждое** применяемое оружие холода увеличивает урон, наносимый поглощением **Бойцовского духа**, на **3%**. Когда в экипировке **3** предмета оружия холода, увеличивает урон от холода на **4%**."
+					"description": "Увеличивает конечный урон на **18%**.\r\nВ **боевой форме** дополнительно увеличивает конечный урон на **7%**.\r\nВ форме **Сметающей силы** за **каждое** применяемое оружие холода увеличивает урон, наносимый поглощением **Бойцовского духа**, на **9%**. Когда в экипировке **3** предмета оружия холода, увеличивает урон от холода на **8%**."
 				},
 				"id": "imitation_38"
 			},
@@ -7651,11 +7803,11 @@
 		"trait": {
 			"level1": {
 				"name": "Устойчивая ци",
-				"description": "Увеличивает конечный урон на **0%**.\r\nВ **боевой форме** дополнительно увеличивает конечный урон на **1%**.\r\nВ форме **Сметающей силы** за **каждое** применяемое оружие холода увеличивает урон, наносимый поглощением **Бойцовского духа**, на **3%**. Когда в экипировке **3** предмета оружия холода, увеличивает урон от холода на **4%**."
+				"description": "Увеличивает конечный урон на **13%**.\r\nВ **боевой форме** дополнительно увеличивает конечный урон на **7%**.\r\nВ форме **Сметающей силы** за **каждое** применяемое оружие холода увеличивает урон, наносимый поглощением **Бойцовского духа**, на **9%**. Когда в экипировке **3** предмета оружия холода, увеличивает урон от холода на **8%**."
 			},
 			"level2": {
 				"name": "Внимание",
-				"description": "Увеличивает конечный урон на **0%**.\r\nВ **боевой форме** дополнительно увеличивает конечный урон на **1%**.\r\nВ форме **Сметающей силы** за **каждое** применяемое оружие холода увеличивает урон, наносимый поглощением **Бойцовского духа**, на **3%**. Когда в экипировке **3** предмета оружия холода, увеличивает урон от холода на **4%**."
+				"description": "Увеличивает конечный урон на **18%**.\r\nВ **боевой форме** дополнительно увеличивает конечный урон на **7%**.\r\nВ форме **Сметающей силы** за **каждое** применяемое оружие холода увеличивает урон, наносимый поглощением **Бойцовского духа**, на **9%**. Когда в экипировке **3** предмета оружия холода, увеличивает урон от холода на **8%**."
 			},
 			"id": "imitation_38"
 		},
@@ -7664,10 +7816,12 @@
 	"zeke_physic": {
 		"name": "Ониксовая черепаха",
 		"description": "Внушительный и острый двуручный меч с широким клинком, который обычные люди едва ли смогут поднять. Его разрушительная сила поразительным образом сочетается с ощущением безопасности, которое он приносит.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Zeke_Phy01",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/UI_SSR_lh_mingjing",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_50",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Zeke_Phy01",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/UI_SSR_lh_mingjing",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_50"
+		},
 		"rarity": "SSR",
 		"element": "PhysicsFlame",
 		"weaponType": "zeke",
@@ -7676,7 +7830,9 @@
 			"name": "Мин Цзин",
 			"advanceId": "imitation_50L1",
 			"weapon": "zeke_physic",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_50",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_50"
+			},
 			"avatarID": "mingjing",
 			"age": "12 ноября",
 			"height": "191 см",
@@ -7710,11 +7866,11 @@
 			"trait": {
 				"level1": {
 					"name": "Найти себя",
-					"description": "Увеличивает конечный урон на **0%**.\r\nБазовая физическая АТК странника увеличивается до наибольшего среди значений базовой атаки огнем/холодом/электричеством или физической атаки. Когда в ячейке основного оружия **Ониксовая черепаха**, урон от обычных атак увеличивается на **1%**."
+					"description": "Увеличивает конечный урон на **12%**.\r\nБазовая физическая АТК странника увеличивается до наибольшего среди значений базовой атаки огнем/холодом/электричеством или физической атаки. Когда в ячейке основного оружия **Ониксовая черепаха**, урон от обычных атак увеличивается на **30%**."
 				},
 				"level2": {
 					"name": "Бескорыстие",
-					"description": "Увеличивает конечный урон на **0%**.\r\nБазовая физическая АТК странника увеличивается до наибольшего среди значений базовой атаки огнем/холодом/электричеством или физической атаки. Когда в ячейке основного оружия **Ониксовая черепаха**, урон от обычных атак увеличивается на **1%**."
+					"description": "Увеличивает конечный урон на **18%**.\r\nБазовая физическая АТК странника увеличивается до наибольшего среди значений базовой атаки огнем/холодом/электричеством или физической атаки. Когда в ячейке основного оружия **Ониксовая черепаха**, урон от обычных атак увеличивается на **50%**."
 				},
 				"id": "imitation_50"
 			},
@@ -7869,11 +8025,11 @@
 		"trait": {
 			"level1": {
 				"name": "Найти себя",
-				"description": "Увеличивает конечный урон на **0%**.\r\nБазовая физическая АТК странника увеличивается до наибольшего среди значений базовой атаки огнем/холодом/электричеством или физической атаки. Когда в ячейке основного оружия **Ониксовая черепаха**, урон от обычных атак увеличивается на **1%**."
+				"description": "Увеличивает конечный урон на **12%**.\r\nБазовая физическая АТК странника увеличивается до наибольшего среди значений базовой атаки огнем/холодом/электричеством или физической атаки. Когда в ячейке основного оружия **Ониксовая черепаха**, урон от обычных атак увеличивается на **30%**."
 			},
 			"level2": {
 				"name": "Бескорыстие",
-				"description": "Увеличивает конечный урон на **0%**.\r\nБазовая физическая АТК странника увеличивается до наибольшего среди значений базовой атаки огнем/холодом/электричеством или физической атаки. Когда в ячейке основного оружия **Ониксовая черепаха**, урон от обычных атак увеличивается на **1%**."
+				"description": "Увеличивает конечный урон на **18%**.\r\nБазовая физическая АТК странника увеличивается до наибольшего среди значений базовой атаки огнем/холодом/электричеством или физической атаки. Когда в ячейке основного оружия **Ониксовая черепаха**, урон от обычных атак увеличивается на **50%**."
 			},
 			"id": "imitation_50"
 		},
@@ -7882,10 +8038,12 @@
 	"queen_superpower": {
 		"name": "Браслет луны и звезд",
 		"description": "Необычное нанооружие, способное создавать клинки, прорезающие металл, словно масло. В прошлом оно принимало форму браслета, который можно носить на руке вне боя, — отсюда и его описание.",
-		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feiouna",
-		"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_feiouna",
-		"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna",
-		"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feiouna",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_feiouna",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36"
+		},
 		"rarity": "SSR",
 		"element": "Superpower",
 		"weaponType": "Queen",
@@ -7894,7 +8052,9 @@
 			"name": "Фиона",
 			"advanceId": "imitation_36L1",
 			"weapon": "queen_superpower",
-			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36",
+			"assets": {
+				"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36"
+			},
 			"avatarID": "feiouna",
 			"age": "17 апреля",
 			"height": "185см",
@@ -7927,11 +8087,11 @@
 			"trait": {
 				"level1": {
 					"name": "Мерцание",
-					"description": "Конечный урон увеличен на **0%**."
+					"description": "Конечный урон увеличен на **16%**."
 				},
 				"level2": {
 					"name": "Отражение луны",
-					"description": "Увеличивает конечный урон на **0%**.\r\n**Усиление техники россыпи**\r\nУсиление гидрофокуса: весь стихийный урон увеличивается на **12%**.\r\nУсиление водоворота: если **Браслет луны и звезд** находится в ячейке основного оружия, урон от Водоворота увеличивается на **30%**.\r\nУсиление бурной силы: урон от разряда увеличивается на **12%**.\r\nУсиление Мальстрёма: при нанесении физического урона во время действия Мальстрёма дополнительно усиливает конечный урон вплоть до **33%** (достигает максимума за 10 секунд).\r\nУсиление водных кандалов: если активен резонанс посвящения, длительность Водной тюрьмы увеличивается до **5** секунд, а параметр снижения базового сопротивления Водной тюрьмы увеличивается до **10%**.\r\nУсиление неистощимого источника: пока действует резонанс силы духа, сопротивление увеличивается на (**макс. ОЗ**/**100000**)%, но не более чем на **10%**."
+					"description": "Конечный урон увеличен на **18%**."
 				},
 				"id": "imitation_36"
 			},
@@ -8125,11 +8285,11 @@
 		"trait": {
 			"level1": {
 				"name": "Мерцание",
-				"description": "Конечный урон увеличен на **0%**."
+				"description": "Конечный урон увеличен на **16%**."
 			},
 			"level2": {
 				"name": "Отражение луны",
-				"description": "Увеличивает конечный урон на **0%**.\r\n**Усиление техники россыпи**\r\nУсиление гидрофокуса: весь стихийный урон увеличивается на **12%**.\r\nУсиление водоворота: если **Браслет луны и звезд** находится в ячейке основного оружия, урон от Водоворота увеличивается на **30%**.\r\nУсиление бурной силы: урон от разряда увеличивается на **12%**.\r\nУсиление Мальстрёма: при нанесении физического урона во время действия Мальстрёма дополнительно усиливает конечный урон вплоть до **33%** (достигает максимума за 10 секунд).\r\nУсиление водных кандалов: если активен резонанс посвящения, длительность Водной тюрьмы увеличивается до **5** секунд, а параметр снижения базового сопротивления Водной тюрьмы увеличивается до **10%**.\r\nУсиление неистощимого источника: пока действует резонанс силы духа, сопротивление увеличивается на (**макс. ОЗ**/**100000**)%, но не более чем на **10%**."
+				"description": "Конечный урон увеличен на **18%**."
 			},
 			"id": "imitation_36"
 		},
