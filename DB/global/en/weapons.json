@@ -4,9 +4,7 @@
 		"description": "A common weapon among residents of Warren Snowfield. Infused with frost to reflect the local flavor. It's very popular, because it's cheap yet highly effective.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Spear_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Spear_Ice01",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01",
-			"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Spear_Ice01",
 			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
 		},
 		"rarity": "R",
@@ -104,6 +102,35 @@
 				"need": "None"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 6.714021
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 2.20856
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 452.31296
+			}
+		],
 		"id": "spear_ice"
 	},
 	"digger_physic": {
@@ -111,9 +138,7 @@
 		"description": "A basic weapon developed by Banges Tech. Forged in a special alloy, it is light, agile, and easy to handle.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Ds_Phy01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Ds_Phy01",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01",
-			"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Ds_Phy01",
 			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
 		},
 		"rarity": "R",
@@ -205,6 +230,35 @@
 				"need": "None"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 7.350086
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 452.31296
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 5.653912
+			}
+		],
 		"id": "digger_physic"
 	},
 	"sword_thunder": {
@@ -212,9 +266,7 @@
 		"description": "The earliest electromagnetic Omnium project. The blade is easy to handle, and is very popular among Wanderers that are not great fighters.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Sword_Thunder01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Sword_Thunder01",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01",
-			"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Sword_Thunder01",
 			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
 		},
 		"rarity": "R",
@@ -300,6 +352,35 @@
 				"need": "None"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 6.360651
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 2.650271
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 452.31296
+			}
+		],
 		"id": "sword_thunder"
 	},
 	"bow_fire": {
@@ -307,9 +388,7 @@
 		"description": "A common weapon used by hunters in the snowfield. Easy to handle with very high accuracy. After enough promotion, it has earned more than half of the affordable civilian market.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Bow_Fire01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Bow_Phy01",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01",
-			"LotteryDrawing": "/Game/Resources/UI/chouka/Card/Weapon/Weapon_R_Bow_Phy01",
 			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
 		},
 		"rarity": "R",
@@ -395,6 +474,35 @@
 				"need": "None"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 7.350086
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 452.31296
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 5.653912
+			}
+		],
 		"id": "bow_fire"
 	},
 	"stave_thunder": {
@@ -402,9 +510,7 @@
 		"description": "A mechanical staff with a cross rune carved into it. Capable of both forgiving sins or unleashing punishments.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Stave_Thunder01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/sr_lh_shqz",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_14",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR6_256"
 		},
 		"rarity": "SR",
@@ -545,6 +651,35 @@
 				"need": "stave_thunder_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 10.012136
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 5.153305
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 753.8549
+			}
+		],
 		"id": "stave_thunder"
 	},
 	"cannon_ice": {
@@ -552,9 +687,7 @@
 		"description": "The most gnarly firearm ever created, also known as a moving turret.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Cannon_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_zjz",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_15",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR7_256"
 		},
 		"rarity": "SR",
@@ -665,6 +798,35 @@
 				"need": "cannon_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 11.778983
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 2.944746
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 753.8549
+			}
+		],
 		"id": "cannon_ice"
 	},
 	"chainsaw_physic": {
@@ -672,9 +834,7 @@
 		"description": "Far too dangerous to be a child's plaything. There is no way a kid could have gotten their hands on it through honest means. Who knows what kind of tech was used to refit it... Maybe it was simply picked up somewhere off the beaten path.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Chainsaw_physic01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_genuonuo",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_27",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR30_256"
 		},
 		"rarity": "SSR",
@@ -828,6 +988,35 @@
 				"need": "Chainsaw_physic_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 19.114079
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 13.652913
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Gnonno: Ripples",
@@ -846,9 +1035,7 @@
 		"description": "No one wants to be on the receiving end of this maul.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Hammer_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_cdzj",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_2",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR8_256"
 		},
 		"rarity": "SR",
@@ -995,6 +1182,35 @@
 				"need": "hammer_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 9.423186
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 5.889492
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 753.8549
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Ene: Fast Mode",
@@ -1013,9 +1229,7 @@
 		"description": "Blends perfectly into the gloomy night.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Bow_Phy01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_yqzy",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_16",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR9_256"
 		},
 		"rarity": "SR",
@@ -1150,6 +1364,35 @@
 				"need": "bow_physic_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 12.250143
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 753.8549
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 9.423186
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Bai Ling: Valor",
@@ -1168,9 +1411,7 @@
 		"description": "A halberd infused with the power of thunder. Great for burst damage, and its length makes it a great weapon for a variety of ranges.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Spear_Thunder01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SR_lh_ltzj",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_4",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR12_256"
 		},
 		"rarity": "SR",
@@ -1317,6 +1558,35 @@
 				"need": "spear_thunder_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 11.190034
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 3.680932
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 753.8549
+			}
+		],
 		"id": "spear_thunder"
 	},
 	"digger_thunder": {
@@ -1324,9 +1594,7 @@
 		"description": "Lethal, unpredictable and quiet.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Ds_Thunder01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_jkxd",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_13",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR11_256"
 		},
 		"rarity": "SSR",
@@ -1467,6 +1735,35 @@
 				"need": "digger_thunder_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"id": "digger_thunder"
 	},
 	"bigsword_ice": {
@@ -1474,9 +1771,7 @@
 		"description": "An elegant frost blade that conjures up images of a pure white flower blooming on a snow-covered cliff.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_BigSword_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_qwjf",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_3",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR1_256"
 		},
 		"rarity": "SSR",
@@ -1629,6 +1924,35 @@
 				"need": "bigsword_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 15.473301
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 7.964199
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Meryl: Cool Rose",
@@ -1647,9 +1971,7 @@
 		"description": "The arrows from this bow carry the power of frost.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Bow_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_Mg",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_7",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR2_256"
 		},
 		"rarity": "SSR",
@@ -1784,6 +2106,35 @@
 				"need": "bow_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"id": "bow_ice"
 	},
 	"stave_ice": {
@@ -1791,9 +2142,7 @@
 		"description": "Keep the cold temperature steady to heal allies.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Stave_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_mtzz",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_11",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR3_256"
 		},
 		"rarity": "SSR",
@@ -1935,6 +2284,35 @@
 				"need": "stave_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 15.473301
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 7.964199
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"id": "stave_ice"
 	},
 	"sickle_fire": {
@@ -1942,9 +2320,7 @@
 		"description": "A powerful scythe, great for both offense and defense. Able to instantly kill its target within a certain distance.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Sickle_Fire01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_ml",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_9",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR4_256"
 		},
 		"rarity": "SSR",
@@ -2091,6 +2467,35 @@
 				"need": "sickle_fire_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 16.383495
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 6.826457
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"id": "sickle_fire"
 	},
 	"gun_fire": {
@@ -2098,9 +2503,7 @@
 		"description": "Invented by a mad scientist. With its impressive test numbers, one can only imagine how powerful it might be at full power.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Gun_Fire01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_zl",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_10",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR5_256"
 		},
 		"rarity": "SSR",
@@ -2242,6 +2645,35 @@
 				"need": "gun_fire_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 19.114079
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 13.652913
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Cobalt-B: Lingering Warmth",
@@ -2260,9 +2692,7 @@
 		"description": "The crimson blade stands for courage and resolve, while the sharp edge carries out justice.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Sword_Fire01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_hlr",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_12",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR6_256"
 		},
 		"rarity": "SSR",
@@ -2404,6 +2834,35 @@
 				"need": "sword_physic_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 16.383495
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 6.826457
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"id": "sword_physic"
 	},
 	"darts_physic": {
@@ -2411,9 +2870,7 @@
 		"description": "A round and sharp weapon that traveled the seas with its owner.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Darts_Phy01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_hr",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_8",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR7_256"
 		},
 		"rarity": "SSR",
@@ -2554,6 +3011,35 @@
 				"need": "darts_physic_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 19.114079
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 13.652913
+			}
+		],
 		"id": "darts_physic"
 	},
 	"cube_fire": {
@@ -2561,9 +3047,7 @@
 		"description": "Users of the Strange Cube tend to think of many ways to negate unnecessary requirements.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Cube_Fire01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_mf",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_1",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR8_256"
 		},
 		"rarity": "SSR",
@@ -2705,6 +3189,35 @@
 				"need": "cube_fire_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 14.563107
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 9.101942
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Zero: Accurate Calculation",
@@ -2723,9 +3236,7 @@
 		"description": "These firearms are designed based on railguns, and must be used in a pair.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_DGun_Thunder",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_Sq",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_5",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR9_256"
 		},
 		"rarity": "SSR",
@@ -2860,6 +3371,35 @@
 				"need": "dgun_thunder_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"id": "dgun_thunder"
 	},
 	"shieldaxe_fire": {
@@ -2867,9 +3407,7 @@
 		"description": "A shield axe that belongs to the V2 weapon series, a collection of weapons forged with special techniques.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_ShieldAxe_Fire01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yyz",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_6",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR10_256"
 		},
 		"rarity": "SSR",
@@ -3004,6 +3542,35 @@
 				"need": "ShieldAxe_Fire_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 14.563107
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 9.101942
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"id": "shieldaxe_fire"
 	},
 	"mimi_thunder": {
@@ -3011,9 +3578,7 @@
 		"description": "A pair of fans that contains enormous energy capable of collapsing mountains and tearing the world apart.\r\nWhen Azure Dragon mounts the clouds, the world is buffeted by the wind.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_mimi",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_MiMi",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_41",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR35_256"
 		},
 		"rarity": "SSR",
@@ -3161,6 +3726,35 @@
 				"need": "mimi_thunder_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 16.383495
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 6.826457
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Bamboo Splints",
@@ -3179,9 +3773,7 @@
 		"description": "With a flourish of sleeves and sword's dance divine, who can fathom the depths of this heart o' mine?",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/UI_SSR_lh_linghan",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_43",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR37_256"
 		},
 		"rarity": "SSR",
@@ -3329,6 +3921,35 @@
 				"need": "Linghan_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 16.571905
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1010.0971
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 11.837075
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Overwatching Blade",
@@ -3347,9 +3968,7 @@
 		"description": "Its designer is unknown. The special hovering EM Blaster's prototype's blueprint has been lost. It contains a unique electrical saving process in its interior. It's extremely troublesome to repair when it gets worn out, but Cobalt-B of Banges Tech seems to be able to do it. ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_naimxs_Thunder01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_nmxs",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_17",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR14_256"
 		},
 		"rarity": "SSR",
@@ -3491,6 +4110,35 @@
 				"need": "Suspension_thunder_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Nemesis: Metamorphosis",
@@ -3509,9 +4157,7 @@
 		"description": "The greatsword and the saber belonging exclusively to the Angel of Clemency, Frigg. They were adapted to Frigg's cybernetic body when they were manufactured. The two weapons are not one and the same, but Frigg refers to them collectively as Balmung.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_frigg_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_flj",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_28",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR15_256"
 		},
 		"rarity": "SSR",
@@ -3647,6 +4293,35 @@
 				"need": "Frigg_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Freeze",
@@ -3665,9 +4340,7 @@
 		"description": "A special weapon Lin asked Mirroria R&D to make for Ruby. Its main functions include: Acting as the housekeeper in the play-house game, waking Ruby up in the morning, and leading the way for Ruby... But most importantly, protecting Ruby. ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_funnel_Fire01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_leibei",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR16_256"
 		},
 		"rarity": "SSR",
@@ -3809,6 +4482,35 @@
 				"need": "funnel_fire_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Dreamcatcher",
@@ -3827,9 +4529,7 @@
 		"description": "A special tachi that adapts to the Super Flow experiments. It is able to sense the user's mental state and generate Sword Shadow to assist in combat at the right time.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_dkatana_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_bupoxiao",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR17_256"
 		},
 		"rarity": "SSR",
@@ -3977,6 +4677,35 @@
 				"need": "Dkatana_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 15.473301
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 7.964199
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Saki Fuwa: Fortitude State",
@@ -3995,9 +4724,7 @@
 		"description": "The initial design shows it to be a lightweight and covert concealed weapon, but it's changed to a heavy blade by the user's own request. It's heavy and not like a concealed weapon at all.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_fan_superpower01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_linye",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_23",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR18_256"
 		},
 		"rarity": "SSR",
@@ -4142,6 +4869,35 @@
 				"need": "fan_superpower_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Lin: Epiphyllum Blossom",
@@ -4160,9 +4916,7 @@
 		"description": "This long spear covered in lightning is the SMA1-TS00-Thunderbreaker. It is able to unleash the stored power through unimaginable means. The electric field that it generates disrupts the mind of its wielder, so it cannot be mastered by ordinary people.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Tianlang_Thunder01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_tianlang",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_29",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR20_256"
 		},
 		"rarity": "SSR",
@@ -4304,6 +5058,35 @@
 				"need": "tianlang_thunder_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Tian Lang: Thunderball",
@@ -4322,9 +5105,7 @@
 		"description": "A support weapon custom-made for an insider of the Maidelin Foundation. Ms. Maidelin believes that Lyra could make proper use of it.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Arm_Physic01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_xinghuan",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_24",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR19_256"
 		},
 		"rarity": "SSR",
@@ -4484,6 +5265,35 @@
 				"need": "arm_physic_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 15.473301
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 7.964199
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Heartswitch",
@@ -4502,9 +5312,7 @@
 		"description": "A gentle swing in the chaotic abyss will stir up a tempest that affects everyone's fate.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Rubilia_Thunder01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/UI_SSR_lh_laibiliya",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_48",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR31_256"
 		},
 		"rarity": "SSR",
@@ -4658,6 +5466,35 @@
 				"need": "Rubilia_thunder_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Synergy",
@@ -4676,9 +5513,7 @@
 		"description": "Combat armor crafted with a foot-blade as its core. Powered by the user's mental energy, it is the result of cutting-edge science and technology from before the Cataclysm, and explodes with terrifying power when necessary.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_iceblade_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_ailisi",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_30",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR22_256"
 		},
 		"rarity": "SSR",
@@ -4826,6 +5661,35 @@
 				"need": "iceblade_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.203884
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 4.550971
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Anisoptera",
@@ -4844,9 +5708,7 @@
 		"description": "A VR multiplayer shooting game that is incredibly popular in Mirroria specially designed this exclusive gun for their top player from a certain season. The customized physical model of the gun was also sent to the player, but nobody realized it could be used just like in the game...",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Snipe_fire01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_annabeila",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_26",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR21_256"
 		},
 		"rarity": "SSR",
@@ -4982,6 +5844,35 @@
 				"need": "Snipe_fire_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 19.114079
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 13.652913
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Gas (boom!)",
@@ -5000,9 +5891,7 @@
 		"description": "\"No violence please! Real academics wouldn't hit anyone with stationery!\" —Rong Jin",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_liuhuo",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_liuhuo",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_37",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR32_256"
 		},
 		"rarity": "SSR",
@@ -5168,6 +6057,35 @@
 				"need": "brush_fire_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 19.114079
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 13.652913
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Counting Ink",
@@ -5186,9 +6104,7 @@
 		"description": "The whip favored by the new Executor, Umi. Umi's favorite part of it is that she doesn't get tripped up by it, usually.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Whip_Phy01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_wumi",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR23_256"
 		},
 		"rarity": "SSR",
@@ -5348,6 +6264,35 @@
 				"need": "Whip_physic_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Umi: Good Show",
@@ -5366,9 +6311,7 @@
 		"description": "Some flowers conceal a lethal intent.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feise",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_feise",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_51",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR36_256"
 		},
 		"rarity": "SSR",
@@ -5528,6 +6471,35 @@
 				"need": "feise_fire_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Lotus Dance",
@@ -5546,9 +6518,7 @@
 		"description": "A special device that converts sound waves into attack. When the shackles are shattered, the currents of death become sharp claws that tear everything apart.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Fenrir_Thunder01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_fenlier",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR24_256"
 		},
 		"rarity": "SSR",
@@ -5702,6 +6672,35 @@
 				"need": "fenrir_thunder_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 19.114079
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 13.652913
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Dimension X",
@@ -5720,9 +6719,7 @@
 		"description": "A parasol weapon used exclusively by Zhuque with various hidden mechanisms. Vermilion Bird's large parasol body can not only become a powerful tool to destroy enemies using energy, but also something to block the sight of others and hide the holder's demeanor...",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_umbrella_Fire01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_lan",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR27_256"
 		},
 		"rarity": "SSR",
@@ -5876,6 +6873,35 @@
 				"need": "umbrella_fire_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 16.383495
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 6.826457
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Raging Fire",
@@ -5894,9 +6920,7 @@
 		"description": "A rare collectible weapon fused with unique trendy refits. May the wielder walk with courage into the desolate darkness, even if like a moth to the flame.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yoyo_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yikaluosi",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_35",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR28_256"
 		},
 		"rarity": "SSR",
@@ -6044,6 +7068,35 @@
 				"need": "Yoyo_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Hoarfrost",
@@ -6062,9 +7115,7 @@
 		"description": "Unity, in other words, consolidation. It's the weapon Ji Yu handpicked for Yu Lan, which possesses the latest tech from Domain 9. Please don't be surprised if you witness some miraculous sights after using it with the timestamp.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yulan_Ice01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yulan",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR33_256"
 		},
 		"rarity": "SSR",
@@ -6242,6 +7293,35 @@
 				"need": "yulan_ice_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.93204
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 14.563107
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Steady Qi",
@@ -6260,9 +7340,7 @@
 		"description": "An imposing and sharp greatsword that ordinary people can barely muster the strength to pick up. Its destructive power is juxtaposed by the wide blade and the sense of security it brings.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Zeke_Phy01",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/UI_SSR_lh_mingjing",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_50",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR34_256"
 		},
 		"rarity": "SSR",
@@ -6416,6 +7494,35 @@
 				"need": "Zeke_physic_plasm"
 			}
 		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 19.114079
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
+			},
+			{
+				"stats": {
+					"name": "Crit",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+					"value": 0.4,
+					"id": "CritAdded"
+				},
+				"value": 13.652913
+			}
+		],
 		"trait": {
 			"level1": {
 				"name": "Find Oneself",
@@ -6434,9 +7541,7 @@
 		"description": "A strange nanoweapon that generates blades that cut through metal like butter. In the past, it used to take the form of a bracelet that wrapped around its owner's wrist while in standby mode, and that is where its owner's descriptions of it come from.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feiouna",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_feiouna",
 			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36",
 			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR29_256"
 		},
 		"rarity": "SSR",
@@ -6627,6 +7732,35 @@
 					"charge": 11.5
 				},
 				"need": "queen_superpower_plasm"
+			}
+		],
+		"stats": [
+			{
+				"stats": {
+					"name": "Attack",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+					"value": 2,
+					"id": "CommonAtkAdded"
+				},
+				"value": 18.203884
+			},
+			{
+				"stats": {
+					"name": "Resistance",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+					"value": 1.6,
+					"id": "ElementDef"
+				},
+				"value": 4.550971
+			},
+			{
+				"stats": {
+					"name": "HP",
+					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+					"value": 0.025,
+					"id": "MaxHealthAdded"
+				},
+				"value": 1165.0486
 			}
 		],
 		"trait": {
