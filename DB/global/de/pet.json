@@ -1,5 +1,10 @@
 {
 	"FightPet_1": {
+		"name": "Kalka",
+		"description": "Ein frühes Modell eines KI-Dieners, entwickelt von Dr. Claire von der Cetus-Insel. Als Antwort auf neue Kampfanforderungen wurde für ihn ein neues KI-Diener-Kampfmodul getestet.",
+		"PetElementType": "Physics",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_018",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_1",
@@ -22,26 +27,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_018_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_007": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_1"
 	},
 	"FightPet_2": {
+		"name": "Leerenengel",
+		"description": "Ein Mehrzweck-KI-Diener aus der Zeit der Alten Föderation, der in einer Vielzahl von Situationen eingesetzt werden kann. Als Antwort auf neue Kampfanforderungen wurde für ihn ein neues KI-Diener-Kampfmodul getestet.",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_025",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_2",
@@ -64,26 +70,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_025_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill01_C",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill02_C",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill03_C",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_008": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_2"
 	},
 	"FightPet_3": {
+		"name": "Angela",
+		"description": "Ein KI-Diener aus der Zeit der Alten Föderation, der ursprünglich für den Einsatz als Unterhaltungsdiener gedacht war. Als Antwort auf neue Kampfanforderungen wurde für ihn ein neues KI-Diener-Kampfmodul getestet.",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_027",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_3",
@@ -106,26 +113,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_027_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_3"
 	},
 	"FightPet_4": {
+		"name": "Mondhase",
+		"description": "Ein als mechanischer Assistent dienender KI-Diener, entwickelt von Banges Tech. Als Antwort auf neue Kampfanforderungen wurde für ihn ein neues KI-Diener-Kampfmodul getestet.",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_015",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_4",
@@ -148,26 +156,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_015_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_010": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_4"
 	},
 	"FightPet_5": {
+		"name": "Flammensperling",
+		"description": "Ein KI-Diener der nächsten Generation, der von Ling Qiao entwickelt wurde und auf dem lokalen Flammenfink basiert. Sein Kampfmodul wurde als Lösung für die neuen Kampfanforderungen getestet.",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Preview_BattleRobot_001",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_BattleRobot_001",
@@ -190,26 +199,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_001_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_005": 40,
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_008": 20,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_5"
 	},
 	"FightPet_6": {
+		"name": "Mi-a: Unterstützung",
+		"description": "Der als Erstes angetroffene KI-Diener, den Shirli in der Astra-Zuflucht vorstellte. Ein ruhiger Diener, der besonders gut darin ist, sich um Menschen zu kümmern. Für ihn wurde ein neues KI-Diener-Kampfmodul getestet.",
+		"PetElementType": "Superpower",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_mia",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_6",
@@ -232,26 +242,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_004_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_6"
 	},
 	"FightPet_7": {
+		"name": "Zongyun",
+		"description": "Ein Schlüsselprodukt, das durch die Zusammenarbeit vom Tianzhang-Pavillon und der Neuner-Schwermaschinerie entstanden ist. Sein Hauptziel ist es, Forschung und Entwicklung in die Universalisierung von Madame Qinglongs Partner-Tieren zu investieren.",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_003",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_003",
@@ -274,26 +285,26 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_003_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill2",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill3",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_029": 40,
+			"Item_Jiuyu_Harvest_028": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Mine_02": 5
+		},
 		"id": "FightPet_7"
 	},
 	"FightPet_8": {
+		"name": "Leia",
+		"description": "„Die ‚Ultimative Waffen‘-Serie, die von der Xiling Alliance Co. Ltd. hergestellt wird, Modell γ1O-A. Xiling ist der einzige KI-Diener-Lieferant von Hykros und gehört zum Hykros-Gebiet-9-KI-Diener-Ausschuss. Das Unternehmen wurde von Shelly und Ling Qiao, zwei der größten Ingenieurinnen dieses Jahrhunderts, gegründet und brachte bereits einen Monat nach seiner Gründung seinen ersten in Kleinserie produzierten KI-Diener auf den Markt. Das Unternehmen ist vor allem für seine Forschung und Produktion von KI-Dienern, verwandten Produkten und Handelswaren bekannt. In Zukunft wird sich das Unternehmen verstärkt auf die vertikale Integration konzentrieren, indem es enge Verbindungen mit berühmten Marken wie den ultimativen Kriegerinnen eingeht und einen eigenen Handelskomplex schafft. Wenn du an einer Investition interessiert bist, kontaktiere uns bitte unter * * * - * * * *.\r\nUm den neuen Anforderungen im Kampf gerecht zu werden, wurde das KI-Diener-Kampfmodul getestet.“",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_002",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_002",
@@ -316,26 +327,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_002_skill3"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill2",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill3",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_8"
 	},
 	"FightPet_10": {
+		"name": "Schneeflocke",
+		"description": "Eine tigerähnliche, schlaue KI-Dienerin, die Eiskristalle auf ihrem Weg hinterlässt. Ihr Kampfmodul wurde als Lösung für die neuen Kampfanforderungen getestet.",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Preview_BattleRobot_008",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_008",
@@ -358,23 +370,19 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_008_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill02_1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_10"
 	}
 }

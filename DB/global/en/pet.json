@@ -1,5 +1,10 @@
 {
 	"FightPet_1": {
+		"name": "Kalka",
+		"description": "An early smart servant model developed by Dr. Claire of Cetus Island. A new smart servant combat module has been tested for it in response to new combat requirements.",
+		"PetElementType": "Physics",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_018",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_1",
@@ -22,26 +27,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_018_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_007": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_1"
 	},
 	"FightPet_2": {
+		"name": "Void Angel",
+		"description": "A multi-purpose smart servant from the Old Federation days that can be used in a variety of situations. A new smart servant combat module has been tested for it in response to new combat requirements.",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_025",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_2",
@@ -64,26 +70,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_025_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill01_C",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill02_C",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill03_C",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_008": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_2"
 	},
 	"FightPet_3": {
+		"name": "Angela",
+		"description": "A smart servant from the Old Federation days originally intended for use as an entertainment performer. A new smart servant combat module has been tested for it in response to new combat requirements.",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_027",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_3",
@@ -106,26 +113,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_027_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_3"
 	},
 	"FightPet_4": {
+		"name": "Moonrabbit",
+		"description": "A mechanical assistant smart servant developed by Banges Tech. A new smart servant combat module has been tested for it in response to new combat requirements.",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_015",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_4",
@@ -148,26 +156,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_015_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_010": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_4"
 	},
 	"FightPet_5": {
+		"name": "Flame Sparrow",
+		"description": "A next-generation smart servant developed by Ling Qiao, based on the local Flaming Finch. Its combat module has been tested for it in response to new combat requirements.",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Preview_BattleRobot_001",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_BattleRobot_001",
@@ -190,26 +199,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_001_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_005": 40,
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_008": 20,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_5"
 	},
 	"FightPet_6": {
+		"name": "Mi-a: Assistance",
+		"description": "The first encountered smart servant introduced by Shirli back in the Astra Shelter. A quiet one that is really good at taking care of people. A new smart servant combat module has been tested for it.",
+		"PetElementType": "Superpower",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_mia",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_6",
@@ -232,26 +242,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_004_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_6"
 	},
 	"FightPet_7": {
+		"name": "Zongyun",
+		"description": "A key product created through collaboration between Tianzhang Pavilion and Niners Heavy Machinery. Its main goal is said to be investing R&D toward the universalization of Madam Qinglong's partner pets.",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_003",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_003",
@@ -274,26 +285,26 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_003_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill2",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill3",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_029": 40,
+			"Item_Jiuyu_Harvest_028": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Mine_02": 5
+		},
 		"id": "FightPet_7"
 	},
 	"FightPet_8": {
+		"name": "Leia",
+		"description": "\"The 'Ultimate Weapon' series manufactured by Xiling Alliance Co. Ltd., model γ1O-A. Xiling is the sole smart servant supplier to Hykros and is part of the Hykros-Domain 9 Smart Servant Committee. Founded by Ms. Shelly and Ms. Ling Qiao, two of this century's greatest female engineers, the company launched its first mass-produced smart servant in small batches within just a month of its founding. The company is mainly known for its research and production of smart servants, related products, and merchandise. As it moves into the future, the company is focusing more on vertical integration by forming deep connections with famous brands, such as Ultimate Warriors, and creating an original commercial complex. If you're interested in investing, please contact us at * * * - * * * *.\r\nTo meet new needs in combat, the Smart Servant Combat Module test has been conducted.\"",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_002",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_002",
@@ -316,26 +327,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_002_skill3"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill2",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill3",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_8"
 	},
 	"FightPet_10": {
+		"name": "Snowy",
+		"description": "A tiger-themed smart servant that leaves ice crystals in her path. The combat module has been tested in response to new combat requirements.",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Preview_BattleRobot_008",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_008",
@@ -358,23 +370,19 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_008_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill02_1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_10"
 	}
 }

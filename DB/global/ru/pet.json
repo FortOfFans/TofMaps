@@ -1,5 +1,10 @@
 {
 	"FightPet_1": {
+		"name": "Калка",
+		"description": "Ранняя модель умной прислуги, разработанная доктором Клэр с острова Кита. Комплектуется новым боевым модулем, отвечающим современным требованиям.",
+		"PetElementType": "Physics",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_018",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_1",
@@ -22,26 +27,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_018_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_007": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_1"
 	},
 	"FightPet_2": {
+		"name": "Ангел Пустоты",
+		"description": "Многоцелевая умная прислуга времен Старой Федерации, которую можно использовать в самых разных ситуациях. Комплектуется новым боевым модулем, отвечающим современным требованиям.",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_025",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_2",
@@ -64,26 +70,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_025_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill01_C",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill02_C",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill03_C",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_008": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_2"
 	},
 	"FightPet_3": {
+		"name": "Анджела",
+		"description": "Умная прислуга времен Старой Федерации, которую изначально задумывали как исполнителя в развлекательных жанрах. Комплектуется новым боевым модулем, отвечающим современным требованиям.",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_027",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_3",
@@ -106,26 +113,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_027_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_3"
 	},
 	"FightPet_4": {
+		"name": "Лунный Заяц",
+		"description": "Умная прислуга на основе механического помощника, созданная компанией «БэнджиТех». Комплектуется новым боевым модулем, отвечающим современным требованиям.",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_015",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_4",
@@ -148,26 +156,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_015_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_010": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_4"
 	},
 	"FightPet_5": {
+		"name": "Огненный воробей",
+		"description": "Умная прислуга нового поколения, за основу для которой Лин Цяо взяла местного огненного зяблика. Комплектуется новым боевым модулем, отвечающим современным требованиям.",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Preview_BattleRobot_001",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_BattleRobot_001",
@@ -190,26 +199,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_001_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_005": 40,
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_008": 20,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_5"
 	},
 	"FightPet_6": {
+		"name": "Ми-я: боевой режим",
+		"description": "Первая умная прислуга, с которой Ширли познакомила вас в убежище Астры. Тихая и заботливая. Комплектуется новым боевым модулем, отвечающим современным требованиям.",
+		"PetElementType": "Superpower",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_mia",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_6",
@@ -232,26 +242,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_004_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_6"
 	},
 	"FightPet_7": {
+		"name": "Цзунъюнь",
+		"description": "Главный продукт, созданный павильоном Тяньчжан и «Тяжелой техникой девятников». Его основное назначение — применение исследований для популяризации питомцев госпожи Цинлун.",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_003",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_003",
@@ -274,26 +285,26 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_003_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill2",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill3",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_029": 40,
+			"Item_Jiuyu_Harvest_028": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Mine_02": 5
+		},
 		"id": "FightPet_7"
 	},
 	"FightPet_8": {
+		"name": "Лея",
+		"description": "«Серия „Абсолютное оружие” производства „Альянс Силин”, модель γ1O-A. „Силин” — единственный поставщик умной прислуги в Гикрос, входит в состав Комитета умной прислуги Гикроса и Территории 9. Компания была основана мисс Шелли и госпожой Лин Цяо — двумя величайшими женщинами-инженерами этого столетия. Всего через месяц после начала работы она начала выпускать небольшие партии умной прислуги серийного производства. Компания широко известна своими исследованиями и производством умной прислуги, сопутствующих товаров и атрибутики. В планах компании — упор на вертикальную интеграцию, выстраивание связей с различными брендами, например „Абсолютными воинами”, и создание оригинального коммерческого комплекса. Заинтересованных инвесторов просим обращаться по телефону: * * * - * * * *.\r\nВ целях соответствия новым боевым требованиям было проведено испытание боевого модуля умной прислуги».",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_002",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_002",
@@ -316,26 +327,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_002_skill3"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill2",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill3",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_8"
 	},
 	"FightPet_10": {
+		"name": "Снежка",
+		"description": "Тигроподобная умная прислуга, оставляющая за собой ледяные кристаллы. Комплектуется новым боевым модулем, отвечающим современным требованиям.",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Preview_BattleRobot_008",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_008",
@@ -358,23 +370,19 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_008_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill02_1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_10"
 	}
 }

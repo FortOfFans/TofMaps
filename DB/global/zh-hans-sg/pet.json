@@ -1,5 +1,10 @@
 {
 	"FightPet_1": {
+		"name": "卡卡",
+		"description": "白鲸岛克拉瑞尔博士研发的早期机械智仆型号。为应对新的作战需求，进行了协战模块的测试。",
+		"PetElementType": "Physics",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_018",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_1",
@@ -22,26 +27,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_018_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "damage_pet_018_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_007": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_1"
 	},
 	"FightPet_2": {
+		"name": "虚无天使",
+		"description": "旧联邦时期就存在的多用途机械智仆，应用于广泛的使用场景。为应对新的作战需求，进行了智仆协战模块的测试。",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_025",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_2",
@@ -64,26 +70,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_025_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill01_C",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill02_C",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_025_skill03_C",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_008": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_2"
 	},
 	"FightPet_3": {
+		"name": "安吉拉",
+		"description": "旧联邦时期就存在的机械智仆，原本用于娱乐演出用途。为应对新的作战需求，进行了智仆协战模块的测试。",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_027",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_3",
@@ -106,26 +113,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_027_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_pet_027_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_3"
 	},
 	"FightPet_4": {
+		"name": "月兔",
+		"description": "班吉斯重工生产的机械助手智仆。为应对新的作战需求，进行了协战模块的测试。",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_015",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_4",
@@ -148,26 +156,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_015_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "pet_015_damage_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_010": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_4"
 	},
 	"FightPet_5": {
+		"name": "火羽雀",
+		"description": "聆巧以本地焰焰团雀为参考制造的新一代机械智仆。为应对新的作战需求，进行了协战模块的测试。",
+		"PetElementType": "Flame",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Preview_BattleRobot_001",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_BattleRobot_001",
@@ -190,26 +199,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_001_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_001_Skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_005": 40,
+			"Item_Jiuyu_Harvest_006": 40,
+			"Item_Jiuyu_Harvest_008": 20,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Mine_02": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_5"
 	},
 	"FightPet_6": {
+		"name": "Mi-a**•** 协战",
+		"description": "在星岛避难所由莎莉介绍认识，是最初相遇的智仆。不太擅长说话，但很会照顾人。进行了协战模块的测试。",
+		"PetElementType": "Superpower",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_mia",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_6",
@@ -232,26 +242,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/SkillIcon_pet_004_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill02",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "GE_damage_BattleRobot_004_skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_6"
 	},
 	"FightPet_7": {
+		"name": "纵云",
+		"description": "天章阁与九州重机的重点合作项目中诞生的重点产品，据说是为将青龙大人的跟宠全民化而投入研发的重要战略产物。",
+		"PetElementType": "Thunder",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_003",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_003",
@@ -274,26 +285,26 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_003_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill2",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_003_skill3",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_029": 40,
+			"Item_Jiuyu_Harvest_028": 20,
+			"Item_Jiuyu_Harvest_011": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_009": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Mine_01": 5,
+			"Item_Jiuyu_Mine_02": 5
+		},
 		"id": "FightPet_7"
 	},
 	"FightPet_8": {
+		"name": "蕾娅",
+		"description": "\"XILING联合有限公司出品的「最终兵器」系列产品，型号为γ1O-A，XILING公司为海嘉德当前唯一的智仆供货商，隶属于海嘉德-九域智仆联合委员会。公司成立一月不到即已小批量上线第一款量产智仆产品，创立者为希里女士和聆巧女士，二者均为本世纪最伟大的女性工程师。公司主要以研发生产智仆及关联产品、周边模型闻名，下一步将关注垂直细分领域，与超究极战士等著名IP形成品牌深度串联，打造原生态商业综合体，有意向投资者请联系电话***-********。\r\n为应对新的作战需求，进行了智仆协战模块的测试。\"",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Pet_Preview_002",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_002",
@@ -316,26 +327,27 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_002_skill3"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill2",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_002_skill3",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_8"
 	},
 	"FightPet_10": {
+		"name": "雪绒",
+		"description": "以老虎元素设计的新一代机械智仆。奔跑过的地方会留下细密的冰晶。为应对新的作战需求，进行了协战模块的测试。",
+		"PetElementType": "Ice",
+		"PetPropertyType": "Attack",
+		"PetRarity": "SSR",
 		"assets": {
 			"PetIcon": "/Game/Resources/UI/PetFight/icon/BP_Preview_BattleRobot_008",
 			"PetActivatedIcon": "/Game/Resources/UI/PetFight/icon/LH_FightPet_008",
@@ -358,23 +370,19 @@
 				"icon": "/Game/Resources/Icon/skill/BattleRobotSkill/BattleRobot_008_act03"
 			}
 		],
-		"numberst": [
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill01",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill02_1",
-				"value": 1
-			},
-			{
-				"file": "Pet_Skill_Mult.json",
-				"key": "Damage_BattleRobot_008_Skill03",
-				"value": 1
-			}
-		],
+		"PetUpgradeItemMap": {
+			"Item_Jiuyu_Harvest_009": 20,
+			"Item_Jiuyu_Mine_01": 20,
+			"Item_Jiuyu_Mine_02": 20,
+			"Item_Jiuyu_Harvest_005": 10,
+			"Item_Jiuyu_Harvest_006": 10,
+			"Item_Jiuyu_Harvest_029": 10,
+			"Item_Jiuyu_Harvest_007": 5,
+			"Item_Jiuyu_Harvest_008": 5,
+			"Item_Jiuyu_Harvest_010": 5,
+			"Item_Jiuyu_Harvest_011": 5,
+			"Item_Jiuyu_Harvest_028": 5
+		},
 		"id": "FightPet_10"
 	}
 }
