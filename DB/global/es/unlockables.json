@@ -1,0 +1,948 @@
+{
+	"imitation_1": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Conversación Desconcertante",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Reglas",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: \"Cero\"",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_1"
+	},
+	"imitation_2": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Asume la Responsabilidad",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Un Hambre de Poder",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: El Futuro de las Máquinas",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_2"
+	},
+	"imitation_3": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Una Conversación Fría",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Días Congelados",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Nieve Derretida",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_3"
+	},
+	"imitation_4": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Una Canción para el Camino",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Por qué Combatimos",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Quo Vadis",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_4"
+	},
+	"imitation_5": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Baila a Solas",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Resonancia",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Concierto",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_5"
+	},
+	"imitation_6": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Familiaridad",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Echo",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Sinfonía",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_6"
+	},
+	"imitation_7": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Un Calor Natural",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Advertencia de Congelación",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Tú Sabes lo Mejor",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_7"
+	},
+	"imitation_8": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Asociación Pasiva",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Las Olas del Mar",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Una Canción de Secretos",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_8"
+	},
+	"imitation_9": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Un Trato Especial",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Contrato Igualitario",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Una Apuesta",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_9"
+	},
+	"imitation_10": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Respeto",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Buena Asociación",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Amistades y Armas",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_10"
+	},
+	"imitation_11": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Recuerdos",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Obsesiones",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Compañía",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_11"
+	},
+	"imitation_12": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Es un Placer Conocerte",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Un Alma Servicial",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Promesas",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_12"
+	},
+	"imitation_13": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Amistad Identificada",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Romance Optimista",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Bromeando",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_13"
+	},
+	"imitation_14": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Lista de Tareas",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: No es Saludable",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Sueño de los Aberrantes",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Promesa",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_14"
+	},
+	"imitation_15": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Brisa Marina Salada",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Viaje Agradable",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Hacia el Futuro",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_15"
+	},
+	"imitation_16": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Título",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Uniendo Corazones",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Tu Verdadero Ser",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_16"
+	},
+	"imitation_17": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Renacimiento y Coexistencia",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Operaciones Experimentales",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Frente al Ojo Biónico",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_17"
+	},
+	"imitation_18": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Soy Bai Yuekui",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Explora un Mundo Nuevo",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Tengo Muchas Historias",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_18"
+	},
+	"imitation_20": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Acechantes del Apocalipsis",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Reglas y Realidad",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Pensamientos Sobre el Presente",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_20"
+	},
+	"imitation_21": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: La Nueva Amistad de Dolly",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Lo Desconocido",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Postsueño",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_21"
+	},
+	"imitation_22": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Capitana de las Fuerzas Especiales",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Superflujo",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Saki",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_22"
+	},
+	"imitation_23": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Diferencias de Fe",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Espejo",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Vida en la Oscuridad",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_23"
+	},
+	"imitation_24": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Equipo",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Enlace",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Rastreo",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_24"
+	},
+	"imitation_28": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Espadas y Ballestas",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: La Supuesta Justicia",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: No es un Demonio Después de Todo",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_28"
+	},
+	"imitation_29": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Identidad Diferente",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Flor Lunar",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Estrellas en Sueños",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_29"
+	},
+	"imitation_26": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: El Guardaespaldas y el Trabajo de Medio Tiempo",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Otro Fin de Línea",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Mi Maestre",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_26"
+	},
+	"imitation_30": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Agente de las Fuerzas Especiales",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Nombre Clave de la Operación",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Tú y Yo",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_30"
+	},
+	"imitation_31": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Espejo Roto",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Imagen Virtual",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Primer Contacto",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_31"
+	},
+	"imitation_32": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: El Chocolate está Prohibido",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Familia de Fenrir",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Fenrir Te está Buscando",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_32"
+	},
+	"imitation_34": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Espejia",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Tierra de Calamidad",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Destino común",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_34"
+	},
+	"imitation_35": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Aloha",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Confesión",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Lado a Lado",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_35"
+	},
+	"imitation_36": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Arconte Fiona",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Innars",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: una canción de valentía",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_36"
+	},
+	"imitation_27": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Equipo de Exploración",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Diario de Aventuras",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Vistazo a la Isla Espectro",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_27"
+	},
+	"imitation_48": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Trueno",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Lluvia Amarga",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Resurgimiento",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_48"
+	},
+	"imitation_37": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: De cosecha propia",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Detalles",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Creciendo",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_37"
+	},
+	"imitation_38": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Artista Marcial Yu Lan",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Anécdotas de las Artes Marciales",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Conversación profunda",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_38"
+	},
+	"imitation_50": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Alguien familiar",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Un hombre sin pasado",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Desde el futuro",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Recordando Sufrimientos Pasados",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_50"
+	},
+	"imitation_41": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Nuevo brote de bambú",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Bambú cultivado",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Cielo azul",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Nombre de Mascota",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_41"
+	},
+	"imitation_43": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Hacia Pantanovilla",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Peso del Líder de la Guardia",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Música y Pasión",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Torre en el Mundo Exterior",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_43"
+	},
+	"imitation_51": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Visión de Flores",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: En el Pasado",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Eventos Recientes",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Probando",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Silenciar",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Charla Virtual",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Del Papel a la Realidad",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_33"
+	}
+}

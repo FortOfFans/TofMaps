@@ -1,0 +1,948 @@
+{
+	"imitation_1": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Baffling Conversation",
+				"stage": 600
+			},
+			{
+				"text": "Log: Rules",
+				"stage": 2000
+			},
+			{
+				"text": "Log: \"Zero\"",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_1"
+	},
+	"imitation_2": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Taking Over the Liability",
+				"stage": 600
+			},
+			{
+				"text": "Log: A Want for Power",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Future of Machines",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_2"
+	},
+	"imitation_3": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Cold Conversation",
+				"stage": 600
+			},
+			{
+				"text": "Log: Freezing Days",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Snow Melting",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_3"
+	},
+	"imitation_4": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Song of the Road",
+				"stage": 600
+			},
+			{
+				"text": "Log: Why We Fight",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Quo Vadis",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_4"
+	},
+	"imitation_5": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Dance Alone",
+				"stage": 600
+			},
+			{
+				"text": "Log: Resonansi",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Concerto",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_5"
+	},
+	"imitation_6": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Acquaintance",
+				"stage": 600
+			},
+			{
+				"text": "Log: Echo",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Symphony",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_6"
+	},
+	"imitation_7": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Natural Warmth",
+				"stage": 600
+			},
+			{
+				"text": "Log: Freeze Warning",
+				"stage": 2000
+			},
+			{
+				"text": "Log: You Know Best",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_7"
+	},
+	"imitation_8": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Passive Partnership",
+				"stage": 600
+			},
+			{
+				"text": "Log: Waves of the Sea",
+				"stage": 2000
+			},
+			{
+				"text": "Log: A Song of Secrets",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_8"
+	},
+	"imitation_9": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Eventful Deal",
+				"stage": 600
+			},
+			{
+				"text": "Log: Equal Contract",
+				"stage": 2000
+			},
+			{
+				"text": "Log: A Bet",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_9"
+	},
+	"imitation_10": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Respect",
+				"stage": 600
+			},
+			{
+				"text": "Log: Good Partnership",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Teman dan Senjata",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_10"
+	},
+	"imitation_11": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Memories",
+				"stage": 600
+			},
+			{
+				"text": "Log: Obsessions",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Companionship",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_11"
+	},
+	"imitation_12": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Senang Berkenalan Denganmu",
+				"stage": 600
+			},
+			{
+				"text": "Log: A Helpful Soul",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Promises",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_12"
+	},
+	"imitation_13": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Friend Identified",
+				"stage": 600
+			},
+			{
+				"text": "Log: Optimist Romance",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Joking",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_13"
+	},
+	"imitation_14": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Job List",
+				"stage": 600
+			},
+			{
+				"text": "Log: Not Very Healthy",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Aberrants' Dream",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Janji",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_14"
+	},
+	"imitation_15": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Salty Sea Breeze",
+				"stage": 600
+			},
+			{
+				"text": "Log: Enjoyable Journey",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Toward the Future",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_15"
+	},
+	"imitation_16": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Title",
+				"stage": 600
+			},
+			{
+				"text": "Log: Bridging Hearts",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Your True Self",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_16"
+	},
+	"imitation_17": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Rebirth and Coexistence",
+				"stage": 600
+			},
+			{
+				"text": "Log: Experimental Operations",
+				"stage": 2000
+			},
+			{
+				"text": "Log: In Front of the Bionic Eye",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_17"
+	},
+	"imitation_18": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: I am Bai Yuekui",
+				"stage": 600
+			},
+			{
+				"text": "Log: Explore a New World",
+				"stage": 2000
+			},
+			{
+				"text": "Log: I Have Many Stories",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_18"
+	},
+	"imitation_20": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Doomsday Hunter",
+				"stage": 600
+			},
+			{
+				"text": "Log: Rules and Reality",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Thoughts about the Present",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_20"
+	},
+	"imitation_21": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Dolly's New Friend",
+				"stage": 600
+			},
+			{
+				"text": "Log: The Unknown",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Post-Dream",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_21"
+	},
+	"imitation_22": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Kapten Pasukan Khusus",
+				"stage": 600
+			},
+			{
+				"text": "Log: Aliran Super",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Saki",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_22"
+	},
+	"imitation_23": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Beda Keyakinan",
+				"stage": 600
+			},
+			{
+				"text": "Log: Cermin",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Hidup Dalam Kegelapan",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_23"
+	},
+	"imitation_24": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Peralatan",
+				"stage": 600
+			},
+			{
+				"text": "Log: Keterkaitan",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Sesuai Rencana",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_24"
+	},
+	"imitation_28": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Swords and Crossbows",
+				"stage": 600
+			},
+			{
+				"text": "Log: So-called Justice",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Not a Demon After All",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_28"
+	},
+	"imitation_29": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Identitas Berbeda",
+				"stage": 600
+			},
+			{
+				"text": "Log: Moonflower",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Bintang Dalam Mimpi",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_29"
+	},
+	"imitation_26": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Pengawal dan Pekerjaan Paruh Waktu",
+				"stage": 600
+			},
+			{
+				"text": "Log: Sisi Lain Panggilan",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Masterku",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_26"
+	},
+	"imitation_30": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Agen Pasukan Khusus",
+				"stage": 600
+			},
+			{
+				"text": "Log: Nama Kode Operasi",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Kamu dan Aku",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_30"
+	},
+	"imitation_31": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Cermin Rusak",
+				"stage": 600
+			},
+			{
+				"text": "Log: Gambar Virtual",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Kontak Pertama",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_31"
+	},
+	"imitation_32": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Dilarang Makan Cokelat",
+				"stage": 600
+			},
+			{
+				"text": "Log: Keluarga Fenrir",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Fenrir mencarimu",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_32"
+	},
+	"imitation_34": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Mirroria",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Tanah Bencana",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Takdir Serupa",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_34"
+	},
+	"imitation_35": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Aloha",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Pengakuan",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Berdampingan",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_35"
+	},
+	"imitation_36": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Archon Fiona",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Innars",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Lagu Keberanian",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_36"
+	},
+	"imitation_27": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Tim Eksplorasi",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Buku Harian Petualangan",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Penampakan Hantu Pulau Semilir",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_27"
+	},
+	"imitation_48": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Petir",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Hujan Pahit",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Kebangkitan",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_48"
+	},
+	"imitation_37": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Penduduk Asli",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Detail Yang Rumit",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Tumbuh Besar",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_37"
+	},
+	"imitation_38": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Yu Lan Ahli Bela Diri",
+				"stage": 600
+			},
+			{
+				"text": "Log: Anekdot Bela Diri",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Obrolan Berat",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_38"
+	},
+	"imitation_50": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Seseorang Yang Tak Asing",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Pria Tanpa Masa Lalu",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Dari Masa Depan",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Memori Penderitaan Masa Lalu",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_50"
+	},
+	"imitation_41": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Rebung Baru",
+				"stage": 600
+			},
+			{
+				"text": "Log: Bambu Jadi",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Langit Biru",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Nama Panggilan Imut",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_41"
+	},
+	"imitation_43": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Pimpinan Marshville",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Beban Di Pundak Komandan Pengawal",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Musik Dan Passion",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Tower Di Dunia Luar",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_43"
+	},
+	"imitation_51": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Pemandangan Kebun Bunga",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Kejadian Masa Lalu",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Event Terbaru",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Uji Coba",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Bisu",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Obrolan Virtual",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Dari Angan Jadi Kenyataan",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_33"
+	}
+}

@@ -1,0 +1,948 @@
+{
+	"imitation_1": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Baffling Conversation",
+				"stage": 600
+			},
+			{
+				"text": "Log: Rules",
+				"stage": 2000
+			},
+			{
+				"text": "Log: \"Zero\"",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_1"
+	},
+	"imitation_2": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Taking Over the Liability",
+				"stage": 600
+			},
+			{
+				"text": "Log: A Want for Power",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Future of Machines",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_2"
+	},
+	"imitation_3": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Cold Conversation",
+				"stage": 600
+			},
+			{
+				"text": "Log: Freezing Days",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Snow Melting",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_3"
+	},
+	"imitation_4": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Song of the Road",
+				"stage": 600
+			},
+			{
+				"text": "Log: Why We Fight",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Quo Vadis",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_4"
+	},
+	"imitation_5": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Dance Alone",
+				"stage": 600
+			},
+			{
+				"text": "Log: Resonance",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Concerto",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_5"
+	},
+	"imitation_6": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Acquaintance",
+				"stage": 600
+			},
+			{
+				"text": "Log: Echo",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Symphony",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_6"
+	},
+	"imitation_7": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Natural Warmth",
+				"stage": 600
+			},
+			{
+				"text": "Log: Freeze Warning",
+				"stage": 2000
+			},
+			{
+				"text": "Log: You Know Best",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_7"
+	},
+	"imitation_8": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Passive Partnership",
+				"stage": 600
+			},
+			{
+				"text": "Log: Waves of the Sea",
+				"stage": 2000
+			},
+			{
+				"text": "Log: A Song of Secrets",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_8"
+	},
+	"imitation_9": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Eventful Deal",
+				"stage": 600
+			},
+			{
+				"text": "Log: Equal Contract",
+				"stage": 2000
+			},
+			{
+				"text": "Log: A Bet",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_9"
+	},
+	"imitation_10": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Respect",
+				"stage": 600
+			},
+			{
+				"text": "Log: Good Partnership",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Friends and Weapons",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_10"
+	},
+	"imitation_11": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Memories",
+				"stage": 600
+			},
+			{
+				"text": "Log: Obsessions",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Companionship",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_11"
+	},
+	"imitation_12": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Nice to Meet You",
+				"stage": 600
+			},
+			{
+				"text": "Log: A Helpful Soul",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Promises",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_12"
+	},
+	"imitation_13": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Friend Identified",
+				"stage": 600
+			},
+			{
+				"text": "Log: Optimist Romance",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Joking",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_13"
+	},
+	"imitation_14": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Job List",
+				"stage": 600
+			},
+			{
+				"text": "Log: Not Very Healthy",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Aberrants' Dream",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Promise",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_14"
+	},
+	"imitation_15": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Salty Sea Breeze",
+				"stage": 600
+			},
+			{
+				"text": "Log: Enjoyable Journey",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Toward the Future",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_15"
+	},
+	"imitation_16": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Title",
+				"stage": 600
+			},
+			{
+				"text": "Log: Bridging Hearts",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Your True Self",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_16"
+	},
+	"imitation_17": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Rebirth and Coexistence",
+				"stage": 600
+			},
+			{
+				"text": "Log: Experimental Operations",
+				"stage": 2000
+			},
+			{
+				"text": "Log: In Front of the Bionic Eye",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_17"
+	},
+	"imitation_18": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: I am Bai Yuekui",
+				"stage": 600
+			},
+			{
+				"text": "Log: Explore a New World",
+				"stage": 2000
+			},
+			{
+				"text": "Log: I Have Many Stories",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_18"
+	},
+	"imitation_20": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Doomsday Hunters",
+				"stage": 600
+			},
+			{
+				"text": "Log: Rules and Reality",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Thoughts about the Present",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_20"
+	},
+	"imitation_21": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Dolly's New Friend",
+				"stage": 600
+			},
+			{
+				"text": "Log: The Unknown",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Post-Dream",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_21"
+	},
+	"imitation_22": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Special Forces Captain",
+				"stage": 600
+			},
+			{
+				"text": "Log: Super Flow",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Saki",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_22"
+	},
+	"imitation_23": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Different Faiths",
+				"stage": 600
+			},
+			{
+				"text": "Log: Mirror",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Life in the Dark",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_23"
+	},
+	"imitation_24": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Gear",
+				"stage": 600
+			},
+			{
+				"text": "Log: Link",
+				"stage": 2000
+			},
+			{
+				"text": "Log: On Track",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_24"
+	},
+	"imitation_28": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Swords and Crossbows",
+				"stage": 600
+			},
+			{
+				"text": "Log: So-called Justice",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Not a Demon After All",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_28"
+	},
+	"imitation_29": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Different Identity",
+				"stage": 600
+			},
+			{
+				"text": "Log: Moonflower",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Stars in Dream",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_29"
+	},
+	"imitation_26": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Bodyguard and the Part-time Job",
+				"stage": 600
+			},
+			{
+				"text": "Log: Other End of the Line",
+				"stage": 2000
+			},
+			{
+				"text": "Log: My Master",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_26"
+	},
+	"imitation_30": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Special Forces Agent",
+				"stage": 600
+			},
+			{
+				"text": "Log: Operation Codename",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Me and You",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_30"
+	},
+	"imitation_31": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Broken Mirror",
+				"stage": 600
+			},
+			{
+				"text": "Log: Virtual Image",
+				"stage": 2000
+			},
+			{
+				"text": "Log: First Contact",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_31"
+	},
+	"imitation_32": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Chocolate is Prohibited",
+				"stage": 600
+			},
+			{
+				"text": "Log: Fenrir's Family",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Fenrir is looking for you",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_32"
+	},
+	"imitation_34": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Mirroria",
+				"stage": 600
+			},
+			{
+				"text": "Log: Land of Calamity",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Common Destiny",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_34"
+	},
+	"imitation_35": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Aloha",
+				"stage": 600
+			},
+			{
+				"text": "Log: Coming Clean",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Side by Side",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_35"
+	},
+	"imitation_36": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Archon Fiona",
+				"stage": 600
+			},
+			{
+				"text": "Log: Innars",
+				"stage": 2000
+			},
+			{
+				"text": "Log: A Song of Courage",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_36"
+	},
+	"imitation_27": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Exploration Team",
+				"stage": 600
+			},
+			{
+				"text": "Log: Adventure Journal",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Glimpse of Specter Isle",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_27"
+	},
+	"imitation_48": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Thunder",
+				"stage": 600
+			},
+			{
+				"text": "Log: Bitter Rain",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Resurgence",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_48"
+	},
+	"imitation_37": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Homegrown",
+				"stage": 600
+			},
+			{
+				"text": "Log: Intricate Details",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Growing Up",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_37"
+	},
+	"imitation_38": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Martial Artist Yu Lan",
+				"stage": 600
+			},
+			{
+				"text": "Log: Martial Arts Anecdotes",
+				"stage": 2000
+			},
+			{
+				"text": "Log: In-Depth Conversation",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_38"
+	},
+	"imitation_50": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Someone Familiar",
+				"stage": 600
+			},
+			{
+				"text": "Log: A Man With No Past",
+				"stage": 2000
+			},
+			{
+				"text": "Log: From the Future",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Those Who Remember the Past Sufferings",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_50"
+	},
+	"imitation_41": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: New Bamboo Shoot",
+				"stage": 600
+			},
+			{
+				"text": "Log: Grown Bamboo",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Blue Sky",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Petname",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_41"
+	},
+	"imitation_43": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Head of Marshville",
+				"stage": 600
+			},
+			{
+				"text": "Log: Weight on the Guard Chief",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Music and Passion",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Tower in the Outside World",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_43"
+	},
+	"imitation_51": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Vision of Flowers",
+				"stage": 600
+			},
+			{
+				"text": "Log: In the Past",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Recent Events",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Trying on",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Mute",
+				"stage": 600
+			},
+			{
+				"text": "Log: Virtual Chat",
+				"stage": 2000
+			},
+			{
+				"text": "Log: From Paper to Reality",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_33"
+	}
+}

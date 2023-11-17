@@ -1,0 +1,948 @@
+{
+	"imitation_1": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Uma Conversa Desconcertante",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Regras",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: \"Zero\"",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_1"
+	},
+	"imitation_2": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Assumindo a Responsabilidade",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Desejo de Poder",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: O Futuro das Máquinas",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_2"
+	},
+	"imitation_3": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Uma Conversa Fria",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Dias Congelantes",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Derretimento de Neve",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_3"
+	},
+	"imitation_4": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Uma Canção da Estrada",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Por Que Lutamos",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Quo Vadis",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_4"
+	},
+	"imitation_5": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Dança Solitária",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Ressonância",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Concerto",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_5"
+	},
+	"imitation_6": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Conhecido",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Echo",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Sinfonia",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_6"
+	},
+	"imitation_7": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Um Calor Natural",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Alerta de Congelamento",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Você Sabe Bem",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_7"
+	},
+	"imitation_8": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Parceria Passiva",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Ondas do Mar",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Uma Canção de Segredos",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_8"
+	},
+	"imitation_9": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Negócio Agitado",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Contrato Recíproco",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Uma Aposta",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_9"
+	},
+	"imitation_10": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Respeito",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Boa Parceria",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Amigos e Armas",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_10"
+	},
+	"imitation_11": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Lembranças",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Obsessões",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Companheirismo",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_11"
+	},
+	"imitation_12": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Muito Prazer",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Uma Alma ao Socorro",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Promessas",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_12"
+	},
+	"imitation_13": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Amigo Identificado",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Romance Otimista",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Brincando",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_13"
+	},
+	"imitation_14": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Lista de Trabalhos",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Não Muito Saudável",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Sonho de Anômalos",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Promessa",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_14"
+	},
+	"imitation_15": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Brisa Marinha Salgada",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Jornada Aprazível",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Rumo ao Futuro",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_15"
+	},
+	"imitation_16": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Um Título",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Conectando Corações",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Seu Verdadeiro Eu",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_16"
+	},
+	"imitation_17": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Renascimento e Coexistência",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Operações Experimentais",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Diante do Olho Biônico",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_17"
+	},
+	"imitation_18": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Eu sou Bai Yuekui",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Explore um Novo Mundo",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Tenho Muitas Histórias",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_18"
+	},
+	"imitation_20": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Caçadores do Juízo Final",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Regras e Realidade",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Pensamentos sobre o Presente",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_20"
+	},
+	"imitation_21": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Amizade Nova da Lilica",
+				"stage": 600
+			},
+			{
+				"text": "Diário: O Desconhecido",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Pós-Sonho",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_21"
+	},
+	"imitation_22": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Capitã das Forças Especiais",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Superflow",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Saki",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_22"
+	},
+	"imitation_23": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Fés Diferentes",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Espelho",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: A Vida no Escuro",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_23"
+	},
+	"imitation_24": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Equipamento",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Elo",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: No Rastro",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_24"
+	},
+	"imitation_28": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Espadas e Balestras",
+				"stage": 600
+			},
+			{
+				"text": "Diário: A Tal Justiça",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Nada de Demônio, Afinal",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_28"
+	},
+	"imitation_29": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Identidade Diferente",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Flor Lunar",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Estrelas em Sonho",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_29"
+	},
+	"imitation_26": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Guarda-Costas e o Trabalho de Meio Período",
+				"stage": 600
+			},
+			{
+				"text": "Diário: O Outro Fim da Linha",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Meu Mestre",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_26"
+	},
+	"imitation_30": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Agente das Forças Especiais",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Codinome de Operação",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Eu e Você",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_30"
+	},
+	"imitation_31": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Espelho Quebrado",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Imagem Virtual",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Primeiro Contato",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_31"
+	},
+	"imitation_32": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: É Proibido Chocolate",
+				"stage": 600
+			},
+			{
+				"text": "Diário: A Família de Fenrir",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Fenrir está Procurando Você",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_32"
+	},
+	"imitation_34": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Reflexia",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Terra da Calamidade",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Destino Comum",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_34"
+	},
+	"imitation_35": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Aloha",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Em Pratos Limpos",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Lado a Lado",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_35"
+	},
+	"imitation_36": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Arconte Fiona",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Innars",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Uma Canção da Coragem",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_36"
+	},
+	"imitation_27": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Equipe de Exploração",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Diário de Aventura",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Vislumbre da Ilha do Espectro",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_27"
+	},
+	"imitation_48": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Trovão",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Chuva Amarga",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Renascimento",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_48"
+	},
+	"imitation_37": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Caseiro",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Detalhes Intrincados",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Crescendo",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_37"
+	},
+	"imitation_38": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Yu Lan, Artista Marcial",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Anedotas de Artes Marciais",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Conversa Detalhada",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_38"
+	},
+	"imitation_50": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Uma Pessoa Familiar",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Homem sem Passado",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Do Futuro",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Aqueles que Lembram do Sofrimento",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_50"
+	},
+	"imitation_41": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Novo Broto de Bambu",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Bambu Maduro",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Céu Azul",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Apelido",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_41"
+	},
+	"imitation_43": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Chefe de Vilagos",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Peso no Chefe da Guarda",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Música e Paixão",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Torre no Mundo Exterior",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_43"
+	},
+	"imitation_51": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Vista das Flores",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Antigamente",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Acontecimentos Recentes",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Experimentando",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Mudo",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Papo Virtual",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Do Papel à Realidade",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_33"
+	}
+}

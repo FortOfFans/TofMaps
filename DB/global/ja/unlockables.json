@@ -1,0 +1,948 @@
+{
+	"imitation_1": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「不可解な会話」",
+				"stage": 600
+			},
+			{
+				"text": "通信「ルール」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「ゼロの『ゼロ』」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_1"
+	},
+	"imitation_2": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「責任の継承」",
+				"stage": 600
+			},
+			{
+				"text": "通信「強さへの憧れ」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「機械の未来」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_2"
+	},
+	"imitation_3": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「冷たい会話」",
+				"stage": 600
+			},
+			{
+				"text": "通信「極寒の日々」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「雪解け」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_3"
+	},
+	"imitation_4": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「旅路の歌」",
+				"stage": 600
+			},
+			{
+				"text": "通信「戦闘の理由」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「あえて行く先を問うなら」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_4"
+	},
+	"imitation_5": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「ダンス」",
+				"stage": 600
+			},
+			{
+				"text": "通信「共振」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「伴奏」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_5"
+	},
+	"imitation_6": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「知人」",
+				"stage": 600
+			},
+			{
+				"text": "通信「反響」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「シンフォニー」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_6"
+	},
+	"imitation_7": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「天然の温もり",
+				"stage": 600
+			},
+			{
+				"text": "通信「温度低下アラート",
+				"stage": 2000
+			},
+			{
+				"text": "通信「分かるよ",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_7"
+	},
+	"imitation_8": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「受け身のパートナー」",
+				"stage": 600
+			},
+			{
+				"text": "通信「海面の波乱」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「秘蔵の歌」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_8"
+	},
+	"imitation_9": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「貿易摩擦",
+				"stage": 600
+			},
+			{
+				"text": "通信「対等な協力",
+				"stage": 2000
+			},
+			{
+				"text": "通信「ギャンブル契約",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_9"
+	},
+	"imitation_10": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「尊重」",
+				"stage": 600
+			},
+			{
+				"text": "通信「楽しいコラボ」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「仲間と武器」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_10"
+	},
+	"imitation_11": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「いくつかの記憶」",
+				"stage": 600
+			},
+			{
+				"text": "通信「いくつかのこだわり」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「同伴者たち」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_11"
+	},
+	"imitation_12": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「どうぞよろしく」",
+				"stage": 600
+			},
+			{
+				"text": "通信「優しい心」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「約束」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_12"
+	},
+	"imitation_13": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「志を共にする」",
+				"stage": 600
+			},
+			{
+				"text": "通信「楽天家の嗜好」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「冗談」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_13"
+	},
+	"imitation_14": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「作業リスト」",
+				"stage": 600
+			},
+			{
+				"text": "通信「まあまあ健康」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「ミュータントも夢を見る」",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Janji",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "アイコン・*",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_14"
+	},
+	"imitation_15": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「塩辛い海風」",
+				"stage": 600
+			},
+			{
+				"text": "通信「のんびり旅行」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「未来へ旅立つ」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_15"
+	},
+	"imitation_16": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「呼び名」",
+				"stage": 600
+			},
+			{
+				"text": "通信「心の架け橋」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「本当の自分」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_16"
+	},
+	"imitation_17": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「新生と共生」",
+				"stage": 600
+			},
+			{
+				"text": "通信「実験運用」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「義眼の先」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_17"
+	},
+	"imitation_18": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「私は白月神」",
+				"stage": 600
+			},
+			{
+				"text": "通信「新世界認識」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「積もる話」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_18"
+	},
+	"imitation_20": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「終末のハンターズ」",
+				"stage": 600
+			},
+			{
+				"text": "通信「現実と法則」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「今を考える」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_20"
+	},
+	"imitation_21": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「ドリーの新しい友達」",
+				"stage": 600
+			},
+			{
+				"text": "通信「分からないこと」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「夢の後」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_21"
+	},
+	"imitation_22": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「特殊部隊長」",
+				"stage": 600
+			},
+			{
+				"text": "通信「超心流」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「咲」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_22"
+	},
+	"imitation_23": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「それぞれの信念」",
+				"stage": 600
+			},
+			{
+				"text": "通信「曇りなき心」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「闇に咲く花」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_23"
+	},
+	"imitation_24": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「歯車」",
+				"stage": 600
+			},
+			{
+				"text": "通信「連鎖」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「正しい道」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_24"
+	},
+	"imitation_28": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「一触即発」",
+				"stage": 600
+			},
+			{
+				"text": "通信「正義とは」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「悪魔じゃない」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_28"
+	},
+	"imitation_29": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「もう1つの顔」",
+				"stage": 600
+			},
+			{
+				"text": "通信「ツキメソウ」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「夢の天体」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_29"
+	},
+	"imitation_26": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「用心棒とアルバイト」",
+				"stage": 600
+			},
+			{
+				"text": "通信「電話の向こう」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「自分の主」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_26"
+	},
+	"imitation_30": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「特殊部隊隊員」",
+				"stage": 600
+			},
+			{
+				"text": "通信「作戦コードネーム」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「私とあなたたち」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_30"
+	},
+	"imitation_31": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「割れた鏡」",
+				"stage": 600
+			},
+			{
+				"text": "通信「虚像」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「ファーストコンタクト」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_31"
+	},
+	"imitation_32": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「チョコレート禁止」",
+				"stage": 600
+			},
+			{
+				"text": "通信「フェンリルの家族」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「フェンリルが会いたがっている」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_32"
+	},
+	"imitation_34": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「ミラポリス」",
+				"stage": 600
+			},
+			{
+				"text": "通信「厄災の地」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「運命共同体」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_34"
+	},
+	"imitation_35": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「こんにちは」",
+				"stage": 600
+			},
+			{
+				"text": "通信「吐露」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「協力」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_35"
+	},
+	"imitation_36": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「オフィサー・フィオナ」",
+				"stage": 600
+			},
+			{
+				"text": "通信「インニス」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「勇気の歌」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_36"
+	},
+	"imitation_27": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「探検隊」",
+				"stage": 600
+			},
+			{
+				"text": "通信「冒険記」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「幽霊島」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_27"
+	},
+	"imitation_48": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「雷鳴」",
+				"stage": 600
+			},
+			{
+				"text": "通信「苦い雨」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「再びの波乱」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_48"
+	},
+	"imitation_37": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「生まれと育ち」",
+				"stage": 600
+			},
+			{
+				"text": "通信「萌えゆく若葉のように」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「成長途中」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_37"
+	},
+	"imitation_38": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「武人玉蘭」",
+				"stage": 600
+			},
+			{
+				"text": "通信「修行の裏話」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「膝を交えて」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_38"
+	},
+	"imitation_50": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「類似」",
+				"stage": 600
+			},
+			{
+				"text": "通信「空白」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「未来」",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Memori Penderitaan Masa Lalu",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "アイコン・*",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_50"
+	},
+	"imitation_41": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「新筍」",
+				"stage": 600
+			},
+			{
+				"text": "通信「成竹」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「青空」",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Nama Panggilan Imut",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "アイコン・*",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_41"
+	},
+	"imitation_43": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Pimpinan Marshville",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Beban Di Pundak Komandan Pengawal",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Musik Dan Passion",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Tower Di Dunia Luar",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "アイコン・*",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_43"
+	},
+	"imitation_51": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "通信「咲き誇る花」",
+				"stage": 600
+			},
+			{
+				"text": "通信「往時」",
+				"stage": 2000
+			},
+			{
+				"text": "通信「今事」",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Uji Coba",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "アイコン・*",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"unlockables": [
+			{
+				"text": "アイコン・*",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Bisu",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Obrolan Virtual",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Dari Angan Jadi Kenyataan",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_33"
+	}
+}

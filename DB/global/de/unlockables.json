@@ -1,0 +1,948 @@
+{
+	"imitation_1": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Ein verblüffendes Gespräch",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Regeln",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: „Zero“",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_1"
+	},
+	"imitation_2": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Übernahme der Haftung",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Der Griff nach Macht",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Die Zukunft der Maschinen",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_2"
+	},
+	"imitation_3": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Kalte Worte",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Eiskalte Tage",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Schneeschmelze",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_3"
+	},
+	"imitation_4": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Ein Lied der Straßen",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Warum wir kämpfen",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Quo Vadis",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_4"
+	},
+	"imitation_5": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Solotanz",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Resonanz",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Konzert",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_5"
+	},
+	"imitation_6": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Bekanntschaft",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Echo",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Symphonie",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_6"
+	},
+	"imitation_7": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Natürliche Wärme",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Frost-Warnung",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Du weißt es am besten",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_7"
+	},
+	"imitation_8": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Passive Partnerschaft",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Meereswogen",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Ein Lied der Geheimnisse",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_8"
+	},
+	"imitation_9": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Event-Angebot",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Gleichberechtigter Vertrag",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Eine Wette",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_9"
+	},
+	"imitation_10": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Respekt",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Gute Partnerschaft",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Freunde und Waffen",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_10"
+	},
+	"imitation_11": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Erinnerungen",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Leidenschaften",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Kameradschaft",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_11"
+	},
+	"imitation_12": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Schön, dich kennenzulernen.",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Eine gute Seele",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Versprechen",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_12"
+	},
+	"imitation_13": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Freund identifiziert",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Optimistische Romanze",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Witze",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_13"
+	},
+	"imitation_14": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Jobliste",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Nicht sehr gesund",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Traum des Aberranten",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Versprechen",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_14"
+	},
+	"imitation_15": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Salzige Meeresbriese",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Angenehme Reise",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: In die Zukunft",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_15"
+	},
+	"imitation_16": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Ein Titel",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Herzen verbinden",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Dein wahres Selbst",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_16"
+	},
+	"imitation_17": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Wiedergeburt und Koexistenz",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Experimentelle Operationen",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Vor dem bionischen Auge",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_17"
+	},
+	"imitation_18": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Ich bin Bai Yuekui",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Eine neue Welt erkunden",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Ich habe viele Geschichten zu erzählen",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_18"
+	},
+	"imitation_20": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Weltuntergangsjäger",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Regeln und Realität",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Gedanken über die Gegenwart",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_20"
+	},
+	"imitation_21": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Dollys neuer Freund",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Das Unbekannte",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Nach dem Traum",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_21"
+	},
+	"imitation_22": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Teamleiterin der Spezialkräfte",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Super-Flow",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Saki",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_22"
+	},
+	"imitation_23": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Unterschiedliche Überzeugungen",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Spiegel",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Leben in der Dunkelheit",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_23"
+	},
+	"imitation_24": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Ausrüstung",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Verbindung",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Auf Schiene",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_24"
+	},
+	"imitation_28": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Schwerter und Armbrüste",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Sogenannte Gerechtigkeit",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Sie ist doch keine Dämonin.",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_28"
+	},
+	"imitation_29": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Andere Identität",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Mondblume",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Sterne im Traum",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_29"
+	},
+	"imitation_26": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Der Leibwächter und der Nebenjob",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Am anderen Ende der Leitung",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Mein Meister",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_26"
+	},
+	"imitation_30": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Spezialkräfte-Agent",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Operation Codename",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Du und ich",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_30"
+	},
+	"imitation_31": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Kaputter Spiegel",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Virtuelles Bild",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Erster Kontakt",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_31"
+	},
+	"imitation_32": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Schokolade ist verboten.",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Fenrirs Familie",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Fenrir sucht nach dir.",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_32"
+	},
+	"imitation_34": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Mirroria",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Land des Verhängnisses",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Gemeinsames Schicksal",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_34"
+	},
+	"imitation_35": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Aloha",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Farbe bekennen",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Seite an Seite",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_35"
+	},
+	"imitation_36": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Archon Fiona",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Innars",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Ein Lied des Muts",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_36"
+	},
+	"imitation_27": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Erkundungsteam",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Abenteuer-Tagebuch",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Anblick der Geisterinsel",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_27"
+	},
+	"imitation_48": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Donner",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Bitterer Regen",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Wiederauferstehung",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_48"
+	},
+	"imitation_37": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Einheimisch",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Verworrene Details",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Erwachsen werden",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_37"
+	},
+	"imitation_38": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Kampfkünstler Yu Lan",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Kampfkünstler-Anekdoten",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Tiefgründiges Gespräch",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_38"
+	},
+	"imitation_50": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Jemand Bekanntes",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Ein Mann ohne Vergangenheit",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Aus der Zukunft",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Wer sich an die vergangenen Qualen erinnert",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_50"
+	},
+	"imitation_41": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Frische Bambussprossen",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Großgewachsener Bambus",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Blauer Himmel",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Spitzname",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_41"
+	},
+	"imitation_43": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Oberhaupt von Sumpfstadt",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Die Last auf dem Wachtmeister",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Musik und Leidenschaft",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Turm in der Außenwelt",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_43"
+	},
+	"imitation_51": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Blütenteppich",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: In der Vergangenheit",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Kürzliche Ereignisse",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Anprobieren",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Stumm",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Virtueller Chat",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Vom Papier zur Wirklichkeit",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_33"
+	}
+}

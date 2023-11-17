@@ -1,0 +1,948 @@
+{
+	"imitation_1": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: une conversation déconcertante",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: règles",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Zero",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_1"
+	},
+	"imitation_2": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: assumer la responsabilité",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: un désir de pouvoir",
+				"stage": 2000
+			},
+			{
+				"text": "Journal: L'avenir des machines",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_2"
+	},
+	"imitation_3": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: une conversation glaciale",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: journées glaciales",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: fonte des neiges",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_3"
+	},
+	"imitation_4": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal: Un chant de route",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: pourquoi nous combattons",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Quo Vadis",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_4"
+	},
+	"imitation_5": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: danse en solo",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: résonance",
+				"stage": 2000
+			},
+			{
+				"text": "Journal: Concerto",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_5"
+	},
+	"imitation_6": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: connaissance",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: Echo",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: symphonie",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_6"
+	},
+	"imitation_7": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal: une chaleur naturelle",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: avertissement relatif au gel",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: vous savez mieux que quiconque",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_7"
+	},
+	"imitation_8": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: partenariat passif",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: vagues marines",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: un chant de secrets",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_8"
+	},
+	"imitation_9": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: un marché mouvementé",
+				"stage": 600
+			},
+			{
+				"text": "Journal: Contrat égal",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: un pari",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_9"
+	},
+	"imitation_10": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: respect",
+				"stage": 600
+			},
+			{
+				"text": "Journal: un bon partenariat",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: amis et armes",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_10"
+	},
+	"imitation_11": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: mémoires",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: obsessions",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: camaraderie",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_11"
+	},
+	"imitation_12": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: ravi de faire votre connaissance",
+				"stage": 600
+			},
+			{
+				"text": "Journal: une âme serviable",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: promesses",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_12"
+	},
+	"imitation_13": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: ami identifié",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: romance optimiste",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: plaisanter",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_13"
+	},
+	"imitation_14": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal: liste de tâches",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: pas très sain",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: le rêve des aberrants",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Journal de bord: Promesse",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_14"
+	},
+	"imitation_15": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: brise marine salée",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: un agréable voyage",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: vers l'avenir",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_15"
+	},
+	"imitation_16": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: un titre",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: rapprochement des cœurs",
+				"stage": 2000
+			},
+			{
+				"text": "Journalde bord : votre véritable identité",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_16"
+	},
+	"imitation_17": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: Renaissance et coexistence",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: opérations expérimentales",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Face à l'œil bionique",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_17"
+	},
+	"imitation_18": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: je suis Bai Yuekui",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: explorer un nouveau monde",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: j'ai maintes histoires",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_18"
+	},
+	"imitation_20": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord : Chasseurs de l'Apocalypse",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: règles et réalité",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: réflexions sur le présent",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_20"
+	},
+	"imitation_21": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: Le nouvel ami de Dolly",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: l’inconnu",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Après le rêve",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_21"
+	},
+	"imitation_22": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: Capitaine des forces spéciales",
+				"stage": 600
+			},
+			{
+				"text": "Journal: Hyper flux",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Saki",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_22"
+	},
+	"imitation_23": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal: Croyances différentes",
+				"stage": 600
+			},
+			{
+				"text": "Journal: Miroir",
+				"stage": 2000
+			},
+			{
+				"text": "Journal: Une vie dans l'obscurité",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_23"
+	},
+	"imitation_24": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal: Équipement",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: Lien",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: En bonne voie",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_24"
+	},
+	"imitation_28": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: épées et arbalètes",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: La soi-disant justice",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Finalement, ce n'est pas un démon",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_28"
+	},
+	"imitation_29": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: identité différente",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: fleur de lune",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Rêve d'étoiles",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_29"
+	},
+	"imitation_26": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: le garde du corps et son petit boulot",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: à l'autre bout de la ligne",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Mon maître",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_26"
+	},
+	"imitation_30": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: Agent des forces spéciales",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: nom de code d'opération",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: vous et moi",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_30"
+	},
+	"imitation_31": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: miroir brisé",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: Image virtuelle",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Premier contact",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_31"
+	},
+	"imitation_32": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: le chocolat est interdit",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: la famille de Fenrir",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Fenrir vous cherche",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_32"
+	},
+	"imitation_34": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: Mirroria",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: Terre des calamités",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Destin commun",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_34"
+	},
+	"imitation_35": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: Aloha",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: Transparence",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Côte à côte",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_35"
+	},
+	"imitation_36": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord : archonte Fiona",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord : Innars",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: le Chant du courage",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_36"
+	},
+	"imitation_27": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord : Groupe d'exploration",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord : Histoires d'aventures",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord : Aperçu de l'île fantôme",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_27"
+	},
+	"imitation_48": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord : Tonnerre",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord : Pluie amère",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord : Réapparition",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_48"
+	},
+	"imitation_37": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: Production locale",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: Détails complexes",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Grandir",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_37"
+	},
+	"imitation_38": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: YuLan artiste martiale",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: Anecdotes sur les arts martiaux",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Conversation profonde",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_38"
+	},
+	"imitation_50": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: quelqu'un de familier",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: un homme sans passé",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: originaire du futur",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Journal de bord: Ceux qui se souviennent des souffrances passées",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_50"
+	},
+	"imitation_41": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord : Pousses de bambou",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord : bambou adulte",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord : Ciel bleu",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Journal de bord: Petit nom",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_41"
+	},
+	"imitation_43": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: Chef de Villemarais",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: Charge du chef de garde",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Musique et passion",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Journal de bord: La tour du monde extérieur",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_43"
+	},
+	"imitation_51": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: Vision de fleurs",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: Dans le passé",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Événements récents",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Journal de bord: Essayage",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Journal de bord: Sourdine",
+				"stage": 600
+			},
+			{
+				"text": "Journal de bord: Chat virtuel",
+				"stage": 2000
+			},
+			{
+				"text": "Journal de bord: Du papier à la réalité",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_33"
+	}
+}

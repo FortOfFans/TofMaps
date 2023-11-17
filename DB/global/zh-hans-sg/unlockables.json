@@ -1,0 +1,948 @@
+{
+	"imitation_1": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 不解的对话",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 规则",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 零的『零』",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_1"
+	},
+	"imitation_2": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「责任继承」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「向往强者」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「机器的未来」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_2"
+	},
+	"imitation_3": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 冷漠的交谈",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 严寒日常",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 融化的冰雪",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_3"
+	},
+	"imitation_4": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「旅途之歌」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「战斗的理由」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「敢问路在何方」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_4"
+	},
+	"imitation_5": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 独舞",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 共振",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 协奏",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_5"
+	},
+	"imitation_6": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「相识」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「回声」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「交响」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_6"
+	},
+	"imitation_7": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 天然暖意",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 降温报警",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 冷热自知",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_7"
+	},
+	"imitation_8": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「被动搭档」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「海面波澜」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「秘藏之歌」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_8"
+	},
+	"imitation_9": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 交易摩擦",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 对等合同",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 赌约",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_9"
+	},
+	"imitation_10": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 尊重",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 愉快合作",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 同伴与武器",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_10"
+	},
+	"imitation_11": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 一些记忆",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 一些执着",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 一些相伴",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_11"
+	},
+	"imitation_12": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 请多指教",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 热心肠",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 约定",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_12"
+	},
+	"imitation_13": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「同好达成」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「乐天派的喜欢」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「笑话」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_13"
+	},
+	"imitation_14": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「工作清单」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「亚健康」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「异化人会梦见」",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "通讯**•** 「约定」",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "头像**•** *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_14"
+	},
+	"imitation_15": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「咸味海风」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「悠闲旅程」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「未来出发」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_15"
+	},
+	"imitation_16": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「称呼」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「心之桥」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「真实自己」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_16"
+	},
+	"imitation_17": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「新生与共生」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「实验性运作」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「义眼的前方」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_17"
+	},
+	"imitation_18": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「我是白月魁」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「认识新世界」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「我有很多故事」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_18"
+	},
+	"imitation_20": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「末日猎荒者」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「现实与法则」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「思索当下」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_20"
+	},
+	"imitation_21": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「多莉的新朋友」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「不知道的事」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「梦醒之后」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_21"
+	},
+	"imitation_22": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「特勤队长」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「超心流」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「咲」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_22"
+	},
+	"imitation_23": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「各怀信念」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「明镜」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「向暗生华」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_23"
+	},
+	"imitation_24": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「齿轮」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「链条」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「正轨」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_24"
+	},
+	"imitation_28": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「剑弩拔张」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「所谓正义」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「毕竟不是恶魔」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_28"
+	},
+	"imitation_29": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「另一个身份」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「月芽花」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「梦境星象」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_29"
+	},
+	"imitation_26": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「保镖与兼职」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「听筒彼方」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「自己的主人」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_26"
+	},
+	"imitation_30": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「特勤队员」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「行动代号」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「我与你们」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_30"
+	},
+	"imitation_31": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「破镜」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「虚像」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「第一次接触」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_31"
+	},
+	"imitation_32": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「不可以吃巧克力」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「芬璃尔的家人」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「芬璃尔想找你」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_32"
+	},
+	"imitation_34": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「镜都」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「灾变之地」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「命运与共」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_34"
+	},
+	"imitation_35": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「您好」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「吐露」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「并肩」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_35"
+	},
+	"imitation_36": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「执政官菲欧娜」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「茵纳斯」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「勇气之歌」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_36"
+	},
+	"imitation_27": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「探险队」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「冒险记」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「一瞥幽灵岛」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_27"
+	},
+	"imitation_48": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「惊雷」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「苦雨」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「再起波澜」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_48"
+	},
+	"imitation_37": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「土生土长」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「繁枝细节」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「成熟的途中」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_37"
+	},
+	"imitation_38": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「武者玉兰」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「练武轶事」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「促膝畅谈」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_38"
+	},
+	"imitation_50": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「相似之人」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「空白之人」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「未来之人」",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "通讯**•** 「忆苦之人」",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "头像**•** *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_50"
+	},
+	"imitation_41": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「新笋」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「成竹」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「碧霄」",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "通讯**•** 「小名」",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "头像**•** *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_41"
+	},
+	"imitation_43": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「兑州之首」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「卫首之重」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「琴与情」",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "通讯**•** 「域外之塔」",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "头像**•** *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_43"
+	},
+	"imitation_51": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「繁花盛景」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「往事」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「今事」",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "通讯**•** 「试穿」",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "头像**•** *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"unlockables": [
+			{
+				"text": "头像**•** *",
+				"stage": 200
+			},
+			{
+				"text": "通讯**•** 「静音」",
+				"stage": 600
+			},
+			{
+				"text": "通讯**•** 「模拟书信」",
+				"stage": 2000
+			},
+			{
+				"text": "通讯**•** 「纸面到现实」",
+				"stage": 3000
+			}
+		],
+		"id": "imitation_33"
+	}
+}
