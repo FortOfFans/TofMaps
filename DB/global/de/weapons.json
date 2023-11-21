@@ -4,8 +4,7 @@
 		"description": "Eine gewöhnliche Waffe unter den Einwohnern des Warren-Schneefelds. Mit Frost bearbeitet, ganz nach dem Geschmack vor Ort. Sehr beliebt, da sie günstig, jedoch gleichzeitig auch sehr wirksam ist.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Spear_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01"
 		},
 		"rarity": "R",
 		"element": "Ice",
@@ -104,31 +103,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 6.714021
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.20856
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "spear_ice"
@@ -138,8 +125,7 @@
 		"description": "Eine einfache, von Banges-Technik entwickelte Waffe. Dank einer speziellen Legierung ist sie leicht, wendig und einfach zu handhaben.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Ds_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01"
 		},
 		"rarity": "R",
 		"element": "Physics",
@@ -232,31 +218,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 7.350086
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 5.653912
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "digger_physic"
@@ -266,8 +240,7 @@
 		"description": "Eines der ersten elektromagnetischen Omnium-Projekte. Die Klinge liegt gut in der Hand und ist bei Wanderern beliebt, die nicht sonderlich gut kämpfen können.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Sword_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01"
 		},
 		"rarity": "R",
 		"element": "Thunder",
@@ -354,31 +327,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 6.360651
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.650271
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sword_thunder"
@@ -388,8 +349,7 @@
 		"description": "Eine Waffe, die häufig von Jägern im Schneefeld verwendet wird. Kann leicht und sehr genau geführt werden. Nach reichlich Werbung hat sie mehr als die Hälfte des erschwinglichen zivilen Marktes erobert.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Bow_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01"
 		},
 		"rarity": "R",
 		"element": "Flame",
@@ -476,31 +436,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 7.350086
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 5.653912
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "bow_fire"
@@ -510,8 +458,7 @@
 		"description": "Ein mechanischer Stab mit einer kreuzförmig eingeritzten Rune. Damit kann vergeben und bestraft werden.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Stave_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR6_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01"
 		},
 		"rarity": "SR",
 		"element": "Thunder",
@@ -653,31 +600,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 10.012136
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 5.153305
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "stave_thunder"
@@ -687,8 +622,7 @@
 		"description": "Die knorrigste Feuerwaffe aller Zeiten, auch als beweglicher Geschützturm bekannt.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Cannon_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR7_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01"
 		},
 		"rarity": "SR",
 		"element": "Ice",
@@ -800,31 +734,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 11.778983
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.944746
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "cannon_ice"
@@ -834,8 +756,7 @@
 		"description": "Viel zu gefährlich, um ein Kinderspielzeug zu sein. Es ist unmöglich, dass ein Kind es auf ehrliche Weise in die Hände bekommen hat. Wer weiß, was für eine Technik verwendet wurde, um es umzubauen … Vielleicht wurde es einfach irgendwo abseits des Weges aufgeschnappt.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Chainsaw_physic01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR30_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -990,44 +911,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Gnonno: Kräuselwelle",
-				"description": "Nachdem **Erkundungsteamschlag** **Wutanfall** auslöst, wird der Endschaden für **30** Sek. um **12%** erhöht."
-			},
-			"level2": {
-				"name": "Gnonno: Flutwelle",
-				"description": "Nachdem **Erkundungsteamschlag** **Wutanfall** auslöst, wird der Endschaden für **30** Sek. um **23%** erhöht."
-			},
-			"id": "imitation_27"
-		},
 		"id": "chainsaw_physic"
 	},
 	"hammer_ice": {
@@ -1035,8 +933,7 @@
 		"description": "Niemand will von diesem Vorschlaghammer eine volle Breitseite abbekommen.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Hammer_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR8_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01"
 		},
 		"rarity": "SR",
 		"element": "Ice",
@@ -1184,44 +1081,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 9.423186
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 5.889492
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Ene: Schneller Modus",
-				"description": "Verringert den Ausdauerverbrauch von Ene beim Schwimmen, Klettern oder Gleiten um **12%**."
-			},
-			"level2": {
-				"name": "Ene: Grenzenloser Modus",
-				"description": "Verringert den Ausdauerverbrauch von Ene beim Schwimmen, Klettern oder Gleiten um **20%**."
-			},
-			"id": "imitation_2"
-		},
 		"id": "hammer_ice"
 	},
 	"bow_physic": {
@@ -1229,8 +1103,7 @@
 		"description": "Der ideale Verbündete für düstere Nächte.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Bow_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR9_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01"
 		},
 		"rarity": "SR",
 		"element": "Physics",
@@ -1366,44 +1239,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 12.250143
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 9.423186
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Bai Ling: Tapferkeit",
-				"description": "Wenn Bai Ling den Gleiter oder das „Jetboard“ ablegt, erhöht sich die Geschwindigkeit für **12** Sek. um **8%**. Abklingzeit: **60** Sek."
-			},
-			"level2": {
-				"name": "Bai Ling: Entschlossenheit",
-				"description": "Wenn Bai Ling den Gleiter oder das „Jetboard“ ablegt, erhöht sich die Geschwindigkeit für **12** Sek. um **15%**. Abklingzeit: **60** Sek."
-			},
-			"id": "imitation_16"
-		},
 		"id": "bow_physic"
 	},
 	"spear_thunder": {
@@ -1411,8 +1261,7 @@
 		"description": "Eine Hellebarde mit der Kraft des Donners. Gut für Explosionsschaden, und durch die Länge ist sie in unterschiedlichen Entfernungen einsetzbar.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Spear_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR12_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01"
 		},
 		"rarity": "SR",
 		"element": "Thunder",
@@ -1560,31 +1409,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 11.190034
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 3.680932
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "spear_thunder"
@@ -1594,8 +1431,7 @@
 		"description": "Tödlich, unberechenbar und leise.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Ds_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR11_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -1737,31 +1573,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "digger_thunder"
@@ -1771,8 +1595,7 @@
 		"description": "Eine elegante Frostklinge, die an reinweiße Rosen erinnert, die auf schneebedeckten Felsen blühen.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_BigSword_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR1_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -1926,44 +1749,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Meryl: Kühle Rose",
-				"description": "Verringert den von Meryl erlittenen Frostschaden um **20%**, gewährt Immunität gegen Erfrieren und verringert die Dauer von Erstarren um **50%**."
-			},
-			"level2": {
-				"name": "Meryl: Frostig",
-				"description": "Verringert den von Meryl erlittenen Frostschaden um **25%**, gewährt Immunität gegen Erfrierung und verringert die Dauer von Erstarren um **50%**. Die Luft um Meryl herum kühlt ab und lässt Wasser gefrieren."
-			},
-			"id": "imitation_3"
-		},
 		"id": "bigsword_ice"
 	},
 	"bow_ice": {
@@ -1971,8 +1771,7 @@
 		"description": "Die Pfeile dieses Bogens tragen die Kraft des Frosts in sich.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Bow_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR2_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -2108,31 +1907,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "bow_ice"
@@ -2142,8 +1929,7 @@
 		"description": "Hält die Temperatur gleichbleibend kalt, um Verbündete zu heilen.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Stave_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR3_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -2286,31 +2072,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "stave_ice"
@@ -2320,8 +2094,7 @@
 		"description": "Eine mächtige Sense, die sich sowohl für den Angriff als auch für die Verteidigung eignet. Sie kann ihr Ziel innerhalb einer bestimmten Entfernung sofort töten.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Sickle_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR4_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -2469,31 +2242,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sickle_fire"
@@ -2503,8 +2264,7 @@
 		"description": "Wurde von einem verrückten Wissenschaftler erfunden. Die Testergebnisse waren bereits sehr beeindruckend. Man mag sich gar nicht vorstellen, was die Waffe bei voller Leistung schafft.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Gun_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR5_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -2647,44 +2407,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Cobalt-B: Verweilende Wärme",
-				"description": "Nachdem Cobalt-B ihre Entladungsfähigkeit eingesetzt hat, stellt sie eine zufällige Menge von **50** bis **120** Punkten an Waffenladung wieder her."
-			},
-			"level2": {
-				"name": "Cobalt-B – Funken",
-				"description": "Nachdem Cobalt-B ihre Entladungsfähigkeit eingesetzt hat, stellt sie eine zufällige Menge von **90** bis **180** Punkten an Waffenladung wieder her."
-			},
-			"id": "imitation_10"
-		},
 		"id": "gun_fire"
 	},
 	"sword_physic": {
@@ -2692,8 +2429,7 @@
 		"description": "Diese blutrote Klinge steht für Mut und Entschlossenheit und sorgt somit für Gerechtigkeit.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Sword_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR6_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -2836,31 +2572,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sword_physic"
@@ -2870,8 +2594,7 @@
 		"description": "Eine runde und scharfe Waffe, die mit ihrem Besitzer weit über die Meere gereist ist.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Darts_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR7_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -3013,31 +2736,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "darts_physic"
@@ -3047,8 +2758,7 @@
 		"description": "Anwender von „Seltsamer Würfel“ können sich viele Wege einfallen lassen, unnötige Anforderungen zu umgehen.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Cube_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR8_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -3191,44 +2901,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 14.563107
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 9.101942
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Zero: Präzise Berechnungen",
-				"description": "Wenn Zero eine Waffenfähigkeit einsetzt, wird die Abklingzeit für Relikte um **1,5** Sek. verringert. Wird pro Waffe nur **1**-mal alle **5** Sek. ausgelöst."
-			},
-			"level2": {
-				"name": "Zero: Tadellose Planung",
-				"description": "Wenn Zero eine Waffenfähigkeit einsetzt, wird die Abklingzeit für Relikte um **3** Sek. verringert. Wird pro Waffe nur **1**-mal alle **5** Sek. ausgelöst."
-			},
-			"id": "imitation_1"
-		},
 		"id": "cube_fire"
 	},
 	"dgun_thunder": {
@@ -3236,8 +2923,7 @@
 		"description": "Diese Schusswaffen orientieren sich an Railguns und müssen paarweise verwendet werden.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_DGun_Thunder",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR9_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -3373,31 +3059,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "dgun_thunder"
@@ -3407,8 +3081,7 @@
 		"description": "Eine Schildaxt, die zur V2-Waffenserie gehört. Eine Reihe von Waffen, die mit einer besonderen Technik geschmiedet wurden.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_ShieldAxe_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR10_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -3544,31 +3217,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 14.563107
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 9.101942
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "shieldaxe_fire"
@@ -3578,8 +3239,7 @@
 		"description": "Ein Paar Fächer mit enormer Energie und der Macht, Berge zum Einsturz zu bringen oder die Welt entzweizureißen.\r\nWenn Azurdrache in die Wolken emporsteigt, wird die Welt vom Wind erschüttert.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_mimi",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR35_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -3728,53 +3388,184 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Bambusschienen",
-				"description": "Erhöht den Endschaden um **13%**.\r\nErhöht den Voltschaden um **6%**, wenn **3**Voltwaffen ausgerüstet sind."
-			},
-			"level2": {
-				"name": "Jadeglanz",
-				"description": "Erhöht den Endschaden um **18%**.\r\nErhöht den Voltschaden um **6%**, wenn **3**Voltwaffen ausgerüstet sind."
-			},
-			"id": "imitation_41"
-		},
 		"id": "mimi_thunder"
+	},
+	"nanyin_superpower": {
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Nanyin",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Nanyin"
+		},
+		"rarity": "SSR",
+		"element": "Superpower",
+		"weaponType": "Nanyin",
+		"wc": "DPS",
+		"avatar": "imitation_49",
+		"mats": {
+			"Item_breakthrough_A1": 28,
+			"Item_breakthrough_B1": 28,
+			"Item_breakthrough_C1": 26,
+			"Item_breakthrough_D1": 26,
+			"Item_breakthrough_A2": 50,
+			"Item_breakthrough_B2": 50,
+			"Item_breakthrough_C2": 50,
+			"Item_breakthrough_D2": 50,
+			"Item_breakthrough_A3": 26,
+			"Item_breakthrough_B3": 26,
+			"Item_breakthrough_C3": 26,
+			"Item_breakthrough_D3": 26
+		},
+		"advanceID": "Nanyin_superpower_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_melee",
+					"id": "GA_FPlayerNanYinMelee_Melee"
+				},
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattack",
+					"id": "GA_FPlayerNanYinMelee_AirAttack"
+				},
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_meleebranch1",
+					"id": "GA_FPlayerNanYinMelee_MeleeBranch1"
+				},
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_meleebranch2",
+					"id": "GA_FPlayerNanYinMelee_MeleeBranch2"
+				},
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattackbranch1",
+					"id": "GA_FPlayerNanYinMelee_AirAttackBranch1"
+				},
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattackbranch2",
+					"id": "GA_FPlayerNanYinMelee_AirAttackBranch2"
+				},
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_powerattack",
+					"id": "GA_FPlayerNanYinMelee_PowerAttack"
+				}
+			],
+			"dodge": [
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/common_evade",
+					"id": "GA_FPlayerNanYinEvade_Evade"
+				},
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_evadeattack",
+					"id": "GA_FPlayerNanYinEvade_EvadeAttack"
+				},
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_evadebeidong",
+					"id": "GA_FPlayerNanYinEvade_Beidong"
+				}
+			],
+			"skill": [
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_skill",
+					"id": "GA_FPlayerNanYinSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_changeskill",
+					"id": "GA_FPlayerNanYinChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "None"
+			},
+			{
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **16%**.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "Erhöht das Basis-ANG-Wachstum der aktuellen Waffe um **32%**.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			}
+		],
+		"stats": [
+			{
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
+			},
+			{
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
+			},
+			{
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
+			}
+		],
+		"id": "nanyin_superpower"
 	},
 	"linghan_ice": {
 		"name": "Alabastertiger",
 		"description": "Mit einem Ärmelschwung und des Schwertes göttlichem Tanz, wer ergründet dieses Herzens Glanz?",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR37_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -3873,7 +3664,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Nach dem Abfeuern von **Frostklingen** wird der Frost-ANG des Wanderers um **10%** erhöht und Zielen in der Nähe wird für **30**Sek. jede Sekunde Schaden in Höhe von **80%** des ANG zugefügt.",
+				"description": "Nach dem Abfeuern von **Frostklingen** wird der Frost-ANG des Wanderers um **10%** erhöht und Zielen in der Nähe wird für **30**Sek. jede Sekunde Schaden in Höhe von **104%** des ANG zugefügt.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3889,7 +3680,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "Der Wanderer kann bis zu **4** **Frostklingen** erzeugen und der Basismultiplikator des Schadens von **Temperaturabfall** wird auf **360%** erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von **6**Sek. von **Temperaturabfall** betroffen ist, wird dem Ziel zusätzlich ein **Adersiegel** zugefügt, wodurch es um **30%** verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von **Adersiegel** erneut Schaden durch **Frostklinge** erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von **1700%** des ANG + **2%** der zu diesem Zeitpunkt bereits verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als **2000%** und nicht höher als **2200%** des Frost-ANG des Wanderers). Anschließend werden die Effekte von **Adersiegel** und **Temperaturabfall** vom Ziel entfernt.",
+				"description": "Der Wanderer kann bis zu **4** **Frostklingen** erzeugen und der Basismultiplikator des Schadens von **Temperaturabfall** wird auf **468%** erhöht.\r\nWenn das Ziel das einzige ist, das innerhalb von **6**Sek. von **Temperaturabfall** betroffen ist, wird dem Ziel zusätzlich ein **Adersiegel** zugefügt, wodurch es um **30%** verlangsamt wird (nicht in der Apex-Liga oder gegen Bosse verfügbar). Wenn das Ziel während der Dauer von **Adersiegel** erneut Schaden durch **Frostklinge** erleidet, wird „Eisiger Ausbruch“ ausgelöst, was Fähigkeitsschaden in Höhe von **1700%** des ANG + **2%** der zu diesem Zeitpunkt verlorenen LP des Ziels verursacht (der Schaden von „Eisiger Ausbruch“ ist nicht geringer als **2000%** und nicht höher als **2200%** des Frost-ANG des Wanderers). Anschließend werden die Effekte von **Adersiegel** und **Temperaturabfall** vom Ziel entfernt.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3913,7 +3704,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "Nach dem Einsatz von **Frostklingen** wird der Effekt von **Temperaturabfall** auf ein Gebiet angewendet. Zudem fügt er Zielen in der Nähe zusätzlichen Schaden in Höhe von **990%** des ANG zu.",
+				"description": "Nach dem Einsatz von **Frostklingen** wird der Effekt von **Temperaturabfall** auf ein Gebiet angewendet. Zudem fügt er Zielen in der Nähe zusätzlichen Schaden in Höhe von **1170%** des ANG zu.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3923,44 +3714,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.571905
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1010.0971
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 11.837075
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Überwachende Klinge",
-				"description": "Erhöht den Endschaden um **13%**. Wenn **Alabastertiger** ausgerüstet ist, wird der Frostschaden pro **1** ausgerüsteter Frostwaffe um **1%** erhöht."
-			},
-			"level2": {
-				"name": "Regierende Klinge",
-				"description": "Erhöht den Endschaden um **18%**. Wenn **Alabastertiger** ausgerüstet ist, wird der Frostschaden pro **1** ausgerüsteter Frostwaffe um **2.5%** erhöht."
-			},
-			"id": "imitation_43"
-		},
 		"id": "linghan_ice"
 	},
 	"suspension_thunder": {
@@ -3968,8 +3736,7 @@
 		"description": "Sein Entwickler ist unbekannt und die Prototyp-Blaupause des EM-Schwebeblasters ist verloren gegangen. Er enthält in seinem Inneren einzigartige elektrische Speicherprozesse. Es ist außerordentlich aufwendig, ihn zu reparieren, wenn er verschlissen ist, aber Cobalt-B von Banges Tech scheint dazu in der Lage zu sein. ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_naimxs_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR14_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -4112,44 +3879,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Nemesis: Metamorphose",
-				"description": "Nach Herbeirufung einer Elektrode fügt der Anwender Gegnern innerhalb von **30** Metern um die Elektrode Voltschaden in Höhe von **60%** des ANG zu und heilt alle Verbündete (einschließlich des Anwenders) in Reichweite der Elektrode um **120%** des ANG."
-			},
-			"level2": {
-				"name": "Nemesis: Sublimierung",
-				"description": "Nach Herbeirufung einer Elektrode fügt der Anwender Gegnern innerhalb von **30** Metern um die Elektrode Voltschaden in Höhe von **100%** des ANG zu und heilt alle Verbündete (einschließlich des Anwenders) in Reichweite der Elektrode um **200%** des ANG."
-			},
-			"id": "imitation_17"
-		},
 		"id": "suspension_thunder"
 	},
 	"frigg_ice": {
@@ -4157,8 +3901,7 @@
 		"description": "Das Großschwert und der Säbel gehören einzig und allein Frigg, dem Engel der Gnade. Sie wurden an Friggs kybernetischen Körper angepasst, als sie geschmiedet wurden. Die beiden Waffen sind nicht ein und dieselbe, aber Frigg bezeichnet sie zusammen als „Balmung“.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_frigg_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR15_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -4295,44 +4038,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Einfrieren",
-				"description": "Gewährt bei Kampfbeginn einen Bonus auf den Frost-ANG von **1,5%** alle **3** Sekunden. Hält **5** Sek. an und ist bis zu **10**-mal stapelbar."
-			},
-			"level2": {
-				"name": "Vereisung",
-				"description": "Erhöht bei Kampfbeginn den Frost-ANG alle **3** Sek. um **2,4%**. Hält **5** Sek. an und ist bis zu **10**-mal stapelbar. Gewährt innerhalb des Froststurms zusätzlich „Hyperkörper“ und Immunität gegen Kontrolleffekte."
-			},
-			"id": "imitation_28"
-		},
 		"id": "frigg_ice"
 	},
 	"funnel_fire": {
@@ -4340,8 +4060,7 @@
 		"description": "Eine besondere Waffe, die Lin in der F&E von Mirroria für Ruby in Auftrag gegeben hat. Ihre Hauptfunktionen sind: in Rubys Lieblingsspiel als Haushälterin fungieren, Ruby morgens aufwecken und Ruby den Weg weisen … Vor allem soll sie Ruby aber beschützen. ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_funnel_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR16_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -4484,44 +4203,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Traumfänger",
-				"description": "Erhöht den erlittenen Flammenschaden von allen Gegnern innerhalb von **5** Metern um Dolly herum um **8%**. Dieser Effekt kann nicht gestapelt werden."
-			},
-			"level2": {
-				"name": "Dollys Reich",
-				"description": "Erhöht den erlittenen Flammenschaden von allen Gegnern innerhalb von 5 Metern um Dolly herum um **8%**. Nicht stapelbar. Sobald Dolly geworfen wurde, wird der Flammen-ANG für **10** Sek. um **12%** erhöht. Dieser Effekt kann nicht gestapelt werden."
-			},
-			"id": "imitation_21"
-		},
 		"id": "funnel_fire"
 	},
 	"dkatana_ice": {
@@ -4529,8 +4225,7 @@
 		"description": "Ein spezielles Tachi, das sich den Super-Flow-Experimenten anpasst. Es ist in der Lage, die mentale Verfassung des Benutzers zu erkennen und erzeugt im richtigen Moment „Schwertschatten“, um im Kampf zu unterstützen.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_dkatana_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR17_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -4679,44 +4374,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Saki Fuwa: Zustand der Standhaftigkeit",
-				"description": "Bei weniger als **70%** LP erhöht sich der gesamte Widerstand um **40%**."
-			},
-			"level2": {
-				"name": "Saki Fuwa: Schützendes Schwert",
-				"description": "Bei weniger als **70%** LP erhöhen sich alle Widerstände um **40%** und der Frostwiderstand zusätzlich um **60%**. Unter Stiller Flow: Nachdem der Schwertschatten „Volt-Welle“ ausgelöst und einen Angriff geblockt hat, erhält das Mitglied des Teams mit dem geringsten LP-Anteil 3Blockfähigkeiten, die **10**Sek. lang anhalten. Dies gilt nicht für den Anwender. Dabei werden höchstens **15%** der max. LP des Teammitglieds an Schaden geblockt."
-			},
-			"id": "imitation_22"
-		},
 		"id": "dkatana_ice"
 	},
 	"fan_superpower": {
@@ -4724,8 +4396,7 @@
 		"description": "Ursprünglich sollte es eine leichte und verdeckte Waffe sein, aber auf Wunsch des Benutzers wurde es in eine schwere Klinge umgewandelt. Sie ist schwer und überhaupt nicht wie eine verdeckte Waffe.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_fan_superpower01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR18_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01"
 		},
 		"rarity": "SSR",
 		"element": "Superpower",
@@ -4871,44 +4542,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Lin: Epiphyllumblüte",
-				"description": "Erhöht den Explosionsschaden des Epiphyllums um **15%**."
-			},
-			"level2": {
-				"name": "Lin: Epiphyllum-Glamour",
-				"description": "Erhöht den Schaden der Epiphyllum-Explosion um **20%**. Verringert bei einem Treffer durch Epiphyllen alle Widerstände der Ziele für **7**Sek. um **7%**. Dieser Effekt kann nicht gestapelt werden."
-			},
-			"id": "imitation_23"
-		},
 		"id": "fan_superpower"
 	},
 	"tianlang_thunder": {
@@ -4916,8 +4564,7 @@
 		"description": "Dieser mit Blitzen bedeckte Langspeer ist der SMA1-TS00-Donnerbrecher. Er kann die gespeicherte Kraft mit unvorstellbaren Mitteln entfesseln. Das vom Speer erzeugte elektrische Feld stört den Verstand seines Trägers, sodass er von normalen Menschen nicht beherrscht werden kann.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Tianlang_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR20_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -5060,44 +4707,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Tian Lang: Donnerkugel",
-				"description": "Jeder Einsatz der Volt-Waffenfähigkeit oder der Entladungsfähigkeit gewährt **1** kostenlosen Ausweichversuch (bis zu **2**Versuche). Werden die Volt-Waffenfähigkeit und die Entladungsfähigkeit gleichzeitig eingesetzt, erhöht sich der Voltschaden **8**Sek. lang um **12%**. Dieser Effekt kann nicht gestapelt werden."
-			},
-			"level2": {
-				"name": "Tian Lang: Donnerschlag",
-				"description": "Jeder Einsatz der Volt-Waffenfähigkeit oder der Entladungsfähigkeit gewährt **1** kostenlosen Ausweichversuch (bis zu **2**Versuche). Werden die Volt-Waffenfähigkeit und die Entladungsfähigkeit gleichzeitig eingesetzt, erhöht sich der Voltschaden **8**Sek. lang um **18%**. Dieser Effekt kann nicht gestapelt werden."
-			},
-			"id": "imitation_29"
-		},
 		"id": "tianlang_thunder"
 	},
 	"arm_physic": {
@@ -5105,8 +4729,7 @@
 		"description": "Eine Unterstützungswaffe, die individuell für einen Insider der Maidelin Foundation angefertigt wurde. Frau Maidelin glaubt, dass Lyra sie gut gebrauchen kann.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Arm_Physic01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR19_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -5267,44 +4890,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Herzschalter",
-				"description": "Segnungsresonanz: Erhöht die max. LP des gesamten Teams um 10%. Nicht stapelbar."
-			},
-			"level2": {
-				"name": "Segen",
-				"description": "Segnungsresonanz: Erhöht die max. LP des gesamten Teams um 10%. Nicht stapelbar."
-			},
-			"id": "imitation_24"
-		},
 		"id": "arm_physic"
 	},
 	"rubilia_thunder": {
@@ -5312,8 +4912,7 @@
 		"description": "Ein sanfter Streich im chaotischen Abgrund wird einen Sturm auslösen, der das Schicksal aller beeinflusst.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Rubilia_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR31_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -5468,44 +5067,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Synergie",
-				"description": "Erhöht Voltschaden pro **1** ausgerüstete Voltwaffe um **6%**."
-			},
-			"level2": {
-				"name": "Erleuchtung",
-				"description": "Erhöht Voltschaden pro **1** ausgerüstete Voltwaffe um **8%**."
-			},
-			"id": "imitation_48"
-		},
 		"id": "rubilia_thunder"
 	},
 	"iceblade_ice": {
@@ -5513,8 +5089,7 @@
 		"description": "Eine Kampfrüstung mit einer Fußklinge als Kernelement. Sie ist das Ergebnis modernster Wissenschaft und Technik aus der Zeit vor der Katastrophe und wird durch die bloße Kraft der Gedanken angetrieben. Falls nötig, setzt sie eine gewaltige Explosion frei.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_iceblade_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR22_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -5663,44 +5238,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.203884
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 4.550971
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Anisoptera",
-				"description": "Erhöht nach dem Verwenden einer Waffenfähigkeit den Endschaden für **12**Sek. um **13%**."
-			},
-			"level2": {
-				"name": "Lepidoptera",
-				"description": "Erhöht nach dem Verwenden einer Waffenfähigkeit den Endschaden für **18**Sek. um **18%**."
-			},
-			"id": "imitation_30"
-		},
 		"id": "iceblade_ice"
 	},
 	"snipe_fire": {
@@ -5708,8 +5260,7 @@
 		"description": "Ein VR-Mehrspieler-Shooter, der in Mirroria wahnsinnig beliebt ist, hat diese exklusive Waffe für den besten Spieler einer Saison entwickelt. Das maßgefertigte echte Modell der Waffe wurde dem Spieler zugesendet. Niemand konnte ahnen, dass sie wie im Spiel funktioniert …",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Snipe_fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR21_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -5846,44 +5397,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Gas (Bumm!)",
-				"description": "Pro **1** Gegner, der von „Gasexplosion“ getroffen wird, wird der Schaden von „Klee-Kreuz“ für **20** Sek. um **8%** erhöht. Kann bis zu **2**-mal gestapelt werden."
-			},
-			"level2": {
-				"name": "Gas (Bummm!!!)",
-				"description": "Pro **1** Gegner, der von „Gasexplosion“ getroffen wird, wird der Schaden von „Klee-Kreuz“ für **20** Sek. um **15%** erhöht. Kann bis zu **2**-mal gestapelt werden."
-			},
-			"id": "imitation_26"
-		},
 		"id": "snipe_fire"
 	},
 	"brush_fire": {
@@ -5891,8 +5419,7 @@
 		"description": "„Keine Gewalt bitte! Echte Akademiker würden niemanden mit Briefpapier abschießen!“ – Rong Jin",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_liuhuo",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR32_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6059,44 +5586,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Zählende Tinte",
-				"description": "Der Endschaden erhöht sich um **13%**. Wenn sich **Kienkomet** im Nebenhand-Slot befindet, erhöht sich die Abwurffrequenz von **Sperlingsfeder** auf **1** pro Sek."
-			},
-			"level2": {
-				"name": "Den Pinsel schwingen",
-				"description": "Der Endschaden erhöht sich um **18%**. Wenn sich **Kienkomet** im Nebenhand-Slot befindet, erhöht sich die Abwurffrequenz von **Sperlingsfeder** auf **1** pro Sek."
-			},
-			"id": "imitation_37"
-		},
 		"id": "brush_fire"
 	},
 	"whip_physic": {
@@ -6104,8 +5608,7 @@
 		"description": "Die Peitsche, die von der neuen Vollstreckerin Umi bevorzugt wird. Umi mag an ihr am liebsten, dass sie normalerweise nicht über sie stolpert.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Whip_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR23_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -6266,44 +5769,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Umi: Tolle Show",
-				"description": "Erhöht den Endschaden jedes Mal für **30**Sek. um **12%**, wenn Umi **„Es ist Zauberzeit“** anwendet. Dieser Effekt kann nicht gestapelt werden."
-			},
-			"level2": {
-				"name": "Umi: Galaauftritt",
-				"description": "Erhöht den Endschaden jedes Mal für **30**Sek. um **18%**, wenn Umi **„Es ist Zauberzeit“** anwendet. Dieser Effekt kann nicht gestapelt werden."
-			},
-			"id": "imitation_31"
-		},
 		"id": "whip_physic"
 	},
 	"feise_fire": {
@@ -6311,8 +5791,7 @@
 		"description": "Hinter manchen Blüten verbirgt sich harter Stahl.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feise",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR36_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6415,7 +5894,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **20%** und den Flammenwiderstand um **40%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit anderen Flammenresonanz- oder Flammenreaktion-Effekten gestapelt werden, wobei Flammenresonanz priorisiert wird.\r\n**Flammenexplosion: Schneller Hieb**: Wenn **Endlose Blüte** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **37.5%** des Flammen-ANG + **0.5%** der max. LP des Wanderers + **18.75%** der Summe aller Widerstandsarten des Wanderers + **68.75%** des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle **0,5** Sekunden zusätzlich um das **1**-fache erhöht, bis zu einem Maximum von **30**-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das **1.3**-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
+				"description": "**Flammenresonanz**: Erhöht den Flammen-ANG um **15%** und den Flammenwiderstand um **25%**. Wird durch Ausrüsten von **2** oder mehr Flammenwaffen aktiviert. Der Set-Effekt funktioniert auch im Nebenhand-Slot. Kann nicht mit Effekten desselben Typs gestapelt werden.\r\n**Flammenexplosion: Schneller Hieb**: Wenn **Endlose Blüte** ausgerüstet ist, fügen Treffer mit Entladungsfähigkeiten beliebiger Waffen Zielen in der Nähe anfänglichen Schaden in Höhe von **37.5%** des Flammen-ANG + **0.5%** der max. LP des Wanderers + **18.75%** der Summe aller Widerstandsarten des Wanderers + **68.75%** des krit. Schadens zu. Nach Kampfbeginn wird der Schaden des nächsten schnellen Hiebs alle **0,5** Sekunden zusätzlich um das **1**-fache erhöht, bis zu einem Maximum von **30**-mal. Falls „Schneller Hieb“ mehrmals Schaden verursacht, wird der höchste anfängliche Wert für die Berechnung verwendet. Der Schaden von „Flammenexplosion: Schneller Hieb“ zählt als Entladungsfähigkeitsschaden. Wenn **1** Frost-/Volt-/physische Waffe jeglicher Art ausgerüstet ist, wird der Schaden von „Flammenexplosion“ um das **1.3**-fache erhöht. Außerdem wird der Schaden von „Flammenexplosion“ nicht von Schadensbonus-Effekten beeinflusst, außer von den seltenen Werten von Titanausrüstung, und löst keine zusätzlichen Angriffseffekte aus.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6423,7 +5902,7 @@
 				"need": "None"
 			},
 			{
-				"description": "Der Basismultiplikator des Schadens von **Flammendes Herz** wird auf **120%** des ANG erhöht. Wenn der Wanderer im Kampfstatus mehrere „Verbrennen“-Effekte auslöst, wird der Basismultiplikator des Schadens von **Flammendes Herz** zusätzlich auf den höchsten Multiplikatoreffekt erhöht.",
+				"description": "Der Basismultiplikator des Schadens von **Flammendes Herz** wird auf **60%** des ANG erhöht. Wenn der Wanderer im Kampfstatus mehrere „Verbrennen“-Effekte auslöst, wird der Basismultiplikator des Schadens von **Flammendes Herz** zusätzlich auf den höchsten Multiplikatoreffekt erhöht.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6455,7 +5934,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Pro **1** **Fei Ses Trugbild** oder **Lotusblütenblatt** im **Wunderwerk** wird der Schaden von **Flammendes Herz** zusätzlich um **15%** erhöht.\r\nDer Ausdauerverbrauch von **Lotus-Apsara** wird um **75%** gesenkt.",
+				"description": "Pro **1** **Fei Ses Trugbild** oder **Lotusblütenblatt** im **Wunderwerk** wird der Schaden von **Flammendes Herz** zusätzlich um **12%** erhöht.\r\nDer Ausdauerverbrauch von **Lotus-Apsara** wird um **75%** gesenkt.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6463,7 +5942,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "Der Basismultiplikator für den Schaden durch **Seelenschwere** wird auf **900%** des ANG erhöht, Zertrümmern wird verdoppelt und es besteht eine Chance von **15%**, nach einem Treffer für **2** Sek. eine Verzögerung von **65%** zuzufügen (gegen Bosse im Teamspiel unwirksam und nicht in der Apex-Liga verfügbar).",
+				"description": "Der Basismultiplikator für den Schaden durch **Seelenschwere** wird auf **270%** des ANG erhöht, Zertrümmern wird verdoppelt und es besteht eine Chance von **15%**, nach einem Treffer für **2** Sek. eine Verzögerung von **65%** zuzufügen (gegen Bosse im Teamspiel unwirksam und nicht in der Apex-Liga verfügbar).",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6473,44 +5952,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Lotustanz",
-				"description": "Erhöht den Endschaden um **0%**.\r\nNachdem **Wirbelwind** eingesetzt wurde, wird pro **1** ausgerüsteter Flammenwaffe der Endschaden für **30** Sek. um **4.5%** erhöht."
-			},
-			"level2": {
-				"name": "Dunkelschatten",
-				"description": "Erhöht den Endschaden um **0%**.\r\nNachdem **Wirbelwind** eingesetzt wurde, wird pro **1** ausgerüsteter Flammenwaffe der Endschaden für **30** Sek. um **9%** erhöht."
-			},
-			"id": "imitation_51"
-		},
 		"id": "feise_fire"
 	},
 	"fenrir_thunder": {
@@ -6518,8 +5974,7 @@
 		"description": "Ein spezielles Gerät, das Schallwellen in Angriffe umwandelt. Wenn die Fesseln gesprengt werden, wird die Strömung des Todes zu scharfen Krallen, die alles zerfetzen.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Fenrir_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR24_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -6674,44 +6129,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "X-Achse",
-				"description": "Erhöht den Endschaden um **13%**. Wird durch Ausrüsten von **2** Waffen verschiedener Elemente aktiviert. Erhöht den Endschaden um **18%**. Wird durch Ausrüsten von **3** Waffen verschiedener Elemente aktiviert."
-			},
-			"level2": {
-				"name": "Z-Achse",
-				"description": "Erhöht den Endschaden um **18%**. Wird durch Ausrüsten von **2** Waffen verschiedener Elemente aktiviert. Erhöht den Endschaden um **23%**. Wird durch Ausrüsten von **3** Waffen verschiedener Elemente aktiviert."
-			},
-			"id": "imitation_32"
-		},
 		"id": "fenrir_thunder"
 	},
 	"umbrella_fire": {
@@ -6719,8 +6151,7 @@
 		"description": "Eine Sonnenschirmwaffe, die ausschließlich von Zhuque verwendet wird und über verschiedene versteckte Funktionen verfügt. Das Purpurköpfchen kann nicht nur ein mächtiges Werkzeug sein, um Feinde mit Energie zu zerstören, sondern ist auch in der Lage, anderen die Sicht zu versperren und das Handeln des Besitzers zu verbergen …",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_umbrella_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR27_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6875,44 +6306,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Tobendes Feuer",
-				"description": "Während Standhaftigkeit-Resonanz wird der von dir und deinen Teammitgliedern erlittene Flammen- und Frostschaden innerhalb der Purpurdomäne um **16%** verringert."
-			},
-			"level2": {
-				"name": "Auftürmende Flammen",
-				"description": "Während Standhaftigkeit-Resonanz wird der von dir und deinen Teammitgliedern erlittene Flammen- und Frostschaden innerhalb der Purpurdomäne um **24%** verringert."
-			},
-			"id": "imitation_34"
-		},
 		"id": "umbrella_fire"
 	},
 	"yoyo_ice": {
@@ -6920,8 +6328,7 @@
 		"description": "Eine seltene Sammlerwaffe, die mit einzigartigen, beliebten Nachrüstungen verschmolzen ist. Möge der Träger mit Mut in die trostlose Dunkelheit voranschreiten, selbst wenn es einen wie die Motte zur Flamme zieht.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yoyo_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR28_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -7070,44 +6477,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Raureif",
-				"description": "Nach dem Ausrüsten von „Prunkstück“ wird der Endschaden um **10%** erhöht. Während du „Prunkstück“ verwendest, wird Zertrümmern um **20%** erhöht."
-			},
-			"level2": {
-				"name": "Geschmolzene Federn",
-				"description": "Nach dem Ausrüsten von „Prunkstück“ wird der Endschaden um **15%** erhöht. Während du „Prunkstück“ verwendest, wird Zertrümmern um **45%** erhöht."
-			},
-			"id": "imitation_35"
-		},
 		"id": "yoyo_ice"
 	},
 	"yulan_ice": {
@@ -7115,8 +6499,7 @@
 		"description": "Eintracht, oder anders formuliert Konsolidierung. Das ist die Waffe, die Ji Yu persönlich für Yu Lan ausgesucht hat und technologisch auf dem neuesten Stand von Gebiet 9 ist. Sei also nicht überrascht, wenn du Zeuge wundersamer Anblicke wirst, nachdem du sie mit dem Zeitstempel verwendet hast.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yulan_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR33_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -7295,44 +6678,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Beständiges Qi",
-				"description": "Erhöht den Endschaden um **13%**.\r\nIn der **Kampfkünstler**-Form wird der Endschaden zusätzlich um **7%** erhöht.\r\nIn der **Rohe Kraft**-Form wird der Schaden, der durch den Verbrauch von **Kampfgeist** verursacht wird, pro **1** ausgerüsteter Frostwaffe um **9%** erhöht. Bei **3** ausgerüsteten Frostwaffen wird der Frostschaden um **8%** erhöht."
-			},
-			"level2": {
-				"name": "Sorgfalt",
-				"description": "Erhöht den Endschaden um **18%**.\r\nIn der **Kampfkünstler**-Form wird der Endschaden zusätzlich um **7%** erhöht.\r\nIn der **Rohe Kraft**-Form wird der Schaden, der durch den Verbrauch von **Kampfgeist** verursacht wird, pro **1** ausgerüsteter Frostwaffe um **9%** erhöht. Bei **3** ausgerüsteten Frostwaffen wird der Frostschaden um **8%** erhöht."
-			},
-			"id": "imitation_38"
-		},
 		"id": "yulan_ice"
 	},
 	"zeke_physic": {
@@ -7340,8 +6700,7 @@
 		"description": "Ein beeindruckendes und scharfes Großschwert, das normale Menschen heben können. Neben seiner zerstörerischen Kraft vermittelt seine breite Klinge auch ein Gefühl der Sicherheit.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Zeke_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR34_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "PhysicsFlame",
@@ -7496,44 +6855,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Krit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Krit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Selbstfindung",
-				"description": "Erhöht den Endschaden um **12%**.\r\nDer physische Basis-ANG des Wanderers wird auf den höchsten Wert seines physischen/Flammen-/Frost-/Volt-Basis-ANG erhöht. Wenn die Waffe im Haupt-Slot **Onyx-Schildkröte** ist, wird der normale Angriffsschaden um **30%** erhöht."
-			},
-			"level2": {
-				"name": "Selbstlos",
-				"description": "Erhöht den Endschaden um **18%**.\r\nDer physische Basis-ANG des Wanderers wird auf den höchsten Wert seines physischen/Flammen-/Frost-/Volt-Basis-ANG erhöht. Wenn die Waffe im Haupt-Slot **Onyx-Schildkröte** ist, wird der normale Angriffsschaden um **50%** erhöht."
-			},
-			"id": "imitation_50"
-		},
 		"id": "zeke_physic"
 	},
 	"queen_superpower": {
@@ -7541,8 +6877,7 @@
 		"description": "Eine seltsame Nanowaffe, die Klingen generiert, die Metall wie Butter schneiden. Früher nahm sie die Form eines Armbands an, das sich im Standby-Modus um das Handgelenk des Trägers legte. Daher kommen auch die Waffenbeschreibungen des Besitzers.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feiouna",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR29_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna"
 		},
 		"rarity": "SSR",
 		"element": "Superpower",
@@ -7736,44 +7071,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Angriff",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.203884
+				"name": "Angriff",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Widerstand",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 4.550971
+				"name": "Widerstand",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "LP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "LP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Funkeln",
-				"description": "Erhöht den Endschaden um **16%**."
-			},
-			"level2": {
-				"name": "Mondspiegelung",
-				"description": "Erhöht den Endschaden um **18%**."
-			},
-			"id": "imitation_36"
-		},
 		"id": "queen_superpower"
 	}
 }

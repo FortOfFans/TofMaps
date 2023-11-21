@@ -4,8 +4,7 @@
 		"description": "フォラント雪原の住民がよく使う武器。地域の特性により氷属性を有している。安価だが強度が高いことから広く使用されている",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Spear_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01"
 		},
 		"rarity": "R",
 		"element": "Ice",
@@ -104,31 +103,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 6.714021
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.20856
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "spear_ice"
@@ -138,8 +125,7 @@
 		"description": "ベンジス重工が開発した基本タイプの武器。特殊合金で作られており、軽くて小回りが利いて扱いやすい",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Ds_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01"
 		},
 		"rarity": "R",
 		"element": "Physics",
@@ -232,31 +218,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 7.350086
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 5.653912
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "digger_physic"
@@ -266,8 +240,7 @@
 		"description": "最初に開発が進められた電気オムニアム武器。扱いやすく、戦いが不得手な探索者に大人気",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Sword_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01"
 		},
 		"rarity": "R",
 		"element": "Thunder",
@@ -354,31 +327,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 6.360651
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.650271
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sword_thunder"
@@ -388,8 +349,7 @@
 		"description": "雪原の狩人がよく使う武器。簡単に獲物を射止めることができる。販売促進の結果、今では低価格帯市場で半分以上のシェアを誇っている",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Bow_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01"
 		},
 		"rarity": "R",
 		"element": "Flame",
@@ -476,31 +436,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 7.350086
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 5.653912
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "bow_fire"
@@ -510,8 +458,7 @@
 		"description": "十字架のルーンが刻まれた機械の杖。罪を許したり、天罰を下したりする",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Stave_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR6_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01"
 		},
 		"rarity": "SR",
 		"element": "Thunder",
@@ -653,31 +600,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 10.012136
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 5.153305
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "stave_thunder"
@@ -687,8 +622,7 @@
 		"description": "史上最も凶悪な銃器であり、移動式砲台とも呼ばれる大型銃器",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Cannon_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR7_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01"
 		},
 		"rarity": "SR",
 		"element": "Ice",
@@ -800,31 +734,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 11.778983
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.944746
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "cannon_ice"
@@ -834,8 +756,7 @@
 		"description": "子どもの遊び道具としては危険すぎる代物であり、子どもが正規のルートで手に入れられる物ではない。一体、どのような技術を用いてここまで改造したのだろうか…あるいは、何かの冒険で見つけた宝物なのか…？",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Chainsaw_physic01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR30_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -990,44 +911,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "グノノ・さざ波",
-				"description": "**探検隊パーティアタック**で**完全暴走**を発動すると、最終与ダメージ+**12%**、**30**秒間持続"
-			},
-			"level2": {
-				"name": "グノノ・大波",
-				"description": "**探検隊パーティアタック**で**完全暴走**を発動すると、最終与ダメージ+**23%**、**30**秒間持続"
-			},
-			"id": "imitation_27"
-		},
 		"id": "chainsaw_physic"
 	},
 	"hammer_ice": {
@@ -1035,8 +933,7 @@
 		"description": "こんな大槌を前にしたら、誰もこの重い攻撃を受けようとは思わないはず",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Hammer_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR8_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01"
 		},
 		"rarity": "SR",
 		"element": "Ice",
@@ -1184,44 +1081,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 9.423186
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 5.889492
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "イーネ・高速モード",
-				"description": "イーネのスイミング、クライミング、滑空時、スタミナ消費-**12%**"
-			},
-			"level2": {
-				"name": "イーネ・超過モード",
-				"description": "イーネのスイミング、クライミング、滑空時、スタミナ消費-**20%**"
-			},
-			"id": "imitation_2"
-		},
 		"id": "hammer_ice"
 	},
 	"bow_physic": {
@@ -1229,8 +1103,7 @@
 		"description": "闇夜のような弓。夜の闇に完璧に溶け込める",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Bow_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR9_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01"
 		},
 		"rarity": "SR",
 		"element": "Physics",
@@ -1366,44 +1239,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 12.250143
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 9.423186
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "バイリン・勇気",
-				"description": "バイリンがパラグライダーかスライダーを格納すると、移動速度+**8%**。**12**秒間持続、クールダウン**60**秒"
-			},
-			"level2": {
-				"name": "バイリン・果敢",
-				"description": "バイリンがパラグライダーかスライダーを格納すると、移動速度+**15%**。**12**秒間持続、クールダウン**60**秒"
-			},
-			"id": "imitation_16"
-		},
 		"id": "bow_physic"
 	},
 	"spear_thunder": {
@@ -1411,8 +1261,7 @@
 		"description": "雷の力を宿した長槍。爆発的な力を持ち、遠距離攻撃、近接攻撃、防御のあらゆる面で優れている",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Spear_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR12_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01"
 		},
 		"rarity": "SR",
 		"element": "Thunder",
@@ -1560,31 +1409,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 11.190034
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 3.680932
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "spear_thunder"
@@ -1594,8 +1431,7 @@
 		"description": "ピエロの手品用ナイフのように、予測不能な動きで影のごとくつきまとい、音もなく命を奪う",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Ds_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR11_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -1737,31 +1573,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "digger_thunder"
@@ -1771,8 +1595,7 @@
 		"description": "エレガントな氷の大剣。険しい雪山に堂々と咲く純白の花のよう",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_BigSword_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR1_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -1926,44 +1749,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "メリル・クールなバラ",
-				"description": "メリルの氷被ダメージ-**20%**、凍傷効果無効、凍結状態の持続時間-**50%**"
-			},
-			"level2": {
-				"name": "メリル・極寒",
-				"description": "メリルの氷被ダメージ-**25%**、凍傷効果無効、凍結状態の持続時間-**50%**。メリルの周囲は氷結する"
-			},
-			"id": "imitation_3"
-		},
 		"id": "bigsword_ice"
 	},
 	"bow_ice": {
@@ -1971,8 +1771,7 @@
 		"description": "相手を凍らすことのできる弓。氷の息のごとく強力な一撃を放つ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Bow_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR2_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -2108,31 +1907,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "bow_ice"
@@ -2142,8 +1929,7 @@
 		"description": "精密な計器で冷たい温度を安定して保ち、癒しを与える",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Stave_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR3_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -2286,31 +2072,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "stave_ice"
@@ -2320,8 +2094,7 @@
 		"description": "攻守に優れた強力な大鎌。一定の距離から一撃で相手を倒せる",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Sickle_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR4_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -2469,31 +2242,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sickle_fire"
@@ -2503,8 +2264,7 @@
 		"description": "あるマッドサイエンティストが作ったもの。実験ではとてつもない数値を出したが、火力全開の時はどうだろうか？",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Gun_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR5_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -2647,44 +2407,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "コバルト・余熱",
-				"description": "コバルトが連携スキルを発動すると、自身の武器エナジー値をランダムに**50**～**120**回復する"
-			},
-			"level2": {
-				"name": "コバルト・火花",
-				"description": "コバルトが連携スキルを発動すると、自身の武器エナジー値をランダムに**90**～**180**回復する"
-			},
-			"id": "imitation_10"
-		},
 		"id": "gun_fire"
 	},
 	"sword_physic": {
@@ -2692,8 +2429,7 @@
 		"description": "刀の刃は正義の執行者。紅蓮の刀身は勇気と決意の表れ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Sword_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR6_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -2836,31 +2572,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sword_physic"
@@ -2870,8 +2594,7 @@
 		"description": "丸い鋭利な武器。持ち主と沿岸部を旅していたため「海の戦輪」と名付けられた",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Darts_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR7_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -3013,31 +2736,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "darts_physic"
@@ -3047,8 +2758,7 @@
 		"description": "キューブの使う者は様々な方法を考え出して不要な条件を否定できる",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Cube_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR8_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -3191,44 +2901,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 14.563107
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 9.101942
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ゼロ・精密計算",
-				"description": "ゼロが武器スキルを発動すると、クールダウン中のアルケーのクールダウンが**1.5**秒短縮される。同じ武器は**5**秒間に**1**回しか発動できない"
-			},
-			"level2": {
-				"name": "ゼロ・トータルプラン",
-				"description": "ゼロが武器スキルを発動すると、クールダウン中のアルケーのクールダウンが**3**秒短縮される。同じ武器は**5**秒間に**1**回しか発動できない"
-			},
-			"id": "imitation_1"
-		},
 		"id": "cube_fire"
 	},
 	"dgun_thunder": {
@@ -3236,8 +2923,7 @@
 		"description": "レールガンの原理を参考にして製作した銃。2丁ペアで使用",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_DGun_Thunder",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR9_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -3373,31 +3059,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "dgun_thunder"
@@ -3407,8 +3081,7 @@
 		"description": "特殊技術で製造されたV2シリーズの武器の一つで、メルトエナジーを利用した攻守一体型の盾斧",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_ShieldAxe_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR10_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -3544,31 +3217,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 14.563107
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 9.101942
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "shieldaxe_fire"
@@ -3578,8 +3239,7 @@
 		"description": "巨大なエネルギーを秘めた双扇。岩山を砕き、天地を裂く。\r\n孟章が天に昇るとき、風が一斉に吹き荒れる",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_mimi",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR35_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -3728,53 +3388,215 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "竹篾",
-				"description": "最終ダメージ+**13%**。\r\n雷属性武器を**3**つ装備すると、雷ダメージ+**6%**。"
-			},
-			"level2": {
-				"name": "Jade Luster",
-				"description": "最終ダメージ+**18%**。\r\n雷属性武器を**3**つ装備すると、雷ダメージ+**6%**。"
-			},
-			"id": "imitation_41"
-		},
 		"id": "mimi_thunder"
+	},
+	"nanyin_superpower": {
+		"name": "Purple Bamboo",
+		"description": "Purple Bamboo uses music and rhythm to utilize field energy for combat. After the Hendeca County Calamity, when Nan Yin reappeared, her flute also carried terrifying Darkness energy. Whenever Nan Yin played it, countless lives would be turned into dark wretches and fall under its control.",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Nanyin",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Nanyin"
+		},
+		"rarity": "SSR",
+		"element": "Superpower",
+		"weaponType": "Nanyin",
+		"wc": "DPS",
+		"avatar": "imitation_49",
+		"mats": {
+			"Item_breakthrough_A1": 28,
+			"Item_breakthrough_B1": 28,
+			"Item_breakthrough_C1": 26,
+			"Item_breakthrough_D1": 26,
+			"Item_breakthrough_A2": 50,
+			"Item_breakthrough_B2": 50,
+			"Item_breakthrough_C2": 50,
+			"Item_breakthrough_D2": 50,
+			"Item_breakthrough_A3": 26,
+			"Item_breakthrough_B3": 26,
+			"Item_breakthrough_C3": 26,
+			"Item_breakthrough_D3": 26
+		},
+		"advanceID": "Nanyin_superpower_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "Range Resonance",
+					"description": "While on the ground, use normal attack to attack 5 times in a row.\r\nFirst Attack: Deal damage equal to **60%** of ATK plus **360**.\r\nSecond Attack: Deal damage equal to **84%** of ATK plus **504**.\r\nThird Attack: Deal damage equal to **86%** of ATK plus **516**.\r\nFourth Attack: Deal damage equal to **143%** of ATK plus **858**.\r\nFifth Attack: Deal damage equal to **820%** of ATK plus **4920**.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_melee",
+					"id": "GA_FPlayerNanYinMelee_Melee"
+				},
+				{
+					"name": "Omni Resonance",
+					"description": "While airborne, use normal attack to launch 5 attacks in a row in mid-air, consuming endurance.\r\nFirst Attack: Deal damage equal to **60%** of ATK plus **360**.\r\nSecond Attack: Deal damage equal to **88%** of ATK plus **528**.\r\nThird Attack: Deal damage equal to **86%** of ATK plus **516**.\r\nFourth Attack: Deal damage equal to **138%** of ATK plus **828**.\r\nFifth Attack: Deal damage equal to **780%** of ATK plus **4680**.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattack",
+					"id": "GA_FPlayerNanYinMelee_AirAttack"
+				},
+				{
+					"name": "Darkshadow Blast",
+					"description": "While on the ground, tap and hold normal attack when using the first/second/third/fourth normal attack to trigger Darkshadow Blast and consume endurance.\r\nLaunch an attack ahead, dealing damage equal to **148%** of ATK plus **888** / **295%** of ATK plus **1770** / **443%** of ATK plus **2658** to nearby targets and suspending them.\r\nAfter triggering Darkshadow Blast, tap and hold normal attack to trigger Rift Surge.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_meleebranch1",
+					"id": "GA_FPlayerNanYinMelee_MeleeBranch1"
+				},
+				{
+					"name": "Rift Surge",
+					"description": "After triggering Darkshadow Blast, tap and hold normal attack to trigger Rift Surge and consume endurance.\r\nLaunch an attack ahead, dealing damage up to **806%** of ATK plus **4836** to nearby targets and suspending them.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_meleebranch2",
+					"id": "GA_FPlayerNanYinMelee_MeleeBranch2"
+				},
+				{
+					"name": "Darkshadow Burst",
+					"description": "While airborne, tap and hold normal attack when using the first/second/third/fourth normal attack to trigger Darkshadow Burst and consume endurance.\r\nLaunch an attack ahead, dealing damage equal to **155%** of ATK plus **930** / **310%** of ATK plus **1860** / **465%** of ATK plus **2790** to nearby targets and suspending them.\r\nAfter triggering Darkshadow Burst, tap and hold normal attack to trigger Rift Eruption.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattackbranch1",
+					"id": "GA_FPlayerNanYinMelee_AirAttackBranch1"
+				},
+				{
+					"name": "Rift Eruption",
+					"description": "While on the ground, after triggering Darkshadow Burst, tap and hold normal attack to trigger Rift Eruption and consume endurance.\r\nLaunch an attack ahead, dealing damage equal to **871%** of ATK plus **5226** to nearby targets and suspending them.\r\nDamage varies based on the duration normal attack is held, up to a maximum of 1.5 times damage.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattackbranch2",
+					"id": "GA_FPlayerNanYinMelee_AirAttackBranch2"
+				},
+				{
+					"name": "Void Abyss Current",
+					"description": "While on the ground, tap and hold normal attack to create an abyss current at the current location. Tap the mark on the map to transmit to that location, or to change the settings for that abyss current. Up to **2** abyss currents may be created.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_powerattack",
+					"id": "GA_FPlayerNanYinMelee_PowerAttack"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Dodge",
+					"description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/common_evade",
+					"id": "GA_FPlayerNanYinEvade_Evade"
+				},
+				{
+					"name": "Vortex Field",
+					"description": "Use normal attack during the short period after dodging to trigger Vortex Field.\r\nCreate Dark Matter at the target location, dealing damage equal to **180%** of ATK plus **1080** to nearby targets. When nearby targets come close to the Dark Matter, a Vortex Field will form and draw them in.\r\nWhen the Wanderer passes by the Vortex Field, gain Dimensional Guard for **15** seconds, blocking damage from the locked-on target **1** time (no more than **300%** of the Wanderer's Max HP). Dimensional Guard can only be triggered **1** time every **15** seconds.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_evadeattack",
+					"id": "GA_FPlayerNanYinEvade_EvadeAttack"
+				},
+				{
+					"name": "Butterfly Dance",
+					"description": "While in **team play**, after dodging with Purple Bamboo, summon **1** butterfly that follows the Wanderer for **60** seconds.\r\nAfter activating Attack Resonance or Balance Resonance, the butterfly flies around the locked-on target and creates a composition with its trails, dealing damage equal to **300%** of ATK to targets that pass through it.\r\nAfter activating Fortitude Resonance, place a **65%** delay on targets that pass through the composition for **2** seconds, and grant a shield equal to **10%** of the Wanderer's Max HP to the Wanderer and teammates for **15** seconds when they pass through the composition. This effect can occur up to **1** time per second, stacking up to **2** times.\r\nAfter activating Benediction Resonance, consume the butterfly to immediately help up a knocked-down teammate.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_evadebeidong",
+					"id": "GA_FPlayerNanYinEvade_Beidong"
+				}
+			],
+			"skill": [
+				{
+					"name": "Hyperdimensional Field",
+					"description": "Activate Hyperdimensional Field, gaining temporary invincibility, dealing damage equal to **650%** of ATK plus **3900** to nearby targets, and placing a **65%** delay for **3** seconds on the targets (ineffective against bosses in team play). At the same time, the **Void Trace** on the field immediately executes its skill. Cooldown: **60** seconds.\r\nAscend into the air and generate a field, placing nearby targets into a High-Dimensional Space that lasts up to **60** seconds, during which the Wanderer gains hyperbody, and Purple Bamboo's damage dealt to targets in the High-Dimensional Space ignores shields.\r\nThe High-Dimensional Space gains energy equal to **2** plus **number of targets within the Space** every second, and triggers Dimensional Collapse at **45** energy, dealing damage equal to (**0.1%** of the total damage dealt by the Wanderer (excluding Void Trace) in the Space plus **1200%** of ATK). This damage counts as passive damage and is the base multiplier. It is affected by damage boost. The High-Dimensional Space fades after **4** Dimensional Collapses.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_skill",
+					"id": "GA_FPlayerNanYinSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Confining Tune",
+					"description": "When **weapon charge** is full or **Phantasia** is triggered, **remove all debuffs from the wielder** and create chains from another dimension to bind the target upon switching to this weapon, delaying them by **65%** for **3** seconds (ineffective against bosses in team play), dealing damage equal to **1660%** of ATK plus **9959** to nearby targets, and becoming immune to damage for **1.5** seconds (unavailable in Apex League).\r\n\r\n**Passive: Void Trace**\r\nConfining Tune creates **1** Void Trace that launches coordinated attacks at the current locked-on target. Only **1** Void Trace may be active, and it fades after **20** seconds when not in combat.\r\nFor every **1** weapon of a different element or altered weapon equipped, increase Void Trace's damage dealt by **10%**. Void Trace's damage is also not affected by damage boosts, except for Inhabit, Confining Tune, and rare stats on titan equipment, and won't trigger additional attack effects.\r\nHold dodge when wielding **Purple Bamboo** to trigger Possession (unavailable in Apex League) and Possess Void Trace, gaining the ability to control its movements. During Possession, Coordinated Void becomes Void Trace's normal attack and skills.\r\nWhile under Possession, Void Trace enters Rampage state, increasing speed, damage reduction, shatter, and weapon charge by **50%**. Its normal attack and its skill damage increase by the same percentage as its Max HP lost at the time.\r\n**Coordinated Void**: A periodic coordinated attack from Void Trace, dealing damage equal to **165% to 300%** of Void Trace's ATK.\r\n**Void Halo**: Deal damage equal to **100%** of Void Trace's ATK every second to nearby targets.\r\n**Void Attack**: Tap normal attack to launch 4 consecutive attacks, each dealing damage equal to **240% to 385%** of Void Trace's ATK.\r\n**Void Skill**: Consume **25%** of Void Trace's Max HP and deal damage equal to **1870% to 2040%** of Void Trace's ATK, increasing Void Trace's Crit Rate by **30%** for **60** seconds.\r\n**Void Relief**: Can be triggered when Void Trace takes lethal damage, when the Wanderer equips or unequips Purple Bamboo, or when holding dodge during Possession.\r\n\r\n**Passive: Dark Wretch**\r\nWhen switching to Purple Bamboo from other weapons, Confining Tune will grant additional effects based on the element of the weapon.\r\n**Frost**: Summon Darkness: Alabaster Elite and deal area damage equal to **500%** of ATK. Also, gain a shield equal to **60%** of Max HP for **30** seconds (unavailable in Apex League). Create a hail storm by the locked-on target, dealing damage equal to **420%** of ATK to nearby targets every second for **15** seconds. Counts as normal attack damage.\r\n**Flame**: Summon Black Crow Dark Wretch and deal area damage equal to **500%** of ATK. Burn nearby targets, dealing damage equal to **240%** of ATK. Counts as passive damage.\r\n**Volt**: Summon Longxiang Dark Wretch and deal damage equal to **500%** of ATK. When not under Possession, consume **5%** of Void Trace's Max HP every second and deal **50%** of the value as damage to nearby targets. Counts as normal attack damage (unavailable in Apex League).\r\n**Physical**: Summon Darkness: Hornmane and deal area damage equal to **500%** of ATK. Gain sweeping for **30** seconds, dealing additional damage equal to **80%** of ATK to nearby targets on a critical hit. Counts as normal attack damage. Can only be triggered **1** time every **0.85** seconds.\r\n**Altered**: Summon Darkness: Taotie and deal area damage equal to **525%** of ATK. Void Trace inherits an additional **100%** of the Wanderer's ATK. Deal additional damage equal to **2000%** of Void Trace's ATK to nearby targets during Void Relief. Counts as skill damage.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_changeskill",
+					"id": "GA_FPlayerNanYinChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**The Final Tune**: Increase ATK by **30%**. Activate by equipping **3** altered weapons. This set effect works in the off-hand slot.\r\n**Imbue**: After switching to Purple Bamboo from another weapon, Purple Bamboo's damage element becomes that of the previous weapon.\r\n**Inhabit**: The power of the Darkness is able to Inhabit any unlocked weapon. When Purple Bamboo is not deployed, the power of the Darkness can Inhabit any other weapon, increasing its damage dealt by **1%**. When Purple Bamboo is deployed, the power of the Darkness Inhabits Purple Bamboo, increasing the Wanderer's damage dealt by **15%**.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "None"
+			},
+			{
+				"description": "For every **1** star gained by the Darkness-Inhabited weapon, increase Inhabit's damage boost by an additional **1%**.\r\nDimensional Collapse deals increased damage equal to (**0.1%** of total actual damage dealt in High-Dimensional Space by the Wanderer (excluding Void Trace) plus **2,400%** of ATK) (counts as base multiplier, affected by damage boost).",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "現在の武器の攻撃力基本成長率+**16%**。",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "Void Trace inherits an additional **50%** of the Wanderer's ATK. When taking lethal damage while not under Possession, instead of being defeated, consume Void Trace and become immune to damage 1 time for a short period of time. This effect can only be triggered 1 time every **60** seconds, and has a lower priority when similar effects are present. This set effect works in the off-hand slot.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "現在の武器の攻撃力基本成長率+**32%**。",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "While in High-Dimensional Space, ignore **20%** of the target's resistances.\r\nUp to **3** Void Abyss Currents can now be created.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "Dimensional Collapse now deals damage equal to (**0.4%** of total actual damage dealt in High-Dimensional Space by the Wanderer (excluding Void Trace) plus **2,400%** of ATK) (counts as base multiplier, affected by damage boost).",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			}
+		],
+		"stats": [
+			{
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
+			},
+			{
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
+			},
+			{
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
+			}
+		],
+		"id": "nanyin_superpower"
 	},
 	"linghan_ice": {
 		"name": "監兵",
 		"description": "剣にひらりと舞う袖、その心を知る者はなく",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR37_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -3865,7 +3687,7 @@
 		},
 		"stars": [
 			{
-				"description": "**氷共鳴**：氷属性武器を**2**つ以上装備すると発動。氷攻撃力+**15%**、氷耐性+**25%**。装備すると常時有効、同系統の効果はスタック不可。\r\n**極寒・脱手**：**剣訣・凌玄影**の発動後、攻撃が命中したターゲットに対し氷攻撃力×**70%**+自身の最大HP×**10%**+各属性耐性の合計値×**36%**+会心の値×**135%**のダメージを毎秒与える。**30**秒間持続。脱手ダメージはスタック不可。極寒ダメージはスキルダメージと見なされる。雷/炎/物理属性武器のいずれかを**1**つ装備している場合、極寒ダメージが**1.3**倍まで UPする。なお、極寒ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+				"description": "**氷共鳴**：氷属性武器を**2**つ以上装備すると発動。氷攻撃力+**15%**、氷耐性+**25%**。装備すると常時有効(複数の物理共鳴/物理反応はスタック不可、物理共鳴が優先して発動)。\r\n**極寒・脱手**：**剣訣・凌玄影**の発動後、攻撃が命中したターゲットに対し氷攻撃力×**70%**+自身の最大HP×**10%**+各属性耐性の合計値×**36%**+会心の値×**135%**のダメージを毎秒与える。**30**秒間持続。脱手ダメージはスタック不可。極寒ダメージはスキルダメージと見なされる。雷/炎/物理属性武器のいずれかを**1**つ装備している場合、極寒ダメージが**1.3**倍まで UPする。なお、極寒ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3873,7 +3695,7 @@
 				"need": "None"
 			},
 			{
-				"description": "**氷刃**の発射後、自身の氷攻撃力+**10%**。さらに付近のターゲットに攻撃力×**80%**のダメージを毎秒与える。両効果は**30**秒間持続。",
+				"description": "**氷刃**の発射後、自身の氷攻撃力+**10%**。さらに付近のターゲットに攻撃力×**104%**のダメージを毎秒与える。両効果は**30**秒間持続。",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3889,7 +3711,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "**氷刃**の生成数上限が**4**まで UPし、**温度低下**によるダメージの基本倍率が**360%**まで UPする。\r\n**6**秒の間、**温度低下**効果を受けているのがターゲットのみの場合、ターゲットに追加で**封脈**効果を付与し移動速度-**30%**(トップリーグ及びボスには無効)。**封脈**の持続中に再び**氷刃**で当該ターゲットにダメージを与えると氷爆が発動し、攻撃力×**1700%**+ターゲットが失っているHPの**2%**のスキルダメージを与える(氷爆ダメージはプレイヤーの氷攻撃力×**2000%**～プレイヤーの氷攻撃力×**2200%**以内に収まる)。さらに、ターゲットの**封脈**と**温度低下**効果を解除する。",
+				"description": "**氷刃**の生成数上限が**4**まで UPし、**温度低下**によるダメージの基本倍率が**468%**まで UPする。\r\n**6**秒の間、**温度低下**効果を受けているのがターゲットのみの場合、ターゲットに追加で**封脈**効果を付与し移動速度-**30%**(トップリーグ及びボスには無効)。**封脈**の持続中に再び**氷刃**で当該ターゲットにダメージを与えると氷爆が発動し、攻撃力×**1700%**+ターゲットが失っているHPの**2%**のスキルダメージを与える(氷爆ダメージはプレイヤーの氷攻撃力×**2000%**～プレイヤーの氷攻撃力×**2200%**以内に収まる)。さらに、ターゲットの**封脈**と**温度低下**効果を解除する。",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3905,7 +3727,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "**晶裂**と**氷気**によるダメージが追加で+**50%**。また、**飛舞落**の使用上限が**10**回までに UPし、使用回数の回復効率が**3**秒ごとに**1**回まで UPする。",
+				"description": "**晶裂**と**氷気**によるダメージが追加で+**50%**。また、**飛舞落**の使用上限が**10**回までに UPし、使用回数の回復効率が**3**秒ごとに**1**まで UPする。",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3913,7 +3735,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "**氷刃**の発射後に付与する**温度低下**効果が範囲効果に変化する。また、付近のターゲットに追加で攻撃力×**990%**のダメージを与える。",
+				"description": "**氷刃**の発射後に付与する**温度低下**効果が範囲効果に変化する。また、付近のターゲットに追加で攻撃力×**1170%**のダメージを与える。",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3923,44 +3745,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.571905
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1010.0971
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 11.837075
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "臨剣",
-				"description": "最終ダメージ+**13%**。**監兵**装備時、氷属性武器を**1**つ装備するごとに氷ダメージ+**1%**。"
-			},
-			"level2": {
-				"name": "御剣",
-				"description": "最終ダメージ+**18%**。**監兵**装備時、氷属性武器を**1**つ装備するごとに氷ダメージ+**2.5%**。"
-			},
-			"id": "imitation_43"
-		},
 		"id": "linghan_ice"
 	},
 	"suspension_thunder": {
@@ -3968,8 +3767,7 @@
 		"description": "設計者不明の特製浮遊レールガン。プロトタイプの設計図は既に失われている。内部には独特の蓄電システムが備えられ、一旦壊れると修復は難しい。ただし、ベンジス重工のコバルトならできるようだ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_naimxs_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR14_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -4112,44 +3910,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ネメシス・変化",
-				"description": "電極を生成すると、電極の周囲**30**メートル以内にいるすべての敵に攻撃力の**60%**の雷ダメージを与え、自身を含むすべての味方が攻撃力の**120%**の回復を受ける"
-			},
-			"level2": {
-				"name": "ネメシス・昇華",
-				"description": "電極を生成すると、電極の周囲**30**メートル以内にいるすべての敵に攻撃力の**100%**の雷ダメージを与え、自身を含むすべての味方が攻撃力×**200%**の回復を受ける"
-			},
-			"id": "imitation_17"
-		},
 		"id": "suspension_thunder"
 	},
 	"frigg_ice": {
@@ -4157,8 +3932,7 @@
 		"description": "赦しの天使フレイヤ専用の大剣と佩刀。フレイヤのメカボディに適合するように製造された。2本の武器は一体ではないが、フレイヤは合わせてバルムンクと呼んでいる",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_frigg_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR15_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -4295,44 +4069,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "凍結",
-				"description": "戦闘開始時、**3**秒ごとに氷攻撃力+**1.5%**を獲得、最大**10**スタックまで可能、**5**秒持続"
-			},
-			"level2": {
-				"name": "フリーズ",
-				"description": "戦闘開始時、**3**秒ごとに氷攻撃力+**2.4%**を獲得、最大**10**スタックまで可能、**5**秒間持続。さらに氷テリトリー内では不屈効果と行動制限無効効果を獲得する"
-			},
-			"id": "imitation_28"
-		},
 		"id": "frigg_ice"
 	},
 	"funnel_fire": {
@@ -4340,8 +4091,7 @@
 		"description": "凛夜はミラポリスの研究開発部にラビィ特製の武器を依頼した。主な機能は…おままごとの相手、朝ラビィ起こすこと、ラビィの道案内など…おっと、一番大事なのはもちろん、ラビィを守ることだ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_funnel_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR16_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -4484,44 +4234,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ドリームキャッチャー",
-				"description": "ドリーの**5**m以内にいるモンスターが受ける炎ダメージ+**8%**、スタック不可"
-			},
-			"level2": {
-				"name": "ドリーテリトリー",
-				"description": "ドリーの5m以内にいるモンスターが受ける炎ダメージ+**8%**、スタック不可。ドリーを投げると炎攻撃力+**12%**、**10**秒間持続、スタック不可"
-			},
-			"id": "imitation_21"
-		},
 		"id": "funnel_fire"
 	},
 	"dkatana_ice": {
@@ -4529,8 +4256,7 @@
 		"description": "超心流実験に用いる特殊作戦用の太刀。使用者の精神状態を感知でき、必要に応じて作戦を手助けする「剣影」を生み出せる",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_dkatana_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR17_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -4679,44 +4405,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "不破咲-不屈の姿勢",
-				"description": "HPが**70%**未満の時、全属性耐性**40%**を獲得"
-			},
-			"level2": {
-				"name": "不破咲-守護の剣",
-				"description": "HPが**70%**未満の時、全属性耐性**40%**を獲得し、氷耐性を追加で**60%**獲得。静心流時、【奔流】がブロックするとHP比率の最も低い味方(自分以外)にブロック能力を3回付与する。ブロック量は味方の最大HPの**15%**以下。**10**秒間持続"
-			},
-			"id": "imitation_22"
-		},
 		"id": "dkatana_ice"
 	},
 	"fan_superpower": {
@@ -4724,8 +4427,7 @@
 		"description": "最初はより小型で軽量の暗器として設計されたが、使い手の要求で剣のような重厚な形に変更された。ずっしり重く暗器とは似ても似つかない",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_fan_superpower01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR18_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01"
 		},
 		"rarity": "SSR",
 		"element": "Superpower",
@@ -4871,44 +4573,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "凛夜・月華満開",
-				"description": "月下美人の花の爆発ダメージ+**15%**"
-			},
-			"level2": {
-				"name": "凛夜・月華絢爛",
-				"description": "月下美人の花の爆発ダメージ+**20%**。月下美人の花がターゲットに命中すると全属性耐性が**7%**減少、**7**秒間持続、スタック不可"
-			},
-			"id": "imitation_23"
-		},
 		"id": "fan_superpower"
 	},
 	"tianlang_thunder": {
@@ -4916,8 +4595,7 @@
 		"description": "稲妻ほとばしる長槍。コードネームはSMA1-TS00-破重雷槍。蓄積したエナジーが予想もつかぬ形で解き放たれる。破重雷槍が生成する電界は使用者の意識に干渉するため、並の人間では制御できない",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Tianlang_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR20_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -5060,44 +4738,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "天琅・廻雷",
-				"description": "雷属性武器のスキルまたは連携スキルを発動するごとに、回避回数の消費なしに回避できる機会を**1**回分獲得し、最大**2**回までスタック可能。それとともに雷属性武器または連携スキルを発動すると雷ダメージ+**12%**、**8**秒間持続。スタック不可"
-			},
-			"level2": {
-				"name": "天琅・動雷",
-				"description": "雷属性武器のスキルまたは連携スキルを発動するごとに、回避回数の消費なしに回避できる機会を**1**回分獲得し、最大**2**回までスタック可能。それとともに雷属性武器または連携スキルを発動すると雷ダメージ+**18%**、**8**秒間持続。スタック不可"
-			},
-			"id": "imitation_29"
-		},
 		"id": "tianlang_thunder"
 	},
 	"arm_physic": {
@@ -5105,8 +4760,7 @@
 		"description": "マデリーン・ファンドのある人物のためにカスタマイズされたアシスト型作戦用武器。エスターがこれを使いこなしてくれるとマデリーン氏は信じている",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Arm_Physic01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR19_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -5267,44 +4921,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "共感",
-				"description": "恩恵共鳴時：チーム全体の最大HP+10%、複数の場合はスタック不可"
-			},
-			"level2": {
-				"name": "加護",
-				"description": "恩恵共鳴時：チーム全体の最大HP+10%、複数の場合はスタック不可"
-			},
-			"id": "imitation_24"
-		},
 		"id": "arm_physic"
 	},
 	"rubilia_thunder": {
@@ -5312,8 +4943,7 @@
 		"description": "混沌のアビスから軽やかに放たれた一撃は、あらゆる者の運命を巻き込む雷雨となる。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Rubilia_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR31_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -5468,44 +5098,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Synergy",
-				"description": "雷属性武器を**1**つ装備するごとに、雷ダメージ+**6%**"
-			},
-			"level2": {
-				"name": "Enlightenment",
-				"description": "雷属性武器を**1**つ装備するごとに、雷ダメージ+**8%**"
-			},
-			"id": "imitation_48"
-		},
 		"id": "rubilia_thunder"
 	},
 	"iceblade_ice": {
@@ -5513,8 +5120,7 @@
 		"description": "足用のブレード武器を中心にした戦闘用装甲。大厄災前の最先端技術により、使用者の精神力を吸収して武器のエナジーとする。いざという時は恐ろしい潜在能力を発揮する",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_iceblade_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR22_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -5663,44 +5269,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.203884
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 4.550971
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "燦めく翅",
-				"description": "武器スキルの発動に成功すると最終ダメージ+**13%**、**12**秒間持続"
-			},
-			"level2": {
-				"name": "輝く翅",
-				"description": "武器スキルの発動に成功すると最終ダメージ+**18%**、**18**秒間持続"
-			},
-			"id": "imitation_30"
-		},
 		"id": "iceblade_ice"
 	},
 	"snipe_fire": {
@@ -5708,8 +5291,7 @@
 		"description": "ミラポリスで大流行しているVRマルチ・オンライン・シューティングゲームの主催者があるシーズンの個人チャンピオンのために特別に設計した銃。オーダーメイドされた実物模型はチャンピオン本人にも送られたのだが、まさか本当にゲームのように使えるとは…",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Snipe_fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR21_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -5846,44 +5428,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ガス(ドカーン！)",
-				"description": "ガス爆発が敵**1**体に命中するたびに、クローバークロスのダメージ+**8%**、**20**秒間持続。最大**2**スタックまで可能"
-			},
-			"level2": {
-				"name": "ガス(ドッカーーン！)",
-				"description": "ガス爆発が敵**1**体に命中するたびに、クローバークロスのダメージ+**15%**、**20**秒間持続。最大**2**スタックまで可能"
-			},
-			"id": "imitation_26"
-		},
 		"id": "snipe_fire"
 	},
 	"brush_fire": {
@@ -5891,8 +5450,7 @@
 		"description": "「暴力反対！本物の文人は文房具で人を殴ったりなんてするか！！」――榕金",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_liuhuo",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR32_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6059,44 +5617,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Counting Ink",
-				"description": "最終ダメージ+**13%**。**松慧**を装備しており、なおかつバックグラウンドにある時、**雀羽**による攻撃頻度が**1**回/秒に UP する"
-			},
-			"level2": {
-				"name": "執筆",
-				"description": "最終ダメージ+**18%**。**松慧**を装備しており、なおかつバックグラウンドにある時、**雀羽**による攻撃頻度が**1**回/秒に UP する"
-			},
-			"id": "imitation_37"
-		},
 		"id": "brush_fire"
 	},
 	"whip_physic": {
@@ -6104,8 +5639,7 @@
 		"description": "新米エクセキューターのウーミィがいつも使っている鞭。彼女のお気に入りポイントは、この鞭なら普段持っていても転ばずにすむところ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Whip_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR23_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -6266,44 +5800,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ウーミィ・十八番",
-				"description": "ウーミィが**【マジックタイム】**を発動するたびに、最終ダメージ+**12%**を獲得、**30**秒間持続、スタック不可"
-			},
-			"level2": {
-				"name": "ウーミィ・ドレスアップ",
-				"description": "ウーミィが**【マジックタイム】**を発動するたびに、最終ダメージ+**18%**を獲得、**30**秒間持続、スタック不可"
-			},
-			"id": "imitation_31"
-		},
 		"id": "whip_physic"
 	},
 	"feise_fire": {
@@ -6311,8 +5822,7 @@
 		"description": "蓮弁が連なる時、殺意の影が現れる",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feise",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR36_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6415,7 +5925,7 @@
 		},
 		"stars": [
 			{
-				"description": "**炎共鳴**：炎属性武器を**2**つ以上装備すると発動。炎攻撃力+**20%**、炎耐性+**40%**。装備すると常時有効(複数の炎共鳴/炎反応はスタック不可、炎共鳴が優先して発動)。\r\n**爆炎・速斬り**：**重蕊**装備中に、任意の武器による連携スキルが命中した時、最初に付近のターゲットに炎攻撃力×**37.5%**+自身の最大HP×**0.5%**+各属性耐性の合計値×**18.75%**+会心の値×**68.75%**のダメージを与える。その後、戦闘状態が継続する間、次回以降の速斬りは、**0.5**秒間隔でダメージが上昇し、1回目の速斬りダメージ×**100％**ずつ加算されていく(この加算は最大**30回**まで)。1回目の速斬りダメージが複数発生した場合は、各攻撃が最初に与えたダメージのうちの最大値を基準にする。この速斬りダメージは連携ダメージと見なされる。任意の雷/氷/物理属性武器を**1**つ装備した場合、爆炎ダメージが**1.3**倍まで UPする。爆炎ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
+				"description": "**炎共鳴**：炎属性武器を**2**つ以上装備すると発動。炎攻撃力+**15%**、炎耐性+**25%**。装備すると常時有効、同系統の効果はスタック不可。\r\n**爆炎・速斬り**：**重蕊**装備中に、任意の武器による連携スキルを行うと付近のターゲットに炎攻撃力×**37.5%**+自身の最大HP×**0.5%**+各属性耐性の合計値×**18.75%**+会心の値×**68.75%**のダメージを与える。その後、戦闘状態が継続する間、次回以降の速斬りは**0.5**秒間隔でダメージが上昇し、1回目の速斬りダメージ×**100％**ずつ加算されていく(この加算は最大**30**回まで)。1回目の速斬りダメージが複数発生した場合は、各攻撃が最初に与えたダメージのうちの最大値を基準にする。この速斬りダメージは連携ダメージと見なされる。任意の氷/雷/物理属性武器を**1**つ装備した場合、爆炎ダメージが**1.3**倍まで UPする。爆炎ダメージはこの装備条件以外によるダメージ UP効果を受けず(タイタン装備のレアステータスを除く)、攻撃効果の追加発動を誘発しない。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6423,7 +5933,7 @@
 				"need": "None"
 			},
 			{
-				"description": "**心炎**ダメージの基本倍率が攻撃力×**120%**まで UP。戦闘状態の時、自身が燃焼状態を複数付与している場合、**心炎**ダメージの基本倍率は最高倍率にまで UPする。",
+				"description": "**心炎**ダメージの基本倍率が攻撃力×**60%**まで UP。戦闘状態の時、自身が燃焼状態を複数付与しており、かつ心炎ダメージの基本倍率よりも高い倍率の点火または燃焼効果がある場合、**心炎**ダメージの基本倍率は最も高い倍率にまで UPする。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6455,7 +5965,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "**蜃気楼**内に**妃色化身**または**蓮弁**が**1**つ存在するごとに、**心炎**によるダメージが追加で+**15%**。\r\n**蓮歩飛天**発動中のスタミナ消費-**75%**。",
+				"description": "**蜃気楼**内に**妃色化身**または**蓮弁**が**1**つ存在するごとに、**心炎**によるダメージが追加で+**12%**。\r\n**蓮歩飛天**発動中のスタミナ消費-**75%**。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6463,7 +5973,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "**心蝕**ダメージの基本倍率が攻撃力×**900%**まで UPする。心蝕ダメージによるシールドブレイク率が2倍になり、ターゲットに心蝕ダメージを与えた際に**15%**の確率で**2**秒間かつ**65%**のスロウ効果を付与する(チームプレイ時のボスならびにトップリーグでは無効)。",
+				"description": "**心蝕**ダメージの基本倍率が攻撃力×**270%**まで UPする。心蝕ダメージによるシールドブレイク率が2倍になり、ターゲットに心蝕ダメージを与えた際に**15%**の確率で**2**秒間かつ**65%**のスロウ効果を付与する(チームプレイ時のボスならびにトップリーグでは無効)。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6473,44 +5983,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "蓮舞",
-				"description": "最終ダメージ+**0%**。\r\n**扶揺**の発動後、炎属性武器を**1**つ装備するごとに最終ダメージ+**4.5%**。**30**秒間持続。"
-			},
-			"level2": {
-				"name": "Darkshadow",
-				"description": "最終ダメージ+**0%**。\r\n**扶揺**の発動後、炎属性武器を**1**つ装備するごとに最終ダメージ+**9%**。**30**秒間持続。"
-			},
-			"id": "imitation_51"
-		},
 		"id": "feise_fire"
 	},
 	"fenrir_thunder": {
@@ -6518,8 +6005,7 @@
 		"description": "音波を攻撃力に変換できる特殊な装置。拘束が解かれると死の電流が鉤爪となりあらゆるものを引き裂く",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Fenrir_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR24_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -6674,44 +6160,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Dimensi X",
-				"description": "異なる属性の武器を**2**点装備すると自身の最終ダメージ+**13%**。異なる属性の武器を**3**点装備すると自身の最終ダメージ+**18%**"
-			},
-			"level2": {
-				"name": "Dimensi Z",
-				"description": "異なる属性の武器を**2**点装備すると自身の最終ダメージ+**18%**。異なる属性の武器を**3**点装備すると自身の最終ダメージ+**23%**"
-			},
-			"id": "imitation_32"
-		},
 		"id": "fenrir_thunder"
 	},
 	"umbrella_fire": {
@@ -6719,8 +6182,7 @@
 		"description": "朱雀専用の傘の形をした武器で、さまざまな仕掛けが隠されている。この大きな武器はエナジーを放出して敵を倒す道具でもあり、他者の視線を遮り自身の動きを隠す道具でもある…",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_umbrella_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR27_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6875,44 +6337,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "業火",
-				"description": "剛毅共鳴時、結界内の自身と仲間の炎/氷被ダメージ-**16%**"
-			},
-			"level2": {
-				"name": "瀾炎",
-				"description": "剛毅共鳴時、結界内の自身と仲間の炎/氷被ダメージ-**24%**"
-			},
-			"id": "imitation_34"
-		},
 		"id": "umbrella_fire"
 	},
 	"yoyo_ice": {
@@ -6920,8 +6359,7 @@
 		"description": "世界に数点しかない、ファッションセンス抜群な武器。使用者が荒野の暗闇をも恐れずに歩き、いかなる危険や困難にも立ち向かえるような勇気をこの手に",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yoyo_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR28_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -7070,44 +6508,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "アイスブレイク",
-				"description": "グロリアスライトを装備すると最終与ダメージ+**10%**、グロリアスライトの使用中はシールドブレイク効果+**20%**"
-			},
-			"level2": {
-				"name": "メルティウイング",
-				"description": "グロリアスライトを装備すると最終与ダメージ+**15%**、グロリアスライトの使用中はシールドブレイク効果+**45%**"
-			},
-			"id": "imitation_35"
-		},
 		"id": "yoyo_ice"
 	},
 	"yulan_ice": {
@@ -7115,8 +6530,7 @@
 		"description": "「共に至る」という意味の武器。姫玉自らが玉蘭のために選んだもので、九域の最新技術が凝縮されている。刻の印と一緒に使用すると神秘的な光景が現れる",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yulan_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR33_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -7295,44 +6709,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "静気",
-				"description": "最終ダメージ+**13%**\r\n**武闘**形態時、自身の最終ダメージに追加で+**7%**。\r\n**掠陣**形態時、氷属性武器を**1**つ装備するごとに**戦意**消費時の与ダメージ+**9%**。氷属性武器を**3**つ装備すると、自身が与える氷ダメージ+**8%**。"
-			},
-			"level2": {
-				"name": "凝心",
-				"description": "最終ダメージ+**18%**\r\n**武闘**形態時、自身の最終ダメージに追加で+**7%**。\r\n**掠陣**形態時、氷属性武器を**1**つ装備するごとに**戦意**消費時の与ダメージ+**9%**。氷属性武器を**3**つ装備すると、自身が与える氷ダメージ+**8%**。"
-			},
-			"id": "imitation_38"
-		},
 		"id": "yulan_ice"
 	},
 	"zeke_physic": {
@@ -7340,8 +6731,7 @@
 		"description": "常人には扱えぬほどの大剣。強力無比な威力を放つことができる。驚くべき破壊力を秘めているだけでなく、その幅のある刃で盤石の安定感をもたらしてくれる",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Zeke_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR34_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "PhysicsFlame",
@@ -7496,44 +6886,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "会心",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "会心",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "究道",
-				"description": "最終与ダメージ+**12%**。\r\n自身の物理の基礎攻撃力が、自身の物理/炎/氷/雷の基礎攻撃力のうち最も高いものと同値になる。**執明**がフロントにある時、通常攻撃ダメージ+**30%**。"
-			},
-			"level2": {
-				"name": "忘我",
-				"description": "最終与ダメージ+**18%**。\r\n自身の物理の基礎攻撃力が、自身の物理/炎/氷/雷の基礎攻撃力のうち最も高いものと同値になる。**執明**がフロントにある時、通常攻撃ダメージ+**50%**。"
-			},
-			"id": "imitation_50"
-		},
 		"id": "zeke_physic"
 	},
 	"queen_superpower": {
@@ -7541,8 +6908,7 @@
 		"description": "鉄をも削る光の刃を発生させる不思議なナノウェポン。待機時に持ち主の腕や手首に巻きつくように三日月のような腕輪に変化したことから、持ち主は「月星の環」と呼んでいる",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feiouna",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR29_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna"
 		},
 		"rarity": "SSR",
 		"element": "Superpower",
@@ -7736,44 +7102,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻撃",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.203884
+				"name": "攻撃",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全属性耐性",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 4.550971
+				"name": "全属性耐性",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "スター・フラッシュ",
-				"description": "自身の最終ダメージ+**16%**"
-			},
-			"level2": {
-				"name": "ムーン・ライト",
-				"description": "自身の最終ダメージ+**18%**"
-			},
-			"id": "imitation_36"
-		},
 		"id": "queen_superpower"
 	}
 }

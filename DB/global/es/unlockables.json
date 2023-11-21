@@ -6,11 +6,11 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Conversación Desconcertante",
+				"text": "Bitácora: Una conversación desconcertante",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Reglas",
+				"text": "Bitácora: reglas",
 				"stage": 2000
 			},
 			{
@@ -27,15 +27,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Asume la Responsabilidad",
+				"text": "Bitácora: Asume la responsabilidad",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Un Hambre de Poder",
+				"text": "Bitácora: Un hambre de poder",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: El Futuro de las Máquinas",
+				"text": "Bitácora: El futuro de las máquinas",
 				"stage": 3000
 			}
 		],
@@ -48,15 +48,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Una Conversación Fría",
+				"text": "Bitácora: Una conversación fría",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Días Congelados",
+				"text": "Bitácora: Días congelados",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Nieve Derretida",
+				"text": "Bitácora: Nieve derretida",
 				"stage": 3000
 			}
 		],
@@ -69,16 +69,33 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Una Canción para el Camino",
+				"text": "Bitácora: Una canción para el camino",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Por qué Combatimos",
+				"text": "Bitácora: Por qué peleamos",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Quo Vadis",
+				"text": "Bitácora: ¿A dónde vas?",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Domain 9 Walker",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_4"
@@ -90,7 +107,7 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Baila a Solas",
+				"text": "Bitácora: Baile solitario",
 				"stage": 600
 			},
 			{
@@ -132,15 +149,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Un Calor Natural",
+				"text": "Bitácora: Calidez natural",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Advertencia de Congelación",
+				"text": "Bitácora: Alerta de Congelación",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Tú Sabes lo Mejor",
+				"text": "Bitácora: Tú sabes más",
 				"stage": 3000
 			}
 		],
@@ -153,15 +170,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Asociación Pasiva",
+				"text": "Bitácora: Asociación pasiva",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Las Olas del Mar",
+				"text": "Bitácora: Las olas del mar",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Una Canción de Secretos",
+				"text": "Bitácora: Una canción de secretos",
 				"stage": 3000
 			}
 		],
@@ -174,15 +191,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Un Trato Especial",
+				"text": "Bitácora: Trato azaroso",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Contrato Igualitario",
+				"text": "Bitácora: Contrato igualitario",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Una Apuesta",
+				"text": "Bitácora: una apuesta",
 				"stage": 3000
 			}
 		],
@@ -199,11 +216,11 @@
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Buena Asociación",
+				"text": "Bitácora: Buena colaboración",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Amistades y Armas",
+				"text": "Bitácora: Amigos y armas",
 				"stage": 3000
 			}
 		],
@@ -237,11 +254,11 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Es un Placer Conocerte",
+				"text": "Bitácora: Es un placer conocerte",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Un Alma Servicial",
+				"text": "Bitácora: Un alma útil",
 				"stage": 2000
 			},
 			{
@@ -258,15 +275,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Amistad Identificada",
+				"text": "Bitácora: Amistad identificada",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Romance Optimista",
+				"text": "Bitácora: Romance optimista",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Bromeando",
+				"text": "Bitácora: Broma",
 				"stage": 3000
 			}
 		],
@@ -279,15 +296,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Lista de Tareas",
+				"text": "Bitácora: Lista laboral",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: No es Saludable",
+				"text": "Bitácora: No muy saludable",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Sueño de los Aberrantes",
+				"text": "Bitácora: Sueño del aberrante",
 				"stage": 3000
 			},
 			{
@@ -317,15 +334,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Brisa Marina Salada",
+				"text": "Bitácora: Brisa marina y salada",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Viaje Agradable",
+				"text": "Bitácora: Viaje placentero",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Hacia el Futuro",
+				"text": "Bitácora: Hacia el futuro",
 				"stage": 3000
 			}
 		],
@@ -338,15 +355,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Título",
+				"text": "Bitácora: Un título",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Uniendo Corazones",
+				"text": "Bitácora: Puente entre corazones",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Tu Verdadero Ser",
+				"text": "Bitácora: Tu verdadero ser",
 				"stage": 3000
 			}
 		],
@@ -363,11 +380,11 @@
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Operaciones Experimentales",
+				"text": "Bitácora: Operación experimental",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Frente al Ojo Biónico",
+				"text": "Bitácora: Frente al ojo biónico",
 				"stage": 3000
 			}
 		],
@@ -388,7 +405,7 @@
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Tengo Muchas Historias",
+				"text": "Bitácora: Tengo muchas historias",
 				"stage": 3000
 			}
 		],
@@ -405,7 +422,7 @@
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Reglas y Realidad",
+				"text": "Bitácora: Reglas y realidades",
 				"stage": 2000
 			},
 			{
@@ -422,15 +439,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: La Nueva Amistad de Dolly",
+				"text": "Bitácora: La nueva amistad de Dolly",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Lo Desconocido",
+				"text": "Bitácora: Lo desconocido",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Postsueño",
+				"text": "Bitácora: Después del sueño",
 				"stage": 3000
 			}
 		],
@@ -443,7 +460,7 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Capitana de las Fuerzas Especiales",
+				"text": "Bitácora: Capitán de las Fuerzas Especiales",
 				"stage": 600
 			},
 			{
@@ -464,7 +481,7 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Diferencias de Fe",
+				"text": "Bitácora: Diferentes Creencias",
 				"stage": 600
 			},
 			{
@@ -474,6 +491,23 @@
 			{
 				"text": "Bitácora: Vida en la Oscuridad",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Casual Gathering",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_23"
@@ -485,15 +519,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Equipo",
+				"text": "Bitácora: Equipamiento",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Enlace",
+				"text": "Bitácora: Vínculo",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Rastreo",
+				"text": "Bitácora: En Camino",
 				"stage": 3000
 			}
 		],
@@ -506,15 +540,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Espadas y Ballestas",
+				"text": "Bitácora: Espadas y ballestas",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: La Supuesta Justicia",
+				"text": "Bitácora: La famosa justicia",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: No es un Demonio Después de Todo",
+				"text": "Bitácora: No es un demonio después de todo",
 				"stage": 3000
 			}
 		],
@@ -527,15 +561,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Identidad Diferente",
+				"text": "Bitácora: Identidad diferente",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Flor Lunar",
+				"text": "Bitácora: Flor lunar",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Estrellas en Sueños",
+				"text": "Bitácora: Estrellas en el sueño",
 				"stage": 3000
 			}
 		],
@@ -548,11 +582,11 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: El Guardaespaldas y el Trabajo de Medio Tiempo",
+				"text": "Bitácora: El guardaespaldas y el trabajo de medio tiempo",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Otro Fin de Línea",
+				"text": "Bitácora: Otro fin de línea",
 				"stage": 2000
 			},
 			{
@@ -569,15 +603,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Agente de las Fuerzas Especiales",
+				"text": "Bitácora: Agente de Fuerzas Especiales",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Nombre Clave de la Operación",
+				"text": "Bitácora: Nombre clave de la operación",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Tú y Yo",
+				"text": "Bitácora: Tú y yo",
 				"stage": 3000
 			}
 		],
@@ -590,15 +624,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: Espejo Roto",
+				"text": "Bitácora: Espejo roto",
 				"stage": 600
 			},
 			{
-				"text": "Bitácora: Imagen Virtual",
+				"text": "Bitácora: Imagen virtual",
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Primer Contacto",
+				"text": "Bitácora: Primer contacto",
 				"stage": 3000
 			}
 		],
@@ -611,7 +645,7 @@
 				"stage": 200
 			},
 			{
-				"text": "Bitácora: El Chocolate está Prohibido",
+				"text": "Bitácora: El chocolate está prohibido",
 				"stage": 600
 			},
 			{
@@ -619,7 +653,7 @@
 				"stage": 2000
 			},
 			{
-				"text": "Bitácora: Fenrir Te está Buscando",
+				"text": "Bitácora: Fenrir te está buscando",
 				"stage": 3000
 			}
 		],
@@ -684,6 +718,23 @@
 			{
 				"text": "Bitácora: una canción de valentía",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Doing My Best",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_36"
@@ -705,6 +756,23 @@
 			{
 				"text": "Bitácora: Vistazo a la Isla Espectro",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Greatest Discovery in History",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_27"
@@ -726,6 +794,23 @@
 			{
 				"text": "Bitácora: Resurgimiento",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Through Thick and Thin",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_48"
@@ -747,6 +832,23 @@
 			{
 				"text": "Bitácora: Creciendo",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Tasting Secret Recipe",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_37"
@@ -768,6 +870,23 @@
 			{
 				"text": "Bitácora: Conversación profunda",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Leisure Time",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_38"
@@ -944,5 +1063,43 @@
 			}
 		],
 		"id": "imitation_33"
+	},
+	"imitation_49": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Corner of the Past",
+				"stage": 600
+			},
+			{
+				"text": "Log: Getting Closer As Days Go By",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Lone Melodies on A Solitary String",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Continuation of Dream",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_49"
 	}
 }

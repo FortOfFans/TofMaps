@@ -79,6 +79,22 @@
 			{
 				"text": "Protokoll: Quo Vadis",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_4"
@@ -474,6 +490,22 @@
 			{
 				"text": "Protokoll: Leben in der Dunkelheit",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_23"
@@ -684,6 +716,22 @@
 			{
 				"text": "Protokoll: Ein Lied des Muts",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_36"
@@ -705,6 +753,22 @@
 			{
 				"text": "Protokoll: Anblick der Geisterinsel",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_27"
@@ -726,6 +790,22 @@
 			{
 				"text": "Protokoll: Wiederauferstehung",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_48"
@@ -747,6 +827,22 @@
 			{
 				"text": "Protokoll: Erwachsen werden",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_37"
@@ -768,6 +864,22 @@
 			{
 				"text": "Protokoll: Tiefgründiges Gespräch",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_38"
@@ -944,5 +1056,39 @@
 			}
 		],
 		"id": "imitation_33"
+	},
+	"imitation_49": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"stage": 600
+			},
+			{
+				"stage": 2000
+			},
+			{
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_49"
 	}
 }

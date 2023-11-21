@@ -4,8 +4,7 @@
 		"description": "อาวุธทั่วไปของผู้ที่อาศัยอยู่ในทุ่งหิมะวอร์เรน อาวุธนี้บรรจุไปด้วยพลังน้ำแข็ง สะท้อนให้เห็นถึงลักษณะท้องถิ่นที่ใช้งานมัน มันเป็นที่นิยมมากเพราะราคาถูก แต่ก็มีประสิทธิภาพสูง",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Spear_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01"
 		},
 		"rarity": "R",
 		"element": "Ice",
@@ -104,31 +103,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 6.714021
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.20856
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "spear_ice"
@@ -138,8 +125,7 @@
 		"description": "อาวุธพื้นฐานที่พัฒนาขึ้นโดยเบนเจสเทค หลอมในอัลลอยพิเศษ น้ำหนักเบา คล่องแคล่ว และถือสะดวก",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Ds_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01"
 		},
 		"rarity": "R",
 		"element": "Physics",
@@ -232,31 +218,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 7.350086
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 5.653912
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "digger_physic"
@@ -266,8 +240,7 @@
 		"description": "โครงการออมเนียมแม่เหล็กไฟฟ้าแรกสุด ดาบนี้ใช้งานง่ายและได้รับความนิยมอย่างมากในหมู่นักพเนจรที่ไม่ได้ถนัดการต่อสู้",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Sword_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01"
 		},
 		"rarity": "R",
 		"element": "Thunder",
@@ -354,31 +327,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 6.360651
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.650271
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sword_thunder"
@@ -388,8 +349,7 @@
 		"description": "อาวุธทั่วไปที่นักล่าใช้ในทุ่งหิมะ ถือสะดวกและมีความแม่นยำสูง หลังจากโฆษณาขายมากพอ มันมีส่วนแบ่งมากกว่าครึ่งหนึ่งของตลาดพลเรือนที่มีราคาไม่แพง",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Bow_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01"
 		},
 		"rarity": "R",
 		"element": "Flame",
@@ -476,31 +436,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 7.350086
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 5.653912
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "bow_fire"
@@ -510,8 +458,7 @@
 		"description": "คทายนต์ที่สลักรูนไม้กางเขนเข้าไป สามารถใช้อภัยบาปหรือลงทัณฑ์ได้",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Stave_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR6_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01"
 		},
 		"rarity": "SR",
 		"element": "Thunder",
@@ -653,31 +600,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 10.012136
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 5.153305
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "stave_thunder"
@@ -687,8 +622,7 @@
 		"description": "ปืนที่ดีที่สุดที่เคยสร้างขึ้นมา มีฉายาว่าป้อมปืนเคลื่อนที่",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Cannon_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR7_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01"
 		},
 		"rarity": "SR",
 		"element": "Ice",
@@ -800,31 +734,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 11.778983
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.944746
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "cannon_ice"
@@ -834,8 +756,7 @@
 		"description": "มันอันตรายเกินกว่าจะเป็นของเล่นของเด็ก และเด็กคนนั้นไม่มีทางที่จะได้มันมาโดยบังเอิญแน่ ๆ ใครจะไปรู้ว่ามันได้รับการปรับแต่งโดยเทคโนโลยีแบบไหน... อีกอย่างนะ นี่อาจจะเป็นสมบัติที่หายไประหว่างการผจญภัยบางอย่างก็ได้ว่ามั้ย?",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Chainsaw_physic01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR30_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -990,44 +911,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "กนอนโน: ระลอก",
-				"description": "หลังจาก**ทีมสำรวจรวมพลัง**เรียกใช้**ระเบิดอย่างสมบูรณ์**แล้ว ดาเมจสุดท้ายจะเพิ่มขึ้น **12%** เป็นเวลา **30** วินาที"
-			},
-			"level2": {
-				"name": "กนอนโน: คลื่นผวา",
-				"description": "หลังจาก**ทีมสำรวจรวมพลัง**เรียกใช้**ระเบิดอย่างสมบูรณ์**แล้ว ดาเมจสุดท้ายจะเพิ่มขึ้น **23%** เป็นเวลา **30** วินาที"
-			},
-			"id": "imitation_27"
-		},
 		"id": "chainsaw_physic"
 	},
 	"hammer_ice": {
@@ -1035,8 +933,7 @@
 		"description": "ไม่มีใครอยากโดนค้อนนี้ทุบ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Hammer_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR8_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01"
 		},
 		"rarity": "SR",
 		"element": "Ice",
@@ -1184,44 +1081,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 9.423186
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 5.889492
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "เอเนะ: โหมดเร็วแรง",
-				"description": "เมื่อเอเนะว่ายน้ำ ปีน หรือร่อน ลดการใช้พลังกายลง **12%**"
-			},
-			"level2": {
-				"name": "เอเนะ: โหมดเกินลิมิต",
-				"description": "เมื่อเอเนะว่ายน้ำ ปีน หรือร่อน ลดการใช้พลังกายลง **20%**"
-			},
-			"id": "imitation_2"
-		},
 		"id": "hammer_ice"
 	},
 	"bow_physic": {
@@ -1229,8 +1103,7 @@
 		"description": "พรางตัวได้ดีในราตรีมืดหม่น",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Bow_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR9_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01"
 		},
 		"rarity": "SR",
 		"element": "Physics",
@@ -1366,44 +1239,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 12.250143
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 9.423186
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ไป่หลิง: วีรบุรุษ",
-				"description": "เมื่อไป่หลิงเก็บเครื่องร่อนหรือเจ็ตบอร์ดกลับเข้ากระเป๋า จะเพิ่มความเร็ว **8%** เป็นเวลา **12** วินาที คูลดาวน์: **60** วินาที"
-			},
-			"level2": {
-				"name": "ไป่หลิง: เด็ดเดี่ยว",
-				"description": "เมื่อไป่หลิงเก็บเครื่องร่อนหรือเจ็ตบอร์ดกลับเข้ากระเป๋า จะเพิ่มความเร็ว **15%** เป็นเวลา **12** วินาที คูลดาวน์: **60** วินาที"
-			},
-			"id": "imitation_16"
-		},
 		"id": "bow_physic"
 	},
 	"spear_thunder": {
@@ -1411,8 +1261,7 @@
 		"description": "ง้าวที่มีพลังไฟฟ้า สร้างความเสียหายได้ดีเยี่ยม และมีความยาวที่ช่วยให้ต่อสู้ได้หลายระยะ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Spear_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR12_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01"
 		},
 		"rarity": "SR",
 		"element": "Thunder",
@@ -1560,31 +1409,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 11.190034
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 3.680932
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "spear_thunder"
@@ -1594,8 +1431,7 @@
 		"description": "อันตราย คาดเดายาก และเงียบเชียบ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Ds_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR11_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -1737,31 +1573,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "digger_thunder"
@@ -1771,8 +1595,7 @@
 		"description": "ดาบน้ำแข็งสง่างามที่ชวนให้นึกถึงดอกไม้ขาวบริสุทธิ์ซึ่งเบ่งบานบนยอดผาที่ปกคลุมด้วยหิมะ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_BigSword_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR1_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -1926,44 +1749,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "เมอริล: กุหลาบหนาวเย็น",
-				"description": "ลดดาเมจน้ำแข็งที่เมอริลได้รับ **20%** ได้รับความทนต่อเอฟเฟกต์น้ำแข็งกัดและลดระยะเวลาในการถูกแช่แข็งลง **50%**"
-			},
-			"level2": {
-				"name": "เมอริล: น้ำค้างแข็ง",
-				"description": "ลดดาเมจน้ำแข็งที่เมอริลได้รับลง **25%** ได้รับการทนต่อเอฟเฟกต์น้ำแข็งกัด และลดระยะเวลาที่ถูกแช่แข็งลง **50%** อากาศรอบตัวเมอริลเย็นจนทำให้น้ำรอบ ๆ ตัวเธอกลายเป็นน้ำแข็ง"
-			},
-			"id": "imitation_3"
-		},
 		"id": "bigsword_ice"
 	},
 	"bow_ice": {
@@ -1971,8 +1771,7 @@
 		"description": "ศรจากธนูนี้มีพลังน้ำแข็ง",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Bow_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR2_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -2108,31 +1907,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "bow_ice"
@@ -2142,8 +1929,7 @@
 		"description": "รักษาอุณหภูมิให้เย็นอยู่เสมอเพื่อรักษาพันธมิตร",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Stave_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR3_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -2286,31 +2072,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "stave_ice"
@@ -2320,8 +2094,7 @@
 		"description": "เคียวอันทรงพลัง ใช้ได้ดีทั้งในการโจมตีและตั้งรับ สามารถฆ่าเป้าหมายที่อยู่ในบางระยะได้ทันที",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Sickle_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR4_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -2469,31 +2242,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sickle_fire"
@@ -2503,8 +2264,7 @@
 		"description": "ประดิษฐ์ขึ้นโดยนักวิทยาศาสตร์บ้าคลั่ง ด้วยตัวเลขการทดสอบที่น่าประทับใจ คุณจะจินตนาการไม่ออกเลยว่ามันจะทรงพลังเพียงใดถ้าใช้งานเต็มกำลัง",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Gun_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR5_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -2647,44 +2407,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "โคบอลต์-บี: อบอุ่นไม่คลาย",
-				"description": "หลังจากโคบอลต์-บี ใช้สกิลคอมโบ จะสุ่มฟื้นคืนการชาร์จอาวุธ **50** ถึง **120** หน่วย"
-			},
-			"level2": {
-				"name": "โคบอลต์-บี: สปาร์ก",
-				"description": "หลังจากโคบอลต์-บี ใช้สกิลคอมโบ จะสุ่มฟื้นคืนการชาร์จอาวุธ **90** ถึง **180** หน่วย"
-			},
-			"id": "imitation_10"
-		},
 		"id": "gun_fire"
 	},
 	"sword_physic": {
@@ -2692,8 +2429,7 @@
 		"description": "ดาบแดงฉานสื่อถึงความกล้าหาญและแน่วแน่ คมดาบของมันใช้รักษาความยุติธรรม",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Sword_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR6_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -2836,31 +2572,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sword_physic"
@@ -2870,8 +2594,7 @@
 		"description": "อาวุธทรงโค้งและคมที่ท่องสมุทรกับเจ้าของของมัน",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Darts_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR7_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -3013,31 +2736,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "darts_physic"
@@ -3047,8 +2758,7 @@
 		"description": "ผู้ใช้คิวบ์ประหลาดมักจะคิดวิธีต่าง ๆ ในการลบล้างข้อกำหนดที่ไม่จำเป็น",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Cube_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR8_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -3191,44 +2901,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 14.563107
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 9.101942
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "เซโร่: คำนวณแม่นยำ",
-				"description": "เมื่อเซโร่ใช้สกิลอาวุธ ลดเวลาคูลดาวน์ของรีลิคที่คูลดาวน์ **1.5** วินาที สามารถเปิดใช้งานอาวุธเดิมได้เพียง **1** ครั้งทุก **5** วินาที"
-			},
-			"level2": {
-				"name": "เซโร่: วางแผนถ้วนถี่",
-				"description": "เมื่อเซโร่ใช้สกิลอาวุธ ลดเวลาคูลดาวน์ของรีลิคที่คูลดาวน์ **3** วินาที สามารถเปิดใช้งานอาวุธเดิมได้เพียง **1** ครั้งทุก **5** วินาที"
-			},
-			"id": "imitation_1"
-		},
 		"id": "cube_fire"
 	},
 	"dgun_thunder": {
@@ -3236,8 +2923,7 @@
 		"description": "อาวุธปืนนี้ออกแบบตามปืนแม่เหล็กไฟฟ้า และต้องใช้เป็นคู่",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_DGun_Thunder",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR9_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -3373,31 +3059,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "dgun_thunder"
@@ -3407,8 +3081,7 @@
 		"description": "ขวานโล่ที่อยู่ในซีรีส์อาวุธ V2 เป็นกลุ่มอาวุธที่หลอมขึ้นด้วยเทคนิคพิเศษ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_ShieldAxe_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR10_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -3544,31 +3217,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 14.563107
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 9.101942
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "shieldaxe_fire"
@@ -3578,8 +3239,7 @@
 		"description": "พัดคู่พลังมหาศาล ที่สามารถถล่มภูเขาและก้อนหินได้\r\nเมื่อเมิ่งจางลอยขึ้นไปบนเมฆ โลกก็จะเต็มไปด้วยสายลม",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_mimi",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR35_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -3728,53 +3388,215 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ซีกไม้ไผ่",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **13%**\r\nเมื่อติดตั้งอาวุธไฟฟ้า **3** ชิ้น ดาเมจไฟฟ้าจะเพิ่มขึ้น **6%**"
-			},
-			"level2": {
-				"name": "กิเลนมรกต",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%**\r\nเมื่อติดตั้งอาวุธไฟฟ้า **3** ชิ้น ดาเมจไฟฟ้าจะเพิ่มขึ้น **6%**"
-			},
-			"id": "imitation_41"
-		},
 		"id": "mimi_thunder"
+	},
+	"nanyin_superpower": {
+		"name": "Purple Bamboo",
+		"description": "Purple Bamboo uses music and rhythm to utilize field energy for combat. After the Hendeca County Calamity, when Nan Yin reappeared, her flute also carried terrifying Darkness energy. Whenever Nan Yin played it, countless lives would be turned into dark wretches and fall under its control.",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Nanyin",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Nanyin"
+		},
+		"rarity": "SSR",
+		"element": "Superpower",
+		"weaponType": "Nanyin",
+		"wc": "DPS",
+		"avatar": "imitation_49",
+		"mats": {
+			"Item_breakthrough_A1": 28,
+			"Item_breakthrough_B1": 28,
+			"Item_breakthrough_C1": 26,
+			"Item_breakthrough_D1": 26,
+			"Item_breakthrough_A2": 50,
+			"Item_breakthrough_B2": 50,
+			"Item_breakthrough_C2": 50,
+			"Item_breakthrough_D2": 50,
+			"Item_breakthrough_A3": 26,
+			"Item_breakthrough_B3": 26,
+			"Item_breakthrough_C3": 26,
+			"Item_breakthrough_D3": 26
+		},
+		"advanceID": "Nanyin_superpower_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "Range Resonance",
+					"description": "While on the ground, use normal attack to attack 5 times in a row.\r\nFirst Attack: Deal damage equal to **60%** of ATK plus **360**.\r\nSecond Attack: Deal damage equal to **84%** of ATK plus **504**.\r\nThird Attack: Deal damage equal to **86%** of ATK plus **516**.\r\nFourth Attack: Deal damage equal to **143%** of ATK plus **858**.\r\nFifth Attack: Deal damage equal to **820%** of ATK plus **4920**.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_melee",
+					"id": "GA_FPlayerNanYinMelee_Melee"
+				},
+				{
+					"name": "Omni Resonance",
+					"description": "While airborne, use normal attack to launch 5 attacks in a row in mid-air, consuming endurance.\r\nFirst Attack: Deal damage equal to **60%** of ATK plus **360**.\r\nSecond Attack: Deal damage equal to **88%** of ATK plus **528**.\r\nThird Attack: Deal damage equal to **86%** of ATK plus **516**.\r\nFourth Attack: Deal damage equal to **138%** of ATK plus **828**.\r\nFifth Attack: Deal damage equal to **780%** of ATK plus **4680**.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattack",
+					"id": "GA_FPlayerNanYinMelee_AirAttack"
+				},
+				{
+					"name": "Darkshadow Blast",
+					"description": "While on the ground, tap and hold normal attack when using the first/second/third/fourth normal attack to trigger Darkshadow Blast and consume endurance.\r\nLaunch an attack ahead, dealing damage equal to **148%** of ATK plus **888** / **295%** of ATK plus **1770** / **443%** of ATK plus **2658** to nearby targets and suspending them.\r\nAfter triggering Darkshadow Blast, tap and hold normal attack to trigger Rift Surge.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_meleebranch1",
+					"id": "GA_FPlayerNanYinMelee_MeleeBranch1"
+				},
+				{
+					"name": "Rift Surge",
+					"description": "After triggering Darkshadow Blast, tap and hold normal attack to trigger Rift Surge and consume endurance.\r\nLaunch an attack ahead, dealing damage up to **806%** of ATK plus **4836** to nearby targets and suspending them.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_meleebranch2",
+					"id": "GA_FPlayerNanYinMelee_MeleeBranch2"
+				},
+				{
+					"name": "Darkshadow Burst",
+					"description": "While airborne, tap and hold normal attack when using the first/second/third/fourth normal attack to trigger Darkshadow Burst and consume endurance.\r\nLaunch an attack ahead, dealing damage equal to **155%** of ATK plus **930** / **310%** of ATK plus **1860** / **465%** of ATK plus **2790** to nearby targets and suspending them.\r\nAfter triggering Darkshadow Burst, tap and hold normal attack to trigger Rift Eruption.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattackbranch1",
+					"id": "GA_FPlayerNanYinMelee_AirAttackBranch1"
+				},
+				{
+					"name": "Rift Eruption",
+					"description": "While on the ground, after triggering Darkshadow Burst, tap and hold normal attack to trigger Rift Eruption and consume endurance.\r\nLaunch an attack ahead, dealing damage equal to **871%** of ATK plus **5226** to nearby targets and suspending them.\r\nDamage varies based on the duration normal attack is held, up to a maximum of 1.5 times damage.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattackbranch2",
+					"id": "GA_FPlayerNanYinMelee_AirAttackBranch2"
+				},
+				{
+					"name": "Void Abyss Current",
+					"description": "While on the ground, tap and hold normal attack to create an abyss current at the current location. Tap the mark on the map to transmit to that location, or to change the settings for that abyss current. Up to **2** abyss currents may be created.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_powerattack",
+					"id": "GA_FPlayerNanYinMelee_PowerAttack"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Dodge",
+					"description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/common_evade",
+					"id": "GA_FPlayerNanYinEvade_Evade"
+				},
+				{
+					"name": "Vortex Field",
+					"description": "Use normal attack during the short period after dodging to trigger Vortex Field.\r\nCreate Dark Matter at the target location, dealing damage equal to **180%** of ATK plus **1080** to nearby targets. When nearby targets come close to the Dark Matter, a Vortex Field will form and draw them in.\r\nWhen the Wanderer passes by the Vortex Field, gain Dimensional Guard for **15** seconds, blocking damage from the locked-on target **1** time (no more than **300%** of the Wanderer's Max HP). Dimensional Guard can only be triggered **1** time every **15** seconds.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_evadeattack",
+					"id": "GA_FPlayerNanYinEvade_EvadeAttack"
+				},
+				{
+					"name": "Butterfly Dance",
+					"description": "While in **team play**, after dodging with Purple Bamboo, summon **1** butterfly that follows the Wanderer for **60** seconds.\r\nAfter activating Attack Resonance or Balance Resonance, the butterfly flies around the locked-on target and creates a composition with its trails, dealing damage equal to **300%** of ATK to targets that pass through it.\r\nAfter activating Fortitude Resonance, place a **65%** delay on targets that pass through the composition for **2** seconds, and grant a shield equal to **10%** of the Wanderer's Max HP to the Wanderer and teammates for **15** seconds when they pass through the composition. This effect can occur up to **1** time per second, stacking up to **2** times.\r\nAfter activating Benediction Resonance, consume the butterfly to immediately help up a knocked-down teammate.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_evadebeidong",
+					"id": "GA_FPlayerNanYinEvade_Beidong"
+				}
+			],
+			"skill": [
+				{
+					"name": "Hyperdimensional Field",
+					"description": "Activate Hyperdimensional Field, gaining temporary invincibility, dealing damage equal to **650%** of ATK plus **3900** to nearby targets, and placing a **65%** delay for **3** seconds on the targets (ineffective against bosses in team play). At the same time, the **Void Trace** on the field immediately executes its skill. Cooldown: **60** seconds.\r\nAscend into the air and generate a field, placing nearby targets into a High-Dimensional Space that lasts up to **60** seconds, during which the Wanderer gains hyperbody, and Purple Bamboo's damage dealt to targets in the High-Dimensional Space ignores shields.\r\nThe High-Dimensional Space gains energy equal to **2** plus **number of targets within the Space** every second, and triggers Dimensional Collapse at **45** energy, dealing damage equal to (**0.1%** of the total damage dealt by the Wanderer (excluding Void Trace) in the Space plus **1200%** of ATK). This damage counts as passive damage and is the base multiplier. It is affected by damage boost. The High-Dimensional Space fades after **4** Dimensional Collapses.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_skill",
+					"id": "GA_FPlayerNanYinSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Confining Tune",
+					"description": "When **weapon charge** is full or **Phantasia** is triggered, **remove all debuffs from the wielder** and create chains from another dimension to bind the target upon switching to this weapon, delaying them by **65%** for **3** seconds (ineffective against bosses in team play), dealing damage equal to **1660%** of ATK plus **9959** to nearby targets, and becoming immune to damage for **1.5** seconds (unavailable in Apex League).\r\n\r\n**Passive: Void Trace**\r\nConfining Tune creates **1** Void Trace that launches coordinated attacks at the current locked-on target. Only **1** Void Trace may be active, and it fades after **20** seconds when not in combat.\r\nFor every **1** weapon of a different element or altered weapon equipped, increase Void Trace's damage dealt by **10%**. Void Trace's damage is also not affected by damage boosts, except for Inhabit, Confining Tune, and rare stats on titan equipment, and won't trigger additional attack effects.\r\nHold dodge when wielding **Purple Bamboo** to trigger Possession (unavailable in Apex League) and Possess Void Trace, gaining the ability to control its movements. During Possession, Coordinated Void becomes Void Trace's normal attack and skills.\r\nWhile under Possession, Void Trace enters Rampage state, increasing speed, damage reduction, shatter, and weapon charge by **50%**. Its normal attack and its skill damage increase by the same percentage as its Max HP lost at the time.\r\n**Coordinated Void**: A periodic coordinated attack from Void Trace, dealing damage equal to **165% to 300%** of Void Trace's ATK.\r\n**Void Halo**: Deal damage equal to **100%** of Void Trace's ATK every second to nearby targets.\r\n**Void Attack**: Tap normal attack to launch 4 consecutive attacks, each dealing damage equal to **240% to 385%** of Void Trace's ATK.\r\n**Void Skill**: Consume **25%** of Void Trace's Max HP and deal damage equal to **1870% to 2040%** of Void Trace's ATK, increasing Void Trace's Crit Rate by **30%** for **60** seconds.\r\n**Void Relief**: Can be triggered when Void Trace takes lethal damage, when the Wanderer equips or unequips Purple Bamboo, or when holding dodge during Possession.\r\n\r\n**Passive: Dark Wretch**\r\nWhen switching to Purple Bamboo from other weapons, Confining Tune will grant additional effects based on the element of the weapon.\r\n**Frost**: Summon Darkness: Alabaster Elite and deal area damage equal to **500%** of ATK. Also, gain a shield equal to **60%** of Max HP for **30** seconds (unavailable in Apex League). Create a hail storm by the locked-on target, dealing damage equal to **420%** of ATK to nearby targets every second for **15** seconds. Counts as normal attack damage.\r\n**Flame**: Summon Black Crow Dark Wretch and deal area damage equal to **500%** of ATK. Burn nearby targets, dealing damage equal to **240%** of ATK. Counts as passive damage.\r\n**Volt**: Summon Longxiang Dark Wretch and deal damage equal to **500%** of ATK. When not under Possession, consume **5%** of Void Trace's Max HP every second and deal **50%** of the value as damage to nearby targets. Counts as normal attack damage (unavailable in Apex League).\r\n**Physical**: Summon Darkness: Hornmane and deal area damage equal to **500%** of ATK. Gain sweeping for **30** seconds, dealing additional damage equal to **80%** of ATK to nearby targets on a critical hit. Counts as normal attack damage. Can only be triggered **1** time every **0.85** seconds.\r\n**Altered**: Summon Darkness: Taotie and deal area damage equal to **525%** of ATK. Void Trace inherits an additional **100%** of the Wanderer's ATK. Deal additional damage equal to **2000%** of Void Trace's ATK to nearby targets during Void Relief. Counts as skill damage.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_changeskill",
+					"id": "GA_FPlayerNanYinChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**The Final Tune**: Increase ATK by **30%**. Activate by equipping **3** altered weapons. This set effect works in the off-hand slot.\r\n**Imbue**: After switching to Purple Bamboo from another weapon, Purple Bamboo's damage element becomes that of the previous weapon.\r\n**Inhabit**: The power of the Darkness is able to Inhabit any unlocked weapon. When Purple Bamboo is not deployed, the power of the Darkness can Inhabit any other weapon, increasing its damage dealt by **1%**. When Purple Bamboo is deployed, the power of the Darkness Inhabits Purple Bamboo, increasing the Wanderer's damage dealt by **15%**.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "None"
+			},
+			{
+				"description": "For every **1** star gained by the Darkness-Inhabited weapon, increase Inhabit's damage boost by an additional **1%**.\r\nDimensional Collapse deals increased damage equal to (**0.1%** of total actual damage dealt in High-Dimensional Space by the Wanderer (excluding Void Trace) plus **2,400%** of ATK) (counts as base multiplier, affected by damage boost).",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "เพิ่ม ATK พื้นฐานของอาวุธปัจจุบัน **16%**",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "Void Trace inherits an additional **50%** of the Wanderer's ATK. When taking lethal damage while not under Possession, instead of being defeated, consume Void Trace and become immune to damage 1 time for a short period of time. This effect can only be triggered 1 time every **60** seconds, and has a lower priority when similar effects are present. This set effect works in the off-hand slot.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "เพิ่ม ATK พื้นฐานของอาวุธปัจจุบัน **32%**",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "While in High-Dimensional Space, ignore **20%** of the target's resistances.\r\nUp to **3** Void Abyss Currents can now be created.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "Dimensional Collapse now deals damage equal to (**0.4%** of total actual damage dealt in High-Dimensional Space by the Wanderer (excluding Void Trace) plus **2,400%** of ATK) (counts as base multiplier, affected by damage boost).",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			}
+		],
+		"stats": [
+			{
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
+			},
+			{
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
+			},
+			{
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
+			}
+		],
+		"id": "nanyin_superpower"
 	},
 	"linghan_ice": {
 		"name": "อลาบาสเตอร์ไทเกอร์",
 		"description": "ในยามที่กวัดแกว่งกระบี่ ใครเล่าจะรู้ถึงจิตใจที่แท้จริง",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR37_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -3865,7 +3687,7 @@
 		},
 		"stars": [
 			{
-				"description": "**เรโซแนนซ์น้ำแข็ง**: เปิดใช้งานเมื่อติดตั้งอาวุธน้ำแข็ง **2** ชิ้นขึ้นไป จะเพิ่ม ATK น้ำแข็ง **15%** และค่าต้านทานน้ำแข็ง **25%** จะแสดงผลทันทีเมื่อติดตั้ง เอฟเฟกต์ประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้\r\n**เยือกเย็น: ปล่อยมือ**: หลังจากปล่อย**ปราณกระบี่: เงาลับน้ำแข็ง** ทุกวินาทีจะสร้างดาเมจเท่ากับ **70%** ของ ATK น้ำแข็ง + **10%** ของ HP สูงสุดของตัวเอง + **36%** ของผลรวมของค่าต้านทานทุกธาตุ + **135%** ของค่าดาเมจคริติคอลต่อเป้าหมายที่โจมตีโดน เป็นเวลา **30** วินาที ดาเมจปล่อยมือหลายครั้งจะไม่ซ้อนทับกัน และดาเมจเยือกเย็นถือเป็นดาเมจสกิล หากติดตั้งอาวุธธาตุไฟฟ้า/ไฟ/กายภาพ **1** ชิ้น ดาเมจเยือกเย็นจะเพิ่มขึ้น **1.3** เท่า นอกจากนี้ ดาเมจเยือกเย็นจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากจากอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
+				"description": "**เรโซแนนซ์น้ำแข็ง**: เปิดใช้งานเมื่อติดตั้งอาวุธน้ำแข็ง **2** ชิ้นขึ้นไป จะเพิ่ม ATK น้ำแข็ง **15%** และค่าต้านทานน้ำแข็ง **25%** เอฟเฟกต์เซตนี้ยังมีผลในช่องมือรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์น้ำแข็งหรือปฏิกิริยาน้ำแข็งอื่นได้ ซึ่งเรโซแนนซ์น้ำแข็งจะมีผลก่อน)\r\n**เยือกเย็น: ปล่อยมือ**: หลังจากปล่อย**ปราณกระบี่: เงาลับน้ำแข็ง** ทุกวินาทีจะสร้างดาเมจเท่ากับ **70%** ของ ATK น้ำแข็ง + **10%** ของ HP สูงสุดของตัวเอง + **36%** ของผลรวมของค่าต้านทานทุกธาตุ + **135%** ของค่าดาเมจคริติคอลต่อเป้าหมายที่โจมตีโดน เป็นเวลา **30** วินาที ดาเมจปล่อยมือหลายครั้งจะไม่ซ้อนทับกัน และดาเมจเยือกเย็นถือเป็นดาเมจสกิล หากติดตั้งอาวุธธาตุไฟฟ้า/ไฟ/กายภาพ **1** ชิ้น ดาเมจเยือกเย็นจะเพิ่มขึ้น **1.3** เท่า นอกจากนี้ ดาเมจเยือกเย็นจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากจากอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3873,7 +3695,7 @@
 				"need": "None"
 			},
 			{
-				"description": "หลังจากเรียกใช้**กระบี่เยือกเย็น** จะเพิ่ม ATK น้ำแข็ง **10%** ทุกวินาทีจะสร้างดาเมจ **80%** ของ ATK ใส่เป้าหมายใกล้เคียง เป็นเวลา**30** วินาที",
+				"description": "หลังจากเรียกใช้**กระบี่เยือกเย็น** จะเพิ่ม ATK น้ำแข็ง **10%** ทุกวินาทีจะสร้างดาเมจ **104%** ของ ATK ใส่เป้าหมายใกล้เคียง เป็นเวลา**30** วินาที",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3889,7 +3711,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "จำนวนสูงสุดของ**กระบี่เยือกเย็น**ที่สร้างจะเพิ่มขึ้นถึง **4** ด้าม และตัวคูณพื้นฐานของดาเมจ**ลดอุณหภูมิ**จะเพิ่มขึ้น **360%** \r\nหากมีเพียงตัวเป้าหมายเองที่ได้รับผลกระทบจากเอฟเฟกต์**อุณหภูมิลดลง**ภายใน **6** วินาที จะเพิ่มเอฟเฟกต์**ผนึกชีพจร**ใส่เป้าหมายเพิ่มเติม ทำให้ความเร็วจะลดลง **30%** (ไม่มีผลในลีกแข่งยอดฝีมือและบอส) หากเป้าหมายได้รับดาเมจ**กระบี่เยือกเย็น**อีกครั้งในช่วง**ผนึกชีพจร** จะปล่อยระเบิดน้ำแข็ง เพื่อสร้างดาเมจสกิล **1700%** ของ ATK + **2%** ของค่า HP ที่เสียไปของเป้าหมาย (ดาเมจระเบิดน้ำแข็งจะไม่ต่ำกว่า **2000%** ของ ATK น้ำแข็งของผู้เล่น และจะไม่สูงกว่า **2200%** ของ ATK น้ำแข็งของผู้เล่น) พร้อมทั้งล้าง**ผนึกชีพจร**และเอฟเฟกต์**ลดอุณหภูมิ**จากตัวเป้าหมาย",
+				"description": "จำนวนสูงสุดของ**กระบี่เยือกเย็น**ที่สร้างจะเพิ่มขึ้นถึง **4** ด้าม และตัวคูณพื้นฐานของดาเมจ**ลดอุณหภูมิ**จะเพิ่มขึ้น **468%** \r\nหากมีเพียงตัวเป้าหมายเองที่ได้รับผลกระทบจากเอฟเฟกต์**อุณหภูมิลดลง**ภายใน **6** วินาที จะเพิ่มเอฟเฟกต์**ผนึกชีพจร**ใส่เป้าหมายเพิ่มเติม ทำให้ความเร็วจะลดลง **30%** (ไม่มีผลในลีกแข่งยอดฝีมือและบอส) หากเป้าหมายได้รับดาเมจ**กระบี่เยือกเย็น**อีกครั้งในช่วง**ผนึกชีพจร** จะปล่อยระเบิดน้ำแข็ง เพื่อสร้างดาเมจสกิล **1700%** ของ ATK + **2%** ของค่า HP ที่เสียไปของเป้าหมาย (ดาเมจระเบิดน้ำแข็งจะไม่ต่ำกว่า **2000%** ของ ATK น้ำแข็งของผู้เล่น และจะไม่สูงกว่า **2200%** ของ ATK น้ำแข็งของผู้เล่น) พร้อมทั้งล้าง**ผนึกชีพจร**และเอฟเฟกต์**ลดอุณหภูมิ**จากตัวเป้าหมาย",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3913,7 +3735,7 @@
 				"need": "Linghan_ice_plasm"
 			},
 			{
-				"description": "เอฟเฟกต์**ลดอุณหภูมิ**ที่เพิ่มจากการปล่อย**กระบี่เยือกเย็น** จะเปลี่ยนเป็นการเพิ่มขอบเขต และสร้างดาเมจเพิ่มเติม **990%** ของ ATK ใส่เป้าหมายใกล้เคียง",
+				"description": "เอฟเฟกต์**ลดอุณหภูมิ**ที่เพิ่มจากการปล่อย**กระบี่เยือกเย็น** จะเปลี่ยนเป็นการเพิ่มขอบเขต และสร้างดาเมจเพิ่มเติม **1170%** ของ ATK ใส่เป้าหมายใกล้เคียง",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3923,44 +3745,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.571905
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1010.0971
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 11.837075
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "กระบี่ปกปัก",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **13%** เมื่อติดตั้ง**โอเวอร์เซียร์** การติดตั้งอาวุธน้ำแข็งทุก **1** ชิ้น ดาเมจน้ำแข็งจะเพิ่มขึ้น **1%**"
-			},
-			"level2": {
-				"name": "กระบี่คุ้มกัน",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%** เมื่อติดตั้ง**โอเวอร์เซียร์** การติดตั้งอาวุธน้ำแข็งทุก **1** ชิ้น ดาเมจน้ำแข็งจะเพิ่มขึ้น **2.5%**"
-			},
-			"id": "imitation_43"
-		},
 		"id": "linghan_ice"
 	},
 	"suspension_thunder": {
@@ -3968,8 +3767,7 @@
 		"description": "ไม่มีใครทราบว่าใครเป็นผู้ออกแบบ และแปลนต้นแบบก็หายไปแล้ว ปืน EM ลอยได้แบบพิเศษนี้ มีระบบประหยัดพลังไฟฟ้าที่มีเอกลักษณ์เฉพาะอยู่ภายใน มันจะพังหากใช้งานมากเกินไป และการซ่อมก็เป็นเรื่องน่าปวดหัว ดูเหมือนว่าโคบอลต์-บี จากเบนเจสเทคจะสามารถซ่อมได้",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_naimxs_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR14_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -4112,44 +3910,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "เนเมซิส: ร่างแปลง",
-				"description": "หลังจากอัญเชิญอิเล็กโทรด สร้างดาเมจไฟฟ้าเท่ากับ **60%** ของ ATK แก่ศัตรูทั้งหมดภายในระยะ **30** เมตร จากอิเล็กโทรด และรักษาพันธมิตรทั้งหมด (รวมถึงผู้ใช้) ภายในระยะเท่ากับ **120%** ของ ATK"
-			},
-			"level2": {
-				"name": "เนเมซิส: การระเหิด",
-				"description": "หลังจากอัญเชิญอิเล็กโทรด สร้างดาเมจไฟฟ้าเท่ากับ **100%** ของ ATK แก่ศัตรูทั้งหมดภายในระยะ **30** เมตร จากอิเล็กโทรด และรักษาพันธมิตรทั้งหมด (รวมถึงผู้ใช้) ภายในระยะเท่ากับ **200%** ของ ATK"
-			},
-			"id": "imitation_17"
-		},
 		"id": "suspension_thunder"
 	},
 	"frigg_ice": {
@@ -4157,8 +3932,7 @@
 		"description": "ดาบใหญ่และกระบี่ประจำตัวของฟริกก์ ผู้เป็นทูตสวรรค์ปรานี อาวุธสองเล่มนี้ถูกผลิตขึ้นมาให้เข้ากับร่างไซบอร์กของฟริกก์ แม้พวกมันจะไม่เหมือนกัน และไม่ใช่อาวุธเล่มเดียวกัน แต่ฟริกก์ก็เรียกพวกมันแบบรวมๆ ว่าบาลมุงก์",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_frigg_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR15_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -4295,44 +4069,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "แช่แข็ง",
-				"description": "เมื่อเข้าสู่การต่อสู้ จะได้รับเพิ่ม ATK น้ำแข็ง **1.5%** เป็นเวลา **5** วินาที ในทุก ๆ **3** วินาที ซ้อนทับได้สูงสุด **10** ชั้น"
-			},
-			"level2": {
-				"name": "หนาวยะเยือก",
-				"description": "เมื่อเข้าสู่การต่อสู้ จะได้รับเพิ่ม ATK น้ำแข็ง **2.4%** เป็นเวลา **5** วินาที ในทุก ๆ **3** วินาที ซ้อนทับได้สูงสุด **10** ครั้ง รวมทั้งไฮเปอร์บอดี้และทนทานต่อเอฟเฟกต์ควบคุมขณะอยู่ในอาณาเขตเยือกแข็ง"
-			},
-			"id": "imitation_28"
-		},
 		"id": "frigg_ice"
 	},
 	"funnel_fire": {
@@ -4340,8 +4091,7 @@
 		"description": "อาวุธพิเศษที่หลินขอให้แผนกวิจัยและพัฒนามิเรอเรียสร้างให้รูบี้ ฟังก์ชันหลักของมันได้แก่ ทำงานเป็นคนทำความสะอาดในเกมสมมติ ปลุกรูบี้ตอนเช้า นำทางรูบี้... และที่สำคัญที่สุดคือปกป้องรูบี้",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_funnel_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR16_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -4484,44 +4234,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ดรีมแคชเชอร์",
-				"description": "ภายในระยะ **5** เมตรจากดอลลี่ ดาเมจไฟที่ศัตรูได้รับจะเพิ่มขึ้น **8%** เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้"
-			},
-			"level2": {
-				"name": "อาณาเขตแห่งดอลลี่",
-				"description": "ภายในระยะ 5 เมตรจากดอลลี่ ดาเมจไฟที่ศัตรูได้รับจะเพิ่มขึ้น **8%** เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้ หลังจากโยนดอลลี่ไป จะเพิ่ม ATK ไฟ **12%** เป็นเวลา **10** วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับกันได้"
-			},
-			"id": "imitation_21"
-		},
 		"id": "funnel_fire"
 	},
 	"dkatana_ice": {
@@ -4529,8 +4256,7 @@
 		"description": "ดาบทาจิพิเศษที่ปรับตัวเข้ากับการทดลองซูเปอร์โฟลว์ มันสามารถสัมผัสได้ถึงสภาวะจิตใจของผู้ใช้และสร้างเงาดาบเพื่อช่วยต่อสู้ในเวลาที่เหมาะสม",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_dkatana_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR17_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -4679,44 +4405,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ซาคิ ฟูวะ: สถานะแข็งแกร่ง",
-				"description": "เมื่อค่า HP อยู่ในระดับต่ำกว่า **70%** จะเพิ่มค่าต้านทานทุกอย่าง **40%**"
-			},
-			"level2": {
-				"name": "ซาคิ ฟูวะ: ดาบผู้พิทักษ์",
-				"description": "เมื่อค่า HP ต่ำกว่า **70%** จะเพิ่มค่าต้านทานทุกอย่าง **40%** โดยค่าต้านทานน้ำแข็งจะเพิ่มขึ้นอีก **60%** เมื่ออยู่ในภาวะกระแสสงัด: หลังใช้เงาดาบแล้ว จะปล่อยท่าคลื่นยักษ์และป้องกันการโจมตี สมาชิกในทีมคนอื่นที่ไม่ใช่คุณและมีค่าเปอร์เซ็นต์ HP ต่ำสุด จะสามารถป้องกันการโจมตีได้ 3 ครั้ง ซึ่งจะคงอยู่เป็นเวลา **10** วินาที ค่าพลังในการป้องกันดาเมจจะมีไม่เกิน **15%** ของค่า HP สูงสุดของสมาชิกในทีมคนนั้น"
-			},
-			"id": "imitation_22"
-		},
 		"id": "dkatana_ice"
 	},
 	"fan_superpower": {
@@ -4724,8 +4427,7 @@
 		"description": "การออกแบบเบื้องต้นแสดงให้เห็นอาวุธขนาดเบาและปกปิดมิดชิด แต่มันเปลี่ยนเป็นดาบใหญ่ตามคำขอของผู้ใช้ มันมีน้ำหนักมากและไม่เป็นอาวุธลับเลย",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_fan_superpower01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR18_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01"
 		},
 		"rarity": "SSR",
 		"element": "Superpower",
@@ -4871,44 +4573,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "หลิน: กระบองเพชรกล้วยไม้เบ่งบาน",
-				"description": "เพิ่มดาเมจจากการระเบิดของกระบองเพชรกล้วยไม้ **15%**"
-			},
-			"level2": {
-				"name": "หลิน: กระบองเพชรกล้วยไม้งามเฉิดฉาย",
-				"description": "เพิ่มดาเมจจากการระเบิดของกระบองเพชรกล้วยไม้ **20%** ลดค่าต้านทานทุกชนิด **7%** เมื่อโดนโจมตีด้วยกระบองเพชรกล้วยไม้ เอฟเฟกต์จะคงอยู่เป็นเวลา **7** วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้"
-			},
-			"id": "imitation_23"
-		},
 		"id": "fan_superpower"
 	},
 	"tianlang_thunder": {
@@ -4916,8 +4595,7 @@
 		"description": "หอกยาวที่ปกคลุมไปด้วยสายฟ้านี้คือ SMA1-TS000-ธันเดอร์เบรกเกอร์ มันสามารถปลดปล่อยพลังงานที่เก็บไว้ด้วยวิธีที่เกินจินตนาการ สนามไฟฟ้าที่มันสร้างขึ้นจะรบกวนจิตใจของผู้ครอบครอง ดังนั้นคนทั่วไปจึงไม่สามารถใช้มันได้",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Tianlang_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR20_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -5060,44 +4738,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "เทียนหลาง: บอลอัสนี",
-				"description": "หลังจากใช้สกิลอาวุธไฟฟ้าหรือสกิลคอมโบได้รับจำนวนการหลบหลีกฟรี **1** ครั้ง โดยมีจำนวนรวมสูงสุด **2** ครั้ง เมื่อใช้สกิลอาวุธไฟฟ้าและสกิลคอมโบพร้อมกัน เพิ่มดาเมจไฟฟ้า **12%** เป็นเวลา **8** วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้"
-			},
-			"level2": {
-				"name": "เทียนหลาง: ฟ้าคำราม",
-				"description": "หลังจากใช้สกิลอาวุธไฟฟ้าหรือสกิลคอมโบได้รับจำนวนการหลบหลีกฟรี **1** ครั้ง โดยมีจำนวนรวมสูงสุด **2** ครั้ง เมื่อใช้สกิลอาวุธไฟฟ้าและสกิลคอมโบพร้อมกัน เพิ่มดาเมจไฟฟ้า **18%** เป็นเวลา **8** วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้"
-			},
-			"id": "imitation_29"
-		},
 		"id": "tianlang_thunder"
 	},
 	"arm_physic": {
@@ -5105,8 +4760,7 @@
 		"description": "อาวุธซัพพอร์ตที่ปรับแต่งมาเพื่อบุคลากรภายในของมูลนิธิเมดิลีน คุณเมดิลีนเชื่อว่าไลร่าจะใช้มันได้อย่างเหมาะสม",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Arm_Physic01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR19_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -5267,44 +4921,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "สลับใจ",
-				"description": "เรโซแนนซ์ประทานพร: เพิ่ม HP สูงสุด 10% แก่ทั้งทีม ไม่สามารถซ้อนทับได้"
-			},
-			"level2": {
-				"name": "อวยพร",
-				"description": "เรโซแนนซ์ประทานพร: เพิ่ม HP สูงสุด 10% แก่ทั้งทีม ไม่สามารถซ้อนทับได้"
-			},
-			"id": "imitation_24"
-		},
 		"id": "arm_physic"
 	},
 	"rubilia_thunder": {
@@ -5312,8 +4943,7 @@
 		"description": "แค่เพียงการกวัดแกว่งเบา ๆ ภายในห้วงนรก ก็อาจจะเกิดพายุที่สามารถชะล้างชะตากรรมของทุกคนได้",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Rubilia_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR31_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -5468,44 +5098,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "พึ่งพาอาศัย",
-				"description": "ทุกการติดตั้งอาวุธไฟฟ้า **1** ชิ้น เพิ่มดาเมจไฟฟ้า **6%**"
-			},
-			"level2": {
-				"name": "บรรลุปัญญา",
-				"description": "ทุกการติดตั้งอาวุธไฟฟ้า **1** ชิ้น เพิ่มดาเมจไฟฟ้า **8%**"
-			},
-			"id": "imitation_48"
-		},
 		"id": "rubilia_thunder"
 	},
 	"iceblade_ice": {
@@ -5513,8 +5120,7 @@
 		"description": "ชุดเกราะต่อสู้ที่สร้างขึ้นด้วยอาวุธใบมีดเป็นแกนกลาง ใช้วิทยาศาสตร์และเทคโนโลยีล้ำสมัยก่อนมหันตภัยครั้งใหญ่ ใช้การดูดซับพลังวิญญาณของผู้ใช้ เพื่อเป็นพลังงานในการขับเคลื่อนอาวุธ และจะระเบิดพลังอันน่าสะพรึงกลัวเมื่อถึงเวลาที่จำเป็น",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_iceblade_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR22_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -5663,44 +5269,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.203884
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 4.550971
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "แอนนิโซพเทอรา",
-				"description": "หลังจากใช้สกิลอาวุธสำเร็จ จะเพิ่มดาเมจสุดท้าย **13%** เป็นเวลา **12** วินาที"
-			},
-			"level2": {
-				"name": "เลพิดอปเทอรา",
-				"description": "หลังจากใช้สกิลอาวุธสำเร็จ จะเพิ่มดาเมจสุดท้าย **18%** เป็นเวลา **18** วินาที"
-			},
-			"id": "imitation_30"
-		},
 		"id": "iceblade_ice"
 	},
 	"snipe_fire": {
@@ -5708,8 +5291,7 @@
 		"description": "เกมยิงออนไลน์แบบผู้เล่นหลายคน VR ยอดนิยมเปิดตัวอย่างเป็นทางการแล้ว โดยได้ออกแบบปืนพิเศษนี้ขึ้นโดยเฉพาะสำหรับผู้เล่นอันดับต้น ๆ ของซีซั่น โมเดลทางกายภาพของปืนจะถูกส่งไปยังผู้เล่นด้วย แต่สิ่งที่คาดไม่ถึงก็คือ มันสามารถใช้งานได้จริงเหมือนในเกม...",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Snipe_fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR21_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -5846,44 +5428,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ก๊าซ (ตูม!)",
-				"description": "ทุก ๆ **1** ศัตรูที่ถูกแก๊สระเบิด จะเพิ่มดาเมจของโคลเวอร์ครอส **8%** เป็นเวลา **20** วินาที สามารถซ้อนทับกันได้สูงสุด **2** ชั้น"
-			},
-			"level2": {
-				"name": "ก๊าซ (ตู้มมมม!)",
-				"description": "ทุก ๆ **1** ศัตรูที่ถูกแก๊สระเบิด จะเพิ่มดาเมจของโคลเวอร์ครอส **15%** เป็นเวลา **20** วินาที สามารถซ้อนทับกันได้สูงสุด **2** ชั้น"
-			},
-			"id": "imitation_26"
-		},
 		"id": "snipe_fire"
 	},
 	"brush_fire": {
@@ -5891,8 +5450,7 @@
 		"description": "\"การต่อต้านอย่างรุนแรงงั้นเหรอ! ผู้รู้ที่แท้จริงที่ไหนเขาตบตีกันด้วยอุปกรณ์การเรียนล่ะ!\" - หรงจิน",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_liuhuo",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR32_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6059,44 +5617,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "นับฝีแปรง",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **13%** และเมื่อ**ไพน์โคเม็ต**อยู่ในช่องมือรอง ความถี่ในการยิงของ**ขนปักษี**จะเพิ่มขึ้นถึง **1** ครั้ง/วินาที"
-			},
-			"level2": {
-				"name": "วาดปลิดชีวิต",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%** และเมื่อ**ไพน์โคเม็ต**อยู่ในช่องมือรอง ความถี่ในการยิงของ**ขนปักษี**จะเพิ่มขึ้นถึง **1** ครั้ง/วินาที"
-			},
-			"id": "imitation_37"
-		},
 		"id": "brush_fire"
 	},
 	"whip_physic": {
@@ -6104,8 +5639,7 @@
 		"description": "แส้ยาวที่ อูมิ ผู้ปฏิบัติการคนใหม่ใช้เป็นประจำ จุดที่อูมิพึงพอใจในอาวุธนี้ที่สุดก็คือ มันจะไม่ทำเธอสะดุดล้ม... ในสถานการณ์ปกติน่ะนะ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Whip_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR23_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -6266,44 +5800,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "อูมิ: การแสดงยอดเยี่ยม",
-				"description": "ในทุกครั้งที่อูมิใช้ **เทคนิคมายากล** ดาเมจสุดท้ายจะเพิ่มขึ้น **12%** เป็นเวลา **30** วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้"
-			},
-			"level2": {
-				"name": "อูมิ: การแสดงสุดอลัง",
-				"description": "ในทุกครั้งที่อูมิใช้ **เทคนิคมายากล** ดาเมจสุดท้ายจะเพิ่มขึ้น **18%** เป็นเวลา **30** วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้"
-			},
-			"id": "imitation_31"
-		},
 		"id": "whip_physic"
 	},
 	"feise_fire": {
@@ -6311,8 +5822,7 @@
 		"description": "ยามเมื่อกลีบดอกบัวเรียงรายซ้อนทับกันเป็นชั้น ยามนั้นโอกาสในการเข่นฆ่าก็จะปรากฏขึ้น",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feise",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR36_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6415,7 +5925,7 @@
 		},
 		"stars": [
 			{
-				"description": "**เรโซแนนซ์ไฟ**: ติดตั้งอาวุธธาตุไฟ **2** ชิ้นขึ้นไปเพื่อเปิดใช้งาน จะเพิ่ม ATK ไฟ **20%** และค่าต้านทานไฟ **40%** เอฟเฟกต์เซตนี้ยังมีผลในช่องมือรองด้วย (ไม่สามารถซ้อนทับกับเรโซแนนซ์ไฟหรือปฏิกิริยาไฟอื่นได้ ซึ่งเรโซแนนซ์ไฟจะมีผลก่อน)\r\n**เปลวไฟปะทุ: ตัดฉับพลัน**: เมื่อติดตั้ง**เอนเลสบลูม** หลังจากสกิลคอมโบอาวุธใดโดนเป้าหมาย จะสร้างดาเมจแรกใส่เป้าหมายใกล้เคียงเท่ากับ **37.5%** ของ ATK ไฟ + **0.5%** ของ HP สูงสุดของตัวเอง + **18.75%** ของผลรวมของค่าต้านทานทุกธาตุ + **68.75%** ของค่าดาเมจคริติคอล เมื่ออยู่ในสถานะต่อสู้ทุก **0.5** วินาที ดาเมจรวดเร็วครั้งต่อไปจะเพิ่มขึ้น **1** เท่า สูงสุด **30** ครั้ง เมื่อมีดาเมจตัดฉับพลันหลายครั้ง จะคำนวณด้วยค่าเริ่มต้นสูงสุด ดาเมจเปลวไฟปะทุ: ตัดฉับพลันถือเป็นดาเมจคอมโบ หากติดตั้งอาวุธธาตุน้ำแข็ง/ไฟฟ้า/กายภาพ **1** ชิ้น ดาเมจเปลวไฟปะทุจะเพิ่มขึ้น **1.3** เท่า นอกจากนี้ ดาเมจเปลวไฟปะทุจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากของอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
+				"description": "**เรโซแนนซ์ไฟ**: ติดตั้งอาวุธธาตุไฟ **2** ชิ้นขึ้นไปเพื่อเปิดใช้งาน จะเพิ่ม ATK ไฟ **15%** และค่าต้านทานไฟ **25%** เอฟเฟกต์เซตนี้ยังมีผลในช่องมือรองด้วย และเอฟเฟกต์ประเภทเดียวกันจะไม่สามารถซ้อนทับกันได้\r\n**เปลวไฟปะทุ: ตัดฉับพลัน**: เมื่อติดตั้ง**เอนเลสบลูม** หลังจากสกิลคอมโบอาวุธใดโดนเป้าหมาย จะสร้างดาเมจแรกใส่เป้าหมายใกล้เคียงเท่ากับ **37.5%** ของ ATK ไฟ + **0.5%** ของ HP สูงสุดของตัวเอง + **18.75%** ของผลรวมของค่าต้านทานทุกธาตุ + **68.75%** ของค่าดาเมจคริติคอล เมื่ออยู่ในสถานะต่อสู้ทุก **0.5** วินาทีในสถานะต่อสู้ ดาเมจรวดเร็วครั้งต่อไปจะเพิ่มขึ้น **1** เท่า สูงสุด **30** ครั้ง เมื่อมีดาเมจตัดฉับพลันหลายครั้ง จะคำนวณด้วยค่าเริ่มต้นสูงสุด ดาเมจเปลวไฟปะทุ: ตัดฉับพลันถือเป็นดาเมจคอมโบ หากติดตั้งอาวุธธาตุน้ำแข็ง/ไฟฟ้า/กายภาพ **1** ชิ้น ดาเมจเปลวไฟปะทุจะเพิ่มขึ้น **1.3** เท่า นอกจากนี้ ดาเมจเปลวไฟปะทุจะไม่ได้รับผลกระทบเพิ่มเติมจากเอฟเฟกต์เพิ่มดาเมจของค่าสถานะหายากของอุปกรณ์ไททัน และจะไม่ปล่อยเอฟเฟกต์โจมตีเพิ่มเติมด้วย",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6423,7 +5933,7 @@
 				"need": "None"
 			},
 			{
-				"description": "ตัวคูณพื้นฐานของดาเมจ**หัวใจอัคคี** จะเพิ่มขึ้นถึง **120%** ของ ATK เมื่ออยู่ในสถานะต่อสู้ ถ้าตนเองติดสถานะเผาไหม้หลายครั้ง ตัวคูณพื้นฐานของดาเมจ**หัวใจอัคคี** จะเพิ่มขึ้นเพิ่มเติมจนถึงตัวคูณพื้นฐานสูงสุด",
+				"description": "ตัวคูณพื้นฐานของดาเมจ**หัวใจอัคคี** จะเพิ่มขึ้นถึง **60%** ของ ATK เมื่ออยู่ในสถานะต่อสู้ ถ้าตนเองติดสถานะเผาไหม้หลายครั้ง ตัวคูณพื้นฐานของดาเมจ**หัวใจอัคคี** จะเพิ่มขึ้นเพิ่มเติมจนถึงตัวคูณพื้นฐานสูงสุด",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6455,7 +5965,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "เมื่อใน**มิราจ**มี**แฟนตาเซียเฟยเซ่อ**หรือ**กลีบบัว**ทุก **1** อัน ดาเมจ**หัวใจอัคคี**จะเพิ่มขึ้นเพิ่มเติม **15%**\r\nและพลังกายที่ใช้ในการปลดปล่อย**ก้าวย่างหอมฟุ้งโบยบิน**จะลดลง **75%**",
+				"description": "เมื่อใน**มิราจ**มี**แฟนตาเซียเฟยเซ่อ**หรือ**กลีบบัว**ทุก **1** อัน ดาเมจ**หัวใจอัคคี**จะเพิ่มขึ้นเพิ่มเติม **12%**\r\nและพลังกายที่ใช้ในการปลดปล่อย**ก้าวย่างหอมฟุ้งโบยบิน**จะลดลง **75%**",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6463,7 +5973,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "ตัวคูณพื้นฐานของดาเมจ**หัวใจสึกกร่อน** จะเพิ่มขึ้นถึง **900%** ของ ATK โดยประสิทธิภาพการทำลายโล่จะเพิ่มเป็นสองเท่า อีกทั้งเมื่อโจมตีโดนเป้าหมาย มีโอกาส **15%** ที่จะเพิ่มเอฟเฟกต์เชื่องช้า **65%** เป็นเวลา **2** วินาที (ไม่มีผลกับบอสในการเล่นเป็นทีม ไม่มีผลในลีกแข่งยอดฝีมือ)",
+				"description": "ตัวคูณพื้นฐานของดาเมจ**หัวใจสึกกร่อน** จะเพิ่มขึ้นถึง **270%** ของ ATK โดยประสิทธิภาพการทำลายโล่จะเพิ่มเป็นสองเท่า อีกทั้งเมื่อโจมตีโดนเป้าหมาย มีโอกาส **15%** ที่จะเพิ่มเอฟเฟกต์เชื่องช้า **65%** เป็นเวลา **2** วินาที (ไม่มีผลกับบอสในการเล่นเป็นทีม ไม่มีผลในลีกแข่งยอดฝีมือ)",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6473,44 +5983,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ระบำดอกบัว",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **0%**\r\nหลังจากปล่อย**ล่องลอยหมุนวน** เมื่อติดตั้งอาวุธธาตุไฟทุก **1** ชิ้น ดาเมจสุดท้ายจะเพิ่มขึ้น **4.5%** เป็นเวลา **30** วินาที"
-			},
-			"level2": {
-				"name": "เงาทมิฬ",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **0%**\r\nหลังจากปล่อย**ล่องลอยหมุนวน** เมื่อติดตั้งอาวุธธาตุไฟทุก **1** ชิ้น ดาเมจสุดท้ายจะเพิ่มขึ้น **9%** เป็นเวลา **30** วินาที"
-			},
-			"id": "imitation_51"
-		},
 		"id": "feise_fire"
 	},
 	"fenrir_thunder": {
@@ -6518,8 +6005,7 @@
 		"description": "อุปกรณ์พิเศษที่สามารถเปลี่ยนคลื่นเสียงเป็นพลังโจมตีได้ เมื่อปลดโซ่ตรวนแล้ว กระแสความตายจะกลายเป็นกรงเล็บแหลมคม ฉีกทุกสิ่งออกจากกัน",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Fenrir_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR24_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -6674,44 +6160,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "มิติ X",
-				"description": "เมื่อติดตั้งอาวุธที่มีธาตุแตกต่างกัน **2** ชิ้น จะเพิ่มดาเมจสุดท้ายของตนเอง **13%**, เมื่อติดตั้งอาวุธที่มีธาตุแตกต่างกัน **3**ชิ้น จะเพิ่มดาเมจสุดท้ายของตนเอง **18%**"
-			},
-			"level2": {
-				"name": "มิติ Z",
-				"description": "เมื่อติดตั้งอาวุธที่มีธาตุแตกต่างกัน **2** ชิ้น จะเพิ่มดาเมจสุดท้ายของตนเอง **18%**, เมื่อติดตั้งอาวุธที่มีธาตุแตกต่างกัน **3**ชิ้น จะเพิ่มดาเมจสุดท้ายของตนเอง **23%**"
-			},
-			"id": "imitation_32"
-		},
 		"id": "fenrir_thunder"
 	},
 	"umbrella_fire": {
@@ -6719,8 +6182,7 @@
 		"description": "อาวุธร่มที่หงส์เพลิงใช้โดยเฉพาะ มันมีกลไกต่าง ๆ ซ่อนอยู่ ด้วยตัวร่มขนาดใหญ่ เวอร์มิลเลี่ยนเบิร์ดไม่เพียงเป็นเครื่องมือทรงพลังในการทำลายศัตรูด้วยการปล่อยพลังงานเท่านั้น แต่ยังเป็นสิ่งที่บังสายตาของผู้อื่นและซ่อนพฤติกรรมของผู้ถือ...",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_umbrella_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR27_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6875,44 +6337,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "อัคคีคลั่ง",
-				"description": "ในช่วงเรโซแนนซ์ความอดทน ภายในบาเรียของตนเองและเพื่อนจะได้รับดาเมจไฟ/น้ำแข็งลดลง **16%**"
-			},
-			"level2": {
-				"name": "ทาวเวอร์ริงเฟรม",
-				"description": "ในช่วงเรโซแนนซ์ความอดทน ภายในบาเรียของตนเองและเพื่อนจะได้รับดาเมจไฟ/น้ำแข็งลดลง **24%**"
-			},
-			"id": "imitation_34"
-		},
 		"id": "umbrella_fire"
 	},
 	"yoyo_ice": {
@@ -6920,8 +6359,7 @@
 		"description": "อาวุธสะสมหายาก ที่ผสมผสานกับการดัดแปลงที่ทันสมัยไม่ซ้ำใคร ขอให้ผู้ใช้มีความกล้าหาญที่จะก้าวไปข้างหน้าอย่างไม่หวั่นกลัวในพื้นที่รกร้างอันมืดมิด ทะยานสู่แสงสว่าง และเผชิญหน้ากับน้ำแข็งและเปลวเพลิง",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yoyo_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR28_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -7070,44 +6508,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "น้ำค้างแข็ง",
-				"description": "หลังสวมใส่เพรชเชิสวัน เพิ่มดาเมจสุดท้าย **10%**\nในขณะที่ใช้เพรชเชิสวัน เพิ่มเอฟเฟกต์ทำลายโล่ **20%**"
-			},
-			"level2": {
-				"name": "ขนหลอมเหลว",
-				"description": "หลังสวมใส่เพรชเชิสวัน เพิ่มดาเมจสุดท้าย **15%**\nในขณะที่ใช้เพรชเชิสวัน เพิ่มเอฟเฟกต์ทำลายโล่ **45%**"
-			},
-			"id": "imitation_35"
-		},
 		"id": "yoyo_ice"
 	},
 	"yulan_ice": {
@@ -7115,8 +6530,7 @@
 		"description": "\"ยูนิตี้\" หมายถึง \"รวมเข้าด้วยกัน\" อาวุธที่จีหยู่เลือกให้หยู่หลานนั้นถือว่าเป็นอาวุธที่รวบรวมเทคโนโลยีล่าสุดทั้งหมดของอาณาเขตที่ 9 มาใช้ เพราะฉะนั้นอย่าตกใจไปถ้าเห็นอะไรดูน่ามหัศจรรย์หลังจากใช้ผนึกเวลา",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yulan_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR33_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -7295,44 +6709,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "เงียบสงบ",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **13%**\r\nภายใต้ฟอร์ม**จอมยุทธ์** ดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น **7%** \r\nภายใต้ฟอร์ม**กวาดล้าง** ทุกครั้งที่ติดตั้งอาวุธน้ำแข็ง **1** อัน ดาเมจที่เกิดจากการใช้**จิตวิญญาณต่อสู้**จะเพิ่มขึ้น **9%** เมื่อติดตั้งอาวุธน้ำแข็ง **3** อัน ดาเมจน้ำแข็งของตนเองจะเพิ่มขึ้น **8%**"
-			},
-			"level2": {
-				"name": "สมาธิ",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%**\r\nภายใต้ฟอร์ม**จอมยุทธ์** ดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น **7%** \r\nภายใต้ฟอร์ม**กวาดล้าง** ทุกครั้งที่ติดตั้งอาวุธน้ำแข็ง **1** อัน ดาเมจที่เกิดจากการใช้**จิตวิญญาณต่อสู้**จะเพิ่มขึ้น **9%** เมื่อติดตั้งอาวุธน้ำแข็ง **3** อัน ดาเมจน้ำแข็งของตนเองจะเพิ่มขึ้น **8%**"
-			},
-			"id": "imitation_38"
-		},
 		"id": "yulan_ice"
 	},
 	"zeke_physic": {
@@ -7340,8 +6731,7 @@
 		"description": "ดาบขนาดใหญ่ที่ยากที่คนธรรมดาจะกวัดแกว่งได้ ท่วมท้นด้วยพลัง คมที่ไม่อาจยับยั้ง ไม่เพียงแต่สามารถปล่อยพลังทำลายล้างอันน่าทึ่งเท่านั้น แต่ตัวดาบที่กว้างของมัน ยังให้ความรู้สึกที่มั่นคงดุจหินผาอีกด้วย",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Zeke_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR34_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "PhysicsFlame",
@@ -7496,44 +6886,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "คริติคอล",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "คริติคอล",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ค้นหาตัวตน",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **12%** \r\nATK กายภาพพื้นฐานของตนเองจะเพิ่มเป็นค่าสูงสุดของ ATK พื้นฐานของธาตุไฟ, น้ำแข็งและไฟฟ้า เมื่ออาวุธช่องหลักเป็น**โอนิกซ์ทอร์เทิส** ดาเมจโจมตีปกติจะเพิ่มขึ้น **30%**"
-			},
-			"level2": {
-				"name": "ไร้ตัวตน",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%** \r\nATK กายภาพพื้นฐานของตนเองจะเพิ่มเป็นค่าสูงสุดของ ATK พื้นฐานของธาตุไฟ, น้ำแข็งและไฟฟ้า เมื่ออาวุธช่องหลักเป็น**โอนิกซ์ทอร์เทิส** ดาเมจโจมตีปกติจะเพิ่มขึ้น **50%**"
-			},
-			"id": "imitation_50"
-		},
 		"id": "zeke_physic"
 	},
 	"queen_superpower": {
@@ -7541,8 +6908,7 @@
 		"description": "อาวุธนาโนชนิดพิเศษที่สามารถสร้างดาบแสงที่ตัดเหล็กได้ราวกับตัดเนย ในอดีต จะถูกใช้ในรูปลักษณ์คล้ายสร้อยข้อมือที่พันรอบข้อมือของเจ้าของ ในระหว่างที่อยู่ในโหมดสแตนบาย ดังนั้น เจ้าของเลยบอกว่ามันเป็นสร้อยข้อมือ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feiouna",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR29_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna"
 		},
 		"rarity": "SSR",
 		"element": "Superpower",
@@ -7736,44 +7102,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "โจมตี",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.203884
+				"name": "โจมตี",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "ค่าต้านทาน",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 4.550971
+				"name": "ค่าต้านทาน",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "กะพริบระยิบระยับ",
-				"description": "เพิ่มดาเมจสุดท้าย **16%**"
-			},
-			"level2": {
-				"name": "สะท้อนจันทรา",
-				"description": "เพิ่มดาเมจสุดท้าย **18%**"
-			},
-			"id": "imitation_36"
-		},
 		"id": "queen_superpower"
 	}
 }

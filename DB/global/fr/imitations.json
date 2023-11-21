@@ -1,4 +1,69 @@
 {
+	"imitation_49": {
+		"name": "Nan Yin",
+		"rarity": "SSR",
+		"advanceId": "imitation_49L1",
+		"weapon": "nanyin_superpower",
+		"assets": {
+			"avatar": "/Game/Resources/Icon/Avatar/touxiang_nanyin",
+			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_49",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_Nanyin",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_49",
+			"Painting": "/Game/Resources/UI/shizhuang/nitai/imitation_49",
+			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_49",
+			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_49_2",
+			"ThumbPainting": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_49_xiangqing",
+			"WeaponShowPicture": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_nanyin",
+			"HasGotAwakenEntrance": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_49",
+			"NotGotAwakenEntrance": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_49_2",
+			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_49",
+			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_49_2",
+			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR38_256"
+		},
+		"avatarID": "nanyin",
+		"age": "June 15",
+		"height": "181 cm",
+		"gender": "Féminin",
+		"state": "Department of Yuheng (Formerly)",
+		"city": "Marshville",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_49",
+		"gp": [
+			"metal",
+			"everydayObjects",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 张安琪"
+			},
+			{
+				"Japanese": "CV : 石田 嘉代"
+			},
+			{
+				"English": "CV : Dominique North"
+			},
+			{
+				"Korean": "CV : 방시우"
+			},
+			{
+				"Portuguese": "CV : MARCELA ALMEIDA"
+			}
+		],
+		"trait": {
+			"level1": {
+				"name": "Starting Tune",
+				"description": "Increase final damage by **13%**."
+			},
+			"level2": {
+				"name": "Lingering Note",
+				"description": "Increase final damage by **18%**.\r\nWhen **Purple Bamboo** is in the main slot, for every **1** non-altered weapon equipped, increase all elemental damage by **8%**."
+			},
+			"id": "imitation_49"
+		},
+		"id": "imitation_49"
+	},
 	"imitation_43": {
 		"name": "Ling Han",
 		"rarity": "SSR",
@@ -19,7 +84,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_43",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_43_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR37_256"
 		},
 		"avatarID": "linghan",
 		"age": "7juin",
@@ -57,7 +123,7 @@
 			},
 			"level2": {
 				"name": "Lame de gouvernance",
-				"description": "Augmente les dégâts finaux de **18%**. Quand **Tigre d'albâtre** est équipé, accroît les dégâts de givre de **2.5%** pour **chaque** arme de givre équipée."
+				"description": "Accroît les dégâts finaux de **18%**.\r\nQuand **Tigre d'albâtre** est équipé, confère une immunité aux dégâts pendant **4**secondes en utilisant **Technique de l'épée: Appel glacé** (non disponible en Ligue ultime). Accroît les dégâts de givre de **2.5%** pour **chaque** arme de givre équipée. Quand **3**armes de givre sont équipées, confère une recharge d'arme **350** supplémentaire lorsque l'Explorateur utilise une compétence d'arme de givre. Après avoir utilisé une compétence ou une décharge d'arme de givre autre que celle de **Tigre d'albâtre**, inflige aux cibles proches des dégâts supplémentaires équivalant à **1456%** de l'ATQ."
 			},
 			"id": "imitation_43"
 		},
@@ -83,7 +149,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_51",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_51_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR36_256"
 		},
 		"avatarID": "feise",
 		"age": "23août",
@@ -114,18 +181,72 @@
 				"Portuguese": "CV : LUCIANA BAROLI"
 			}
 		],
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"name": "Molinia",
+		"rarity": "SSR",
+		"advanceId": "imitation_33L1",
+		"weapon": "none",
+		"assets": {
+			"avatar": "/Game/Resources/Icon/Avatar/touxiang_moliniya",
+			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_bupoxiao",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22",
+			"Painting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_33",
+			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_33",
+			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_33_2",
+			"ThumbPainting": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21_xiangqing",
+			"WeaponShowPicture": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_leibei",
+			"HasGotAwakenEntrance": "/Game/Resources/UI/shizhuang/nitai/erjie_imitation_touxiang_33",
+			"NotGotAwakenEntrance": "/Game/Resources/UI/shizhuang/nitai/erjie_imitation_touxiang_33_2",
+			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/erjie_imitation_touxiang_33",
+			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/erjie_imitation_touxiang_33_2",
+			"BackPhoto": "None",
+			"RarityIcon": "None",
+			"SoloLeagueBanPickBanner": "None"
+		},
+		"avatarID": "moliniya",
+		"age": "6janvier",
+		"height": "155cm",
+		"gender": "Féminin",
+		"state": "District9 d'Hykros",
+		"city": "Warren",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_33",
+		"gp": [
+			"everydayObjects",
+			"decorate",
+			"Asshai"
+		],
+		"va": [
+			{
+				"Chinese": "四白"
+			},
+			{
+				"Japanese": "河瀬 茉希"
+			},
+			{
+				"English": ""
+			},
+			{
+				"Korean": "이새아"
+			},
+			{
+				"Portuguese": "Nina Carvalho"
+			}
+		],
 		"trait": {
 			"level1": {
-				"name": "Danse du lotus",
-				"description": "Accroît les dégâts finaux de **0%**.\r\nAprès avoir utilisé **Tourbillon**, **chaque** arme de feu équipée accroît les dégâts finaux de **4.5%** pendant **30**secondes."
+				"name": "Carillon",
+				"description": "Accroît les effets de soin reçus de **15%**."
 			},
 			"level2": {
-				"name": "Ombre noire",
-				"description": "Accroît les dégâts finaux de **0%**.\r\nAprès avoir utilisé **Tourbillon**, **chaque** arme de feu équipée accroît les dégâts finaux de **9%** pendant **30**secondes."
+				"name": "État instable",
+				"description": "Accroît les effets de soin reçus de **30%**."
 			},
-			"id": "imitation_51"
+			"id": "imitation_33"
 		},
-		"id": "imitation_51"
+		"id": "imitation_33"
 	},
 	"imitation_41": {
 		"name": "Huang",
@@ -147,7 +268,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_41",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_41_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR35_256"
 		},
 		"avatarID": "mimi",
 		"age": "23juillet",
@@ -185,7 +307,7 @@
 			},
 			"level2": {
 				"name": "Brillance de jade",
-				"description": "Accroît les dégâts finaux de **18%**.\r\nQuand **3**armes de foudre sont équipées, accroît les dégâts de foudre de **6%**."
+				"description": "Accroît les dégâts finaux de **18%**.\r\nQuand **3**armes de foudre sont équipées, accroît les dégâts de foudre de **6%**, et la durée du bonus de taux de crit est prolongée de **25**secondes supplémentaires."
 			},
 			"id": "imitation_41"
 		},
@@ -211,7 +333,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_50",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_50_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR34_256"
 		},
 		"avatarID": "mingjing",
 		"age": "12novembre",
@@ -243,17 +366,6 @@
 				"Portuguese": "CV : Wendel Bezerra"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Exploration intérieure",
-				"description": "Accroît les dégâts finaux de **12%**.\r\nL'ATQ physique basique de l'Explorateur passe à la valeur la plus élevée parmi son ATQ physique, de feu, de givre ou de foudre de base. Lorsque **Tortue d'onyx** est équipée dans l'emplacement d'arme principal, les dégâts des attaques normales augmentent de **30%**."
-			},
-			"level2": {
-				"name": "Altruiste",
-				"description": "Accroît les dégâts finaux de **18%**.\r\nL'ATQ physique basique de l'Explorateur passe à la valeur la plus élevée parmi son ATQ physique, de feu, de givre ou de foudre de base. Lorsque **Tortue d'onyx** est équipée dans l'emplacement d'arme principal, les dégâts des attaques normales augmentent de **50%**."
-			},
-			"id": "imitation_50"
-		},
 		"id": "imitation_50"
 	},
 	"imitation_38": {
@@ -264,8 +376,8 @@
 		"assets": {
 			"avatar": "/Game/Resources/Icon/Avatar/touxiang_yulan",
 			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yulan",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38",
+			"LotteryCardImage": "None",
+			"LotteryDrawing": "None",
 			"Painting": "/Game/Resources/UI/shizhuang/nitai/imitation_38",
 			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_38",
 			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_38_2",
@@ -276,7 +388,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_38",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_38_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "None"
 		},
 		"avatarID": "yulan",
 		"age": "9février",
@@ -307,17 +420,6 @@
 				"Portuguese": "CV : LUIZA PORTO"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Qi stable",
-				"description": "Accroît les dégâts finaux de **13%**.\r\nSous la forme **Artiste martial**, accroît les dégâts finaux de **7%** supplémentaires.\r\nSous la forme **Force de balayage**, pour **chaque** arme de givre équipée, accroît les dégâts infligés de **9%** en consommant **Esprit combatif**. Quand **3**armes de givre sont équipées, accroît les dégâts de givre de **8%**."
-			},
-			"level2": {
-				"name": "Attention",
-				"description": "Accroît les dégâts finaux de **18%**.\r\nSous la forme **Artiste martial**, accroît les dégâts finaux de **7%** supplémentaires.\r\nSous la forme **Force de balayage**, pour **chaque** arme de givre équipée, accroît les dégâts infligés de **9%** en consommant **Esprit combatif**. Quand **3**armes de givre sont équipées, accroît les dégâts de givre de **8%**."
-			},
-			"id": "imitation_38"
-		},
 		"id": "imitation_38"
 	},
 	"imitation_37": {
@@ -340,7 +442,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_37",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_37_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR32_256"
 		},
 		"avatarID": "liuhuo",
 		"age": "19 août",
@@ -378,7 +481,7 @@
 			},
 			"level2": {
 				"name": "Pinceau du destin",
-				"description": "Augmente les dégâts finaux de **18%**. Lorsque **Comète de pin** est dans l'emplacement main libre, la fréquence d'attaque de **Plume de moineau** passe à **1** par seconde."
+				"description": "Augmente les dégâts finaux de **18%**. Lorsque **Comète de pin** est dans l'emplacement main libre, la fréquence d'attaque de **Plume de moineau** passe à **1** par seconde.\r\nLorsque **Plume de moineau** frappe et déclenche l'effet de propagation, elle propage en plus **Brûlure ionique** et **Brûlure croisée**.\r\nEn jeu en équipe, les dégâts infligés à la cible aggro sont réduits de **5%**. Lorsque Résonance de fortitude est activée, la réduction des dégâts augmente jusqu'à **8%**."
 			},
 			"id": "imitation_37"
 		},
@@ -404,7 +507,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_48",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_48_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR31_256"
 		},
 		"avatarID": "leibiliya",
 		"age": "24 avril",
@@ -441,7 +545,7 @@
 			},
 			"level2": {
 				"name": "Illumination",
-				"description": "Accroît de **8%** les dégâts de foudre pour **chaque** arme de foudre équipée."
+				"description": "Accroît de **8%** les dégâts de foudre pour **chaque** arme de foudre équipée. La durée pendant laquelle les entités de l'Entrespace sont contrôlées par Sceau passe à **120** secondes."
 			},
 			"id": "imitation_48"
 		},
@@ -467,7 +571,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_27",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_27_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR30_256"
 		},
 		"avatarID": "genuonuo",
 		"age": "6 mars",
@@ -505,7 +610,7 @@
 			},
 			"level2": {
 				"name": "Gnonno : Raz-de-marée",
-				"description": "Après que **Frappe du groupe d'exploration** a déclenché **Rage totale**, augmente les dégâts finaux de **23%** pendant **30** secondes."
+				"description": "Après que **Frappe du groupe d'exploration** a déclenché **Rage totale**, augmente les dégâts finaux de **23%** pendant **30** secondes.\r\nPendant la plongée, augmente la vitesse de déplacement de **50%**."
 			},
 			"id": "imitation_27"
 		},
@@ -519,8 +624,8 @@
 		"assets": {
 			"avatar": "/Game/Resources/Icon/Avatar/touxiang_feiouna",
 			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_feiouna",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36",
+			"LotteryCardImage": "None",
+			"LotteryDrawing": "None",
 			"Painting": "/Game/Resources/UI/shizhuang/nitai/imitation_36",
 			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_36",
 			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_36_2",
@@ -531,7 +636,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_36",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_36_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "None"
 		},
 		"avatarID": "feiouna",
 		"age": "17 avril",
@@ -569,7 +675,7 @@
 			},
 			"level2": {
 				"name": "Reflet de lune",
-				"description": "Accroît les dégâts finaux de **18%**."
+				"description": "Accroît les dégâts finaux de **18%**.\r\n**Renforcement de Technique de dispersion:**\r\nRenforcement d'Hydroconcentration: accroît tous les dégâts élémentaires de **12%**.\r\nRenforcement de Vortex: si **Bracelet lunétoile** se trouve dans l'emplacement principal, les dégâts de Vortex sont accrus de **30%**.\r\nRenforcement de Force torrentielle: accroît les dégâts de décharge de **12%**.\r\nRenforcement de Maelström: inflige jusqu'à **33%** de dégâts finaux supplémentaires (atteint le maximum au bout de 10secondes) quand vous infligez des dégâts physiques sous l'effet de Maelström.\r\nRenforcement de Chaînes aquatiques: accroît la durée de Prison aquatique jusqu'à **5**secondes lorsque l'effet de Résonance de bénédiction est actif, et la réduction de la résistance de base de Prison aquatique passe à **10%**.\r\nRenforcement de Source: la résistance est accrue selon la formule (**PV max**/**100000**)% lorsque l'effet de Résonance de fortitude est actif, jusqu'à un maximum de **10%**."
 			},
 			"id": "imitation_36"
 		},
@@ -595,7 +701,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_35",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_35_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR28_256"
 		},
 		"avatarID": "yikaluosi",
 		"age": "24 octobre",
@@ -627,17 +734,6 @@
 				"Portuguese": "CV : Úrsula Bezerra"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Gelée",
-				"description": "Après avoir équipé Le Précieux, accroît les dégâts finaux de **10%**. En utilisant Le Précieux, accroît la fracture de **20%**."
-			},
-			"level2": {
-				"name": "Plumes de mue",
-				"description": "Après avoir équipé Le Précieux, accroît les dégâts finaux de **15%**. En utilisant Le Précieux, accroît la fracture de **45%**."
-			},
-			"id": "imitation_35"
-		},
 		"id": "imitation_35"
 	},
 	"imitation_34": {
@@ -648,8 +744,8 @@
 		"assets": {
 			"avatar": "/Game/Resources/Icon/Avatar/touxiang_lan",
 			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_lan",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_bupoxiao",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22",
 			"Painting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_34",
 			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_34",
 			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_34_2",
@@ -660,7 +756,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_34",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_34_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "None"
 		},
 		"avatarID": "lan",
 		"age": "5 mai",
@@ -699,7 +796,7 @@
 			},
 			"level2": {
 				"name": "Flammes immenses",
-				"description": "Pendant Résonance de fortitude, réduit les dégâts de feu et de givre reçus par vous et les membres du groupe dans le Domaine vermillon de **24%**."
+				"description": "Pendant Résonance de fortitude, réduit les dégâts de feu et de givre reçus par vous et les membres du groupe dans le Domaine vermillon de **24%**, et accroît les dégâts finaux de **8%**."
 			},
 			"id": "imitation_34"
 		},
@@ -713,8 +810,8 @@
 		"assets": {
 			"avatar": "/Game/Resources/Icon/Avatar/touxiang_fenlier",
 			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_fenlier",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32",
+			"LotteryCardImage": "None",
+			"LotteryDrawing": "None",
 			"Painting": "/Game/Resources/UI/shizhuang/nitai/imitation_32",
 			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_32",
 			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_32_2",
@@ -725,7 +822,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_32",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_32_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "None"
 		},
 		"avatarID": "fenlier",
 		"age": "13 février",
@@ -756,17 +854,6 @@
 				"Portuguese": "CV : Jullie"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "DimensionX",
-				"description": "Accroît les dégâts finaux de **13%**. S'active en équipant **2** armes d'éléments différents. Accroît les dégâts finaux de **18%**. S'active en équipant **3**armes d'éléments différents."
-			},
-			"level2": {
-				"name": "DimensionZ",
-				"description": "Accroît les dégâts finaux de **18%**. S'active en équipant **2** armes d'éléments différents. Accroît les dégâts finaux de **23%**. S'active en équipant **3**armes d'éléments différents."
-			},
-			"id": "imitation_32"
-		},
 		"id": "imitation_32"
 	},
 	"imitation_31": {
@@ -777,8 +864,8 @@
 		"assets": {
 			"avatar": "/Game/Resources/Icon/Avatar/touxiang_wumi",
 			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_wumi",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31",
+			"LotteryCardImage": "None",
+			"LotteryDrawing": "None",
 			"Painting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_31",
 			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_31",
 			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_31_2",
@@ -789,7 +876,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_31",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_31_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "None"
 		},
 		"avatarID": "wumi",
 		"age": "20 octobre",
@@ -819,17 +907,6 @@
 				"Portuguese": "CV : Pâmela Rodrigues"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Umi : Beau spectacle",
-				"description": "Accroît les dégâts finaux de **12%** pendant **30** secondes lorsqu'Umi utilise **C'est l'heure de la magie**. Effet non cumulable."
-			},
-			"level2": {
-				"name": "Umi : Sacrée performance",
-				"description": "Accroît les dégâts finaux de **18%** pendant **30** secondes lorsqu'Umi utilise **C'est l'heure de la magie**. Effet non cumulable."
-			},
-			"id": "imitation_31"
-		},
 		"id": "imitation_31"
 	},
 	"imitation_30": {
@@ -852,7 +929,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_30",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_30_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR22_256"
 		},
 		"avatarID": "ailisi",
 		"age": "28 mai",
@@ -890,7 +968,7 @@
 			},
 			"level2": {
 				"name": "Lépidoptère",
-				"description": "Accroît les dégâts finaux de **18%** pendant **18**secondes après avoir utilisé une compétence d'arme."
+				"description": "Accroît les dégâts finaux de **18%** pendant **18**secondes après avoir utilisé une compétence d'arme. Si Aile inflexible est avancé à 1étoile, vous recevez le soutien d'Alyss lorsque vous utilisez une compétence d'arme **physique/de feu/de foudre** dans le Champ glaçant, invoquant Alyss afin qu'elle lance une compétence de décharge sur le terrain équivalente à l'utilisation d'une compétence de décharge par un Explorateur. La compétence qui déclenche la compétence de décharge sera utilisée à nouveau."
 			},
 			"id": "imitation_30"
 		},
@@ -916,7 +994,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_26",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_26_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR21_256"
 		},
 		"avatarID": "annabeila",
 		"age": "28 avril",
@@ -948,17 +1027,6 @@
 				"Portuguese": "CV : Ágatha Paulita"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Gaz (boum!)",
-				"description": "Chaque fois qu'Explosion de gaz touche **1**ennemi, accroît les dégâts de Croix de trèfle de **8%** pendant **20**secondes. Cumulable jusqu'à **2**fois."
-			},
-			"level2": {
-				"name": "Gaz (booooum!)",
-				"description": "Chaque fois qu'Explosion de gaz touche **1**ennemi, accroît les dégâts de Croix de trèfle de **15%** pendant **20**secondes. Cumulable jusqu'à **2**fois."
-			},
-			"id": "imitation_26"
-		},
 		"id": "imitation_26"
 	},
 	"imitation_29": {
@@ -981,7 +1049,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_29",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_29_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR20_256"
 		},
 		"avatarID": "tianlang",
 		"age": "23 mars",
@@ -1019,7 +1088,7 @@
 			},
 			"level2": {
 				"name": "Tian Lang: Coup de tonnerre",
-				"description": "Chaque utilisation d'une compétence d'arme de foudre ou d'une compétence de décharge octroie **1**tentative d'esquive gratuite, jusqu'à un maximum de **2**tentatives. Lorsqu'une compétence d'arme de foudre et une compétence de décharge sont utilisées simultanément, les dégâts de foudre sont accrus de **18%** pendant **8**secondes. L'effet ne peut pas être cumulé."
+				"description": "Chaque utilisation d'une compétence d'arme de foudre ou d'une compétence de décharge octroie **1**tentative d'esquive gratuite, jusqu'à un maximum de **3**tentatives. Lorsqu'une compétence d'arme de foudre et une compétence de décharge sont utilisées simultanément, les dégâts de foudre sont accrus de **18%** pendant **8**secondes. L'effet ne peut pas être cumulé."
 			},
 			"id": "imitation_29"
 		},
@@ -1045,7 +1114,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_24",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_24_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR19_256"
 		},
 		"avatarID": "xinghuan",
 		"age": "23 juin",
@@ -1082,7 +1152,7 @@
 			},
 			"level2": {
 				"name": "Bénir",
-				"description": "Résonance de Bénédiction: accroît les PV max de 10% pour l'ensemble du groupe. Non cumulable."
+				"description": "Résonance de Bénédiction: accroît les PV max de 10% pour l'ensemble du groupe. L'effet ne peut pas être cumulé. Augmente vos PV max de 10% supplémentaires. Hypercorps est conféré aux alliés pendant 8secondes chaque fois que la compétence est utilisée pendant que vous bénéficiez d'Hypercorps ou que vos PV sont supérieurs à 50%."
 			},
 			"id": "imitation_24"
 		},
@@ -1108,7 +1178,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_23",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_23_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR18_256"
 		},
 		"avatarID": "linye",
 		"age": "3 septembre",
@@ -1172,7 +1243,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_22",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_22_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR17_256"
 		},
 		"avatarID": "bupoxiao",
 		"age": "11 octobre",
@@ -1236,7 +1308,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_21",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_21_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR16_256"
 		},
 		"avatarID": "leibei",
 		"age": "15 juillet",
@@ -1300,7 +1373,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_28",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_28_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR15_256"
 		},
 		"avatarID": "Avatar12",
 		"age": "1er février",
@@ -1363,7 +1437,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_17",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_17_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR14_256"
 		},
 		"avatarID": "Avatar06",
 		"age": "23 mai",
@@ -1427,7 +1502,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_1",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_1_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR8_256"
 		},
 		"avatarID": "ling",
 		"age": "6 juin",
@@ -1489,7 +1565,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_2",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_2_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR8_256"
 		},
 		"avatarID": "xi",
 		"age": "17 août",
@@ -1553,7 +1630,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_3",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_3_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR1_256"
 		},
 		"avatarID": "meilier",
 		"age": "10octobre",
@@ -1615,7 +1693,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_4",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_4_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR12_256"
 		},
 		"avatarID": "aige",
 		"age": "14 août",
@@ -1668,7 +1747,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_5",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_5_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR9_256"
 		},
 		"avatarID": "saimier",
 		"age": "20 mai",
@@ -1720,7 +1800,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_6",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_6_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR10_256"
 		},
 		"avatarID": "xiuma",
 		"age": "12janvier",
@@ -1773,7 +1854,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_7",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_7_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR2_256"
 		},
 		"avatarID": "sifengyuanyu",
 		"age": "24 mars",
@@ -1826,7 +1908,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_8",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_8_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR7_256"
 		},
 		"avatarID": "xiluo",
 		"age": "22 septembre",
@@ -1879,7 +1962,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_9",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_9_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR4_256"
 		},
 		"avatarID": "KING",
 		"age": "3 novembre",
@@ -1932,7 +2016,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_10",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_10_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR5_256"
 		},
 		"avatarID": "gulan",
 		"age": "26 juin",
@@ -1996,7 +2081,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_11",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_11_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR3_256"
 		},
 		"avatarID": "kekelite",
 		"age": "1er juin",
@@ -2049,7 +2135,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_12",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_12_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR6_256"
 		},
 		"avatarID": "kelaodiya",
 		"age": "16janvier",
@@ -2102,7 +2189,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_13",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_13_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR11_256"
 		},
 		"avatarID": "wuwan",
 		"age": "17décembre",
@@ -2154,7 +2242,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_14",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_14_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR6_256"
 		},
 		"avatarID": "peipei",
 		"age": "9 juillet",
@@ -2206,7 +2295,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_15",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_15_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR7_256"
 		},
 		"avatarID": "hida",
 		"age": "11 avril",
@@ -2258,7 +2348,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_16",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_16_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR9_256"
 		},
 		"avatarID": "bailing",
 		"age": "8 mai",

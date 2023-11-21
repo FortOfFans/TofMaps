@@ -1,4 +1,69 @@
 {
+	"imitation_49": {
+		"name": "Nan Yin",
+		"rarity": "SSR",
+		"advanceId": "imitation_49L1",
+		"weapon": "nanyin_superpower",
+		"assets": {
+			"avatar": "/Game/Resources/Icon/Avatar/touxiang_nanyin",
+			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_49",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_Nanyin",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_49",
+			"Painting": "/Game/Resources/UI/shizhuang/nitai/imitation_49",
+			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_49",
+			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_49_2",
+			"ThumbPainting": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_49_xiangqing",
+			"WeaponShowPicture": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_nanyin",
+			"HasGotAwakenEntrance": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_49",
+			"NotGotAwakenEntrance": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_49_2",
+			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_49",
+			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_49_2",
+			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR38_256"
+		},
+		"avatarID": "nanyin",
+		"age": "June 15",
+		"height": "181 cm",
+		"gender": "เพศหญิง",
+		"state": "Department of Yuheng (Formerly)",
+		"city": "Marshville",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_49",
+		"gp": [
+			"metal",
+			"everydayObjects",
+			"Jiuyu"
+		],
+		"va": [
+			{
+				"Chinese": "CV : 张安琪"
+			},
+			{
+				"Japanese": "CV : 石田 嘉代"
+			},
+			{
+				"English": "CV : Dominique North"
+			},
+			{
+				"Korean": "CV : 방시우"
+			},
+			{
+				"Portuguese": "CV : MARCELA ALMEIDA"
+			}
+		],
+		"trait": {
+			"level1": {
+				"name": "Starting Tune",
+				"description": "Increase final damage by **13%**."
+			},
+			"level2": {
+				"name": "Lingering Note",
+				"description": "Increase final damage by **18%**.\r\nWhen **Purple Bamboo** is in the main slot, for every **1** non-altered weapon equipped, increase all elemental damage by **8%**."
+			},
+			"id": "imitation_49"
+		},
+		"id": "imitation_49"
+	},
 	"imitation_43": {
 		"name": "หลิงหาน",
 		"rarity": "SSR",
@@ -19,7 +84,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_43",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_43_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR37_256"
 		},
 		"avatarID": "linghan",
 		"age": "7 มิถุนายน",
@@ -57,7 +123,7 @@
 			},
 			"level2": {
 				"name": "กระบี่คุ้มกัน",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%** เมื่อติดตั้ง**โอเวอร์เซียร์** การติดตั้งอาวุธน้ำแข็งทุก **1** ชิ้น ดาเมจน้ำแข็งจะเพิ่มขึ้น **2.5%**"
+				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%** \r\nเมื่อติดตั้ง**โอเวอร์เซียร์** ในช่วงระยะเวลาของ**ปราณกระบี่: น้ำแข็งคืนคำราม**จะไม่โดนดาเมจเป็นเวลา **4**วินาที (ไม่มีผลในลีกแข่งยอดฝีมือ) การติดตั้งอาวุธน้ำแข็งทุก **1** ชิ้น ดาเมจน้ำแข็งจะเพิ่มขึ้น **2.5%** เมื่อติดตั้งอาวุธน้ำแข็ง **3** ชิ้น หลังจากที่ตนเองปล่อยสกิลใดก็ได้ของอาวุธน้ำแข็ง จะได้รับชาร์จอาวุธเพิ่มเติม **350** แต้ม และหลังจากเรียกใช้สกิลหรือคอมโบของอาวุธน้ำแข็งใดก็ได้ ยกเว้น**โอเวอร์เซียร์** จะสร้างดาเมจเท่ากับ **1456%** ของ ATK ใส่เป้าหมายใกล้เคียงเพิ่มเติม"
 			},
 			"id": "imitation_43"
 		},
@@ -83,7 +149,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_51",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_51_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR36_256"
 		},
 		"avatarID": "feise",
 		"age": "23 สิงหาคม",
@@ -114,18 +181,72 @@
 				"Portuguese": "CV : LUCIANA BAROLI"
 			}
 		],
+		"id": "imitation_51"
+	},
+	"imitation_33": {
+		"name": "โมลิเนีย",
+		"rarity": "SSR",
+		"advanceId": "imitation_33L1",
+		"weapon": "none",
+		"assets": {
+			"avatar": "/Game/Resources/Icon/Avatar/touxiang_moliniya",
+			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_bupoxiao",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22",
+			"Painting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_33",
+			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_33",
+			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_33_2",
+			"ThumbPainting": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_21_xiangqing",
+			"WeaponShowPicture": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_leibei",
+			"HasGotAwakenEntrance": "/Game/Resources/UI/shizhuang/nitai/erjie_imitation_touxiang_33",
+			"NotGotAwakenEntrance": "/Game/Resources/UI/shizhuang/nitai/erjie_imitation_touxiang_33_2",
+			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/erjie_imitation_touxiang_33",
+			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/erjie_imitation_touxiang_33_2",
+			"BackPhoto": "None",
+			"RarityIcon": "None",
+			"SoloLeagueBanPickBanner": "None"
+		},
+		"avatarID": "moliniya",
+		"age": "6 มกราคม",
+		"height": "155 ซม.",
+		"gender": "เพศหญิง",
+		"state": "ไฮครอสเขต 9",
+		"city": "วอร์เรน",
+		"rating": "/Game/Resources/UI/shizhuang/nitai/xiangqing/wuwei/wuwei_imitation_33",
+		"gp": [
+			"everydayObjects",
+			"decorate",
+			"Asshai"
+		],
+		"va": [
+			{
+				"Chinese": "四白"
+			},
+			{
+				"Japanese": "河瀬 茉希"
+			},
+			{
+				"English": ""
+			},
+			{
+				"Korean": "이새아"
+			},
+			{
+				"Portuguese": "Nina Carvalho"
+			}
+		],
 		"trait": {
 			"level1": {
-				"name": "ระบำดอกบัว",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **0%**\r\nหลังจากปล่อย**ล่องลอยหมุนวน** เมื่อติดตั้งอาวุธธาตุไฟทุก **1** ชิ้น ดาเมจสุดท้ายจะเพิ่มขึ้น **4.5%** เป็นเวลา **30** วินาที"
+				"name": "แผ่วเบา",
+				"description": "เอฟเฟกต์รักษาที่ได้รับเพิ่มขึ้น **15%**"
 			},
 			"level2": {
-				"name": "เงาทมิฬ",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **0%**\r\nหลังจากปล่อย**ล่องลอยหมุนวน** เมื่อติดตั้งอาวุธธาตุไฟทุก **1** ชิ้น ดาเมจสุดท้ายจะเพิ่มขึ้น **9%** เป็นเวลา **30** วินาที"
+				"name": "ห้วงลึก",
+				"description": "เอฟเฟกต์รักษาที่ได้รับเพิ่มขึ้น **30%**"
 			},
-			"id": "imitation_51"
+			"id": "imitation_33"
 		},
-		"id": "imitation_51"
+		"id": "imitation_33"
 	},
 	"imitation_41": {
 		"name": "หวง",
@@ -147,7 +268,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_41",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_41_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR35_256"
 		},
 		"avatarID": "mimi",
 		"age": "23 กรกฎาคม",
@@ -185,7 +307,7 @@
 			},
 			"level2": {
 				"name": "กิเลนมรกต",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%**\r\nเมื่อติดตั้งอาวุธไฟฟ้า **3** ชิ้น ดาเมจไฟฟ้าจะเพิ่มขึ้น **6%**"
+				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%**\r\nเมื่อติดตั้งอาวุธไฟฟ้า **3** ชิ้น ดาเมจไฟฟ้าจะเพิ่มขึ้น **6%** ระยะเวลาของเอฟเฟกต์การเพิ่มอัตราคริติคอลจะยืดออกไปอีก **25** วินาที"
 			},
 			"id": "imitation_41"
 		},
@@ -211,7 +333,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_50",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_50_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR34_256"
 		},
 		"avatarID": "mingjing",
 		"age": "12 พฤศจิกายน",
@@ -243,17 +366,6 @@
 				"Portuguese": "CV : Wendel Bezerra"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "ค้นหาตัวตน",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **12%** \r\nATK กายภาพพื้นฐานของตนเองจะเพิ่มเป็นค่าสูงสุดของ ATK พื้นฐานของธาตุไฟ, น้ำแข็งและไฟฟ้า เมื่ออาวุธช่องหลักเป็น**โอนิกซ์ทอร์เทิส** ดาเมจโจมตีปกติจะเพิ่มขึ้น **30%**"
-			},
-			"level2": {
-				"name": "ไร้ตัวตน",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%** \r\nATK กายภาพพื้นฐานของตนเองจะเพิ่มเป็นค่าสูงสุดของ ATK พื้นฐานของธาตุไฟ, น้ำแข็งและไฟฟ้า เมื่ออาวุธช่องหลักเป็น**โอนิกซ์ทอร์เทิส** ดาเมจโจมตีปกติจะเพิ่มขึ้น **50%**"
-			},
-			"id": "imitation_50"
-		},
 		"id": "imitation_50"
 	},
 	"imitation_38": {
@@ -264,8 +376,8 @@
 		"assets": {
 			"avatar": "/Game/Resources/Icon/Avatar/touxiang_yulan",
 			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yulan",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_38",
+			"LotteryCardImage": "None",
+			"LotteryDrawing": "None",
 			"Painting": "/Game/Resources/UI/shizhuang/nitai/imitation_38",
 			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_38",
 			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_38_2",
@@ -276,7 +388,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_38",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_38_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "None"
 		},
 		"avatarID": "yulan",
 		"age": "9 กุมภาพันธ์",
@@ -307,17 +420,6 @@
 				"Portuguese": "CV : LUIZA PORTO"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "เงียบสงบ",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **13%**\r\nภายใต้ฟอร์ม**จอมยุทธ์** ดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น **7%** \r\nภายใต้ฟอร์ม**กวาดล้าง** ทุกครั้งที่ติดตั้งอาวุธน้ำแข็ง **1** อัน ดาเมจที่เกิดจากการใช้**จิตวิญญาณต่อสู้**จะเพิ่มขึ้น **9%** เมื่อติดตั้งอาวุธน้ำแข็ง **3** อัน ดาเมจน้ำแข็งของตนเองจะเพิ่มขึ้น **8%**"
-			},
-			"level2": {
-				"name": "สมาธิ",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%**\r\nภายใต้ฟอร์ม**จอมยุทธ์** ดาเมจสุดท้ายของตนเองจะเพิ่มขึ้น **7%** \r\nภายใต้ฟอร์ม**กวาดล้าง** ทุกครั้งที่ติดตั้งอาวุธน้ำแข็ง **1** อัน ดาเมจที่เกิดจากการใช้**จิตวิญญาณต่อสู้**จะเพิ่มขึ้น **9%** เมื่อติดตั้งอาวุธน้ำแข็ง **3** อัน ดาเมจน้ำแข็งของตนเองจะเพิ่มขึ้น **8%**"
-			},
-			"id": "imitation_38"
-		},
 		"id": "imitation_38"
 	},
 	"imitation_37": {
@@ -340,7 +442,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_37",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_37_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR32_256"
 		},
 		"avatarID": "liuhuo",
 		"age": "19 สิงหาคม",
@@ -378,7 +481,7 @@
 			},
 			"level2": {
 				"name": "วาดปลิดชีวิต",
-				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%** และเมื่อ**ไพน์โคเม็ต**อยู่ในช่องมือรอง ความถี่ในการยิงของ**ขนปักษี**จะเพิ่มขึ้นถึง **1** ครั้ง/วินาที"
+				"description": "ดาเมจสุดท้ายเพิ่มขึ้น **18%** และเมื่อ**ไพน์โคเม็ต**อยู่ในช่องมือรอง ความถี่ในการยิงของ**ขนปักษี**จะเพิ่มขึ้นถึง **1** ครั้ง/วินาที\r\n**เมื่อขนปักษี**โจมตีโดนและทำให้เกิดเอฟเฟกต์กระจาย จะกระจาย**เพลิงอัคคีไอออน**และ**ครอสเบิร์น**เพิ่มเติม\r\nเมื่อเล่นเป็นทีม ตนเองได้รับดาเมจจากเป้าหมายที่มีความโกรธจะลดลง **5%** เมื่อเปิดใช้งานเรโซแนนซ์ความอดทน จะเพิ่มขึ้นถึง **8%**"
 			},
 			"id": "imitation_37"
 		},
@@ -404,7 +507,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_48",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_48_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR31_256"
 		},
 		"avatarID": "leibiliya",
 		"age": "24 เมษายน",
@@ -441,7 +545,7 @@
 			},
 			"level2": {
 				"name": "บรรลุปัญญา",
-				"description": "ทุกการติดตั้งอาวุธไฟฟ้า **1** ชิ้น เพิ่มดาเมจไฟฟ้า **8%**"
+				"description": "ทุกการติดตั้งอาวุธไฟฟ้า **1** ชิ้น เพิ่มดาเมจไฟฟ้า **8%** ระยะเวลาปิดผนึกควบคุมเป้าหมายที่เป็นตัวตนมิติสีเทาเพิ่มขึ้น **120** วินาที"
 			},
 			"id": "imitation_48"
 		},
@@ -467,7 +571,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_27",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_27_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR30_256"
 		},
 		"avatarID": "genuonuo",
 		"age": "6 มีนาคม",
@@ -505,7 +610,7 @@
 			},
 			"level2": {
 				"name": "กนอนโน: คลื่นผวา",
-				"description": "หลังจาก**ทีมสำรวจรวมพลัง**เรียกใช้**ระเบิดอย่างสมบูรณ์**แล้ว ดาเมจสุดท้ายจะเพิ่มขึ้น **23%** เป็นเวลา **30** วินาที"
+				"description": "หลังจาก**ทีมสำรวจรวมพลัง**เรียกใช้**ระเบิดอย่างสมบูรณ์**แล้ว ดาเมจสุดท้ายจะเพิ่มขึ้น **23%** เป็นเวลา **30** วินาที\r\nเมื่อนักพเนจรดำลงไปในทะเล ความเร็วในการเคลื่อนที่จะเพิ่มขึ้น **50%**"
 			},
 			"id": "imitation_27"
 		},
@@ -519,8 +624,8 @@
 		"assets": {
 			"avatar": "/Game/Resources/Icon/Avatar/touxiang_feiouna",
 			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_feiouna",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_36",
+			"LotteryCardImage": "None",
+			"LotteryDrawing": "None",
 			"Painting": "/Game/Resources/UI/shizhuang/nitai/imitation_36",
 			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_36",
 			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_36_2",
@@ -531,7 +636,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_36",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_36_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "None"
 		},
 		"avatarID": "feiouna",
 		"age": "17 เมษายน",
@@ -569,7 +675,7 @@
 			},
 			"level2": {
 				"name": "สะท้อนจันทรา",
-				"description": "เพิ่มดาเมจสุดท้าย **18%**"
+				"description": "เพิ่มดาเมจสุดท้าย **18%**\r\n**เสริมพลังเทคนิคกระจัดกระจาย:**\r\nเสริมพลังไฮโดรโฟกัส: เพิ่มดาเมจทุกธาตุ **12%**\r\nเสริมพลังวังวน: ถ้า**มูนสตาร์เบซเล็ต**อยู่ในช่องหลัก ดาเมจที่เกิดขึ้นจากวังวนจะเพิ่มขึ้น **30%** \r\nเสริมพลังแรงดันคลื่น: เพิ่มดาเมจคอมโบ **12%**\r\nเสริมพลังห้วงน้ำลึก: เมื่อทำดาเมจกายภาพระหว่างที่อยู่ในเอฟเฟกต์ห้วงน้ำลึก จะสร้างดาเมจสุดท้ายเพิ่มเติมมากสุดถึง **33%** (สูงสุด 10 วินาที) \r\nเสริมพลังบ่วงน้ำ: ระยะเวลาของคุกน้ำจะเพิ่มขึ้น **5** วินาที ในขณะที่เรโซแนนซ์ประทานพรทำงานอยู่ และการลดค่าต้านทานพื้นฐานของคุกน้ำจะเพิ่มขึ้น **10%**\r\nเสริมพลังบ่อน้ำ: ค่าต้านทานทุกอย่างเพิ่มขึ้นตาม HP สูงสุด (**HP สูงสุด**/**100,000**)% ในขณะที่เรโซแนนซ์ความอดทนทำงานอยู่ โดยสูงสุดไม่เกิน **10%**"
 			},
 			"id": "imitation_36"
 		},
@@ -595,7 +701,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_35",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_35_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR28_256"
 		},
 		"avatarID": "yikaluosi",
 		"age": "24 ตุลาคม",
@@ -627,17 +734,6 @@
 				"Portuguese": "CV : Úrsula Bezerra"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "น้ำค้างแข็ง",
-				"description": "หลังสวมใส่เพรชเชิสวัน เพิ่มดาเมจสุดท้าย **10%**\nในขณะที่ใช้เพรชเชิสวัน เพิ่มเอฟเฟกต์ทำลายโล่ **20%**"
-			},
-			"level2": {
-				"name": "ขนหลอมเหลว",
-				"description": "หลังสวมใส่เพรชเชิสวัน เพิ่มดาเมจสุดท้าย **15%**\nในขณะที่ใช้เพรชเชิสวัน เพิ่มเอฟเฟกต์ทำลายโล่ **45%**"
-			},
-			"id": "imitation_35"
-		},
 		"id": "imitation_35"
 	},
 	"imitation_34": {
@@ -648,8 +744,8 @@
 		"assets": {
 			"avatar": "/Game/Resources/Icon/Avatar/touxiang_lan",
 			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_lan",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_34",
+			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_bupoxiao",
+			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_22",
 			"Painting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_34",
 			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_34",
 			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_34_2",
@@ -660,7 +756,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_34",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_34_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "None"
 		},
 		"avatarID": "lan",
 		"age": "5 พฤษภาคม",
@@ -699,7 +796,7 @@
 			},
 			"level2": {
 				"name": "ทาวเวอร์ริงเฟรม",
-				"description": "ในช่วงเรโซแนนซ์ความอดทน ภายในบาเรียของตนเองและเพื่อนจะได้รับดาเมจไฟ/น้ำแข็งลดลง **24%**"
+				"description": "ในช่วงเรโซแนนซ์ความอดทน ภายในบาเรียของตนเองและเพื่อนจะได้รับดาเมจไฟ/น้ำแข็งลดลง **24%** และดาเมจสุดท้ายจะเพิ่มขึ้น **8%**"
 			},
 			"id": "imitation_34"
 		},
@@ -713,8 +810,8 @@
 		"assets": {
 			"avatar": "/Game/Resources/Icon/Avatar/touxiang_fenlier",
 			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_fenlier",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_32",
+			"LotteryCardImage": "None",
+			"LotteryDrawing": "None",
 			"Painting": "/Game/Resources/UI/shizhuang/nitai/imitation_32",
 			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_32",
 			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_32_2",
@@ -725,7 +822,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_32",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_32_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "None"
 		},
 		"avatarID": "fenlier",
 		"age": "13 กุมภาพันธ์",
@@ -756,17 +854,6 @@
 				"Portuguese": "CV : Jullie"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "มิติ X",
-				"description": "เมื่อติดตั้งอาวุธที่มีธาตุแตกต่างกัน **2** ชิ้น จะเพิ่มดาเมจสุดท้ายของตนเอง **13%**, เมื่อติดตั้งอาวุธที่มีธาตุแตกต่างกัน **3**ชิ้น จะเพิ่มดาเมจสุดท้ายของตนเอง **18%**"
-			},
-			"level2": {
-				"name": "มิติ Z",
-				"description": "เมื่อติดตั้งอาวุธที่มีธาตุแตกต่างกัน **2** ชิ้น จะเพิ่มดาเมจสุดท้ายของตนเอง **18%**, เมื่อติดตั้งอาวุธที่มีธาตุแตกต่างกัน **3**ชิ้น จะเพิ่มดาเมจสุดท้ายของตนเอง **23%**"
-			},
-			"id": "imitation_32"
-		},
 		"id": "imitation_32"
 	},
 	"imitation_31": {
@@ -777,8 +864,8 @@
 		"assets": {
 			"avatar": "/Game/Resources/Icon/Avatar/touxiang_wumi",
 			"icon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31",
-			"LotteryCardImage": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_wumi",
-			"LotteryDrawing": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_31",
+			"LotteryCardImage": "None",
+			"LotteryDrawing": "None",
 			"Painting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_31",
 			"NamePicture": "/Game/Resources/UI/shizhuang/nitai/imitation_name_31",
 			"GrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_31_2",
@@ -789,7 +876,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_31",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_31_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "None"
 		},
 		"avatarID": "wumi",
 		"age": "20 ตุลาคม",
@@ -819,17 +907,6 @@
 				"Portuguese": "CV : Pâmela Rodrigues"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "อูมิ: การแสดงยอดเยี่ยม",
-				"description": "ในทุกครั้งที่อูมิใช้ **เทคนิคมายากล** ดาเมจสุดท้ายจะเพิ่มขึ้น **12%** เป็นเวลา **30** วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้"
-			},
-			"level2": {
-				"name": "อูมิ: การแสดงสุดอลัง",
-				"description": "ในทุกครั้งที่อูมิใช้ **เทคนิคมายากล** ดาเมจสุดท้ายจะเพิ่มขึ้น **18%** เป็นเวลา **30** วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้"
-			},
-			"id": "imitation_31"
-		},
 		"id": "imitation_31"
 	},
 	"imitation_30": {
@@ -852,7 +929,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_30",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_30_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR22_256"
 		},
 		"avatarID": "ailisi",
 		"age": "28 พฤษภาคม",
@@ -890,7 +968,7 @@
 			},
 			"level2": {
 				"name": "เลพิดอปเทอรา",
-				"description": "หลังจากใช้สกิลอาวุธสำเร็จ จะเพิ่มดาเมจสุดท้าย **18%** เป็นเวลา **18** วินาที"
+				"description": "หลังจากใช้สกิลอาวุธสำเร็จ จะเพิ่มดาเมจสุดท้าย **18%** เป็นเวลา **18** วินาที หลังจากที่ปีกไร้จำนนเลื่อนขั้นถึง 1 ดาว จะได้รับอลิสซัพพอร์ตเมื่อใช้สกิลอาวุธ **กายภาพ/ไฟ/ไฟฟ้า** ในชิลลิงฟีล อัญเชิญอลิสเพื่อร่ายสกิลคอมโบบนสนามพลัง ซึ่งเทียบเท่ากับการที่นักพเนจรที่ใช้สกิลคอมโบ หลังจากที่ใช้สกิลคอมโบแล้ว ให้ใช้สกิลเพื่อเรียกใช้เอฟเฟกต์นี้อีกครั้งหนึ่ง"
 			},
 			"id": "imitation_30"
 		},
@@ -916,7 +994,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_26",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_26_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR21_256"
 		},
 		"avatarID": "annabeila",
 		"age": "28 เมษายน",
@@ -950,12 +1029,12 @@
 		],
 		"trait": {
 			"level1": {
-				"name": "ก๊าซ (ตูม!)",
-				"description": "ทุก ๆ **1** ศัตรูที่ถูกแก๊สระเบิด จะเพิ่มดาเมจของโคลเวอร์ครอส **8%** เป็นเวลา **20** วินาที สามารถซ้อนทับกันได้สูงสุด **2** ชั้น"
+				"name": "Газ (ба-бах!)",
+				"description": "За каждого **1** врага, пораженного газовым взрывом, увеличивает урон Клеверного креста на **8%**. Длится **20** сек. и накапливается до **2** раз."
 			},
 			"level2": {
-				"name": "ก๊าซ (ตู้มมมม!)",
-				"description": "ทุก ๆ **1** ศัตรูที่ถูกแก๊สระเบิด จะเพิ่มดาเมจของโคลเวอร์ครอส **15%** เป็นเวลา **20** วินาที สามารถซ้อนทับกันได้สูงสุด **2** ชั้น"
+				"name": "Газ (БА-БАХ!)",
+				"description": "За **каждого** врага, пораженного Взрывом газа, увеличивает урон Клеверного креста на **15%**. Длится **20 сек.** и накапливается до **2** раз."
 			},
 			"id": "imitation_26"
 		},
@@ -981,7 +1060,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_29",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_29_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR20_256"
 		},
 		"avatarID": "tianlang",
 		"age": "23 มีนาคม",
@@ -1019,7 +1099,7 @@
 			},
 			"level2": {
 				"name": "เทียนหลาง: ฟ้าคำราม",
-				"description": "หลังจากใช้สกิลอาวุธไฟฟ้าหรือสกิลคอมโบได้รับจำนวนการหลบหลีกฟรี **1** ครั้ง โดยมีจำนวนรวมสูงสุด **2** ครั้ง เมื่อใช้สกิลอาวุธไฟฟ้าและสกิลคอมโบพร้อมกัน เพิ่มดาเมจไฟฟ้า **18%** เป็นเวลา **8** วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้"
+				"description": "หลังจากใช้สกิลอาวุธไฟฟ้าหรือสกิลคอมโบได้รับจำนวนการหลบหลีกฟรี **1** ครั้ง โดยมีจำนวนรวมสูงสุด **3** ครั้ง เมื่อใช้สกิลอาวุธไฟฟ้าและสกิลคอมโบพร้อมกัน เพิ่มดาเมจไฟฟ้า **18%** เป็นเวลา **8** วินาที เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้"
 			},
 			"id": "imitation_29"
 		},
@@ -1045,7 +1125,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_24",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_24_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR19_256"
 		},
 		"avatarID": "xinghuan",
 		"age": "23 มิถุนายน",
@@ -1082,7 +1163,7 @@
 			},
 			"level2": {
 				"name": "อวยพร",
-				"description": "เรโซแนนซ์ประทานพร: เพิ่ม HP สูงสุด 10% แก่ทั้งทีม ไม่สามารถซ้อนทับได้"
+				"description": "เรโซแนนซ์ประทานพร: เพิ่ม HP สูงสุด 10% ใช้กับทั้งทีม เอฟเฟกต์นี้ไม่สามารถซ้อนทับได้ นอกจากนั้นยังเพิ่ม HP สูงสุดของคุณอีก 10% โดยในทุกครั้งที่ใช้สกิลได้สำเร็จในระหว่างที่ตนเองมีเอฟเฟกต์ไฮเปอร์บอดี้หรือ HP มากกว่า 50% จะมอบไฮเปอร์บอดี้ให้แก่พวกเดียวกัน เป็นเวลา 8 วินาที"
 			},
 			"id": "imitation_24"
 		},
@@ -1108,7 +1189,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_23",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_23_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR18_256"
 		},
 		"avatarID": "linye",
 		"age": "3 กันยายน",
@@ -1172,7 +1254,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_22",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_22_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR17_256"
 		},
 		"avatarID": "bupoxiao",
 		"age": "11 ตุลาคม",
@@ -1236,7 +1319,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_21",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/UI_imitation_touxiang_21_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR16_256"
 		},
 		"avatarID": "leibei",
 		"age": "15 กรกฎาคม",
@@ -1300,7 +1384,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_28",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_28_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR15_256"
 		},
 		"avatarID": "Avatar12",
 		"age": "1 กุมภาพันธ์",
@@ -1363,7 +1448,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_17",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_17_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR14_256"
 		},
 		"avatarID": "Avatar06",
 		"age": "23 พฤษภาคม",
@@ -1427,7 +1513,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_1",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_1_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR8_256"
 		},
 		"avatarID": "ling",
 		"age": "6 มิถุนายน",
@@ -1489,7 +1576,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_2",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_2_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR8_256"
 		},
 		"avatarID": "xi",
 		"age": "17 สิงหาคม",
@@ -1553,7 +1641,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_3",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_3_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR1_256"
 		},
 		"avatarID": "meilier",
 		"age": "10 ตุลาคม",
@@ -1615,7 +1704,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_4",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_4_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR12_256"
 		},
 		"avatarID": "aige",
 		"age": "14 สิงหาคม",
@@ -1668,7 +1758,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_5",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_5_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR9_256"
 		},
 		"avatarID": "saimier",
 		"age": "20 พฤษภาคม",
@@ -1720,7 +1811,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_6",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_6_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR10_256"
 		},
 		"avatarID": "xiuma",
 		"age": "12 มกราคม",
@@ -1773,7 +1865,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_7",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_7_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR2_256"
 		},
 		"avatarID": "sifengyuanyu",
 		"age": "24 มีนาคม",
@@ -1826,7 +1919,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_8",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_8_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR7_256"
 		},
 		"avatarID": "xiluo",
 		"age": "22 กันยายน",
@@ -1879,7 +1973,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_9",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_9_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR4_256"
 		},
 		"avatarID": "KING",
 		"age": "3 พฤศจิกายน",
@@ -1932,7 +2027,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_10",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_10_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR5_256"
 		},
 		"avatarID": "gulan",
 		"age": "26 มิถุนายน",
@@ -1996,7 +2092,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_11",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_11_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR3_256"
 		},
 		"avatarID": "kekelite",
 		"age": "1 มิถุนายน",
@@ -2049,7 +2146,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_12",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_12_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR6_256"
 		},
 		"avatarID": "kelaodiya",
 		"age": "16 มกราคม",
@@ -2102,7 +2200,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_13",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_13_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/ssr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR11_256"
 		},
 		"avatarID": "wuwan",
 		"age": "17 ธันวาคม",
@@ -2154,7 +2253,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_14",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_14_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR6_256"
 		},
 		"avatarID": "peipei",
 		"age": "9 กรกฎาคม",
@@ -2206,7 +2306,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_15",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_15_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR7_256"
 		},
 		"avatarID": "hida",
 		"age": "11 เมษายน",
@@ -2258,7 +2359,8 @@
 			"AdvancePainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_16",
 			"AdvanceGrayPainting": "/Game/Resources/UI/shizhuang/nitai/imitation_touxiang_16_2",
 			"BackPhoto": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_Details_bg",
-			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr"
+			"RarityIcon": "/Game/Resources/UI/shizhuang/nitai/xiangqing/sr",
+			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR9_256"
 		},
 		"avatarID": "bailing",
 		"age": "8 พฤษภาคม",

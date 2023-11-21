@@ -79,6 +79,23 @@
 			{
 				"text": "Log: Quo Vadis",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Domain 9 Walker",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_4"
@@ -474,6 +491,23 @@
 			{
 				"text": "Log: Hidup Dalam Kegelapan",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Casual Gathering",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_23"
@@ -684,6 +718,23 @@
 			{
 				"text": "Log: Lagu Keberanian",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Doing My Best",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_36"
@@ -705,6 +756,23 @@
 			{
 				"text": "Catatan: Penampakan Hantu Pulau Semilir",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Greatest Discovery in History",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_27"
@@ -726,6 +794,23 @@
 			{
 				"text": "Catatan: Kebangkitan",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Through Thick and Thin",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_48"
@@ -747,6 +832,23 @@
 			{
 				"text": "Catatan: Tumbuh Besar",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Tasting Secret Recipe",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_37"
@@ -768,6 +870,23 @@
 			{
 				"text": "Log: Obrolan Berat",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Leisure Time",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_38"
@@ -944,5 +1063,43 @@
 			}
 		],
 		"id": "imitation_33"
+	},
+	"imitation_49": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: A Corner of the Past",
+				"stage": 600
+			},
+			{
+				"text": "Log: Getting Closer As Days Go By",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Lone Melodies on A Solitary String",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Continuation of Dream",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_49"
 	}
 }

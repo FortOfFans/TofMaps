@@ -4,8 +4,7 @@
 		"description": "沃兰雪原居民常用的武器，根据地域特点增加了寒冰属性。平价而高效，广受欢迎。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Spear_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01"
 		},
 		"rarity": "R",
 		"element": "Ice",
@@ -104,31 +103,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 6.714021
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.20856
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "spear_ice"
@@ -138,8 +125,7 @@
 		"description": "班吉斯重工研发的基础型武器，使用特制合金制作，轻便而灵活，打击感十足。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Ds_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01"
 		},
 		"rarity": "R",
 		"element": "Physics",
@@ -232,31 +218,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 7.350086
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 5.653912
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "digger_physic"
@@ -266,8 +240,7 @@
 		"description": "最早被立项的电能原能武具项目，上手简单，受到许多不擅长战斗的拓荒者的欢迎。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Sword_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01"
 		},
 		"rarity": "R",
 		"element": "Thunder",
@@ -354,31 +327,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 6.360651
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.650271
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sword_thunder"
@@ -388,8 +349,7 @@
 		"description": "雪原上的猎人常用的武器，能够轻松命中猎物。经过推广后，现已在平价民用市场占据半壁江山。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Bow_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01"
 		},
 		"rarity": "R",
 		"element": "Flame",
@@ -476,31 +436,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 7.350086
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 5.653912
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "bow_fire"
@@ -510,8 +458,7 @@
 		"description": "刻有十字圣符的机械法杖，或宽恕己罪或降临神罚。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Stave_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR6_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01"
 		},
 		"rarity": "SR",
 		"element": "Thunder",
@@ -653,31 +600,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 10.012136
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 5.153305
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "stave_thunder"
@@ -687,8 +622,7 @@
 		"description": "火器界超越枪炮史的绝命之作，人称移动炮台的重型机枪。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Cannon_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR7_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01"
 		},
 		"rarity": "SR",
 		"element": "Ice",
@@ -800,31 +734,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 11.778983
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.944746
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "cannon_ice"
@@ -834,8 +756,7 @@
 		"description": "对于小朋友的玩物来说，实在是过于危险了。不可能是那孩子通过正规途径得到的东西。谁知道是用什么技术改装来的……或许是某场冒险中寻获的失落财宝吗？",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Chainsaw_physic01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR30_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -990,44 +911,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "格诺诺-涟漪",
-				"description": "**探险队合击**触发**完全暴走**后，最终伤害提升**12%**，持续**30**秒"
-			},
-			"level2": {
-				"name": "格诺诺-骇浪",
-				"description": "**探险队合击**触发**完全暴走**后，最终伤害提升**23%**，持续**30**秒"
-			},
-			"id": "imitation_27"
-		},
 		"id": "chainsaw_physic"
 	},
 	"hammer_ice": {
@@ -1035,8 +933,7 @@
 		"description": "面对这样的大锤，应该没有人会想要迎面接下它的沉重敲击。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Hammer_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR8_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01"
 		},
 		"rarity": "SR",
 		"element": "Ice",
@@ -1184,44 +1081,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 9.423186
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 5.889492
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "烯-急速模式",
-				"description": "烯游泳、攀爬、滑翔时，耐力消耗减少**12%**"
-			},
-			"level2": {
-				"name": "烯-超限模式",
-				"description": "烯游泳、攀爬、滑翔时，耐力消耗减少**20%**"
-			},
-			"id": "imitation_2"
-		},
 		"id": "hammer_ice"
 	},
 	"bow_physic": {
@@ -1229,8 +1103,7 @@
 		"description": "犹如暗夜般的弓矢，可以完美地融入幽邃的夜色。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Bow_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR9_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01"
 		},
 		"rarity": "SR",
 		"element": "Physics",
@@ -1366,44 +1239,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 12.250143
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 9.423186
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "白伶-勇气",
-				"description": "白伶收起滑翔伞或者滑板时，移速提升**8%**，持续**12**秒，冷却**60**秒。"
-			},
-			"level2": {
-				"name": "白伶-果敢",
-				"description": "白伶收起滑翔伞或者滑板时，移速提升**15%**，持续**12**秒，冷却**60**秒。"
-			},
-			"id": "imitation_16"
-		},
 		"id": "bow_physic"
 	},
 	"spear_thunder": {
@@ -1411,8 +1261,7 @@
 		"description": "被灌注了雷霆之力的长枪，爆发力超高，兼顾近远攻守。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Spear_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR12_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01"
 		},
 		"rarity": "SR",
 		"element": "Thunder",
@@ -1560,31 +1409,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 11.190034
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 3.680932
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "spear_thunder"
@@ -1594,8 +1431,7 @@
 		"description": "如同小丑先生的各种魔术小刀一样，变幻莫测如影随形且致命无声。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Ds_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR11_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -1737,31 +1573,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "digger_thunder"
@@ -1771,8 +1595,7 @@
 		"description": "高贵优雅的冰霜巨剑，仿佛傲立于峭峰雪岭的纯白之花。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_BigSword_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR1_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -1926,44 +1749,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "梅丽尔-蔷薇冷艳",
-				"description": "梅丽尔受到冰伤降低**20%**，免疫冻伤效果，被冰冻时长降低**50%**"
-			},
-			"level2": {
-				"name": "梅丽尔-冰霜凛冽",
-				"description": "梅丽尔受到冰伤降低**25%**，免疫冻伤效果，被冰冻时长降低**50%**。梅丽尔的周围会结冰。"
-			},
-			"id": "imitation_3"
-		},
 		"id": "bigsword_ice"
 	},
 	"bow_ice": {
@@ -1971,8 +1771,7 @@
 		"description": "能够凝结冰霜的弓矢，发出的强力一击如同冰之吐息。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Bow_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR2_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -2108,31 +1907,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "bow_ice"
@@ -2142,8 +1929,7 @@
 		"description": "以精度的指针将寒冷的温度进行保持逐步稳定，最终达到疗愈。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Stave_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR3_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -2286,31 +2072,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "stave_ice"
@@ -2320,8 +2094,7 @@
 		"description": "攻守兼备威力强悍的镰刀，在一定距离下甚至可以一击必杀。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Sickle_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR4_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -2469,31 +2242,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sickle_fire"
@@ -2503,8 +2264,7 @@
 		"description": "由某位科学怪人打造，测试时数值爆表，不知道火力全开情况如何。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Gun_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR5_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -2647,44 +2407,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "钴蓝-余温",
-				"description": "钴蓝释放连携技后，自身随机恢复**50**-**120**点武器充能值。"
-			},
-			"level2": {
-				"name": "钴蓝-火花",
-				"description": "钴蓝释放连携技后，自身随机恢复**90**-**180**点武器充能值。"
-			},
-			"id": "imitation_10"
-		},
 		"id": "gun_fire"
 	},
 	"sword_physic": {
@@ -2692,8 +2429,7 @@
 		"description": "利刃的剑锋是正义的代行者，红莲的剑身象征着勇敢坚毅的品格。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Sword_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR6_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -2836,31 +2572,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sword_physic"
@@ -2870,8 +2594,7 @@
 		"description": "圆月型锋刃武器，它陪伴主人完成了沿海旅行，因此得名环海。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Darts_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR7_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -3013,31 +2736,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "darts_physic"
@@ -3047,8 +2758,7 @@
 		"description": "似乎魔方的使用者总能想出各种方法来否定不必要的条件。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Cube_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR8_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -3191,44 +2901,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 14.563107
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 9.101942
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "零-精准计算",
-				"description": "零释放武器技能时，减少冷却中的源器的冷却时间**1.5**秒。相同武器**5**秒内只能触发**1**次。"
-			},
-			"level2": {
-				"name": "零-全局统筹",
-				"description": "零释放武器技能时，减少冷却中的源器的冷却时间**3**秒。相同武器**5**秒内只能触发**1**次。"
-			},
-			"id": "imitation_1"
-		},
 		"id": "cube_fire"
 	},
 	"dgun_thunder": {
@@ -3236,8 +2923,7 @@
 		"description": "参考磁轨炮原理制作而成枪械，需要成对使用。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_DGun_Thunder",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR9_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -3373,31 +3059,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "dgun_thunder"
@@ -3407,8 +3081,7 @@
 		"description": "特殊工艺定制的v2系列武器之一，此为攻守一体的熔能盾斧。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_ShieldAxe_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR10_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -3544,31 +3217,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 14.563107
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 9.101942
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "shieldaxe_fire"
@@ -3578,8 +3239,7 @@
 		"description": "蕴含巨大能量的双扇，可崩山石，裂天地。\r\n孟章腾云起，人间浩荡风。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_mimi",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR35_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -3728,53 +3388,215 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "竹蔑",
-				"description": "最终伤害提升**13%**。\r\n装备**3**把雷武器时，雷电伤害提升**6%**。"
-			},
-			"level2": {
-				"name": "翠麟",
-				"description": "最终伤害提升**18%**。\r\n装备**3**把雷武器时，雷电伤害提升**6%**。"
-			},
-			"id": "imitation_41"
-		},
 		"id": "mimi_thunder"
+	},
+	"nanyin_superpower": {
+		"name": "紫竹",
+		"description": "以音律和节奏催动域能用以战斗。在戌郡之祸后，南音再次出现在人们面前时，那支箫也就此附着上可怕的晦暝能量，每当南音吹响它时，都会将大量的生命转化为暝伥并为其所用。",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Nanyin",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Nanyin"
+		},
+		"rarity": "SSR",
+		"element": "Superpower",
+		"weaponType": "Nanyin",
+		"wc": "DPS",
+		"avatar": "imitation_49",
+		"mats": {
+			"Item_breakthrough_A1": 28,
+			"Item_breakthrough_B1": 28,
+			"Item_breakthrough_C1": 26,
+			"Item_breakthrough_D1": 26,
+			"Item_breakthrough_A2": 50,
+			"Item_breakthrough_B2": 50,
+			"Item_breakthrough_C2": 50,
+			"Item_breakthrough_D2": 50,
+			"Item_breakthrough_A3": 26,
+			"Item_breakthrough_B3": 26,
+			"Item_breakthrough_C3": 26,
+			"Item_breakthrough_D3": 26
+		},
+		"advanceID": "Nanyin_superpower_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "音域共振",
+					"description": "在地面时，点击普攻可连续进行五次攻击。\r\n第一次攻击对目标造成**60%***攻击力+**360**点伤害。\r\n第二次攻击对目标造成**84%***攻击力+**504**点伤害。\r\n第三次攻击对目标造成**86%***攻击力+**516**点伤害。\r\n第四次攻击对目标造成**143%***攻击力+**858**点伤害。\r\n第五次攻击对目标造成**820%***攻击力+**4920**点伤害。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_melee",
+					"id": "GA_FPlayerNanYinMelee_Melee"
+				},
+				{
+					"name": "全域共振",
+					"description": "当拓荒者滞空时，点击普攻可在空中连续进行五次攻击，并消耗耐力。\r\n第一次攻击对目标造成**60%***攻击力+**360**点伤害。\r\n第二次攻击对目标造成**88%***攻击力+**528**点伤害。\r\n第三次攻击对目标造成**86%***攻击力+**516**点伤害。\r\n第四次攻击对目标造成**138%***攻击力+**828**点伤害。\r\n第五次攻击对目标造成**780%***攻击力+**4680**点伤害。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattack",
+					"id": "GA_FPlayerNanYinMelee_AirAttack"
+				},
+				{
+					"name": "黯影爆破",
+					"description": "在地面时，使用第一/第二/第三至第四次普攻时，长按普攻可触发黯影爆破，并消耗耐力。\r\n向前方发动进攻，对附近目标造成**148%***攻击力+**888**/**295%***攻击力+**1770**/**443%***攻击力+**2658**点伤害，并浮空目标。\r\n触发黯影爆破后，长按普攻可触发裂隙潮涌。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_meleebranch1",
+					"id": "GA_FPlayerNanYinMelee_MeleeBranch1"
+				},
+				{
+					"name": "裂隙潮涌",
+					"description": "触发黯影爆破后，长按普攻可触发裂隙潮涌，并消耗耐力。\r\n向前方发动进攻，对附近目标至多造成**806%***攻击力+**4836**点伤害，并浮空目标。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_meleebranch2",
+					"id": "GA_FPlayerNanYinMelee_MeleeBranch2"
+				},
+				{
+					"name": "黯影空爆",
+					"description": "当拓荒者滞空时，使用第一/第二/第三至四次普攻时，长按普攻可触发黯影空爆，并消耗耐力。\r\n向前方发动进攻，对附近目标造成**155%***攻击力+**930**/**310%***攻击力+**1860**/**465%***攻击力+**2790**点伤害，并浮空目标。\r\n触发黯影空爆后，长按普攻可触发裂隙喷涌。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattackbranch1",
+					"id": "GA_FPlayerNanYinMelee_AirAttackBranch1"
+				},
+				{
+					"name": "裂隙喷涌",
+					"description": "在地面时，触发黯影空爆后，长按普攻可触发裂隙喷涌，并消耗耐力。\r\n向前方发动进攻，对附近目标造成**871%***攻击力+**5226**点伤害，并浮空目标。\r\n根据长按时间的不同，最多可造成1.5倍伤害。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattackbranch2",
+					"id": "GA_FPlayerNanYinMelee_AirAttackBranch2"
+				},
+				{
+					"name": "虚空渊流",
+					"description": "在地面时，长按普攻可在当前位置生成一个渊流，点击地图上的标记点可传送至该点位，或对该标记点进行设置，渊流至多可生成**2**个。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_powerattack",
+					"id": "GA_FPlayerNanYinMelee_PowerAttack"
+				}
+			],
+			"dodge": [
+				{
+					"name": "闪避",
+					"description": "在被命中前闪避，可触发幻时，使一定范围内的目标动作速率变缓；闪避过程中，免疫硬直效果。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/common_evade",
+					"id": "GA_FPlayerNanYinEvade_Evade"
+				},
+				{
+					"name": "涡旋力场",
+					"description": "任意闪避之后的短暂时间内，点击普攻，可触发涡旋力场。\r\n在目标位置生成暗物质，对附近目标造成**180%***攻击力+**1080**点伤害，当附近目标经过暗物质时，会形成涡旋力场吸附目标。\r\n自身途经涡旋力场时，自身获得持续**15**秒的次元守护，可抵挡**1**次来自锁定目标的伤害（不高于自身**300%**最大生命值），次元守护每**15**秒至多获得**1**次。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_evadeattack",
+					"id": "GA_FPlayerNanYinEvade_EvadeAttack"
+				},
+				{
+					"name": "蝶舞",
+					"description": "**[组队玩法]**中，紫竹任意闪避后，召唤**1**只蝴蝶跟随自身，持续**60**秒。\r\n自身激活强攻共鸣/均衡共鸣时：蝴蝶环绕当前锁定目标，飞行轨迹形成线谱，并对经过线谱的目标造成**300%***攻击力伤害；\r\n自身激活坚毅共鸣时：对经过线谱的目标添加**2**秒**65%**迟缓效果，对经过线谱的自身及队友添加**10%**最大生命值护盾，每秒至多可添加**1**次且至多可叠加**2**层，持续**15**秒；\r\n自身激活恩赐共鸣时：当队友重伤倒地时，消耗蝴蝶立即扶起队友。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_evadebeidong",
+					"id": "GA_FPlayerNanYinEvade_Beidong"
+				}
+			],
+			"skill": [
+				{
+					"name": "超维领域",
+					"description": "激活超维领域，自身获得短暂无敌并对附近目标造成**650%***攻击力+**3900**点伤害，并对目标添加**3**秒**65%**迟缓效果（组队玩法中对boss不生效），同时使场上**虚影**立刻释放一次技能，冷却**60**秒。\r\n自身升空释放领域，使附近目标进入高维空间，高维空间至多持续**60**秒，期间自身获得霸体效果，紫竹对高维空间内目标造成的伤害无视护盾。\r\n高维空间每秒汇聚**2**+空间内目标数***1**点能量，能量每汇聚满**45**点后触发维度坍缩，对高维空间内目标造成（**0.1%***空间内自身（不包含虚影）累计实际伤害+**1200%***攻击力）伤害（视为基础倍率，受增伤效果影响），伤害类型视为被动伤害，维度坍缩至多**4**次后高维空间消失。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_skill",
+					"id": "GA_FPlayerNanYinSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "调谐禁锢",
+					"description": "当**武器充能满**或触发**幻时**时，从其他武器切换到该武器时**清除自身负面状态**，从次元中生成锁链束缚目标，添加**3**秒**65%**迟缓效果（组队玩法中对boss不生效），并对附近目标造成**1660%***攻击力+**9959**点伤害，期间免疫伤害持续**1.5**秒（巅峰联赛不生效）。\r\n\r\n**被动：虚影**\r\n调谐禁锢可在场上生成**1**具虚影，协同攻击当前锁定目标，场上至多可存在**1**具虚影，非战斗状态下虚影持续**20**秒。\r\n每装备**1**把不同元素武器或异能武器，虚影伤害提升**10%**，此外，虚影伤害不受除寄宿效果、谐调禁锢效果、泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。\r\n**紫竹**闪避长按可触发降神效果（巅峰联赛不生效），自身附身于虚影之上，可操控虚影移动，同时虚影协同替换为虚影普攻与虚影技能。\r\n降神后虚影进入狂暴状态，移动速度、受到伤害降低、破防值、充能值提升**50%**，虚影普攻、虚影技能造成的伤害额外提升虚影当前已损失最大生命值百分比。\r\n**虚影协同**：间歇性的协同攻击，对附近目标造成**165%~300%***虚影攻击力伤害；\r\n**虚影光环**：每秒对附近目标造成**100%***虚影攻击力伤害；\r\n**虚影普攻**：点击普攻连续进行的四次攻击，每次攻击对附近目标造成**240%~385%***虚影攻击力伤害；\r\n**虚影技能**：消耗**25%**虚影最大生命值，对附近目标造成**1870%~2040%***虚影攻击力伤害，同时自身在**60**秒内暴击率提高**30%**；\r\n**虚影解除**：虚影受到致命伤害、玩家装卸紫竹、降神状态下长按任意闪避可触发虚影解除。\r\n\r\n**被动：暝伥**\r\n从其它武器切换至紫竹后，根据该武器的元素类型，调谐禁锢将额外提供不同效果。\r\n**寒冰**：召唤晦暝 **•**  白虎精英，造成**500%***攻击力点范围伤害，自身获得**60%**最大生命值护盾，持续**30**秒（巅峰联赛不生效）。同时在锁定目标附近生成冰暴，每秒对附近目标造成**420%***攻击力伤害，伤害类型视为普攻伤害，持续**15**秒；\r\n**火焰**：召唤暝伥 **•**  玄鸦，造成**500%***攻击力点范围伤害，对附近目标添加灼烧，造成**240%***攻击力伤害，伤害类型视为被动伤害；\r\n**雷电**：召唤暝伥 **•**  龙骧，造成**500%***攻击力点伤害，非降神期间每秒消耗**5%**虚影最大生命值，对附近目标造成**50%**伤害，伤害类型视为普攻伤害（巅峰联赛不生效）；\r\n**物理**：召唤晦暝 **•**  狰，造成**500%***攻击力点范围伤害，自身获得**30**秒横扫效果，暴击时对附近目标额外造成**80%***攻击力伤害，伤害类型视为普攻伤害，每**0.85**秒至多触发**1**次；\r\n**异能**：召唤晦暝 **•**  饕餮，造成**525%***攻击力点范围伤害，虚影额外继承玩家**100%**攻击力，虚影解除时会额外对附近目标造成**2000%***虚影攻击力伤害，伤害类型视为技能伤害。",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_changeskill",
+					"id": "GA_FPlayerNanYinChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**终末的箫声**：装备**3**把异能武器触发，提升**30%**攻击，装备后后台也生效。\r\n**浸染**：从其它武器切换至紫竹后，根据该武器的元素类型，更改紫竹造成伤害的元素类型。\r\n**寄宿**：晦暝之力可以寄宿任意一把已解锁武器，当紫竹不上阵时，晦暝之力可寄宿任意其它武器，该武器造成伤害提升**1%**；当紫竹上阵时，晦暝之力仅可寄宿紫竹，玩家自身伤害提升**15%**。",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "None"
+			},
+			{
+				"description": "晦暝之力寄宿武器的星级每提升**1**级，寄宿增伤额外提升**1%**；\r\n维度坍缩伤害提升至（**0.1%***高维空间内自身（不包含虚影）累计实际伤害+**2400%***攻击力）伤害（视为基础倍率，受增伤效果影响）。",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "当前武器的基础攻击成长+**16%**",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "虚影额外继承玩家**50%**攻击力，非降神状态下，自身受到致命伤害时，解除虚影抵挡一次致死效果并免疫伤害一小段时间，该效果**60**秒内至多触发一次，有其它同类效果时优先生效其它同类效果，装备后后台可生效。",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "当前武器的基础攻击成长+**32%**",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "高维空间内自身获得无视目标**20%**抗性效果；\r\n虚空渊流生成数量上限提升至**3**个。",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "维度坍缩伤害提升至（**0.4%***高维空间内自身（不包含虚影）累计实际伤害+**2400%***攻击力）伤害（视为基础倍率，受增伤效果影响）。",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			}
+		],
+		"stats": [
+			{
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
+			},
+			{
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
+			},
+			{
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
+			}
+		],
+		"id": "nanyin_superpower"
 	},
 	"linghan_ice": {
 		"name": "监兵",
 		"description": "挥袖舞长剑，谁能识此心。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR37_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -3923,44 +3745,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.571905
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1010.0971
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 11.837075
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "临剑",
-				"description": "最终伤害提升**13%**；装备**监兵**时，每装备**1**把冰武器提升**1%**冰伤。"
-			},
-			"level2": {
-				"name": "御剑",
-				"description": "最终伤害提升**18%**；装备**监兵**时，每装备**1**把冰武器提升**2.5%**冰伤。"
-			},
-			"id": "imitation_43"
-		},
 		"id": "linghan_ice"
 	},
 	"suspension_thunder": {
@@ -3968,8 +3767,7 @@
 		"description": "设计者不明，原型蓝图已流失的特制悬浮电磁炮，内部有独特的电气储蓄工艺，一旦用坏维修起来极其麻烦，但班吉斯重工的钴蓝似乎能做到。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_naimxs_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR14_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -4112,44 +3910,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "奈美西斯-蜕变",
-				"description": "召唤电极时，电极周围**30**米内，所有敌人受到**60%**攻击力的雷电伤害，所有友方（包括自身）获得**120%**攻击力的治疗。"
-			},
-			"level2": {
-				"name": "奈美西斯-升华",
-				"description": "召唤电极时，电极周围**30**米内，所有敌人受到**100%**攻击力的雷电伤害，所有友方（包括自身）获得**200%**攻击力的治疗。"
-			},
-			"id": "imitation_17"
-		},
 		"id": "suspension_thunder"
 	},
 	"frigg_ice": {
@@ -4157,8 +3932,7 @@
 		"description": "专属于赦免天使弗丽嘉的大剑与佩刀，制造时对弗丽嘉的机械躯体进行了适配。两把武器虽然并不是一体的，不过弗丽嘉将它们统称为巴尔蒙克。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_frigg_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR15_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -4295,44 +4069,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "冻结",
-				"description": "进入战斗时每**3**秒获得**1.5%**寒冰攻击力提升，最多叠加**10**层，持续**5**秒。"
-			},
-			"level2": {
-				"name": "冰封",
-				"description": "进入战斗时每**3**秒获得**2.4%**寒冰攻击提升，最多叠加**10**层，持续**5**秒，并且在冰域内获得霸体效果和免疫控制效果。"
-			},
-			"id": "imitation_28"
-		},
 		"id": "frigg_ice"
 	},
 	"funnel_fire": {
@@ -4340,8 +4091,7 @@
 		"description": "凛夜拜托镜都研发部门为蕾贝特制的武器，主要功能有：过家家时管家担当、早上叫蕾贝起床、为蕾贝带路……噢噢，最重要的当然是，保护蕾贝。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_funnel_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR16_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -4484,44 +4234,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "捕梦之网",
-				"description": "多莉附近**5**米范围内，怪物受到的火焰伤害增加**8%**，不可叠加"
-			},
-			"level2": {
-				"name": "多莉领域",
-				"description": "多莉附近5米范围内，怪物受到的火焰伤害增加**8%**，不可叠加；抛出多莉后，火攻增加**12%**，持续**10**秒，不可叠加"
-			},
-			"id": "imitation_21"
-		},
 		"id": "funnel_fire"
 	},
 	"dkatana_ice": {
@@ -4529,8 +4256,7 @@
 		"description": "应对超心流实验的特种作战太刀武器，能感知使用者的精神状态，在恰当时机可以生成辅助作战用途的「剑影」。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_dkatana_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR17_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -4679,44 +4405,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "不破咲-坚毅姿态",
-				"description": "生命低于**70%**时，获得**40%**全抗。"
-			},
-			"level2": {
-				"name": "不破咲-守护之剑",
-				"description": "生命低于**70%**时，获得**40%**全抗并额外获得**60%**冰抗。静心流下【涌动】提供格挡时为生命值百分比最低的队友（不包括自己）附加3次格挡能力，格挡量不超过队友最大生命的**15%**，持续**10**秒。"
-			},
-			"id": "imitation_22"
-		},
 		"id": "dkatana_ice"
 	},
 	"fan_superpower": {
@@ -4724,8 +4427,7 @@
 		"description": "最开始打算设计成更为小巧轻便的暗器，但在使用者本人的要求下，改装成了这副形似于一把剑的厚重姿态。沉甸甸的，完全不像是暗器该有的样子。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_fan_superpower01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR18_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01"
 		},
 		"rarity": "SSR",
 		"element": "Superpower",
@@ -4871,44 +4573,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "凛夜-昙花绽放",
-				"description": "昙花爆炸伤害提高**15%**"
-			},
-			"level2": {
-				"name": "凛夜-昙花绚烂",
-				"description": "昙花爆炸伤害提高**20%**；昙花命中使目标减少**7%**全抗，持续**7**秒，不可叠加"
-			},
-			"id": "imitation_23"
-		},
 		"id": "fan_superpower"
 	},
 	"tianlang_thunder": {
@@ -4916,8 +4595,7 @@
 		"description": "满溢着雷霆的长枪，代号SMA1-TS00-破钧，能将储存的能量以匪夷所思的形式释放出来。由于破钧生成的电场会干扰使用者的思维，以至于常人无法驾驭。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Tianlang_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR20_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -5060,44 +4738,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "天琅-钧雷",
-				"description": "每次释放雷武器技能或连携技后获得**1**次闪避不消耗闪避次数的机会，最多累积**2**次；同时释放雷武器技能或连携技后获得持续**8**秒的**12%**雷伤提升，不叠加"
-			},
-			"level2": {
-				"name": "天琅-动霆",
-				"description": "每次释放雷武器技能或连携技后获得**1**次闪避不消耗闪避次数的机会，最多累积**2**次；同时释放雷武器技能或连携技后获得持续**8**秒的**18%**雷伤提升，不叠加"
-			},
-			"id": "imitation_29"
-		},
 		"id": "tianlang_thunder"
 	},
 	"arm_physic": {
@@ -5105,8 +4760,7 @@
 		"description": "为某位麦德琳基金会内部人员定制的辅助型作战武器。麦德琳女士相信星寰能够得体、恰当地发挥它的真正用途。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Arm_Physic01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR19_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -5267,44 +4921,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "移情",
-				"description": "恩赐共鸣时：提升全队10%生命上限，多个不叠加"
-			},
-			"level2": {
-				"name": "庇佑",
-				"description": "恩赐共鸣时：提升全队10%生命上限，多个不叠加"
-			},
-			"id": "imitation_24"
-		},
 		"id": "arm_physic"
 	},
 	"rubilia_thunder": {
@@ -5312,8 +4943,7 @@
 		"description": "自混沌深渊中轻轻挥展的一击，终将引发席卷所有人命运的雷暴。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Rubilia_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR31_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -5468,44 +5098,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "依存",
-				"description": "每装备**1**把雷武器，雷电伤害提升**6%**"
-			},
-			"level2": {
-				"name": "涅槃",
-				"description": "每装备**1**把雷武器，雷电伤害提升**8%**"
-			},
-			"id": "imitation_48"
-		},
 		"id": "rubilia_thunder"
 	},
 	"iceblade_ice": {
@@ -5513,8 +5120,7 @@
 		"description": "以足刃武器作为核心构筑的作战装甲，有着大灾变前的前沿科学技术，通过汲取使用者的精神力作为驱动武器的能量，必要时会爆发恐怖的潜力。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_iceblade_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR22_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -5663,44 +5269,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.203884
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 4.550971
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "差翅",
-				"description": "成功释放武器技能后获得**13%**的最终伤害提升持续**12**秒"
-			},
-			"level2": {
-				"name": "鳞翅",
-				"description": "成功释放武器技能后获得**18%**的最终伤害提升持续**18**秒"
-			},
-			"id": "imitation_30"
-		},
 		"id": "iceblade_ice"
 	},
 	"snipe_fire": {
@@ -5708,8 +5291,7 @@
 		"description": "镜都大为流行的VR多人在线射击游戏官方——为某赛季的个人积分冠军特别设计的专属枪支。定制化的实体模型也寄送给了冠军玩家本人，但没想到的是，居然真的能像游戏中那样使用……",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Snipe_fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR21_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -5846,44 +5428,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "瓦斯（boom！）",
-				"description": "瓦斯爆炸每命中**1**个敌人，四叶十字造成伤害提高**8%**，持续**20**秒，最多可叠加**2**层"
-			},
-			"level2": {
-				"name": "瓦斯（boooom！）",
-				"description": "瓦斯爆炸每命中**1**个敌人，四叶十字造成伤害提高**15%**，持续**20**秒，最多可叠加**2**层"
-			},
-			"id": "imitation_26"
-		},
 		"id": "snipe_fire"
 	},
 	"brush_fire": {
@@ -5891,8 +5450,7 @@
 		"description": "「暴力反对好吧！真正的文人谁会拿书房用具揍人啊！！」——榕金",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_liuhuo",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR32_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6059,44 +5617,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "数墨",
-				"description": "最终伤害提升**13%**，**松彗**处于后台时，**雀羽**发射频率提升至**1**秒/次。"
-			},
-			"level2": {
-				"name": "命笔",
-				"description": "最终伤害提升**18%**，**松彗**处于后台时，**雀羽**发射频率提升至**1**秒/次。"
-			},
-			"id": "imitation_37"
-		},
 		"id": "brush_fire"
 	},
 	"whip_physic": {
@@ -6104,8 +5639,7 @@
 		"description": "新人执行者乌米惯用的长鞭。乌米对其最满意的一点在于，一般情况下它不会把自己绊一跤。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Whip_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR23_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -6266,44 +5800,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "乌米-拿手好戏",
-				"description": "乌米每次释放**【魔术时间】**，获得**12%**最终伤害提高，持续**30**秒，不可叠加"
-			},
-			"level2": {
-				"name": "乌米-盛装出演",
-				"description": "乌米每次释放**【魔术时间】**，获得**18%**最终伤害提高，持续**30**秒，不可叠加"
-			},
-			"id": "imitation_31"
-		},
 		"id": "whip_physic"
 	},
 	"feise_fire": {
@@ -6311,8 +5822,7 @@
 		"description": "莲瓣层重，杀机隐现。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feise",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR36_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6415,7 +5925,7 @@
 		},
 		"stars": [
 			{
-				"description": "**火焰共鸣**：装备**2**把及以上火焰武器触发，提升**20%**火攻和**40%**火抗，装备后后台可生效（多个火焰共鸣/火焰反应不叠加，优先生效火焰共鸣）。\r\n**爆炎-速切**：装备**重蕊**时，任意武器连携技命中后，对附近目标初始造成**37.5%***火攻+**0.5%***自身最大生命值+**18.75%***各元素抗性之和+**68.75%***暴击值点伤害，战斗状态下每间隔**0.5**秒，下次速切伤害额外提升**1**倍，至多提升**30**次，存在多个速切伤害时取最大初始值计算，爆炎-速切伤害为连携伤害，若装备任意**1**把寒冰/雷电/物理武器，则爆炎伤害提升至**1.3**倍。此外，爆炎伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。",
+				"description": "**火焰共鸣**：装备**2**把及以上火焰武器触发，提升**15%**火攻和**25%**火抗，装备后后台可生效，同类效果不叠加。\r\n**爆炎-速切**：装备**重蕊**时，任意武器连携技命中后，对附近目标初始造成**37.5%***火攻+**0.5%***自身最大生命值+**18.75%***各元素抗性之和+**68.75%***暴击值点伤害，战斗状态下每间隔**0.5**秒，下次速切伤害额外提升**1**倍，至多提升**30**次，存在多个速切伤害时取最大初始值计算，爆炎-速切伤害为连携伤害，若装备任意**1**把寒冰/雷电/物理武器，则爆炎伤害提升至**1.3**倍。此外，爆炎伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6423,7 +5933,7 @@
 				"need": "None"
 			},
 			{
-				"description": "**心燚**伤害的基础倍率提升至**120%***攻击力，战斗状态下，若自身添加过多个灼烧状态，**心燚**伤害的基础倍率额外提升至其中的最高基础倍率。",
+				"description": "**心燚**伤害的基础倍率提升至**60%***攻击力，战斗状态下，若自身添加过多个灼烧状态，**心燚**伤害的基础倍率额外提升至其中的最高基础倍率。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6455,7 +5965,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "**蜃楼**中每有**1**个**妃色幻象**或**莲瓣**，**心燚**伤害额外提升**15%**。\r\n释放**莲步飞天**耐力消耗减少**75%**。",
+				"description": "**蜃楼**中每有**1**个**妃色幻象**或**莲瓣**，**心燚**伤害额外提升**12%**。\r\n释放**莲步飞天**耐力消耗减少**75%**。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6463,7 +5973,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "**心蚀**伤害的基础倍率提升至**900%***攻击力，破盾效率翻倍，并且命中目标后**15%**概率添加**2**秒**65%**迟缓（组队玩法中对BOSS不生效，巅峰联赛不生效）效果。",
+				"description": "**心蚀**伤害的基础倍率提升至**270%***攻击力，破盾效率翻倍，并且命中目标后**15%**概率添加**2**秒**65%**迟缓（组队玩法中对BOSS不生效，巅峰联赛不生效）效果。",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6473,44 +5983,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "莲舞",
-				"description": "最终伤害提高**0%**。\r\n释放**扶摇**后，每装备**1**把火武器，最终伤害提升**4.5%**，持续**30**秒。"
-			},
-			"level2": {
-				"name": "玄影",
-				"description": "最终伤害提高**0%**。\r\n释放**扶摇**后，每装备**1**把火武器，最终伤害提升**9%**，持续**30**秒。"
-			},
-			"id": "imitation_51"
-		},
 		"id": "feise_fire"
 	},
 	"fenrir_thunder": {
@@ -6518,8 +6005,7 @@
 		"description": "能够将声波置换成攻击力量的特殊装置，当枷锁被释放，死亡电流将化作利爪，撕裂一切。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Fenrir_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR24_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -6674,44 +6160,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "X次元",
-				"description": "装备**2**把不同属性武器时，提高自身**13%**最终伤害；装备**3**把不同属性武器时，提高自身**18%**最终伤害"
-			},
-			"level2": {
-				"name": "Z次元",
-				"description": "装备**2**把不同属性武器时，提高自身**18%**最终伤害；装备**3**把不同属性武器时，提高自身**23%**最终伤害"
-			},
-			"id": "imitation_32"
-		},
 		"id": "fenrir_thunder"
 	},
 	"umbrella_fire": {
@@ -6719,8 +6182,7 @@
 		"description": "朱雀专用的伞式武具，内有各式机关。有着庞大伞身的陵光既能成为释放能量消灭敌人的利器，也能成为阻挡他人视线、隐藏自己举止的工具……",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_umbrella_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR27_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6875,44 +6337,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "湍火",
-				"description": "坚毅共鸣时，结界内自身和队友受到火焰/寒冰伤害降低**16%**"
-			},
-			"level2": {
-				"name": "澜炎",
-				"description": "坚毅共鸣时，结界内自身和队友受到火焰/寒冰伤害降低**24%**"
-			},
-			"id": "imitation_34"
-		},
 		"id": "umbrella_fire"
 	},
 	"yoyo_ice": {
@@ -6920,8 +6359,7 @@
 		"description": "结合潮流改装的独特武器，数量零星的珍藏品。愿使用者拥有在漆黑荒野中无畏前行的勇气，纵翎羽逐日，纵寒冰扑火。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yoyo_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR28_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -7070,44 +6508,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "破冰",
-				"description": "装备片光零羽后获得**10%**最终伤害提升，并且使用片光零羽期间破盾效果提升**20%**"
-			},
-			"level2": {
-				"name": "融羽",
-				"description": "装备片光零羽后获得**15%**最终伤害提升，并且使用片光零羽期间破盾效果提升**45%**"
-			},
-			"id": "imitation_35"
-		},
 		"id": "yoyo_ice"
 	},
 	"yulan_ice": {
@@ -7115,8 +6530,7 @@
 		"description": "「骈臻」之意为「并至」，姬玉亲自为玉兰挑选的武器，凝聚了九域最新技术，调用时章力量后若是看到一些神奇的景象也请不必惊讶。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yulan_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR33_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -7295,44 +6709,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "静气",
-				"description": "最终伤害提升**13%**\r\n**武道家**形态下，自身最终伤害额外提升**7%**；\r\n**掠阵**形态下，每装备**1**把寒冰武器，消耗**战意**造成的伤害提升**9%**，装备**3**把冰武器时，自身寒冰伤害提升**8%**。"
-			},
-			"level2": {
-				"name": "凝神",
-				"description": "最终伤害提升**18%**\r\n**武道家**形态下，自身最终伤害额外提升**7%**；\r\n**掠阵**形态下，每装备**1**把寒冰武器，消耗**战意**造成的伤害提升**9%**，装备**3**把冰武器时，自身寒冰伤害提升**8%**。"
-			},
-			"id": "imitation_38"
-		},
 		"id": "yulan_ice"
 	},
 	"zeke_physic": {
@@ -7340,8 +6731,7 @@
 		"description": "常人难以挥舞的巨剑，剑势凌人，锐不可当。不仅能释放惊人的破坏力，其宽阔的剑身也能带来坚如磐石的安定感。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Zeke_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR34_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "PhysicsFlame",
@@ -7496,44 +6886,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "暴击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "暴击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "觅己",
-				"description": "最终伤害提升**12%**。\r\n自身物理基础攻击提升至自身物火冰雷基础攻击的最高值，前台武器为**执明**时，普攻伤害提升**30%**。"
-			},
-			"level2": {
-				"name": "无我",
-				"description": "最终伤害提升**18%**。\r\n自身物理基础攻击提升至自身物火冰雷基础攻击的最高值，前台武器为**执明**时，普攻伤害提升**50%**。"
-			},
-			"id": "imitation_50"
-		},
 		"id": "zeke_physic"
 	},
 	"queen_superpower": {
@@ -7541,8 +6908,7 @@
 		"description": "奇特的纳米武器，能生成削铁如泥的光刃，过去习惯于在待机时刻变为钏式装置缠绕在主人的臂腕，因而它的主人将其形容为钏。",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feiouna",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR29_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna"
 		},
 		"rarity": "SSR",
 		"element": "Superpower",
@@ -7736,44 +7102,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "攻击",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.203884
+				"name": "攻击",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "全抗",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 4.550971
+				"name": "全抗",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "生命",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "生命",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "星照",
-				"description": "自身最终伤害提高**16%**。"
-			},
-			"level2": {
-				"name": "月映",
-				"description": "自身最终伤害提高**18%**。"
-			},
-			"id": "imitation_36"
-		},
 		"id": "queen_superpower"
 	}
 }

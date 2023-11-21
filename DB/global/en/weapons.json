@@ -4,8 +4,7 @@
 		"description": "A common weapon among residents of Warren Snowfield. Infused with frost to reflect the local flavor. It's very popular, because it's cheap yet highly effective.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Spear_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Spear_Ice01"
 		},
 		"rarity": "R",
 		"element": "Ice",
@@ -104,31 +103,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 6.714021
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.20856
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "spear_ice"
@@ -138,8 +125,7 @@
 		"description": "A basic weapon developed by Banges Tech. Forged in a special alloy, it is light, agile, and easy to handle.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Ds_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Ds_Phy01"
 		},
 		"rarity": "R",
 		"element": "Physics",
@@ -232,31 +218,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 7.350086
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 5.653912
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "digger_physic"
@@ -266,8 +240,7 @@
 		"description": "The earliest electromagnetic Omnium project. The blade is easy to handle, and is very popular among Wanderers that are not great fighters.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Sword_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Sword_Thunder01"
 		},
 		"rarity": "R",
 		"element": "Thunder",
@@ -354,31 +327,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 6.360651
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.650271
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sword_thunder"
@@ -388,8 +349,7 @@
 		"description": "A common weapon used by hunters in the snowfield. Easy to handle with very high accuracy. After enough promotion, it has earned more than half of the affordable civilian market.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Bow_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/UI/dianfengliansaiBP/main/avatar_matrix_SSR24_kong"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Bow_Fire01"
 		},
 		"rarity": "R",
 		"element": "Flame",
@@ -476,31 +436,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 7.350086
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 452.31296
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 5.653912
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "bow_fire"
@@ -510,8 +458,7 @@
 		"description": "A mechanical staff with a cross rune carved into it. Capable of both forgiving sins or unleashing punishments.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Stave_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR6_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Stave_Thunder01"
 		},
 		"rarity": "SR",
 		"element": "Thunder",
@@ -653,31 +600,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 10.012136
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 5.153305
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "stave_thunder"
@@ -687,8 +622,7 @@
 		"description": "The most gnarly firearm ever created, also known as a moving turret.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Cannon_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR7_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Cannon_Ice01"
 		},
 		"rarity": "SR",
 		"element": "Ice",
@@ -800,31 +734,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 11.778983
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 2.944746
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "cannon_ice"
@@ -834,8 +756,7 @@
 		"description": "Far too dangerous to be a child's plaything. There is no way a kid could have gotten their hands on it through honest means. Who knows what kind of tech was used to refit it... Maybe it was simply picked up somewhere off the beaten path.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Chainsaw_physic01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR30_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Chiansaw_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -990,44 +911,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Gnonno: Ripples",
-				"description": "After **Exploration Team Strike** triggers **Total Berserk**, increase final damage by **12%** for **30** seconds."
-			},
-			"level2": {
-				"name": "Gnonno: Tidal Wave",
-				"description": "After **Exploration Team Strike** triggers **Total Berserk**, increase final damage by **23%** for **30** seconds."
-			},
-			"id": "imitation_27"
-		},
 		"id": "chainsaw_physic"
 	},
 	"hammer_ice": {
@@ -1035,8 +933,7 @@
 		"description": "No one wants to be on the receiving end of this maul.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Hammer_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR8_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Hammer_Ice01"
 		},
 		"rarity": "SR",
 		"element": "Ice",
@@ -1184,44 +1081,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 9.423186
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 5.889492
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Ene: Fast Mode",
-				"description": "When Ene swims, climbs, or glides, reduce endurance consumption by **12%**."
-			},
-			"level2": {
-				"name": "Ene: Beyond Limits Mode",
-				"description": "When Ene swims, climbs, or glides, reduce endurance consumption by **20%**."
-			},
-			"id": "imitation_2"
-		},
 		"id": "hammer_ice"
 	},
 	"bow_physic": {
@@ -1229,8 +1103,7 @@
 		"description": "Blends perfectly into the gloomy night.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Bow_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR9_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_R_Bow_Phy01"
 		},
 		"rarity": "SR",
 		"element": "Physics",
@@ -1366,44 +1239,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 12.250143
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 9.423186
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Bai Ling: Valor",
-				"description": "When Bai Ling puts the Glider or the Jetboard away, increase speed by **8%** for **12** seconds. Cooldown: **60** seconds."
-			},
-			"level2": {
-				"name": "Bai Ling: Resoluteness",
-				"description": "When Bai Ling puts the Glider or the Jetboard away, increase speed by **15%** for **12** seconds. Cooldown: **60** seconds."
-			},
-			"id": "imitation_16"
-		},
 		"id": "bow_physic"
 	},
 	"spear_thunder": {
@@ -1411,8 +1261,7 @@
 		"description": "A halberd infused with the power of thunder. Great for burst damage, and its length makes it a great weapon for a variety of ranges.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Spear_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR12_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Spear_Thunder01"
 		},
 		"rarity": "SR",
 		"element": "Thunder",
@@ -1560,31 +1409,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 11.190034
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 3.680932
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 753.8549
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "spear_thunder"
@@ -1594,8 +1431,7 @@
 		"description": "Lethal, unpredictable and quiet.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Ds_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR11_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Ds_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -1737,31 +1573,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "digger_thunder"
@@ -1771,8 +1595,7 @@
 		"description": "An elegant frost blade that conjures up images of a pure white flower blooming on a snow-covered cliff.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_BigSword_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR1_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_BigSword_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -1926,44 +1749,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Meryl: Cool Rose",
-				"description": "Reduce frost damage received by Meryl by **20%**, gain immunity to the frostbitten effect, and reduce duration of being frozen by **50%**."
-			},
-			"level2": {
-				"name": "Meryl: Frosted",
-				"description": "Reduce frost damage received by Meryl by **25%**, gain immunity to the frostbite effect, and reduce the duration of being frozen by **50%**. The air around Meryl becomes cold, freezing the water around her."
-			},
-			"id": "imitation_3"
-		},
 		"id": "bigsword_ice"
 	},
 	"bow_ice": {
@@ -1971,8 +1771,7 @@
 		"description": "The arrows from this bow carry the power of frost.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Bow_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR2_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Bow_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -2108,31 +1907,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "bow_ice"
@@ -2142,8 +1929,7 @@
 		"description": "Keep the cold temperature steady to heal allies.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Stave_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR3_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Stave_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -2286,31 +2072,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "stave_ice"
@@ -2320,8 +2094,7 @@
 		"description": "A powerful scythe, great for both offense and defense. Able to instantly kill its target within a certain distance.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Sickle_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR4_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Sickle_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -2469,31 +2242,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sickle_fire"
@@ -2503,8 +2264,7 @@
 		"description": "Invented by a mad scientist. With its impressive test numbers, one can only imagine how powerful it might be at full power.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Gun_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR5_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Gun_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -2647,44 +2407,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Cobalt-B: Lingering Warmth",
-				"description": "After Cobalt-B uses her discharge skill, restore a random amount of weapon charge between **50** to **120** points."
-			},
-			"level2": {
-				"name": "Cobalt-B: Sparks",
-				"description": "After Cobalt-B uses her discharge skill, restore a random amount of weapon charge between **90** to **180** points."
-			},
-			"id": "imitation_10"
-		},
 		"id": "gun_fire"
 	},
 	"sword_physic": {
@@ -2692,8 +2429,7 @@
 		"description": "The crimson blade stands for courage and resolve, while the sharp edge carries out justice.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Sword_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR6_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SR_Sword_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -2836,31 +2572,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "sword_physic"
@@ -2870,8 +2594,7 @@
 		"description": "A round and sharp weapon that traveled the seas with its owner.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Darts_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR7_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Darts_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -3013,31 +2736,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "darts_physic"
@@ -3047,8 +2758,7 @@
 		"description": "Users of the Strange Cube tend to think of many ways to negate unnecessary requirements.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Cube_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR8_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Cube_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -3191,44 +2901,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 14.563107
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 9.101942
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Zero: Accurate Calculation",
-				"description": "When Zero uses a weapon skill, reduce cooldown time for Relics in cooldown by **1.5** seconds. Can only activate for the same weapon **1** time every **5** seconds."
-			},
-			"level2": {
-				"name": "Zero: Overall Planning",
-				"description": "When Zero uses a weapon skill, reduce cooldown time for Relics in cooldown by **3** seconds. Can only activate for the same weapon **1** time every **5** seconds."
-			},
-			"id": "imitation_1"
-		},
 		"id": "cube_fire"
 	},
 	"dgun_thunder": {
@@ -3236,8 +2923,7 @@
 		"description": "These firearms are designed based on railguns, and must be used in a pair.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_DGun_Thunder",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR9_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_DGun_Thunder"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -3373,31 +3059,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
 		"id": "dgun_thunder"
@@ -3407,8 +3081,7 @@
 		"description": "A shield axe that belongs to the V2 weapon series, a collection of weapons forged with special techniques.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_ShieldAxe_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR10_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_ShieldAxe_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -3544,31 +3217,19 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 14.563107
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 9.101942
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
 		"id": "shieldaxe_fire"
@@ -3578,8 +3239,7 @@
 		"description": "A pair of fans that contains enormous energy capable of collapsing mountains and tearing the world apart.\r\nWhen Azure Dragon mounts the clouds, the world is buffeted by the wind.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_mimi",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR35_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_mimi"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -3728,53 +3388,215 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Bamboo Splints",
-				"description": "Increase final damage by **13%**.\r\nWhen equipped with **3** volt weapons, increase volt damage by **6%**."
-			},
-			"level2": {
-				"name": "Jade Luster",
-				"description": "Increase final damage by **18%**.\r\nWhen equipped with **3** volt weapons, increase volt damage by **6%**."
-			},
-			"id": "imitation_41"
-		},
 		"id": "mimi_thunder"
+	},
+	"nanyin_superpower": {
+		"name": "Purple Bamboo",
+		"description": "Purple Bamboo uses music and rhythm to utilize field energy for combat. After the Hendeca County Calamity, when Nan Yin reappeared, her flute also carried terrifying Darkness energy. Whenever Nan Yin played it, countless lives would be turned into dark wretches and fall under its control.",
+		"assets": {
+			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Nanyin",
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Nanyin"
+		},
+		"rarity": "SSR",
+		"element": "Superpower",
+		"weaponType": "Nanyin",
+		"wc": "DPS",
+		"avatar": "imitation_49",
+		"mats": {
+			"Item_breakthrough_A1": 28,
+			"Item_breakthrough_B1": 28,
+			"Item_breakthrough_C1": 26,
+			"Item_breakthrough_D1": 26,
+			"Item_breakthrough_A2": 50,
+			"Item_breakthrough_B2": 50,
+			"Item_breakthrough_C2": 50,
+			"Item_breakthrough_D2": 50,
+			"Item_breakthrough_A3": 26,
+			"Item_breakthrough_B3": 26,
+			"Item_breakthrough_C3": 26,
+			"Item_breakthrough_D3": 26
+		},
+		"advanceID": "Nanyin_superpower_ssr_star",
+		"skills": {
+			"normals": [
+				{
+					"name": "Range Resonance",
+					"description": "While on the ground, use normal attack to attack 5 times in a row.\r\nFirst Attack: Deal damage equal to **60%** of ATK plus **360**.\r\nSecond Attack: Deal damage equal to **84%** of ATK plus **504**.\r\nThird Attack: Deal damage equal to **86%** of ATK plus **516**.\r\nFourth Attack: Deal damage equal to **143%** of ATK plus **858**.\r\nFifth Attack: Deal damage equal to **820%** of ATK plus **4920**.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_melee",
+					"id": "GA_FPlayerNanYinMelee_Melee"
+				},
+				{
+					"name": "Omni Resonance",
+					"description": "While airborne, use normal attack to launch 5 attacks in a row in mid-air, consuming endurance.\r\nFirst Attack: Deal damage equal to **60%** of ATK plus **360**.\r\nSecond Attack: Deal damage equal to **88%** of ATK plus **528**.\r\nThird Attack: Deal damage equal to **86%** of ATK plus **516**.\r\nFourth Attack: Deal damage equal to **138%** of ATK plus **828**.\r\nFifth Attack: Deal damage equal to **780%** of ATK plus **4680**.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattack",
+					"id": "GA_FPlayerNanYinMelee_AirAttack"
+				},
+				{
+					"name": "Darkshadow Blast",
+					"description": "While on the ground, tap and hold normal attack when using the first/second/third/fourth normal attack to trigger Darkshadow Blast and consume endurance.\r\nLaunch an attack ahead, dealing damage equal to **148%** of ATK plus **888** / **295%** of ATK plus **1770** / **443%** of ATK plus **2658** to nearby targets and suspending them.\r\nAfter triggering Darkshadow Blast, tap and hold normal attack to trigger Rift Surge.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_meleebranch1",
+					"id": "GA_FPlayerNanYinMelee_MeleeBranch1"
+				},
+				{
+					"name": "Rift Surge",
+					"description": "After triggering Darkshadow Blast, tap and hold normal attack to trigger Rift Surge and consume endurance.\r\nLaunch an attack ahead, dealing damage up to **806%** of ATK plus **4836** to nearby targets and suspending them.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_meleebranch2",
+					"id": "GA_FPlayerNanYinMelee_MeleeBranch2"
+				},
+				{
+					"name": "Darkshadow Burst",
+					"description": "While airborne, tap and hold normal attack when using the first/second/third/fourth normal attack to trigger Darkshadow Burst and consume endurance.\r\nLaunch an attack ahead, dealing damage equal to **155%** of ATK plus **930** / **310%** of ATK plus **1860** / **465%** of ATK plus **2790** to nearby targets and suspending them.\r\nAfter triggering Darkshadow Burst, tap and hold normal attack to trigger Rift Eruption.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattackbranch1",
+					"id": "GA_FPlayerNanYinMelee_AirAttackBranch1"
+				},
+				{
+					"name": "Rift Eruption",
+					"description": "While on the ground, after triggering Darkshadow Burst, tap and hold normal attack to trigger Rift Eruption and consume endurance.\r\nLaunch an attack ahead, dealing damage equal to **871%** of ATK plus **5226** to nearby targets and suspending them.\r\nDamage varies based on the duration normal attack is held, up to a maximum of 1.5 times damage.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_airattackbranch2",
+					"id": "GA_FPlayerNanYinMelee_AirAttackBranch2"
+				},
+				{
+					"name": "Void Abyss Current",
+					"description": "While on the ground, tap and hold normal attack to create an abyss current at the current location. Tap the mark on the map to transmit to that location, or to change the settings for that abyss current. Up to **2** abyss currents may be created.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_powerattack",
+					"id": "GA_FPlayerNanYinMelee_PowerAttack"
+				}
+			],
+			"dodge": [
+				{
+					"name": "Dodge",
+					"description": "Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/common_evade",
+					"id": "GA_FPlayerNanYinEvade_Evade"
+				},
+				{
+					"name": "Vortex Field",
+					"description": "Use normal attack during the short period after dodging to trigger Vortex Field.\r\nCreate Dark Matter at the target location, dealing damage equal to **180%** of ATK plus **1080** to nearby targets. When nearby targets come close to the Dark Matter, a Vortex Field will form and draw them in.\r\nWhen the Wanderer passes by the Vortex Field, gain Dimensional Guard for **15** seconds, blocking damage from the locked-on target **1** time (no more than **300%** of the Wanderer's Max HP). Dimensional Guard can only be triggered **1** time every **15** seconds.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_evadeattack",
+					"id": "GA_FPlayerNanYinEvade_EvadeAttack"
+				},
+				{
+					"name": "Butterfly Dance",
+					"description": "While in **team play**, after dodging with Purple Bamboo, summon **1** butterfly that follows the Wanderer for **60** seconds.\r\nAfter activating Attack Resonance or Balance Resonance, the butterfly flies around the locked-on target and creates a composition with its trails, dealing damage equal to **300%** of ATK to targets that pass through it.\r\nAfter activating Fortitude Resonance, place a **65%** delay on targets that pass through the composition for **2** seconds, and grant a shield equal to **10%** of the Wanderer's Max HP to the Wanderer and teammates for **15** seconds when they pass through the composition. This effect can occur up to **1** time per second, stacking up to **2** times.\r\nAfter activating Benediction Resonance, consume the butterfly to immediately help up a knocked-down teammate.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_evadebeidong",
+					"id": "GA_FPlayerNanYinEvade_Beidong"
+				}
+			],
+			"skill": [
+				{
+					"name": "Hyperdimensional Field",
+					"description": "Activate Hyperdimensional Field, gaining temporary invincibility, dealing damage equal to **650%** of ATK plus **3900** to nearby targets, and placing a **65%** delay for **3** seconds on the targets (ineffective against bosses in team play). At the same time, the **Void Trace** on the field immediately executes its skill. Cooldown: **60** seconds.\r\nAscend into the air and generate a field, placing nearby targets into a High-Dimensional Space that lasts up to **60** seconds, during which the Wanderer gains hyperbody, and Purple Bamboo's damage dealt to targets in the High-Dimensional Space ignores shields.\r\nThe High-Dimensional Space gains energy equal to **2** plus **number of targets within the Space** every second, and triggers Dimensional Collapse at **45** energy, dealing damage equal to (**0.1%** of the total damage dealt by the Wanderer (excluding Void Trace) in the Space plus **1200%** of ATK). This damage counts as passive damage and is the base multiplier. It is affected by damage boost. The High-Dimensional Space fades after **4** Dimensional Collapses.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_skill",
+					"id": "GA_FPlayerNanYinSkill_Skill"
+				}
+			],
+			"discharge": [
+				{
+					"name": "Confining Tune",
+					"description": "When **weapon charge** is full or **Phantasia** is triggered, **remove all debuffs from the wielder** and create chains from another dimension to bind the target upon switching to this weapon, delaying them by **65%** for **3** seconds (ineffective against bosses in team play), dealing damage equal to **1660%** of ATK plus **9959** to nearby targets, and becoming immune to damage for **1.5** seconds (unavailable in Apex League).\r\n\r\n**Passive: Void Trace**\r\nConfining Tune creates **1** Void Trace that launches coordinated attacks at the current locked-on target. Only **1** Void Trace may be active, and it fades after **20** seconds when not in combat.\r\nFor every **1** weapon of a different element or altered weapon equipped, increase Void Trace's damage dealt by **10%**. Void Trace's damage is also not affected by damage boosts, except for Inhabit, Confining Tune, and rare stats on titan equipment, and won't trigger additional attack effects.\r\nHold dodge when wielding **Purple Bamboo** to trigger Possession (unavailable in Apex League) and Possess Void Trace, gaining the ability to control its movements. During Possession, Coordinated Void becomes Void Trace's normal attack and skills.\r\nWhile under Possession, Void Trace enters Rampage state, increasing speed, damage reduction, shatter, and weapon charge by **50%**. Its normal attack and its skill damage increase by the same percentage as its Max HP lost at the time.\r\n**Coordinated Void**: A periodic coordinated attack from Void Trace, dealing damage equal to **165% to 300%** of Void Trace's ATK.\r\n**Void Halo**: Deal damage equal to **100%** of Void Trace's ATK every second to nearby targets.\r\n**Void Attack**: Tap normal attack to launch 4 consecutive attacks, each dealing damage equal to **240% to 385%** of Void Trace's ATK.\r\n**Void Skill**: Consume **25%** of Void Trace's Max HP and deal damage equal to **1870% to 2040%** of Void Trace's ATK, increasing Void Trace's Crit Rate by **30%** for **60** seconds.\r\n**Void Relief**: Can be triggered when Void Trace takes lethal damage, when the Wanderer equips or unequips Purple Bamboo, or when holding dodge during Possession.\r\n\r\n**Passive: Dark Wretch**\r\nWhen switching to Purple Bamboo from other weapons, Confining Tune will grant additional effects based on the element of the weapon.\r\n**Frost**: Summon Darkness: Alabaster Elite and deal area damage equal to **500%** of ATK. Also, gain a shield equal to **60%** of Max HP for **30** seconds (unavailable in Apex League). Create a hail storm by the locked-on target, dealing damage equal to **420%** of ATK to nearby targets every second for **15** seconds. Counts as normal attack damage.\r\n**Flame**: Summon Black Crow Dark Wretch and deal area damage equal to **500%** of ATK. Burn nearby targets, dealing damage equal to **240%** of ATK. Counts as passive damage.\r\n**Volt**: Summon Longxiang Dark Wretch and deal damage equal to **500%** of ATK. When not under Possession, consume **5%** of Void Trace's Max HP every second and deal **50%** of the value as damage to nearby targets. Counts as normal attack damage (unavailable in Apex League).\r\n**Physical**: Summon Darkness: Hornmane and deal area damage equal to **500%** of ATK. Gain sweeping for **30** seconds, dealing additional damage equal to **80%** of ATK to nearby targets on a critical hit. Counts as normal attack damage. Can only be triggered **1** time every **0.85** seconds.\r\n**Altered**: Summon Darkness: Taotie and deal area damage equal to **525%** of ATK. Void Trace inherits an additional **100%** of the Wanderer's ATK. Deal additional damage equal to **2000%** of Void Trace's ATK to nearby targets during Void Relief. Counts as skill damage.",
+					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_nanyin_changeskill",
+					"id": "GA_FPlayerNanYinChangeSkill_Success"
+				}
+			]
+		},
+		"stars": [
+			{
+				"description": "**The Final Tune**: Increase ATK by **30%**. Activate by equipping **3** altered weapons. This set effect works in the off-hand slot.\r\n**Imbue**: After switching to Purple Bamboo from another weapon, Purple Bamboo's damage element becomes that of the previous weapon.\r\n**Inhabit**: The power of the Darkness is able to Inhabit any unlocked weapon. When Purple Bamboo is not deployed, the power of the Darkness can Inhabit any other weapon, increasing its damage dealt by **1%**. When Purple Bamboo is deployed, the power of the Darkness Inhabits Purple Bamboo, increasing the Wanderer's damage dealt by **15%**.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "None"
+			},
+			{
+				"description": "For every **1** star gained by the Darkness-Inhabited weapon, increase Inhabit's damage boost by an additional **1%**.\r\nDimensional Collapse deals increased damage equal to (**0.1%** of total actual damage dealt in High-Dimensional Space by the Wanderer (excluding Void Trace) plus **2,400%** of ATK) (counts as base multiplier, affected by damage boost).",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "Increase the current weapon's base ATK growth by **16%**.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "Void Trace inherits an additional **50%** of the Wanderer's ATK. When taking lethal damage while not under Possession, instead of being defeated, consume Void Trace and become immune to damage 1 time for a short period of time. This effect can only be triggered 1 time every **60** seconds, and has a lower priority when similar effects are present. This set effect works in the off-hand slot.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "Increase the current weapon's base ATK growth by **32%**.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "While in High-Dimensional Space, ignore **20%** of the target's resistances.\r\nUp to **3** Void Abyss Currents can now be created.",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			},
+			{
+				"description": "Dimensional Collapse now deals damage equal to (**0.4%** of total actual damage dealt in High-Dimensional Space by the Wanderer (excluding Void Trace) plus **2,400%** of ATK) (counts as base multiplier, affected by damage boost).",
+				"stats": {
+					"shatter": 12,
+					"charge": 12
+				},
+				"need": "Nanyin_superpower_plasm"
+			}
+		],
+		"stats": [
+			{
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
+			},
+			{
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
+			},
+			{
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
+			}
+		],
+		"id": "nanyin_superpower"
 	},
 	"linghan_ice": {
 		"name": "Alabaster Tiger",
 		"description": "With a flourish of sleeves and sword's dance divine, who can fathom the depths of this heart o' mine?",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR37_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Linghan_Ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -3865,7 +3687,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Frost Resonance**: Increase frost ATK by **15%** and frost resistance by **25%**. Activate by equipping **2** or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Extreme Cold: Unload**: After using **Sword Art: Shadowy Ice**, every second, deal damage equal to **70%** of frost ATK plus **10%** of the Wanderer's Max HP plus **36%** of the sum of all the Wanderer's resistance types plus **135%** of crit for **30** seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is **1** volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by **1.3** times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+				"description": "**Frost Resonance**: Increase frost ATK by **15%** and frost resistance by **25%**. Activate by equipping **2** or more frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Extreme Cold: Unload**: After using **Sword Art: Shadowy Ice**, every second, deal damage equal to **70%** of frost ATK plus **10%** of the Wanderer's Max HP plus **36%** of the sum of all the Wanderer's resistance types plus **135%** of crit to targets hit for **30** seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is **1** volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by **1.3** times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
 				"stats": {
 					"shatter": 16,
 					"charge": 8
@@ -3923,44 +3745,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.571905
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1010.0971
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 11.837075
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Overwatching Blade",
-				"description": "Increase final damage by **13%**. When **Alabaster Tiger** is equipped, for every **1** frost weapon equipped, increase frost damage by **1%**."
-			},
-			"level2": {
-				"name": "Governing Blade",
-				"description": "Increase final damage by **18%**. When **Alabaster Tiger** is equipped, for every **1** frost weapon equipped, increase frost damage by **2.5%**."
-			},
-			"id": "imitation_43"
-		},
 		"id": "linghan_ice"
 	},
 	"suspension_thunder": {
@@ -3968,8 +3767,7 @@
 		"description": "Its designer is unknown. The special hovering EM Blaster's prototype's blueprint has been lost. It contains a unique electrical saving process in its interior. It's extremely troublesome to repair when it gets worn out, but Cobalt-B of Banges Tech seems to be able to do it. ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_naimxs_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR14_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_naimxs_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -4112,44 +3910,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Nemesis: Metamorphosis",
-				"description": "After summoning an Electrode, deal volt damage equal to **60%** of ATK to all enemies within **30** meters of the Electrode and heal all allies (including the user) within its range by **120%** of ATK."
-			},
-			"level2": {
-				"name": "Nemesis: Sublimation",
-				"description": "After summoning an Electrode, deal volt damage equal to **100%** of ATK to all enemies within **30** meters of the Electrode and heal all allies (including the user) within its range by **200%** of ATK."
-			},
-			"id": "imitation_17"
-		},
 		"id": "suspension_thunder"
 	},
 	"frigg_ice": {
@@ -4157,8 +3932,7 @@
 		"description": "The greatsword and the saber belonging exclusively to the Angel of Clemency, Frigg. They were adapted to Frigg's cybernetic body when they were manufactured. The two weapons are not one and the same, but Frigg refers to them collectively as Balmung.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_frigg_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR15_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Frigg_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -4295,44 +4069,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Freeze",
-				"description": "Upon entering battle, gain **1.5%** frost ATK boost for **5** seconds every **3** seconds . Stack up to **10** times."
-			},
-			"level2": {
-				"name": "Icebound",
-				"description": "Upon entering battle, gain **2.4%** frost ATK boost for **5** seconds every **3** seconds, with up to **10** stacks. Also, gain hyperbody and immunity to control effects while in the Frost Domain."
-			},
-			"id": "imitation_28"
-		},
 		"id": "frigg_ice"
 	},
 	"funnel_fire": {
@@ -4340,8 +4091,7 @@
 		"description": "A special weapon Lin asked Mirroria R&D to make for Ruby. Its main functions include: Acting as the housekeeper in the play-house game, waking Ruby up in the morning, and leading the way for Ruby... But most importantly, protecting Ruby. ",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_funnel_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR16_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_funnel_fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -4484,44 +4234,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Dreamcatcher",
-				"description": "Increases the flame damage taken by all enemies within **5** meters of Dolly by **8%**. This effect does not stack."
-			},
-			"level2": {
-				"name": "Dolly's Domain",
-				"description": "Increases the flame damage received by all enemies within 5 meters of Dolly by **8%**. Not stackable. Increases flame ATK after throwing Dolly by **12%** for **10** seconds. This effect does not stack."
-			},
-			"id": "imitation_21"
-		},
 		"id": "funnel_fire"
 	},
 	"dkatana_ice": {
@@ -4529,8 +4256,7 @@
 		"description": "A special tachi that adapts to the Super Flow experiments. It is able to sense the user's mental state and generate Sword Shadow to assist in combat at the right time.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_dkatana_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR17_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Dkatana_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -4679,44 +4405,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Saki Fuwa: Fortitude State",
-				"description": "When HP is lower than **70%**, increase all resistance by **40%**."
-			},
-			"level2": {
-				"name": "Saki Fuwa: Guarding Sword",
-				"description": "When HP is lower than **70%**, increase all resistance by **40%** with an extra **60%** increased frost resistance. In the state of Silent Flow: After the sword shadow releases Surge and blocks an attack, the teammate with the lowest HP percentage will get 3 block abilities, not including yourself, lasting for **10** seconds. The maximum blocking damage does not exceed **15%** of the teammate's Max HP."
-			},
-			"id": "imitation_22"
-		},
 		"id": "dkatana_ice"
 	},
 	"fan_superpower": {
@@ -4724,8 +4427,7 @@
 		"description": "The initial design shows it to be a lightweight and covert concealed weapon, but it's changed to a heavy blade by the user's own request. It's heavy and not like a concealed weapon at all.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_fan_superpower01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR18_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_fan_superpower01"
 		},
 		"rarity": "SSR",
 		"element": "Superpower",
@@ -4871,44 +4573,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Lin: Epiphyllum Blossom",
-				"description": "Increase epiphyllum explosion damage by **15%**."
-			},
-			"level2": {
-				"name": "Lin: Epiphyllum Glamour",
-				"description": "Increase epiphyllum explosion damage by **20%**. Reduce all resistance of targets by **7%** upon hit by epiphyllums for **7** seconds. This effect does not stack."
-			},
-			"id": "imitation_23"
-		},
 		"id": "fan_superpower"
 	},
 	"tianlang_thunder": {
@@ -4916,8 +4595,7 @@
 		"description": "This long spear covered in lightning is the SMA1-TS00-Thunderbreaker. It is able to unleash the stored power through unimaginable means. The electric field that it generates disrupts the mind of its wielder, so it cannot be mastered by ordinary people.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Tianlang_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR20_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Tianlang_Thu01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -5060,44 +4738,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Tian Lang: Thunderball",
-				"description": "Each use of volt weapon skill or discharge skill gains **1** free dodge attempt, up to **2** attempts. When volt weapon skill and discharge skill are used simultaneously, increase volt damage by **12%** for **8** seconds. This effect cannot be stacked."
-			},
-			"level2": {
-				"name": "Tian Lang: Thunderclap",
-				"description": "Each use of volt weapon skill or discharge skill gains **1** free dodge attempt, up to **2** attempts. When volt weapon skill and discharge skill are used simultaneously, increase volt damage by **18%** for **8** seconds. This effect cannot be stacked."
-			},
-			"id": "imitation_29"
-		},
 		"id": "tianlang_thunder"
 	},
 	"arm_physic": {
@@ -5105,8 +4760,7 @@
 		"description": "A support weapon custom-made for an insider of the Maidelin Foundation. Ms. Maidelin believes that Lyra could make proper use of it.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Arm_Physic01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR19_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Arm_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -5267,44 +4921,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 15.473301
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 7.964199
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Heartswitch",
-				"description": "Benediction Resonance: Increase Max HP by 10% for the entire team. Unstackable."
-			},
-			"level2": {
-				"name": "Bless",
-				"description": "Benediction Resonance: Increase Max HP by 10% for the entire team. Unstackable."
-			},
-			"id": "imitation_24"
-		},
 		"id": "arm_physic"
 	},
 	"rubilia_thunder": {
@@ -5312,8 +4943,7 @@
 		"description": "A gentle swing in the chaotic abyss will stir up a tempest that affects everyone's fate.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Rubilia_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR31_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Rubilia_Thu01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -5468,44 +5098,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Synergy",
-				"description": "Increase volt damage by **6%** for every **1** volt weapon equipped."
-			},
-			"level2": {
-				"name": "Enlightenment",
-				"description": "Increase volt damage by **8%** for every **1** volt weapon equipped."
-			},
-			"id": "imitation_48"
-		},
 		"id": "rubilia_thunder"
 	},
 	"iceblade_ice": {
@@ -5513,8 +5120,7 @@
 		"description": "Combat armor crafted with a foot-blade as its core. Powered by the user's mental energy, it is the result of cutting-edge science and technology from before the Cataclysm, and explodes with terrifying power when necessary.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_iceblade_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR22_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Iceblade_ice01_2"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -5663,44 +5269,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.203884
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 4.550971
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Anisoptera",
-				"description": "After successfully using a weapon skill, increase final damage by **13%** for **12** seconds."
-			},
-			"level2": {
-				"name": "Lepidoptera",
-				"description": "After successfully using a weapon skill, increase final damage by **18%** for **18** seconds."
-			},
-			"id": "imitation_30"
-		},
 		"id": "iceblade_ice"
 	},
 	"snipe_fire": {
@@ -5708,8 +5291,7 @@
 		"description": "A VR multiplayer shooting game that is incredibly popular in Mirroria specially designed this exclusive gun for their top player from a certain season. The customized physical model of the gun was also sent to the player, but nobody realized it could be used just like in the game...",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Snipe_fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR21_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Snipe_Fire01"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -5846,44 +5428,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Gas (boom!)",
-				"description": "For every **1** enemy hit by Gas Explosion, increase Clover Cross's damage by **8%** for **20** seconds, stacking up to **2** times."
-			},
-			"level2": {
-				"name": "Gas (boooom!)",
-				"description": "For every **1** enemy hit by Gas Explosion, increase Clover Cross's damage by **15%** for **20** seconds, stacking up to **2** times."
-			},
-			"id": "imitation_26"
-		},
 		"id": "snipe_fire"
 	},
 	"brush_fire": {
@@ -5891,8 +5450,7 @@
 		"description": "\"No violence please! Real academics wouldn't hit anyone with stationery!\" —Rong Jin",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_liuhuo",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR32_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_liuhuo"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6059,44 +5617,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Counting Ink",
-				"description": "Increase final damage by **13%**. When **Pine Comet** is in the off-hand slot, **Sparrow Feather** launch frequency increases to **1** per second."
-			},
-			"level2": {
-				"name": "Taking Up the Brush",
-				"description": "Increase final damage by **18%**. When **Pine Comet** is in the off-hand slot, **Sparrow Feather** launch frequency increases to **1** per second."
-			},
-			"id": "imitation_37"
-		},
 		"id": "brush_fire"
 	},
 	"whip_physic": {
@@ -6104,8 +5639,7 @@
 		"description": "The whip favored by the new Executor, Umi. Umi's favorite part of it is that she doesn't get tripped up by it, usually.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Whip_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR23_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Whip_phy01"
 		},
 		"rarity": "SSR",
 		"element": "Physics",
@@ -6266,44 +5800,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Umi: Good Show",
-				"description": "Increase final damage by **12%** for **30** seconds whenever Umi uses **It's Magic Time**. This effect does not stack."
-			},
-			"level2": {
-				"name": "Umi: Grand Performance",
-				"description": "Increase final damage by **18%** for **30** seconds whenever Umi uses **It's Magic Time**. This effect does not stack."
-			},
-			"id": "imitation_31"
-		},
 		"id": "whip_physic"
 	},
 	"feise_fire": {
@@ -6311,8 +5822,7 @@
 		"description": "Some flowers conceal a lethal intent.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feise",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR36_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feise"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6415,7 +5925,7 @@
 		},
 		"stars": [
 			{
-				"description": "**Flame Resonance**: Increase flame ATK by **20%** and flame resistance by **40%**. Activate by equipping **2** or more flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance or Flame Reaction effects, with Flame Resonance taking precedence.\r\n**Fiery Explosion: Swift Cut**: When **Endless Bloom** is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to **37.5%** of flame ATK plus **0.5%** of the Wanderer's Max HP plus **18.75%** of the sum of all the Wanderer's resistance types plus **68.75%** of crit. While in combat, after every **0.5** seconds, the next Swift Cut damage will be increased by an additional **1** time, up to a maximum of **30** times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is **1** frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by **1.3** times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
+				"description": "**Flame Resonance**: Increase flame ATK by **15%** and flame resistance by **25%**. Activate by equipping **2** or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.\r\n**Fiery Explosion: Swift Cut**: When **Endless Bloom** is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage equal to **37.5%** of flame ATK plus **0.5%** of the Wanderer's Max HP plus **18.75%** of the sum of all the Wanderer's resistance types plus **68.75%** of crit to nearby targets. While in combat, after every **0.5** seconds, the next Swift Cut damage will be increased by an additional **1** time, up to a maximum of **30** times. When multiple Swift Cut damages exist, the highest initial value is used for calculation. Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is **1** frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is increased to **1.3** times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6423,7 +5933,7 @@
 				"need": "None"
 			},
 			{
-				"description": "**Blazing Heart** damage's base multiplier is increased to **120%** of ATK. While in the combat state, if the Wanderer inflicts multiple burn effects, **Blazing Heart** damage's base multiplier is additionally increased to that of the highest multiplier effect.",
+				"description": "**Blazing Heart's** damage's base multiplier is increased to **60%** of ATK. While in the combat state, if the Wanderer inflicts multiple burn effects, **Blazing Heart's** damage's base multiplier is additionally increased to that of the highest multiplier effect.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6455,7 +5965,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "For every **1** **Fei Se's Phantasia** or **Lotus Petal** in the **Mirage**, **Blazing Heart's** damage is additionally increased by **15%**.\r\n**Lotus Aspara's** endurance consumption is reduced by **75%**.",
+				"description": "For every **1** **Fei Se's Phantasia** or **Lotus Petal** in the **Mirage**, **Blazing Heart's** damage is additionally increased by **12%**.\r\n**Lotus Aspara's** endurance consumption is reduced by **75%**.",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6463,7 +5973,7 @@
 				"need": "feise_fire_plasm"
 			},
 			{
-				"description": "**Soulwear** damage's base multiplier is increased to **900%** of ATK, shatter is doubled, and there is a **15%** chance to inflict a **65%** delay for **2** seconds after landing a hit (ineffective against bosses in team play and unavailable in Apex League).",
+				"description": "**Soulwear** damage's base multiplier is increased to **270%** of ATK, shatter is doubled, and after landing a hit, there is a **15%** chance to inflict a **65%** delay for **2** seconds (ineffective against bosses in team play and unavailable in Apex League).",
 				"stats": {
 					"shatter": 14,
 					"charge": 12
@@ -6473,44 +5983,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Lotus Dance",
-				"description": "Increase final damage by **0%**.\r\nAfter using **Whirling**, for every **1** flame weapon equipped, increase final damage by **4.5%** for **30** seconds."
-			},
-			"level2": {
-				"name": "Darkshadow",
-				"description": "Increase final damage by **0%**.\r\nAfter using **Whirling**, for every **1** flame weapon equipped, increase final damage by **9%** for **30** seconds."
-			},
-			"id": "imitation_51"
-		},
 		"id": "feise_fire"
 	},
 	"fenrir_thunder": {
@@ -6518,8 +6005,7 @@
 		"description": "A special device that converts sound waves into attack. When the shackles are shattered, the currents of death become sharp claws that tear everything apart.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Fenrir_Thunder01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR24_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Fenrir_Thunder01"
 		},
 		"rarity": "SSR",
 		"element": "Thunder",
@@ -6674,44 +6160,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Dimension X",
-				"description": "Increase final damage by **13%**. Activate by equipping **2** weapons of different elements. Increase final damage by **18%**. Activate by equipping **3** weapons of different elements."
-			},
-			"level2": {
-				"name": "Dimension Z",
-				"description": "Increase final damage by **18%**. Activate by equipping **2** weapons of different elements. Increase final damage by **23%**. Activate by equipping **3** weapons of different elements."
-			},
-			"id": "imitation_32"
-		},
 		"id": "fenrir_thunder"
 	},
 	"umbrella_fire": {
@@ -6719,8 +6182,7 @@
 		"description": "A parasol weapon used exclusively by Zhuque with various hidden mechanisms. Vermilion Bird's large parasol body can not only become a powerful tool to destroy enemies using energy, but also something to block the sight of others and hide the holder's demeanor...",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_umbrella_Fire01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR27_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Umbrella_fire01_2"
 		},
 		"rarity": "SSR",
 		"element": "Flame",
@@ -6875,44 +6337,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 16.383495
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 6.826457
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Raging Fire",
-				"description": "During Fortitude Resonance, flame and frost damage received by you and your teammates in the Vermilion Domain is reduced by **16%**."
-			},
-			"level2": {
-				"name": "Towering Flames",
-				"description": "During Fortitude Resonance, flame and frost damage received by you and your teammates in the Vermilion Domain is reduced by **24%**."
-			},
-			"id": "imitation_34"
-		},
 		"id": "umbrella_fire"
 	},
 	"yoyo_ice": {
@@ -6920,8 +6359,7 @@
 		"description": "A rare collectible weapon fused with unique trendy refits. May the wielder walk with courage into the desolate darkness, even if like a moth to the flame.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yoyo_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR28_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_yoyo_ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -7003,7 +6441,7 @@
 			],
 			"discharge": [
 				{
-					"name": "Capped Knowledge",
+					"name": "Yubing",
 					"description": "When **weapon charge is full** or **Phantasia** is triggered, upon switching to this weapon, **remove all debuffs from the Wanderer**, dealing damage equal to **1113.9%** of ATK plus **6683** to nearby targets, and launching the target. During this period, gain damage immunity for **1.5** seconds (unavailable in Apex League).",
 					"icon": "/Game/Resources/Icon/skill/WeaponSkill/skill_iceyoyo_changeskill",
 					"id": "GA_FPlayerYoyoChangeSkill_Success"
@@ -7070,44 +6508,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Hoarfrost",
-				"description": "After equipping Precious One, increase final damage by **10%**. While using Precious One, increase shatter by **20%**."
-			},
-			"level2": {
-				"name": "Molten Feathers",
-				"description": "After equipping Precious One, increase final damage by **15%**. While using Precious One, increase shatter by **45%**."
-			},
-			"id": "imitation_35"
-		},
 		"id": "yoyo_ice"
 	},
 	"yulan_ice": {
@@ -7115,8 +6530,7 @@
 		"description": "Unity, in other words, consolidation. It's the weapon Ji Yu handpicked for Yu Lan, which possesses the latest tech from Domain 9. Please don't be surprised if you witness some miraculous sights after using it with the timestamp.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_yulan_Ice01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR33_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Yulan_ice01"
 		},
 		"rarity": "SSR",
 		"element": "Ice",
@@ -7295,44 +6709,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.93204
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 14.563107
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Steady Qi",
-				"description": "Increase final damage by **13%**.\r\nWhile in the **Martial Artist** form, additionally increase final damage by **7%**.\r\nWhile in the **Sweeping Force** form, for every **1** frost weapon equipped, increase damage dealt via consuming **Fighting Spirit** by **9%**. When **3** frost weapons are equipped, increase frost damage by **8%**."
-			},
-			"level2": {
-				"name": "Attention",
-				"description": "Increase final damage by **18%**.\r\nWhile in the **Martial Artist** form, additionally increase final damage by **7%**.\r\nWhile in the **Sweeping Force** form, for every **1** frost weapon equipped, increase damage dealt via consuming **Fighting Spirit** by **9%**. When **3** frost weapons are equipped, increase frost damage by **8%**."
-			},
-			"id": "imitation_38"
-		},
 		"id": "yulan_ice"
 	},
 	"zeke_physic": {
@@ -7340,8 +6731,7 @@
 		"description": "An imposing and sharp greatsword that ordinary people can barely muster the strength to pick up. Its destructive power is juxtaposed by the wide blade and the sense of security it brings.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Zeke_Phy01",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR34_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01"
 		},
 		"rarity": "SSR",
 		"element": "PhysicsFlame",
@@ -7496,44 +6886,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 19.114079
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			},
 			{
-				"stats": {
-					"name": "Crit",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
-					"value": 0.4,
-					"id": "CritAdded"
-				},
-				"value": 13.652913
+				"name": "Crit",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_baoji",
+				"id": "CritAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Find Oneself",
-				"description": "Increase final damage by **12%**.\r\nThe Wanderer's base physical ATK is increased to the highest value out of their physical/flame/frost/volt base ATK. When the main slot weapon is **Onyx Tortoise**, normal attack damage is increased by **30%**."
-			},
-			"level2": {
-				"name": "Selfless",
-				"description": "Increase final damage by **18%**.\r\nThe Wanderer's base physical ATK is increased to the highest value out of their physical/flame/frost/volt base ATK. When the main slot weapon is **Onyx Tortoise**, normal attack damage is increased by **50%**."
-			},
-			"id": "imitation_50"
-		},
 		"id": "zeke_physic"
 	},
 	"queen_superpower": {
@@ -7541,8 +6908,7 @@
 		"description": "A strange nanoweapon that generates blades that cut through metal like butter. In the past, it used to take the form of a bracelet that wrapped around its owner's wrist while in standby mode, and that is where its owner's descriptions of it come from.",
 		"assets": {
 			"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_feiouna",
-			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna",
-			"SoloLeagueBanPickBanner": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR29_256"
+			"WeaponIconForMatrix": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_feiouna"
 		},
 		"rarity": "SSR",
 		"element": "Superpower",
@@ -7736,44 +7102,21 @@
 		],
 		"stats": [
 			{
-				"stats": {
-					"name": "Attack",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
-					"value": 2,
-					"id": "CommonAtkAdded"
-				},
-				"value": 18.203884
+				"name": "Attack",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_atk",
+				"id": "CommonAtkAdded"
 			},
 			{
-				"stats": {
-					"name": "Resistance",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
-					"value": 1.6,
-					"id": "ElementDef"
-				},
-				"value": 4.550971
+				"name": "Resistance",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_resist_all",
+				"id": "ElementDef"
 			},
 			{
-				"stats": {
-					"name": "HP",
-					"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
-					"value": 0.025,
-					"id": "MaxHealthAdded"
-				},
-				"value": 1165.0486
+				"name": "HP",
+				"icon": "/Game/Resources/UI/AttributeIcon/icon_hp",
+				"id": "MaxHealthAdded"
 			}
 		],
-		"trait": {
-			"level1": {
-				"name": "Twinkle",
-				"description": "Increase final damage by **16%**."
-			},
-			"level2": {
-				"name": "Moon Reflection",
-				"description": "Increase final damage by **18%**."
-			},
-			"id": "imitation_36"
-		},
 		"id": "queen_superpower"
 	}
 }
