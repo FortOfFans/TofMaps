@@ -84,6 +84,7 @@
 				"stage": 4500
 			},
 			{
+				"text": "Protokoll: Gebiet-9-Wandler",
 				"stage": 5000
 			},
 			{
@@ -495,6 +496,7 @@
 				"stage": 4500
 			},
 			{
+				"text": "Protokoll: Zwangloses Treffen",
 				"stage": 5000
 			},
 			{
@@ -721,6 +723,7 @@
 				"stage": 4500
 			},
 			{
+				"text": "Protokoll: Ich gebe mein Bestes",
 				"stage": 5000
 			},
 			{
@@ -758,6 +761,7 @@
 				"stage": 4500
 			},
 			{
+				"text": "Protokoll: Größte Entdeckung der Geschichte",
 				"stage": 5000
 			},
 			{
@@ -795,6 +799,7 @@
 				"stage": 4500
 			},
 			{
+				"text": "Protokoll: Durch dick und dünn",
 				"stage": 5000
 			},
 			{
@@ -832,6 +837,7 @@
 				"stage": 4500
 			},
 			{
+				"text": "Protokoll: Geheimrezept kosten",
 				"stage": 5000
 			},
 			{
@@ -869,6 +875,7 @@
 				"stage": 4500
 			},
 			{
+				"text": "Protokoll: Freizeit",
 				"stage": 5000
 			},
 			{
@@ -1064,18 +1071,22 @@
 				"stage": 200
 			},
 			{
+				"text": "Protokoll: Ein Stück Vergangenheit",
 				"stage": 600
 			},
 			{
+				"text": "Protokoll: Mit jedem Tag kommen wir näher",
 				"stage": 2000
 			},
 			{
+				"text": "Protokoll: Einsame Melodien auf einer einzelnen Saite",
 				"stage": 3000
 			},
 			{
 				"stage": 4500
 			},
 			{
+				"text": "Protokoll: Fortsetzung des Traums",
 				"stage": 5000
 			},
 			{

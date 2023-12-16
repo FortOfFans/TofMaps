@@ -84,7 +84,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Domain 9 Walker",
+				"text": "Журнал: Ходок Территории 9",
 				"stage": 5000
 			},
 			{
@@ -496,7 +496,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Casual Gathering",
+				"text": "Журнал: Неформальная встреча",
 				"stage": 5000
 			},
 			{
@@ -723,7 +723,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Doing My Best",
+				"text": "Журнал: Изо всех сил",
 				"stage": 5000
 			},
 			{
@@ -761,7 +761,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Greatest Discovery in History",
+				"text": "Журнал: Величайшее открытие в истории",
 				"stage": 5000
 			},
 			{
@@ -799,7 +799,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Through Thick and Thin",
+				"text": "Журнал: Сквозь огонь и воду",
 				"stage": 5000
 			},
 			{
@@ -837,7 +837,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Tasting Secret Recipe",
+				"text": "Журнал: Секретный рецепт",
 				"stage": 5000
 			},
 			{
@@ -875,7 +875,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Leisure Time",
+				"text": "Журнал: Время отдыха",
 				"stage": 5000
 			},
 			{
@@ -1071,22 +1071,22 @@
 				"stage": 200
 			},
 			{
-				"text": "Log: A Corner of the Past",
+				"text": "Журнал: Уголок прошлого",
 				"stage": 600
 			},
 			{
-				"text": "Log: Getting Closer As Days Go By",
+				"text": "Журнал: Ближе с каждым днем",
 				"stage": 2000
 			},
 			{
-				"text": "Log: Lone Melodies on A Solitary String",
+				"text": "Журнал: Одинокие мелодии на одной струне",
 				"stage": 3000
 			},
 			{
 				"stage": 4500
 			},
 			{
-				"text": "Log: Continuation of Dream",
+				"text": "Журнал: Продолжение мечты",
 				"stage": 5000
 			},
 			{

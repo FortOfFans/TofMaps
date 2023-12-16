@@ -84,7 +84,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Domain 9 Walker",
+				"text": "Journal de bord: Marcheur du Domaine 9",
 				"stage": 5000
 			},
 			{
@@ -496,7 +496,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Casual Gathering",
+				"text": "Journal de bord: Rassemblement informel",
 				"stage": 5000
 			},
 			{
@@ -723,7 +723,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Doing My Best",
+				"text": "Journal de bord: J'y vais à fond",
 				"stage": 5000
 			},
 			{
@@ -761,7 +761,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Greatest Discovery in History",
+				"text": "Journal de bord: La plus grande découverte de l'histoire",
 				"stage": 5000
 			},
 			{
@@ -799,7 +799,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Through Thick and Thin",
+				"text": "Journal de bord: Contre vents et marées",
 				"stage": 5000
 			},
 			{
@@ -837,7 +837,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Tasting Secret Recipe",
+				"text": "Journal de bord: Dégustation de recette secrète",
 				"stage": 5000
 			},
 			{
@@ -875,7 +875,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Leisure Time",
+				"text": "Journal de bord: Temps libre",
 				"stage": 5000
 			},
 			{
@@ -1071,22 +1071,22 @@
 				"stage": 200
 			},
 			{
-				"text": "Log: A Corner of the Past",
+				"text": "Journal de bord: Un coin du passé",
 				"stage": 600
 			},
 			{
-				"text": "Log: Getting Closer As Days Go By",
+				"text": "Journal de bord: Se rapprocher au fil des jours",
 				"stage": 2000
 			},
 			{
-				"text": "Log: Lone Melodies on A Solitary String",
+				"text": "Journal de bord: Mélodies esseulées sur une corde solitaire",
 				"stage": 3000
 			},
 			{
 				"stage": 4500
 			},
 			{
-				"text": "Log: Continuation of Dream",
+				"text": "Journal de bord: Suite du rêve",
 				"stage": 5000
 			},
 			{

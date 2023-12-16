@@ -84,7 +84,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Domain 9 Walker",
+				"text": "通信「九域を行く者」",
 				"stage": 5000
 			},
 			{
@@ -311,7 +311,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Catatan: Janji",
+				"text": "通信「約束」",
 				"stage": 5000
 			},
 			{
@@ -496,7 +496,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Casual Gathering",
+				"text": "通信「休暇の約束」",
 				"stage": 5000
 			},
 			{
@@ -723,7 +723,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Doing My Best",
+				"text": "通信「持てる力、そのすべてで」",
 				"stage": 5000
 			},
 			{
@@ -761,7 +761,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Greatest Discovery in History",
+				"text": "通信「歴史的大発見」",
 				"stage": 5000
 			},
 			{
@@ -799,7 +799,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Through Thick and Thin",
+				"text": "通信「風雨を越えて」",
 				"stage": 5000
 			},
 			{
@@ -837,7 +837,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Tasting Secret Recipe",
+				"text": "通信「秘密のレシピ」",
 				"stage": 5000
 			},
 			{
@@ -875,7 +875,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Log: Leisure Time",
+				"text": "通信「憩いのひととき」",
 				"stage": 5000
 			},
 			{
@@ -913,7 +913,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Catatan: Memori Penderitaan Masa Lalu",
+				"text": "通信「記憶の苦しみ」",
 				"stage": 5000
 			},
 			{
@@ -951,7 +951,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Catatan: Nama Panggilan Imut",
+				"text": "通信「幼名」",
 				"stage": 5000
 			},
 			{
@@ -974,22 +974,22 @@
 				"stage": 200
 			},
 			{
-				"text": "Catatan: Pimpinan Marshville",
+				"text": "通信「沢州衛首」",
 				"stage": 600
 			},
 			{
-				"text": "Catatan: Beban Di Pundak Komandan Pengawal",
+				"text": "通信「衛首の重責」",
 				"stage": 2000
 			},
 			{
-				"text": "Catatan: Musik Dan Passion",
+				"text": "通信「琴と情」",
 				"stage": 3000
 			},
 			{
 				"stage": 4500
 			},
 			{
-				"text": "Catatan: Tower Di Dunia Luar",
+				"text": "通信「域外の塔」",
 				"stage": 5000
 			},
 			{
@@ -1027,7 +1027,7 @@
 				"stage": 4500
 			},
 			{
-				"text": "Catatan: Uji Coba",
+				"text": "通信「試着」",
 				"stage": 5000
 			},
 			{
@@ -1050,15 +1050,15 @@
 				"stage": 200
 			},
 			{
-				"text": "Catatan: Bisu",
+				"text": "通信「ミュート」",
 				"stage": 600
 			},
 			{
-				"text": "Catatan: Obrolan Virtual",
+				"text": "通信「マネっこレター」",
 				"stage": 2000
 			},
 			{
-				"text": "Catatan: Dari Angan Jadi Kenyataan",
+				"text": "通信「紙の上から現実へ」",
 				"stage": 3000
 			}
 		],
@@ -1071,22 +1071,22 @@
 				"stage": 200
 			},
 			{
-				"text": "Log: A Corner of the Past",
+				"text": "通信「過去の片隅」",
 				"stage": 600
 			},
 			{
-				"text": "Log: Getting Closer As Days Go By",
+				"text": "通信「相知の間柄」",
 				"stage": 2000
 			},
 			{
-				"text": "Log: Lone Melodies on A Solitary String",
+				"text": "通信「孤弦が奏でる音色」",
 				"stage": 3000
 			},
 			{
 				"stage": 4500
 			},
 			{
-				"text": "Log: Continuation of Dream",
+				"text": "通信「夢の続き」",
 				"stage": 5000
 			},
 			{
