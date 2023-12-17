@@ -239,6 +239,12 @@
 		"type": "FRAGMENT",
 		"id": "Linghan_ice_plasm"
 	},
+	"Nanyin_superpower_plasm": {
+		"name": "紫竹のデータコア",
+		"icon": "/Game/Resources/Icon/item/item_weapon_upstar_",
+		"type": "FRAGMENT",
+		"id": "Nanyin_superpower_plasm"
+	},
 	"Likeability_unlock1": {
 		"name": "昇格ドライブ・アーシャ",
 		"icon": "/Game/Resources/Icon/ImitationGift/Likeability_unlock1",
@@ -449,6 +455,12 @@
 		"type": "GIFT",
 		"id": "Item_gift_2019"
 	},
+	"Item_gift_2020": {
+		"name": "炎陽のマフラー",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift2020",
+		"type": "GIFT",
+		"id": "Item_gift_2020"
+	},
 	"Item_gift_3001": {
 		"name": "新型ゲーム機",
 		"icon": "/Game/Resources/Icon/ImitationGift/gift25",
@@ -598,6 +610,24 @@
 		"icon": "/Game/Resources/Icon/ImitationGift/gift56",
 		"type": "GIFT",
 		"id": "Item_gift_3025"
+	},
+	"Item_gift_3026": {
+		"name": "水墨ペン",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3026",
+		"type": "GIFT",
+		"id": "Item_gift_3026"
+	},
+	"Item_gift_3027": {
+		"name": "毛皮の毛布",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3027",
+		"type": "GIFT",
+		"id": "Item_gift_3027"
+	},
+	"Item_gift_3028": {
+		"name": "白虎の氷像",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3028",
+		"type": "GIFT",
+		"id": "Item_gift_3028"
 	},
 	"breakthrough_show": {
 		"name": "武器突破素材",
@@ -1859,6 +1889,42 @@
 		"type": "FOOD",
 		"id": "Item_Jiuyu_Cooking38"
 	},
+	"Item_Jiuyu_Cooking39": {
+		"name": "ホットスパークリングワイン",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking39",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking39"
+	},
+	"Item_Jiuyu_Cooking40": {
+		"name": "クリーミーな杏仁糊",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking40",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking40"
+	},
+	"Item_Jiuyu_Cooking41": {
+		"name": "ぽかぽか柚子水",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking41",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking41"
+	},
+	"Item_Jiuyu_Cooking42": {
+		"name": "メープルキャンディ",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking42",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking42"
+	},
+	"Item_Jiuyu_Cooking43": {
+		"name": "ほくほくベーグル",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking43",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking43"
+	},
+	"Item_Jiuyu_Cooking44": {
+		"name": "焼き芋",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking44",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking44"
+	},
 	"Item_Cooking_1001_autouse": {
 		"name": "キノコ炒め",
 		"icon": "/Game/Resources/Icon/caiyao/1001",
@@ -1890,7 +1956,7 @@
 		"id": "Item_Cooking_1005_autouse"
 	},
 	"Item_Cooking_1006_autouse": {
-		"name": "ステーキ",
+		"name": "焼き肉",
 		"icon": "/Game/Resources/Icon/caiyao/1006",
 		"type": "FOOD",
 		"id": "Item_Cooking_1006_autouse"
@@ -3743,6 +3809,12 @@
 		"type": "BARTER",
 		"id": "Item_FishCoin"
 	},
+	"Item_BattleField_Resource": {
+		"name": "錆びれた刀剣",
+		"icon": "/Game/Resources/Icon/item/BattleField_Resource",
+		"type": "QUEST",
+		"id": "Item_BattleField_Resource"
+	},
 	"Blindbox_coin_03": {
 		"name": "新春スタンプ",
 		"icon": "/Game/Resources/Icon/huobi/Blindbox_coin_01",
@@ -4356,7 +4428,7 @@
 		"id": "EquipFragment_UP41"
 	},
 	"EquipFragment_UP42": {
-		"name": "オーバークロックチップ",
+		"name": "オーバークロックチップ・蝶翅",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
 		"type": "BARTER",
 		"id": "EquipFragment_UP42"
@@ -4956,7 +5028,7 @@
 		"id": "WeaponFragment_UP41"
 	},
 	"WeaponFragment_UP42": {
-		"name": "逆火のコイン",
+		"name": "逆火のコイン・蝶翅",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
 		"type": "BARTER",
 		"id": "WeaponFragment_UP42"
@@ -5723,17 +5795,17 @@
 		"type": "GIFT",
 		"id": "gift_Mount_006_skin_medium"
 	},
+	"choose_newbpfinal_linye": {
+		"name": "シャドーウィーブ選択宝箱",
+		"icon": "/Game/Resources/Icon/item/gift_newbplinye",
+		"type": "CHOOSE",
+		"id": "choose_newbpfinal_linye"
+	},
 	"choose_Mount_006_skin_medium": {
 		"name": "流星選択箱",
 		"icon": "/Game/Resources/Icon/item/liuguanglihe02",
 		"type": "GIFT",
 		"id": "choose_Mount_006_skin_medium"
-	},
-	"choose_newbpfinal_linye": {
-		"name": "影織セレクトボックス",
-		"icon": "/Game/Resources/Icon/item/gift_newbplinye",
-		"type": "CHOOSE",
-		"id": "choose_newbpfinal_linye"
 	},
 	"choose_StrengthenStone_01": {
 		"name": "強化モジュール選択箱",
@@ -6283,9 +6355,15 @@
 	},
 	"choose_matrix_SSR37": {
 		"name": "凌寒のボリション選択宝箱",
-		"icon": "/Game/Resources/Icon/item/treasure_matrix_SSR37",
+		"icon": "/Game/Resources/Icon/item/treasure_matrix_ssr37",
 		"type": "CHOOSE",
 		"id": "choose_matrix_SSR37"
+	},
+	"choose_matrix_SSR38": {
+		"name": "南音のボリション選択宝箱",
+		"icon": "/Game/Resources/Icon/item/treasure_matrix_ssr38",
+		"type": "CHOOSE",
+		"id": "choose_matrix_SSR38"
 	},
 	"choose_matrix_SR1": {
 		"name": "ロベラグのボリション選択宝箱",
@@ -7535,6 +7613,78 @@
 		"type": "GIFT",
 		"id": "bag_LizhouOpenSign_7"
 	},
+	"bag_MidAutumnFestival_1": {
+		"name": "中秋ギフトボックスⅠ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_1"
+	},
+	"bag_MidAutumnFestival_2": {
+		"name": "中秋ギフトボックスⅡ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_2"
+	},
+	"bag_MidAutumnFestival_3": {
+		"name": "中秋ギフトボックスⅢ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_3"
+	},
+	"bag_MidAutumnFestival_4": {
+		"name": "中秋ギフトボックスⅣ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_4"
+	},
+	"bag_MidAutumnFestival_5": {
+		"name": "中秋ギフトボックスⅤ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_5"
+	},
+	"bag_MidAutumnFestival_6": {
+		"name": "中秋ギフトボックスⅥ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_6"
+	},
+	"bag_MidAutumnFestival_7": {
+		"name": "中秋ギフトボックスⅦ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_7"
+	},
+	"bag_MidAutumnFestival_8": {
+		"name": "中秋ギフトボックスⅧ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_8"
+	},
+	"bag_MidAutumnFestival_9": {
+		"name": "中秋ギフトボックスⅨ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_9"
+	},
+	"bag_MidAutumnFestival_10": {
+		"name": "中秋ギフトボックスⅩ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_10"
+	},
+	"bag_MidAutumnFestival_11": {
+		"name": "中秋ギフトボックスⅪ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_11"
+	},
+	"bag_MidAutumnFestival_12": {
+		"name": "中秋ギフトボックスⅫ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_12"
+	},
 	"gift_equip_white": {
 		"name": "ランダム装備箱",
 		"icon": "/Game/Resources/Icon/item/treasure_random",
@@ -7702,6 +7852,12 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f38",
 		"type": "GIFT",
 		"id": "bag_dress_37"
+	},
+	"bag_Spokesperson": {
+		"name": "宣伝大使デイリーギフト",
+		"icon": "/Game/Resources/Icon/item/Mysterious_Box",
+		"type": "GIFT",
+		"id": "bag_Spokesperson"
 	},
 	"bag_gashapon_01": {
 		"name": "狂騒ギフトボックス・ケートス",
@@ -8027,6 +8183,12 @@
 		"type": "GIFT",
 		"id": "bag_CobaltBlue_gameshop"
 	},
+	"EnergyGetItem_ticket": {
+		"name": "ハッピークーポン",
+		"icon": "/Game/Resources/Icon/huobi/item_ticket",
+		"type": "MATERIAL",
+		"id": "EnergyGetItem_ticket"
+	},
 	"item_ticket_02": {
 		"name": "スペシャルクーポン",
 		"icon": "/Game/Resources/Icon/huobi/item_ticket_02",
@@ -8068,6 +8230,12 @@
 		"icon": "/Game/Resources/Icon/huobi/item_ticket_Linghan_ice",
 		"type": "MATERIAL",
 		"id": "item_ticket_Linghan_ice"
+	},
+	"item_ticket_Nanyin_superpower": {
+		"name": "スペシャルクーポン・楽奏簫音",
+		"icon": "/Game/Resources/Icon/huobi/item_ticket_Nanyin_superpower",
+		"type": "MATERIAL",
+		"id": "item_ticket_Nanyin_superpower"
 	},
 	"fragment_artifact_ssr_001": {
 		"name": "ジャイアントアームの欠片",
@@ -9347,7 +9515,7 @@
 	},
 	"Harvest_Fishes_001": {
 		"name": "シルバーパーチ",
-		"icon": "/Game/Resources/Icon/shicai/Item_Fishes_005",
+		"icon": "/Game/Resources/Icon/shicai/Item_Fishes_001",
 		"type": "FOOD",
 		"id": "Harvest_Fishes_001"
 	},
@@ -9614,6 +9782,12 @@
 		"icon": "/Game/Resources/Icon/huobi/xingyuan",
 		"type": "MATERIAL",
 		"id": "Energy_Tower27"
+	},
+	"Energy_Tower28": {
+		"name": "沢州禁地探索値",
+		"icon": "/Game/Resources/Icon/huobi/xingyuan",
+		"type": "MATERIAL",
+		"id": "Energy_Tower28"
 	},
 	"Energy_Tower9_1": {
 		"name": "砂嵐の大地探索値・灰域",
@@ -10609,6 +10783,12 @@
 		"type": "CONSUMABLE",
 		"id": "fashion_dress_57_4"
 	},
+	"fashion_dress_58_4": {
+		"name": "瑠璃錦彩",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"type": "CONSUMABLE",
+		"id": "fashion_dress_58_4"
+	},
 	"fragment_bag_chat_qipao91": {
 		"name": "「旧友の訪れ」の欠片",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_91",
@@ -10693,17 +10873,17 @@
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_44_4_4"
 	},
+	"fragment_Hat_56_4_4": {
+		"name": "豊作の角の欠片",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_128",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_56_4_4"
+	},
 	"fragment_Hat_70_4_4": {
 		"name": "雪の花の欠片",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_146",
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_70_4_4"
-	},
-	"fragment_Hat_29_4_4": {
-		"name": "Shard Labu Permen",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101",
-		"type": "FRAGMENT",
-		"id": "fragment_Hat_29_4_4"
 	},
 	"fragment_fashion_decoration_74_4": {
 		"name": "とまどいグラスの欠片",
@@ -10741,11 +10921,11 @@
 		"type": "FRAGMENT",
 		"id": "fragment_fashion_decoration_86_4"
 	},
-	"fragment_fashion_decoration_91_4": {
-		"name": "Shard Iblis Cilik",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+	"fragment_fashion_decoration_90_4": {
+		"name": "月の伴侶の欠片",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_90",
 		"type": "FRAGMENT",
-		"id": "fragment_fashion_decoration_91_4"
+		"id": "fragment_fashion_decoration_90_4"
 	},
 	"fragment_makeup_face_053": {
 		"name": "群れの象徴の欠片",
@@ -10958,7 +11138,7 @@
 		"id": "Hat_28_4_4"
 	},
 	"Hat_29_4_4": {
-		"name": "お菓子のカボチャ",
+		"name": "お菓子のかぼちゃ",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101",
 		"type": "CONSUMABLE",
 		"id": "Hat_29_4_4"
@@ -11108,8 +11288,8 @@
 		"id": "Hat_67_4_4"
 	},
 	"Hat_68_4_4": {
-		"name": "DNT",
-		"icon": "None",
+		"name": "朝風",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_156",
 		"type": "CONSUMABLE",
 		"id": "Hat_68_4_4"
 	},
@@ -11124,6 +11304,24 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_146",
 		"type": "CONSUMABLE",
 		"id": "Hat_70_4_4"
+	},
+	"Hat_71_4_4": {
+		"name": "ゴールド伝説",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_153",
+		"type": "CONSUMABLE",
+		"id": "Hat_71_4_4"
+	},
+	"Hat_72_4_4": {
+		"name": "堂々たる礼帽",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_150",
+		"type": "CONSUMABLE",
+		"id": "Hat_72_4_4"
+	},
+	"Hat_73_4_4": {
+		"name": "クリムゾンバット",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157",
+		"type": "CONSUMABLE",
+		"id": "Hat_73_4_4"
 	},
 	"fashion_decoration_1_1": {
 		"name": "パイロット(1日)",
@@ -11767,6 +11965,18 @@
 		"type": "CONSUMABLE",
 		"id": "fashion_decoration_88_4"
 	},
+	"fashion_decoration_89_4": {
+		"name": "刑天煌輪",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_89",
+		"type": "CONSUMABLE",
+		"id": "fashion_decoration_89_4"
+	},
+	"fashion_decoration_90_4": {
+		"name": "月の伴侶",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_90",
+		"type": "CONSUMABLE",
+		"id": "fashion_decoration_90_4"
+	},
 	"fashion_medal_Test": {
 		"name": "浮遊スキャナー",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_127",
@@ -11910,6 +12120,12 @@
 		"icon": "/Game/Resources/Icon/huobi/Gem_Linghan_ice",
 		"type": "MATERIAL",
 		"id": "Item_Gem_Linghan_ice"
+	},
+	"Item_Gem_Nanyin_superpower": {
+		"name": "レッドコア・楽奏簫音",
+		"icon": "/Game/Resources/Icon/huobi/Gem_Nanyin_superpower",
+		"type": "MATERIAL",
+		"id": "Item_Gem_Nanyin_superpower"
 	},
 	"Item_Area2Medicine": {
 		"name": "麻酔薬",
@@ -12793,7 +13009,7 @@
 	},
 	"Item_q103036_2": {
 		"name": "煙幕弾",
-		"icon": "/Game/Resources/Icon/item/WeaponFragment_",
+		"icon": "/Game/Resources/Icon/item/Wormhole_badge_01",
 		"type": "QUEST",
 		"id": "Item_q103036_2"
 	},
@@ -14821,7 +15037,7 @@
 		"id": "Recipe_Cooking_1005"
 	},
 	"Recipe_Cooking_1006": {
-		"name": "ステーキ",
+		"name": "焼き肉",
 		"icon": "/Game/Resources/Icon/shipu/Item_Book_Cooking_0106",
 		"type": "CONSUMABLE",
 		"id": "Recipe_Cooking_1006"
@@ -16297,10 +16513,16 @@
 		"id": "bag_chat_qipao101"
 	},
 	"bag_chat_qipao104": {
-		"name": "「」ギフトボックス",
+		"name": "「稚気笑語」ギフトボックス",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao104",
 		"type": "GIFT",
 		"id": "bag_chat_qipao104"
+	},
+	"bag_chat_qipao105": {
+		"name": "「簫の名手」ギフトボックス",
+		"icon": "/Game/Resources/Icon/item/bag_chat_qipao105",
+		"type": "GIFT",
+		"id": "bag_chat_qipao105"
 	},
 	"bag_emoji_1": {
 		"name": "オベリスクアバター研究Ⅰ",
@@ -17987,16 +18209,10 @@
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
-		"name": "Koin Master",
+		"name": "守護者の勲章",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01",
 		"type": "BARTER",
 		"id": "Item_TowerDefenceCoin_01"
-	},
-	"Item_MegaGuruCoin": {
-		"name": "Koin Master",
-		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01",
-		"type": "BARTER",
-		"id": "Item_MegaGuruCoin"
 	},
 	"Item_SummerCoin_01": {
 		"name": "熱波コイン",
@@ -18034,17 +18250,29 @@
 		"type": "BARTER",
 		"id": "Item_MowingCoin"
 	},
+	"Item_WeaponSurvivalCoin": {
+		"name": "金楓バッジ",
+		"icon": "/Game/Resources/Icon/huobi/WeaponSurvivalCoin",
+		"type": "BARTER",
+		"id": "Item_WeaponSurvivalCoin"
+	},
+	"Item_TheAsianGamesCoin": {
+		"name": "挑戦者の勲章",
+		"icon": "/Game/Resources/Icon/huobi/TheAsianGamesCoin",
+		"type": "BARTER",
+		"id": "Item_TheAsianGamesCoin"
+	},
 	"Item_MidAutumnCoin_01": {
 		"name": "星の砂",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle",
 		"type": "BARTER",
 		"id": "Item_MidAutumnCoin_01"
 	},
-	"Item_JuiceCoin": {
-		"name": "星の砂",
-		"icon": "/Game/Resources/Icon/item/Item_Drink_003",
-		"type": "BARTER",
-		"id": "Item_JuiceCoin"
+	"Item_MidAutumnLantern": {
+		"name": "銀月灯",
+		"icon": "/Game/Resources/Icon/item/WeaponFragment_",
+		"type": "MATERIAL",
+		"id": "Item_MidAutumnLantern"
 	},
 	"Item_AutumnCoin_01": {
 		"name": "メープルコイン",
@@ -18141,12 +18369,6 @@
 		"icon": "/Game/Resources/Icon/item/HalloweenCoin_04",
 		"type": "BARTER",
 		"id": "Item_HalloweenCoin_04"
-	},
-	"Item_FollowGhostCoin": {
-		"name": "Permen Apel",
-		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin",
-		"type": "BARTER",
-		"id": "Item_FollowGhostCoin"
 	},
 	"Item_Aida_token": {
 		"name": "バランスコイン",
@@ -19365,10 +19587,22 @@
 		"id": "imitation_fashion_48"
 	},
 	"imitation_fashion_48_w": {
-		"name": "終曲",
+		"name": "フィナーレ",
 		"icon": "/Game/Resources/Icon/item/fashion_LBLY_weapon",
 		"type": "CONSUMABLE",
 		"id": "imitation_fashion_48_w"
+	},
+	"imitation_fashion_49": {
+		"name": "澄冷幽音",
+		"icon": "/Game/Resources/Icon/item/fashion_nanyin",
+		"type": "CONSUMABLE",
+		"id": "imitation_fashion_49"
+	},
+	"imitation_fashion_49_w": {
+		"name": "清響",
+		"icon": "/Game/Resources/Icon/item/fashion_nanyin_w",
+		"type": "CONSUMABLE",
+		"id": "imitation_fashion_49_w"
 	},
 	"imitation_fashion_50": {
 		"name": "「ジーク」",
@@ -21151,11 +21385,23 @@
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_004"
 	},
+	"Avatar_FishKing_Jiuyu_005": {
+		"name": "墨ケツギョ",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_005",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_005"
+	},
 	"Avatar_FishKing_Jiuyu_008": {
 		"name": "臙脂魚",
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_008",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_008"
+	},
+	"Avatar_FishKing_Jiuyu_009": {
+		"name": "溶岩文金",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_009",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_009"
 	},
 	"Avatar_FishKing_Jiuyu_012": {
 		"name": "トラハゼ",
@@ -21181,11 +21427,29 @@
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_016"
 	},
+	"Avatar_FishKing_Jiuyu_018": {
+		"name": "珍珠赤雷龍",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_018",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_018"
+	},
+	"Avatar_FishKing_Jiuyu_019": {
+		"name": "玄氷闘魚",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_019",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_019"
+	},
 	"Avatar_FishKing_Jiuyu_020": {
 		"name": "虹色雷魚",
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_020",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_020"
+	},
+	"Avatar_FishKing_Jiuyu_022": {
+		"name": "松葉錦鯉",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_022",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_022"
 	},
 	"Avatar_FishKing_Jiuyu_026": {
 		"name": "虹鱗鯛",
@@ -21216,6 +21480,12 @@
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_031",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_031"
+	},
+	"Avatar_FishKing_Jiuyu_032": {
+		"name": "瑠璃猫魚",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_032",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_032"
 	},
 	"Avatar_FishKing_Jiuyu_035": {
 		"name": "錦鯉",
@@ -22465,6 +22735,12 @@
 		"type": "CONSUMABLE",
 		"id": "Title_1_1_22_1"
 	},
+	"Title_1_1_23_1": {
+		"name": "玄淵踏破",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_1_23_1"
+	},
 	"Avatar_suoni": {
 		"name": "2代目AI執事",
 		"icon": "/Game/Resources/Icon/Avatar/Item_Avatar_suoni",
@@ -22568,7 +22844,7 @@
 		"id": "Title_1_4_8_4"
 	},
 	"Title_1_4_8_5": {
-		"name": "Pembersihan Mengukir Labirin",
+		"name": "蝕刻の迷域の掃討",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_1_4_8_5"
@@ -22591,6 +22867,180 @@
 		"type": "CONSUMABLE",
 		"id": "Title_1_8_0_5"
 	},
+	"Title_1_6_4_1": {
+		"name": "銀岸賢者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_1"
+	},
+	"Title_1_6_4_2": {
+		"name": "鏡月の酔客",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_2"
+	},
+	"Title_1_6_4_3": {
+		"name": "スープ行者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_3"
+	},
+	"Title_1_6_4_4": {
+		"name": "美食飴職人",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_4"
+	},
+	"Title_1_6_4_5": {
+		"name": "ゼロカードとは言ってないけど",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_5"
+	},
+	"Title_1_6_4_6": {
+		"name": "ダックの言語学習",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_6"
+	},
+	"Title_1_6_4_7": {
+		"name": "パラダイスシアター",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_7"
+	},
+	"Title_1_6_4_8": {
+		"name": "楽天家",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_8"
+	},
+	"Title_1_6_4_9": {
+		"name": "孤独な美食家",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_9"
+	},
+	"Title_1_6_4_10": {
+		"name": "Masa Depan 1",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_10"
+	},
+	"Title_1_6_4_11": {
+		"name": "砂漠パッション",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_11"
+	},
+	"Title_1_6_4_12": {
+		"name": "くらえ！バシっ！",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_12"
+	},
+	"Title_1_6_4_13": {
+		"name": "グラム級勝負",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_13"
+	},
+	"Title_1_6_4_14": {
+		"name": "ミラポリス・アイ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_14"
+	},
+	"Title_1_6_4_15": {
+		"name": "銀河の旅人",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_15"
+	},
+	"Title_1_6_4_16": {
+		"name": "猫ちゃんの人気者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_16"
+	},
+	"Title_1_6_4_17": {
+		"name": "ファッションリーダー",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_17"
+	},
+	"Title_1_6_4_18": {
+		"name": "天河街のウルフ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_18"
+	},
+	"Title_1_6_4_19": {
+		"name": "マイダスの手",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_19"
+	},
+	"Title_1_6_4_20": {
+		"name": "老若男女の友",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_20"
+	},
+	"Title_1_6_4_21": {
+		"name": "美の化身",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_21"
+	},
+	"Title_1_6_4_22": {
+		"name": "九転還魂",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_22"
+	},
+	"Title_1_6_4_23": {
+		"name": "最優秀調教師",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_23"
+	},
+	"Title_1_6_4_24": {
+		"name": "息抜き雑貨商",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_24"
+	},
+	"Title_1_6_4_25": {
+		"name": "龍の使者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_25"
+	},
+	"Title_1_6_4_26": {
+		"name": "ありのままに",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_26"
+	},
+	"Title_1_6_4_27": {
+		"name": "原点復帰",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_27"
+	},
+	"Title_1_6_4_28": {
+		"name": "HOTTA宣伝大使",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_28"
+	},
+	"Title_1_6_4_29": {
+		"name": "保安隊長",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_29"
+	},
 	"Mount_Racing_003": {
 		"name": "氷藍満開",
 		"icon": "/Game/Resources/Icon/Mount/zuoqi_saiche_128",
@@ -22608,6 +23058,12 @@
 		"icon": "/Game/Resources/Icon/Avatar/avatar_linghan",
 		"type": "AVATAR",
 		"id": "linghan"
+	},
+	"nanyin": {
+		"name": "Nan Yin",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_nanyin",
+		"type": "AVATAR",
+		"id": "nanyin"
 	},
 	"Mount_022": {
 		"name": "ミニ浮遊泡",
@@ -22688,14 +23144,68 @@
 		"id": "Avatar_103"
 	},
 	"Avatar_104": {
+		"name": "稚気笑語",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_104",
 		"type": "AVATAR",
 		"id": "Avatar_104"
 	},
 	"Avatar_105": {
+		"name": "簫の名手",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_105",
 		"type": "AVATAR",
 		"id": "Avatar_105"
+	},
+	"Avatar_106": {
+		"name": "Tahanan",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_106",
+		"type": "AVATAR",
+		"id": "Avatar_106"
+	},
+	"Avatar_107": {
+		"name": "闇夜の仮面",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_107",
+		"type": "AVATAR",
+		"id": "Avatar_107"
+	},
+	"Avatar_108": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_108",
+		"type": "AVATAR",
+		"id": "Avatar_108"
+	},
+	"Avatar_109": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_109",
+		"type": "AVATAR",
+		"id": "Avatar_109"
+	},
+	"Avatar_110": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_110",
+		"type": "AVATAR",
+		"id": "Avatar_110"
+	},
+	"Avatar_111": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_111",
+		"type": "AVATAR",
+		"id": "Avatar_111"
+	},
+	"Avatar_112": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_112",
+		"type": "AVATAR",
+		"id": "Avatar_112"
+	},
+	"Avatar_113": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_113",
+		"type": "AVATAR",
+		"id": "Avatar_113"
+	},
+	"Avatar_114": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_114",
+		"type": "AVATAR",
+		"id": "Avatar_114"
+	},
+	"Avatar_115": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_115",
+		"type": "AVATAR",
+		"id": "Avatar_115"
 	},
 	"AvatarFrame_96": {
 		"name": "龍雲玉葉",
@@ -22746,14 +23256,68 @@
 		"id": "AvatarFrame_103"
 	},
 	"AvatarFrame_104": {
+		"name": "総角垂髪",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_104",
 		"type": "FRAME",
 		"id": "AvatarFrame_104"
 	},
 	"AvatarFrame_105": {
+		"name": "藍綬褒章",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_105",
 		"type": "FRAME",
 		"id": "AvatarFrame_105"
+	},
+	"AvatarFrame_106": {
+		"name": "Tulang",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_106",
+		"type": "FRAME",
+		"id": "AvatarFrame_106"
+	},
+	"AvatarFrame_107": {
+		"name": "錦の羽珠",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107",
+		"type": "FRAME",
+		"id": "AvatarFrame_107"
+	},
+	"AvatarFrame_108": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_108",
+		"type": "FRAME",
+		"id": "AvatarFrame_108"
+	},
+	"AvatarFrame_109": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_109",
+		"type": "FRAME",
+		"id": "AvatarFrame_109"
+	},
+	"AvatarFrame_110": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_110",
+		"type": "FRAME",
+		"id": "AvatarFrame_110"
+	},
+	"AvatarFrame_111": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_111",
+		"type": "FRAME",
+		"id": "AvatarFrame_111"
+	},
+	"AvatarFrame_112": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_112",
+		"type": "FRAME",
+		"id": "AvatarFrame_112"
+	},
+	"AvatarFrame_113": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_113",
+		"type": "FRAME",
+		"id": "AvatarFrame_113"
+	},
+	"AvatarFrame_114": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_114",
+		"type": "FRAME",
+		"id": "AvatarFrame_114"
+	},
+	"AvatarFrame_115": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_115",
+		"type": "FRAME",
+		"id": "AvatarFrame_115"
 	},
 	"chat_qipao_96": {
 		"name": "破竹の勢い",
@@ -22774,47 +23338,101 @@
 		"id": "chat_qipao_98"
 	},
 	"chat_qipao_99": {
-		"name": "Petualangan Seru",
+		"name": "旅路・祝福",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_99",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_99"
 	},
 	"chat_qipao_100": {
-		"name": "Awal Mula Kehidupan",
+		"name": "新生・萌芽",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_100",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_100"
 	},
 	"chat_qipao_101": {
-		"name": "Jalanan Dingin",
+		"name": "雪歩",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_101",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_101"
 	},
 	"chat_qipao_102": {
-		"name": "Saluran Komunikasi Ignisville",
+		"name": "火州通信チャンネル",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_102",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_102"
 	},
 	"chat_qipao_103": {
-		"name": "Dengarkan Raunganku",
+		"name": "我が咆哮を聞け",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_103",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_103"
 	},
 	"chat_qipao_104": {
+		"name": "必ず約束する。",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_104",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_104"
 	},
 	"chat_qipao_105": {
+		"name": "生花の調べ",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_105",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_105"
 	},
+	"chat_qipao_106": {
+		"name": "Bilah Terpatah",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_106",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_106"
+	},
+	"chat_qipao_107": {
+		"name": "錦の巻物",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_107"
+	},
+	"chat_qipao_108": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_108",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_108"
+	},
+	"chat_qipao_109": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_109",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_109"
+	},
+	"chat_qipao_110": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_110",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_110"
+	},
+	"chat_qipao_111": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_111",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_111"
+	},
+	"chat_qipao_112": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_112",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_112"
+	},
+	"chat_qipao_113": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_113",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_113"
+	},
+	"chat_qipao_114": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_114",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_114"
+	},
+	"chat_qipao_115": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_115",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_115"
+	},
 	"animated_qipao_1": {
-		"name": "Inspirasi Puisi",
+		"name": "詩のひらめき",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_animated_qipao_1",
 		"type": "CONSUMABLE",
 		"id": "animated_qipao_1"
@@ -22903,6 +23521,204 @@
 		"type": "AVATAR",
 		"id": "moliniya"
 	},
+	"Mount_Water_007_Skin_02": {
+		"name": "虹色イッカク",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_1",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_02"
+	},
+	"Mount_Water_007_Skin_03": {
+		"name": "虹色イッカク・金",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_2",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_03"
+	},
+	"Mount_Water_007_Skin_04": {
+		"name": "虹色イッカク・緋",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_3",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_04"
+	},
+	"Mount_Water_007_Skin_05": {
+		"name": "虹色イッカク・蛍",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_4",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_05"
+	},
+	"Mount_Water_007_Skin_06": {
+		"name": "虹色イッカク・玄",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_5",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_06"
+	},
+	"nanyin_lv2": {
+		"name": "南音・覚醒",
+		"icon": "/Game/Resources/Icon/item/icon_nanyin_lv2",
+		"type": "AVATAR",
+		"id": "nanyin_lv2"
+	},
+	"linye_lv2": {
+		"name": "凛夜・覚醒",
+		"icon": "/Game/Resources/Icon/item/icon_linye_lv2",
+		"type": "AVATAR",
+		"id": "linye_lv2"
+	},
+	"feiouna_lv2": {
+		"name": "フィオナ・覚醒",
+		"icon": "/Game/Resources/Icon/item/icon_fiona_lv2",
+		"type": "AVATAR",
+		"id": "feiouna_lv2"
+	},
+	"genuonuo_lv2": {
+		"name": "グノノ・覚醒",
+		"icon": "/Game/Resources/Icon/item/icon_genuonuo_lv2",
+		"type": "AVATAR",
+		"id": "genuonuo_lv2"
+	},
+	"leibiliya_lv2": {
+		"name": "レビリア・覚醒",
+		"icon": "/Game/Resources/Icon/item/icon_leibiliya_lv2",
+		"type": "AVATAR",
+		"id": "leibiliya_lv2"
+	},
+	"liuhuo_lv2": {
+		"name": "榴火・覚醒",
+		"icon": "/Game/Resources/Icon/item/icon_liuhuo_lv2",
+		"type": "AVATAR",
+		"id": "liuhuo_lv2"
+	},
+	"yulan_lv2": {
+		"name": "玉蘭・覚醒",
+		"icon": "/Game/Resources/Icon/item/icon_yulan_lv2",
+		"type": "AVATAR",
+		"id": "yulan_lv2"
+	},
+	"aige_lv2": {
+		"name": "廃墟の旅人",
+		"icon": "/Game/Resources/Icon/item/icon_aige_lv2",
+		"type": "AVATAR",
+		"id": "aige_lv2"
+	},
+	"Item_WorldPuzzle_JiuyuCompass1": {
+		"name": "羅針盤・未坤申",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_1",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass1"
+	},
+	"Item_WorldPuzzle_JiuyuCompass2": {
+		"name": "羅針盤・丑庚寅",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_2",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass2"
+	},
+	"Item_WorldPuzzle_JiuyuCompass3": {
+		"name": "羅針盤・辰巽巳",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_3",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass3"
+	},
+	"HXXK_clue": {
+		"name": "手がかりを調べる",
+		"icon": "/Game/Resources/UI/Activity/SealedBook/item_xiansuo",
+		"type": "BARTER",
+		"id": "HXXK_clue"
+	},
+	"Item_FiveSenseRddles_Cooking1": {
+		"name": "厚切りポークリブ麺",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking18",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking1"
+	},
+	"Item_FiveSenseRddles_Cooking2": {
+		"name": "肉汁たっぷり小籠包",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking27",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking2"
+	},
+	"Item_FiveSenseRddles_Cooking3": {
+		"name": "特製茶葉蛋",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking21",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking3"
+	},
+	"Item_FiveSenseRddles_Cooking4": {
+		"name": "アツアツ酸辣湯",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking23",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking4"
+	},
+	"Item_FiveSenseRddles_Book1": {
+		"name": "『十万件の補修要項』(第一巻)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book1",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book1"
+	},
+	"Item_FiveSenseRddles_Book2": {
+		"name": "『十万件の補修要項』(第二巻)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book2",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book2"
+	},
+	"Item_FiveSenseRddles_Book3": {
+		"name": "『十万件の補修要項』(第三巻)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book3",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book3"
+	},
+	"Item_FiveSenseRddles_Book4": {
+		"name": "『十万件の補修要項』(第四巻)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book4",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book4"
+	},
+	"Item_FiveSenseRddles_Compass1": {
+		"name": "羅針盤・壊れた針",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass1",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass1"
+	},
+	"Item_FiveSenseRddles_Compass2": {
+		"name": "羅針盤の欠片・一",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass2",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass2"
+	},
+	"Item_FiveSenseRddles_Compass3": {
+		"name": "羅針盤の欠片・二",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass3",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass3"
+	},
+	"Item_FiveSenseRddles_Compass4": {
+		"name": "羅針盤の欠片・三",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass4",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass4"
+	},
+	"Item_FiveSenseRddles_Compass5": {
+		"name": "羅針盤の欠片・四",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass5",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass5"
+	},
+	"Item_FiveSenseRddles_Compass6": {
+		"name": "羅針盤の欠片・五",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass6",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass6"
+	},
+	"Item_JiuYu_quest_lingpai": {
+		"name": "辰遠の令符",
+		"icon": "/Game/Resources/Icon/JIUYU/Item_JiuYu_quest_lingpai",
+		"type": "QUEST",
+		"id": "Item_JiuYu_quest_lingpai"
+	},
+	"Mount_026": {
+		"name": "Wondrous Vessel",
+		"icon": "/Game/Resources/Icon/Mount/Mount_026",
+		"type": "MOUNT",
+		"id": "Mount_026"
+	},
 	"TicketCard01": {
 		"name": "オリオン運勢ポイント・フェーズ1",
 		"icon": "/Game/Resources/UI/Activity/SailingPlane/dianshu",
@@ -22939,53 +23755,41 @@
 		"type": "COUNT",
 		"id": "TicketCard06"
 	},
-	"HXXK_clue": {
-		"name": "Cari petunjuk",
-		"icon": "/Game/Resources/UI/Activity/item_xiansuo",
-		"type": "BARTER",
-		"id": "HXXK_clue"
-	},
-	"Avatar_107": {
-		"name": "Topeng Malam",
-		"icon": "/Game/Resources/Icon/item/Item_Avatar_107",
-		"type": "AVATAR",
-		"id": "Avatar_107"
-	},
-	"AvatarFrame_107": {
-		"name": "Gumpalan Sutra",
-		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107",
-		"type": "FRAME",
-		"id": "AvatarFrame_107"
-	},
-	"chat_qipao_107": {
-		"name": "Gulungan Hias",
-		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107",
-		"type": "CONSUMABLE",
-		"id": "chat_qipao_107"
-	},
 	"bag_chat_qipao107": {
-		"name": "Giftbox Topeng Malam",
+		"name": "「闇夜の仮面」ギフトボックス",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107",
 		"type": "GIFT",
 		"id": "bag_chat_qipao107"
 	},
-	"fashion_dress_58_4": {
-		"name": "Kilau Sutra",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
-		"type": "CONSUMABLE",
-		"id": "fashion_dress_58_4"
-	},
-	"Hat_73_4_4": {
-		"name": "Kelelawar Crimson",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157",
-		"type": "CONSUMABLE",
-		"id": "Hat_73_4_4"
-	},
 	"fashion_decoration_91_4": {
-		"name": "Iblis Cilik",
+		"name": "リトルデビル",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
 		"type": "CONSUMABLE",
 		"id": "fashion_decoration_91_4"
+	},
+	"fragment_Hat_29_4_4": {
+		"name": "かぼちゃキャンディーの欠片",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_29_4_4"
+	},
+	"GVE_BuffCoin": {
+		"name": "啓示物の欠片",
+		"icon": "/Game/Resources/Icon/item/GVE_BuffCoin",
+		"type": "BARTER",
+		"id": "GVE_BuffCoin"
+	},
+	"GVE_experience": {
+		"name": "再構築EXP",
+		"icon": "/Game/Resources/Icon/item/miwu_icon_exp",
+		"type": "CONSUMABLE",
+		"id": "GVE_experience"
+	},
+	"GVE_action": {
+		"name": "ミストクリスタル",
+		"icon": "/Game/Resources/Icon/item/miwu_icon_jingli",
+		"type": "CONSUMABLE",
+		"id": "GVE_action"
 	},
 	"Avatar_Overseas_9": {
 		"name": "不破咲・Tポーズ",
@@ -24253,8 +25057,14 @@
 		"type": "BARTER",
 		"id": "WeaponFragment_DoubleUP10_OS"
 	},
+	"WeaponFragment_DoubleUP11_OS": {
+		"name": "逆火のコイン・異能",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"type": "BARTER",
+		"id": "WeaponFragment_DoubleUP11_OS"
+	},
 	"WeaponFragment_ALLUP_OS": {
-		"name": "Flame Gold (Journey)",
+		"name": "逆火のコイン・出発",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
 		"type": "BARTER",
 		"id": "WeaponFragment_ALLUP_OS"
@@ -24379,8 +25189,14 @@
 		"type": "BARTER",
 		"id": "EquipFragment_DoubleUP10_OS"
 	},
+	"EquipFragment_DoubleUP11_OS": {
+		"name": "オーバークロックチップ・異能",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"type": "BARTER",
+		"id": "EquipFragment_DoubleUP11_OS"
+	},
 	"EquipFragment_ALLUP_OS": {
-		"name": "Overclocking Chip (Journey)",
+		"name": "オーバークロックチップ・出発",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
 		"type": "BARTER",
 		"id": "EquipFragment_ALLUP_OS"
@@ -24703,6 +25519,12 @@
 		"type": "BARTER",
 		"id": "Item_spring2023_os"
 	},
+	"Item_ThanksgivingCoin_OS": {
+		"name": "ゴールドターキー",
+		"icon": "/Game/Resources/Icon/huobi/thanksgivingcoin",
+		"type": "BARTER",
+		"id": "Item_ThanksgivingCoin_OS"
+	},
 	"choose_frag_BP7_os": {
 		"name": "通行証アルケーの欠片箱Ⅲ",
 		"icon": "/Game/Resources/Icon/item/gift_artifact_frag_ssr",
@@ -24781,6 +25603,18 @@
 		"type": "CHOOSE",
 		"id": "choose_fashion_Anniversary_OS_hat"
 	},
+	"choose_fashion_BlackFriday_OS_dress": {
+		"name": "サイボーグ・フライデーコスチューム選択宝箱",
+		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_FON_OS_dress",
+		"type": "CHOOSE",
+		"id": "choose_fashion_BlackFriday_OS_dress"
+	},
+	"choose_fashion_BlackFriday_OS_hat": {
+		"name": "髪飾り選択宝箱Ⅰ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_FON_OS_hat",
+		"type": "CHOOSE",
+		"id": "choose_fashion_BlackFriday_OS_hat"
+	},
 	"Item_OrienteeringCoin_OS_01": {
 		"name": "クイックコイン",
 		"icon": "/Game/Resources/Icon/huobi/OrienteeringCoin_01",
@@ -24830,7 +25664,7 @@
 		"id": "choose_weapon_ssr_init_OS2"
 	},
 	"choose_weapon_ssr_init_OS3": {
-		"name": "Box Senjata SSR Bebas Pilih IV",
+		"name": "SSR選択武器箱Ⅳ",
 		"icon": "/Game/ResourcesOverSea/Icon/item/choose_weapon_ssr_init_OS2",
 		"type": "CHOOSE",
 		"id": "choose_weapon_ssr_init_OS3"
@@ -24966,6 +25800,12 @@
 		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01",
 		"type": "WEAPON",
 		"id": "linghan_ice_trial_OS"
+	},
+	"nanyin_superpower_trial_OS": {
+		"name": "「紫竹」24時間",
+		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Nanyin_Superpower01",
+		"type": "WEAPON",
+		"id": "nanyin_superpower_trial_OS"
 	},
 	"bag_LizhouOpenSign_1_OS": {
 		"name": "雲海ギフトⅠ",
@@ -25153,6 +25993,12 @@
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_28_4_4_OS"
 	},
+	"fragment_Hat_71_4_4_OS": {
+		"name": "「ゴールド伝説」の欠片",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_153",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_71_4_4_OS"
+	},
 	"AvatarFrame_txcreatos_04": {
 		"name": "異なる時空",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_04i",
@@ -25279,6 +26125,12 @@
 		"type": "MATERIAL",
 		"id": "Item_Gashapon_coin_16_OS"
 	},
+	"Item_BlackFriday_coin_OS": {
+		"name": "サイボーグ・フライデーガチャコイン",
+		"icon": "/Game/Resources/Icon/huobi/gashapon_coin3",
+		"type": "MATERIAL",
+		"id": "Item_BlackFriday_coin_OS"
+	},
 	"Avatar_Overseas_26": {
 		"name": "篁・Tポーズ",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_26i",
@@ -25304,7 +26156,7 @@
 		"id": "AvatarFrame_txshikuang_01"
 	},
 	"Title_txshikuang_01": {
-		"name": "『Tower of Fantasy』公認実況者第1期",
+		"name": "公認実況者第1期",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_txshikuang_01"
@@ -25352,7 +26204,7 @@
 		"id": "Title_iwplay33_os02"
 	},
 	"Title_iwplay33_os03": {
-		"name": "DNT",
+		"name": "トリック・オア・トリート！",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_iwplay33_os03"
@@ -25418,7 +26270,7 @@
 		"id": "Title_iwplay33_os13"
 	},
 	"Title_iwplay33_os14": {
-		"name": "DNT",
+		"name": "ハッピータイム",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_iwplay33_os14"
@@ -25460,7 +26312,7 @@
 		"id": "Title_Korea33_os05"
 	},
 	"Title_Korea33_os06": {
-		"name": "DNT",
+		"name": "明けましておめでとう。",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_Korea33_os06"
@@ -25520,37 +26372,37 @@
 		"id": "AvatarFrame_PlayStation33_os02"
 	},
 	"Avatar_Overseas_28": {
-		"name": "Ling Han: T Pose",
+		"name": "凌寒・Tポーズ",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_28i",
 		"type": "AVATAR",
 		"id": "Avatar_Overseas_28"
 	},
 	"Avatar_tongyong33_os01": {
-		"name": "Mister Dracula",
+		"name": "ドラキュラ伯爵",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os01i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os01"
 	},
 	"Avatar_tongyong33_os02": {
-		"name": "Princess Woodley",
+		"name": "ミイラプリンセス",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os02i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os02"
 	},
 	"Avatar_tongyong33_os03": {
-		"name": "Little Spirit",
+		"name": "幽霊ちゃん",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os03i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os03"
 	},
 	"Avatar_tongyong33_os04": {
-		"name": "Nona Jumpy",
+		"name": "ジャンピングレディ",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os04i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os04"
 	},
 	"AvatarFrame_txcreatos_07": {
-		"name": "Hutan Azure",
+		"name": "青龍の森",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_07i",
 		"type": "FRAME",
 		"id": "AvatarFrame_txcreatos_07"
@@ -25562,16 +26414,208 @@
 		"id": "Avatar_Koreatongyong33_01"
 	},
 	"AvatarFrame_Koreatongyong33_01": {
-		"name": "Cincin Api",
+		"name": "炎輪",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Koreatongyong33_01i",
 		"type": "FRAME",
 		"id": "AvatarFrame_Koreatongyong33_01"
 	},
 	"chat_qipao_Koreatongyong33_01": {
-		"name": "Emblazen",
+		"name": "ブレイズ",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_Koreatongyong33_01"
+	},
+	"coupon60_10": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon60_10"
+	},
+	"coupon300_60": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon300_60"
+	},
+	"coupon980_150": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon980_150"
+	},
+	"coupon1980_250": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon1980_250"
+	},
+	"coupon3280_350": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon3280_350"
+	},
+	"coupon6480_650": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon6480_650"
+	},
+	"item_hjdlb_ps": {
+		"name": "ハガード研究ギフト",
+		"icon": "/Game/Resources/Icon/item/item_Box_haijiade",
+		"type": "EQUIPMENT",
+		"id": "item_hjdlb_ps"
+	},
+	"Title_PlayStation34_os01": {
+		"name": "沢州禁域の守護者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os01"
+	},
+	"Title_PlayStation34_os02": {
+		"name": "サイバー探索王",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os02"
+	},
+	"Title_PlayStation34_os03": {
+		"name": "ミラポリス先鋒",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os03"
+	},
+	"Title_PlayStation34_os04": {
+		"name": "オアシスの心",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os04"
+	},
+	"Title_PlayStation34_os05": {
+		"name": "砂漠の守護者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os05"
+	},
+	"Title_PlayStation34_os06": {
+		"name": "マリンハート",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os06"
+	},
+	"Title_PlayStation34_os07": {
+		"name": "深海探検者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os07"
+	},
+	"Title_PlayStation34_os08": {
+		"name": "深淵探検王",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os08"
+	},
+	"Title_PlayStation34_os09": {
+		"name": "深淵の道案内人",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os09"
+	},
+	"Title_PlayStation34_os10": {
+		"name": "人工島の迷子",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os10"
+	},
+	"Title_PlayStation34_os11": {
+		"name": "人工島の島主",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os11"
+	},
+	"Title_PlayStation34_os12": {
+		"name": "温かい時間",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os12"
+	},
+	"Title_PlayStation34_os13": {
+		"name": "雪夜の星",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os13"
+	},
+	"Title_PlayStation34_os14": {
+		"name": "暁の序曲",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os14"
+	},
+	"Title_Korea34_os01": {
+		"name": "DNT",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_Korea34_os01"
+	},
+	"Title_Korea34_os02": {
+		"name": "DNT",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_Korea34_os02"
+	},
+	"chat_qipao_tencent_03": {
+		"name": "パリピ",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_tencent_03",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_tencent_03"
+	},
+	"chat_qipao_ps_01": {
+		"name": "マンユエ",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_koreaMoonFestival_01",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_ps_01"
+	},
+	"Avatar_Overseas_29": {
+		"name": "南音・Tポーズ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_29i",
+		"type": "AVATAR",
+		"id": "Avatar_Overseas_29"
+	},
+	"Avatar_Overseas_30": {
+		"name": "サイボーグ・フライデー「Mi-a」",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_30i",
+		"type": "AVATAR",
+		"id": "Avatar_Overseas_30"
+	},
+	"Avatar_ps_01": {
+		"name": "タイプ-？？",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_koreaMoonFestival_01i",
+		"type": "AVATAR",
+		"id": "Avatar_ps_01"
+	},
+	"AvatarFrame_tencent_03": {
+		"name": "氷塵の剣",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_03i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_03"
+	},
+	"AvatarFrame_tencent_04": {
+		"name": "アイダ星の開拓者 3",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_04i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_04"
+	},
+	"AvatarFrame_tencent_05": {
+		"name": "週末パワー",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_05i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_05"
+	},
+	"AvatarFrame_PlayStation_02": {
+		"name": "Malam",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_koreaMoonFestival_01i",
+		"type": "FRAME",
+		"id": "AvatarFrame_PlayStation_02"
+	},
+	"Item_Festival_BadImitation_OS": {
+		"name": "ランダムウサギ変身カード",
+		"icon": "/Game/Resources/Icon/item/UI_bianshen_icon_rabbit01",
+		"type": "GIFT",
+		"id": "Item_Festival_BadImitation_OS"
 	},
 	"artifact_ssr_001": {
 		"name": "ジャイアントアーム",

@@ -239,6 +239,12 @@
 		"type": "FRAGMENT",
 		"id": "Linghan_ice_plasm"
 	},
+	"Nanyin_superpower_plasm": {
+		"name": "紫竹数据核心",
+		"icon": "/Game/Resources/Icon/item/item_weapon_upstar_",
+		"type": "FRAGMENT",
+		"id": "Nanyin_superpower_plasm"
+	},
 	"Likeability_unlock1": {
 		"name": "升格驱动-亚夏",
 		"icon": "/Game/Resources/Icon/ImitationGift/Likeability_unlock1",
@@ -449,6 +455,12 @@
 		"type": "GIFT",
 		"id": "Item_gift_2019"
 	},
+	"Item_gift_2020": {
+		"name": "炙阳围巾",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift2020",
+		"type": "GIFT",
+		"id": "Item_gift_2020"
+	},
 	"Item_gift_3001": {
 		"name": "新型游戏机",
 		"icon": "/Game/Resources/Icon/ImitationGift/gift25",
@@ -598,6 +610,24 @@
 		"icon": "/Game/Resources/Icon/ImitationGift/gift56",
 		"type": "GIFT",
 		"id": "Item_gift_3025"
+	},
+	"Item_gift_3026": {
+		"name": "水墨钢笔",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3026",
+		"type": "GIFT",
+		"id": "Item_gift_3026"
+	},
+	"Item_gift_3027": {
+		"name": "毛皮毯",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3027",
+		"type": "GIFT",
+		"id": "Item_gift_3027"
+	},
+	"Item_gift_3028": {
+		"name": "白虎冰雕",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3028",
+		"type": "GIFT",
+		"id": "Item_gift_3028"
 	},
 	"breakthrough_show": {
 		"name": "武器突破材料",
@@ -1858,6 +1888,42 @@
 		"icon": "/Game/Resources/Icon/caiyao/Permanent_Crit",
 		"type": "FOOD",
 		"id": "Item_Jiuyu_Cooking38"
+	},
+	"Item_Jiuyu_Cooking39": {
+		"name": "暖暖起泡酒",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking39",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking39"
+	},
+	"Item_Jiuyu_Cooking40": {
+		"name": "奶香杏仁糊",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking40",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking40"
+	},
+	"Item_Jiuyu_Cooking41": {
+		"name": "暖蜜柚子水",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking41",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking41"
+	},
+	"Item_Jiuyu_Cooking42": {
+		"name": "枫糖",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking42",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking42"
+	},
+	"Item_Jiuyu_Cooking43": {
+		"name": "热乎面包圈",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking43",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking43"
+	},
+	"Item_Jiuyu_Cooking44": {
+		"name": "烤红薯",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking44",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking44"
 	},
 	"Item_Cooking_1001_autouse": {
 		"name": "炒蘑菇",
@@ -3743,6 +3809,12 @@
 		"type": "BARTER",
 		"id": "Item_FishCoin"
 	},
+	"Item_BattleField_Resource": {
+		"name": "废旧刀剑",
+		"icon": "/Game/Resources/Icon/item/BattleField_Resource",
+		"type": "QUEST",
+		"id": "Item_BattleField_Resource"
+	},
 	"Blindbox_coin_03": {
 		"name": "初春印章",
 		"icon": "/Game/Resources/Icon/huobi/Blindbox_coin_01",
@@ -4356,7 +4428,7 @@
 		"id": "EquipFragment_UP41"
 	},
 	"EquipFragment_UP42": {
-		"name": "超频晶片",
+		"name": "超频晶片·蝶羽",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
 		"type": "BARTER",
 		"id": "EquipFragment_UP42"
@@ -4956,7 +5028,7 @@
 		"id": "WeaponFragment_UP41"
 	},
 	"WeaponFragment_UP42": {
-		"name": "回火铸金",
+		"name": "回火铸金·蝶羽",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
 		"type": "BARTER",
 		"id": "WeaponFragment_UP42"
@@ -5723,17 +5795,17 @@
 		"type": "GIFT",
 		"id": "gift_Mount_006_skin_medium"
 	},
-	"choose_Mount_006_skin_medium": {
-		"name": "臻选流星盒",
-		"icon": "/Game/Resources/Icon/item/liuguanglihe02",
-		"type": "GIFT",
-		"id": "choose_Mount_006_skin_medium"
-	},
 	"choose_newbpfinal_linye": {
 		"name": "影织自选箱",
 		"icon": "/Game/Resources/Icon/item/gift_newbplinye",
 		"type": "CHOOSE",
 		"id": "choose_newbpfinal_linye"
+	},
+	"choose_Mount_006_skin_medium": {
+		"name": "臻选流星盒",
+		"icon": "/Game/Resources/Icon/item/liuguanglihe02",
+		"type": "GIFT",
+		"id": "choose_Mount_006_skin_medium"
 	},
 	"choose_StrengthenStone_01": {
 		"name": "强化模组自选箱",
@@ -6283,9 +6355,15 @@
 	},
 	"choose_matrix_SSR37": {
 		"name": "凌寒意志自选箱",
-		"icon": "/Game/Resources/Icon/item/treasure_matrix_SSR37",
+		"icon": "/Game/Resources/Icon/item/treasure_matrix_ssr37",
 		"type": "CHOOSE",
 		"id": "choose_matrix_SSR37"
+	},
+	"choose_matrix_SSR38": {
+		"name": "南音意志自选箱",
+		"icon": "/Game/Resources/Icon/item/treasure_matrix_ssr38",
+		"type": "CHOOSE",
+		"id": "choose_matrix_SSR38"
 	},
 	"choose_matrix_SR1": {
 		"name": "罗贝拉格意志自选箱",
@@ -7535,6 +7613,78 @@
 		"type": "GIFT",
 		"id": "bag_LizhouOpenSign_7"
 	},
+	"bag_MidAutumnFestival_1": {
+		"name": "中秋礼盒Ⅰ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_1"
+	},
+	"bag_MidAutumnFestival_2": {
+		"name": "中秋礼盒Ⅱ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_2"
+	},
+	"bag_MidAutumnFestival_3": {
+		"name": "中秋礼盒Ⅲ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_3"
+	},
+	"bag_MidAutumnFestival_4": {
+		"name": "中秋礼盒Ⅳ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_4"
+	},
+	"bag_MidAutumnFestival_5": {
+		"name": "中秋礼盒Ⅴ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_5"
+	},
+	"bag_MidAutumnFestival_6": {
+		"name": "中秋礼盒Ⅵ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_6"
+	},
+	"bag_MidAutumnFestival_7": {
+		"name": "中秋礼盒Ⅶ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_7"
+	},
+	"bag_MidAutumnFestival_8": {
+		"name": "中秋礼盒Ⅷ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_8"
+	},
+	"bag_MidAutumnFestival_9": {
+		"name": "中秋礼盒Ⅸ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_9"
+	},
+	"bag_MidAutumnFestival_10": {
+		"name": "中秋礼盒Ⅹ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_10"
+	},
+	"bag_MidAutumnFestival_11": {
+		"name": "中秋礼盒Ⅺ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_11"
+	},
+	"bag_MidAutumnFestival_12": {
+		"name": "中秋礼盒Ⅻ",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_12"
+	},
 	"gift_equip_white": {
 		"name": "随机装备箱",
 		"icon": "/Game/Resources/Icon/item/treasure_random",
@@ -7702,6 +7852,12 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f38",
 		"type": "GIFT",
 		"id": "bag_dress_37"
+	},
+	"bag_Spokesperson": {
+		"name": "代言人每日礼包",
+		"icon": "/Game/Resources/Icon/item/Mysterious_Box",
+		"type": "GIFT",
+		"id": "bag_Spokesperson"
 	},
 	"bag_gashapon_01": {
 		"name": "白鲸狂欢礼盒",
@@ -8027,6 +8183,12 @@
 		"type": "GIFT",
 		"id": "bag_CobaltBlue_gameshop"
 	},
+	"EnergyGetItem_ticket": {
+		"name": "好礼券",
+		"icon": "/Game/Resources/Icon/huobi/item_ticket",
+		"type": "MATERIAL",
+		"id": "EnergyGetItem_ticket"
+	},
 	"item_ticket_02": {
 		"name": "特种凭证",
 		"icon": "/Game/Resources/Icon/huobi/item_ticket_02",
@@ -8068,6 +8230,12 @@
 		"icon": "/Game/Resources/Icon/huobi/item_ticket_Linghan_ice",
 		"type": "MATERIAL",
 		"id": "item_ticket_Linghan_ice"
+	},
+	"item_ticket_Nanyin_superpower": {
+		"name": "特种凭证·乐奏箫韶",
+		"icon": "/Game/Resources/Icon/huobi/item_ticket_Nanyin_superpower",
+		"type": "MATERIAL",
+		"id": "item_ticket_Nanyin_superpower"
 	},
 	"fragment_artifact_ssr_001": {
 		"name": "巨擎手臂碎片",
@@ -9355,7 +9523,7 @@
 	},
 	"Harvest_Fishes_001": {
 		"name": "银鲈鱼",
-		"icon": "/Game/Resources/Icon/shicai/Item_Fishes_005",
+		"icon": "/Game/Resources/Icon/shicai/Item_Fishes_001",
 		"type": "FOOD",
 		"id": "Harvest_Fishes_001"
 	},
@@ -9622,6 +9790,12 @@
 		"icon": "/Game/Resources/Icon/huobi/xingyuan",
 		"type": "MATERIAL",
 		"id": "Energy_Tower27"
+	},
+	"Energy_Tower28": {
+		"name": "兑州禁地探索值",
+		"icon": "/Game/Resources/Icon/huobi/xingyuan",
+		"type": "MATERIAL",
+		"id": "Energy_Tower28"
 	},
 	"Energy_Tower9_1": {
 		"name": "沙暴地探索值-灰域",
@@ -10619,6 +10793,12 @@
 		"type": "CONSUMABLE",
 		"id": "fashion_dress_57_4"
 	},
+	"fashion_dress_58_4": {
+		"name": "织锦璎璃",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"type": "CONSUMABLE",
+		"id": "fashion_dress_58_4"
+	},
 	"fragment_bag_chat_qipao91": {
 		"name": "「似是故人来」碎片",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_91",
@@ -10703,17 +10883,17 @@
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_44_4_4"
 	},
+	"fragment_Hat_56_4_4": {
+		"name": "丰收之角碎片",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_128",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_56_4_4"
+	},
 	"fragment_Hat_70_4_4": {
 		"name": "雪绒的花碎片",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_146",
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_70_4_4"
-	},
-	"fragment_Hat_29_4_4": {
-		"name": "糖果南瓜碎片",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101",
-		"type": "FRAGMENT",
-		"id": "fragment_Hat_29_4_4"
 	},
 	"fragment_fashion_decoration_74_4": {
 		"name": "困惑目镜碎片",
@@ -10751,11 +10931,11 @@
 		"type": "FRAGMENT",
 		"id": "fragment_fashion_decoration_86_4"
 	},
-	"fragment_fashion_decoration_91_4": {
-		"name": "小小恶魔碎片",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+	"fragment_fashion_decoration_90_4": {
+		"name": "共婵娟碎片",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_90",
 		"type": "FRAGMENT",
-		"id": "fragment_fashion_decoration_91_4"
+		"id": "fragment_fashion_decoration_90_4"
 	},
 	"fragment_makeup_face_053": {
 		"name": "族群象征碎片",
@@ -11118,8 +11298,8 @@
 		"id": "Hat_67_4_4"
 	},
 	"Hat_68_4_4": {
-		"name": "Hat_68_4_4_name",
-		"icon": "None",
+		"name": "晨风",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_156",
 		"type": "CONSUMABLE",
 		"id": "Hat_68_4_4"
 	},
@@ -11134,6 +11314,24 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_146",
 		"type": "CONSUMABLE",
 		"id": "Hat_70_4_4"
+	},
+	"Hat_71_4_4": {
+		"name": "金色传说",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_153",
+		"type": "CONSUMABLE",
+		"id": "Hat_71_4_4"
+	},
+	"Hat_72_4_4": {
+		"name": "堂皇礼帽",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_150",
+		"type": "CONSUMABLE",
+		"id": "Hat_72_4_4"
+	},
+	"Hat_73_4_4": {
+		"name": "赤璃蝠",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157",
+		"type": "CONSUMABLE",
+		"id": "Hat_73_4_4"
 	},
 	"fashion_decoration_1_1": {
 		"name": "飞行员(1天)",
@@ -11777,6 +11975,18 @@
 		"type": "CONSUMABLE",
 		"id": "fashion_decoration_88_4"
 	},
+	"fashion_decoration_89_4": {
+		"name": "刑天煌轮",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_89",
+		"type": "CONSUMABLE",
+		"id": "fashion_decoration_89_4"
+	},
+	"fashion_decoration_90_4": {
+		"name": "共婵娟",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_90",
+		"type": "CONSUMABLE",
+		"id": "fashion_decoration_90_4"
+	},
 	"fashion_medal_Test": {
 		"name": "浮游扫描仪",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_127",
@@ -11920,6 +12130,12 @@
 		"icon": "/Game/Resources/Icon/huobi/Gem_Linghan_ice",
 		"type": "MATERIAL",
 		"id": "Item_Gem_Linghan_ice"
+	},
+	"Item_Gem_Nanyin_superpower": {
+		"name": "赤核·乐奏箫韶",
+		"icon": "/Game/Resources/Icon/huobi/Gem_Nanyin_superpower",
+		"type": "MATERIAL",
+		"id": "Item_Gem_Nanyin_superpower"
 	},
 	"Item_Area2Medicine": {
 		"name": "麻醉剂",
@@ -12805,7 +13021,7 @@
 	},
 	"Item_q103036_2": {
 		"name": "烟雾弹",
-		"icon": "/Game/Resources/Icon/item/WeaponFragment_",
+		"icon": "/Game/Resources/Icon/item/Wormhole_badge_01",
 		"type": "QUEST",
 		"id": "Item_q103036_2"
 	},
@@ -16311,10 +16527,16 @@
 		"id": "bag_chat_qipao101"
 	},
 	"bag_chat_qipao104": {
-		"name": "「 」礼盒",
+		"name": "「稚气笑语」礼盒",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao104",
 		"type": "GIFT",
 		"id": "bag_chat_qipao104"
+	},
+	"bag_chat_qipao105": {
+		"name": "「洞箫名家」礼盒",
+		"icon": "/Game/Resources/Icon/item/bag_chat_qipao105",
+		"type": "GIFT",
+		"id": "bag_chat_qipao105"
 	},
 	"bag_emoji_1": {
 		"name": "幻塔拟态研究Ⅰ",
@@ -18003,16 +18225,10 @@
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
-		"name": "大师币",
+		"name": "守护者勋章",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01",
 		"type": "BARTER",
 		"id": "Item_TowerDefenceCoin_01"
-	},
-	"Item_MegaGuruCoin": {
-		"name": "大师币",
-		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01",
-		"type": "BARTER",
-		"id": "Item_MegaGuruCoin"
 	},
 	"Item_SummerCoin_01": {
 		"name": "热浪铸币",
@@ -18050,17 +18266,29 @@
 		"type": "BARTER",
 		"id": "Item_MowingCoin"
 	},
+	"Item_WeaponSurvivalCoin": {
+		"name": "金枫徽",
+		"icon": "/Game/Resources/Icon/huobi/WeaponSurvivalCoin",
+		"type": "BARTER",
+		"id": "Item_WeaponSurvivalCoin"
+	},
+	"Item_TheAsianGamesCoin": {
+		"name": "挑战者奖章",
+		"icon": "/Game/Resources/Icon/huobi/TheAsianGamesCoin",
+		"type": "BARTER",
+		"id": "Item_TheAsianGamesCoin"
+	},
 	"Item_MidAutumnCoin_01": {
-		"name": "果汁",
+		"name": "星沙",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle",
 		"type": "BARTER",
 		"id": "Item_MidAutumnCoin_01"
 	},
-	"Item_JuiceCoin": {
-		"name": "果汁",
-		"icon": "/Game/Resources/Icon/item/Item_Drink_003",
-		"type": "BARTER",
-		"id": "Item_JuiceCoin"
+	"Item_MidAutumnLantern": {
+		"name": "银月焰",
+		"icon": "/Game/Resources/Icon/item/WeaponFragment_",
+		"type": "MATERIAL",
+		"id": "Item_MidAutumnLantern"
 	},
 	"Item_AutumnCoin_01": {
 		"name": "金枫铸币",
@@ -18157,12 +18385,6 @@
 		"icon": "/Game/Resources/Icon/item/HalloweenCoin_04",
 		"type": "BARTER",
 		"id": "Item_HalloweenCoin_04"
-	},
-	"Item_FollowGhostCoin": {
-		"name": "糖苹果",
-		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin",
-		"type": "BARTER",
-		"id": "Item_FollowGhostCoin"
 	},
 	"Item_Aida_token": {
 		"name": "均衡铸币",
@@ -19387,6 +19609,18 @@
 		"icon": "/Game/Resources/Icon/item/fashion_LBLY_weapon",
 		"type": "CONSUMABLE",
 		"id": "imitation_fashion_48_w"
+	},
+	"imitation_fashion_49": {
+		"name": "澄泠幽韵",
+		"icon": "/Game/Resources/Icon/item/fashion_nanyin",
+		"type": "CONSUMABLE",
+		"id": "imitation_fashion_49"
+	},
+	"imitation_fashion_49_w": {
+		"name": "清籁",
+		"icon": "/Game/Resources/Icon/item/fashion_nanyin_w",
+		"type": "CONSUMABLE",
+		"id": "imitation_fashion_49_w"
 	},
 	"imitation_fashion_50": {
 		"name": "「夏佐」",
@@ -21170,11 +21404,23 @@
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_004"
 	},
+	"Avatar_FishKing_Jiuyu_005": {
+		"name": "庚墨鳜",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_005",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_005"
+	},
 	"Avatar_FishKing_Jiuyu_008": {
 		"name": "胭脂鱼",
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_008",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_008"
+	},
+	"Avatar_FishKing_Jiuyu_009": {
+		"name": "熔岩文金",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_009",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_009"
 	},
 	"Avatar_FishKing_Jiuyu_012": {
 		"name": "闪纹虾虎",
@@ -21200,11 +21446,29 @@
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_016"
 	},
+	"Avatar_FishKing_Jiuyu_018": {
+		"name": "珍珠赤雷龙",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_018",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_018"
+	},
+	"Avatar_FishKing_Jiuyu_019": {
+		"name": "玄冰斗鱼",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_019",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_019"
+	},
 	"Avatar_FishKing_Jiuyu_020": {
 		"name": "彩虹雷鳢",
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_020",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_020"
+	},
+	"Avatar_FishKing_Jiuyu_022": {
+		"name": "松叶锦鲤",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_022",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_022"
 	},
 	"Avatar_FishKing_Jiuyu_026": {
 		"name": "虹鳞鲷",
@@ -21235,6 +21499,12 @@
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_031",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_031"
+	},
+	"Avatar_FishKing_Jiuyu_032": {
+		"name": "玻璃猫鱼",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_032",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_032"
 	},
 	"Avatar_FishKing_Jiuyu_035": {
 		"name": "锦鲤",
@@ -22484,6 +22754,12 @@
 		"type": "CONSUMABLE",
 		"id": "Title_1_1_22_1"
 	},
+	"Title_1_1_23_1": {
+		"name": "兑州玄渊纪",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_1_23_1"
+	},
 	"Avatar_suoni": {
 		"name": "智能管家2代",
 		"icon": "/Game/Resources/Icon/Avatar/Item_Avatar_suoni",
@@ -22610,6 +22886,180 @@
 		"type": "CONSUMABLE",
 		"id": "Title_1_8_0_5"
 	},
+	"Title_1_6_4_1": {
+		"name": "银岸智者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_1"
+	},
+	"Title_1_6_4_2": {
+		"name": "镜月醉客",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_2"
+	},
+	"Title_1_6_4_3": {
+		"name": "香汤行者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_3"
+	},
+	"Title_1_6_4_4": {
+		"name": "美食糖匠",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_4"
+	},
+	"Title_1_6_4_5": {
+		"name": "没说就是零卡",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_5"
+	},
+	"Title_1_6_4_6": {
+		"name": "鸭鸭学语",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_6"
+	},
+	"Title_1_6_4_7": {
+		"name": "天堂放映室",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_7"
+	},
+	"Title_1_6_4_8": {
+		"name": "常乐开怀",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_8"
+	},
+	"Title_1_6_4_9": {
+		"name": "孤独的美食家",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_9"
+	},
+	"Title_1_6_4_10": {
+		"name": "Future1",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_10"
+	},
+	"Title_1_6_4_11": {
+		"name": "热情的沙漠",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_11"
+	},
+	"Title_1_6_4_12": {
+		"name": "吃我一pia叽",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_12"
+	},
+	"Title_1_6_4_13": {
+		"name": "底大一级压死人",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_13"
+	},
+	"Title_1_6_4_14": {
+		"name": "镜都之眼",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_14"
+	},
+	"Title_1_6_4_15": {
+		"name": "银河旅行者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_15"
+	},
+	"Title_1_6_4_16": {
+		"name": "修勾猫咪都爱我",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_16"
+	},
+	"Title_1_6_4_17": {
+		"name": "时尚魔头",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_17"
+	},
+	"Title_1_6_4_18": {
+		"name": "天河街之狼",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_18"
+	},
+	"Title_1_6_4_19": {
+		"name": "迈达斯之手",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_19"
+	},
+	"Title_1_6_4_20": {
+		"name": "童叟无欺",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_20"
+	},
+	"Title_1_6_4_21": {
+		"name": "我很美我知道",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_21"
+	},
+	"Title_1_6_4_22": {
+		"name": "九转还魂",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_22"
+	},
+	"Title_1_6_4_23": {
+		"name": "年度最佳主人",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_23"
+	},
+	"Title_1_6_4_24": {
+		"name": "排忧杂货铺",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_24"
+	},
+	"Title_1_6_4_25": {
+		"name": "龙的传人",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_25"
+	},
+	"Title_1_6_4_26": {
+		"name": "MEANT TO BE",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_26"
+	},
+	"Title_1_6_4_27": {
+		"name": "回到原点",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_27"
+	},
+	"Title_1_6_4_28": {
+		"name": "HOTTA代言人",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_28"
+	},
+	"Title_1_6_4_29": {
+		"name": "安保队长",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_29"
+	},
 	"Mount_Racing_003": {
 		"name": "冰蓝绽放",
 		"icon": "/Game/Resources/Icon/Mount/zuoqi_saiche_128",
@@ -22627,6 +23077,12 @@
 		"icon": "/Game/Resources/Icon/Avatar/avatar_linghan",
 		"type": "AVATAR",
 		"id": "linghan"
+	},
+	"nanyin": {
+		"name": "南音",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_nanyin",
+		"type": "AVATAR",
+		"id": "nanyin"
 	},
 	"Mount_022": {
 		"name": "迷你浮斓泡影",
@@ -22707,16 +23163,76 @@
 		"id": "Avatar_103"
 	},
 	"Avatar_104": {
-		"name": "104name",
+		"name": "稚气笑语",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_104",
 		"type": "AVATAR",
 		"id": "Avatar_104"
 	},
 	"Avatar_105": {
-		"name": "105name",
+		"name": "洞箫名家",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_105",
 		"type": "AVATAR",
 		"id": "Avatar_105"
+	},
+	"Avatar_106": {
+		"name": "刑徒",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_106",
+		"type": "AVATAR",
+		"id": "Avatar_106"
+	},
+	"Avatar_107": {
+		"name": "禁夜假面",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_107",
+		"type": "AVATAR",
+		"id": "Avatar_107"
+	},
+	"Avatar_108": {
+		"name": "108",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_108",
+		"type": "AVATAR",
+		"id": "Avatar_108"
+	},
+	"Avatar_109": {
+		"name": "109",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_109",
+		"type": "AVATAR",
+		"id": "Avatar_109"
+	},
+	"Avatar_110": {
+		"name": "110",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_110",
+		"type": "AVATAR",
+		"id": "Avatar_110"
+	},
+	"Avatar_111": {
+		"name": "111",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_111",
+		"type": "AVATAR",
+		"id": "Avatar_111"
+	},
+	"Avatar_112": {
+		"name": "112",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_112",
+		"type": "AVATAR",
+		"id": "Avatar_112"
+	},
+	"Avatar_113": {
+		"name": "113",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_113",
+		"type": "AVATAR",
+		"id": "Avatar_113"
+	},
+	"Avatar_114": {
+		"name": "114",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_114",
+		"type": "AVATAR",
+		"id": "Avatar_114"
+	},
+	"Avatar_115": {
+		"name": "115",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_115",
+		"type": "AVATAR",
+		"id": "Avatar_115"
 	},
 	"AvatarFrame_96": {
 		"name": "龙云玉叶",
@@ -22767,16 +23283,76 @@
 		"id": "AvatarFrame_103"
 	},
 	"AvatarFrame_104": {
-		"name": "104name",
+		"name": "总角垂髫",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_104",
 		"type": "FRAME",
 		"id": "AvatarFrame_104"
 	},
 	"AvatarFrame_105": {
-		"name": "105name",
+		"name": "蓝绡青绶",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_105",
 		"type": "FRAME",
 		"id": "AvatarFrame_105"
+	},
+	"AvatarFrame_106": {
+		"name": "骸骨",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_106",
+		"type": "FRAME",
+		"id": "AvatarFrame_106"
+	},
+	"AvatarFrame_107": {
+		"name": "织锦羽珞",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107",
+		"type": "FRAME",
+		"id": "AvatarFrame_107"
+	},
+	"AvatarFrame_108": {
+		"name": "Avatarframe_108_name",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_108",
+		"type": "FRAME",
+		"id": "AvatarFrame_108"
+	},
+	"AvatarFrame_109": {
+		"name": "Avatarframe_109_name",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_109",
+		"type": "FRAME",
+		"id": "AvatarFrame_109"
+	},
+	"AvatarFrame_110": {
+		"name": "Avatarframe_110_name",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_110",
+		"type": "FRAME",
+		"id": "AvatarFrame_110"
+	},
+	"AvatarFrame_111": {
+		"name": "Avatarframe_111_name",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_111",
+		"type": "FRAME",
+		"id": "AvatarFrame_111"
+	},
+	"AvatarFrame_112": {
+		"name": "Avatarframe_112_name",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_112",
+		"type": "FRAME",
+		"id": "AvatarFrame_112"
+	},
+	"AvatarFrame_113": {
+		"name": "Avatarframe_113_name",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_113",
+		"type": "FRAME",
+		"id": "AvatarFrame_113"
+	},
+	"AvatarFrame_114": {
+		"name": "Avatarframe_114_name",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_114",
+		"type": "FRAME",
+		"id": "AvatarFrame_114"
+	},
+	"AvatarFrame_115": {
+		"name": "Avatarframe_115_name",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_115",
+		"type": "FRAME",
+		"id": "AvatarFrame_115"
 	},
 	"chat_qipao_96": {
 		"name": "破竹之势",
@@ -22827,16 +23403,76 @@
 		"id": "chat_qipao_103"
 	},
 	"chat_qipao_104": {
-		"name": "104name",
+		"name": "一言为定",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_104",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_104"
 	},
 	"chat_qipao_105": {
-		"name": "105name",
+		"name": "生花绝韵",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_105",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_105"
+	},
+	"chat_qipao_106": {
+		"name": "残刃",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_106",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_106"
+	},
+	"chat_qipao_107": {
+		"name": "璎璃丝卷",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_107"
+	},
+	"chat_qipao_108": {
+		"name": "chat_qipao_108_name",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_108",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_108"
+	},
+	"chat_qipao_109": {
+		"name": "chat_qipao_109_name",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_109",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_109"
+	},
+	"chat_qipao_110": {
+		"name": "chat_qipao_110_name",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_110",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_110"
+	},
+	"chat_qipao_111": {
+		"name": "chat_qipao_111_name",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_111",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_111"
+	},
+	"chat_qipao_112": {
+		"name": "chat_qipao_112_name",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_112",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_112"
+	},
+	"chat_qipao_113": {
+		"name": "chat_qipao_113_name",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_113",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_113"
+	},
+	"chat_qipao_114": {
+		"name": "chat_qipao_114_name",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_114",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_114"
+	},
+	"chat_qipao_115": {
+		"name": "chat_qipao_115_name",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_115",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_115"
 	},
 	"animated_qipao_1": {
 		"name": "诗怀逸兴",
@@ -22928,6 +23564,204 @@
 		"type": "AVATAR",
 		"id": "moliniya"
 	},
+	"Mount_Water_007_Skin_02": {
+		"name": "幻虹豚",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_1",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_02"
+	},
+	"Mount_Water_007_Skin_03": {
+		"name": "幻虹豚·金",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_2",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_03"
+	},
+	"Mount_Water_007_Skin_04": {
+		"name": "幻虹豚·绯",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_3",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_04"
+	},
+	"Mount_Water_007_Skin_05": {
+		"name": "幻虹豚·莹",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_4",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_05"
+	},
+	"Mount_Water_007_Skin_06": {
+		"name": "幻虹豚·玄",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_5",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_06"
+	},
+	"nanyin_lv2": {
+		"name": "南音·觉醒",
+		"icon": "/Game/Resources/Icon/item/icon_nanyin_lv2",
+		"type": "AVATAR",
+		"id": "nanyin_lv2"
+	},
+	"linye_lv2": {
+		"name": "凛夜·觉醒",
+		"icon": "/Game/Resources/Icon/item/icon_linye_lv2",
+		"type": "AVATAR",
+		"id": "linye_lv2"
+	},
+	"feiouna_lv2": {
+		"name": "菲欧娜·觉醒",
+		"icon": "/Game/Resources/Icon/item/icon_fiona_lv2",
+		"type": "AVATAR",
+		"id": "feiouna_lv2"
+	},
+	"genuonuo_lv2": {
+		"name": "格诺诺·觉醒",
+		"icon": "/Game/Resources/Icon/item/icon_genuonuo_lv2",
+		"type": "AVATAR",
+		"id": "genuonuo_lv2"
+	},
+	"leibiliya_lv2": {
+		"name": "蕾比莉亚·觉醒",
+		"icon": "/Game/Resources/Icon/item/icon_leibiliya_lv2",
+		"type": "AVATAR",
+		"id": "leibiliya_lv2"
+	},
+	"liuhuo_lv2": {
+		"name": "榴火·觉醒",
+		"icon": "/Game/Resources/Icon/item/icon_liuhuo_lv2",
+		"type": "AVATAR",
+		"id": "liuhuo_lv2"
+	},
+	"yulan_lv2": {
+		"name": "玉兰·觉醒",
+		"icon": "/Game/Resources/Icon/item/icon_yulan_lv2",
+		"type": "AVATAR",
+		"id": "yulan_lv2"
+	},
+	"aige_lv2": {
+		"name": "废土行者",
+		"icon": "/Game/Resources/Icon/item/icon_aige_lv2",
+		"type": "AVATAR",
+		"id": "aige_lv2"
+	},
+	"Item_WorldPuzzle_JiuyuCompass1": {
+		"name": "罗经盘·未坤申",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_1",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass1"
+	},
+	"Item_WorldPuzzle_JiuyuCompass2": {
+		"name": "罗经盘·丑庚寅",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_2",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass2"
+	},
+	"Item_WorldPuzzle_JiuyuCompass3": {
+		"name": "罗经盘·辰巽巳",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_3",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass3"
+	},
+	"HXXK_clue": {
+		"name": "调查线索",
+		"icon": "/Game/Resources/UI/Activity/SealedBook/item_xiansuo",
+		"type": "BARTER",
+		"id": "HXXK_clue"
+	},
+	"Item_FiveSenseRddles_Cooking1": {
+		"name": "厚切大排面",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking18",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking1"
+	},
+	"Item_FiveSenseRddles_Cooking2": {
+		"name": "爆汁小笼包",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking27",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking2"
+	},
+	"Item_FiveSenseRddles_Cooking3": {
+		"name": "大力茶叶蛋",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking21",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking3"
+	},
+	"Item_FiveSenseRddles_Cooking4": {
+		"name": "火热酸辣粉",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking23",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking4"
+	},
+	"Item_FiveSenseRddles_Book1": {
+		"name": "《十万个修补精要》（册一）",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book1",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book1"
+	},
+	"Item_FiveSenseRddles_Book2": {
+		"name": "《十万个修补精要》（册二）",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book2",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book2"
+	},
+	"Item_FiveSenseRddles_Book3": {
+		"name": "《十万个修补精要》（册三）",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book3",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book3"
+	},
+	"Item_FiveSenseRddles_Book4": {
+		"name": "《十万个修补精要》（册四）",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book4",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book4"
+	},
+	"Item_FiveSenseRddles_Compass1": {
+		"name": "罗经盘 · 破碎的指针",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass1",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass1"
+	},
+	"Item_FiveSenseRddles_Compass2": {
+		"name": "罗经盘 · 碎片一",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass2",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass2"
+	},
+	"Item_FiveSenseRddles_Compass3": {
+		"name": "罗经盘 · 碎片二",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass3",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass3"
+	},
+	"Item_FiveSenseRddles_Compass4": {
+		"name": "罗经盘 · 碎片三",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass4",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass4"
+	},
+	"Item_FiveSenseRddles_Compass5": {
+		"name": "罗经盘 · 碎片四",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass5",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass5"
+	},
+	"Item_FiveSenseRddles_Compass6": {
+		"name": "罗经盘 · 碎片五",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass6",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass6"
+	},
+	"Item_JiuYu_quest_lingpai": {
+		"name": "辰远的令符",
+		"icon": "/Game/Resources/Icon/JIUYU/Item_JiuYu_quest_lingpai",
+		"type": "QUEST",
+		"id": "Item_JiuYu_quest_lingpai"
+	},
+	"Mount_026": {
+		"name": "奇行艇",
+		"icon": "/Game/Resources/Icon/Mount/Mount_026",
+		"type": "MOUNT",
+		"id": "Mount_026"
+	},
 	"TicketCard01": {
 		"name": "猎户星运点·一期",
 		"icon": "/Game/Resources/UI/Activity/SailingPlane/dianshu",
@@ -22964,53 +23798,41 @@
 		"type": "COUNT",
 		"id": "TicketCard06"
 	},
-	"HXXK_clue": {
-		"name": "调查线索",
-		"icon": "/Game/Resources/UI/Activity/item_xiansuo",
-		"type": "BARTER",
-		"id": "HXXK_clue"
-	},
-	"Avatar_107": {
-		"name": "禁夜假面",
-		"icon": "/Game/Resources/Icon/item/Item_Avatar_107",
-		"type": "AVATAR",
-		"id": "Avatar_107"
-	},
-	"AvatarFrame_107": {
-		"name": "织锦羽珞",
-		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107",
-		"type": "FRAME",
-		"id": "AvatarFrame_107"
-	},
-	"chat_qipao_107": {
-		"name": "璎璃丝卷",
-		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107",
-		"type": "CONSUMABLE",
-		"id": "chat_qipao_107"
-	},
 	"bag_chat_qipao107": {
 		"name": "「禁夜假面」礼盒",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107",
 		"type": "GIFT",
 		"id": "bag_chat_qipao107"
 	},
-	"fashion_dress_58_4": {
-		"name": "织锦璎璃",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
-		"type": "CONSUMABLE",
-		"id": "fashion_dress_58_4"
-	},
-	"Hat_73_4_4": {
-		"name": "赤璃蝠",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157",
-		"type": "CONSUMABLE",
-		"id": "Hat_73_4_4"
-	},
 	"fashion_decoration_91_4": {
 		"name": "小小恶魔",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
 		"type": "CONSUMABLE",
 		"id": "fashion_decoration_91_4"
+	},
+	"fragment_Hat_29_4_4": {
+		"name": "糖果南瓜碎片",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_29_4_4"
+	},
+	"GVE_BuffCoin": {
+		"name": "启世物碎片",
+		"icon": "/Game/Resources/Icon/item/GVE_BuffCoin",
+		"type": "BARTER",
+		"id": "GVE_BuffCoin"
+	},
+	"GVE_experience": {
+		"name": "重构经验",
+		"icon": "/Game/Resources/Icon/item/miwu_icon_exp",
+		"type": "CONSUMABLE",
+		"id": "GVE_experience"
+	},
+	"GVE_action": {
+		"name": "雾晶",
+		"icon": "/Game/Resources/Icon/item/miwu_icon_jingli",
+		"type": "CONSUMABLE",
+		"id": "GVE_action"
 	},
 	"Avatar_Overseas_9": {
 		"name": "不破咲·T pose",
@@ -24398,6 +25220,12 @@
 		"type": "BARTER",
 		"id": "WeaponFragment_DoubleUP10_OS"
 	},
+	"WeaponFragment_DoubleUP11_OS": {
+		"name": "回火铸金·异能",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"type": "BARTER",
+		"id": "WeaponFragment_DoubleUP11_OS"
+	},
 	"WeaponFragment_ALLUP_OS": {
 		"name": "回火铸金·启程",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
@@ -24523,6 +25351,12 @@
 		"icon": "/Game/ResourcesOverSea/Icon/item/matrixfragment_up_ice_OS",
 		"type": "BARTER",
 		"id": "EquipFragment_DoubleUP10_OS"
+	},
+	"EquipFragment_DoubleUP11_OS": {
+		"name": "超频晶片·异能",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"type": "BARTER",
+		"id": "EquipFragment_DoubleUP11_OS"
 	},
 	"EquipFragment_ALLUP_OS": {
 		"name": "超频晶片·启程",
@@ -24837,7 +25671,7 @@
 		"id": "Title_epic_os01"
 	},
 	"Item_MidAutumnCoin_OS": {
-		"name": "果汁",
+		"name": "星沙",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle",
 		"type": "BARTER",
 		"id": "Item_MidAutumnCoin_OS"
@@ -24847,6 +25681,12 @@
 		"icon": "/Game/Resources/Icon/huobi/xingyunbi",
 		"type": "BARTER",
 		"id": "Item_spring2023_os"
+	},
+	"Item_ThanksgivingCoin_OS": {
+		"name": "黄金火鸡腿",
+		"icon": "/Game/Resources/Icon/huobi/thanksgivingcoin",
+		"type": "BARTER",
+		"id": "Item_ThanksgivingCoin_OS"
 	},
 	"choose_frag_BP7_os": {
 		"name": "通行证源器碎片箱Ⅲ",
@@ -24925,6 +25765,18 @@
 		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_Anniversary_OS_hat",
 		"type": "CHOOSE",
 		"id": "choose_fashion_Anniversary_OS_hat"
+	},
+	"choose_fashion_BlackFriday_OS_dress": {
+		"name": "赛博周五时装自选箱",
+		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_FON_OS_dress",
+		"type": "CHOOSE",
+		"id": "choose_fashion_BlackFriday_OS_dress"
+	},
+	"choose_fashion_BlackFriday_OS_hat": {
+		"name": "头饰自选箱Ⅰ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_FON_OS_hat",
+		"type": "CHOOSE",
+		"id": "choose_fashion_BlackFriday_OS_hat"
 	},
 	"Item_OrienteeringCoin_OS_01": {
 		"name": "急速币",
@@ -25112,6 +25964,12 @@
 		"type": "WEAPON",
 		"id": "linghan_ice_trial_OS"
 	},
+	"nanyin_superpower_trial_OS": {
+		"name": "紫竹「24H」",
+		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Nanyin_Superpower01",
+		"type": "WEAPON",
+		"id": "nanyin_superpower_trial_OS"
+	},
 	"bag_LizhouOpenSign_1_OS": {
 		"name": "云海礼盒Ⅰ",
 		"icon": "/Game/Resources/Icon/item/treasure_SpringFestivalSign",
@@ -25298,6 +26156,12 @@
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_28_4_4_OS"
 	},
+	"fragment_Hat_71_4_4_OS": {
+		"name": "「金色传说」碎片",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_153",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_71_4_4_OS"
+	},
 	"AvatarFrame_txcreatos_04": {
 		"name": "异域时空",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_04i",
@@ -25423,6 +26287,12 @@
 		"icon": "/Game/Resources/Icon/huobi/gashapon_coin3",
 		"type": "MATERIAL",
 		"id": "Item_Gashapon_coin_16_OS"
+	},
+	"Item_BlackFriday_coin_OS": {
+		"name": "赛博周五扭蛋币",
+		"icon": "/Game/Resources/Icon/huobi/gashapon_coin3",
+		"type": "MATERIAL",
+		"id": "Item_BlackFriday_coin_OS"
 	},
 	"Avatar_Overseas_26": {
 		"name": "篁·T Pose",
@@ -25717,6 +26587,204 @@
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_Koreatongyong33_01"
+	},
+	"coupon60_10": {
+		"name": "10钛晶抵扣券（满60可用）",
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon60_10"
+	},
+	"coupon300_60": {
+		"name": "60钛晶抵扣券（满300可用）",
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon300_60"
+	},
+	"coupon980_150": {
+		"name": "150钛晶抵扣券（满980可用）",
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon980_150"
+	},
+	"coupon1980_250": {
+		"name": "250钛晶抵扣券（满1980可用）",
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon1980_250"
+	},
+	"coupon3280_350": {
+		"name": "350钛晶抵扣券（满3280可用）",
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon3280_350"
+	},
+	"coupon6480_650": {
+		"name": "650钛晶抵扣券（满6480可用）",
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon6480_650"
+	},
+	"item_hjdlb_ps": {
+		"name": "海嘉德科研礼包",
+		"icon": "/Game/Resources/Icon/item/item_Box_haijiade",
+		"type": "EQUIPMENT",
+		"id": "item_hjdlb_ps"
+	},
+	"Title_PlayStation34_os01": {
+		"name": "兑州禁地守护者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os01"
+	},
+	"Title_PlayStation34_os02": {
+		"name": "赛博探索王",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os02"
+	},
+	"Title_PlayStation34_os03": {
+		"name": "镜都先锋",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os03"
+	},
+	"Title_PlayStation34_os04": {
+		"name": "绿洲之心",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os04"
+	},
+	"Title_PlayStation34_os05": {
+		"name": "沙漠守护者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os05"
+	},
+	"Title_PlayStation34_os06": {
+		"name": "海洋之心",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os06"
+	},
+	"Title_PlayStation34_os07": {
+		"name": "深海探险者",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os07"
+	},
+	"Title_PlayStation34_os08": {
+		"name": "深渊探险王",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os08"
+	},
+	"Title_PlayStation34_os09": {
+		"name": "深渊领路人",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os09"
+	},
+	"Title_PlayStation34_os10": {
+		"name": "人工岛迷路人",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os10"
+	},
+	"Title_PlayStation34_os11": {
+		"name": "人工岛岛主",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os11"
+	},
+	"Title_PlayStation34_os12": {
+		"name": "温暖时刻",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os12"
+	},
+	"Title_PlayStation34_os13": {
+		"name": "雪夜之星",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os13"
+	},
+	"Title_PlayStation34_os14": {
+		"name": "曙光序曲",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os14"
+	},
+	"Title_Korea34_os01": {
+		"name": "圣诞奇迹",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_Korea34_os01"
+	},
+	"Title_Korea34_os02": {
+		"name": "青龙之年",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_Korea34_os02"
+	},
+	"chat_qipao_tencent_03": {
+		"name": "放肆嗨",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_tencent_03",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_tencent_03"
+	},
+	"chat_qipao_ps_01": {
+		"name": "满月",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_koreaMoonFestival_01",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_ps_01"
+	},
+	"Avatar_Overseas_29": {
+		"name": "南音·T Pose",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_29i",
+		"type": "AVATAR",
+		"id": "Avatar_Overseas_29"
+	},
+	"Avatar_Overseas_30": {
+		"name": "赛博周五的Mi-a",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_30i",
+		"type": "AVATAR",
+		"id": "Avatar_Overseas_30"
+	},
+	"Avatar_ps_01": {
+		"name": "Type-？？",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_koreaMoonFestival_01i",
+		"type": "AVATAR",
+		"id": "Avatar_ps_01"
+	},
+	"AvatarFrame_tencent_03": {
+		"name": "冰尘之剑",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_03i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_03"
+	},
+	"AvatarFrame_tencent_04": {
+		"name": "Aida Pioneer 3",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_04i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_04"
+	},
+	"AvatarFrame_tencent_05": {
+		"name": "周五能量",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_05i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_05"
+	},
+	"AvatarFrame_PlayStation_02": {
+		"name": "夜",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_koreaMoonFestival_01i",
+		"type": "FRAME",
+		"id": "AvatarFrame_PlayStation_02"
+	},
+	"Item_Festival_BadImitation_OS": {
+		"name": "随机兔兔变身卡",
+		"icon": "/Game/Resources/Icon/item/UI_bianshen_icon_rabbit01",
+		"type": "GIFT",
+		"id": "Item_Festival_BadImitation_OS"
 	},
 	"artifact_ssr_001": {
 		"name": "巨擎手臂",

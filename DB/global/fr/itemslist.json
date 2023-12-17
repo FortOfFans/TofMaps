@@ -239,6 +239,12 @@
 		"type": "FRAGMENT",
 		"id": "Linghan_ice_plasm"
 	},
+	"Nanyin_superpower_plasm": {
+		"name": "Noyau de fusion de Bambou noir",
+		"icon": "/Game/Resources/Icon/item/item_weapon_upstar_",
+		"type": "FRAGMENT",
+		"id": "Nanyin_superpower_plasm"
+	},
 	"Likeability_unlock1": {
 		"name": "Conducteur d'amélioration : Aesperia",
 		"icon": "/Game/Resources/Icon/ImitationGift/Likeability_unlock1",
@@ -449,6 +455,12 @@
 		"type": "GIFT",
 		"id": "Item_gift_2019"
 	},
+	"Item_gift_2020": {
+		"name": "Écharpe du soleil brûlant",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift2020",
+		"type": "GIFT",
+		"id": "Item_gift_2020"
+	},
 	"Item_gift_3001": {
 		"name": "Nouvelle console de jeu",
 		"icon": "/Game/Resources/Icon/ImitationGift/gift25",
@@ -598,6 +610,24 @@
 		"icon": "/Game/Resources/Icon/ImitationGift/gift56",
 		"type": "GIFT",
 		"id": "Item_gift_3025"
+	},
+	"Item_gift_3026": {
+		"name": "Stylo encre",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3026",
+		"type": "GIFT",
+		"id": "Item_gift_3026"
+	},
+	"Item_gift_3027": {
+		"name": "Couverture en fourrure",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3027",
+		"type": "GIFT",
+		"id": "Item_gift_3027"
+	},
+	"Item_gift_3028": {
+		"name": "Sculpture de glace du tigre blanc",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3028",
+		"type": "GIFT",
+		"id": "Item_gift_3028"
 	},
 	"breakthrough_show": {
 		"name": "Pour le perfectionnement des armes.",
@@ -1858,6 +1888,42 @@
 		"icon": "/Game/Resources/Icon/caiyao/Permanent_Crit",
 		"type": "FOOD",
 		"id": "Item_Jiuyu_Cooking38"
+	},
+	"Item_Jiuyu_Cooking39": {
+		"name": "Vin chaud pétillant",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking39",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking39"
+	},
+	"Item_Jiuyu_Cooking40": {
+		"name": "Potage crémeux aux amandes",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking40",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking40"
+	},
+	"Item_Jiuyu_Cooking41": {
+		"name": "Eau de pamplemousse au miel",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking41",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking41"
+	},
+	"Item_Jiuyu_Cooking42": {
+		"name": "Bonbon à l'érable",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking42",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking42"
+	},
+	"Item_Jiuyu_Cooking43": {
+		"name": "Bagel chaud",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking43",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking43"
+	},
+	"Item_Jiuyu_Cooking44": {
+		"name": "Patate douce rôtie",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking44",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking44"
 	},
 	"Item_Cooking_1001_autouse": {
 		"name": "Champignons grillés",
@@ -3743,6 +3809,12 @@
 		"type": "BARTER",
 		"id": "Item_FishCoin"
 	},
+	"Item_BattleField_Resource": {
+		"name": "Épées abandonnées",
+		"icon": "/Game/Resources/Icon/item/BattleField_Resource",
+		"type": "QUEST",
+		"id": "Item_BattleField_Resource"
+	},
 	"Blindbox_coin_03": {
 		"name": "Sceau vernal",
 		"icon": "/Game/Resources/Icon/huobi/Blindbox_coin_01",
@@ -4356,7 +4428,7 @@
 		"id": "EquipFragment_UP41"
 	},
 	"EquipFragment_UP42": {
-		"name": "Puce de surcadençage",
+		"name": "Puce de surcadençage : Aile de papillon",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
 		"type": "BARTER",
 		"id": "EquipFragment_UP42"
@@ -4956,7 +5028,7 @@
 		"id": "WeaponFragment_UP41"
 	},
 	"WeaponFragment_UP42": {
-		"name": "Or ardent",
+		"name": "Or ardent : Aile de papillon",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
 		"type": "BARTER",
 		"id": "WeaponFragment_UP42"
@@ -5723,17 +5795,17 @@
 		"type": "GIFT",
 		"id": "gift_Mount_006_skin_medium"
 	},
+	"choose_newbpfinal_linye": {
+		"name": "Boîte de Tissombre",
+		"icon": "/Game/Resources/Icon/item/gift_newbplinye",
+		"type": "CHOOSE",
+		"id": "choose_newbpfinal_linye"
+	},
 	"choose_Mount_006_skin_medium": {
 		"name": "Réserve de boîte de Meteor",
 		"icon": "/Game/Resources/Icon/item/liuguanglihe02",
 		"type": "GIFT",
 		"id": "choose_Mount_006_skin_medium"
-	},
-	"choose_newbpfinal_linye": {
-		"name": "Shadow tissé boîte de sélection",
-		"icon": "/Game/Resources/Icon/item/gift_newbplinye",
-		"type": "CHOOSE",
-		"id": "choose_newbpfinal_linye"
 	},
 	"choose_StrengthenStone_01": {
 		"name": "Boîte de module d'amplification",
@@ -6283,9 +6355,15 @@
 	},
 	"choose_matrix_SSR37": {
 		"name": "Boîte de matrices de Ling Han",
-		"icon": "/Game/Resources/Icon/item/treasure_matrix_SSR37",
+		"icon": "/Game/Resources/Icon/item/treasure_matrix_ssr37",
 		"type": "CHOOSE",
 		"id": "choose_matrix_SSR37"
+	},
+	"choose_matrix_SSR38": {
+		"name": "Boîte de matrices de Nan Yin",
+		"icon": "/Game/Resources/Icon/item/treasure_matrix_ssr38",
+		"type": "CHOOSE",
+		"id": "choose_matrix_SSR38"
 	},
 	"choose_matrix_SR1": {
 		"name": "Boîte de matrice de Robarg",
@@ -7535,6 +7613,78 @@
 		"type": "GIFT",
 		"id": "bag_LizhouOpenSign_7"
 	},
+	"bag_MidAutumnFestival_1": {
+		"name": "Coffret-cadeau d'automne I",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_1"
+	},
+	"bag_MidAutumnFestival_2": {
+		"name": "Coffret-cadeau d'automne II",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_2"
+	},
+	"bag_MidAutumnFestival_3": {
+		"name": "Coffret-cadeau d'automne III",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_3"
+	},
+	"bag_MidAutumnFestival_4": {
+		"name": "Coffret-cadeau d'automne IV",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_4"
+	},
+	"bag_MidAutumnFestival_5": {
+		"name": "Coffret-cadeau d'automne V",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_5"
+	},
+	"bag_MidAutumnFestival_6": {
+		"name": "Coffret-cadeau d'automne VI",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_6"
+	},
+	"bag_MidAutumnFestival_7": {
+		"name": "Coffret-cadeau d'automne VII",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_7"
+	},
+	"bag_MidAutumnFestival_8": {
+		"name": "Coffret-cadeau d'automne VIII",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_8"
+	},
+	"bag_MidAutumnFestival_9": {
+		"name": "Coffret-cadeau d'automne IX",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_9"
+	},
+	"bag_MidAutumnFestival_10": {
+		"name": "Coffret-cadeau d'automne X",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_10"
+	},
+	"bag_MidAutumnFestival_11": {
+		"name": "Coffret-cadeau d'automne XI",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_11"
+	},
+	"bag_MidAutumnFestival_12": {
+		"name": "Coffret-cadeau d'automne XII",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_12"
+	},
 	"gift_equip_white": {
 		"name": "Boîte Équipement aléatoire",
 		"icon": "/Game/Resources/Icon/item/treasure_random",
@@ -7702,6 +7852,12 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f38",
 		"type": "GIFT",
 		"id": "bag_dress_37"
+	},
+	"bag_Spokesperson": {
+		"name": "Pack cadeau quotidien de l'ambassadeur",
+		"icon": "/Game/Resources/Icon/item/Mysterious_Box",
+		"type": "GIFT",
+		"id": "bag_Spokesperson"
 	},
 	"bag_gashapon_01": {
 		"name": "Coffret-cadeau du carnaval de Cetus",
@@ -8027,6 +8183,12 @@
 		"type": "GIFT",
 		"id": "bag_CobaltBlue_gameshop"
 	},
+	"EnergyGetItem_ticket": {
+		"name": "Coupon cadeau",
+		"icon": "/Game/Resources/Icon/huobi/item_ticket",
+		"type": "MATERIAL",
+		"id": "EnergyGetItem_ticket"
+	},
 	"item_ticket_02": {
 		"name": "Coupon spécial",
 		"icon": "/Game/Resources/Icon/huobi/item_ticket_02",
@@ -8068,6 +8230,12 @@
 		"icon": "/Game/Resources/Icon/huobi/item_ticket_Linghan_ice",
 		"type": "MATERIAL",
 		"id": "item_ticket_Linghan_ice"
+	},
+	"item_ticket_Nanyin_superpower": {
+		"name": "Coupon spécial : Flûte harmonieuse",
+		"icon": "/Game/Resources/Icon/huobi/item_ticket_Nanyin_superpower",
+		"type": "MATERIAL",
+		"id": "item_ticket_Nanyin_superpower"
 	},
 	"fragment_artifact_ssr_001": {
 		"name": "Éclat de Bras de Colosse",
@@ -9347,7 +9515,7 @@
 	},
 	"Harvest_Fishes_001": {
 		"name": "Bar blanc",
-		"icon": "/Game/Resources/Icon/shicai/Item_Fishes_005",
+		"icon": "/Game/Resources/Icon/shicai/Item_Fishes_001",
 		"type": "FOOD",
 		"id": "Harvest_Fishes_001"
 	},
@@ -9614,6 +9782,12 @@
 		"icon": "/Game/Resources/Icon/huobi/xingyuan",
 		"type": "MATERIAL",
 		"id": "Energy_Tower27"
+	},
+	"Energy_Tower28": {
+		"name": "Progression de l'exploration du comté interdit de Villemarais",
+		"icon": "/Game/Resources/Icon/huobi/xingyuan",
+		"type": "MATERIAL",
+		"id": "Energy_Tower28"
 	},
 	"Energy_Tower9_1": {
 		"name": "Progression de l'exploration des Terres des tempêtes de sable : Entrespace",
@@ -10609,6 +10783,12 @@
 		"type": "CONSUMABLE",
 		"id": "fashion_dress_57_4"
 	},
+	"fashion_dress_58_4": {
+		"name": "Parure de soie",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"type": "CONSUMABLE",
+		"id": "fashion_dress_58_4"
+	},
 	"fragment_bag_chat_qipao91": {
 		"name": "Éclat de coffret-cadeau Vieille connaissance",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_91",
@@ -10693,17 +10873,17 @@
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_44_4_4"
 	},
+	"fragment_Hat_56_4_4": {
+		"name": "Éclat de Corne d'abondance",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_128",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_56_4_4"
+	},
 	"fragment_Hat_70_4_4": {
 		"name": "Éclat de Fleur de Flocon",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_146",
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_70_4_4"
-	},
-	"fragment_Hat_29_4_4": {
-		"name": "Fragmento de Dulce de Calabaza",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101",
-		"type": "FRAGMENT",
-		"id": "fragment_Hat_29_4_4"
 	},
 	"fragment_fashion_decoration_74_4": {
 		"name": "Éclat de Viseur d'égarement",
@@ -10741,11 +10921,11 @@
 		"type": "FRAGMENT",
 		"id": "fragment_fashion_decoration_86_4"
 	},
-	"fragment_fashion_decoration_91_4": {
-		"name": "Fragmento de Minidemonio",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+	"fragment_fashion_decoration_90_4": {
+		"name": "Éclat de Lunaires ensemble",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_90",
 		"type": "FRAGMENT",
-		"id": "fragment_fashion_decoration_91_4"
+		"id": "fragment_fashion_decoration_90_4"
 	},
 	"fragment_makeup_face_053": {
 		"name": "Éclat de Marque tribale",
@@ -11108,8 +11288,8 @@
 		"id": "Hat_67_4_4"
 	},
 	"Hat_68_4_4": {
-		"name": "DNT",
-		"icon": "None",
+		"name": "Brise matinale",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_156",
 		"type": "CONSUMABLE",
 		"id": "Hat_68_4_4"
 	},
@@ -11124,6 +11304,24 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_146",
 		"type": "CONSUMABLE",
 		"id": "Hat_70_4_4"
+	},
+	"Hat_71_4_4": {
+		"name": "Légende dorée",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_153",
+		"type": "CONSUMABLE",
+		"id": "Hat_71_4_4"
+	},
+	"Hat_72_4_4": {
+		"name": "Haut de forme grandiose",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_150",
+		"type": "CONSUMABLE",
+		"id": "Hat_72_4_4"
+	},
+	"Hat_73_4_4": {
+		"name": "Chauve-souris pourpre",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157",
+		"type": "CONSUMABLE",
+		"id": "Hat_73_4_4"
 	},
 	"fashion_decoration_1_1": {
 		"name": "Pilote de l'air (1 j)",
@@ -11767,6 +11965,18 @@
 		"type": "CONSUMABLE",
 		"id": "fashion_decoration_88_4"
 	},
+	"fashion_decoration_89_4": {
+		"name": "Roue de Xingtian",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_89",
+		"type": "CONSUMABLE",
+		"id": "fashion_decoration_89_4"
+	},
+	"fashion_decoration_90_4": {
+		"name": "Lunaires ensemble",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_90",
+		"type": "CONSUMABLE",
+		"id": "fashion_decoration_90_4"
+	},
 	"fashion_medal_Test": {
 		"name": "Scanner stationnaire",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_127",
@@ -11910,6 +12120,12 @@
 		"icon": "/Game/Resources/Icon/huobi/Gem_Linghan_ice",
 		"type": "MATERIAL",
 		"id": "Item_Gem_Linghan_ice"
+	},
+	"Item_Gem_Nanyin_superpower": {
+		"name": "Nucléus rouge : Flûte harmonieuse",
+		"icon": "/Game/Resources/Icon/huobi/Gem_Nanyin_superpower",
+		"type": "MATERIAL",
+		"id": "Item_Gem_Nanyin_superpower"
 	},
 	"Item_Area2Medicine": {
 		"name": "Anesthésique",
@@ -12793,7 +13009,7 @@
 	},
 	"Item_q103036_2": {
 		"name": "Bombe fumigène",
-		"icon": "/Game/Resources/Icon/item/WeaponFragment_",
+		"icon": "/Game/Resources/Icon/item/Wormhole_badge_01",
 		"type": "QUEST",
 		"id": "Item_q103036_2"
 	},
@@ -16297,10 +16513,16 @@
 		"id": "bag_chat_qipao101"
 	},
 	"bag_chat_qipao104": {
-		"name": " Coffret-cadeau",
+		"name": "Coffret-cadeau Rire enfantin",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao104",
 		"type": "GIFT",
 		"id": "bag_chat_qipao104"
+	},
+	"bag_chat_qipao105": {
+		"name": "Coffret-cadeau Maître de la flûte",
+		"icon": "/Game/Resources/Icon/item/bag_chat_qipao105",
+		"type": "GIFT",
+		"id": "bag_chat_qipao105"
 	},
 	"bag_emoji_1": {
 		"name": "Recherche sur les simulacres de la Tour fantastique I",
@@ -17986,16 +18208,10 @@
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
-		"name": "Maestre de la Moneda",
+		"name": "Badge du gardien",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01",
 		"type": "BARTER",
 		"id": "Item_TowerDefenceCoin_01"
-	},
-	"Item_MegaGuruCoin": {
-		"name": "Maestre de la Moneda",
-		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01",
-		"type": "BARTER",
-		"id": "Item_MegaGuruCoin"
 	},
 	"Item_SummerCoin_01": {
 		"name": "Pièce vague de chaleur",
@@ -18033,17 +18249,29 @@
 		"type": "BARTER",
 		"id": "Item_MowingCoin"
 	},
+	"Item_WeaponSurvivalCoin": {
+		"name": "Emblème d'érable",
+		"icon": "/Game/Resources/Icon/huobi/WeaponSurvivalCoin",
+		"type": "BARTER",
+		"id": "Item_WeaponSurvivalCoin"
+	},
+	"Item_TheAsianGamesCoin": {
+		"name": "Médaille du challenger",
+		"icon": "/Game/Resources/Icon/huobi/TheAsianGamesCoin",
+		"type": "BARTER",
+		"id": "Item_TheAsianGamesCoin"
+	},
 	"Item_MidAutumnCoin_01": {
 		"name": "Sable étoilé",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle",
 		"type": "BARTER",
 		"id": "Item_MidAutumnCoin_01"
 	},
-	"Item_JuiceCoin": {
-		"name": "Sable étoilé",
-		"icon": "/Game/Resources/Icon/item/Item_Drink_003",
-		"type": "BARTER",
-		"id": "Item_JuiceCoin"
+	"Item_MidAutumnLantern": {
+		"name": "Flamme de Lune d'argent",
+		"icon": "/Game/Resources/Icon/item/WeaponFragment_",
+		"type": "MATERIAL",
+		"id": "Item_MidAutumnLantern"
 	},
 	"Item_AutumnCoin_01": {
 		"name": "Jeton d'érable doré",
@@ -18140,12 +18368,6 @@
 		"icon": "/Game/Resources/Icon/item/HalloweenCoin_04",
 		"type": "BARTER",
 		"id": "Item_HalloweenCoin_04"
-	},
-	"Item_FollowGhostCoin": {
-		"name": "Manzana Caramelada",
-		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin",
-		"type": "BARTER",
-		"id": "Item_FollowGhostCoin"
 	},
 	"Item_Aida_token": {
 		"name": "Jeton d'équilibre",
@@ -19368,6 +19590,18 @@
 		"icon": "/Game/Resources/Icon/item/fashion_LBLY_weapon",
 		"type": "CONSUMABLE",
 		"id": "imitation_fashion_48_w"
+	},
+	"imitation_fashion_49": {
+		"name": "Douce mélodie",
+		"icon": "/Game/Resources/Icon/item/fashion_nanyin",
+		"type": "CONSUMABLE",
+		"id": "imitation_fashion_49"
+	},
+	"imitation_fashion_49_w": {
+		"name": "Diaphlute",
+		"icon": "/Game/Resources/Icon/item/fashion_nanyin_w",
+		"type": "CONSUMABLE",
+		"id": "imitation_fashion_49_w"
 	},
 	"imitation_fashion_50": {
 		"name": "Zeke",
@@ -21150,11 +21384,23 @@
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_004"
 	},
+	"Avatar_FishKing_Jiuyu_005": {
+		"name": "Mérou à nageoires noires",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_005",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_005"
+	},
 	"Avatar_FishKing_Jiuyu_008": {
 		"name": "Soldat rouge",
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_008",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_008"
+	},
+	"Avatar_FishKing_Jiuyu_009": {
+		"name": "Or volcanique",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_009",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_009"
 	},
 	"Avatar_FishKing_Jiuyu_012": {
 		"name": "Gobie rayé",
@@ -21180,11 +21426,29 @@
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_016"
 	},
+	"Avatar_FishKing_Jiuyu_018": {
+		"name": "Dragon de foudre nacré",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_018",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_018"
+	},
+	"Avatar_FishKing_Jiuyu_019": {
+		"name": "Combattant givresombre",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_019",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_019"
+	},
 	"Avatar_FishKing_Jiuyu_020": {
 		"name": "Tête-de-serpent",
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_020",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_020"
+	},
+	"Avatar_FishKing_Jiuyu_022": {
+		"name": "Koi d'aiguille de pin",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_022",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_022"
 	},
 	"Avatar_FishKing_Jiuyu_026": {
 		"name": "Apogon",
@@ -21215,6 +21479,12 @@
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_031",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_031"
+	},
+	"Avatar_FishKing_Jiuyu_032": {
+		"name": "Poisson-chat de verre",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_032",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_032"
 	},
 	"Avatar_FishKing_Jiuyu_035": {
 		"name": "Koi",
@@ -22464,6 +22734,12 @@
 		"type": "CONSUMABLE",
 		"id": "Title_1_1_22_1"
 	},
+	"Title_1_1_23_1": {
+		"name": "L'Abîme de Villemarais",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_1_23_1"
+	},
 	"Avatar_suoni": {
 		"name": "Concierge intelligent 2.0",
 		"icon": "/Game/Resources/Icon/Avatar/Item_Avatar_suoni",
@@ -22590,6 +22866,180 @@
 		"type": "CONSUMABLE",
 		"id": "Title_1_8_0_5"
 	},
+	"Title_1_6_4_1": {
+		"name": "Sage de Silvercoast",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_1"
+	},
+	"Title_1_6_4_2": {
+		"name": "Fêtard de Mirramoon",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_2"
+	},
+	"Title_1_6_4_3": {
+		"name": "Fan de bouillon",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_3"
+	},
+	"Title_1_6_4_4": {
+		"name": "Marchand de bonbons",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_4"
+	},
+	"Title_1_6_4_5": {
+		"name": "Garanti zéro calorie",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_5"
+	},
+	"Title_1_6_4_6": {
+		"name": "Coin, coin !",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_6"
+	},
+	"Title_1_6_4_7": {
+		"name": "Paradis des salles de projection",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_7"
+	},
+	"Title_1_6_4_8": {
+		"name": "Toujours heureux",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_8"
+	},
+	"Title_1_6_4_9": {
+		"name": "Gourmet solitaire",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_9"
+	},
+	"Title_1_6_4_10": {
+		"name": "Avenir 1",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_10"
+	},
+	"Title_1_6_4_11": {
+		"name": "Passion du désert",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_11"
+	},
+	"Title_1_6_4_12": {
+		"name": "Parlez à la main",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_12"
+	},
+	"Title_1_6_4_13": {
+		"name": "Jamais trop lourd",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_13"
+	},
+	"Title_1_6_4_14": {
+		"name": "L'œil de Mirroria",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_14"
+	},
+	"Title_1_6_4_15": {
+		"name": "Voyageur galactique",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_15"
+	},
+	"Title_1_6_4_16": {
+		"name": "Tous les animaux m'adorent",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_16"
+	},
+	"Title_1_6_4_17": {
+		"name": "Le diable porte de la soie",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_17"
+	},
+	"Title_1_6_4_18": {
+		"name": "Le loup de la rue Tianhe",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_18"
+	},
+	"Title_1_6_4_19": {
+		"name": "La main de Midas",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_19"
+	},
+	"Title_1_6_4_20": {
+		"name": "Honnêteté totale",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_20"
+	},
+	"Title_1_6_4_21": {
+		"name": "Je sais que je suis magnifique",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_21"
+	},
+	"Title_1_6_4_22": {
+		"name": "Nonuple résurrection",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_22"
+	},
+	"Title_1_6_4_23": {
+		"name": "Maître de l'année",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_23"
+	},
+	"Title_1_6_4_24": {
+		"name": "Épicerie sans souci",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_24"
+	},
+	"Title_1_6_4_25": {
+		"name": "Descendant du dragon",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_25"
+	},
+	"Title_1_6_4_26": {
+		"name": "Inévitable",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_26"
+	},
+	"Title_1_6_4_27": {
+		"name": "Retour à la case départ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_27"
+	},
+	"Title_1_6_4_28": {
+		"name": "Ambassadeur de HOTTA",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_28"
+	},
+	"Title_1_6_4_29": {
+		"name": "Chef de la sécurité",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_29"
+	},
 	"Mount_Racing_003": {
 		"name": "Fleur de givre",
 		"icon": "/Game/Resources/Icon/Mount/zuoqi_saiche_128",
@@ -22607,6 +23057,12 @@
 		"icon": "/Game/Resources/Icon/Avatar/avatar_linghan",
 		"type": "AVATAR",
 		"id": "linghan"
+	},
+	"nanyin": {
+		"name": "Nan Yin",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_nanyin",
+		"type": "AVATAR",
+		"id": "nanyin"
 	},
 	"Mount_022": {
 		"name": "Bulle flottante",
@@ -22687,14 +23143,68 @@
 		"id": "Avatar_103"
 	},
 	"Avatar_104": {
+		"name": "Rire enfantin",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_104",
 		"type": "AVATAR",
 		"id": "Avatar_104"
 	},
 	"Avatar_105": {
+		"name": "Maître de la flûte",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_105",
 		"type": "AVATAR",
 		"id": "Avatar_105"
+	},
+	"Avatar_106": {
+		"name": "Prisonnier",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_106",
+		"type": "AVATAR",
+		"id": "Avatar_106"
+	},
+	"Avatar_107": {
+		"name": "Masque nocturne",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_107",
+		"type": "AVATAR",
+		"id": "Avatar_107"
+	},
+	"Avatar_108": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_108",
+		"type": "AVATAR",
+		"id": "Avatar_108"
+	},
+	"Avatar_109": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_109",
+		"type": "AVATAR",
+		"id": "Avatar_109"
+	},
+	"Avatar_110": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_110",
+		"type": "AVATAR",
+		"id": "Avatar_110"
+	},
+	"Avatar_111": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_111",
+		"type": "AVATAR",
+		"id": "Avatar_111"
+	},
+	"Avatar_112": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_112",
+		"type": "AVATAR",
+		"id": "Avatar_112"
+	},
+	"Avatar_113": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_113",
+		"type": "AVATAR",
+		"id": "Avatar_113"
+	},
+	"Avatar_114": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_114",
+		"type": "AVATAR",
+		"id": "Avatar_114"
+	},
+	"Avatar_115": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_115",
+		"type": "AVATAR",
+		"id": "Avatar_115"
 	},
 	"AvatarFrame_96": {
 		"name": "Nuage de dragon et feuille de jade",
@@ -22745,14 +23255,68 @@
 		"id": "AvatarFrame_103"
 	},
 	"AvatarFrame_104": {
+		"name": "Petit camarade de jeu",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_104",
 		"type": "FRAME",
 		"id": "AvatarFrame_104"
 	},
 	"AvatarFrame_105": {
+		"name": "Ruban de soie bleu",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_105",
 		"type": "FRAME",
 		"id": "AvatarFrame_105"
+	},
+	"AvatarFrame_106": {
+		"name": "Restes squelettiques",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_106",
+		"type": "FRAME",
+		"id": "AvatarFrame_106"
+	},
+	"AvatarFrame_107": {
+		"name": "Plume de soie",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107",
+		"type": "FRAME",
+		"id": "AvatarFrame_107"
+	},
+	"AvatarFrame_108": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_108",
+		"type": "FRAME",
+		"id": "AvatarFrame_108"
+	},
+	"AvatarFrame_109": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_109",
+		"type": "FRAME",
+		"id": "AvatarFrame_109"
+	},
+	"AvatarFrame_110": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_110",
+		"type": "FRAME",
+		"id": "AvatarFrame_110"
+	},
+	"AvatarFrame_111": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_111",
+		"type": "FRAME",
+		"id": "AvatarFrame_111"
+	},
+	"AvatarFrame_112": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_112",
+		"type": "FRAME",
+		"id": "AvatarFrame_112"
+	},
+	"AvatarFrame_113": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_113",
+		"type": "FRAME",
+		"id": "AvatarFrame_113"
+	},
+	"AvatarFrame_114": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_114",
+		"type": "FRAME",
+		"id": "AvatarFrame_114"
+	},
+	"AvatarFrame_115": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_115",
+		"type": "FRAME",
+		"id": "AvatarFrame_115"
 	},
 	"chat_qipao_96": {
 		"name": "Irrépressible",
@@ -22803,14 +23367,68 @@
 		"id": "chat_qipao_103"
 	},
 	"chat_qipao_104": {
+		"name": "Je vous le promets.",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_104",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_104"
 	},
 	"chat_qipao_105": {
+		"name": "Fleurs gracieuses",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_105",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_105"
+	},
+	"chat_qipao_106": {
+		"name": "Lame brisée",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_106",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_106"
+	},
+	"chat_qipao_107": {
+		"name": "Parchemin d'ornement",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_107"
+	},
+	"chat_qipao_108": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_108",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_108"
+	},
+	"chat_qipao_109": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_109",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_109"
+	},
+	"chat_qipao_110": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_110",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_110"
+	},
+	"chat_qipao_111": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_111",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_111"
+	},
+	"chat_qipao_112": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_112",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_112"
+	},
+	"chat_qipao_113": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_113",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_113"
+	},
+	"chat_qipao_114": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_114",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_114"
+	},
+	"chat_qipao_115": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_115",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_115"
 	},
 	"animated_qipao_1": {
 		"name": "Inspiration poétique",
@@ -22873,7 +23491,7 @@
 		"id": "linghan_lv2"
 	},
 	"feise_lv2": {
-		"name": "Fei Se : Éveillé",
+		"name": "Fei Se : Éveillée",
 		"icon": "/Game/Resources/Icon/item/icon_feise_lv2",
 		"type": "AVATAR",
 		"id": "feise_lv2"
@@ -22901,6 +23519,204 @@
 		"icon": "/Game/Resources/Icon/item/icon_moliniya",
 		"type": "AVATAR",
 		"id": "moliniya"
+	},
+	"Mount_Water_007_Skin_02": {
+		"name": "Dauphin fantôme",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_1",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_02"
+	},
+	"Mount_Water_007_Skin_03": {
+		"name": "Dauphin fantôme doré",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_2",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_03"
+	},
+	"Mount_Water_007_Skin_04": {
+		"name": "Dauphin fantôme pourpre",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_3",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_04"
+	},
+	"Mount_Water_007_Skin_05": {
+		"name": "Dauphin fantôme de jade",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_4",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_05"
+	},
+	"Mount_Water_007_Skin_06": {
+		"name": "Dauphin fantôme noir",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_5",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_06"
+	},
+	"nanyin_lv2": {
+		"name": "Nan Yin : Éveillée",
+		"icon": "/Game/Resources/Icon/item/icon_nanyin_lv2",
+		"type": "AVATAR",
+		"id": "nanyin_lv2"
+	},
+	"linye_lv2": {
+		"name": "Lin : Éveillée",
+		"icon": "/Game/Resources/Icon/item/icon_linye_lv2",
+		"type": "AVATAR",
+		"id": "linye_lv2"
+	},
+	"feiouna_lv2": {
+		"name": "Fiona : Éveillée",
+		"icon": "/Game/Resources/Icon/item/icon_fiona_lv2",
+		"type": "AVATAR",
+		"id": "feiouna_lv2"
+	},
+	"genuonuo_lv2": {
+		"name": "Gnonno : Éveillée",
+		"icon": "/Game/Resources/Icon/item/icon_genuonuo_lv2",
+		"type": "AVATAR",
+		"id": "genuonuo_lv2"
+	},
+	"leibiliya_lv2": {
+		"name": "Rubilia : Éveillée",
+		"icon": "/Game/Resources/Icon/item/icon_leibiliya_lv2",
+		"type": "AVATAR",
+		"id": "leibiliya_lv2"
+	},
+	"liuhuo_lv2": {
+		"name": "Liu Huo : Éveillée",
+		"icon": "/Game/Resources/Icon/item/icon_liuhuo_lv2",
+		"type": "AVATAR",
+		"id": "liuhuo_lv2"
+	},
+	"yulan_lv2": {
+		"name": "Yu Lan : Éveillée",
+		"icon": "/Game/Resources/Icon/item/icon_yulan_lv2",
+		"type": "AVATAR",
+		"id": "yulan_lv2"
+	},
+	"aige_lv2": {
+		"name": "Marchefriche",
+		"icon": "/Game/Resources/Icon/item/icon_aige_lv2",
+		"type": "AVATAR",
+		"id": "aige_lv2"
+	},
+	"Item_WorldPuzzle_JiuyuCompass1": {
+		"name": "Boussole : 210-225-240",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_1",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass1"
+	},
+	"Item_WorldPuzzle_JiuyuCompass2": {
+		"name": "Boussole : 30-255-60",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_2",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass2"
+	},
+	"Item_WorldPuzzle_JiuyuCompass3": {
+		"name": "Boussole : 120-135,150",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_3",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass3"
+	},
+	"HXXK_clue": {
+		"name": "Recherche d'indices",
+		"icon": "/Game/Resources/UI/Activity/SealedBook/item_xiansuo",
+		"type": "BARTER",
+		"id": "HXXK_clue"
+	},
+	"Item_FiveSenseRddles_Cooking1": {
+		"name": "Nouilles aux côtes de porc épaisses",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking18",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking1"
+	},
+	"Item_FiveSenseRddles_Cooking2": {
+		"name": "Pain-vapeur farci juteux",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking27",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking2"
+	},
+	"Item_FiveSenseRddles_Cooking3": {
+		"name": "Œuf au thé noir puissant",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking21",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking3"
+	},
+	"Item_FiveSenseRddles_Cooking4": {
+		"name": "Vermicelles aigres-piquants",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking23",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking4"
+	},
+	"Item_FiveSenseRddles_Book1": {
+		"name": "100 000 conseils de réparation (volume I)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book1",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book1"
+	},
+	"Item_FiveSenseRddles_Book2": {
+		"name": "100 000 conseils de réparation (volume II)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book2",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book2"
+	},
+	"Item_FiveSenseRddles_Book3": {
+		"name": "100 000 conseils de réparation (volume III)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book3",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book3"
+	},
+	"Item_FiveSenseRddles_Book4": {
+		"name": "100 000 conseils de réparation (volume IV)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book4",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book4"
+	},
+	"Item_FiveSenseRddles_Compass1": {
+		"name": "Boussole : Aiguille brisée",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass1",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass1"
+	},
+	"Item_FiveSenseRddles_Compass2": {
+		"name": "Boussole : Éclat I",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass2",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass2"
+	},
+	"Item_FiveSenseRddles_Compass3": {
+		"name": "Boussole : Éclat II",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass3",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass3"
+	},
+	"Item_FiveSenseRddles_Compass4": {
+		"name": "Boussole : Éclat III",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass4",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass4"
+	},
+	"Item_FiveSenseRddles_Compass5": {
+		"name": "Boussole : Éclat IV",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass5",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass5"
+	},
+	"Item_FiveSenseRddles_Compass6": {
+		"name": "Boussole : Éclat V",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass6",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass6"
+	},
+	"Item_JiuYu_quest_lingpai": {
+		"name": "Sceau de commande de Chen Yuan",
+		"icon": "/Game/Resources/Icon/JIUYU/Item_JiuYu_quest_lingpai",
+		"type": "QUEST",
+		"id": "Item_JiuYu_quest_lingpai"
+	},
+	"Mount_026": {
+		"name": "Vaisseau prodigieux",
+		"icon": "/Game/Resources/Icon/Mount/Mount_026",
+		"type": "MOUNT",
+		"id": "Mount_026"
 	},
 	"TicketCard01": {
 		"name": "Points chanceux Orion : Phase 1",
@@ -22938,53 +23754,41 @@
 		"type": "COUNT",
 		"id": "TicketCard06"
 	},
-	"HXXK_clue": {
-		"name": "Recherche d'indices",
-		"icon": "/Game/Resources/UI/Activity/item_xiansuo",
-		"type": "BARTER",
-		"id": "HXXK_clue"
-	},
-	"Avatar_107": {
-		"name": "Máscara Nocturna",
-		"icon": "/Game/Resources/Icon/item/Item_Avatar_107",
-		"type": "AVATAR",
-		"id": "Avatar_107"
-	},
-	"AvatarFrame_107": {
-		"name": "Pluma de Seda",
-		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107",
-		"type": "FRAME",
-		"id": "AvatarFrame_107"
-	},
-	"chat_qipao_107": {
-		"name": "Pergamino de Adorno",
-		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107",
-		"type": "CONSUMABLE",
-		"id": "chat_qipao_107"
-	},
 	"bag_chat_qipao107": {
-		"name": "Regalo de Máscara Nocturna",
+		"name": "Coffret-cadeau Masque nocturne",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107",
 		"type": "GIFT",
 		"id": "bag_chat_qipao107"
 	},
-	"fashion_dress_58_4": {
-		"name": "Adorno de Seda",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
-		"type": "CONSUMABLE",
-		"id": "fashion_dress_58_4"
-	},
-	"Hat_73_4_4": {
-		"name": "Murciélago Carmesí",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157",
-		"type": "CONSUMABLE",
-		"id": "Hat_73_4_4"
-	},
 	"fashion_decoration_91_4": {
-		"name": "Minidemonio",
+		"name": "Petit diable",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
 		"type": "CONSUMABLE",
 		"id": "fashion_decoration_91_4"
+	},
+	"fragment_Hat_29_4_4": {
+		"name": "Éclat de Bonbon citrouille",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_29_4_4"
+	},
+	"GVE_BuffCoin": {
+		"name": "Fragment de merveille",
+		"icon": "/Game/Resources/Icon/item/GVE_BuffCoin",
+		"type": "BARTER",
+		"id": "GVE_BuffCoin"
+	},
+	"GVE_experience": {
+		"name": "EXP de reconstruction",
+		"icon": "/Game/Resources/Icon/item/miwu_icon_exp",
+		"type": "CONSUMABLE",
+		"id": "GVE_experience"
+	},
+	"GVE_action": {
+		"name": "Cristal de brume",
+		"icon": "/Game/Resources/Icon/item/miwu_icon_jingli",
+		"type": "CONSUMABLE",
+		"id": "GVE_action"
 	},
 	"Avatar_Overseas_9": {
 		"name": "Saki Fuwa : Pose en T",
@@ -24252,8 +25056,14 @@
 		"type": "BARTER",
 		"id": "WeaponFragment_DoubleUP10_OS"
 	},
+	"WeaponFragment_DoubleUP11_OS": {
+		"name": "Or ardent : Dégâts altérés",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"type": "BARTER",
+		"id": "WeaponFragment_DoubleUP11_OS"
+	},
 	"WeaponFragment_ALLUP_OS": {
-		"name": "Oro Llameante (Viaje)",
+		"name": "Or ardent : Voyage",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
 		"type": "BARTER",
 		"id": "WeaponFragment_ALLUP_OS"
@@ -24378,8 +25188,14 @@
 		"type": "BARTER",
 		"id": "EquipFragment_DoubleUP10_OS"
 	},
+	"EquipFragment_DoubleUP11_OS": {
+		"name": "Puce de surcadençage : Dégâts altérés",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"type": "BARTER",
+		"id": "EquipFragment_DoubleUP11_OS"
+	},
 	"EquipFragment_ALLUP_OS": {
-		"name": "Chip de Overclocking (Viaje)",
+		"name": "Puce de surcadençage : Voyage",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
 		"type": "BARTER",
 		"id": "EquipFragment_ALLUP_OS"
@@ -24702,6 +25518,12 @@
 		"type": "BARTER",
 		"id": "Item_spring2023_os"
 	},
+	"Item_ThanksgivingCoin_OS": {
+		"name": "Pilon de dinde",
+		"icon": "/Game/Resources/Icon/huobi/thanksgivingcoin",
+		"type": "BARTER",
+		"id": "Item_ThanksgivingCoin_OS"
+	},
 	"choose_frag_BP7_os": {
 		"name": "Boîte Éclat de relique du pass III",
 		"icon": "/Game/Resources/Icon/item/gift_artifact_frag_ssr",
@@ -24779,6 +25601,18 @@
 		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_Anniversary_OS_hat",
 		"type": "CHOOSE",
 		"id": "choose_fashion_Anniversary_OS_hat"
+	},
+	"choose_fashion_BlackFriday_OS_dress": {
+		"name": "Boîte de tenue du Cyber Friday",
+		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_FON_OS_dress",
+		"type": "CHOOSE",
+		"id": "choose_fashion_BlackFriday_OS_dress"
+	},
+	"choose_fashion_BlackFriday_OS_hat": {
+		"name": "Boîte de coiffe I",
+		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_FON_OS_hat",
+		"type": "CHOOSE",
+		"id": "choose_fashion_BlackFriday_OS_hat"
 	},
 	"Item_OrienteeringCoin_OS_01": {
 		"name": "pièce rapide",
@@ -24961,10 +25795,16 @@
 		"id": "mimi_thunder_trial_OS"
 	},
 	"linghan_ice_trial_OS": {
-		"name": "Tigre d'albâtre (24 h)",
+		"name": "Tigre d'albâtre (24 h)",
 		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Linghan_Ice01",
 		"type": "WEAPON",
 		"id": "linghan_ice_trial_OS"
+	},
+	"nanyin_superpower_trial_OS": {
+		"name": "Bambou noir (24h)",
+		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Nanyin_Superpower01",
+		"type": "WEAPON",
+		"id": "nanyin_superpower_trial_OS"
 	},
 	"bag_LizhouOpenSign_1_OS": {
 		"name": "Coffret-cadeau des nuages I",
@@ -25152,6 +25992,12 @@
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_28_4_4_OS"
 	},
+	"fragment_Hat_71_4_4_OS": {
+		"name": "Éclat de Légende dorée",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_153",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_71_4_4_OS"
+	},
 	"AvatarFrame_txcreatos_04": {
 		"name": "Dimension étrangère",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_04i",
@@ -25278,6 +26124,12 @@
 		"type": "MATERIAL",
 		"id": "Item_Gashapon_coin_16_OS"
 	},
+	"Item_BlackFriday_coin_OS": {
+		"name": "Pièce gachapon du Cyber Friday",
+		"icon": "/Game/Resources/Icon/huobi/gashapon_coin3",
+		"type": "MATERIAL",
+		"id": "Item_BlackFriday_coin_OS"
+	},
 	"Avatar_Overseas_26": {
 		"name": "Huang : Pose en T",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_26i",
@@ -25351,7 +26203,7 @@
 		"id": "Title_iwplay33_os02"
 	},
 	"Title_iwplay33_os03": {
-		"name": "DNT",
+		"name": "Des bonbons ou un sort",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_iwplay33_os03"
@@ -25417,7 +26269,7 @@
 		"id": "Title_iwplay33_os13"
 	},
 	"Title_iwplay33_os14": {
-		"name": "DNT",
+		"name": "Partie de plaisir",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_iwplay33_os14"
@@ -25459,7 +26311,7 @@
 		"id": "Title_Korea33_os05"
 	},
 	"Title_Korea33_os06": {
-		"name": "DNT",
+		"name": "Joyeux Jour blanc !",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_Korea33_os06"
@@ -25519,37 +26371,37 @@
 		"id": "AvatarFrame_PlayStation33_os02"
 	},
 	"Avatar_Overseas_28": {
-		"name": "Ling Han: Postura T",
+		"name": "Ling Han : Pose en T",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_28i",
 		"type": "AVATAR",
 		"id": "Avatar_Overseas_28"
 	},
 	"Avatar_tongyong33_os01": {
-		"name": "Conde Drácula",
+		"name": "Comte Dracula",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os01i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os01"
 	},
 	"Avatar_tongyong33_os02": {
-		"name": "Princesa Woodley",
+		"name": "Princesse Woodley",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os02i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os02"
 	},
 	"Avatar_tongyong33_os03": {
-		"name": "Pequeño Espíritu",
+		"name": "Petit esprit",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os03i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os03"
 	},
 	"Avatar_tongyong33_os04": {
-		"name": "Sra. Saltina",
+		"name": "Mlle Sautillante",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os04i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os04"
 	},
 	"AvatarFrame_txcreatos_07": {
-		"name": "El Bosque Azur",
+		"name": "La forêt azur",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_07i",
 		"type": "FRAME",
 		"id": "AvatarFrame_txcreatos_07"
@@ -25561,7 +26413,7 @@
 		"id": "Avatar_Koreatongyong33_01"
 	},
 	"AvatarFrame_Koreatongyong33_01": {
-		"name": "Anillo de Fuego",
+		"name": "Anneau de feu",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Koreatongyong33_01i",
 		"type": "FRAME",
 		"id": "AvatarFrame_Koreatongyong33_01"
@@ -25571,6 +26423,198 @@
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_Koreatongyong33_01"
+	},
+	"coupon60_10": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon60_10"
+	},
+	"coupon300_60": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon300_60"
+	},
+	"coupon980_150": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon980_150"
+	},
+	"coupon1980_250": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon1980_250"
+	},
+	"coupon3280_350": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon3280_350"
+	},
+	"coupon6480_650": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon6480_650"
+	},
+	"item_hjdlb_ps": {
+		"name": "Pack cadeau de recherches d'Hykros",
+		"icon": "/Game/Resources/Icon/item/item_Box_haijiade",
+		"type": "EQUIPMENT",
+		"id": "item_hjdlb_ps"
+	},
+	"Title_PlayStation34_os01": {
+		"name": "Gardien du comté interdit de Villemarais",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os01"
+	},
+	"Title_PlayStation34_os02": {
+		"name": "Aventurier cyberpunk",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os02"
+	},
+	"Title_PlayStation34_os03": {
+		"name": "Avant-garde de Mirroria",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os03"
+	},
+	"Title_PlayStation34_os04": {
+		"name": "Cœur de l’oasis",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os04"
+	},
+	"Title_PlayStation34_os05": {
+		"name": "Gardien du désert",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os05"
+	},
+	"Title_PlayStation34_os06": {
+		"name": "Cœur maritime",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os06"
+	},
+	"Title_PlayStation34_os07": {
+		"name": "Explorateur de la Mer profonde",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os07"
+	},
+	"Title_PlayStation34_os08": {
+		"name": "Aventurier de la Mer profonde",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os08"
+	},
+	"Title_PlayStation34_os09": {
+		"name": "Guide de la Mer profonde",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os09"
+	},
+	"Title_PlayStation34_os10": {
+		"name": "Égaré sur l'Île artificielle",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os10"
+	},
+	"Title_PlayStation34_os11": {
+		"name": "Propriétaire de l’Île artificielle",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os11"
+	},
+	"Title_PlayStation34_os12": {
+		"name": "Moment chaleureux",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os12"
+	},
+	"Title_PlayStation34_os13": {
+		"name": "Étoile nocturne enneigée",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os13"
+	},
+	"Title_PlayStation34_os14": {
+		"name": "Prélude de la première aurore",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os14"
+	},
+	"Title_Korea34_os01": {
+		"name": "DNT",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_Korea34_os01"
+	},
+	"Title_Korea34_os02": {
+		"name": "DNT",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_Korea34_os02"
+	},
+	"chat_qipao_tencent_03": {
+		"name": "Haut et fort",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_tencent_03",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_tencent_03"
+	},
+	"chat_qipao_ps_01": {
+		"name": "Manyue",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_koreaMoonFestival_01",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_ps_01"
+	},
+	"Avatar_Overseas_29": {
+		"name": "Nan Yin : Pose en T",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_29i",
+		"type": "AVATAR",
+		"id": "Avatar_Overseas_29"
+	},
+	"Avatar_Overseas_30": {
+		"name": "Mi-a le jour du Cyber Friday",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_30i",
+		"type": "AVATAR",
+		"id": "Avatar_Overseas_30"
+	},
+	"Avatar_ps_01": {
+		"name": "Type - ??",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_koreaMoonFestival_01i",
+		"type": "AVATAR",
+		"id": "Avatar_ps_01"
+	},
+	"AvatarFrame_tencent_03": {
+		"name": "Épée de givre",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_03i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_03"
+	},
+	"AvatarFrame_tencent_04": {
+		"name": "Pionnier d'Aida 3",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_04i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_04"
+	},
+	"AvatarFrame_tencent_05": {
+		"name": "Énergie du vendredi",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_05i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_05"
+	},
+	"AvatarFrame_PlayStation_02": {
+		"name": "Nuit",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_koreaMoonFestival_01i",
+		"type": "FRAME",
+		"id": "AvatarFrame_PlayStation_02"
+	},
+	"Item_Festival_BadImitation_OS": {
+		"name": "Carte d'essai de transformation de Lapin aléatoire",
+		"icon": "/Game/Resources/Icon/item/UI_bianshen_icon_rabbit01",
+		"type": "GIFT",
+		"id": "Item_Festival_BadImitation_OS"
 	},
 	"artifact_ssr_001": {
 		"name": "Bras de colosse",

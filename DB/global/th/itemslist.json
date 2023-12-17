@@ -234,10 +234,16 @@
 		"id": "feise_fire_plasm"
 	},
 	"Linghan_ice_plasm": {
-		"name": "แก่นฟิวชันโอเวอร์เซียร์",
+		"name": "แก่นฟิวชันอลาบาสเตอร์ไทเกอร์",
 		"icon": "/Game/Resources/Icon/item/item_weapon_upstar_",
 		"type": "FRAGMENT",
 		"id": "Linghan_ice_plasm"
+	},
+	"Nanyin_superpower_plasm": {
+		"name": "แก่นฟิวชันเพอเพิลแบมบู",
+		"icon": "/Game/Resources/Icon/item/item_weapon_upstar_",
+		"type": "FRAGMENT",
+		"id": "Nanyin_superpower_plasm"
 	},
 	"Likeability_unlock1": {
 		"name": "ไดรเวอร์อัปเกรด: แอสเพอเรีย",
@@ -449,6 +455,12 @@
 		"type": "GIFT",
 		"id": "Item_gift_2019"
 	},
+	"Item_gift_2020": {
+		"name": "ผ้าพันคอผิงแดด",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift2020",
+		"type": "GIFT",
+		"id": "Item_gift_2020"
+	},
 	"Item_gift_3001": {
 		"name": "เครื่องเล่นเกมใหม่",
 		"icon": "/Game/Resources/Icon/ImitationGift/gift25",
@@ -598,6 +610,24 @@
 		"icon": "/Game/Resources/Icon/ImitationGift/gift56",
 		"type": "GIFT",
 		"id": "Item_gift_3025"
+	},
+	"Item_gift_3026": {
+		"name": "ปากกาหมึกซึม",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3026",
+		"type": "GIFT",
+		"id": "Item_gift_3026"
+	},
+	"Item_gift_3027": {
+		"name": "ผ้าคลุมขนสัตว์",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3027",
+		"type": "GIFT",
+		"id": "Item_gift_3027"
+	},
+	"Item_gift_3028": {
+		"name": "น้ำแข็งแกะสลักพยัคฆ์ขาว",
+		"icon": "/Game/Resources/Icon/ImitationGift/gift3028",
+		"type": "GIFT",
+		"id": "Item_gift_3028"
 	},
 	"breakthrough_show": {
 		"name": "สำหรับเสริมอาวุธ",
@@ -1858,6 +1888,42 @@
 		"icon": "/Game/Resources/Icon/caiyao/Permanent_Crit",
 		"type": "FOOD",
 		"id": "Item_Jiuyu_Cooking38"
+	},
+	"Item_Jiuyu_Cooking39": {
+		"name": "สปาร์คกลิ้งไวน์อุ่น ๆ",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking39",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking39"
+	},
+	"Item_Jiuyu_Cooking40": {
+		"name": "ซุปอัลมอนด์หอมนม",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking40",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking40"
+	},
+	"Item_Jiuyu_Cooking41": {
+		"name": "น้ำเกรฟฟรุตผสมน้ำผึ้ง",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking41",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking41"
+	},
+	"Item_Jiuyu_Cooking42": {
+		"name": "ลูกอมเมเปิล",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking42",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking42"
+	},
+	"Item_Jiuyu_Cooking43": {
+		"name": "เบเกิลร้อน ๆ",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking43",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking43"
+	},
+	"Item_Jiuyu_Cooking44": {
+		"name": "มันเทศเผา",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking44",
+		"type": "FOOD",
+		"id": "Item_Jiuyu_Cooking44"
 	},
 	"Item_Cooking_1001_autouse": {
 		"name": "เห็ดทอด",
@@ -3743,8 +3809,14 @@
 		"type": "BARTER",
 		"id": "Item_FishCoin"
 	},
+	"Item_BattleField_Resource": {
+		"name": "ดาบเก่า",
+		"icon": "/Game/Resources/Icon/item/BattleField_Resource",
+		"type": "QUEST",
+		"id": "Item_BattleField_Resource"
+	},
 	"Blindbox_coin_03": {
-		"name": "แสตมป์ฤดูใบไม้ผลิ",
+		"name": "ตราประทับฤดูใบไม้ผลิ",
 		"icon": "/Game/Resources/Icon/huobi/Blindbox_coin_01",
 		"type": "BARTER",
 		"id": "Blindbox_coin_03"
@@ -3762,7 +3834,7 @@
 		"id": "Blindbox_coin_05"
 	},
 	"Blindbox_coin_06": {
-		"name": "แสตมป์ฤดูใบไม้ผลิ",
+		"name": "ตราประทับฤดูใบไม้ผลิ",
 		"icon": "/Game/Resources/Icon/huobi/Blindbox_coin_01",
 		"type": "BARTER",
 		"id": "Blindbox_coin_06"
@@ -3918,7 +3990,7 @@
 		"id": "Item_MedalofValor_2"
 	},
 	"Blindbox_coin_01": {
-		"name": "แสตมป์ฤดูใบไม้ผลิ",
+		"name": "ตราประทับฤดูใบไม้ผลิ",
 		"icon": "/Game/Resources/Icon/huobi/Blindbox_coin_01",
 		"type": "CURRENCY",
 		"id": "Blindbox_coin_01"
@@ -4356,7 +4428,7 @@
 		"id": "EquipFragment_UP41"
 	},
 	"EquipFragment_UP42": {
-		"name": "ชิปโอเวอร์คล็อก",
+		"name": "ชิปโอเวอร์คล็อก (ปีกผีเสื้อ)",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
 		"type": "BARTER",
 		"id": "EquipFragment_UP42"
@@ -4956,7 +5028,7 @@
 		"id": "WeaponFragment_UP41"
 	},
 	"WeaponFragment_UP42": {
-		"name": "ทองเปลวเพลิง",
+		"name": "ทองเปลวเพลิง (ปีกผีเสื้อ)",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
 		"type": "BARTER",
 		"id": "WeaponFragment_UP42"
@@ -5723,17 +5795,17 @@
 		"type": "GIFT",
 		"id": "gift_Mount_006_skin_medium"
 	},
+	"choose_newbpfinal_linye": {
+		"name": "กล่องเลือกชาโดว์วีฟ",
+		"icon": "/Game/Resources/Icon/item/gift_newbplinye",
+		"type": "CHOOSE",
+		"id": "choose_newbpfinal_linye"
+	},
 	"choose_Mount_006_skin_medium": {
 		"name": "คลังเก็บกล่องอุกกาบาต",
 		"icon": "/Game/Resources/Icon/item/liuguanglihe02",
 		"type": "GIFT",
 		"id": "choose_Mount_006_skin_medium"
-	},
-	"choose_newbpfinal_linye": {
-		"name": "กรณีการคัดเลือกด้วยตนเองของผ้าเงา",
-		"icon": "/Game/Resources/Icon/item/gift_newbplinye",
-		"type": "CHOOSE",
-		"id": "choose_newbpfinal_linye"
 	},
 	"choose_StrengthenStone_01": {
 		"name": "กล่องโมดูลบูสเตอร์",
@@ -6283,9 +6355,15 @@
 	},
 	"choose_matrix_SSR37": {
 		"name": "กล่องเมทริกซ์หลิงหาน",
-		"icon": "/Game/Resources/Icon/item/treasure_matrix_SSR37",
+		"icon": "/Game/Resources/Icon/item/treasure_matrix_ssr37",
 		"type": "CHOOSE",
 		"id": "choose_matrix_SSR37"
+	},
+	"choose_matrix_SSR38": {
+		"name": "กล่องเมทริกซ์หนานอิน",
+		"icon": "/Game/Resources/Icon/item/treasure_matrix_ssr38",
+		"type": "CHOOSE",
+		"id": "choose_matrix_SSR38"
 	},
 	"choose_matrix_SR1": {
 		"name": "กล่องเมทริกซ์โรบาร์ก",
@@ -7535,6 +7613,78 @@
 		"type": "GIFT",
 		"id": "bag_LizhouOpenSign_7"
 	},
+	"bag_MidAutumnFestival_1": {
+		"name": "กล่องไหว้พระจันทร์ I",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_1"
+	},
+	"bag_MidAutumnFestival_2": {
+		"name": "กล่องไหว้พระจันทร์ II",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_2"
+	},
+	"bag_MidAutumnFestival_3": {
+		"name": "กล่องไหว้พระจันทร์ III",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_3"
+	},
+	"bag_MidAutumnFestival_4": {
+		"name": "กล่องไหว้พระจันทร์ IV",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_4"
+	},
+	"bag_MidAutumnFestival_5": {
+		"name": "กล่องไหว้พระจันทร์ V",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_5"
+	},
+	"bag_MidAutumnFestival_6": {
+		"name": "กล่องไหว้พระจันทร์ VI",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_6"
+	},
+	"bag_MidAutumnFestival_7": {
+		"name": "กล่องไหว้พระจันทร์ VII",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_7"
+	},
+	"bag_MidAutumnFestival_8": {
+		"name": "กล่องไหว้พระจันทร์ VIII",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_8"
+	},
+	"bag_MidAutumnFestival_9": {
+		"name": "กล่องไหว้พระจันทร์ IX",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_9"
+	},
+	"bag_MidAutumnFestival_10": {
+		"name": "กล่องไหว้พระจันทร์ X",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_10"
+	},
+	"bag_MidAutumnFestival_11": {
+		"name": "กล่องไหว้พระจันทร์ XI",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_11"
+	},
+	"bag_MidAutumnFestival_12": {
+		"name": "กล่องไหว้พระจันทร์ XII",
+		"icon": "/Game/Resources/Icon/item/treasure_MidAutumnFestival",
+		"type": "GIFT",
+		"id": "bag_MidAutumnFestival_12"
+	},
 	"gift_equip_white": {
 		"name": "กล่องอุปกรณ์แบบสุ่ม",
 		"icon": "/Game/Resources/Icon/item/treasure_random",
@@ -7702,6 +7852,12 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f38",
 		"type": "GIFT",
 		"id": "bag_dress_37"
+	},
+	"bag_Spokesperson": {
+		"name": "แพ็กตัวแทนประจำวัน",
+		"icon": "/Game/Resources/Icon/item/Mysterious_Box",
+		"type": "GIFT",
+		"id": "bag_Spokesperson"
 	},
 	"bag_gashapon_01": {
 		"name": "กล่องของขวัญคาร์นิวัลเกาะซีตัส",
@@ -8027,6 +8183,12 @@
 		"type": "GIFT",
 		"id": "bag_CobaltBlue_gameshop"
 	},
+	"EnergyGetItem_ticket": {
+		"name": "คูปองของขวัญ",
+		"icon": "/Game/Resources/Icon/huobi/item_ticket",
+		"type": "MATERIAL",
+		"id": "EnergyGetItem_ticket"
+	},
 	"item_ticket_02": {
 		"name": "วอชเชอร์พิเศษ",
 		"icon": "/Game/Resources/Icon/huobi/item_ticket_02",
@@ -8068,6 +8230,12 @@
 		"icon": "/Game/Resources/Icon/huobi/item_ticket_Linghan_ice",
 		"type": "MATERIAL",
 		"id": "item_ticket_Linghan_ice"
+	},
+	"item_ticket_Nanyin_superpower": {
+		"name": "วอชเชอร์พิเศษ: ท่วงทำนองขลุ่ยวิจิตร",
+		"icon": "/Game/Resources/Icon/huobi/item_ticket_Nanyin_superpower",
+		"type": "MATERIAL",
+		"id": "item_ticket_Nanyin_superpower"
 	},
 	"fragment_artifact_ssr_001": {
 		"name": "เศษแขนคอลอสซัส",
@@ -8322,7 +8490,7 @@
 		"id": "fragment_FightPet_5"
 	},
 	"fragment_FightPet_6": {
-		"name": "เศษหุ่นยนต์รับใช้คู่หูต่อสู้: มีอา",
+		"name": "เศษหุ่นยนต์รับใช้คู่หูต่อสู้:มีอา",
 		"icon": "/Game/Resources/Icon/pet/FightPet/frag_FightPet_6",
 		"type": "FRAGMENT",
 		"id": "fragment_FightPet_6"
@@ -9347,7 +9515,7 @@
 	},
 	"Harvest_Fishes_001": {
 		"name": "ปลากะพงสีเงิน",
-		"icon": "/Game/Resources/Icon/shicai/Item_Fishes_005",
+		"icon": "/Game/Resources/Icon/shicai/Item_Fishes_001",
 		"type": "FOOD",
 		"id": "Harvest_Fishes_001"
 	},
@@ -9614,6 +9782,12 @@
 		"icon": "/Game/Resources/Icon/huobi/xingyuan",
 		"type": "MATERIAL",
 		"id": "Energy_Tower27"
+	},
+	"Energy_Tower28": {
+		"name": "แต้มสำรวจพื้นที่ต้องห้ามตุ้ยโจว",
+		"icon": "/Game/Resources/Icon/huobi/xingyuan",
+		"type": "MATERIAL",
+		"id": "Energy_Tower28"
 	},
 	"Energy_Tower9_1": {
 		"name": "แต้มสำรวจดินแดนพายุทราย: มิติสีเทา",
@@ -10178,7 +10352,7 @@
 		"id": "fashion_dress_1_3"
 	},
 	"fashion_dress_1_4": {
-		"name": "ชุดสกาเวนเจอร์",
+		"name": "ชุดสกา\r\nเวนเจอร์",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f15",
 		"type": "CONSUMABLE",
 		"id": "fashion_dress_1_4"
@@ -10609,6 +10783,12 @@
 		"type": "CONSUMABLE",
 		"id": "fashion_dress_57_4"
 	},
+	"fashion_dress_58_4": {
+		"name": "แพรกระจกมรกต",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
+		"type": "CONSUMABLE",
+		"id": "fashion_dress_58_4"
+	},
 	"fragment_bag_chat_qipao91": {
 		"name": "เศษ \"ดั่งเพื่อนเก่าหวนคืน\"",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_91",
@@ -10693,17 +10873,17 @@
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_44_4_4"
 	},
+	"fragment_Hat_56_4_4": {
+		"name": "เศษเขาแห่งการเก็บเกี่ยว",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_128",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_56_4_4"
+	},
 	"fragment_Hat_70_4_4": {
 		"name": "เศษดอกปุยหิมะ",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_146",
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_70_4_4"
-	},
-	"fragment_Hat_29_4_4": {
-		"name": "Засахаренная тыква (обломок)",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101",
-		"type": "FRAGMENT",
-		"id": "fragment_Hat_29_4_4"
 	},
 	"fragment_fashion_decoration_74_4": {
 		"name": "เศษแว่นตาสับสน",
@@ -10741,11 +10921,11 @@
 		"type": "FRAGMENT",
 		"id": "fragment_fashion_decoration_86_4"
 	},
-	"fragment_fashion_decoration_91_4": {
-		"name": "Бесенок (обломок)",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
+	"fragment_fashion_decoration_90_4": {
+		"name": "เศษจันทร์สดใส",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_90",
 		"type": "FRAGMENT",
-		"id": "fragment_fashion_decoration_91_4"
+		"id": "fragment_fashion_decoration_90_4"
 	},
 	"fragment_makeup_face_053": {
 		"name": "เศษสัญลักษณ์เผ่า",
@@ -10766,7 +10946,7 @@
 		"id": "fragment_makeup_face_055"
 	},
 	"fragment_makeup_face_056": {
-		"name": "เศษแสตมป์สการ์เล็ต",
+		"name": "เศษตราประทับสการ์เล็ต",
 		"icon": "/Game/Resources/UI/makeup/lianwen/58",
 		"type": "FRAGMENT",
 		"id": "fragment_makeup_face_056"
@@ -11108,8 +11288,8 @@
 		"id": "Hat_67_4_4"
 	},
 	"Hat_68_4_4": {
-		"name": "DNT",
-		"icon": "None",
+		"name": "สายลมยามเช้า",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_156",
 		"type": "CONSUMABLE",
 		"id": "Hat_68_4_4"
 	},
@@ -11124,6 +11304,24 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_146",
 		"type": "CONSUMABLE",
 		"id": "Hat_70_4_4"
+	},
+	"Hat_71_4_4": {
+		"name": "ตำนานทองคำ",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_153",
+		"type": "CONSUMABLE",
+		"id": "Hat_71_4_4"
+	},
+	"Hat_72_4_4": {
+		"name": "หมวกทรงสูงสุดหรู",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_150",
+		"type": "CONSUMABLE",
+		"id": "Hat_72_4_4"
+	},
+	"Hat_73_4_4": {
+		"name": "ค้างคาวเคลือบแดง",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157",
+		"type": "CONSUMABLE",
+		"id": "Hat_73_4_4"
 	},
 	"fashion_decoration_1_1": {
 		"name": "แว่นตานักบิน (1 วัน)",
@@ -11767,6 +11965,18 @@
 		"type": "CONSUMABLE",
 		"id": "fashion_decoration_88_4"
 	},
+	"fashion_decoration_89_4": {
+		"name": "วงล้อสิงเทียน",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_89",
+		"type": "CONSUMABLE",
+		"id": "fashion_decoration_89_4"
+	},
+	"fashion_decoration_90_4": {
+		"name": "จันทร์สดใส",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/Icon_Decoration_90",
+		"type": "CONSUMABLE",
+		"id": "fashion_decoration_90_4"
+	},
 	"fashion_medal_Test": {
 		"name": "โฮเวอร์ริ่งสแกนเนอร์",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_127",
@@ -11910,6 +12120,12 @@
 		"icon": "/Game/Resources/Icon/huobi/Gem_Linghan_ice",
 		"type": "MATERIAL",
 		"id": "Item_Gem_Linghan_ice"
+	},
+	"Item_Gem_Nanyin_superpower": {
+		"name": "นิวเคลียสแดง: ท่วงทำนองขลุ่ยวิจิตร",
+		"icon": "/Game/Resources/Icon/huobi/Gem_Nanyin_superpower",
+		"type": "MATERIAL",
+		"id": "Item_Gem_Nanyin_superpower"
 	},
 	"Item_Area2Medicine": {
 		"name": "ยาสลบ",
@@ -12793,7 +13009,7 @@
 	},
 	"Item_q103036_2": {
 		"name": "ระเบิดควัน",
-		"icon": "/Game/Resources/Icon/item/WeaponFragment_",
+		"icon": "/Game/Resources/Icon/item/Wormhole_badge_01",
 		"type": "QUEST",
 		"id": "Item_q103036_2"
 	},
@@ -13132,7 +13348,7 @@
 		"id": "makeup_face_055"
 	},
 	"makeup_face_056": {
-		"name": "แสตมป์สการ์เล็ต",
+		"name": "ตราประทับสการ์เล็ต",
 		"icon": "/Game/Resources/UI/makeup/lianwen/58",
 		"type": "CONSUMABLE",
 		"id": "makeup_face_056"
@@ -13210,7 +13426,7 @@
 		"id": "fashion_dress_5_3"
 	},
 	"fashion_dress_5_4": {
-		"name": "ผู้มาเยือนท่ามกลางหิมะ",
+		"name": "ผู้มาเยือนท่าม\r\nกลางหิมะ",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f17",
 		"type": "CONSUMABLE",
 		"id": "fashion_dress_5_4"
@@ -16297,10 +16513,16 @@
 		"id": "bag_chat_qipao101"
 	},
 	"bag_chat_qipao104": {
-		"name": "กล่องของขวัญ \"\"",
+		"name": "กล่องของขวัญเสียงหัวเราะวัยเด็ก",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao104",
 		"type": "GIFT",
 		"id": "bag_chat_qipao104"
+	},
+	"bag_chat_qipao105": {
+		"name": "กล่องผู้ชำนาญเพลงขลุ่ย",
+		"icon": "/Game/Resources/Icon/item/bag_chat_qipao105",
+		"type": "GIFT",
+		"id": "bag_chat_qipao105"
 	},
 	"bag_emoji_1": {
 		"name": "การวิจัยซิมูลาครัมหอคอยแฟนตาซี I",
@@ -17987,16 +18209,10 @@
 		"id": "Item_HiveJumpCoin_01"
 	},
 	"Item_TowerDefenceCoin_01": {
-		"name": "Монета мастерства",
+		"name": "เหรียญตราผู้พิทักษ์",
 		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01",
 		"type": "BARTER",
 		"id": "Item_TowerDefenceCoin_01"
-	},
-	"Item_MegaGuruCoin": {
-		"name": "Монета мастерства",
-		"icon": "/Game/Resources/Icon/item/TowerDefenceCoin_01",
-		"type": "BARTER",
-		"id": "Item_MegaGuruCoin"
 	},
 	"Item_SummerCoin_01": {
 		"name": "เหรียญคลื่นความร้อน",
@@ -18034,17 +18250,29 @@
 		"type": "BARTER",
 		"id": "Item_MowingCoin"
 	},
+	"Item_WeaponSurvivalCoin": {
+		"name": "ตราเมเปิลทอง",
+		"icon": "/Game/Resources/Icon/huobi/WeaponSurvivalCoin",
+		"type": "BARTER",
+		"id": "Item_WeaponSurvivalCoin"
+	},
+	"Item_TheAsianGamesCoin": {
+		"name": "เหรียญผู้ท้าชิง",
+		"icon": "/Game/Resources/Icon/huobi/TheAsianGamesCoin",
+		"type": "BARTER",
+		"id": "Item_TheAsianGamesCoin"
+	},
 	"Item_MidAutumnCoin_01": {
 		"name": "สตาร์แซนด์",
 		"icon": "/Game/Resources/Icon/huobi/StarRecycle",
 		"type": "BARTER",
 		"id": "Item_MidAutumnCoin_01"
 	},
-	"Item_JuiceCoin": {
-		"name": "สตาร์แซนด์",
-		"icon": "/Game/Resources/Icon/item/Item_Drink_003",
-		"type": "BARTER",
-		"id": "Item_JuiceCoin"
+	"Item_MidAutumnLantern": {
+		"name": "เปลวไฟจันทร์สีเงิน",
+		"icon": "/Game/Resources/Icon/item/WeaponFragment_",
+		"type": "MATERIAL",
+		"id": "Item_MidAutumnLantern"
 	},
 	"Item_AutumnCoin_01": {
 		"name": "เหรียญโกลเด้นเมเปิล",
@@ -18141,12 +18369,6 @@
 		"icon": "/Game/Resources/Icon/item/HalloweenCoin_04",
 		"type": "BARTER",
 		"id": "Item_HalloweenCoin_04"
-	},
-	"Item_FollowGhostCoin": {
-		"name": "Карамельное яблоко",
-		"icon": "/Game/Resources/Icon/huobi/FollowGhostCoin",
-		"type": "BARTER",
-		"id": "Item_FollowGhostCoin"
 	},
 	"Item_Aida_token": {
 		"name": "เหรียญสมดุล",
@@ -19369,6 +19591,18 @@
 		"icon": "/Game/Resources/Icon/item/fashion_LBLY_weapon",
 		"type": "CONSUMABLE",
 		"id": "imitation_fashion_48_w"
+	},
+	"imitation_fashion_49": {
+		"name": "เสน่ห์อันเงียบงัน",
+		"icon": "/Game/Resources/Icon/item/fashion_nanyin",
+		"type": "CONSUMABLE",
+		"id": "imitation_fashion_49"
+	},
+	"imitation_fashion_49_w": {
+		"name": "เสียงอันแจ่มชัด",
+		"icon": "/Game/Resources/Icon/item/fashion_nanyin_w",
+		"type": "CONSUMABLE",
+		"id": "imitation_fashion_49_w"
 	},
 	"imitation_fashion_50": {
 		"name": "ซีค",
@@ -21151,11 +21385,23 @@
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_004"
 	},
+	"Avatar_FishKing_Jiuyu_005": {
+		"name": "ปลาเก๋าครีบดำ",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_005",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_005"
+	},
 	"Avatar_FishKing_Jiuyu_008": {
 		"name": "ปลาแดงชาด",
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_008",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_008"
+	},
+	"Avatar_FishKing_Jiuyu_009": {
+		"name": "ลาวาโกลด์",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_009",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_009"
 	},
 	"Avatar_FishKing_Jiuyu_012": {
 		"name": "ปลาบู่ลาย",
@@ -21181,11 +21427,29 @@
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_016"
 	},
+	"Avatar_FishKing_Jiuyu_018": {
+		"name": "ปลามังกรไฟฟ้าไข่มุก",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_018",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_018"
+	},
+	"Avatar_FishKing_Jiuyu_019": {
+		"name": "ปลากัดน้ำแข็งทมิฬ",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_019",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_019"
+	},
 	"Avatar_FishKing_Jiuyu_020": {
 		"name": "ปลาช่อนสายรุ้ง",
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_020",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_020"
+	},
+	"Avatar_FishKing_Jiuyu_022": {
+		"name": "ปลาคาร์ปใบสน",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_022",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_022"
 	},
 	"Avatar_FishKing_Jiuyu_026": {
 		"name": "ปลาเกล็ดรุ้ง",
@@ -21216,6 +21480,12 @@
 		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_031",
 		"type": "AVATAR",
 		"id": "Avatar_FishKing_Jiuyu_031"
+	},
+	"Avatar_FishKing_Jiuyu_032": {
+		"name": "ปลาดุกแก้ว",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_jiuyu_fishking_032",
+		"type": "AVATAR",
+		"id": "Avatar_FishKing_Jiuyu_032"
 	},
 	"Avatar_FishKing_Jiuyu_035": {
 		"name": "โคอิ",
@@ -22465,6 +22735,12 @@
 		"type": "CONSUMABLE",
 		"id": "Title_1_1_22_1"
 	},
+	"Title_1_1_23_1": {
+		"name": "บันทึกห้วงนรกตุ้ยโจว",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_1_23_1"
+	},
 	"Avatar_suoni": {
 		"name": "ผู้ดูแลอัจฉริยะ 2.0",
 		"icon": "/Game/Resources/Icon/Avatar/Item_Avatar_suoni",
@@ -22591,6 +22867,180 @@
 		"type": "CONSUMABLE",
 		"id": "Title_1_8_0_5"
 	},
+	"Title_1_6_4_1": {
+		"name": "นักปราชญ์ซิลเวอร์โคสต์",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_1"
+	},
+	"Title_1_6_4_2": {
+		"name": "ขี้เมาแห่งมิรามูน",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_2"
+	},
+	"Title_1_6_4_3": {
+		"name": "นักท่องเที่ยวซุปหอม",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_3"
+	},
+	"Title_1_6_4_4": {
+		"name": "ช่างน้ำตาลจานพิเศษ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_4"
+	},
+	"Title_1_6_4_5": {
+		"name": "ไม่นับแคลถือว่าไม่อ้วน",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_5"
+	},
+	"Title_1_6_4_6": {
+		"name": "ก๊าบ ก๊าบ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_6"
+	},
+	"Title_1_6_4_7": {
+		"name": "ห้องฉายภาพพาราไดซ์",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_7"
+	},
+	"Title_1_6_4_8": {
+		"name": "สุขสันต์พัลวัน",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_8"
+	},
+	"Title_1_6_4_9": {
+		"name": "นักชิมสันโดษ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_9"
+	},
+	"Title_1_6_4_10": {
+		"name": "Future 1",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_10"
+	},
+	"Title_1_6_4_11": {
+		"name": "ทะเลทรายอันเร่าร้อน",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_11"
+	},
+	"Title_1_6_4_12": {
+		"name": "เอานี่ไปกิน!",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_12"
+	},
+	"Title_1_6_4_13": {
+		"name": "กดดันเกินไป",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_13"
+	},
+	"Title_1_6_4_14": {
+		"name": "ดวงตาแห่งมิเรอเรีย",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_14"
+	},
+	"Title_1_6_4_15": {
+		"name": "นักท่องกาแล็กซี",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_15"
+	},
+	"Title_1_6_4_16": {
+		"name": "พวกหมาแมวมันรักฉัน",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_16"
+	},
+	"Title_1_6_4_17": {
+		"name": "เจ้าแห่งแฟชั่น",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_17"
+	},
+	"Title_1_6_4_18": {
+		"name": "หมาป่าแห่งเทียนเหอ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_18"
+	},
+	"Title_1_6_4_19": {
+		"name": "มือแห่งไมดาส",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_19"
+	},
+	"Title_1_6_4_20": {
+		"name": "ยุติธรรมต่อทุกวัย",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_20"
+	},
+	"Title_1_6_4_21": {
+		"name": "ฉันเลิศฉันรู้ตัว",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_21"
+	},
+	"Title_1_6_4_22": {
+		"name": "เก้าหวนคืนวิญญาณ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_22"
+	},
+	"Title_1_6_4_23": {
+		"name": "เจ้าของที่ดีที่สุดแห่งปี",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_23"
+	},
+	"Title_1_6_4_24": {
+		"name": "ร้านของชำไร้กังวล",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_24"
+	},
+	"Title_1_6_4_25": {
+		"name": "ทายาทมังกร",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_25"
+	},
+	"Title_1_6_4_26": {
+		"name": "ชีวิตกำหนด",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_26"
+	},
+	"Title_1_6_4_27": {
+		"name": "กลับจุดเริ่มต้น",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_27"
+	},
+	"Title_1_6_4_28": {
+		"name": "ตัวแทน HOTTA",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_28"
+	},
+	"Title_1_6_4_29": {
+		"name": "หัวหน้าทีมความปลอดภัย",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_1_6_4_29"
+	},
 	"Mount_Racing_003": {
 		"name": "รถบลูฟรอสบลูม",
 		"icon": "/Game/Resources/Icon/Mount/zuoqi_saiche_128",
@@ -22608,6 +23058,12 @@
 		"icon": "/Game/Resources/Icon/Avatar/avatar_linghan",
 		"type": "AVATAR",
 		"id": "linghan"
+	},
+	"nanyin": {
+		"name": "หนานอิน",
+		"icon": "/Game/Resources/Icon/Avatar/avatar_nanyin",
+		"type": "AVATAR",
+		"id": "nanyin"
 	},
 	"Mount_022": {
 		"name": "ฟองสบู่ลอยล่องมินิ",
@@ -22688,14 +23144,68 @@
 		"id": "Avatar_103"
 	},
 	"Avatar_104": {
+		"name": "เสียงหัวเราะแบบเด็ก",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_104",
 		"type": "AVATAR",
 		"id": "Avatar_104"
 	},
 	"Avatar_105": {
+		"name": "ผู้ชำนาญเพลงขลุ่ย",
 		"icon": "/Game/Resources/Icon/item/Item_Avatar_105",
 		"type": "AVATAR",
 		"id": "Avatar_105"
+	},
+	"Avatar_106": {
+		"name": "นักโทษ",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_106",
+		"type": "AVATAR",
+		"id": "Avatar_106"
+	},
+	"Avatar_107": {
+		"name": "หน้ากากคืนต้องห้าม",
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_107",
+		"type": "AVATAR",
+		"id": "Avatar_107"
+	},
+	"Avatar_108": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_108",
+		"type": "AVATAR",
+		"id": "Avatar_108"
+	},
+	"Avatar_109": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_109",
+		"type": "AVATAR",
+		"id": "Avatar_109"
+	},
+	"Avatar_110": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_110",
+		"type": "AVATAR",
+		"id": "Avatar_110"
+	},
+	"Avatar_111": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_111",
+		"type": "AVATAR",
+		"id": "Avatar_111"
+	},
+	"Avatar_112": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_112",
+		"type": "AVATAR",
+		"id": "Avatar_112"
+	},
+	"Avatar_113": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_113",
+		"type": "AVATAR",
+		"id": "Avatar_113"
+	},
+	"Avatar_114": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_114",
+		"type": "AVATAR",
+		"id": "Avatar_114"
+	},
+	"Avatar_115": {
+		"icon": "/Game/Resources/Icon/item/Item_Avatar_115",
+		"type": "AVATAR",
+		"id": "Avatar_115"
 	},
 	"AvatarFrame_96": {
 		"name": "มังกรคล้อยเมฆาผลิใบมรกต",
@@ -22746,14 +23256,68 @@
 		"id": "AvatarFrame_103"
 	},
 	"AvatarFrame_104": {
+		"name": "เพื่อนเล่นตัวน้อย",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_104",
 		"type": "FRAME",
 		"id": "AvatarFrame_104"
 	},
 	"AvatarFrame_105": {
+		"name": "ริบบิ้นผ้าไหมสีฟ้า",
 		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_105",
 		"type": "FRAME",
 		"id": "AvatarFrame_105"
+	},
+	"AvatarFrame_106": {
+		"name": "โครงกระดูก",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_106",
+		"type": "FRAME",
+		"id": "AvatarFrame_106"
+	},
+	"AvatarFrame_107": {
+		"name": "ขนแพรปัก",
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107",
+		"type": "FRAME",
+		"id": "AvatarFrame_107"
+	},
+	"AvatarFrame_108": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_108",
+		"type": "FRAME",
+		"id": "AvatarFrame_108"
+	},
+	"AvatarFrame_109": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_109",
+		"type": "FRAME",
+		"id": "AvatarFrame_109"
+	},
+	"AvatarFrame_110": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_110",
+		"type": "FRAME",
+		"id": "AvatarFrame_110"
+	},
+	"AvatarFrame_111": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_111",
+		"type": "FRAME",
+		"id": "AvatarFrame_111"
+	},
+	"AvatarFrame_112": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_112",
+		"type": "FRAME",
+		"id": "AvatarFrame_112"
+	},
+	"AvatarFrame_113": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_113",
+		"type": "FRAME",
+		"id": "AvatarFrame_113"
+	},
+	"AvatarFrame_114": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_114",
+		"type": "FRAME",
+		"id": "AvatarFrame_114"
+	},
+	"AvatarFrame_115": {
+		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_115",
+		"type": "FRAME",
+		"id": "AvatarFrame_115"
 	},
 	"chat_qipao_96": {
 		"name": "ฝ่าอุปสรรค",
@@ -22804,14 +23368,68 @@
 		"id": "chat_qipao_103"
 	},
 	"chat_qipao_104": {
+		"name": "ฉันสัญญา",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_104",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_104"
 	},
 	"chat_qipao_105": {
+		"name": "ความงามของดอกไม้",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_105",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_105"
+	},
+	"chat_qipao_106": {
+		"name": "คมดาบหัก",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_106",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_106"
+	},
+	"chat_qipao_107": {
+		"name": "ม้วนไหมแก้วหยก",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_107"
+	},
+	"chat_qipao_108": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_108",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_108"
+	},
+	"chat_qipao_109": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_109",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_109"
+	},
+	"chat_qipao_110": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_110",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_110"
+	},
+	"chat_qipao_111": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_111",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_111"
+	},
+	"chat_qipao_112": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_112",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_112"
+	},
+	"chat_qipao_113": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_113",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_113"
+	},
+	"chat_qipao_114": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_114",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_114"
+	},
+	"chat_qipao_115": {
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_115",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_115"
 	},
 	"animated_qipao_1": {
 		"name": "แรงบันดาลใจแห่งบทกวี",
@@ -22903,6 +23521,204 @@
 		"type": "AVATAR",
 		"id": "moliniya"
 	},
+	"Mount_Water_007_Skin_02": {
+		"name": "โลมาแฟนธอม",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_1",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_02"
+	},
+	"Mount_Water_007_Skin_03": {
+		"name": "โลมาแฟนธอมสีทอง",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_2",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_03"
+	},
+	"Mount_Water_007_Skin_04": {
+		"name": "โลมาแฟนธอมสีชาด",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_3",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_04"
+	},
+	"Mount_Water_007_Skin_05": {
+		"name": "โลมาแฟนธอมสีขาว",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_4",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_05"
+	},
+	"Mount_Water_007_Skin_06": {
+		"name": "โลมาแฟนธอมสีดำ",
+		"icon": "/Game/Resources/Icon/Mount/MountWater7_5",
+		"type": "SKIN",
+		"id": "Mount_Water_007_Skin_06"
+	},
+	"nanyin_lv2": {
+		"name": "หนานอิน: ปลุกพลัง",
+		"icon": "/Game/Resources/Icon/item/icon_nanyin_lv2",
+		"type": "AVATAR",
+		"id": "nanyin_lv2"
+	},
+	"linye_lv2": {
+		"name": "หลิน: ปลุกพลัง",
+		"icon": "/Game/Resources/Icon/item/icon_linye_lv2",
+		"type": "AVATAR",
+		"id": "linye_lv2"
+	},
+	"feiouna_lv2": {
+		"name": "ฟิโอนา: ปลุกพลัง",
+		"icon": "/Game/Resources/Icon/item/icon_fiona_lv2",
+		"type": "AVATAR",
+		"id": "feiouna_lv2"
+	},
+	"genuonuo_lv2": {
+		"name": "กนอนโน: ปลุกพลัง",
+		"icon": "/Game/Resources/Icon/item/icon_genuonuo_lv2",
+		"type": "AVATAR",
+		"id": "genuonuo_lv2"
+	},
+	"leibiliya_lv2": {
+		"name": "รูบิเลีย: ปลุกพลัง",
+		"icon": "/Game/Resources/Icon/item/icon_leibiliya_lv2",
+		"type": "AVATAR",
+		"id": "leibiliya_lv2"
+	},
+	"liuhuo_lv2": {
+		"name": "หลิวฮั่ว: ปลุกพลัง",
+		"icon": "/Game/Resources/Icon/item/icon_liuhuo_lv2",
+		"type": "AVATAR",
+		"id": "liuhuo_lv2"
+	},
+	"yulan_lv2": {
+		"name": "หยู่หลาน: ปลุกพลัง",
+		"icon": "/Game/Resources/Icon/item/icon_yulan_lv2",
+		"type": "AVATAR",
+		"id": "yulan_lv2"
+	},
+	"aige_lv2": {
+		"name": "ชุดตะลุยแดนรกร้าง",
+		"icon": "/Game/Resources/Icon/item/icon_aige_lv2",
+		"type": "AVATAR",
+		"id": "aige_lv2"
+	},
+	"Item_WorldPuzzle_JiuyuCompass1": {
+		"name": "จานเข็มทิศ: เว่ยคุนเซิน",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_1",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass1"
+	},
+	"Item_WorldPuzzle_JiuyuCompass2": {
+		"name": "จานเข็มทิศ: โจวเกิงหยิน",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_2",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass2"
+	},
+	"Item_WorldPuzzle_JiuyuCompass3": {
+		"name": "จานเข็มทิศ: เฉินซุนซี",
+		"icon": "/Game/Resources/Icon/JIUYU/ltem_JiuYu_quest_luopan_3",
+		"type": "QUEST",
+		"id": "Item_WorldPuzzle_JiuyuCompass3"
+	},
+	"HXXK_clue": {
+		"name": "ตามหาเบาะแส",
+		"icon": "/Game/Resources/UI/Activity/SealedBook/item_xiansuo",
+		"type": "BARTER",
+		"id": "HXXK_clue"
+	},
+	"Item_FiveSenseRddles_Cooking1": {
+		"name": "บะหมี่ซี่โครงเส้นหนา",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking18",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking1"
+	},
+	"Item_FiveSenseRddles_Cooking2": {
+		"name": "เสี่ยวหลงเปาแสนชุ่มฉ่ำ",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking27",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking2"
+	},
+	"Item_FiveSenseRddles_Cooking3": {
+		"name": "ไข่ใบชาสุดกำลัง",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking21",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking3"
+	},
+	"Item_FiveSenseRddles_Cooking4": {
+		"name": "บะหมี่เผ็ดเปรี้ยวร้อน ๆ",
+		"icon": "/Game/Resources/Icon/caiyao/Jiuyu_Cooking23",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Cooking4"
+	},
+	"Item_FiveSenseRddles_Book1": {
+		"name": "\"เทคนิคซ่อมแซม 1 แสนประการ\" (เล่มที่ 1)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book1",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book1"
+	},
+	"Item_FiveSenseRddles_Book2": {
+		"name": "\"เทคนิคซ่อมแซม 1 แสนประการ\" (เล่มที่ 2)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book2",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book2"
+	},
+	"Item_FiveSenseRddles_Book3": {
+		"name": "\"เทคนิคซ่อมแซม 1 แสนประการ\" (เล่มที่ 3)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book3",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book3"
+	},
+	"Item_FiveSenseRddles_Book4": {
+		"name": "\"เทคนิคซ่อมแซม 1 แสนประการ\" (เล่มที่ 4)",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Book4",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Book4"
+	},
+	"Item_FiveSenseRddles_Compass1": {
+		"name": "จานเข็มทิศ: เข็มทิศที่แตกหัก",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass1",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass1"
+	},
+	"Item_FiveSenseRddles_Compass2": {
+		"name": "จานเข็มทิศ: เศษที่ 1",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass2",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass2"
+	},
+	"Item_FiveSenseRddles_Compass3": {
+		"name": "จานเข็มทิศ: เศษที่ 2",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass3",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass3"
+	},
+	"Item_FiveSenseRddles_Compass4": {
+		"name": "จานเข็มทิศ: เศษที่ 3",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass4",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass4"
+	},
+	"Item_FiveSenseRddles_Compass5": {
+		"name": "จานเข็มทิศ: เศษที่ 4",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass5",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass5"
+	},
+	"Item_FiveSenseRddles_Compass6": {
+		"name": "จานเข็มทิศ: เศษที่ 5",
+		"icon": "/Game/Resources/Icon/item/FiveSenseRddles_Compass6",
+		"type": "QUEST",
+		"id": "Item_FiveSenseRddles_Compass6"
+	},
+	"Item_JiuYu_quest_lingpai": {
+		"name": "ป้ายคำสั่งของเฉินหยวน",
+		"icon": "/Game/Resources/Icon/JIUYU/Item_JiuYu_quest_lingpai",
+		"type": "QUEST",
+		"id": "Item_JiuYu_quest_lingpai"
+	},
+	"Mount_026": {
+		"name": "เรือนวิเศษ",
+		"icon": "/Game/Resources/Icon/Mount/Mount_026",
+		"type": "MOUNT",
+		"id": "Mount_026"
+	},
 	"TicketCard01": {
 		"name": "แต้มนำโชคดาวไล่ล่า เฟสที่ 1",
 		"icon": "/Game/Resources/UI/Activity/SailingPlane/dianshu",
@@ -22939,53 +23755,41 @@
 		"type": "COUNT",
 		"id": "TicketCard06"
 	},
-	"HXXK_clue": {
-		"name": "Искать улики",
-		"icon": "/Game/Resources/UI/Activity/item_xiansuo",
-		"type": "BARTER",
-		"id": "HXXK_clue"
-	},
-	"Avatar_107": {
-		"name": "Маска ночи",
-		"icon": "/Game/Resources/Icon/item/Item_Avatar_107",
-		"type": "AVATAR",
-		"id": "Avatar_107"
-	},
-	"AvatarFrame_107": {
-		"name": "Шелковый плюмаж",
-		"icon": "/Game/Resources/Icon/item/icon_AvatarFrame_107",
-		"type": "FRAME",
-		"id": "AvatarFrame_107"
-	},
-	"chat_qipao_107": {
-		"name": "Самоцветный свиток",
-		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_107",
-		"type": "CONSUMABLE",
-		"id": "chat_qipao_107"
-	},
 	"bag_chat_qipao107": {
-		"name": "Подарочная коробка «Маска ночи»",
+		"name": "กล่องของขวัญหน้ากากคืนต้องห้าม",
 		"icon": "/Game/Resources/Icon/item/bag_chat_qipao107",
 		"type": "GIFT",
 		"id": "bag_chat_qipao107"
 	},
-	"fashion_dress_58_4": {
-		"name": "Шелковый наряд",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/item_fashion_icon/fashion_f58",
-		"type": "CONSUMABLE",
-		"id": "fashion_dress_58_4"
-	},
-	"Hat_73_4_4": {
-		"name": "Алый нетопырь",
-		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_157",
-		"type": "CONSUMABLE",
-		"id": "Hat_73_4_4"
-	},
 	"fashion_decoration_91_4": {
-		"name": "Бесенок",
+		"name": "ปีศาจตัวน้อย ๆ",
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_152",
 		"type": "CONSUMABLE",
 		"id": "fashion_decoration_91_4"
+	},
+	"fragment_Hat_29_4_4": {
+		"name": "เศษลูกอมฟักทอง",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_101",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_29_4_4"
+	},
+	"GVE_BuffCoin": {
+		"name": "เศษสิ่งของบุกเบิก",
+		"icon": "/Game/Resources/Icon/item/GVE_BuffCoin",
+		"type": "BARTER",
+		"id": "GVE_BuffCoin"
+	},
+	"GVE_experience": {
+		"name": "EXP สร้างใหม่",
+		"icon": "/Game/Resources/Icon/item/miwu_icon_exp",
+		"type": "CONSUMABLE",
+		"id": "GVE_experience"
+	},
+	"GVE_action": {
+		"name": "คริสตัลหมอก",
+		"icon": "/Game/Resources/Icon/item/miwu_icon_jingli",
+		"type": "CONSUMABLE",
+		"id": "GVE_action"
 	},
 	"Avatar_Overseas_9": {
 		"name": "ซาคิ ฟูวะ: โพสท่าตัว T",
@@ -24254,8 +25058,14 @@
 		"type": "BARTER",
 		"id": "WeaponFragment_DoubleUP10_OS"
 	},
+	"WeaponFragment_DoubleUP11_OS": {
+		"name": "ทองเปลวเพลิง (เหนือมนุษย์)",
+		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
+		"type": "BARTER",
+		"id": "WeaponFragment_DoubleUP11_OS"
+	},
 	"WeaponFragment_ALLUP_OS": {
-		"name": "Огненное золото (Путешествие)",
+		"name": "ทองเปลวเพลิง (การเดินทาง)",
 		"icon": "/Game/Resources/Icon/huobi/weaponfragment_up",
 		"type": "BARTER",
 		"id": "WeaponFragment_ALLUP_OS"
@@ -24380,8 +25190,14 @@
 		"type": "BARTER",
 		"id": "EquipFragment_DoubleUP10_OS"
 	},
+	"EquipFragment_DoubleUP11_OS": {
+		"name": "ชิปโอเวอร์คล็อก (เหนือมนุษย์)",
+		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
+		"type": "BARTER",
+		"id": "EquipFragment_DoubleUP11_OS"
+	},
 	"EquipFragment_ALLUP_OS": {
-		"name": "Чип разгона (Путешествие)",
+		"name": "ชิปโอเวอร์คล็อก (การเดินทาง)",
 		"icon": "/Game/Resources/Icon/item/matrixfragment_up",
 		"type": "BARTER",
 		"id": "EquipFragment_ALLUP_OS"
@@ -24704,6 +25520,12 @@
 		"type": "BARTER",
 		"id": "Item_spring2023_os"
 	},
+	"Item_ThanksgivingCoin_OS": {
+		"name": "ขาไก่งวงสีทอง",
+		"icon": "/Game/Resources/Icon/huobi/thanksgivingcoin",
+		"type": "BARTER",
+		"id": "Item_ThanksgivingCoin_OS"
+	},
 	"choose_frag_BP7_os": {
 		"name": "กล่องเศษรีลิคบัตรพาส III",
 		"icon": "/Game/Resources/Icon/item/gift_artifact_frag_ssr",
@@ -24781,6 +25603,18 @@
 		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_Anniversary_OS_hat",
 		"type": "CHOOSE",
 		"id": "choose_fashion_Anniversary_OS_hat"
+	},
+	"choose_fashion_BlackFriday_OS_dress": {
+		"name": "กล่องชุดเลือกเองไซเบอร์ฟรายเดย์",
+		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_FON_OS_dress",
+		"type": "CHOOSE",
+		"id": "choose_fashion_BlackFriday_OS_dress"
+	},
+	"choose_fashion_BlackFriday_OS_hat": {
+		"name": "กล่องเลือกหมวก I",
+		"icon": "/Game/ResourcesOverSea/Icon/item/choose_fashion_FON_OS_hat",
+		"type": "CHOOSE",
+		"id": "choose_fashion_BlackFriday_OS_hat"
 	},
 	"Item_OrienteeringCoin_OS_01": {
 		"name": "เหรียญสปีด",
@@ -24968,6 +25802,12 @@
 		"type": "WEAPON",
 		"id": "linghan_ice_trial_OS"
 	},
+	"nanyin_superpower_trial_OS": {
+		"name": "เพอเพิลแบมบู \"24H\"",
+		"icon": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Nanyin_Superpower01",
+		"type": "WEAPON",
+		"id": "nanyin_superpower_trial_OS"
+	},
 	"bag_LizhouOpenSign_1_OS": {
 		"name": "กล่องของขวัญทะเลเมฆ I",
 		"icon": "/Game/Resources/Icon/item/treasure_SpringFestivalSign",
@@ -25041,7 +25881,7 @@
 		"id": "choose_frag_ssr_2_OS"
 	},
 	"choose_frag_ssr_3_OS": {
-		"name": "Ящик обломков реликвий SSR III",
+		"name": "กล่องเศษรีลิค SSR III",
 		"icon": "/Game/Resources/Icon/item/gift_artifact_frag_ssr",
 		"type": "CHOOSE",
 		"id": "choose_frag_ssr_3_OS"
@@ -25153,6 +25993,12 @@
 		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_103",
 		"type": "FRAGMENT",
 		"id": "fragment_Hat_28_4_4_OS"
+	},
+	"fragment_Hat_71_4_4_OS": {
+		"name": "เศษ \"ตำนานทองคำ\"",
+		"icon": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_153",
+		"type": "FRAGMENT",
+		"id": "fragment_Hat_71_4_4_OS"
 	},
 	"AvatarFrame_txcreatos_04": {
 		"name": "กาลอวกาศต่างดินแดน",
@@ -25280,6 +26126,12 @@
 		"type": "MATERIAL",
 		"id": "Item_Gashapon_coin_16_OS"
 	},
+	"Item_BlackFriday_coin_OS": {
+		"name": "เหรียญกาชาไซเบอร์ฟรายเดย์",
+		"icon": "/Game/Resources/Icon/huobi/gashapon_coin3",
+		"type": "MATERIAL",
+		"id": "Item_BlackFriday_coin_OS"
+	},
 	"Avatar_Overseas_26": {
 		"name": "หวง: โพสท่าตัว T",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_26i",
@@ -25353,7 +26205,7 @@
 		"id": "Title_iwplay33_os02"
 	},
 	"Title_iwplay33_os03": {
-		"name": "DNT",
+		"name": "ทริกออร์ทรีต",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_iwplay33_os03"
@@ -25419,7 +26271,7 @@
 		"id": "Title_iwplay33_os13"
 	},
 	"Title_iwplay33_os14": {
-		"name": "DNT",
+		"name": "ช่วงแห่งความสุข",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_iwplay33_os14"
@@ -25461,7 +26313,7 @@
 		"id": "Title_Korea33_os05"
 	},
 	"Title_Korea33_os06": {
-		"name": "DNT",
+		"name": "สุขสันต์วันไวท์เดย์!",
 		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
 		"type": "CONSUMABLE",
 		"id": "Title_Korea33_os06"
@@ -25521,58 +26373,250 @@
 		"id": "AvatarFrame_PlayStation33_os02"
 	},
 	"Avatar_Overseas_28": {
-		"name": "Линхань: Т-поза",
+		"name": "หลิงหาน: โพสท่าตัว T",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_28i",
 		"type": "AVATAR",
 		"id": "Avatar_Overseas_28"
 	},
 	"Avatar_tongyong33_os01": {
-		"name": "Граф Дракула",
+		"name": "เคานต์แดรกคูลา",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os01i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os01"
 	},
 	"Avatar_tongyong33_os02": {
-		"name": "Древесная принцесса",
+		"name": "องค์หญิงมู่มู่",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os02i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os02"
 	},
 	"Avatar_tongyong33_os03": {
-		"name": "Маленький дух",
+		"name": "ดวงวิญญาณน้อย",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os03i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os03"
 	},
 	"Avatar_tongyong33_os04": {
-		"name": "Королева страшилок",
+		"name": "พี่สาวจอมกระโดด",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_tongyong33_os04i",
 		"type": "AVATAR",
 		"id": "Avatar_tongyong33_os04"
 	},
 	"AvatarFrame_txcreatos_07": {
-		"name": "Лазурный лес",
+		"name": "ป่าแห่งมังกรคราม",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_txcreatos_07i",
 		"type": "FRAME",
 		"id": "AvatarFrame_txcreatos_07"
 	},
 	"Avatar_Koreatongyong33_01": {
-		"name": "Огнекрыс",
+		"name": "หนูเพลิง",
 		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Koreatongyong33_01i",
 		"type": "AVATAR",
 		"id": "Avatar_Koreatongyong33_01"
 	},
 	"AvatarFrame_Koreatongyong33_01": {
-		"name": "Огненное кольцо",
+		"name": "วงแหวนไฟ",
 		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_Koreatongyong33_01i",
 		"type": "FRAME",
 		"id": "AvatarFrame_Koreatongyong33_01"
 	},
 	"chat_qipao_Koreatongyong33_01": {
-		"name": "Яркое пламя",
+		"name": "ลุกไหม้",
 		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_Koreatongyong33_01",
 		"type": "CONSUMABLE",
 		"id": "chat_qipao_Koreatongyong33_01"
+	},
+	"coupon60_10": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon60_10"
+	},
+	"coupon300_60": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon300_60"
+	},
+	"coupon980_150": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon980_150"
+	},
+	"coupon1980_250": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon1980_250"
+	},
+	"coupon3280_350": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon3280_350"
+	},
+	"coupon6480_650": {
+		"icon": "/Game/Resources/Icon/huobi/taijingjuan",
+		"type": "CONSUMABLE",
+		"id": "coupon6480_650"
+	},
+	"item_hjdlb_ps": {
+		"name": "แพ็กของขวัญการวิจัยไฮครอส",
+		"icon": "/Game/Resources/Icon/item/item_Box_haijiade",
+		"type": "EQUIPMENT",
+		"id": "item_hjdlb_ps"
+	},
+	"Title_PlayStation34_os01": {
+		"name": "มณฑลต้องห้ามของผู้พิทักษ์แห่งตุ้ยโจว",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os01"
+	},
+	"Title_PlayStation34_os02": {
+		"name": "นักผจญภัยไซเบอร์พังก์",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os02"
+	},
+	"Title_PlayStation34_os03": {
+		"name": "แวนการ์ดมิเรอเรีย",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os03"
+	},
+	"Title_PlayStation34_os04": {
+		"name": "หัวใจแห่งโอเอซิส",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os04"
+	},
+	"Title_PlayStation34_os05": {
+		"name": "ผู้พิทักษ์แห่งทะเลทราย",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os05"
+	},
+	"Title_PlayStation34_os06": {
+		"name": "หัวใจแห่งท้องทะเล",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os06"
+	},
+	"Title_PlayStation34_os07": {
+		"name": "นักสำรวจทะเลลึก",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os07"
+	},
+	"Title_PlayStation34_os08": {
+		"name": "นักผจญภัยทะเลลึก",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os08"
+	},
+	"Title_PlayStation34_os09": {
+		"name": "ผู้นำทางทะเลลึก",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os09"
+	},
+	"Title_PlayStation34_os10": {
+		"name": "ผู้หลงทางในเกาะประดิษฐ์",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os10"
+	},
+	"Title_PlayStation34_os11": {
+		"name": "เจ้าของเกาะประดิษฐ์",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os11"
+	},
+	"Title_PlayStation34_os12": {
+		"name": "ช่วงเวลาอบอุ่นหัวใจ",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os12"
+	},
+	"Title_PlayStation34_os13": {
+		"name": "ดารารัตติกาลหิมะโปรย",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os13"
+	},
+	"Title_PlayStation34_os14": {
+		"name": "โหมโรงแห่งแสงแรก",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_PlayStation34_os14"
+	},
+	"Title_Korea34_os01": {
+		"name": "DNT",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_Korea34_os01"
+	},
+	"Title_Korea34_os02": {
+		"name": "DNT",
+		"icon": "/Game/Resources/Icon/pet/pet_chip_0101",
+		"type": "CONSUMABLE",
+		"id": "Title_Korea34_os02"
+	},
+	"chat_qipao_tencent_03": {
+		"name": "กล้าดียังไง!",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_tencent_03",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_tencent_03"
+	},
+	"chat_qipao_ps_01": {
+		"name": "ม่านเยว่",
+		"icon": "/Game/Resources/Icon/chat/qipao/icon_qipao_koreaMoonFestival_01",
+		"type": "CONSUMABLE",
+		"id": "chat_qipao_ps_01"
+	},
+	"Avatar_Overseas_29": {
+		"name": "หนานอิน: โพสท่าตัว T",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_29i",
+		"type": "AVATAR",
+		"id": "Avatar_Overseas_29"
+	},
+	"Avatar_Overseas_30": {
+		"name": "มีอาไซเบอร์ฟรายเดย์",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_Overseas_30i",
+		"type": "AVATAR",
+		"id": "Avatar_Overseas_30"
+	},
+	"Avatar_ps_01": {
+		"name": "ประเภท - ??",
+		"icon": "/Game/ResourcesOverSea/Icon/item/Avatar_koreaMoonFestival_01i",
+		"type": "AVATAR",
+		"id": "Avatar_ps_01"
+	},
+	"AvatarFrame_tencent_03": {
+		"name": "กระบี่เกล็ดหิมะ",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_03i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_03"
+	},
+	"AvatarFrame_tencent_04": {
+		"name": "ผู้บุกเบิกไอดา 3",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_04i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_04"
+	},
+	"AvatarFrame_tencent_05": {
+		"name": "พลังแห่งวันศุกร์",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_tencent_05i",
+		"type": "FRAME",
+		"id": "AvatarFrame_tencent_05"
+	},
+	"AvatarFrame_PlayStation_02": {
+		"name": "ราตรี",
+		"icon": "/Game/ResourcesOverSea/Icon/item/AvatarFrame_koreaMoonFestival_01i",
+		"type": "FRAME",
+		"id": "AvatarFrame_PlayStation_02"
+	},
+	"Item_Festival_BadImitation_OS": {
+		"name": "การ์ดแปลงร่างกระต่ายสุ่ม",
+		"icon": "/Game/Resources/Icon/item/UI_bianshen_icon_rabbit01",
+		"type": "GIFT",
+		"id": "Item_Festival_BadImitation_OS"
 	},
 	"artifact_ssr_001": {
 		"name": "แขนคอลอสซัส",
@@ -25707,7 +26751,7 @@
 		"id": "artifact_sr_005_B_WXM"
 	},
 	"artifact_sr_006": {
-		"name": "เจ็ตบอร์ด",
+		"name": "เจ็ต\r\nบอร์ด",
 		"icon": "/Game/Resources/UI/Artifact/itemicon/artifact_sr_006",
 		"type": "ARTIFACT",
 		"id": "artifact_sr_006"
