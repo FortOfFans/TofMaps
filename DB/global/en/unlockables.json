@@ -344,6 +344,23 @@
 			{
 				"text": "Log: Toward the Future",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Graceday",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_15"
@@ -365,6 +382,23 @@
 			{
 				"text": "Log: Your True Self",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Tasting the Fruits of Labor",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_16"
@@ -529,6 +563,23 @@
 			{
 				"text": "Log: On Track",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: The Doctor's Condition",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_24"
@@ -571,6 +622,23 @@
 			{
 				"text": "Log: Stars in Dream",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Discoveries in Domain 9",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_29"
@@ -592,6 +660,23 @@
 			{
 				"text": "Log: My Master",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Training Plan",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_26"
@@ -613,6 +698,23 @@
 			{
 				"text": "Log: Me and You",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Protecting Others",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_30"
@@ -634,6 +736,23 @@
 			{
 				"text": "Log: First Contact",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Magic Show",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_31"
@@ -655,6 +774,23 @@
 			{
 				"text": "Log: Fenrir is looking for you",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Waiting for the Show",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_32"
@@ -676,6 +812,23 @@
 			{
 				"text": "Log: Common Destiny",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Waiting for Departure",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_34"
@@ -697,6 +850,23 @@
 			{
 				"text": "Log: Side by Side",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Keep Warm",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_35"
@@ -1101,5 +1271,81 @@
 			}
 		],
 		"id": "imitation_49"
+	},
+	"imitation_46": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Put in Effort",
+				"stage": 600
+			},
+			{
+				"text": "Log: New Changes",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Believe in Yourself",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Getting Hands-On",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_46"
+	},
+	"imitation_52": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Log: Seed of Gems",
+				"stage": 600
+			},
+			{
+				"text": "Log: Sprout of Gems",
+				"stage": 2000
+			},
+			{
+				"text": "Log: Bud of Gems",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Log: Thought of Gems",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_52"
 	}
 }

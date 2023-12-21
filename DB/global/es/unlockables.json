@@ -344,6 +344,23 @@
 			{
 				"text": "Bitácora: Hacia el Futuro",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Día de Gracia",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_15"
@@ -365,6 +382,23 @@
 			{
 				"text": "Bitácora: Tu Verdadero Ser",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Los frutos del trabajo",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_16"
@@ -529,6 +563,23 @@
 			{
 				"text": "Bitácora: Rastreo",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: La condición del doctor",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_24"
@@ -571,6 +622,23 @@
 			{
 				"text": "Bitácora: Estrellas en Sueños",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Descubrimientos en el Dominio 9",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_29"
@@ -592,6 +660,23 @@
 			{
 				"text": "Bitácora: Mi Maestre",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Plan de entrenamiento",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_26"
@@ -613,6 +698,23 @@
 			{
 				"text": "Bitácora: Tú y Yo",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Proteger a los demás",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_30"
@@ -634,6 +736,23 @@
 			{
 				"text": "Bitácora: Primer Contacto",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Espectáculo de magia",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_31"
@@ -655,6 +774,23 @@
 			{
 				"text": "Bitácora: Fenrir Te está Buscando",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Esperando el espectáculo",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_32"
@@ -676,6 +812,23 @@
 			{
 				"text": "Bitácora: Destino común",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Esperando la salida",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_34"
@@ -697,6 +850,23 @@
 			{
 				"text": "Bitácora: Lado a Lado",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Mantener el calor",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_35"
@@ -1101,5 +1271,81 @@
 			}
 		],
 		"id": "imitation_49"
+	},
+	"imitation_46": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Esforzarse",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Nuevos cambios",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Cree en ti",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Manos a la obra",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_46"
+	},
+	"imitation_52": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Bitácora: Semilla de gemas",
+				"stage": 600
+			},
+			{
+				"text": "Bitácora: Germinación de gemas",
+				"stage": 2000
+			},
+			{
+				"text": "Bitácora: Brote de gemas",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Bitácora: Pensamiento de gemas",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_52"
 	}
 }

@@ -344,6 +344,23 @@
 			{
 				"text": "Protokoll: In die Zukunft",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Gnadentag",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_15"
@@ -365,6 +382,23 @@
 			{
 				"text": "Protokoll: Dein wahres Selbst",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Die Früchte der Arbeit ernten",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_16"
@@ -529,6 +563,23 @@
 			{
 				"text": "Protokoll: Auf Schiene",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Der ärztliche Zustand",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_24"
@@ -571,6 +622,23 @@
 			{
 				"text": "Protokoll: Sterne im Traum",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Entdeckungen in Gebiet 9",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_29"
@@ -592,6 +660,23 @@
 			{
 				"text": "Protokoll: Mein Meister",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Trainingsplan",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_26"
@@ -613,6 +698,23 @@
 			{
 				"text": "Protokoll: Du und ich",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Andere beschützen",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_30"
@@ -634,6 +736,23 @@
 			{
 				"text": "Protokoll: Erster Kontakt",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Zaubershow",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_31"
@@ -655,6 +774,23 @@
 			{
 				"text": "Protokoll: Fenrir sucht nach dir.",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Warten auf die Show",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_32"
@@ -676,6 +812,23 @@
 			{
 				"text": "Protokoll: Gemeinsames Schicksal",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Warten auf die Abreise",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_34"
@@ -697,6 +850,23 @@
 			{
 				"text": "Protokoll: Seite an Seite",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Warm halten",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_35"
@@ -1101,5 +1271,81 @@
 			}
 		],
 		"id": "imitation_49"
+	},
+	"imitation_46": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Sich Mühe geben",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Neue Änderungen",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: An sich selbst glauben",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Praktisch vorgehen",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_46"
+	},
+	"imitation_52": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Protokoll: Saat der Edelsteine",
+				"stage": 600
+			},
+			{
+				"text": "Protokoll: Spross der Edelsteine",
+				"stage": 2000
+			},
+			{
+				"text": "Protokoll: Knospe der Edelsteine",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Protokoll: Gedanke der Edelsteine",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_52"
 	}
 }

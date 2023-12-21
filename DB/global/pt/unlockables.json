@@ -344,6 +344,23 @@
 			{
 				"text": "Diário: Rumo ao Futuro",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Dia da Bênção",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_15"
@@ -365,6 +382,23 @@
 			{
 				"text": "Diário: Seu Verdadeiro Eu",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Provando os Frutos do Trabalho",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_16"
@@ -529,6 +563,23 @@
 			{
 				"text": "Diário: No Rastro",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: A Condição da Doutora",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_24"
@@ -571,6 +622,23 @@
 			{
 				"text": "Diário: Estrelas em Sonho",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Descobertas no Domínio 9",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_29"
@@ -592,6 +660,23 @@
 			{
 				"text": "Diário: Meu Mestre",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Plano de Treinamento",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_26"
@@ -613,6 +698,23 @@
 			{
 				"text": "Diário: Eu e Você",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Protegendo os Outros",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_30"
@@ -634,6 +736,23 @@
 			{
 				"text": "Diário: Primeiro Contato",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Show de Mágica",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_31"
@@ -655,6 +774,23 @@
 			{
 				"text": "Diário: Fenrir está Procurando Você",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Esperando pela Neve",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_32"
@@ -676,6 +812,23 @@
 			{
 				"text": "Diário: Destino Comum",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Esperando para Partir",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_34"
@@ -697,6 +850,23 @@
 			{
 				"text": "Diário: Lado a Lado",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Aqueça-se",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_35"
@@ -1101,5 +1271,81 @@
 			}
 		],
 		"id": "imitation_49"
+	},
+	"imitation_46": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Esforce-se",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Novas Mudanças",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Acredite em Você",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Mão na Massa",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_46"
+	},
+	"imitation_52": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Diário: Semente de Gemas",
+				"stage": 600
+			},
+			{
+				"text": "Diário: Germinação de Gemas",
+				"stage": 2000
+			},
+			{
+				"text": "Diário: Broto de Gemas",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Diário: Pensamento de Gemas",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_52"
 	}
 }

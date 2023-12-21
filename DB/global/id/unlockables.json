@@ -344,6 +344,23 @@
 			{
 				"text": "Catatan: Toward the Future",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Graceday",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_15"
@@ -365,6 +382,23 @@
 			{
 				"text": "Catatan: Your True Self",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Menikmati Hasil Jerih Payah",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_16"
@@ -529,6 +563,23 @@
 			{
 				"text": "Catatan: Sesuai Rencana",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Kondisi Doctor",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_24"
@@ -571,6 +622,23 @@
 			{
 				"text": "Catatan: Bintang Dalam Mimpi",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Temuan Di Domain 9",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_29"
@@ -592,6 +660,23 @@
 			{
 				"text": "Catatan: Masterku",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Skema Latihan",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_26"
@@ -613,6 +698,23 @@
 			{
 				"text": "Catatan: Kamu dan Aku",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Melindungi Orang Lain",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_30"
@@ -634,6 +736,23 @@
 			{
 				"text": "Catatan: Kontak Pertama",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Pertunjukan Sulap",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_31"
@@ -655,6 +774,23 @@
 			{
 				"text": "Catatan: Fenrir mencarimu",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Menunggu Pertunjukan",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_32"
@@ -676,6 +812,23 @@
 			{
 				"text": "Catatan: Takdir Serupa",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Menunggu Keberangkatan",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_34"
@@ -697,6 +850,23 @@
 			{
 				"text": "Catatan: Berdampingan",
 				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Mencari Kehangatan",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
 			}
 		],
 		"id": "imitation_35"
@@ -1101,5 +1271,81 @@
 			}
 		],
 		"id": "imitation_49"
+	},
+	"imitation_46": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Kerja, Kerja, Kerja",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Perubahan Baru",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Pede Aja, Kali",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Terlibat Langsung",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_46"
+	},
+	"imitation_52": {
+		"unlockables": [
+			{
+				"text": "Avatar: *",
+				"stage": 200
+			},
+			{
+				"text": "Catatan: Bibit Persahabatan",
+				"stage": 600
+			},
+			{
+				"text": "Catatan: Benih Persahabatan",
+				"stage": 2000
+			},
+			{
+				"text": "Catatan: Tunas Persahabatan",
+				"stage": 3000
+			},
+			{
+				"stage": 4500
+			},
+			{
+				"text": "Catatan: Gagasan Persahabatan",
+				"stage": 5000
+			},
+			{
+				"stage": 5500
+			},
+			{
+				"text": "Avatar: *",
+				"stage": 6000
+			},
+			{
+				"stage": 7000
+			}
+		],
+		"id": "imitation_52"
 	}
 }

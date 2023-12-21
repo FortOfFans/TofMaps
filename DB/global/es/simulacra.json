@@ -230,6 +230,20 @@
 		"gachaIcon": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_ailisi",
 		"sim": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_30"
 	},
+	"Killknife_physic": {
+		"name": "Equilibrium",
+		"element": "Physics",
+		"icon": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Killknife",
+		"gachaIcon": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_yanmiao",
+		"sim": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_46"
+	},
+	"Blevi_thunder": {
+		"name": "Pactala Metz",
+		"element": "Thunder",
+		"icon": "/Game/Resources/Icon/weapon/Icon/yizhi_SSR_bulewei",
+		"gachaIcon": "/Game/Resources/UI/chouka/Card/Weapon/SSR_lh_Blevi",
+		"sim": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_47"
+	},
 	"Snipe_fire": {
 		"name": "Cruz de Trébol",
 		"element": "Flame",
@@ -288,7 +302,7 @@
 	},
 	"Zeke_physic": {
 		"name": "Tortuga de Ónix",
-		"element": "PhysicsFlame",
+		"element": "OverseasZeke",
 		"icon": "/Game/Resources/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01",
 		"gachaIcon": "/Game/Resources/UI/chouka/Card/Weapon/UI_SSR_lh_mingjing",
 		"sim": "/Game/Resources/UI/shizhuang/nitai/xiangqing/imitation_50"
