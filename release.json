@@ -1,0 +1,19 @@
+{
+  "1.0": ["spear_ice", "digger_physic", "sword_thunder", "bow_fire", "stave_thunder", "cannon_ice", "hammer_ice", "bow_physic", "spear_thunder", "digger_thunder", "bigsword_ice", "bow_ice", "stave_ice", "sickle_fire", "darts_physic", "cube_fire", "dgun_thunder", "shieldaxe_fire", "suspension_thunder", "frigg_ice"
+  ],
+  "1.5": ["gun_fire", "sword_physic"],
+  "2.0": ["funnel_fire", "dkatana_ice"],
+  "2.1": ["fan_superpower"],
+  "2.2": ["snipe_fire", "tianlang_thunder", "arm_physic"],
+  "2.3": ["fenrir_thunder", "whip_physic", "iceblade_ice"],
+  "2.4": ["queen_superpower", "yoyo_ice", "umbrella_fire"],
+  "2.5": ["rubilia_thunder", "chainsaw_physic"],
+  "3.0": ["brush_fire", "yulan_ice"],
+  "3.1": ["zeke_physic"],
+  "3.2": ["mimi_thunder", "feise_fire"],
+  "3.3": ["linghan_ice"],
+  "3.4": ["nanyin_superpower"],
+  "3.5": ["killknife_physic", "blevi_thunder"],
+  "3.6": [],
+  "3.7": []
+}
