@@ -5,8 +5,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_N1_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_N1_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_N1_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_N1_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "N",
 		"set": [
@@ -15,6 +14,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_N1"
 	},
 	"matrix_N2": {
@@ -23,8 +23,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_N2_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_N2_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_N2_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_N2_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "N",
 		"set": [
@@ -33,6 +32,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_N2"
 	},
 	"matrix_R1": {
@@ -41,8 +41,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_R1_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R1_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R1_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R1_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "R",
 		"set": [
@@ -51,6 +50,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_R1"
 	},
 	"matrix_R2": {
@@ -59,8 +59,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_R2_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R2_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R2_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R2_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "R",
 		"set": [
@@ -69,6 +68,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_R2"
 	},
 	"matrix_R3": {
@@ -77,8 +77,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_R3_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R3_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R3_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R3_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "R",
 		"set": [
@@ -87,6 +86,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_R3"
 	},
 	"matrix_R4": {
@@ -95,8 +95,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_R4_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R4_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R4_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R4_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "R",
 		"set": [
@@ -105,6 +104,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_R4"
 	},
 	"matrix_R6": {
@@ -113,8 +113,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_R6_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R6_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R6_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R6_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "R",
 		"set": [
@@ -123,6 +122,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_R6"
 	},
 	"matrix_R7": {
@@ -131,8 +131,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_R7_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R7_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R7_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_R7_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "R",
 		"set": [
@@ -141,6 +140,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_R7"
 	},
 	"matrix_SR1": {
@@ -149,8 +149,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SR1_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR1_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR1_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR1_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "SR",
 		"set": [
@@ -159,6 +158,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_SR1"
 	},
 	"matrix_SR2": {
@@ -167,8 +167,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SR2_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR2_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR2_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR2_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "SR",
 		"set": [
@@ -177,6 +176,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_SR2"
 	},
 	"matrix_SR3": {
@@ -185,8 +185,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SR3_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR3_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR3_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR3_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "SR",
 		"set": [
@@ -195,6 +194,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_SR3"
 	},
 	"matrix_SR4": {
@@ -203,8 +203,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SR4_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR4_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR4_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR4_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "SR",
 		"set": [
@@ -213,6 +212,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_SR4"
 	},
 	"matrix_SR5": {
@@ -221,8 +221,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SR5_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR5_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR5_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR5_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "SR",
 		"set": [
@@ -231,6 +230,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": null,
 		"id": "matrix_SR5"
 	},
 	"matrix_SR6": {
@@ -239,8 +239,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SR6_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR6_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR6_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR6_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/peipei.webp"
 		},
 		"rarity": "SR",
 		"set": [
@@ -249,6 +248,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "stave_thunder",
 		"id": "matrix_SR6"
 	},
 	"matrix_SR7": {
@@ -257,8 +257,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SR7_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR7_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR7_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR7_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/xierda.webp"
 		},
 		"rarity": "SR",
 		"set": [
@@ -267,6 +266,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "cannon_ice",
 		"id": "matrix_SR7"
 	},
 	"matrix_SR8": {
@@ -275,8 +275,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SR8_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR8_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR8_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR8_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/xi.webp"
 		},
 		"rarity": "SR",
 		"set": [
@@ -285,6 +284,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "hammer_ice",
 		"id": "matrix_SR8"
 	},
 	"matrix_SR9": {
@@ -293,8 +293,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SR9_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR9_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR9_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR9_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/bailing.webp"
 		},
 		"rarity": "SR",
 		"set": [
@@ -303,6 +302,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "bow_physic",
 		"id": "matrix_SR9"
 	},
 	"matrix_SR12": {
@@ -311,8 +311,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SR12_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR12_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR12_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SR12_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/aige.webp"
 		},
 		"rarity": "SR",
 		"set": [
@@ -321,6 +320,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "spear_thunder",
 		"id": "matrix_SR12"
 	},
 	"matrix_SSR1": {
@@ -329,8 +329,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR1_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR1_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR1_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR1_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/meilier.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -340,6 +339,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "bigsword_ice",
 		"id": "matrix_SSR1"
 	},
 	"matrix_SSR2": {
@@ -348,8 +348,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR2_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR2_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR2_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR2_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/sifengyuanyu.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -359,6 +358,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "bow_ice",
 		"id": "matrix_SSR2"
 	},
 	"matrix_SSR3": {
@@ -367,8 +367,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR3_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR3_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR3_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR3_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/kekelite.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -378,6 +377,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "stave_ice",
 		"id": "matrix_SSR3"
 	},
 	"matrix_SSR4": {
@@ -386,8 +386,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR4_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR4_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR4_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR4_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/king.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -397,6 +396,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "sickle_fire",
 		"id": "matrix_SSR4"
 	},
 	"matrix_SSR40": {
@@ -405,8 +405,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR40_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR40_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR40_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR40_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/bulewei.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -416,6 +415,7 @@
 			}
 		],
 		"version": "3.5",
+		"weaponId": "blevi_thunder",
 		"id": "matrix_SSR40"
 	},
 	"matrix_SSR5": {
@@ -424,8 +424,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR5_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR5_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR5_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR5_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/gulan.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -435,6 +434,7 @@
 			}
 		],
 		"version": "1.5",
+		"weaponId": "gun_fire",
 		"id": "matrix_SSR5"
 	},
 	"matrix_SSR6": {
@@ -443,8 +443,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR6_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR6_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR6_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR6_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/kelaodiya.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -454,6 +453,7 @@
 			}
 		],
 		"version": "1.5",
+		"weaponId": "sword_physic",
 		"id": "matrix_SSR6"
 	},
 	"matrix_SSR7": {
@@ -462,8 +462,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR7_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR7_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR7_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR7_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/xiluo.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -473,6 +472,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "darts_physic",
 		"id": "matrix_SSR7"
 	},
 	"matrix_SSR8": {
@@ -481,8 +481,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR8_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR8_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR8_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR8_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/ling.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -492,6 +491,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "cube_fire",
 		"id": "matrix_SSR8"
 	},
 	"matrix_SSR9": {
@@ -500,8 +500,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR9_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR9_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR9_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR9_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/saimier.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -511,6 +510,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "dgun_thunder",
 		"id": "matrix_SSR9"
 	},
 	"matrix_SSR10": {
@@ -519,8 +519,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR10_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR10_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR10_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR10_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/xiuma.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -530,6 +529,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "shieldaxe_fire",
 		"id": "matrix_SSR10"
 	},
 	"matrix_SSR11": {
@@ -538,8 +538,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR11_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR11_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR11_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR11_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/wuwan.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -549,6 +548,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "digger_thunder",
 		"id": "matrix_SSR11"
 	},
 	"matrix_SSR12": {
@@ -557,8 +557,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR12_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR12_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR12_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR12_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -568,6 +567,7 @@
 			}
 		],
 		"version": "CN-Only",
+		"weaponId": null,
 		"id": "matrix_SSR12"
 	},
 	"matrix_SSR13": {
@@ -576,8 +576,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR13_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR13_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR13_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR13_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -587,6 +586,7 @@
 			}
 		],
 		"version": "CN-Only",
+		"weaponId": null,
 		"id": "matrix_SSR13"
 	},
 	"matrix_SSR14": {
@@ -595,8 +595,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR14_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR14_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR14_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR14_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/naimeixisi.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -606,6 +605,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "suspension_thunder",
 		"id": "matrix_SSR14"
 	},
 	"matrix_SSR15": {
@@ -614,8 +614,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR15_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR15_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR15_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR15_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/fulijia.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -625,6 +624,7 @@
 			}
 		],
 		"version": "1.0",
+		"weaponId": "frigg_ice",
 		"id": "matrix_SSR15"
 	},
 	"matrix_SSR16": {
@@ -633,8 +633,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR16_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR16_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR16_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR16_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/leibei.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -644,6 +643,7 @@
 			}
 		],
 		"version": "2.0",
+		"weaponId": "funnel_fire",
 		"id": "matrix_SSR16"
 	},
 	"matrix_SSR17": {
@@ -652,8 +652,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR17_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR17_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR17_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR17_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/bupoxiao.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -663,6 +662,7 @@
 			}
 		],
 		"version": "2.0",
+		"weaponId": "dkatana_ice",
 		"id": "matrix_SSR17"
 	},
 	"matrix_SSR18": {
@@ -671,8 +671,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR18_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR18_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR18_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR18_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/linye.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -682,6 +681,7 @@
 			}
 		],
 		"version": "2.1",
+		"weaponId": "fan_superpower",
 		"id": "matrix_SSR18"
 	},
 	"matrix_SSR19": {
@@ -690,8 +690,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR19_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR19_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR19_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR19_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/xinghuan.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -701,6 +700,7 @@
 			}
 		],
 		"version": "2.2",
+		"weaponId": "arm_physic",
 		"id": "matrix_SSR19"
 	},
 	"matrix_SSR20": {
@@ -709,8 +709,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR20_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR20_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR20_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR20_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/tianlang.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -720,6 +719,7 @@
 			}
 		],
 		"version": "2.2",
+		"weaponId": "tianlang_thunder",
 		"id": "matrix_SSR20"
 	},
 	"matrix_SSR21": {
@@ -728,8 +728,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR21_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR21_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR21_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR21_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/annabeila.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -739,6 +738,7 @@
 			}
 		],
 		"version": "2.2",
+		"weaponId": "snipe_fire",
 		"id": "matrix_SSR21"
 	},
 	"matrix_SSR22": {
@@ -747,8 +747,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR22_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR22_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR22_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR22_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/Alyss.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -758,6 +757,7 @@
 			}
 		],
 		"version": "2.3",
+		"weaponId": "iceblade_ice",
 		"id": "matrix_SSR22"
 	},
 	"matrix_SSR23": {
@@ -766,8 +766,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR23_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR23_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR23_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR23_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/wumi.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -777,6 +776,7 @@
 			}
 		],
 		"version": "2.3",
+		"weaponId": "whip_physic",
 		"id": "matrix_SSR23"
 	},
 	"matrix_SSR24": {
@@ -785,8 +785,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR24_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR24_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR24_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR24_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/fenlier.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -796,6 +795,7 @@
 			}
 		],
 		"version": "2.3",
+		"weaponId": "fenrir_thunder",
 		"id": "matrix_SSR24"
 	},
 	"matrix_SSR25": {
@@ -804,8 +804,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR25_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR25_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR23_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR23_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -815,6 +814,7 @@
 			}
 		],
 		"version": "2.4",
+		"weaponId": null,
 		"id": "matrix_SSR25"
 	},
 	"matrix_SSR26": {
@@ -823,8 +823,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR26_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR26_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR23_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR23_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/Attention/image_MI-A.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -834,6 +833,7 @@
 			}
 		],
 		"version": "2.4",
+		"weaponId": null,
 		"id": "matrix_SSR26"
 	},
 	"matrix_SSR27": {
@@ -842,8 +842,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR27_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR27_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR27_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR27_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/lan.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -853,6 +852,7 @@
 			}
 		],
 		"version": "2.4",
+		"weaponId": "umbrella_fire",
 		"id": "matrix_SSR27"
 	},
 	"matrix_SSR28": {
@@ -861,8 +861,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR28_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR28_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR28_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR28_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/Icarus.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -872,6 +871,7 @@
 			}
 		],
 		"version": "2.4",
+		"weaponId": "yoyo_ice",
 		"id": "matrix_SSR28"
 	},
 	"matrix_SSR29": {
@@ -880,8 +880,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR29_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR29_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR29_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR29_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/Fiona.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -891,6 +890,7 @@
 			}
 		],
 		"version": "2.4",
+		"weaponId": "queen_superpower",
 		"id": "matrix_SSR29"
 	},
 	"matrix_SSR30": {
@@ -899,8 +899,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR30_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR30_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR30_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR30_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/gunonno.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -910,6 +909,7 @@
 			}
 		],
 		"version": "2.5",
+		"weaponId": "chainsaw_physic",
 		"id": "matrix_SSR30"
 	},
 	"matrix_SSR31": {
@@ -918,8 +918,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR31_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR31_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR31_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR31_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/rubilia.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -929,6 +928,7 @@
 			}
 		],
 		"version": "2.5",
+		"weaponId": "rubilia_thunder",
 		"id": "matrix_SSR31"
 	},
 	"matrix_SSR32": {
@@ -937,8 +937,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR32_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR32_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR32_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR32_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/liuhuo2.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -948,6 +947,7 @@
 			}
 		],
 		"version": "3.0",
+		"weaponId": "brush_fire",
 		"id": "matrix_SSR32"
 	},
 	"matrix_SSR33": {
@@ -956,8 +956,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR33_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR33_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR33_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR33_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/yulan.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -967,6 +966,7 @@
 			}
 		],
 		"version": "3.0",
+		"weaponId": "yulan_ice",
 		"id": "matrix_SSR33"
 	},
 	"matrix_SSR34": {
@@ -975,8 +975,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR34_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR34_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR34_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR34_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/mingjing.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -986,6 +985,7 @@
 			}
 		],
 		"version": "3.1",
+		"weaponId": "zeke_physic",
 		"id": "matrix_SSR34"
 	},
 	"matrix_SSR35": {
@@ -994,8 +994,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR35_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR35_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR35_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR35_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/mimi.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -1005,6 +1004,7 @@
 			}
 		],
 		"version": "3.2",
+		"weaponId": "mimi_thunder",
 		"id": "matrix_SSR35"
 	},
 	"matrix_SSR36": {
@@ -1013,8 +1013,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR36_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR36_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR36_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR36_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/feise.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -1024,6 +1023,7 @@
 			}
 		],
 		"version": "3.2",
+		"weaponId": "feise_fire",
 		"id": "matrix_SSR36"
 	},
 	"matrix_SSR37": {
@@ -1032,8 +1032,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR37_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR37_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR37_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR37_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/linghan.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -1043,6 +1042,7 @@
 			}
 		],
 		"version": "3.3",
+		"weaponId": "linghan_ice",
 		"id": "matrix_SSR37"
 	},
 	"matrix_SSR38": {
@@ -1051,8 +1051,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR38_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR38_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR38_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR38_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/nanyin.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -1062,6 +1061,7 @@
 			}
 		],
 		"version": "3.4",
+		"weaponId": "nanyin_superpower",
 		"id": "matrix_SSR38"
 	},
 	"matrix_SSR39": {
@@ -1070,8 +1070,7 @@
 		"assets": {
 			"ItemIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/256/icon_matrix_SSR39_256.webp",
 			"ItemLargeIcon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR39_512.webp",
-			"LotteryDrawing": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR39_512.webp",
-			"LotteryCardImage": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/yizhi/512/icon_matrix_SSR39_512.webp"
+			"characterArtwork": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/huanxing/lihui/yanmiao.webp"
 		},
 		"rarity": "SSR",
 		"set": [
@@ -1081,6 +1080,7 @@
 			}
 		],
 		"version": "3.5",
+		"weaponId": "killknife_physic",
 		"id": "matrix_SSR39"
 	}
 }
