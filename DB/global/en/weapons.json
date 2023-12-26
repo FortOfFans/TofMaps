@@ -192,7 +192,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "spear_ice"
 	},
@@ -376,7 +376,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "digger_physic"
 	},
@@ -544,7 +544,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "sword_thunder"
 	},
@@ -715,7 +715,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "bow_fire"
 	},
@@ -937,7 +937,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "stave_thunder"
 	},
@@ -1082,7 +1082,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "cannon_ice"
 	},
@@ -1347,7 +1347,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "2.5",
 		"id": "chainsaw_physic"
 	},
@@ -1575,7 +1575,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "hammer_ice"
 	},
@@ -1782,7 +1782,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "bow_physic"
 	},
@@ -2016,7 +2016,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "spear_thunder"
 	},
@@ -2241,7 +2241,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "digger_thunder"
 	},
@@ -2491,7 +2491,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "bigsword_ice"
 	},
@@ -2699,7 +2699,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "bow_ice"
 	},
@@ -2935,7 +2935,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "stave_ice"
 	},
@@ -3174,7 +3174,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "sickle_fire"
 	},
@@ -3397,10 +3397,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Argent Intuition",
-				"id": "imitation_fashion_10"
+				"outfit": {
+					"name": "Argent Intuition",
+					"description": "It's difficult to find a balance between formal attire and work clothes. Only she insists that true art is a mix of practicality and artistry...",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_10",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_GL.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_GL_Lock.webp"
+					},
+					"weaponId": "gun_fire_Fashion",
+					"id": "imitation_fashion_10"
+				},
+				"weapon": {
+					"name": "Silver Flame Revolver",
+					"description": "It would be great if I could apply paints of all colors to the flame... but there are still many technical problems to overcome.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_GL_weapon.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_10_w"
+				}
 			}
 		],
 		"version": "1.5",
@@ -3631,7 +3650,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.5",
 		"id": "sword_physic"
 	},
@@ -3853,7 +3872,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "darts_physic"
 	},
@@ -4077,7 +4096,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "cube_fire"
 	},
@@ -4287,7 +4306,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "dgun_thunder"
 	},
@@ -4497,7 +4516,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "shieldaxe_fire"
 	},
@@ -4745,10 +4764,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Gilded Cloud",
-				"id": "imitation_fashion_41"
+				"outfit": {
+					"name": "Serene Grove",
+					"description": "Amidst the clear breeze, within the serene bamboo grove.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_41",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_H.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_H_Lock.webp"
+					},
+					"weaponId": "mimi_thunder_fashion_UI",
+					"id": "imitation_fashion_41"
+				},
+				"weapon": {
+					"name": "Gilded Cloud",
+					"description": "Auspicious clouds are drifting across the sky, painting it gold.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_huang.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_41_w"
+				}
 			}
 		],
 		"version": "3.2",
@@ -5032,10 +5070,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Diaphlute",
-				"id": "imitation_fashion_49"
+				"outfit": {
+					"name": "Tranquil Melody",
+					"description": "Under the clear sky and falling flowers, the bamboo beneath the eaves sing a tranquil melody. Playing the zither and flute, the pavilions and terraces as they were, these moments can linger a little longer.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_49",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_NYIN.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_NYIN_lock.webp"
+					},
+					"weaponId": "umbrella_fire_fashion_imitationUI",
+					"id": "imitation_fashion_49"
+				},
+				"weapon": {
+					"name": "Diaphlute",
+					"description": "A treasured gift from an old friend, crafted by a master's hand. Renowned for its ethereal and clear tones, it was aptly named. \"I play this cherished tune just for you!\"",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_nanyin_w.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_49_w"
+				}
 			}
 		],
 		"version": "3.4",
@@ -5288,10 +5345,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Flowerstream",
-				"id": "imitation_fashion_43"
+				"outfit": {
+					"name": "Summer Frost",
+					"description": "Basking under the brilliant sun, summer frost blooms.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_43",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LHAN.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LHAN_Lock.webp"
+					},
+					"weaponId": "umbrella_fire_fashion_imitationUI",
+					"id": "imitation_fashion_43"
+				},
+				"weapon": {
+					"name": "Flowerstream",
+					"description": "Atop the waves, where snowflakes dance.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_linghan01.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_43_w"
+				}
 			}
 		],
 		"version": "3.3",
@@ -5526,10 +5602,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "White Dwarf",
-				"id": "imitation_fashion_17"
+				"outfit": {
+					"name": "Shirli",
+					"description": "It's an image extracted from memories... It's just an illusion.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_17",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_SL.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_SL_Lock.webp"
+					},
+					"weaponId": "Suspension_thunder_Fashion",
+					"id": "imitation_fashion_17"
+				},
+				"weapon": {
+					"name": "White Dwarf",
+					"description": "A shining star might look small, but it gives off unimaginable energy.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_SL_weapon.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_17_w"
+				}
 			}
 		],
 		"version": "1.0",
@@ -5749,7 +5844,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "1.0",
 		"id": "frigg_ice"
 	},
@@ -5979,10 +6074,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Falling Flames",
-				"id": "imitation_fashion_21"
+				"outfit": {
+					"name": "Crimson Song",
+					"description": "The little girl receives the red cloak from her sister. Wow, she gets so excited that she forgets to hide her tail!",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_21",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LB.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LB_Lock.webp"
+					},
+					"weaponId": "funnel_fire_Fashion",
+					"id": "imitation_fashion_21"
+				},
+				"weapon": {
+					"name": "Falling Flames",
+					"description": "A magical creation that contains mysterious energy in the picture book Crimson Tale. It's also Little Red Riding Hood's closest friend.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_LB_weapon.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_21_w"
+				}
 			}
 		],
 		"version": "2.0",
@@ -6221,10 +6335,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Pure Innocent Heart",
-				"id": "imitation_fashion_22"
+				"outfit": {
+					"name": "Ultimate Pure White",
+					"description": "\"Ultimate justice! Ultimate valor! The Ultimate Warriors who give Night City ultimate protection! Elegant, pure, mighty! Super, super ultimate!\"",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_22",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_BPX.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_BPX_Lock.webp"
+					},
+					"weaponId": "Dkatana_ice_Fashion_ImitationUI",
+					"id": "imitation_fashion_22"
+				},
+				"weapon": {
+					"name": "Ultimate Pure White",
+					"description": "\"Ultimate justice! Ultimate valor! The Ultimate Warriors who give Night City ultimate protection! Elegant, pure, mighty! Super, super ultimate!\"",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_bupoxiao.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_22"
+				}
 			}
 		],
 		"version": "2.0",
@@ -6463,14 +6596,52 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Misty Weave",
-				"id": "imitation_fashion_23"
+				"outfit": {
+					"name": "Sleek Summer Shade",
+					"description": "Even this well-known busy person of Mirroria occasionally enjoys some time off by the exclusive luxury pool.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_23",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LY.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LY_Lock.webp"
+					},
+					"weaponId": "fan_fashion_imitation23_UIshow",
+					"id": "imitation_fashion_23"
+				},
+				"weapon": {
+					"name": "Misty Weave",
+					"description": "The wind blown by this fan seems cooler than before... Though it may just be the visual effects which make it seem that way?",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_LY_weapon.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_23_w"
+				}
 			},
 			{
-				"name": "Coral Weave",
-				"id": "imitation_fashion_23_2"
+				"outfit": {
+					"name": "Azure Heart",
+					"description": "\"Maybe I would be wearing this if I had gone to Innars for work, rather than stay in Mirroria.\" Perhaps this is the reality of another universe.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_23",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LYHW.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LYHW_Lock.webp"
+					},
+					"weaponId": "fan_fashion_imitation23_UIshow2",
+					"id": "imitation_fashion_23_2"
+				},
+				"weapon": {
+					"name": "Coral Weave",
+					"description": "Even at the bottom of the sea, Coral Weave seems to withstand the current and emit a gentle breeze. Although it may not be as easy to conceal in the darkness as before, its appearance is now far more stunning.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_LY_weapon_2.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_23_w_2"
+				}
 			}
 		],
 		"version": "2.1",
@@ -6699,7 +6870,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "2.2",
 		"id": "tianlang_thunder"
 	},
@@ -6963,7 +7134,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "2.2",
 		"id": "arm_physic"
 	},
@@ -7213,10 +7384,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Swan Song",
-				"id": "imitation_fashion_48"
+				"outfit": {
+					"name": "Brilliant Eclipse",
+					"description": "Continuation and destruction merge into her sole thought.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_48",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LBLY.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LBLY_Lock.webp"
+					},
+					"weaponId": "Rubilia_thunder_fashion",
+					"id": "imitation_fashion_48"
+				},
+				"weapon": {
+					"name": "Swan Song",
+					"description": "Final regards from her.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_LBLY_weapon.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_48_w"
+				}
 			}
 		],
 		"version": "2.5",
@@ -7466,10 +7656,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Platinum Wings",
-				"id": "imitation_fashion_30"
+				"outfit": {
+					"name": "Platinum Radiance",
+					"description": "Shortly after Alyss's headache was cured, Mirroria Department of Science and Technology discovered previously unknown information in the Unyielding Wing. By reconstructing the data and importing it to the Unyielding Wing, they created a new Platinum Armor Form that differs from Anisoptera or Lepidoptera.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_30",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_ALS.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_ALS_Lock.webp"
+					},
+					"weaponId": "iceblade_ice_Fashion",
+					"id": "imitation_fashion_30"
+				},
+				"weapon": {
+					"name": "Platinum Wings",
+					"description": "Unyielding Wing is converted to Platinum Armor Form to make Alyss even mightier.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_ALS_weapon.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_30_w"
+				}
 			}
 		],
 		"version": "2.3",
@@ -7488,7 +7697,7 @@
 			"weaponIconForMatrixA3": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/icon_yizhi/yizhi_SSR_Killknife.webp"
 		},
 		"rarity": "SSR",
-		"element": "Physics",
+		"element": "PhysicsFlame",
 		"type": "Killknife",
 		"weaponUpgradeId": "physic_ssr_tupo_AC",
 		"wc": "DPS",
@@ -7738,7 +7947,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "3.5",
 		"id": "killknife_physic"
 	},
@@ -7998,10 +8207,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Sleep Talking",
-				"id": "imitation_fashion_52"
+				"outfit": {
+					"name": "Sleep Talking",
+					"description": "Scientists are helpless in their dreams, where logic and the laws of nature cease to matter. People who have retained a childlike imagination, on the other hand, are able to enjoy themselves very much in their dreams.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_52",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_BLW.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_BLW_Lock.webp"
+					},
+					"weaponId": "Blevi_thunder_fashion_imitationUI",
+					"id": "imitation_fashion_52"
+				},
+				"weapon": {
+					"name": "Heartcrest Metz",
+					"description": "If a rose saves up its energy and unleashes it all at once in full bloom, will it also unlock an all-new evolutionary form...? I wonder...",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_bulewei01.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_52_w"
+				}
 			}
 		],
 		"version": "3.5",
@@ -8215,10 +8443,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Sunny Breeze",
-				"id": "imitation_fashion_26"
+				"outfit": {
+					"name": "No Fear of the Sun",
+					"description": "UV rays are the enemy of all women... But she seems to enjoy bathing in the sunlight.",
+					"rarity": "LEGENDRY",
+					"source": "Store Claims",
+					"simulacrumId": "imitation_26",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_ANBL.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_ANBL_Lock.webp"
+					},
+					"weaponId": "Snipe_fire_fashion_ImitationUI",
+					"id": "imitation_fashion_26"
+				},
+				"weapon": {
+					"name": "No Fear of the Sun",
+					"description": "UV rays are the enemy of all women... But she seems to enjoy bathing in the sunlight.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_annabeila0.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_26"
+				}
 			}
 		],
 		"version": "2.2",
@@ -8515,10 +8762,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Cinnabar",
-				"id": "imitation_fashion_37"
+				"outfit": {
+					"name": "Inkwell Refinement",
+					"description": "Seemingly having undergone a prolonged seclusion, perhaps even immersing herself in ink to contemplate the true essence of elegance, Liu Huo reappears before us. Her aura, now visibly enhanced, signifies a deepened understanding of grace... a noticeable transformation.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_37",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LH.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LH_Lock.webp"
+					},
+					"weaponId": "brush_fire_fashion",
+					"id": "imitation_fashion_37"
+				},
+				"weapon": {
+					"name": "Cinnabar",
+					"description": "As the afterglow emblem encircles the pen, hold it to get overwhelmed by the inspiration from the poem...",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_liuhuo01.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_37_w"
+				}
 			}
 		],
 		"version": "3.0",
@@ -8779,10 +9045,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Gloom",
-				"id": "imitation_fashion_31"
+				"outfit": {
+					"name": "Millet Wonderland",
+					"description": "A costume that Umi ordered for a fairly formal performance, in which she will play the heir to the Millet Castle and bring fantastic dreams to \"guests\" that stumble upon this place.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_31",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_WUMI.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_WUMI_Lock.webp"
+					},
+					"weaponId": "Snipe_fire_fashion_ImitationUI",
+					"id": "imitation_fashion_31"
+				},
+				"weapon": {
+					"name": "Gloom",
+					"description": "There are many secrets surrounding the source of the Millet Castle's heir's magical powers.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_wumi1.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_31_w"
+				}
 			}
 		],
 		"version": "2.3",
@@ -9054,7 +9339,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "3.2",
 		"id": "feise_fire"
 	},
@@ -9321,10 +9606,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Zero Decibel",
-				"id": "imitation_fashion_32"
+				"outfit": {
+					"name": "Fluffy White Chocolate",
+					"description": "In winter, a full set of fluffy clothes is a necessity, including your ears! Also, don't forget to spray on some sweet, milky white chocolate perfume before you leave the house!",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_32",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_FLE.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_FLE_Lock.webp"
+					},
+					"weaponId": "fenrir_thunder_fashion",
+					"id": "imitation_fashion_32"
+				},
+				"weapon": {
+					"name": "Zero Decibel",
+					"description": "In a cold and quiet world, even the slightest sound pierces through the silence.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/fashion_fenlier_weapon.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_32_w"
+				}
 			}
 		],
 		"version": "2.3",
@@ -9573,10 +9877,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Akaba",
-				"id": "imitation_fashion_34"
+				"outfit": {
+					"name": "Ivory Bloom",
+					"description": "Thank you for staying courageous and holding my hand, even when faced with danger.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_34",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LAN.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_LAN_Lock.webp"
+					},
+					"weaponId": "umbrella_fire_fashion_imitationUI",
+					"id": "imitation_fashion_34"
+				},
+				"weapon": {
+					"name": "Akaba",
+					"description": "Vermilion Bird changes its appearance after sensing Zhuque's intent.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_lan1.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_34_w"
+				}
 			}
 		],
 		"version": "2.4",
@@ -9822,7 +10145,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "2.4",
 		"id": "yoyo_ice"
 	},
@@ -10125,7 +10448,7 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [],
+		"fashion": [],
 		"version": "3.0",
 		"id": "yulan_ice"
 	},
@@ -10142,7 +10465,7 @@
 			"weaponIconForMatrixA3": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/weapon/icon_yizhi/yizhi_SSR_Zeke_Phy01.webp"
 		},
 		"rarity": "SSR",
-		"element": "OverseasZeke",
+		"element": "PhysicsFlame",
 		"type": "zeke",
 		"weaponUpgradeId": "physic_ssr_tupo_AC",
 		"wc": "DPS",
@@ -10384,10 +10707,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Fading Shadows",
-				"id": "imitation_fashion_50"
+				"outfit": {
+					"name": "Zeke",
+					"description": "Seemingly having undergone a prolonged seclusion, perhaps even immersing herself in ink to contemplate the true essence of elegance, Liu Huo reappears before us. Her aura, now visibly enhanced, signifies a deepened understanding of grace... a noticeable transformation.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_50",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MJ.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_MJ_Lock.webp"
+					},
+					"weaponId": "Zeke_physic_fashion_UI",
+					"id": "imitation_fashion_50"
+				},
+				"weapon": {
+					"name": "Fading Shadows",
+					"description": "To protect his only family.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_mingjing01.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_50_w"
+				}
 			}
 		],
 		"version": "3.1",
@@ -10711,10 +11053,29 @@
 				}
 			]
 		},
-		"FashionWeaponInfos": [
+		"fashion": [
 			{
-				"name": "Astraluna",
-				"id": "imitation_fashion_36"
+				"outfit": {
+					"name": "Starlit Honor",
+					"description": "The moon and the stars, just for you.",
+					"rarity": "LEGENDRY",
+					"source": "From events",
+					"simulacrumId": "imitation_36",
+					"assets": {
+						"painting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_NW.webp",
+						"prayPainting": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/UI/shizhuang/nitai/UI_NT_SZ_NW_Lock.webp"
+					},
+					"weaponId": "queen_superpower_fashion",
+					"id": "imitation_fashion_36"
+				},
+				"weapon": {
+					"name": "Astraluna",
+					"description": "The power of the stars and the moon gathers, condenses, and discharges here.",
+					"rarity": "LEGENDRY",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/item/icon_feiouna01.webp",
+					"type": "CONSUMABLE",
+					"id": "imitation_fashion_36_w"
+				}
 			}
 		],
 		"version": "2.4",
