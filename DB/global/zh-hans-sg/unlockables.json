@@ -3,7 +3,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "零",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_ling.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 不解的对话",
@@ -24,7 +28,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "烯",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xi.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「责任继承」",
@@ -45,7 +53,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "梅丽尔",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_meilier.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 冷漠的交谈",
@@ -66,7 +78,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "爱歌",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_aige.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「旅途之歌」",
@@ -92,7 +108,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "废土行者",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -104,7 +124,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "赛弥尔",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_saimier.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 独舞",
@@ -125,7 +149,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "修玛",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xiuma.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「相识」",
@@ -146,7 +174,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "四枫院羽",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_sifengyuanyu.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 天然暖意",
@@ -167,7 +199,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "西萝",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xiluo.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「被动搭档」",
@@ -188,7 +224,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "KING",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_king.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 交易摩擦",
@@ -209,7 +249,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "钴蓝",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_gulan.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 尊重",
@@ -230,7 +274,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "可可丽特",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_kekelite.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 一些记忆",
@@ -251,7 +299,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "克劳迪娅",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_kelaodiya.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 请多指教",
@@ -272,7 +324,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "乌丸",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_wuwan.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「同好达成」",
@@ -293,7 +349,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "佩**•** 佩",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_susan.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「工作清单」",
@@ -319,7 +379,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "优秀护士奖",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -331,7 +395,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "希尔达",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_hilda.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「咸味海风」",
@@ -357,7 +425,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "港口女孩",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -369,7 +441,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "白伶",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_bailing.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「称呼」",
@@ -395,7 +471,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "避难所首领",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -407,7 +487,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "奈美西斯",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_naimeixisi.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「新生与共生」",
@@ -428,7 +512,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "白月魁",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_baiyuekui.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「我是白月魁」",
@@ -449,7 +537,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "马克",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_make.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「末日猎荒者」",
@@ -470,7 +562,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "蕾贝",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_leibei.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「多莉的新朋友」",
@@ -491,7 +587,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "不破咲",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_bupoxiao.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「特勤队长」",
@@ -512,7 +612,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "凛夜",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_linye.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「各怀信念」",
@@ -538,7 +642,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "凛夜**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -550,7 +658,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "星寰",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xinghuan.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「齿轮」",
@@ -576,7 +688,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "星寰**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -588,7 +704,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "天使弗丽嘉",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar12.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「剑弩拔张」",
@@ -609,7 +729,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "天琅",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_tianlang.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「另一个身份」",
@@ -635,7 +759,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "天琅**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -647,7 +775,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "安娜贝拉",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_annabeila.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「保镖与兼职」",
@@ -673,7 +805,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "安娜贝拉**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -685,7 +821,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "艾莉丝",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_ailisi.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「特勤队员」",
@@ -711,7 +851,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "艾莉丝**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -723,7 +867,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "乌米",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_wumi.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「破镜」",
@@ -749,7 +897,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "乌米**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -761,7 +913,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "芬璃尔",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_fenlier.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「不可以吃巧克力」",
@@ -787,7 +943,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "芬璃尔**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -799,7 +959,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "岚",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_lan.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「镜都」",
@@ -825,7 +989,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "岚**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -837,7 +1005,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "伊卡洛斯",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_yikaluosi.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「您好」",
@@ -863,7 +1035,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "伊卡洛斯**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -875,7 +1051,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "菲欧娜",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_feiouna.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「执政官菲欧娜」",
@@ -901,7 +1081,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "菲欧娜**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -913,7 +1097,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "格诺诺",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_genuonuo.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「探险队」",
@@ -939,7 +1127,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "格诺诺**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -951,7 +1143,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "蕾比莉亚",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_leibiliya.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「惊雷」",
@@ -977,7 +1173,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "蕾比莉亚**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -989,7 +1189,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "榴火",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_liuhuo.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「土生土长」",
@@ -1015,7 +1219,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "榴火**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1027,7 +1235,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "玉兰",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_yulan.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「武者玉兰」",
@@ -1053,7 +1265,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "玉兰**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1065,7 +1281,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "明景",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_mingjing.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「相似之人」",
@@ -1091,7 +1311,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "明景**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1103,7 +1327,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "米米驾到",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_mimi.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「新笋」",
@@ -1129,7 +1357,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "米米**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1141,7 +1373,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "凌寒",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_linghan.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「兑州之首」",
@@ -1167,7 +1403,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "凌寒**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1179,7 +1419,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "妃色",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_96_feise.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「繁花盛景」",
@@ -1205,7 +1449,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "妃色**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1217,7 +1465,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "差旅申请",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_moliniya.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「静音」",
@@ -1238,7 +1490,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "南音",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_nanyin.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「过往之隅」",
@@ -1264,7 +1520,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "南音**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1276,7 +1536,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "烟渺",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_yanmiao.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「付诸努力」",
@@ -1302,7 +1566,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "烟渺**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1314,7 +1582,11 @@
 		"unlockables": [
 			{
 				"text": "头像**•** *",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "布勒薇",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_buluowei.webp"
+				}
 			},
 			{
 				"text": "通讯**•** 「宝石之种」",
@@ -1340,7 +1612,11 @@
 			},
 			{
 				"text": "头像**•** *",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "布勒薇**•** 觉醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000

@@ -2,8 +2,12 @@
 	"imitation_1": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: ling",
+				"stage": 200,
+				"award": {
+					"name": "เซโร่",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_ling.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: การสนทนาที่ยุ่งเหยิง",
@@ -23,8 +27,12 @@
 	"imitation_2": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: xi",
+				"stage": 200,
+				"award": {
+					"name": "เอเนะ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xi.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: เข้าควบคุมความรับผิด",
@@ -44,8 +52,12 @@
 	"imitation_3": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: meilier",
+				"stage": 200,
+				"award": {
+					"name": "เมอริล",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_meilier.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: การสนทนาที่เย็นชา",
@@ -65,8 +77,12 @@
 	"imitation_4": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: aige",
+				"stage": 200,
+				"award": {
+					"name": "เอคโค",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_aige.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: เพลงแห่งถนน",
@@ -91,8 +107,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: aige_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "ชุดตะลุยแดนรกร้าง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -103,8 +123,12 @@
 	"imitation_5": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: saimier",
+				"stage": 200,
+				"award": {
+					"name": "ซาเมียร์",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_saimier.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: เต้นรำคนเดียว",
@@ -124,8 +148,12 @@
 	"imitation_6": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: xiuma",
+				"stage": 200,
+				"award": {
+					"name": "ฮูมา",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xiuma.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: คนรู้จัก",
@@ -145,8 +173,12 @@
 	"imitation_7": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: sifengyuanyu",
+				"stage": 200,
+				"award": {
+					"name": "สึบาสะ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_sifengyuanyu.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ความอบอุ่นตามธรรมชาติ",
@@ -166,8 +198,12 @@
 	"imitation_8": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: xiluo",
+				"stage": 200,
+				"award": {
+					"name": "ชิโร่",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xiluo.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: หุ้นส่วนแบบพาสซีฟ",
@@ -187,8 +223,12 @@
 	"imitation_9": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: king",
+				"stage": 200,
+				"award": {
+					"name": "คิง",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_king.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ดีลสำคัญ",
@@ -208,8 +248,12 @@
 	"imitation_10": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: gulan",
+				"stage": 200,
+				"award": {
+					"name": "โคบอลต์-บี",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_gulan.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: เคารพ",
@@ -229,8 +273,12 @@
 	"imitation_11": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: kekelite",
+				"stage": 200,
+				"award": {
+					"name": "โคโคริตเตอร์",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_kekelite.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ความทรงจำ",
@@ -250,8 +298,12 @@
 	"imitation_12": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: kelaodiya",
+				"stage": 200,
+				"award": {
+					"name": "คลอเดีย",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_kelaodiya.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ยินดีที่ได้รู้จัก",
@@ -271,8 +323,12 @@
 	"imitation_13": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: wuwan",
+				"stage": 200,
+				"award": {
+					"name": "โครว์",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_wuwan.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ตรวจพบเพื่อน",
@@ -292,8 +348,12 @@
 	"imitation_14": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: peipei",
+				"stage": 200,
+				"award": {
+					"name": "เปปเปอร์",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_susan.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: รายการงาน",
@@ -318,8 +378,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: peipei_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "รางวัลพยาบาลดีเด่น",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -330,8 +394,12 @@
 	"imitation_15": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: hida",
+				"stage": 200,
+				"award": {
+					"name": "ฮิลดา",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_hilda.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ลมทะเลเค็ม",
@@ -356,8 +424,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: hida_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "สาวท่าเรือ",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -368,8 +440,12 @@
 	"imitation_16": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: bailing",
+				"stage": 200,
+				"award": {
+					"name": "ไป่หลิง",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_bailing.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ชื่อเรื่อง",
@@ -394,8 +470,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: bailing_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "หัวหน้าที่หลบภัย",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -406,8 +486,12 @@
 	"imitation_17": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: Avatar06",
+				"stage": 200,
+				"award": {
+					"name": "เนเมซิส",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_naimeixisi.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: การเกิดใหม่\r\nและการดำรงอยู่ร่วมกัน",
@@ -427,8 +511,12 @@
 	"imitation_18": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: baiyuekui",
+				"stage": 200,
+				"award": {
+					"name": "ไป่เยว่กุย",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_baiyuekui.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ฉันคือไป่เยว่กุย",
@@ -448,8 +536,12 @@
 	"imitation_20": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: make",
+				"stage": 200,
+				"award": {
+					"name": "มาร์ค",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_make.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: นักล่าวันโลกาวินาศ",
@@ -469,8 +561,12 @@
 	"imitation_21": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: leibei",
+				"stage": 200,
+				"award": {
+					"name": "รูบี้",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_leibei.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: เพื่อนใหม่ของดอลลี่",
@@ -490,8 +586,12 @@
 	"imitation_22": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: bupoxiao",
+				"stage": 200,
+				"award": {
+					"name": "ซาคิ ฟูวะ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_bupoxiao.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: กัปตันกองกำลังพิเศษ",
@@ -511,8 +611,12 @@
 	"imitation_23": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: linye",
+				"stage": 200,
+				"award": {
+					"name": "หลิน",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_linye.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ความเชื่อของต่างคน",
@@ -537,8 +641,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: linye_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "หลิน: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -549,8 +657,12 @@
 	"imitation_24": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: xinghuan",
+				"stage": 200,
+				"award": {
+					"name": "ไลร่า",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xinghuan.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: เกียร์",
@@ -575,8 +687,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: xinghuan_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "ไลร่า: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -587,8 +703,12 @@
 	"imitation_28": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: Avatar12",
+				"stage": 200,
+				"award": {
+					"name": "ทูตสวรรค์ฟริกก์",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar12.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ดาบและหน้าไม้",
@@ -608,8 +728,12 @@
 	"imitation_29": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: tianlang",
+				"stage": 200,
+				"award": {
+					"name": "เทียนหลาง",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_tianlang.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: อีกฐานะหนึ่ง",
@@ -634,8 +758,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: tianlang_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "เทียนหลาง: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -646,8 +774,12 @@
 	"imitation_26": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: annabeila",
+				"stage": 200,
+				"award": {
+					"name": "แอนนาเบลลา",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_annabeila.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: บอดี้การ์ดและงานพาร์ทไทม์",
@@ -672,8 +804,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: annabeila_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "แอนนาเบลลา: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -684,8 +820,12 @@
 	"imitation_30": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: ailisi",
+				"stage": 200,
+				"award": {
+					"name": "อลิส",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_ailisi.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: เจ้าหน้าที่กองกำลังพิเศษ",
@@ -710,8 +850,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: ailisi_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "อลิส: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -722,8 +866,12 @@
 	"imitation_31": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: wumi",
+				"stage": 200,
+				"award": {
+					"name": "อูมิ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_wumi.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: กระจกแตก",
@@ -748,8 +896,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: wumi_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "อูมิ: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -760,8 +912,12 @@
 	"imitation_32": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: fenlier",
+				"stage": 200,
+				"award": {
+					"name": "เฟนรีร์",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_fenlier.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ห้ามกินช็อกโกแลต",
@@ -786,8 +942,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: fenlier_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "เฟนรีร์: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -798,8 +958,12 @@
 	"imitation_34": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: lan",
+				"stage": 200,
+				"award": {
+					"name": "หลาน",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_lan.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: มิเรอเรีย",
@@ -824,8 +988,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: lan_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "หลาน: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -836,8 +1004,12 @@
 	"imitation_35": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: yikaluosi",
+				"stage": 200,
+				"award": {
+					"name": "อิคารัส",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_yikaluosi.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: อะโลฮ่า",
@@ -862,8 +1034,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: yikaluosi_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "อิคารัส: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -874,8 +1050,12 @@
 	"imitation_36": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: feiouna",
+				"stage": 200,
+				"award": {
+					"name": "ฟิโอนา",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_feiouna.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: อาร์คอนฟิโอนา",
@@ -900,8 +1080,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: feiouna_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "ฟิโอนา: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -912,8 +1096,12 @@
 	"imitation_27": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: genuonuo",
+				"stage": 200,
+				"award": {
+					"name": "กนอนโน",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_genuonuo.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ทีมสำรวจ",
@@ -938,8 +1126,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: genuonuo_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "กนอนโน: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -950,8 +1142,12 @@
 	"imitation_48": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: leibiliya",
+				"stage": 200,
+				"award": {
+					"name": "รูบิเลีย",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_leibiliya.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ฟ้าแลบ",
@@ -976,8 +1172,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: leibiliya_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "รูบิเลีย: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -988,8 +1188,12 @@
 	"imitation_37": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: liuhuo",
+				"stage": 200,
+				"award": {
+					"name": "หลิวฮั่ว",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_liuhuo.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: คนในพื้นที่",
@@ -1014,8 +1218,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: liuhuo_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "หลิวฮั่ว: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1026,8 +1234,12 @@
 	"imitation_38": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: yulan",
+				"stage": 200,
+				"award": {
+					"name": "หยู่หลาน",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_yulan.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก:  จอมยุทธ์หยู่หลาน",
@@ -1052,8 +1264,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: yulan_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "หยู่หลาน: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1064,8 +1280,12 @@
 	"imitation_50": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: mingjing",
+				"stage": 200,
+				"award": {
+					"name": "หมิงจิ่ง",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_mingjing.webp"
+				}
 			},
 			{
 				"text": "บันทึก \"คนที่คล้ายกัน\"",
@@ -1090,8 +1310,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: mingjing_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "หมิงจิ่ง: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1102,8 +1326,12 @@
 	"imitation_41": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: mimi",
+				"stage": 200,
+				"award": {
+					"name": "หมีหมี่มาแล้ว",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_mimi.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: หน่อไม้ใหม่",
@@ -1128,8 +1356,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: mimi_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "หมีหมี่: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1140,8 +1372,12 @@
 	"imitation_43": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: linghan",
+				"stage": 200,
+				"award": {
+					"name": "หลิงหาน",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_linghan.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ผู้นำแห่งตุ้ยโจว",
@@ -1166,8 +1402,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: linghan_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "หลิงหาน: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1178,8 +1418,12 @@
 	"imitation_51": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: feise",
+				"stage": 200,
+				"award": {
+					"name": "เฟยเซ่อ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_96_feise.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: \"ทิวทัศน์แห่งบุปผา\"",
@@ -1204,8 +1448,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: feise_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "เฟยเซ่อ: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1216,8 +1464,12 @@
 	"imitation_33": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: moliniya",
+				"stage": 200,
+				"award": {
+					"name": "ใบสมัครการเดินทาง",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_moliniya.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: เงียบงัน",
@@ -1237,8 +1489,12 @@
 	"imitation_49": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: nanyin",
+				"stage": 200,
+				"award": {
+					"name": "หนานอิน",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_nanyin.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: มุมแห่งอดีต",
@@ -1263,8 +1519,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: nanyin_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "หนานอิน: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1275,8 +1535,12 @@
 	"imitation_46": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: yanmiao",
+				"stage": 200,
+				"award": {
+					"name": "เยียนเหมี่ยว",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_yanmiao.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: ทุ่มเทความพยายาม",
@@ -1301,8 +1565,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: yanmiao_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "เยียนเหมี่ยว: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1313,8 +1581,12 @@
 	"imitation_52": {
 		"unlockables": [
 			{
-				"text": "อวตาร์: *",
-				"stage": 200
+				"text": "อวตาร์: bulewei",
+				"stage": 200,
+				"award": {
+					"name": "เบรวี่",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_buluowei.webp"
+				}
 			},
 			{
 				"text": "ล็อกบันทึก: เม็ดอัญมณี",
@@ -1339,8 +1611,12 @@
 				"stage": 5500
 			},
 			{
-				"text": "อวตาร์: *",
-				"stage": 6000
+				"text": "อวตาร์: bulewei_lv2",
+				"stage": 6000,
+				"award": {
+					"name": "เบรวี่: ปลุกพลัง",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000

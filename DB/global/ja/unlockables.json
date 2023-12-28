@@ -3,7 +3,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "ゼロ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_ling.webp"
+				}
 			},
 			{
 				"text": "通信「不可解な会話」",
@@ -24,7 +28,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "イーネ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xi.webp"
+				}
 			},
 			{
 				"text": "通信「責任の継承」",
@@ -45,7 +53,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "メリル",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_meilier.webp"
+				}
 			},
 			{
 				"text": "通信「冷たい会話」",
@@ -66,7 +78,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "エコー",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_aige.webp"
+				}
 			},
 			{
 				"text": "通信「旅路の歌」",
@@ -92,7 +108,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "廃墟の旅人",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -104,7 +124,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "セミール",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_saimier.webp"
+				}
 			},
 			{
 				"text": "通信「ダンス」",
@@ -125,7 +149,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "シューマー",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xiuma.webp"
+				}
 			},
 			{
 				"text": "通信「知人」",
@@ -146,7 +174,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "ツバサ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_sifengyuanyu.webp"
+				}
 			},
 			{
 				"text": "通信「天然の温もり",
@@ -167,7 +199,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "シロ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xiluo.webp"
+				}
 			},
 			{
 				"text": "通信「受け身のパートナー」",
@@ -188,7 +224,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "キング",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_king.webp"
+				}
 			},
 			{
 				"text": "通信「貿易摩擦",
@@ -209,7 +249,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "コバルト",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_gulan.webp"
+				}
 			},
 			{
 				"text": "通信「尊重」",
@@ -230,7 +274,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "ココリッタ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_kekelite.webp"
+				}
 			},
 			{
 				"text": "通信「いくつかの記憶」",
@@ -251,7 +299,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "クローディア",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_kelaodiya.webp"
+				}
 			},
 			{
 				"text": "通信「どうぞよろしく」",
@@ -272,7 +324,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "クロウ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_wuwan.webp"
+				}
 			},
 			{
 				"text": "通信「志を共にする」",
@@ -293,7 +349,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "ペペ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_susan.webp"
+				}
 			},
 			{
 				"text": "通信「作業リスト」",
@@ -319,7 +379,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "優秀看護師賞",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -331,7 +395,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "ヒルダ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_hilda.webp"
+				}
 			},
 			{
 				"text": "通信「塩辛い海風」",
@@ -357,7 +425,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "港の少女",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -369,7 +441,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "バイリン",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_bailing.webp"
+				}
 			},
 			{
 				"text": "通信「呼び名」",
@@ -395,7 +471,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "シェルターのリーダー",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -407,7 +487,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "ネメシス",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/avatar_naimeixisi.webp"
+				}
 			},
 			{
 				"text": "通信「新生と共生」",
@@ -428,7 +512,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "白月神",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_baiyuekui.webp"
+				}
 			},
 			{
 				"text": "通信「私は白月神」",
@@ -449,7 +537,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "マーク",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_make.webp"
+				}
 			},
 			{
 				"text": "通信「終末のハンターズ」",
@@ -470,7 +562,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "ラビィ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_leibei.webp"
+				}
 			},
 			{
 				"text": "通信「ドリーの新しい友達」",
@@ -491,7 +587,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "Saki Fuwa",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_bupoxiao.webp"
+				}
 			},
 			{
 				"text": "通信「特殊部隊長」",
@@ -512,7 +612,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "Lin",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_linye.webp"
+				}
 			},
 			{
 				"text": "通信「それぞれの信念」",
@@ -538,7 +642,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "凛夜・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -550,7 +658,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "エスター",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_xinghuan.webp"
+				}
 			},
 			{
 				"text": "通信「歯車」",
@@ -576,7 +688,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "エスター・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -588,7 +704,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "天使フレイヤ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar12.webp"
+				}
 			},
 			{
 				"text": "通信「一触即発」",
@@ -609,7 +729,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "Tian Lang",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_tianlang.webp"
+				}
 			},
 			{
 				"text": "通信「もう1つの顔」",
@@ -635,7 +759,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "天琅・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -647,7 +775,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "アナベラ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_annabeila.webp"
+				}
 			},
 			{
 				"text": "通信「用心棒とアルバイト」",
@@ -673,7 +805,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "アナベラ・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -685,7 +821,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "アリス",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_ailisi.webp"
+				}
 			},
 			{
 				"text": "通信「特殊部隊隊員」",
@@ -711,7 +851,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "アリス・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -723,7 +867,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "ウーミィ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_wumi.webp"
+				}
 			},
 			{
 				"text": "通信「割れた鏡」",
@@ -749,7 +897,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "ウーミィ・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -761,7 +913,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "フェンリル",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_fenlier.webp"
+				}
 			},
 			{
 				"text": "通信「チョコレート禁止」",
@@ -787,7 +943,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "フェンリル・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -799,7 +959,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "嵐",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_lan.webp"
+				}
 			},
 			{
 				"text": "通信「ミラポリス」",
@@ -825,7 +989,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "嵐・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -837,7 +1005,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "イカロス",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_yikaluosi.webp"
+				}
 			},
 			{
 				"text": "通信「こんにちは」",
@@ -863,7 +1035,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "イカロス・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -875,7 +1051,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "フィオナ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_feiouna.webp"
+				}
 			},
 			{
 				"text": "通信「オフィサー・フィオナ」",
@@ -901,7 +1081,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "フィオナ・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -913,7 +1097,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "グノノ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_genuonuo.webp"
+				}
 			},
 			{
 				"text": "通信「探検隊」",
@@ -939,7 +1127,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "グノノ・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -951,7 +1143,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "レビリア",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_leibiliya.webp"
+				}
 			},
 			{
 				"text": "通信「雷鳴」",
@@ -977,7 +1173,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "レビリア・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -989,7 +1189,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "Liu Huo",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_liuhuo.webp"
+				}
 			},
 			{
 				"text": "通信「生まれと育ち」",
@@ -1015,7 +1219,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "榴火・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1027,7 +1235,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "玉蘭",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_yulan.webp"
+				}
 			},
 			{
 				"text": "通信「武人玉蘭」",
@@ -1053,7 +1265,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "玉蘭・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1065,7 +1281,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "Ming Jing",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_mingjing.webp"
+				}
 			},
 			{
 				"text": "通信「類似」",
@@ -1091,7 +1311,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "明景・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1103,7 +1327,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "米米のお出まし",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_mimi.webp"
+				}
 			},
 			{
 				"text": "通信「新筍」",
@@ -1129,7 +1357,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "篁・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1141,7 +1373,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "Ling Han",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_linghan.webp"
+				}
 			},
 			{
 				"text": "通信「沢州衛首」",
@@ -1167,7 +1403,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "凌寒・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1179,7 +1419,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "Fei Se",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/Avatar_96_feise.webp"
+				}
 			},
 			{
 				"text": "通信「咲き誇る花」",
@@ -1205,7 +1449,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "妃色・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1217,7 +1465,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "旅の申請",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_moliniya.webp"
+				}
 			},
 			{
 				"text": "通信「ミュート」",
@@ -1238,7 +1490,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "Nan Yin",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_nanyin.webp"
+				}
 			},
 			{
 				"text": "通信「過去の片隅」",
@@ -1264,7 +1520,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "南音・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1276,7 +1536,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "煙渺",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_yanmiao.webp"
+				}
 			},
 			{
 				"text": "通信「努力」",
@@ -1302,7 +1566,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "煙渺・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
@@ -1314,7 +1582,11 @@
 		"unlockables": [
 			{
 				"text": "アイコン・*",
-				"stage": 200
+				"stage": 200,
+				"award": {
+					"name": "ブレヴィ",
+					"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Avatar/touxiang_buluowei.webp"
+				}
 			},
 			{
 				"text": "通信「宝石の種」",
@@ -1340,7 +1612,11 @@
 			},
 			{
 				"text": "アイコン・*",
-				"stage": 6000
+				"stage": 6000,
+				"award": {
+					"name": "ブレヴィ・覚醒",
+					"icon": "None.webp"
+				}
 			},
 			{
 				"stage": 7000
