@@ -54,6 +54,11 @@
 			"garageKit",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 刘一蕾",
 			"jp": " 野中 藍",
@@ -79,7 +84,7 @@
 			{
 				"name": "Im Schlaf reden",
 				"description": "Wissenschaftler sind in ihren Träumen hilflos, denn dort spielen Logik und Naturgesetze keine Rolle mehr. Menschen, die sich eine kindliche Vorstellungskraft bewahrt haben, können sich dagegen in ihren Träumen hervorragend vergnügen.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_52",
 				"assets": {
@@ -148,6 +153,11 @@
 			"restrictedGoods",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 前田佳織里",
@@ -158,13 +168,13 @@
 		"awakening": [
 			{
 				"name": "Regularien",
-				"description": "Erhöht den Endschaden um **14%**. Jede ausgerüstete physische Waffe erhöht den normalen Angriffsschaden von **Gleichgewicht** um **10%**, bis zu **20%**.",
+				"description": "Erhöht den Endschaden um **14%**. Jede ausgerüstete physische Waffe erhöht den normalen Angriffsschaden von **Gleichgewicht** um **15%**, bis zu **30%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao_2x.webp",
 				"need": 1200
 			},
 			{
 				"name": "Auftrag",
-				"description": "Erhöht den Endschaden um **18%**. Wenn **Gleichgewicht** ausgerüstet ist, erhöht sich der Schaden an Zielen mit weniger als **80%** LP um **10%**. Jede ausgerüstete physische Waffe erhöht den normalen Angriffsschaden von **Gleichgewicht** um **20%**, bis zu **40%**.",
+				"description": "Erhöht den Endschaden um **18%**. Wenn **Gleichgewicht** ausgerüstet ist, erhöht sich der Schaden an Zielen mit weniger als **80%** LP um **10%**. Jede ausgerüstete physische Waffe erhöht den normalen Angriffsschaden von **Gleichgewicht** um **30%**, bis zu **60%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao.webp",
 				"need": 4000
 			}
@@ -228,6 +238,11 @@
 			"everydayObjects",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 张安琪",
 			"jp": " 石田 嘉代",
@@ -253,7 +268,7 @@
 			{
 				"name": "Ruhige Melodie",
 				"description": "Unter dem klaren Himmel und den fallenden Blüten singt der Bambus unter dem Dachvorsprung eine ruhige Melodie. Momente wie dieser, mit Zither- und Flötenspiel, Pavillons und Terrassen, können ruhig noch etwas verweilen.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_49",
 				"assets": {
@@ -322,6 +337,11 @@
 			"decorate",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " kiyo",
 			"jp": " 原 由実",
@@ -347,7 +367,7 @@
 			{
 				"name": "Sommerfrost",
 				"description": "Unter der leuchtenden Sonne blüht der Sommerfrost.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_43",
 				"assets": {
@@ -416,6 +436,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 陈彦亦",
 			"jp": " 田中 理恵",
@@ -496,6 +521,11 @@
 			"garageKit",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 新井 里美",
@@ -521,7 +551,7 @@
 			{
 				"name": "Stiller Hain",
 				"description": "Inmitten der klaren Brise im friedlichen Bambushain.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_41",
 				"assets": {
@@ -591,6 +621,8 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 马洋",
 			"jp": " 中村 悠一",
@@ -616,7 +648,7 @@
 			{
 				"name": "Zeke",
 				"description": "Nachdem sie offenbar längere Zeit in Abgeschiedenheit verbrachte und vielleicht gar in die Welt der Schönschreibkunst eintauchte, um über den wahren Kern der Eleganz zu meditieren, tritt Liu Huo wieder vor uns. Ihre Aura, sichtbar bereichert, lässt ein deutlich tiefergehendes Verständnis von Anmut erkennen … eine beachtliche Wandlung.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_50",
 				"assets": {
@@ -685,6 +717,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 秦文静",
 			"jp": " 柚木 涼香",
@@ -765,6 +802,11 @@
 			"metal",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 葛子瑞",
 			"jp": " 徳井 青空",
@@ -790,7 +832,7 @@
 			{
 				"name": "Tintenfass-Raffinesse",
 				"description": "Nachdem sie offenbar längere Zeit in Abgeschiedenheit verbrachte und vielleicht gar in die Welt der Schönschreibkunst eintauchte, um über den wahren Kern der Eleganz zu meditieren, tritt Liu Huo wieder vor uns. Ihre Aura, sichtbar bereichert, lässt ein deutlich tiefergehendes Verständnis von Anmut erkennen … eine beachtliche Wandlung.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_37",
 				"assets": {
@@ -858,6 +900,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 穆雪婷",
 			"jp": " 三石 琴乃",
@@ -883,7 +930,7 @@
 			{
 				"name": "Strahlende Finsternis",
 				"description": "Fortsetzung und Zerstörung verschmelzen zu ihrem einzigen Gedanken.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_48",
 				"assets": {
@@ -952,6 +999,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 常丹瑞",
 			"jp": " 釘宮 理恵",
@@ -1032,6 +1084,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 刘雪",
 			"jp": " 石見 舞菜香",
@@ -1057,7 +1114,7 @@
 			{
 				"name": "Sternenklarer Ruhm",
 				"description": "Der Mond und die Sterne, nur für dich.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_36",
 				"assets": {
@@ -1127,6 +1184,10 @@
 			"Vera",
 			"Asshai"
 		],
+		"dislike": [
+			"Jiuyu"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 沐霏",
 			"jp": " 梶原 岳人",
@@ -1208,6 +1269,10 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 陈雨",
 			"jp": " 内田 真礼",
@@ -1233,7 +1298,7 @@
 			{
 				"name": "Elfenbeinblüte",
 				"description": "Danke, dass du mutig bleibst und meine Hand hältst, auch wenn die Gefahr droht.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_34",
 				"assets": {
@@ -1302,6 +1367,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 孙艳琦",
 			"jp": " 丹下 桜",
@@ -1327,7 +1397,7 @@
 			{
 				"name": "Flauschige weiße Schokolade",
 				"description": "Im Winter braucht man unbedingt einen kompletten Satz flauschiger Kleidung, auch für die Ohren! Und vergiss zudem nicht, dich mit dem süßen, milchigen Duft weißer Schokolade einzusprühen, bevor du das Haus verlässt!",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_32",
 				"assets": {
@@ -1395,6 +1465,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 刘雯",
 			"jp": " M・A・O",
@@ -1420,7 +1495,7 @@
 			{
 				"name": "Hirsen-Zauberland",
 				"description": "Dieses Kostüm hatte Umi für eine eher förmliche Aufführung bestellt, bei der sie die Rolle der Erbin des Hirsen-Schlosses übernehmen und „Gästen“, die an diesen Ort geraten, fantastische Träume bescheren wird.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_31",
 				"assets": {
@@ -1489,6 +1564,11 @@
 			"restrictedGoods",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Unnachgiebiger Flügel",
 		"va": {
 			"cn": " 杜晴晴",
 			"jp": " 安済 知佳",
@@ -1514,7 +1594,7 @@
 			{
 				"name": "Platinglanz",
 				"description": "Kurz nachdem Alyss’ Kopfschmerzen geheilt waren, entdeckte das Ministerium für Wissenschaft und Technologie von Mirroria zuvor unbekannte Informationen in Unnachgiebiger Flügel. Indem sie die Daten rekonstruierten und in Unnachgiebiger Flügel importieren, schufen sie eine neue Form der Platinrüstung, die sich von Anisoptera oder Lepidoptera unterscheidet.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_30",
 				"assets": {
@@ -1584,6 +1664,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Klee-Kreuz",
 		"va": {
 			"cn": " 洪海天",
 			"jp": " 黒沢 ともよ",
@@ -1609,7 +1694,7 @@
 			{
 				"name": "Keine Angst vor der Sonne",
 				"description": "UV-Strahlen sind der Gegner aller Frauen … Aber sie scheint das Baden im Sonnenlicht zu genießen.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Shopabholungen",
 				"simulacrumId": "imitation_26",
 				"assets": {
@@ -1678,6 +1763,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Donnerbrecher",
 		"va": {
 			"cn": " 淦子齐",
 			"jp": " 石川 界人",
@@ -1757,6 +1847,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Vesper",
 		"va": {
 			"cn": " 常佳梦",
 			"jp": " 大原 さやか",
@@ -1837,6 +1932,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Befristeter Geheimvorrat",
 		"va": {
 			"cn": " 陈婷婷",
 			"jp": " 南條 愛乃",
@@ -1862,7 +1962,7 @@
 			{
 				"name": "Eleganter Sommerschatten",
 				"description": "Selbst diese bekannte, viel beschäftigte Person aus Mirroria genießt gelegentlich eine Auszeit am exklusiven Luxuspool.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1875,7 +1975,7 @@
 			{
 				"name": "Azurherz",
 				"description": "„Möglicherweise würde ich das hier tragen, wenn ich mich in Innars nach Arbeit umgesehen hätte und nicht hier in Mirroria geblieben wäre.“ In einem Paralleluniversum ist das vielleicht sogar der Fall.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1944,6 +2044,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Herzstrom",
 		"va": {
 			"cn": " 唐小喜",
 			"jp": " 雨宮 天",
@@ -1969,7 +2074,7 @@
 			{
 				"name": "Ultimatives Reinweiß",
 				"description": "„Ultimative Gerechtigkeit! Ultimative Tapferkeit! Die Ultimativen Kriegerinnen, die der Nachtstadt ultimativen Schutz gewähren! Elegant, unfehlbar, mächtig! Super-duper ultimativ!“",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_22",
 				"assets": {
@@ -2038,6 +2143,11 @@
 			"toy",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Spark",
 		"va": {
 			"cn": " 赵爽",
 			"jp": " 小倉 唯",
@@ -2063,7 +2173,7 @@
 			{
 				"name": "Blutrotes Lied",
 				"description": "Das kleine Mädchen erhält den roten Umhang von ihrer Schwester. Wow, vor lauter Aufregung vergisst sie, ihren Schwanz zu verbergen!",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_21",
 				"assets": {
@@ -2131,6 +2241,8 @@
 			"metal",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "Balmung",
 		"va": {
 			"cn": " 杨梦露",
 			"jp": " 伊藤 静",
@@ -2211,6 +2323,8 @@
 			"decorate",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "Venus",
 		"va": {
 			"cn": " 宋媛媛",
 			"jp": " 戸松 遥",
@@ -2236,7 +2350,7 @@
 			{
 				"name": "Shirli",
 				"description": "Es ist ein Bild, das auf Erinnerungen basiert … Nichts als eine Illusion.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_17",
 				"assets": {
@@ -2304,6 +2418,8 @@
 			"game",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Negierungswürfel",
 		"va": {
 			"cn": " 蔡海婷",
 			"jp": " 村瀬 歩",
@@ -2364,6 +2480,8 @@
 			"decorate",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "Die Breitseite",
 		"va": {
 			"cn": " 王燕华",
 			"jp": " 小清水 亜美",
@@ -2443,6 +2561,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Rosenklinge",
 		"va": {
 			"cn": " 秦紫翼",
 			"jp": " 石川 由依",
@@ -2503,6 +2623,8 @@
 			"restrictedGoods",
 			"game"
 		],
+		"dislike": [],
+		"unlockInfo": "Donner-Hellebarde",
 		"va": {
 			"cn": " 曹雅雯",
 			"jp": " 大久保 瑠美",
@@ -2582,6 +2704,8 @@
 			"game",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "Doppel-EM-Sterne",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 水樹 奈々",
@@ -2662,6 +2786,8 @@
 			"game",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Magmaschild V2",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 高橋 李依",
@@ -2742,6 +2868,8 @@
 			"restrictedGoods",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Frostfeder-Outfit",
 		"va": {
 			"cn": " 徐徐",
 			"jp": " 小原 好美",
@@ -2822,6 +2950,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Chakram der Meere",
 		"va": {
 			"cn": " 蔡娜",
 			"jp": " 小澤 亜李",
@@ -2901,6 +3031,8 @@
 			"Rarity",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Sense der Krähe",
 		"va": {
 			"cn": " 唐子晰",
 			"jp": " 松岡 禎丞",
@@ -2980,6 +3112,8 @@
 			"collection",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Flammenchaos",
 		"va": {
 			"cn": " 陈睿婕",
 			"jp": " 川澄 綾子",
@@ -3005,7 +3139,7 @@
 			{
 				"name": "Silberne Intuition",
 				"description": "Es ist so schwierig, ein Gleichgewicht zwischen formaler Kleidung und Arbeitsoutfits zu finden. Nur besteht sie darauf, dass wahre Kunst eine Mischung aus Zweckmäßigkeit und Kunst ist …",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Aus Events",
 				"simulacrumId": "imitation_10",
 				"assets": {
@@ -3074,6 +3208,8 @@
 			"decorate",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Gefrierpunkt",
 		"va": {
 			"cn": " 胡婷婷",
 			"jp": " 鬼頭 明里",
@@ -3154,6 +3290,8 @@
 			"Rarity",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Guren-Klinge",
 		"va": {
 			"cn": " 贺文潇",
 			"jp": " 小松 未可子",
@@ -3234,6 +3372,8 @@
 			"garageKit",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Donnerklingen",
 		"va": {
 			"cn": " 翟巍",
 			"jp": " 岡本 信彦",
@@ -3293,6 +3433,8 @@
 			"decorate",
 			"collection"
 		],
+		"dislike": [],
+		"unlockInfo": "Stab der Narben",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 能登 麻美子",
@@ -3353,6 +3495,8 @@
 			"garageKit",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "Der Terminator",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 花澤 香菜",
@@ -3413,6 +3557,8 @@
 			"collection",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Nachtigallfeder",
 		"va": {
 			"cn": " 王晓彤",
 			"jp": " 日高 里菜",

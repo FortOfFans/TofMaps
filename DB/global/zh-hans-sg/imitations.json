@@ -54,6 +54,11 @@
 			"garageKit",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 刘一蕾",
 			"jp": " 野中 藍",
@@ -79,7 +84,7 @@
 			{
 				"name": "浮寐梦呓",
 				"description": "科学家在梦境中是无能为力的，因为逻辑和法则都消失了。而怀存童心之人，至少可以在这里自由玩乐。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_52",
 				"assets": {
@@ -148,6 +153,11 @@
 			"restrictedGoods",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 前田佳織里",
@@ -158,13 +168,13 @@
 		"awakening": [
 			{
 				"name": "规章",
-				"description": "最终伤害提高**14%**。每装备一把物理武器，**规衡**的普通攻击伤害提升**10%**，最高提升**20%**。",
+				"description": "最终伤害提高**14%**。每装备一把物理武器，**规衡**的普通攻击伤害提升**15%**，最高提升**30%**。",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao_2x.webp",
 				"need": 1200
 			},
 			{
 				"name": "律衡",
-				"description": "最终伤害提高**18%**。装备**规衡**时，对生命值低于**80%**的目标造成伤害时，自身物理伤害提升**10%**。每装备一把物理武器，**规衡**的普通攻击伤害提升**20%**，最高提升**40%**。",
+				"description": "最终伤害提高**18%**。装备**规衡**时，对生命值低于**80%**的目标造成伤害时，自身物理伤害提升**10%**。每装备一把物理武器，**规衡**的普通攻击伤害提升**30%**，最高提升**60%**。",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao.webp",
 				"need": 4000
 			}
@@ -228,6 +238,11 @@
 			"everydayObjects",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 张安琪",
 			"jp": " 石田 嘉代",
@@ -253,7 +268,7 @@
 			{
 				"name": "澄泠幽韵",
 				"description": "澄空如洗，落花泠泠，檐下丝篁幽韵。抚琴弄箫，亭台依旧，此情可待有时。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_49",
 				"assets": {
@@ -322,6 +337,11 @@
 			"decorate",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " kiyo",
 			"jp": " 原 由実",
@@ -347,7 +367,7 @@
 			{
 				"name": "霜花盛夏",
 				"description": "艳阳高照，霜花盛开。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_43",
 				"assets": {
@@ -416,6 +436,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 陈彦亦",
 			"jp": " 田中 理恵",
@@ -496,6 +521,11 @@
 			"garageKit",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 新井 里美",
@@ -521,7 +551,7 @@
 			{
 				"name": "晴空幽篁",
 				"description": "在舒朗的晴风里，在幽美的篁园中。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_41",
 				"assets": {
@@ -591,6 +621,8 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 马洋",
 			"jp": " 中村 悠一",
@@ -616,7 +648,7 @@
 			{
 				"name": "夏佐",
 				"description": "像是经历了长期遁世修行，甚至不惜全副身心浸泡在墨水里，沉思默想之后，参透了文雅的真意，才再度于人前现身的榴火……肉眼可见气质有所长进了？",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_50",
 				"assets": {
@@ -685,6 +717,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 秦文静",
 			"jp": " 柚木 涼香",
@@ -765,6 +802,11 @@
 			"metal",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 葛子瑞",
 			"jp": " 徳井 青空",
@@ -790,7 +832,7 @@
 			{
 				"name": "墨池清修",
 				"description": "像是经历了长期遁世修行，甚至不惜全副身心浸泡在墨水里，沉思默想之后，参透了文雅的真意，才再度于人前现身的榴火……肉眼可见气质有所长进了？",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_37",
 				"assets": {
@@ -858,6 +900,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 穆雪婷",
 			"jp": " 三石 琴乃",
@@ -883,7 +930,7 @@
 			{
 				"name": "灿星蚀日",
 				"description": "延续，毁灭，仅在[她]一念之间",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_48",
 				"assets": {
@@ -952,6 +999,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 常丹瑞",
 			"jp": " 釘宮 理恵",
@@ -1032,6 +1084,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 刘雪",
 			"jp": " 石見 舞菜香",
@@ -1057,7 +1114,7 @@
 			{
 				"name": "星月予卿",
 				"description": "撷月摘星，奉予卿。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_36",
 				"assets": {
@@ -1127,6 +1184,10 @@
 			"Vera",
 			"Asshai"
 		],
+		"dislike": [
+			"Jiuyu"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 沐霏",
 			"jp": " 梶原 岳人",
@@ -1208,6 +1269,10 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 陈雨",
 			"jp": " 内田 真礼",
@@ -1233,7 +1298,7 @@
 			{
 				"name": "荆白绽放",
 				"description": "谢谢你在面对荆棘之时，仍旧坚定勇气，握起我的手。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_34",
 				"assets": {
@@ -1302,6 +1367,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 孙艳琦",
 			"jp": " 丹下 桜",
@@ -1327,7 +1397,7 @@
 			{
 				"name": "棉绒白巧",
 				"description": "冬天当然要穿上一整身毛茸茸了，包括耳朵！还有，出门前不要忘记喷上些甜丝丝带着奶香的白巧香水！",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_32",
 				"assets": {
@@ -1395,6 +1465,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 刘雯",
 			"jp": " M・A・O",
@@ -1420,7 +1495,7 @@
 			{
 				"name": "荼蘼谜境",
 				"description": "乌米为某次颇为正式的演出定制的演出服。乌米将饰演荼蘼古堡的继承人，为几位误入这里的「客人」带来一场场奇幻梦境。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_31",
 				"assets": {
@@ -1489,6 +1564,11 @@
 			"restrictedGoods",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "不灭之翼",
 		"va": {
 			"cn": " 杜晴晴",
 			"jp": " 安済 知佳",
@@ -1514,7 +1594,7 @@
 			{
 				"name": "白铠华调",
 				"description": "在艾莉丝的头痛症治愈后不久，镜都科技部在不灭之翼中监测到了一段从未遇到的数据，通过对这段数据再构并导入不灭之翼进行装甲构筑之后，区别于差翅以及鳞翅形态的「白铠装甲形态」诞生。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_30",
 				"assets": {
@@ -1584,6 +1664,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "四叶十字",
 		"va": {
 			"cn": " 洪海天",
 			"jp": " 黒沢 ともよ",
@@ -1609,7 +1694,7 @@
 			{
 				"name": "无惧骄阳",
 				"description": "紫外线本是大敌，这对每一位女性来说都一样……但她似乎还挺享受日光浴的呢。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "商城获取",
 				"simulacrumId": "imitation_26",
 				"assets": {
@@ -1678,6 +1763,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "破钧",
 		"va": {
 			"cn": " 淦子齐",
 			"jp": " 石川 界人",
@@ -1757,6 +1847,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "晚祷",
 		"va": {
 			"cn": " 常佳梦",
 			"jp": " 大原 さやか",
@@ -1837,6 +1932,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "限定特供",
 		"va": {
 			"cn": " 陈婷婷",
 			"jp": " 南條 愛乃",
@@ -1862,7 +1962,7 @@
 			{
 				"name": "纤纤夏影",
 				"description": "有工作的日子，这位镜都知名的大忙人偶尔也会在专属的豪华泳池边悠闲度过。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1875,7 +1975,7 @@
 			{
 				"name": "蔚海赤心",
 				"description": "「要是当初没有留在镜都而是去了茵纳斯工作」之可能性的装扮。说不定在另一个时空中是现实。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1944,6 +2044,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "流泉彻心",
 		"va": {
 			"cn": " 唐小喜",
 			"jp": " 雨宮 天",
@@ -1969,7 +2074,7 @@
 			{
 				"name": "超究极的纯白",
 				"description": "「超究极的正义！超究极的勇气！超究极的守护夜城和平的白核心超究极战士！优雅！纯洁！强大！超超超超超——超究极！」",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_22",
 				"assets": {
@@ -2038,6 +2143,11 @@
 			"toy",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "斯帕克",
 		"va": {
 			"cn": " 赵爽",
 			"jp": " 小倉 唯",
@@ -2063,7 +2173,7 @@
 			{
 				"name": "绯红童谣",
 				"description": "小女孩收到了姐姐寄来的红色斗篷。呜哇，因为太过高兴忘记把自己的尾巴藏起来了！",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_21",
 				"assets": {
@@ -2131,6 +2241,8 @@
 			"metal",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "巴尔蒙克",
 		"va": {
 			"cn": " 杨梦露",
 			"jp": " 伊藤 静",
@@ -2211,6 +2323,8 @@
 			"decorate",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "启明星",
 		"va": {
 			"cn": " 宋媛媛",
 			"jp": " 戸松 遥",
@@ -2236,7 +2350,7 @@
 			{
 				"name": "「莎莉」",
 				"description": "从回忆中摘取出的形象……不过是幻象罢了。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_17",
 				"assets": {
@@ -2304,6 +2418,8 @@
 			"game",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "否决立方",
 		"va": {
 			"cn": " 蔡海婷",
 			"jp": " 村瀬 歩",
@@ -2364,6 +2480,8 @@
 			"decorate",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "初动重击",
 		"va": {
 			"cn": " 王燕华",
 			"jp": " 小清水 亜美",
@@ -2443,6 +2561,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "蔷薇之锋",
 		"va": {
 			"cn": " 秦紫翼",
 			"jp": " 石川 由依",
@@ -2503,6 +2623,8 @@
 			"restrictedGoods",
 			"game"
 		],
+		"dislike": [],
+		"unlockInfo": "雷霆战戟",
 		"va": {
 			"cn": " 曹雅雯",
 			"jp": " 大久保 瑠美",
@@ -2582,6 +2704,8 @@
 			"game",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "超电磁双星",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 水樹 奈々",
@@ -2662,6 +2786,8 @@
 			"game",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "V2熔驱盾",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 高橋 李依",
@@ -2742,6 +2868,8 @@
 			"restrictedGoods",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "霜羽之弦",
 		"va": {
 			"cn": " 徐徐",
 			"jp": " 小原 好美",
@@ -2822,6 +2950,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "环海轮刃",
 		"va": {
 			"cn": " 蔡娜",
 			"jp": " 小澤 亜李",
@@ -2902,6 +3032,8 @@
 			"Rarity",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "黑鸦冥镰",
 		"va": {
 			"cn": " 唐子晰",
 			"jp": " 松岡 禎丞",
@@ -2982,6 +3114,8 @@
 			"collection",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "炽焰左轮",
 		"va": {
 			"cn": " 陈睿婕",
 			"jp": " 川澄 綾子",
@@ -3007,7 +3141,7 @@
 			{
 				"name": "芯白直感",
 				"description": "在礼服和工作服中间寻找平衡的设计是如此难寻，只有她坚持认为艺术性和实用性兼顾的才算优秀作品……",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "活动获取",
 				"simulacrumId": "imitation_10",
 				"assets": {
@@ -3076,6 +3210,8 @@
 			"decorate",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "零度指针",
 		"va": {
 			"cn": " 胡婷婷",
 			"jp": " 鬼頭 明里",
@@ -3156,6 +3292,8 @@
 			"Rarity",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "红莲刃",
 		"va": {
 			"cn": " 贺文潇",
 			"jp": " 小松 未可子",
@@ -3236,6 +3374,8 @@
 			"garageKit",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "疾雷双刃",
 		"va": {
 			"cn": " 翟巍",
 			"jp": " 岡本 信彦",
@@ -3296,6 +3436,8 @@
 			"decorate",
 			"collection"
 		],
+		"dislike": [],
+		"unlockInfo": "圣痕权杖",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 能登 麻美子",
@@ -3356,6 +3498,8 @@
 			"garageKit",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "终结者",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 花澤 香菜",
@@ -3416,6 +3560,8 @@
 			"collection",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "夜雀之羽",
 		"va": {
 			"cn": " 王晓彤",
 			"jp": " 日高 里菜",

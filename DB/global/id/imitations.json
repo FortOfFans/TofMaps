@@ -54,6 +54,11 @@
 			"garageKit",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 刘一蕾",
 			"jp": " 野中 藍",
@@ -79,7 +84,7 @@
 			{
 				"name": "Somniloquy",
 				"description": "Para ilmuwan tidak berdaya dalam mimpi mereka, di mana logika dan hukum alam tidak lagi berarti. Di sisi lain, orang-orang yang masih memiliki imajinasi layaknya anak kecil, mampu menikmati hidup dalam mimpi mereka.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_52",
 				"assets": {
@@ -148,6 +153,11 @@
 			"restrictedGoods",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 前田佳織里",
@@ -158,13 +168,13 @@
 		"awakening": [
 			{
 				"name": "Regulation",
-				"description": "Final DMG meningkat **14%**. Untuk setiap 1 Senjata Physical yang terpasang, DMG Serangan Biasa menggunakan **Equilibrium** meningkat sebesar **10%**, hingga maks **20%**.",
+				"description": "Final DMG meningkat **14%**. Untuk setiap 1 Senjata Physical yang terpasang, DMG Serangan Biasa menggunakan **Equilibrium** meningkat sebesar **15%**, hingga maks **30%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao_2x.webp",
 				"need": 1200
 			},
 			{
 				"name": "Order",
-				"description": "Final DMG meningkat **18%**. Saat **Equilibrium** terpasang, Physical DMG yang ditimpakan pada target dengan HP kurang dari **80%** meningkat sebesar **10%**. Untuk setiap 1 Senjata Physical yang terpasang, DMG Serangan Biasa menggunakan **Equilibrium** meningkat sebesar **20%**, hingga maks **40%**.",
+				"description": "Final DMG meningkat **18%**. Saat **Equilibrium** terpasang, Physical DMG yang ditimpakan pada target dengan HP kurang dari **80%** meningkat sebesar **10%**. Untuk setiap 1 Senjata Physical yang terpasang, DMG Serangan Biasa menggunakan **Equilibrium** meningkat sebesar **30%**, hingga maks **60%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao.webp",
 				"need": 4000
 			}
@@ -228,6 +238,11 @@
 			"everydayObjects",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 张安琪",
 			"jp": " 石田 嘉代",
@@ -253,7 +268,7 @@
 			{
 				"name": "Tranquil Melody",
 				"description": "Di bawah langit cerah dan bunga-bunga yang berguguran, bambu-bambu di bawah naungan melantunkan melodi nan merdu. Diiringi alunan kecapi dan suling, paviliun dan teras yang asri, momen-momen ini akan terasa lebih bermakna.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_49",
 				"assets": {
@@ -322,6 +337,11 @@
 			"decorate",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " kiyo",
 			"jp": " 原 由実",
@@ -347,7 +367,7 @@
 			{
 				"name": "Summer Frost",
 				"description": "Berjemur di bawah mentari cerah, ditemani semilir musim panas.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_43",
 				"assets": {
@@ -416,6 +436,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 陈彦亦",
 			"jp": " 田中 理恵",
@@ -496,6 +521,11 @@
 			"garageKit",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 新井 里美",
@@ -521,7 +551,7 @@
 			{
 				"name": "Serene Grove",
 				"description": "Di tengah semilir angin, di antara rumpun bambu damai.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_41",
 				"assets": {
@@ -591,6 +621,8 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 马洋",
 			"jp": " 中村 悠一",
@@ -616,7 +648,7 @@
 			{
 				"name": "Zeke",
 				"description": "Terlihat seperti telah menjalani pengasingan yang lama, bahkan mungkin membenamkan dirinya dalam tinta untuk merenungkan esensi dari keanggunan yang sejati, Liu Huo hadir kembali di hadapan kita. Auranya, yang kini tampak lebih bersinar, menandakan pemahaman yang lebih dalam tentang keanggunan... sebuah perubahan yang nyata.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_50",
 				"assets": {
@@ -685,6 +717,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 秦文静",
 			"jp": " 柚木 涼香",
@@ -765,6 +802,11 @@
 			"metal",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 葛子瑞",
 			"jp": " 徳井 青空",
@@ -790,7 +832,7 @@
 			{
 				"name": "Kemurnian Dalam Guratan",
 				"description": "Terlihat seperti telah menjalani pengasingan yang lama, bahkan mungkin membenamkan dirinya dalam tinta untuk merenungkan esensi dari keanggunan yang sejati, Liu Huo hadir kembali di hadapan kita. Auranya, yang kini tampak lebih bersinar, menandakan pemahaman yang lebih dalam tentang keanggunan... sebuah perubahan yang nyata.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_37",
 				"assets": {
@@ -858,6 +900,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 穆雪婷",
 			"jp": " 三石 琴乃",
@@ -883,7 +930,7 @@
 			{
 				"name": "Brilliant Eclipse",
 				"description": "Keberlangsungan dan kehancuran bergabung menjadi dirinya.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_48",
 				"assets": {
@@ -952,6 +999,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 常丹瑞",
 			"jp": " 釘宮 理恵",
@@ -1032,6 +1084,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 刘雪",
 			"jp": " 石見 舞菜香",
@@ -1057,7 +1114,7 @@
 			{
 				"name": "Starlit Honor",
 				"description": "Bulan dan bintang, hanya untukmu.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_36",
 				"assets": {
@@ -1127,6 +1184,10 @@
 			"Vera",
 			"Asshai"
 		],
+		"dislike": [
+			"Jiuyu"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 沐霏",
 			"jp": " 梶原 岳人",
@@ -1208,6 +1269,10 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 陈雨",
 			"jp": " 内田 真礼",
@@ -1233,7 +1298,7 @@
 			{
 				"name": "Ivory Bloom",
 				"description": "Terima kasih karena kamu tetap berani dan terus menggenggam tanganku, meski saat menghadapi bahaya.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_34",
 				"assets": {
@@ -1302,6 +1367,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 孙艳琦",
 			"jp": " 丹下 桜",
@@ -1327,7 +1397,7 @@
 			{
 				"name": "Fluffy White Chocolate",
 				"description": "Di musim dingin, satu set lengkap pakaian yang hangat adalah wajib hukumnya, termasuk penutup telinga! Selain itu, jangan lupa untuk menyemprotkan parfum cokelat putih susu yang manis sebelum keluar rumah!",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_32",
 				"assets": {
@@ -1395,6 +1465,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 刘雯",
 			"jp": " M・A・O",
@@ -1420,7 +1495,7 @@
 			{
 				"name": "Taman Impian Sereal",
 				"description": "Kostum yang dipesan Umi untuk pertunjukan formal, dia akan berperan sebagai pewaris Kastil Sereal dan menampilkan suasana fantastis bagi \"tamu\" yang masuk ke tempat ini.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_31",
 				"assets": {
@@ -1489,6 +1564,11 @@
 			"restrictedGoods",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Unyielding Wing",
 		"va": {
 			"cn": " 杜晴晴",
 			"jp": " 安済 知佳",
@@ -1514,7 +1594,7 @@
 			{
 				"name": "Platinum Radiance",
 				"description": "Tak lama setelah sakit kepala Alyss sembuh, Departemen Sains dan Teknologi Mirroria menemukan informasi yang sebelumnya tidak diketahui pada Unyielding Wing. Dengan merekonstruksi data dan mengimpornya ke Unyielding Wing, mereka menciptakan Bentuk Armor Platinum baru yang berbeda dari Anisoptera atau Lepidoptera.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_30",
 				"assets": {
@@ -1584,6 +1664,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Clover Cross",
 		"va": {
 			"cn": " 洪海天",
 			"jp": " 黒沢 ともよ",
@@ -1609,7 +1694,7 @@
 			{
 				"name": "No Fear of the Sun",
 				"description": "Sinar UV adalah musuh semua wanita... Tapi dia tampaknya menikmati mandi di bawah sinar matahari.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Ambil Di Toko",
 				"simulacrumId": "imitation_26",
 				"assets": {
@@ -1678,6 +1763,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Thunderbreaker",
 		"va": {
 			"cn": " 淦子齐",
 			"jp": " 石川 界人",
@@ -1757,6 +1847,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Vesper",
 		"va": {
 			"cn": " 常佳梦",
 			"jp": " 大原 さやか",
@@ -1837,6 +1932,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Limited Cache",
 		"va": {
 			"cn": " 陈婷婷",
 			"jp": " 南條 愛乃",
@@ -1862,7 +1962,7 @@
 			{
 				"name": "Sleek Summer Shade",
 				"description": "Bahkan orang yang terkenal sibuk di Mirroria ini sesekali menikmati waktu istirahat di tepi kolam renang mewah yang eksklusif.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1875,7 +1975,7 @@
 			{
 				"name": "Azure Heart",
 				"description": "\"Mungkin aku akan memakainya kalau aku kerja di Innars dan tidak tinggal di Mirroria.\" Mungkin inilah kenyataan di alam semesta yang lain.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1944,6 +2044,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Heartstream",
 		"va": {
 			"cn": " 唐小喜",
 			"jp": " 雨宮 天",
@@ -1969,7 +2074,7 @@
 			{
 				"name": "Pure White",
 				"description": "\"Ultimate Justice! Ultimate Valor! Ultimate Warrior yang memberikan Perlindungan Pemungkas kepada Night City! Elegan, murni, perkasa! Super, super ultimate!\"",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_22",
 				"assets": {
@@ -2038,6 +2143,11 @@
 			"toy",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Spark",
 		"va": {
 			"cn": " 赵爽",
 			"jp": " 小倉 唯",
@@ -2063,7 +2173,7 @@
 			{
 				"name": "Crimson Song",
 				"description": "Si gadis kecil menerima jubah merah itu dari kakaknya. Wah, dia senang sekali sampai-sampai lupa menyembunyikan buntutnya!",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_21",
 				"assets": {
@@ -2131,6 +2241,8 @@
 			"metal",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "Balmung",
 		"va": {
 			"cn": " 杨梦露",
 			"jp": " 伊藤 静",
@@ -2211,6 +2323,8 @@
 			"decorate",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "Venus",
 		"va": {
 			"cn": " 宋媛媛",
 			"jp": " 戸松 遥",
@@ -2236,7 +2350,7 @@
 			{
 				"name": "Shirli",
 				"description": "Ini gambar yang diambil dari dalam ingatan... Ini cuma ilusi saja.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_17",
 				"assets": {
@@ -2304,6 +2418,8 @@
 			"game",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Negating Cube",
 		"va": {
 			"cn": " 蔡海婷",
 			"jp": " 村瀬 歩",
@@ -2364,6 +2480,8 @@
 			"decorate",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "Pummeler",
 		"va": {
 			"cn": " 王燕华",
 			"jp": " 小清水 亜美",
@@ -2443,6 +2561,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Rosy Edge",
 		"va": {
 			"cn": " 秦紫翼",
 			"jp": " 石川 由依",
@@ -2503,6 +2623,8 @@
 			"restrictedGoods",
 			"game"
 		],
+		"dislike": [],
+		"unlockInfo": "Thunderous Halberd",
 		"va": {
 			"cn": " 曹雅雯",
 			"jp": " 大久保 瑠美",
@@ -2582,6 +2704,8 @@
 			"game",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "Dual EM Stars",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 水樹 奈々",
@@ -2662,6 +2786,8 @@
 			"game",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Molten Shield V2",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 高橋 李依",
@@ -2742,6 +2868,8 @@
 			"restrictedGoods",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Frostplume String",
 		"va": {
 			"cn": " 徐徐",
 			"jp": " 小原 好美",
@@ -2822,6 +2950,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Chakram of the Seas",
 		"va": {
 			"cn": " 蔡娜",
 			"jp": " 小澤 亜李",
@@ -2902,6 +3032,8 @@
 			"Rarity",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Scythe of the Crow",
 		"va": {
 			"cn": " 唐子晰",
 			"jp": " 松岡 禎丞",
@@ -2982,6 +3114,8 @@
 			"collection",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Flaming Revolver",
 		"va": {
 			"cn": " 陈睿婕",
 			"jp": " 川澄 綾子",
@@ -3007,7 +3141,7 @@
 			{
 				"name": "Argent Intuition",
 				"description": "Sulit untuk menyeimbangkan pakaian resmi dengan baju kerja. Cuma dia yang ngotot bahwa seni sejati itu harus praktis dan estetis...",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Dari event",
 				"simulacrumId": "imitation_10",
 				"assets": {
@@ -3076,6 +3210,8 @@
 			"decorate",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Absolute Zero",
 		"va": {
 			"cn": " 胡婷婷",
 			"jp": " 鬼頭 明里",
@@ -3156,6 +3292,8 @@
 			"Rarity",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Guren Blade",
 		"va": {
 			"cn": " 贺文潇",
 			"jp": " 小松 未可子",
@@ -3236,6 +3374,8 @@
 			"garageKit",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Thunderblades",
 		"va": {
 			"cn": " 翟巍",
 			"jp": " 岡本 信彦",
@@ -3296,6 +3436,8 @@
 			"decorate",
 			"collection"
 		],
+		"dislike": [],
+		"unlockInfo": "Staff of Scars",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 能登 麻美子",
@@ -3356,6 +3498,8 @@
 			"garageKit",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "The Terminator",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 花澤 香菜",
@@ -3416,6 +3560,8 @@
 			"collection",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Nightingale Feather",
 		"va": {
 			"cn": " 王晓彤",
 			"jp": " 日高 里菜",

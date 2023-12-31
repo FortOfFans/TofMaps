@@ -54,6 +54,11 @@
 			"garageKit",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 刘一蕾",
 			"jp": " 野中 藍",
@@ -79,7 +84,7 @@
 			{
 				"name": "Разговор во сне",
 				"description": "Ученые бессильны во сне, где не действует логика и законы природы. Но те, кто сохранил живое воображение, присущее ребенку, способны получать от снов огромное удовольствие.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_52",
 				"assets": {
@@ -148,6 +153,11 @@
 			"restrictedGoods",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 前田佳織里",
@@ -158,13 +168,13 @@
 		"awakening": [
 			{
 				"name": "Регламент",
-				"description": "Увеличивает конечный урон на **14%**. Каждое физическое оружие в экипировке увеличивает урон от обычной атаки **Эквилибриума** на **10%**, вплоть до **20%**.",
+				"description": "Увеличивает конечный урон на **14%**. Каждое физическое оружие в экипировке увеличивает урон от обычной атаки **Эквилибриума** на **15%**, вплоть до **30%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao_2x.webp",
 				"need": 1200
 			},
 			{
 				"name": "Порядок",
-				"description": "Увеличивает конечный урон на **18%**. Когда в экипировке **Эквилибриум**, увеличивает физический урон по целям с менее чем **80%** ОЗ на **10%**. Каждое физическое оружие в экипировке увеличивает урон от обычной атаки **Эквилибриума** на **20%**, вплоть до **40%**.",
+				"description": "Увеличивает конечный урон на **18%**. Когда в экипировке **Эквилибриум**, увеличивает физический урон по целям с менее чем **80%** ОЗ на **10%**. Каждое физическое оружие в экипировке увеличивает урон от обычной атаки **Эквилибриума** на **30%**, вплоть до **60%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao.webp",
 				"need": 4000
 			}
@@ -228,6 +238,11 @@
 			"everydayObjects",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 张安琪",
 			"jp": " 石田 嘉代",
@@ -253,7 +268,7 @@
 			{
 				"name": "Спокойная мелодия",
 				"description": "В небе ни облака, опадают лепестки, а кусты бамбука под свесами крыш поют спокойную мелодию. Звучит дуэт цитры и флейты, павильоны и террасы такие же, как и прежде, и хочется, чтобы эти моменты длились подольше.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_49",
 				"assets": {
@@ -322,6 +337,11 @@
 			"decorate",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " kiyo",
 			"jp": " 原 由実",
@@ -347,7 +367,7 @@
 			{
 				"name": "Летний иней",
 				"description": "Под яркими лучами солнца расцветает летний иней.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_43",
 				"assets": {
@@ -416,6 +436,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 陈彦亦",
 			"jp": " 田中 理恵",
@@ -496,6 +521,11 @@
 			"garageKit",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 新井 里美",
@@ -521,7 +551,7 @@
 			{
 				"name": "Безмятежная роща",
 				"description": "На легком ветру, в безмятежной бамбуковой роще.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_41",
 				"assets": {
@@ -591,6 +621,8 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 马洋",
 			"jp": " 中村 悠一",
@@ -616,7 +648,7 @@
 			{
 				"name": "Зик",
 				"description": "После длительного уединения (и, возможно, медитации в чернилах) Лю Хо вновь появляется перед нами, вооруженная знаниями об истинной сути элегантности. Ее аура сияет ярче прежнего, что свидетельствует о заметном преображении.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_50",
 				"assets": {
@@ -685,6 +717,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 秦文静",
 			"jp": " 柚木 涼香",
@@ -765,6 +802,11 @@
 			"metal",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 葛子瑞",
 			"jp": " 徳井 青空",
@@ -790,7 +832,7 @@
 			{
 				"name": "Утонченный росчерк",
 				"description": "После длительного уединения (и, возможно, медитации в чернилах) Лю Хо вновь появляется перед нами, вооруженная знаниями об истинной сути элегантности. Ее аура сияет ярче прежнего, что свидетельствует о заметном преображении.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_37",
 				"assets": {
@@ -858,6 +900,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 穆雪婷",
 			"jp": " 三石 琴乃",
@@ -883,7 +930,7 @@
 			{
 				"name": "Сияющее затмение",
 				"description": "Существование и уничтожение стали ее единственной целью.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_48",
 				"assets": {
@@ -952,6 +999,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 常丹瑞",
 			"jp": " 釘宮 理恵",
@@ -1032,6 +1084,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 刘雪",
 			"jp": " 石見 舞菜香",
@@ -1057,7 +1114,7 @@
 			{
 				"name": "Звездные почести",
 				"description": "Луна и звезды только для вас.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_36",
 				"assets": {
@@ -1127,6 +1184,10 @@
 			"Vera",
 			"Asshai"
 		],
+		"dislike": [
+			"Jiuyu"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 沐霏",
 			"jp": " 梶原 岳人",
@@ -1208,6 +1269,10 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 陈雨",
 			"jp": " 内田 真礼",
@@ -1233,7 +1298,7 @@
 			{
 				"name": "Кремовый цвет",
 				"description": "Спасибо, что остаешься со мной и держишь меня за руку даже во времена крайней опасности.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_34",
 				"assets": {
@@ -1302,6 +1367,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 孙艳琦",
 			"jp": " 丹下 桜",
@@ -1327,7 +1397,7 @@
 			{
 				"name": "Воздушный белый шоколад",
 				"description": "No inverno, um conjunto completo de roupas quentinhas é uma necessidade, inclusive para as orelhas! Além disso, não se esqueça de passar um perfume docinho de chocolate branco antes de sair de casa!",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_32",
 				"assets": {
@@ -1395,6 +1465,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 刘雯",
 			"jp": " M・A・O",
@@ -1420,7 +1495,7 @@
 			{
 				"name": "Страна чудесного шиповника",
 				"description": "Костюм, который Уми заказала для достаточно формального представления — в нем она будет играть наследницу Замка шиповника и насылать удивительные сны на «гостей», наткнувшихся на это место.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_31",
 				"assets": {
@@ -1489,6 +1564,11 @@
 			"restrictedGoods",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Непоколебимое крыло",
 		"va": {
 			"cn": " 杜晴晴",
 			"jp": " 安済 知佳",
@@ -1514,7 +1594,7 @@
 			{
 				"name": "Блеск платины",
 				"description": "Вскоре после того как у Алисс прошла головная боль, Департамент науки и технологий Миррории обнаружил в Непоколебимом крыле ранее недоступную информацию. Ученые реконструировали данные и импортировали их в Непоколебимое крыло, создав новую форму «Платиновая броня», которая отличается от «Стрекоз» и «Бабочек».",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_30",
 				"assets": {
@@ -1584,6 +1664,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Клеверный крест",
 		"va": {
 			"cn": " 洪海天",
 			"jp": " 黒沢 ともよ",
@@ -1609,7 +1694,7 @@
 			{
 				"name": "Не боясь солнца",
 				"description": "УФ-излучение — враг всех женщин... Но, похоже, ей нравится принимать солнечные ванны.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Заявки в магазин",
 				"simulacrumId": "imitation_26",
 				"assets": {
@@ -1678,6 +1763,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Грозолом",
 		"va": {
 			"cn": " 淦子齐",
 			"jp": " 石川 界人",
@@ -1757,6 +1847,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Веспер",
 		"va": {
 			"cn": " 常佳梦",
 			"jp": " 大原 さやか",
@@ -1837,6 +1932,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Ограниченное предложение",
 		"va": {
 			"cn": " 陈婷婷",
 			"jp": " 南條 愛乃",
@@ -1862,7 +1962,7 @@
 			{
 				"name": "Изящная летняя тень",
 				"description": "Даже этот известный занятой человек из Миррории иногда отдыхает у роскошного бассейна.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1875,7 +1975,7 @@
 			{
 				"name": "Лазурное сердце",
 				"description": "Наряд на тот редкий случай, когда отправляешься работать в Иннарс, вместо того чтобы развлекаться в Миррории.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1944,6 +2044,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Сердечный поток",
 		"va": {
 			"cn": " 唐小喜",
 			"jp": " 雨宮 天",
@@ -1969,7 +2074,7 @@
 			{
 				"name": "Абсолютная белоснежность",
 				"description": "«Абсолютная справедливость! Абсолютная доблесть! Абсолютные воины на страже Ночного города! Элегантные, безупречные, могучие и абсолютные!»",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_22",
 				"assets": {
@@ -2038,6 +2143,11 @@
 			"toy",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Искра",
 		"va": {
 			"cn": " 赵爽",
 			"jp": " 小倉 唯",
@@ -2063,7 +2173,7 @@
 			{
 				"name": "Алая песня",
 				"description": "Эта маленькая девочка получает красный плащ от своей сестры. Ого, она так взволнована, что забыла спрятать свой хвост!",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_21",
 				"assets": {
@@ -2131,6 +2241,8 @@
 			"metal",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "Бальмунг",
 		"va": {
 			"cn": " 杨梦露",
 			"jp": " 伊藤 静",
@@ -2211,6 +2323,8 @@
 			"decorate",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "Венера",
 		"va": {
 			"cn": " 宋媛媛",
 			"jp": " 戸松 遥",
@@ -2236,7 +2350,7 @@
 			{
 				"name": "Ширли",
 				"description": "Это картинка, извлеченная из воспоминаний... Это всего лишь иллюзия.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_17",
 				"assets": {
@@ -2304,6 +2418,8 @@
 			"game",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Куб отрицания",
 		"va": {
 			"cn": " 蔡海婷",
 			"jp": " 村瀬 歩",
@@ -2364,6 +2480,8 @@
 			"decorate",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "Громила",
 		"va": {
 			"cn": " 王燕华",
 			"jp": " 小清水 亜美",
@@ -2443,6 +2561,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Лезвие розы",
 		"va": {
 			"cn": " 秦紫翼",
 			"jp": " 石川 由依",
@@ -2503,6 +2623,8 @@
 			"restrictedGoods",
 			"game"
 		],
+		"dislike": [],
+		"unlockInfo": "Громовая алебарда",
 		"va": {
 			"cn": " 曹雅雯",
 			"jp": " 大久保 瑠美",
@@ -2582,6 +2704,8 @@
 			"game",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "Парные ЭМ-звезды",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 水樹 奈々",
@@ -2662,6 +2786,8 @@
 			"game",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Расплавленный щит V2",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 高橋 李依",
@@ -2742,6 +2868,8 @@
 			"restrictedGoods",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Струны морозного пера",
 		"va": {
 			"cn": " 徐徐",
 			"jp": " 小原 好美",
@@ -2822,6 +2950,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Чакра морей",
 		"va": {
 			"cn": " 蔡娜",
 			"jp": " 小澤 亜李",
@@ -2902,6 +3032,8 @@
 			"Rarity",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Коса ворона",
 		"va": {
 			"cn": " 唐子晰",
 			"jp": " 松岡 禎丞",
@@ -2982,6 +3114,8 @@
 			"collection",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Пылающий револьвер",
 		"va": {
 			"cn": " 陈睿婕",
 			"jp": " 川澄 綾子",
@@ -3007,7 +3141,7 @@
 			{
 				"name": "Серебристая интуиция",
 				"description": "Сложно найти гармонию между официальным костюмом и рабочей одеждой. Но она продолжает настаивать, что настоящее искусство — это смесь творчества и практичности...",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Из событий",
 				"simulacrumId": "imitation_10",
 				"assets": {
@@ -3076,6 +3210,8 @@
 			"decorate",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Абсолютный ноль",
 		"va": {
 			"cn": " 胡婷婷",
 			"jp": " 鬼頭 明里",
@@ -3156,6 +3292,8 @@
 			"Rarity",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Клинок Гурена",
 		"va": {
 			"cn": " 贺文潇",
 			"jp": " 小松 未可子",
@@ -3236,6 +3374,8 @@
 			"garageKit",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Грозовые клинки",
 		"va": {
 			"cn": " 翟巍",
 			"jp": " 岡本 信彦",
@@ -3296,6 +3436,8 @@
 			"decorate",
 			"collection"
 		],
+		"dislike": [],
+		"unlockInfo": "Посох шрамов",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 能登 麻美子",
@@ -3356,6 +3498,8 @@
 			"garageKit",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "Терминатор",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 花澤 香菜",
@@ -3416,6 +3560,8 @@
 			"collection",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Соловьиное перышко",
 		"va": {
 			"cn": " 王晓彤",
 			"jp": " 日高 里菜",

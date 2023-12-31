@@ -14,12 +14,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Zero: Calcul précis",
+				"stage": 1200,
+				"trait": "Lorsque Zero utilise une compétence d'arme, réduit le temps de recharge des reliques en cours de recharge de **1,5**seconde. Peut s'activer **1**fois par arme, toutes les **5**secondes."
+			},
+			{
 				"text": "Journal de bord: règles",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Zero",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Zero: Planification globale",
+				"stage": 4000,
+				"trait": "Lorsque Zero utilise une compétence d'arme, réduit le temps de recharge des reliques en cours de recharge de **3**secondes. Peut s'activer **1**fois par arme, toutes les **5**secondes."
 			}
 		],
 		"id": "imitation_1"
@@ -39,12 +49,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Ene: Mode rapide",
+				"stage": 1200,
+				"trait": "Lorsque Ene nage, escalade ou plane, réduit la consommation d'endurance de **12%**."
+			},
+			{
 				"text": "Journal de bord: un désir de pouvoir",
 				"stage": 2000
 			},
 			{
 				"text": "Journal: L'avenir des machines",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Ene: Mode sans limites",
+				"stage": 4000,
+				"trait": "Lorsque Ene nage, escalade ou plane, réduit la consommation d'endurance de **20%**."
 			}
 		],
 		"id": "imitation_2"
@@ -64,12 +84,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Meryl: Rose fraîche",
+				"stage": 1200,
+				"trait": "Réduit de **20%** les dégâts de givre reçus par Meryl, immunise à l'effet \"givré\" et réduit la durée de l'effet \"gelé\" de **50%**."
+			},
+			{
 				"text": "Journal de bord: journées glaciales",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: fonte des neiges",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Meryl: Glacé",
+				"stage": 4000,
+				"trait": "Réduit de **25%** les dégâts de givre reçus par Meryl, confère l'immunité contre l'effet de gelure, et réduit la durée de gel de **50%**. L'air autour de Meryl se refroidit, gelant l'eau autour d'elle."
 			}
 		],
 		"id": "imitation_3"
@@ -89,12 +119,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Echo: Intégrité",
+				"stage": 1200,
+				"trait": "Lorsqu'il est associé à Echo, les alliés situés dans un rayon de **10**mètres autour d'Echo bénéficient d'un bonus de dégâts de **4%** (à l'exception d'Echo)."
+			},
+			{
 				"text": "Journal de bord: pourquoi nous combattons",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Quo Vadis",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Echo: Détermination",
+				"stage": 4000,
+				"trait": "Lorsqu'il est associé à Echo, les alliés situés dans un rayon de **10**mètres autour d'Echo bénéficient d'un bonus de dégâts de **4%** (à l'exception d'Echo)."
 			},
 			{
 				"stage": 4500
@@ -135,12 +175,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Samir: Supercherie",
+				"stage": 1200,
+				"trait": "Toutes les **4**secondes où elle ne subit pas de dégâts, Samir obtient **1**cumul de Concentration. Chaque cumul augmente les dégâts infligés de **3%** et le maximum est de **4**cumuls. Lorsqu' elle est touchée, Samir perd **1** cumul. Le nombre maximum de cumuls perdus en **1**seconde est de **1**."
+			},
+			{
 				"text": "Journal de bord: résonance",
 				"stage": 2000
 			},
 			{
 				"text": "Journal: Concerto",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Samir: Ombre",
+				"stage": 4000,
+				"trait": "Toutes les **4**secondes où elle ne subit pas de dégâts, Samir obtient **1**cumul de Concentration. Chaque cumul augmente les dégâts infligés de **4%** et le maximum est de **5**cumuls. Lorsqu'elle est touchée, Samir perd **1** cumul. Le nombre maximum de cumuls perdus en **1**seconde est de **2**."
 			}
 		],
 		"id": "imitation_5"
@@ -160,12 +210,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Huma: Fortitude",
+				"stage": 1200,
+				"trait": "Chaque fois qu'Huma reçoit des dégâts, obtenez **1**marque de fortitude et **1**marque de fortitude en plus en cas de dégâts de feu, dans la limite de **1**fois par **1**seconde et de **12**cumuls au total. Lorsque vous appliquez une compétence d'arme, utilisez toutes les marques de fortitude et gagnez un bouclier de PV égal au nombre de marques x**0,4%** de PV pendant **12**secondes. Si des marques de fortitude sont utilisées lorsque l'effet est cumulé au maximum, gagnez un bouclier de PV égal au nombre de marques x**0,6%** de PV."
+			},
+			{
 				"text": "Journal de bord: Echo",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: symphonie",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Huma: Écran de fer",
+				"stage": 4000,
+				"trait": "Chaque fois qu'Huma reçoit des dégâts, obtenez **1**marque de fortitude et **1**marque de fortitude en plus en cas de dégâts de feu, dans la limite de **1**fois par **1**seconde et de **12**cumuls au total. Lorsque vous appliquez une compétence d'arme, utilisez toutes les marques de fortitude et gagnez un bouclier de PV égal au nombre de marques x**0,6%** de PV pendant **12**secondes. Si des marques de fortitude sont utilisées lorsque l'effet est cumulé au maximum, gagnez un bouclier de PV égal au nombre de marques x**0,9%** de PV."
 			}
 		],
 		"id": "imitation_6"
@@ -185,12 +245,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Tsubasa: Pluie torrentielle",
+				"stage": 1200,
+				"trait": "Chaque fois que Tsubasa inflige des dégâts, obtenez **1**cumul de Frappe féroce, dans la limite de **1**cumul toutes les **1**seconde. Chaque cumul ajoute **0,5%** d'ATQ, jusqu'à **15**fois. Actualise la durée de l'effet lorsque vous obtenez à nouveau l'effet. Cet effet dure **30**secondes."
+			},
+			{
 				"text": "Journal de bord: avertissement relatif au gel",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: vous savez mieux que quiconque",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Tsubasa: Vagues déchaînées",
+				"stage": 4000,
+				"trait": "Chaque fois que Tsubasa inflige des dégâts, obtenez **1**cumul de Frappe féroce, dans la limite de **1**cumul toutes les **1**seconde. Chaque cumul ajoute **0,6%** d'ATQ, jusqu'à **30**fois. Actualise la durée de l'effet lorsque vous obtenez à nouveau l'effet. Cet effet dure **30**secondes."
 			}
 		],
 		"id": "imitation_7"
@@ -210,12 +280,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Shiro: Alerte de sécurité",
+				"stage": 1200,
+				"trait": "Lorsque Shiro utilise une compétence d'arme ou une compétence de décharge, augmente de **10%** tous les types d'ATQ et de **7%** l'ATQ physique pendant **8**secondes. Temps de recharge: **16**secondes."
+			},
+			{
 				"text": "Journal de bord: vagues marines",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: un chant de secrets",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Shiro: Alerte rouge",
+				"stage": 4000,
+				"trait": "Lorsque Shiro utilise une compétence d'arme ou une compétence de décharge, augmente de **16%** tous les types d'ATQ et de **10%** l'ATQ physique pendant **8**secondes. Temps de recharge: **16**secondes."
 			}
 		],
 		"id": "imitation_8"
@@ -234,12 +314,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: King: Balayage cruel",
+				"stage": 1200,
+				"trait": "Tous les **7**ennemis vaincus par KING, régénère un nombre de PV égal à **8%** des PV max."
+			},
+			{
 				"text": "Journal: Contrat égal",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: un pari",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: King: Faucheuse de la peur",
+				"stage": 4000,
+				"trait": "Tous les **5**ennemis vaincus par KING, régénère un nombre de PV égal à **10%** des PV max."
 			}
 		],
 		"id": "imitation_9"
@@ -259,12 +349,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Cobalt-B: Chaleur persistante",
+				"stage": 1200,
+				"trait": "Après avoir utilisé une compétence de décharge, Cobalt-B régénère un nombre aléatoire de recharge d'arme entre **50** et **120**points."
+			},
+			{
 				"text": "Journal: un bon partenariat",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: amis et armes",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Cobalt-B: Étincelle",
+				"stage": 4000,
+				"trait": "Après avoir utilisé une compétence de décharge, Cobalt-B régénère un nombre aléatoire de recharge d'arme entre **90** et **180**points."
 			}
 		],
 		"id": "imitation_10"
@@ -284,12 +384,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Cocoritter: Assistance",
+				"stage": 1200,
+				"trait": "Lorsque Cocoritter utilise une arme d'assistance, accroît de **20%** les effets de guérison qu'elle reçoit et prodigue aux autres."
+			},
+			{
 				"text": "Journal de bord: obsessions",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: camaraderie",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Cocoritter: Confiance",
+				"stage": 4000,
+				"trait": "Lorsque Cocoritter utilise une arme de soutien, les soins prodigués et reçus augmentent de **20%**. Et lorsque Cocoritter utilise la compétence de décharge d'arme ou la compétence d'arme standard d'une arme d'assistance, l'ATQ des alliés à proximité augmente de **15%** pendant **5**secondes."
 			}
 		],
 		"id": "imitation_11"
@@ -309,12 +419,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Claudia: Téléportation",
+				"stage": 1200,
+				"trait": "Vous devenez invisible pendant **1**seconde après une esquive."
+			},
+			{
 				"text": "Journal: une âme serviable",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: promesses",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Claudia: Ombre",
+				"stage": 4000,
+				"trait": "Vous devenez invisible pendant **1,5**seconde après une esquive."
 			}
 		],
 		"id": "imitation_12"
@@ -334,12 +454,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Crow: Solitaire",
+				"stage": 1200,
+				"trait": "Lorsque Crow ne fait pas partie d'un groupe, accroît de **6%** les dégâts infligés et réduit de **4%** les dégâts reçus."
+			},
+			{
 				"text": "Journal de bord: romance optimiste",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: plaisanter",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Crow: Douce nuit",
+				"stage": 4000,
+				"trait": "Lorsque Crow ne fait pas partie d'un groupe, accroît de **10%** les dégâts infligés et réduit de **6%** les dégâts reçus. Lorsque Crow entre en combat, accroît les dégâts infligés de **12%** pendant **12**secondes."
 			}
 		],
 		"id": "imitation_13"
@@ -359,12 +489,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Pepper: Renaissance",
+				"stage": 1200,
+				"trait": "Lorsque Pepper dépense de la satiété pour régénérer des PV, l'effet de régénération augmente de **100%**."
+			},
+			{
 				"text": "Journal de bord: pas très sain",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: le rêve des aberrants",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Pepper: Source",
+				"stage": 4000,
+				"trait": "Lorsque Pepper dépense de la satiété pour régénérer des PV, l'effet de régénération augmente de **200%**."
 			},
 			{
 				"stage": 4500
@@ -405,12 +545,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Hilda: Pied au plancher",
+				"stage": 1200,
+				"trait": "Lorsque Hilda utilise un véhicule, accroît sa vitesse de **7%**."
+			},
+			{
 				"text": "Journal de bord: un agréable voyage",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: vers l'avenir",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Hilda: Dérapage à pleine vitesse",
+				"stage": 4000,
+				"trait": "Lorsque Hilda utilise un véhicule, accroît sa vitesse de **10%**."
 			},
 			{
 				"stage": 4500
@@ -451,12 +601,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Bai Ling: Bravoure",
+				"stage": 1200,
+				"trait": "Accroît de **8%** la vitesse pendant **12**secondes lorsque Bai Ling dépose le planeur ou le jetboard. Temps de recharge: **60**secondes."
+			},
+			{
 				"text": "Journal de bord: rapprochement des cœurs",
 				"stage": 2000
 			},
 			{
 				"text": "Journalde bord : votre véritable identité",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Bai Ling: Détermination",
+				"stage": 4000,
+				"trait": "Accroît de **15%** la vitesse pendant **12**secondes lorsque Bai Ling dépose le planeur ou le jetboard. Temps de recharge: **60**secondes."
 			},
 			{
 				"stage": 4500
@@ -497,12 +657,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Nemesis: Métamorphose",
+				"stage": 1200,
+				"trait": "Après avoir invoqué une Électrode, inflige des dégâts de foudre équivalant à **60%** de l'ATQ à tous les ennemis dans un rayon de **30**mètres autour de l'Électrode et soigne tous les alliés à portée à hauteur de **120%** de l'ATQ (y compris l'utilisateur)."
+			},
+			{
 				"text": "Journal de bord: opérations expérimentales",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Face à l'œil bionique",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Nemesis: Sublimation",
+				"stage": 4000,
+				"trait": "Après avoir invoqué une Électrode, inflige des dégâts de foudre équivalant à **100%** de l'ATQ à tous les ennemis dans un rayon de **30**mètres autour de l'Électrode et soigne tous les alliés à portée à hauteur de **200%** de l'ATQ (y compris l'utilisateur)."
 			}
 		],
 		"id": "imitation_17"
@@ -522,12 +692,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Bai Yuekui: Croissant",
+				"stage": 1200,
+				"trait": "Lorsque vous entrez au combat, augmente l'attaque de foudre de Bai Yuekui de **21%** pendant **120** secondes. Cet effet décroît graduellement. Quittez le combat pendant **5**secondes pour réinitialiser cet effet. Inflige **50%** de dégâts supplémentaires contre les anguilles épineuses et les implorateurs terrestres."
+			},
+			{
 				"text": "Journal de bord: explorer un nouveau monde",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: j'ai maintes histoires",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Bai Yuekui: Pleine lune",
+				"stage": 4000,
+				"trait": "Lorsque vous entrez au combat, augmente l'attaque de foudre de Bai Yuekui de **33%** pendant **120** secondes. Cet effet décroît graduellement. Quittez le combat pendant **5**secondes pour réinitialiser cet effet. Inflige **50%** de dégâts supplémentaires contre les anguilles épineuses et les implorateurs terrestres."
 			}
 		],
 		"id": "imitation_18"
@@ -547,12 +727,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Marc: Prochaine vie",
+				"stage": 1200,
+				"trait": "Lorsque Marc subit des dégâts fatals, empêche sa mort et active Renaissance pendant les **5**prochaines secondes. Tant que Renaissance est activé, Marc provoque les ennemis à proximité et se retrouve immunisé aux dégâts, sans pouvoir agir. Il récupère **1%** de ses PV max chaque seconde et accroît de **20%** les effets de soins reçus. Temps de recharge: **10**minutes. Réduit de **50%** les dégâts subis par les anguilles épineuses et les implorateurs terrestres."
+			},
+			{
 				"text": "Journal de bord: règles et réalité",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: réflexions sur le présent",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Marc: Vie antérieure",
+				"stage": 4000,
+				"trait": "Lorsque Marc subit des dégâts fatals, empêche sa mort et active Illumination pendant les **5**prochaines secondes. Tant qu'Illumination est activé, Marc provoque les ennemis à proximité et se retrouve immunisé aux dégâts, sans pouvoir agir. Il récupère **2%** de ses PV max chaque seconde et accroît de **50%** les effets de soins reçus. Temps de recharge: **5**minutes. Réduit de **50%** les dégâts subis par les anguilles épineuses et les implorateurs terrestres."
 			}
 		],
 		"id": "imitation_20"
@@ -572,12 +762,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Attrape-rêves",
+				"stage": 1200,
+				"trait": "Accroît les dégâts de feu subis par tous les ennemis situés dans un rayon de **5** mètres autour de Dolly de **8%**. Effet non cumulable."
+			},
+			{
 				"text": "Journal de bord: l’inconnu",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Après le rêve",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Domaine de Dolly",
+				"stage": 4000,
+				"trait": "Accroît les dégâts de feu reçus par tous les ennemis situés dans un rayon de 5 mètres autour de Dolly de **8%**. Effet non cumulable. Après avoir projeté Dolly, accroît l'ATQ de feu de **12%** pendant **10** secondes. Effet non cumulable."
 			}
 		],
 		"id": "imitation_21"
@@ -597,12 +797,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Saki Fuwa: État de fortitude",
+				"stage": 1200,
+				"trait": "Quand les PV sont inférieurs à **70%**, augmente la résistance de **40%**."
+			},
+			{
 				"text": "Journal: Hyper flux",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Saki",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Saki Fuwa: Épée gardienne",
+				"stage": 4000,
+				"trait": "Quand les PV sont inférieurs à **70%**, augmente la résistance de **40%** avec une résistance au givre supplémentaire de **60%**. En état de Flot silencieux: une fois que l'ombre de l'épée a lancé un Déferlement et a bloqué une attaque, le membre du groupe avec le moins de PV (sauf vous) reçoit 3capacités de blocage qui durent **10**secondes. Les dégâts maximum de blocage n'excèdent pas **15%** des PV max du membre d'équipe."
 			}
 		],
 		"id": "imitation_22"
@@ -622,12 +832,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Lin: Épicactus en fleur",
+				"stage": 1200,
+				"trait": "Accroît les dégâts de l'explosion d'épicactus de **15%**."
+			},
+			{
 				"text": "Journal: Miroir",
 				"stage": 2000
 			},
 			{
 				"text": "Journal: Une vie dans l'obscurité",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Lin: Épicactus glamour",
+				"stage": 4000,
+				"trait": "Accroît les dégâts de l'explosion d'épicactus de **20%**. Réduit toutes les résistances des cibles de **7%** lorsque vous les touchez avec l'épicactus pendant **7**secondes. Effet non cumulable."
 			},
 			{
 				"stage": 4500
@@ -668,12 +888,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Changecœur",
+				"stage": 1200,
+				"trait": "Résonance de Bénédiction: accroît les PV max de 10% pour l'ensemble du groupe. Non cumulable."
+			},
+			{
 				"text": "Journal de bord: Lien",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: En bonne voie",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Bénir",
+				"stage": 4000,
+				"trait": "Résonance de Bénédiction: accroît les PV max de 10% pour l'ensemble du groupe. L'effet ne peut pas être cumulé. Augmente vos PV max de 10% supplémentaires. Hypercorps est conféré aux alliés pendant 8secondes chaque fois que la compétence est utilisée pendant que vous bénéficiez d'Hypercorps ou que vos PV sont supérieurs à 50%."
 			},
 			{
 				"stage": 4500
@@ -714,12 +944,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Gel",
+				"stage": 1200,
+				"trait": "Lorsque vous rejoignez un combat, accroît l'ATQ de givre de **1,5%** pendant **5**secondes toutes les **3**secondes. Cumulable jusqu'à **10**fois."
+			},
+			{
 				"text": "Journal de bord: La soi-disant justice",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Finalement, ce n'est pas un démon",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Lien de glace",
+				"stage": 4000,
+				"trait": "Lorsque vous rejoignez un combat, accroît l'ATQ de givre de **2,4%** pendant **5**secondes toutes les **3**secondes. Cumulable jusqu'à **10**fois. Confère également Hypercorps et immunise contre les effets de contrôle dans le domaine de givre."
 			}
 		],
 		"id": "imitation_28"
@@ -739,12 +979,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Tian Lang: Tonnerre concentré",
+				"stage": 1200,
+				"trait": "Chaque utilisation d'une compétence d'arme de foudre ou d'une compétence de décharge octroie **1**tentative d'esquive gratuite, jusqu'à un maximum de **2**tentatives. Lorsqu'une compétence d'arme de foudre et une compétence de décharge sont utilisées simultanément, les dégâts de foudre sont accrus de **12%** pendant **8**secondes. L'effet ne peut pas être cumulé."
+			},
+			{
 				"text": "Journal de bord: fleur de lune",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Rêve d'étoiles",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Tian Lang: Coup de tonnerre",
+				"stage": 4000,
+				"trait": "Chaque utilisation d'une compétence d'arme de foudre ou d'une compétence de décharge octroie **1**tentative d'esquive gratuite, jusqu'à un maximum de **3**tentatives. Lorsqu'une compétence d'arme de foudre et une compétence de décharge sont utilisées simultanément, les dégâts de foudre sont accrus de **18%** pendant **8**secondes. L'effet ne peut pas être cumulé."
 			},
 			{
 				"stage": 4500
@@ -785,12 +1035,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Gaz (boum!)",
+				"stage": 1200,
+				"trait": "Chaque fois qu'Explosion de gaz touche **1**ennemi, accroît les dégâts de Croix de trèfle de **8%** pendant **20**secondes. Cumulable jusqu'à **2**fois."
+			},
+			{
 				"text": "Journal de bord: à l'autre bout de la ligne",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Mon maître",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Gaz (booooum!)",
+				"stage": 4000,
+				"trait": "Chaque fois qu'Explosion de gaz touche **1**ennemi, accroît les dégâts de Croix de trèfle de **15%** pendant **20**secondes. Cumulable jusqu'à **2**fois."
 			},
 			{
 				"stage": 4500
@@ -831,12 +1091,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Anisoptère",
+				"stage": 1200,
+				"trait": "Accroît les dégâts finaux de **13%** pendant **12**secondes après avoir utilisé une compétence d'arme."
+			},
+			{
 				"text": "Journal de bord: nom de code d'opération",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: vous et moi",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Lépidoptère",
+				"stage": 4000,
+				"trait": "Accroît les dégâts finaux de **18%** pendant **18**secondes après avoir utilisé une compétence d'arme. Si Aile inflexible est avancé à 1étoile, vous recevez le soutien d'Alyss lorsque vous utilisez une compétence d'arme **physique/de feu/de foudre** dans le Champ glaçant, invoquant Alyss afin qu'elle lance une compétence de décharge sur le terrain équivalente à l'utilisation d'une compétence de décharge par un Explorateur. La compétence qui déclenche la compétence de décharge sera utilisée à nouveau."
 			},
 			{
 				"stage": 4500
@@ -877,12 +1147,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Umi : Beau spectacle",
+				"stage": 1200,
+				"trait": "Accroît les dégâts finaux de **12%** pendant **30** secondes lorsqu'Umi utilise **C'est l'heure de la magie**. Effet non cumulable."
+			},
+			{
 				"text": "Journal de bord: Image virtuelle",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Premier contact",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Umi : Sacrée performance",
+				"stage": 4000,
+				"trait": "Accroît les dégâts finaux de **18%** pendant **30** secondes lorsqu'Umi utilise **C'est l'heure de la magie**. Effet non cumulable."
 			},
 			{
 				"stage": 4500
@@ -923,12 +1203,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: DimensionX",
+				"stage": 1200,
+				"trait": "Accroît les dégâts finaux de **13%**. S'active en équipant **2** armes d'éléments différents. Accroît les dégâts finaux de **18%**. S'active en équipant **3**armes d'éléments différents."
+			},
+			{
 				"text": "Journal de bord: la famille de Fenrir",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Fenrir vous cherche",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: DimensionZ",
+				"stage": 4000,
+				"trait": "Accroît les dégâts finaux de **18%**. S'active en équipant **2** armes d'éléments différents. Accroît les dégâts finaux de **23%**. S'active en équipant **3**armes d'éléments différents."
 			},
 			{
 				"stage": 4500
@@ -969,12 +1259,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Feu déchaîné",
+				"stage": 1200,
+				"trait": "Pendant Résonance de fortitude, réduit les dégâts de feu et de givre reçus par vous et les membres du groupe dans le Domaine vermillon de **16%**."
+			},
+			{
 				"text": "Journal de bord: Terre des calamités",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Destin commun",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Flammes immenses",
+				"stage": 4000,
+				"trait": "Pendant Résonance de fortitude, réduit les dégâts de feu et de givre reçus par vous et les membres du groupe dans le Domaine vermillon de **24%**, et accroît les dégâts finaux de **8%**."
 			},
 			{
 				"stage": 4500
@@ -1015,12 +1315,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Gelée",
+				"stage": 1200,
+				"trait": "Après avoir équipé Le Précieux, accroît les dégâts finaux de **10%**. En utilisant Le Précieux, accroît la fracture de **20%**."
+			},
+			{
 				"text": "Journal de bord: Transparence",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Côte à côte",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Plumes de mue",
+				"stage": 4000,
+				"trait": "Après avoir équipé Le Précieux, accroît les dégâts finaux de **15%**. En utilisant Le Précieux, accroît la fracture de **45%**."
 			},
 			{
 				"stage": 4500
@@ -1061,12 +1371,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Scintillement",
+				"stage": 1200,
+				"trait": "Accroît les dégâts finaux de **16%**."
+			},
+			{
 				"text": "Journal de bord : Innars",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: le Chant du courage",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Reflet de lune",
+				"stage": 4000,
+				"trait": "Accroît les dégâts finaux de **18%**.\r\n**Renforcement de Technique de dispersion:**\r\nRenforcement d'Hydroconcentration: accroît tous les dégâts élémentaires de **12%**.\r\nRenforcement de Vortex: si **Bracelet lunétoile** se trouve dans l'emplacement principal, les dégâts de Vortex sont accrus de **30%**.\r\nRenforcement de Force torrentielle: accroît les dégâts de décharge de **12%**.\r\nRenforcement de Maelström: inflige jusqu'à **33%** de dégâts finaux supplémentaires (atteint le maximum au bout de 10secondes) quand vous infligez des dégâts physiques sous l'effet de Maelström.\r\nRenforcement de Chaînes aquatiques: accroît la durée de Prison aquatique jusqu'à **5**secondes lorsque l'effet de Résonance de bénédiction est actif, et la réduction de la résistance de base de Prison aquatique passe à **10%**.\r\nRenforcement de Source: la résistance est accrue selon la formule (**PV max**/**100000**)% lorsque l'effet de Résonance de fortitude est actif, jusqu'à un maximum de **10%**."
 			},
 			{
 				"stage": 4500
@@ -1107,12 +1427,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Gnonno : Ondulations",
+				"stage": 1200,
+				"trait": "Après que **Frappe du groupe d'exploration** a déclenché **Rage totale**, augmente les dégâts finaux de **12%** pendant **30** secondes."
+			},
+			{
 				"text": "Journal de bord : Histoires d'aventures",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord : Aperçu de l'île fantôme",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Gnonno : Raz-de-marée",
+				"stage": 4000,
+				"trait": "Après que **Frappe du groupe d'exploration** a déclenché **Rage totale**, augmente les dégâts finaux de **23%** pendant **30** secondes.\r\nPendant la plongée, augmente la vitesse de déplacement de **50%**."
 			},
 			{
 				"stage": 4500
@@ -1153,12 +1483,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Synergie",
+				"stage": 1200,
+				"trait": "Accroît de **6%** les dégâts de foudre pour **chaque** arme de foudre équipée."
+			},
+			{
 				"text": "Journal de bord : Pluie amère",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord : Réapparition",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Illumination",
+				"stage": 4000,
+				"trait": "Accroît de **8%** les dégâts de foudre pour **chaque** arme de foudre équipée. La durée pendant laquelle les entités de l'Entrespace sont contrôlées par Sceau passe à **120** secondes."
 			},
 			{
 				"stage": 4500
@@ -1199,12 +1539,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Comptage d'encre",
+				"stage": 1200,
+				"trait": "Augmente les dégâts finaux de **13%**. Lorsque **Comète de pin** est dans l'emplacement main libre, la fréquence d'attaque de **Plume de moineau** passe à **1** par seconde."
+			},
+			{
 				"text": "Journal de bord: Détails complexes",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Grandir",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Pinceau du destin",
+				"stage": 4000,
+				"trait": "Augmente les dégâts finaux de **18%**. Lorsque **Comète de pin** est dans l'emplacement main libre, la fréquence d'attaque de **Plume de moineau** passe à **1** par seconde.\r\nLorsque **Plume de moineau** frappe et déclenche l'effet de propagation, elle propage en plus **Brûlure ionique** et **Brûlure croisée**.\r\nEn jeu en équipe, les dégâts infligés à la cible aggro sont réduits de **5%**. Lorsque Résonance de fortitude est activée, la réduction des dégâts augmente jusqu'à **8%**."
 			},
 			{
 				"stage": 4500
@@ -1245,12 +1595,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Qi stable",
+				"stage": 1200,
+				"trait": "Accroît les dégâts finaux de **13%**.\r\nSous la forme **Artiste martial**, accroît les dégâts finaux de **7%** supplémentaires.\r\nSous la forme **Force de balayage**, pour **chaque** arme de givre équipée, accroît les dégâts infligés de **9%** en consommant **Esprit combatif**. Quand **3**armes de givre sont équipées, accroît les dégâts de givre de **8%**."
+			},
+			{
 				"text": "Journal de bord: Anecdotes sur les arts martiaux",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Conversation profonde",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Attention",
+				"stage": 4000,
+				"trait": "Accroît les dégâts finaux de **18%**.\r\nSous la forme **Artiste martial**, accroît les dégâts finaux de **7%** supplémentaires.\r\nSous la forme **Force de balayage**, pour **chaque** arme de givre équipée, accroît les dégâts infligés de **9%** en consommant **Esprit combatif**. Quand **3**armes de givre sont équipées, accroît les dégâts de givre de **8%**."
 			},
 			{
 				"stage": 4500
@@ -1291,12 +1651,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Exploration intérieure",
+				"stage": 1200,
+				"trait": "Accroît les dégâts finaux de **12%**.\r\nL'ATQ physique basique de l'Explorateur passe à la valeur la plus élevée parmi son ATQ physique, de feu, de givre ou de foudre de base. Lorsque **Tortue d'onyx** est équipée dans l'emplacement d'arme principal, les dégâts des attaques normales augmentent de **30%**."
+			},
+			{
 				"text": "Journal de bord: un homme sans passé",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: originaire du futur",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Altruiste",
+				"stage": 4000,
+				"trait": "Accroît les dégâts finaux de **18%**.\r\nL'ATQ physique basique de l'Explorateur passe à la valeur la plus élevée parmi son ATQ physique, de feu, de givre ou de foudre de base. Lorsque **Tortue d'onyx** est équipée dans l'emplacement d'arme principal, les dégâts des attaques normales augmentent de **50%**."
 			},
 			{
 				"stage": 4500
@@ -1337,12 +1707,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Attelles en bambou",
+				"stage": 1200,
+				"trait": "Accroît les dégâts finaux de **13%**.\r\nQuand **3**armes de foudre sont équipées, accroît les dégâts de foudre de **6%**."
+			},
+			{
 				"text": "Journal de bord : bambou adulte",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord : Ciel bleu",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Brillance de jade",
+				"stage": 4000,
+				"trait": "Accroît les dégâts finaux de **18%**.\r\nQuand **3**armes de foudre sont équipées, accroît les dégâts de foudre de **6%**, et la durée du bonus de taux de crit est prolongée de **25**secondes supplémentaires."
 			},
 			{
 				"stage": 4500
@@ -1383,12 +1763,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Lame de surveillance",
+				"stage": 1200,
+				"trait": "Augmente les dégâts finaux de **13%**. Quand **Tigre d'albâtre** est équipé, accroît les dégâts de givre de **1%** pour **chaque** arme de givre équipée."
+			},
+			{
 				"text": "Journal de bord: Charge du chef de garde",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Musique et passion",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Lame de gouvernance",
+				"stage": 4000,
+				"trait": "Accroît les dégâts finaux de **18%**.\r\nQuand **Tigre d'albâtre** est équipé, confère une immunité aux dégâts pendant **4**secondes en utilisant **Technique de l'épée: Appel glacé** (non disponible en Ligue ultime). Accroît les dégâts de givre de **2.5%** pour **chaque** arme de givre équipée. Quand **3**armes de givre sont équipées, confère une recharge d'arme de **350** supplémentaire lorsque l'Explorateur utilise une compétence d'arme de givre. Après avoir utilisé une compétence ou une décharge d'arme de givre autre que celle de **Tigre d'albâtre**, inflige aux cibles proches des dégâts supplémentaires équivalant à **1456%** de l'ATQ."
 			},
 			{
 				"stage": 4500
@@ -1429,12 +1819,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Danse du lotus",
+				"stage": 1200,
+				"trait": "Après avoir utilisé **Tourbillon**, pour **chaque** arme de feu équipée, les dégâts finaux sont accrus de **4.5%** pendant **30**secondes."
+			},
+			{
 				"text": "Journal de bord: Dans le passé",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Événements récents",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Ombre noire",
+				"stage": 4000,
+				"trait": "Après avoir utilisé **Tourbillon**, pour **chaque** arme de feu équipée, les dégâts finaux sont accrus de **9%** pendant **30**secondes."
 			},
 			{
 				"stage": 4500
@@ -1475,12 +1875,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Carillon",
+				"stage": 1200,
+				"trait": "Accroît les effets de soin reçus de **15%**."
+			},
+			{
 				"text": "Journal de bord: Chat virtuel",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Du papier à la réalité",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: État instable",
+				"stage": 4000,
+				"trait": "Accroît les effets de soin reçus de **30%**."
 			}
 		],
 		"id": "imitation_33"
@@ -1500,12 +1910,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Mélodie de départ",
+				"stage": 1200,
+				"trait": "Accroît les dégâts finaux de **13%**."
+			},
+			{
 				"text": "Journal de bord: Se rapprocher au fil des jours",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: Mélodies esseulées sur une corde solitaire",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Note persistante",
+				"stage": 4000,
+				"trait": "Augmente les dégâts finaux de **18%**.\r\nQuand **Bambou noir** est dans l'emplacement principal, accroît tous les dégâts élémentaires de **8%** pour **chaque** arme non altérée équipée."
 			},
 			{
 				"stage": 4500
@@ -1546,12 +1966,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Règlement",
+				"stage": 1200,
+				"trait": "Augmente les dégâts finaux de **14%**. Pour chaque arme physique équipée, les dégâts d'attaque normale d'**Équilibre** sont accrus de **15%**, jusqu'à un maximum de **30%**."
+			},
+			{
 				"text": "Journal de bord: nouveaux changements",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: croire en soi-même",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Commande",
+				"stage": 4000,
+				"trait": "Augmente les dégâts finaux de **18%**. Lorsqu'**Équilibre** est équipé, augmente les dégâts physiques infligés aux cibles ayant moins de **80%** de PV de **10%**. Pour chaque arme physique équipée, augmente les dégâts de l'attaque normale d'**Équilibre** de **30%**, jusqu'à **60%**."
 			},
 			{
 				"stage": 4500
@@ -1592,12 +2022,22 @@
 				"stage": 600
 			},
 			{
+				"text": "Attribut: Fluorescence",
+				"stage": 1200,
+				"trait": "Accroît les dégâts finaux de **13%**."
+			},
+			{
 				"text": "Journal de bord: germe de gemmes",
 				"stage": 2000
 			},
 			{
 				"text": "Journal de bord: bourgeon de gemmes",
 				"stage": 3000
+			},
+			{
+				"text": "Attribut: Éclat",
+				"stage": 4000,
+				"trait": "Augmente les dégâts finaux de **18%**. Lorsque Badge du pacte de Metz est équipé, augmente les dégâts finaux de **8%** supplémentaires. Lorsque **Résonance de bénédiction** est active, augmente les dégâts finaux des coéquipiers proches. Effet non cumulable."
 			},
 			{
 				"stage": 4500

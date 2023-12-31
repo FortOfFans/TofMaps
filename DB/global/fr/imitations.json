@@ -54,6 +54,11 @@
 			"garageKit",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 刘一蕾",
 			"jp": " 野中 藍",
@@ -79,7 +84,7 @@
 			{
 				"name": "Somniloquie",
 				"description": "Les scientifiques sont impuissants dans leurs rêves, où la logique et les lois de la nature n'ont plus d'importance. En revanche, les personnes qui ont conservé une imagination enfantine peuvent beaucoup s'amuser.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_52",
 				"assets": {
@@ -148,6 +153,11 @@
 			"restrictedGoods",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 前田佳織里",
@@ -158,13 +168,13 @@
 		"awakening": [
 			{
 				"name": "Règlement",
-				"description": "Augmente les dégâts finaux de **14%**. Pour chaque arme physique équipée, les dégâts d'attaque normale d'**Équilibre** sont accrus de **10%**, jusqu'à un maximum de **20%**.",
+				"description": "Augmente les dégâts finaux de **14%**. Pour chaque arme physique équipée, les dégâts d'attaque normale d'**Équilibre** sont accrus de **15%**, jusqu'à un maximum de **30%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao_2x.webp",
 				"need": 1200
 			},
 			{
 				"name": "Commande",
-				"description": "Augmente les dégâts finaux de **18%**. Lorsqu'**Équilibre** est équipé, augmente les dégâts physiques infligés aux cibles ayant moins de **80%** de PV de **10%**. Pour chaque arme physique équipée, augmente les dégâts de l'attaque normale d'**Équilibre** de **20%**, jusqu'à **40%**.",
+				"description": "Augmente les dégâts finaux de **18%**. Lorsqu'**Équilibre** est équipé, augmente les dégâts physiques infligés aux cibles ayant moins de **80%** de PV de **10%**. Pour chaque arme physique équipée, augmente les dégâts de l'attaque normale d'**Équilibre** de **30%**, jusqu'à **60%**.",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao.webp",
 				"need": 4000
 			}
@@ -228,6 +238,11 @@
 			"everydayObjects",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 张安琪",
 			"jp": " 石田 嘉代",
@@ -253,7 +268,7 @@
 			{
 				"name": "Douce mélodie",
 				"description": "Sous le ciel dégagé et les pétales qui flottent au vent, les bambous nichés sous les avant-toits chantent une paisible mélodie. Au son de la cithare et de la flûte, au cœur des pavillons et des terrasses, ces instants semblent perdurer un peu plus longtemps.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_49",
 				"assets": {
@@ -322,6 +337,11 @@
 			"decorate",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " kiyo",
 			"jp": " 原 由実",
@@ -347,7 +367,7 @@
 			{
 				"name": "Givre estival",
 				"description": "Le givre d'été s'épanouit sous les doux rayons du soleil.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_43",
 				"assets": {
@@ -416,6 +436,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 陈彦亦",
 			"jp": " 田中 理恵",
@@ -496,6 +521,11 @@
 			"garageKit",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 新井 里美",
@@ -521,7 +551,7 @@
 			{
 				"name": "Bosquet serein",
 				"description": "Sous une brise fraîche, dans la sereine bambouseraie.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_41",
 				"assets": {
@@ -591,6 +621,8 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 马洋",
 			"jp": " 中村 悠一",
@@ -616,7 +648,7 @@
 			{
 				"name": "Zeke",
 				"description": "Après avoir vraisemblablement été longtemps coupée du monde et s'être peut-être même plongée dans de l'encre pour contempler la véritable essence de l'élégance, Liu Huo nous revient. Son aura, visiblement renforcée, dénote une compréhension approfondie de ce qu'est la grâce… Une transformation notable.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_50",
 				"assets": {
@@ -685,6 +717,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 秦文静",
 			"jp": " 柚木 涼香",
@@ -765,6 +802,11 @@
 			"metal",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 葛子瑞",
 			"jp": " 徳井 青空",
@@ -790,7 +832,7 @@
 			{
 				"name": "Encrier raffiné",
 				"description": "Après avoir vraisemblablement été longtemps coupée du monde et s'être peut-être même plongée dans de l'encre pour contempler la véritable essence de l'élégance, Liu Huo nous revient. Son aura, visiblement renforcée, dénote une compréhension approfondie de ce qu'est la grâce… Une transformation notable.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_37",
 				"assets": {
@@ -858,6 +900,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 穆雪婷",
 			"jp": " 三石 琴乃",
@@ -883,7 +930,7 @@
 			{
 				"name": "Éclipse brillante",
 				"description": "Continuation et destruction se confondent dans son unique pensée.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_48",
 				"assets": {
@@ -952,6 +999,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 常丹瑞",
 			"jp": " 釘宮 理恵",
@@ -1032,6 +1084,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 刘雪",
 			"jp": " 石見 舞菜香",
@@ -1057,7 +1114,7 @@
 			{
 				"name": "Honneur étoilé",
 				"description": "La lune et les étoiles, juste pour vous.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_36",
 				"assets": {
@@ -1127,6 +1184,10 @@
 			"Vera",
 			"Asshai"
 		],
+		"dislike": [
+			"Jiuyu"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 沐霏",
 			"jp": " 梶原 岳人",
@@ -1208,6 +1269,10 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 陈雨",
 			"jp": " 内田 真礼",
@@ -1233,7 +1298,7 @@
 			{
 				"name": "Fleur d'ivoire",
 				"description": "Merci de faire preuve de courage et de me tenir la main, même face au danger.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_34",
 				"assets": {
@@ -1302,6 +1367,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 孙艳琦",
 			"jp": " 丹下 桜",
@@ -1327,7 +1397,7 @@
 			{
 				"name": "Chocolat blanc onctueux",
 				"description": "En hiver, il est nécessaire de vous recouvrir d'un ensemble complet de vêtements duveteux, y compris vos oreilles ! N'oubliez pas non plus de vous vaporiser de parfum sucré et lacté au chocolat blanc avant de sortir !",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_32",
 				"assets": {
@@ -1395,6 +1465,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 刘雯",
 			"jp": " M・A・O",
@@ -1420,7 +1495,7 @@
 			{
 				"name": "Paradis du millet",
 				"description": "Un costume qu'Umi a commandé pour une représentation assez formelle, dans laquelle elle incarnera l'héritière du château du millet et fera rêver les \"invités\" qui tomberont sur cet endroit.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_31",
 				"assets": {
@@ -1489,6 +1564,11 @@
 			"restrictedGoods",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Aile inflexible",
 		"va": {
 			"cn": " 杜晴晴",
 			"jp": " 安済 知佳",
@@ -1514,7 +1594,7 @@
 			{
 				"name": "Rayon-platine",
 				"description": "Peu de temps après avoir guéri le mal de tête d'Alyss, le département des sciences et de la technologie de Mirroria a découvert des informations dans l'Aile inflexible. Ils ont réussi à créer une armure en platine qui diffère de l'Anisoptère ou du Lépidoptère en reconstituant les données et en les important dans l'Aile inflexible.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_30",
 				"assets": {
@@ -1584,6 +1664,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Croix de trèfle",
 		"va": {
 			"cn": " 洪海天",
 			"jp": " 黒沢 ともよ",
@@ -1609,7 +1694,7 @@
 			{
 				"name": "Pas peur du soleil",
 				"description": "Les rayons UV sont l'ennemi de la peau… Mais elle semble aimer les bains de soleil.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "Objets à récupérer dans la boutique",
 				"simulacrumId": "imitation_26",
 				"assets": {
@@ -1678,6 +1763,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Brise-tonnerre",
 		"va": {
 			"cn": " 淦子齐",
 			"jp": " 石川 界人",
@@ -1756,6 +1846,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Vesper",
 		"va": {
 			"cn": " 常佳梦",
 			"jp": " 大原 さやか",
@@ -1836,6 +1931,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Cache limitée",
 		"va": {
 			"cn": " 陈婷婷",
 			"jp": " 南條 愛乃",
@@ -1861,7 +1961,7 @@
 			{
 				"name": "Ombre estivale",
 				"description": "Même cette personne réputée très occupée de Mirroria profite de temps en temps d'un moment de repos au bord de la piscine de luxe.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1874,7 +1974,7 @@
 			{
 				"name": "Cœur azur",
 				"description": "\"Peut-être que je porterais ça si j'étais allée à Innars pour le travail, plutôt que de rester à Mirroria.\" C'est peut-être la réalité d'un autre univers.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1943,6 +2043,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Flux de cœur",
 		"va": {
 			"cn": " 唐小喜",
 			"jp": " 雨宮 天",
@@ -1968,7 +2073,7 @@
 			{
 				"name": "Blanc pur ultime",
 				"description": "\"Justice ultime ! Bravoure ultime ! Les Guerriers ultimes garants de la protection ultime de Noctipolis ! Élégants, purs, puissants ! Super, super ultimes !\"",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_22",
 				"assets": {
@@ -2037,6 +2142,11 @@
 			"toy",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "Étincelle",
 		"va": {
 			"cn": " 赵爽",
 			"jp": " 小倉 唯",
@@ -2062,7 +2172,7 @@
 			{
 				"name": "Chant pourpre",
 				"description": "La petite fille a reçu cette cape rouge de sa sœur. Waouh, elle est tellement excitée qu'elle a oublié de cacher sa queue !",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_21",
 				"assets": {
@@ -2130,6 +2240,8 @@
 			"metal",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "Balmung",
 		"va": {
 			"cn": " 杨梦露",
 			"jp": " 伊藤 静",
@@ -2210,6 +2322,8 @@
 			"decorate",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "Venus",
 		"va": {
 			"cn": " 宋媛媛",
 			"jp": " 戸松 遥",
@@ -2235,7 +2349,7 @@
 			{
 				"name": "Shirli",
 				"description": "C'est une image extraite d'un souvenir… Ce n'est qu'une illusion.",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_17",
 				"assets": {
@@ -2303,6 +2417,8 @@
 			"game",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Cube du néant",
 		"va": {
 			"cn": " 蔡海婷",
 			"jp": " 村瀬 歩",
@@ -2363,6 +2479,8 @@
 			"decorate",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "Pilon",
 		"va": {
 			"cn": " 王燕华",
 			"jp": " 小清水 亜美",
@@ -2442,6 +2560,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Lame de la rose",
 		"va": {
 			"cn": " 秦紫翼",
 			"jp": " 石川 由依",
@@ -2502,6 +2622,8 @@
 			"restrictedGoods",
 			"game"
 		],
+		"dislike": [],
+		"unlockInfo": "Hallebarde foudroyante",
 		"va": {
 			"cn": " 曹雅雯",
 			"jp": " 大久保 瑠美",
@@ -2581,6 +2703,8 @@
 			"game",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "Étoiles EM doubles",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 水樹 奈々",
@@ -2661,6 +2785,8 @@
 			"game",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Bouclier fournaise V2",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 高橋 李依",
@@ -2741,6 +2867,8 @@
 			"restrictedGoods",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Cordes de plumes givrées",
 		"va": {
 			"cn": " 徐徐",
 			"jp": " 小原 好美",
@@ -2821,6 +2949,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Chakram des mers",
 		"va": {
 			"cn": " 蔡娜",
 			"jp": " 小澤 亜李",
@@ -2901,6 +3031,8 @@
 			"Rarity",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Faux du corbeau",
 		"va": {
 			"cn": " 唐子晰",
 			"jp": " 松岡 禎丞",
@@ -2981,6 +3113,8 @@
 			"collection",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Revolver flamboyant",
 		"va": {
 			"cn": " 陈睿婕",
 			"jp": " 川澄 綾子",
@@ -3006,7 +3140,7 @@
 			{
 				"name": "Intuition argentée",
 				"description": "C'est dur de trouver un équilibre entre ses vêtements sophistiqués et ses tenues de travail. Elle est la seule à être convaincue que l'art véritable naît d'un mélange de pragmatisme et de créativité…",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "À partir des événements",
 				"simulacrumId": "imitation_10",
 				"assets": {
@@ -3075,6 +3209,8 @@
 			"decorate",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "Zéro absolu",
 		"va": {
 			"cn": " 胡婷婷",
 			"jp": " 鬼頭 明里",
@@ -3155,6 +3291,8 @@
 			"Rarity",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Lame Guren",
 		"va": {
 			"cn": " 贺文潇",
 			"jp": " 小松 未可子",
@@ -3235,6 +3373,8 @@
 			"garageKit",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "Lames de tonnerre",
 		"va": {
 			"cn": " 翟巍",
 			"jp": " 岡本 信彦",
@@ -3295,6 +3435,8 @@
 			"decorate",
 			"collection"
 		],
+		"dislike": [],
+		"unlockInfo": "Bâton des balafres",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 能登 麻美子",
@@ -3355,6 +3497,8 @@
 			"garageKit",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "L'Exterminateur",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 花澤 香菜",
@@ -3415,6 +3559,8 @@
 			"collection",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "Plume de rossignol",
 		"va": {
 			"cn": " 王晓彤",
 			"jp": " 日高 里菜",

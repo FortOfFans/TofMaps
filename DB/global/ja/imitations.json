@@ -54,6 +54,11 @@
 			"garageKit",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 刘一蕾",
 			"jp": " 野中 藍",
@@ -79,7 +84,7 @@
 			{
 				"name": "スイートドリーミング",
 				"description": "科学者とは、夢の世界では無力な存在である。なぜなら、理論や法則といったものが消えてしまうからだ。しかし童心を持つ者ならば、少なくとも夢の中で自由に楽しむことができるだろう",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_52",
 				"assets": {
@@ -148,6 +153,11 @@
 			"restrictedGoods",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 前田佳織里",
@@ -158,13 +168,13 @@
 		"awakening": [
 			{
 				"name": "規章",
-				"description": "最終ダメージ+**14%**。物理属性武器を1つ装備するごとに**規衡**の通常攻撃ダメージ+**10%**、最大で+**20%**まで。",
+				"description": "最終ダメージ+**14%**。物理属性武器を1つ装備するごとに**規衡**の通常攻撃ダメージ+**15%**、最大で+**30%**まで。",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao_2x.webp",
 				"need": 1200
 			},
 			{
 				"name": "Order",
-				"description": "最終ダメージ+**18%**。**規衡**装備時、HPが**80%**未満のターゲットにダメージを与えると自身の物理ダメージ+**10%**。また、物理属性武器を1つ装備するごとに**規衡**の通常攻撃ダメージ+**20%**、最大で+**40%**まで。",
+				"description": "最終ダメージ+**18%**。**規衡**装備時、HPが**80%**未満のターゲットにダメージを与えると自身の物理ダメージ+**10%**。また、物理属性武器を1つ装備するごとに**規衡**の通常攻撃ダメージ+**30%**、最大で+**60%**まで。",
 				"icon": "https://raw.githubusercontent.com/FortOfFans/ToF.github.io/webp/Icon/Matrix/yanmiao.webp",
 				"need": 4000
 			}
@@ -227,6 +237,11 @@
 			"everydayObjects",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 张安琪",
 			"jp": " 石田 嘉代",
@@ -252,7 +267,7 @@
 			{
 				"name": "澄冷幽音",
 				"description": "澄み渡る空の下、花は憂愁とともに落ちたり。簫音も、あずま屋もなほ麗しけれど、はかなき想いの叶うことあらんや。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_49",
 				"assets": {
@@ -320,6 +335,11 @@
 			"decorate",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " kiyo",
 			"jp": " 原 由実",
@@ -345,7 +365,7 @@
 			{
 				"name": "夏咲き霜花",
 				"description": "まばゆい太陽の下、雪華はきらめく",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_43",
 				"assets": {
@@ -413,6 +433,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 陈彦亦",
 			"jp": " 田中 理恵",
@@ -492,6 +517,11 @@
 			"garageKit",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 新井 里美",
@@ -517,7 +547,7 @@
 			{
 				"name": "Serene Grove",
 				"description": "それは澄んだ風の中に、そして幽美な竹林の中に",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_41",
 				"assets": {
@@ -586,6 +616,8 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 马洋",
 			"jp": " 中村 悠一",
@@ -611,7 +643,7 @@
 			{
 				"name": "ジーク",
 				"description": "まるで長年の隠居明けのような感覚。文雅の真髄を会得するために、心身に水墨を染み渡らせ、瞑想の末ようやく再び姿を現した榴火…今度ばかりは、気品に磨きがかかっているのがうかがえるだろうか？",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_50",
 				"assets": {
@@ -680,6 +712,11 @@
 			"collection",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 秦文静",
 			"jp": " 柚木 涼香",
@@ -759,6 +796,11 @@
 			"metal",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai",
+			"Vera"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 葛子瑞",
 			"jp": " 徳井 青空",
@@ -784,7 +826,7 @@
 			{
 				"name": "清廉潔墨",
 				"description": "まるで長年の隠居明けのような感覚。文雅の真髄を会得するために、心身に水墨を染み渡らせ、瞑想の末ようやく再び姿を現した榴火…今度ばかりは、気品に磨きがかかっているのがうかがえるだろうか？",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_37",
 				"assets": {
@@ -852,6 +894,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 穆雪婷",
 			"jp": " 三石 琴乃",
@@ -877,7 +924,7 @@
 			{
 				"name": "輝星蝕日",
 				"description": "生きるも、滅ぶも、全ては「彼女」の意のままに",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_48",
 				"assets": {
@@ -946,6 +993,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 常丹瑞",
 			"jp": " 釘宮 理恵",
@@ -1026,6 +1078,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 刘雪",
 			"jp": " 石見 舞菜香",
@@ -1051,7 +1108,7 @@
 			{
 				"name": "星空の誓い",
 				"description": "月を掬い、星を摘み、愛しき君に捧げよう",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_36",
 				"assets": {
@@ -1121,6 +1178,10 @@
 			"Vera",
 			"Asshai"
 		],
+		"dislike": [
+			"Jiuyu"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 沐霏",
 			"jp": " 梶原 岳人",
@@ -1202,6 +1263,10 @@
 			"Vera",
 			"Jiuyu"
 		],
+		"dislike": [
+			"Asshai"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 陈雨",
 			"jp": " 内田 真礼",
@@ -1227,7 +1292,7 @@
 			{
 				"name": "白花爛漫",
 				"description": "イバラの道を歩む時にも、勇気をもって私の手を握っていてくれてありがとう。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_34",
 				"assets": {
@@ -1296,6 +1361,11 @@
 			"collection",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 孙艳琦",
 			"jp": " 丹下 桜",
@@ -1321,7 +1391,7 @@
 			{
 				"name": "コットンスイーツ",
 				"description": "寒い冬は、耳まで包んでくれるフワフワコーデが必須。外出時は、甘いホワイトチョコレートの香水をシュシュッとするのもお忘れなく！",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_32",
 				"assets": {
@@ -1389,6 +1459,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 刘雯",
 			"jp": " M・A・O",
@@ -1414,7 +1489,7 @@
 			{
 				"name": "ローズミステリー",
 				"description": "ウーミィがとあるフォーマルなショーのためにオーダーしたステージ衣装。ローズ古城の継承者に扮して迷い込んだ数人の「ゲスト」に幻想的な夢を届ける",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_31",
 				"assets": {
@@ -1483,6 +1558,11 @@
 			"restrictedGoods",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "不滅の翼",
 		"va": {
 			"cn": " 杜晴晴",
 			"jp": " 安済 知佳",
@@ -1508,7 +1588,7 @@
 			{
 				"name": "白銀の煌めき",
 				"description": "アリスの頭痛が治ってから間もなく、ミラポリス科学技術部は「不滅の翼」内部で未知のデータを観測した。このデータを再構築し「不滅の翼」にインポート後、装甲を構築すると「燦めく翅」「輝く翅」形態とは違う「白銀アーマー形態」が誕生した",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_30",
 				"assets": {
@@ -1578,6 +1658,11 @@
 			"game",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "クローバークロス",
 		"va": {
 			"cn": " 洪海天",
 			"jp": " 黒沢 ともよ",
@@ -1603,7 +1688,7 @@
 			{
 				"name": "太陽なんて怖くない",
 				"description": "紫外線なんてぜんぜん気にしない！太陽の光を全身に浴びて、素敵な夏をエンジョイしよう！",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "ショップで獲得",
 				"simulacrumId": "imitation_26",
 				"assets": {
@@ -1671,6 +1756,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "破重雷槍",
 		"va": {
 			"cn": " 淦子齐",
 			"jp": " 石川 界人",
@@ -1750,6 +1840,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "夕べの祈り",
 		"va": {
 			"cn": " 常佳梦",
 			"jp": " 大原 さやか",
@@ -1829,6 +1924,11 @@
 			"decorate",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "特別限定",
 		"va": {
 			"cn": " 陈婷婷",
 			"jp": " 南條 愛乃",
@@ -1854,7 +1954,7 @@
 			{
 				"name": "夏影の舞",
 				"description": "時間に追われるミラポリスの有名人もたまには専用の高級プールでくつろぐ",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1867,7 +1967,7 @@
 			{
 				"name": "アズールハート",
 				"description": "「もしあの時ミラポリスに止まらず、インニスに行ってたら…」という可能性を示したコスチューム。もしかしたら、パラレルワールドでは現実だったのかもしれない…",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_23",
 				"assets": {
@@ -1935,6 +2035,11 @@
 			"everydayObjects",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "水流の徹心",
 		"va": {
 			"cn": " 唐小喜",
 			"jp": " 雨宮 天",
@@ -1960,7 +2065,7 @@
 			{
 				"name": "超究極の純白！",
 				"description": "「アルティメットの正義！アルティメットの勇気！アルティメットの力で夜の街を守るホワイトコア・アルティメット戦士！優雅で高潔、そして強い！超超超超超～アルティメット！」",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_22",
 				"assets": {
@@ -2029,6 +2134,11 @@
 			"toy",
 			"Vera"
 		],
+		"dislike": [
+			"Asshai",
+			"Jiuyu"
+		],
+		"unlockInfo": "スパーク",
 		"va": {
 			"cn": " 赵爽",
 			"jp": " 小倉 唯",
@@ -2054,7 +2164,7 @@
 			{
 				"name": "緋色の童謡",
 				"description": "少女は姉から送られた赤いマントを手にした。あっ、興奮しすぎてしっぽを隠すのを忘れちゃった！",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_21",
 				"assets": {
@@ -2122,6 +2232,8 @@
 			"metal",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "バルムンク",
 		"va": {
 			"cn": " 杨梦露",
 			"jp": " 伊藤 静",
@@ -2202,6 +2314,8 @@
 			"decorate",
 			"everydayObjects"
 		],
+		"dislike": [],
+		"unlockInfo": "明けの明星",
 		"va": {
 			"cn": " 宋媛媛",
 			"jp": " 戸松 遥",
@@ -2227,7 +2341,7 @@
 			{
 				"name": "「シャーリー」",
 				"description": "思い出から抜き出したイメージなんて…ただの幻想よ。",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_17",
 				"assets": {
@@ -2295,6 +2409,8 @@
 			"game",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "ネガティブキューブ",
 		"va": {
 			"cn": " 蔡海婷",
 			"jp": " 村瀬 歩",
@@ -2355,6 +2471,8 @@
 			"decorate",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "初動重撃",
 		"va": {
 			"cn": " 王燕华",
 			"jp": " 小清水 亜美",
@@ -2434,6 +2552,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "薔薇の頂",
 		"va": {
 			"cn": " 秦紫翼",
 			"jp": " 石川 由依",
@@ -2494,6 +2614,8 @@
 			"restrictedGoods",
 			"game"
 		],
+		"dislike": [],
+		"unlockInfo": "雷霆の戟",
 		"va": {
 			"cn": " 曹雅雯",
 			"jp": " 大久保 瑠美",
@@ -2573,6 +2695,8 @@
 			"game",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "超電磁二重星",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 水樹 奈々",
@@ -2653,6 +2777,8 @@
 			"game",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "V2メルトシールド",
 		"va": {
 			"cn": " 唐雅菁",
 			"jp": " 高橋 李依",
@@ -2733,6 +2859,8 @@
 			"restrictedGoods",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "霜羽の弦",
 		"va": {
 			"cn": " 徐徐",
 			"jp": " 小原 好美",
@@ -2813,6 +2941,8 @@
 			"collection",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "海の戦輪",
 		"va": {
 			"cn": " 蔡娜",
 			"jp": " 小澤 亜李",
@@ -2893,6 +3023,8 @@
 			"Rarity",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "レイヴンの大鎌",
 		"va": {
 			"cn": " 唐子晰",
 			"jp": " 松岡 禎丞",
@@ -2973,6 +3105,8 @@
 			"collection",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "フレイムリボルバー",
 		"va": {
 			"cn": " 陈睿婕",
 			"jp": " 川澄 綾子",
@@ -2998,7 +3132,7 @@
 			{
 				"name": "純白の直感",
 				"description": "美しさと動きやすさのバランスの取れたデザインって難しいんです。芸術性と実用性を兼ね備えてこそ素晴らしい作品…その姿勢を貫いているのは彼女だけです…",
-				"rarity": "LEGENDRY",
+				"rarity": 5,
 				"source": "イベントで獲得",
 				"simulacrumId": "imitation_10",
 				"assets": {
@@ -3067,6 +3201,8 @@
 			"decorate",
 			"Rarity"
 		],
+		"dislike": [],
+		"unlockInfo": "零度の指針",
 		"va": {
 			"cn": " 胡婷婷",
 			"jp": " 鬼頭 明里",
@@ -3147,6 +3283,8 @@
 			"Rarity",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "紅蓮刀",
 		"va": {
 			"cn": " 贺文潇",
 			"jp": " 小松 未可子",
@@ -3227,6 +3365,8 @@
 			"garageKit",
 			"restrictedGoods"
 		],
+		"dislike": [],
+		"unlockInfo": "迅雷の双刃",
 		"va": {
 			"cn": " 翟巍",
 			"jp": " 岡本 信彦",
@@ -3287,6 +3427,8 @@
 			"decorate",
 			"collection"
 		],
+		"dislike": [],
+		"unlockInfo": "聖痕の杖",
 		"va": {
 			"cn": " 王雅欣",
 			"jp": " 能登 麻美子",
@@ -3347,6 +3489,8 @@
 			"garageKit",
 			"toy"
 		],
+		"dislike": [],
+		"unlockInfo": "エンダー",
 		"va": {
 			"cn": " 裴致莹",
 			"jp": " 花澤 香菜",
@@ -3407,6 +3551,8 @@
 			"collection",
 			"decorate"
 		],
+		"dislike": [],
+		"unlockInfo": "夜雀の羽根",
 		"va": {
 			"cn": " 王晓彤",
 			"jp": " 日高 里菜",
